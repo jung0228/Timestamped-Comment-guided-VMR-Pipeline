@@ -6,7 +6,7 @@
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 1892,
+      "comment_index": 1121,
       "video_id": "AKEQwvaYI_k",
       "comment": "¸2:43 \"how are you guys doing, having fun? yeah?\" - \"no..\" what a beast",
       "language": "en",
@@ -19,24 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "154.0s - 160.0s",
-          "query": "VISUAL: There's a man in a suit walking into a room where four people are sitting on a couch. He shakes hands with one person who is standing up. The room has some framed pictures on the wall.AUDIO: Jimmy is speaking, saying \"hello there how you guys doing\" and then introducing himself as Jimmy. It seems like he's greeting someone off - camera. What do you think about this scene?"
+          "query": "**Visual:** The video shows a group of people in a living room setting. There are framed pictures on the walls, a couch, and a coffee table with some items on it. One person in a suit is shaking hands with another person. The room has a warm, indoor lighting.\n\n**Audio:** The audio includes a man speaking, saying \"hello there how you guys doing hello how are you I'm Jimmy nice to meet you.\""
         },
         {
           "segment_index": 2,
           "time_range": "160.0s - 166.0s",
-          "query": "VISUAL: There's a man in a suit standing up, pointing at something or someone. A little girl is sitting on a chair nearby, looking at him. In another part of the room, there are several people sitting on couches and chairs. They seem to be watching the man. The walls have some framed pictures on them.AUDIO: Someone says \"I saw you on the video how you guys doing you guys having fun yeah.\" It seems like they're talking about the people in the video. There's also a phone ringing in the background.If you want to talk more about this video or anything else related, feel free to let me know."
+          "query": "Visual: The video shows a group of people in a living room setting. There are framed pictures on the wall, a couch, and some chairs. A man in a suit is standing and talking to a group of people sitting on the couch. The people on the couch seem to be listening to him. The room has a warm, indoor lighting.\n\nAudio: There is a man speaking in the audio. He seems to be addressing the group of people on the couch. The speech is clear and audible."
         },
         {
           "segment_index": 3,
           "time_range": "166.0s - 172.0s",
-          "query": "VISUAL: There's a group of people sitting on a couch in a living room - two adults and three kids. One adult is standing up, looking at his phone. The room has some framed pictures on the wall.AUDIO: A phone rings several times, then someone answers it. It seems like there might be some conversation happening after that. What do you think about this scene?"
+          "query": "**Visual:** The scene shows several people sitting on a couch in a living room setting. There's a man standing near them holding something small in his hands. The room has framed pictures on the walls.\n\n**Audio:** A phone rings loudly, followed by someone answering it with \"hello.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 200.92029523849487
+      "processing_time": 193.15052700042725
     },
     {
-      "comment_index": 1893,
+      "comment_index": 1122,
       "video_id": "AKEQwvaYI_k",
       "comment": "3:20 My favorite part of this video I can't stop smiling just seeing Justin hugging Cody warms my heart",
       "language": "en",
@@ -49,24 +49,54 @@
         {
           "segment_index": 1,
           "time_range": "191.0s - 197.0s",
-          "query": "VISUAL: There's a girl sitting on a chair, talking on her phone. She has long hair and is wearing a pink top with brown pants and boots. Then there's a man in a suit walking into the frame from the right side.AUDIO: Someone is speaking, saying \"Who is it? Who is it?\" over and over again.What do you think about this scene? Do you have any other questions related to it?"
+          "query": "Visually, there's a person sitting in a chair, wearing a brown jacket and a white shirt with a yellow tie. They seem to be in a room with light-colored walls and some framed pictures or artwork on the wall. The person is looking to the side and appears to be in a relaxed posture. There's also a black object, possibly a piece of furniture, partially visible in the foreground.\n\nIn terms of audio, there's laughter and conversation happening. It sounds like a casual, friendly interaction."
         },
         {
           "segment_index": 2,
           "time_range": "197.0s - 203.0s",
-          "query": "VISUAL: There's a group of people sitting on a couch in a living room setting. One person is talking on the phone while another walks past them. The room has some framed pictures on the wall.AUDIO: I can hear someone speaking over background noise. It seems like there might be some kind of conversation or narration going on. What do you think about it?"
+          "query": "Visually, there are several people in a room. Some are sitting on a couch, others are standing or sitting in chairs. There are framed pictures on the wall. The people seem to be engaged in some kind of activity, possibly a game or a social gathering. The room has a cozy, lived-in feel with a mix of furniture and decor. The colors are mostly neutral, with some pops of color from clothing and objects.\n\nIn terms of audio, there's a woman speaking, and it sounds like she's interacting with the people in the room. There are also some sounds of movement and laughter, suggesting a lively and active atmosphere."
         },
         {
           "segment_index": 3,
           "time_range": "203.0s - 209.0s",
-          "query": "VISUAL: There's a man sitting on a couch with his arm around a woman. A little girl is sitting on a chair nearby. Another person walks past them. The room has some framed pictures on the wall.AUDIO: You can hear children speaking and laughing. There's also some background noise. What do you think about it?"
+          "query": "Visually, there are several people in a room. One person is sitting on a couch, another is standing and seems to be interacting with the seated person. There are framed pictures on the wall. The room has a cozy, lived-in feel with soft lighting. The people are engaged in some kind of conversation or interaction, but it's not entirely clear what they're doing.\n\nIn terms of audio, there's a child speaking, and it sounds like they're saying something like \"really?\" There's also some background noise, possibly from other people in the room or some ambient sounds like a fan or a TV."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 177.6822099685669
+      "processing_time": 258.0981936454773
     },
     {
-      "comment_index": 1894,
+      "comment_index": 1123,
+      "video_id": "AKEQwvaYI_k",
+      "comment": "That phone bro ...... ahahahahha 2:48",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 328.0,
+      "comment_timestamp": 168.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "159.0s - 165.0s",
+          "query": "Sure! So, visually, there's a group of people sitting on couches in a living room. You can see framed pictures on the walls behind them. There s also someone standing up, pointing at something or someone. The scene looks pretty casual and relaxed.Audience-wise, it seems like they re having a conversation. It feels friendly and laid-back.Anything else you noticed?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "165.0s - 171.0s",
+          "query": "**Visual:** The scene shows several people sitting on a couch in a living room setting. There's a man standing near them holding something small in his hands. The room has framed pictures on the walls.\n\n**Audio:** A phone rings loudly throughout the clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "171.0s - 177.0s",
+          "query": "**Visual:** A man in a suit is talking on his phone while walking through an office or similar indoor space. There's a framed picture hanging on the wall behind him.\n\n**Audio:** Someone is speaking on the phone, saying \"hello hello yeah she's here.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 172.56803369522095
+    },
+    {
+      "comment_index": 1124,
       "video_id": "AKEQwvaYI_k",
       "comment": "0:09 \"Just listening to his music brings her to tears.\"  Yeah, well....  This is pretty nice, though.   Ahhhhh... 1:54. That... thing... with the two fingers? Does that actually... mean anything?",
       "language": "en",
@@ -79,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "0.0s - 6.0s",
-          "query": "VISUAL: There's a man in a suit standing on a stage with a cityscape background. He seems to be talking or presenting something. The lighting is focused on him, making him stand out against the darker backdrop.AUDIO: Someone is speaking, probably narrating or introducing the video about a three - year - old girl named Cody. It sounds like they're explaining that it's a popular YouTube video in their office.So, what do you think about this video? Do you have any other questions related to it?"
+          "query": "Visually, there's a man in a suit standing against a backdrop that looks like an office or studio with desks and chairs. The lighting is dim, creating a somewhat formal atmosphere.\n\nAudio-wise, it seems to be someone speaking, likely a host or presenter, but without more details about the content of the speech, I can't say much else. There aren't any noticeable background noises or music."
         },
         {
           "segment_index": 2,
           "time_range": "6.0s - 12.0s",
-          "query": "VISUAL: There's a man in a suit standing on a stage with a cityscape background. He seems to be talking or presenting something. The lighting is focused on him, making him stand out against the darker backdrop.AUDIO: A woman is speaking about being so in love with Justin Bieber that just listening to his music makes her cry. It's a straightforward statement without any other sounds like music or sound effects. So, what do you think about this? Do you have any similar experiences?"
+          "query": "**Visual:** A man in a suit is standing on a stage with a cityscape backdrop behind him. He's gesturing with his hands while speaking.\n\n**Audio:** The man is talking, likely presenting or hosting something. There doesn't seem to be any background music or other distinct sounds."
         },
         {
           "segment_index": 3,
           "time_range": "12.0s - 18.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black jacket with white patterns on it. She has a young girl with light brown hair leaning against her. The background seems to be indoors, maybe a bedroom or living room, with some furniture like a bed frame visible. The lighting is soft and warm.AUDIO: A female voice asks \"Why are you so sad honey?\" followed by another female voice saying \"Because why?\". Then there's a child speaking, but it's hard to make out what they're saying clearly.So, what do you think about this scene? Do you have any other thoughts or questions?"
+          "query": "Visually, there are two people in the video. One has long dark hair and is wearing a black jacket with a patterned design. The other has blonde hair and is wearing a brown jacket. They seem to be sitting close together, possibly on a couch or bed. The background is somewhat blurry but appears to be indoors, with some furniture or decorations visible. There's a sense of stillness, no significant movement from the people or in the background.\n\nIn terms of audio, there's a woman speaking. She seems to be asking a question, \"Why are you so sad, honey?\" in a concerned tone. There's no music or other sound effects, just the woman's voice and a bit of ambient noise, possibly from the room they're in."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 264.06731128692627
+      "processing_time": 146.3473720550537
     },
     {
-      "comment_index": 1895,
+      "comment_index": 1125,
       "video_id": "AKEQwvaYI_k",
       "comment": "3:45 she is like awww ma gawd",
       "language": "en",
@@ -109,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "216.0s - 222.0s",
-          "query": "VISUAL: There's a man in a suit standing on the right side of the frame. In front of him is a woman hugging another person. Behind them, there are some framed pictures on the wall. On the left, there are two people sitting on a couch, one of whom is holding a child. The room has light-colored walls and carpet.AUDIO: You can hear applause and laughter throughout the clip. There's also someone saying \"Oh thank you\" twice. It seems like it might be at an event or gathering where something amusing or appreciative happened. So, what do you think about this scene?"
+          "query": "**Visual:** The scene shows several people in an indoor setting with framed pictures on the walls. There's a man in a suit walking through the room, while others are seated or standing around. One person is sitting on a couch, another is holding something up to their face, possibly a phone or camera.\n\n**Audio:** There's laughter heard throughout the clip, suggesting a light-hearted or jovial atmosphere. No specific dialogue can be clearly made out from the provided information."
         },
         {
           "segment_index": 2,
           "time_range": "222.0s - 228.0s",
-          "query": "VISUAL: There's a man in a suit adjusting his tie at first. Then it shifts to a boy and a girl sitting together on a couch. The boy is talking to the girl who looks up at him. There's another person partially visible behind them. The background has some framed pictures on the wall.AUDIO: You can hear applause and then someone says \"I saw you in the video you got a lot of views.\" followed by more applause. It seems like there might be a bit of a cough or throat clearing too.If you have any other thoughts about the video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Visually, there are two people in a room. One is a man in a suit, and the other is a young girl with long hair. The man is smiling and looking at the girl, who is also smiling. The room has some framed pictures on the wall. There's a bit of movement as the girl seems to be adjusting her hair or something similar. The colors are mostly neutral, like beige walls and a brown suit.The audio includes applause and a woman speaking. The woman says something like \"I saw you in the video, you got a lot of views.\""
         },
         {
           "segment_index": 3,
           "time_range": "228.0s - 234.0s",
-          "query": "VISUAL: There's a boy and a girl sitting together. The boy is holding the girl on his lap. They seem to be having a conversation. The background has some framed pictures on the wall.AUDIO: I can hear someone speaking, but it's not clear who or what they're saying. It seems like there might be some kind of dialogue going on between them. What do you think about this? Do you have any other thoughts on the video?"
+          "query": "Visually, there are two kids in the video. One is wearing a light blue shirt and the other a pink top. They seem to be interacting closely, with the kid in the pink top leaning towards the other. The background has a beige wall with framed pictures hanging on it. The movement is mainly the kids' interaction, with the kid in pink leaning and the other looking at her.\n\nIn terms of audio, there's laughter from the kids, and then a voice says something like \"you cried a lot why were you so upset I don't know because I think you can't.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 267.65004229545593
+      "processing_time": 237.87696647644043
     },
     {
-      "comment_index": 1896,
+      "comment_index": 1126,
       "video_id": "AKEQwvaYI_k",
       "comment": "2:34 They weren’t excited at all",
       "language": "en",
@@ -139,24 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "145.0s - 151.0s",
-          "query": "VISUAL: There's a man in a suit walking down a hallway with framed pictures on the walls. He opens a door at the end of the hall.AUDIO: You can hear applause and some background noise. Then there's a door opening and closing sound. What do you think about it?"
+          "query": "**Visual:** The video shows a man in a suit walking through an office hallway. He passes by some framed pictures on the walls and a glass door. There's also another person sitting at a desk in the background.\n\n**Audio:** You can hear applause starting around 1 second into the clip, followed by a door opening and closing sound near the end."
         },
         {
           "segment_index": 2,
           "time_range": "151.0s - 157.0s",
-          "query": "VISUAL: A man in a suit walks into a room with several people sitting on a couch. There's food on a table in front of them. The room has framed pictures on the walls.AUDIO: Someone says \"hello there how you guys doing hello\" twice. It seems like a casual greeting. What do you think about it?"
+          "query": "**Visual:** The video shows a man in a suit walking down a hallway. He then enters a room where a group of people are sitting on a couch. The room has framed pictures on the walls and a coffee table with snacks. The man seems to be greeting the group.\n\n**Audio:** There's a door opening and closing sound, followed by a man saying \"hello there, how you guys doing?\" in a friendly tone."
         },
         {
           "segment_index": 3,
           "time_range": "157.0s - 163.0s",
-          "query": "VISUAL: There's a group of four people sitting on a couch in a living room. They seem to be having a meal together. Then a man in a suit walks over to a little girl who is sitting on a chair. He shakes her hand and they both smile.The background has some framed pictures on the wall.AUDIO: A man named Jimmy is speaking. He says \"How are you? I'm Jimmy, nice to meet ya. Are you doing?\" It seems like he's greeting someone he saw in a video. There's no other significant sound in the audio.So, what do you think about this video? Do you have any other questions or thoughts?"
+          "query": "Visual: The video shows an indoor setting with framed pictures on the wall. There's a man in a suit holding something out to two young girls who seem excited. One girl is sitting while the other stands beside her.\n\nAudio: A male voice says \"How are you? Nice to meet you.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 192.62309408187866
+      "processing_time": 171.82755780220032
     },
     {
-      "comment_index": 1897,
+      "comment_index": 1127,
       "video_id": "AKEQwvaYI_k",
       "comment": "3:47 lol sis is ready to take her man 😂",
       "language": "en",
@@ -169,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "218.0s - 224.0s",
-          "query": "VISUAL: There's a man in a suit handing something to a woman with long hair. They're in a room with framed pictures on the wall. Other people are sitting on a couch watching them. The woman takes the item from him and then walks away. The man adjusts his tie after giving her the item.AUDIO: You can hear applause and some indistinct speech in the background. It seems like there might be a small crowd reacting to whatever is happening in the video.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "**Visual:** The video shows a group of people in a room. There are framed pictures on the walls. A man in a suit is seen walking and interacting with others. A woman with long blonde hair is also visible. The scene appears to be indoors, possibly in a living room or office setting. The lighting is warm and the overall mood seems casual and friendly.\n\n**Audio:** There is applause and laughter heard in the background, suggesting a positive and celebratory atmosphere."
         },
         {
           "segment_index": 2,
           "time_range": "224.0s - 230.0s",
-          "query": "VISUAL: There's a boy and a girl sitting on a couch. The boy is wearing a light blue shirt over a dark one, and the girl has long hair and is in a pink top with brown sleeves. They seem to be interacting playfully. The background shows some framed pictures on the wall.AUDIO: You can hear someone speaking, saying \"you got a lot of views\" twice, and there's also laughter in the background. It seems like they're having a fun conversation or interaction. So, what do you think about it? Do you have any other thoughts or questions?"
+          "query": "**Visual:** The video shows two children interacting closely indoors. One child has long blonde hair and is wearing a light-colored top with a patterned design on it. They appear to be engaged in playful behavior, possibly tickling or playfully touching the other child's face. The background includes framed pictures on a wall.\n\n**Audio:** There is laughter heard throughout the clip, suggesting that the interaction between the children is joyful and lighthearted."
         },
         {
           "segment_index": 3,
           "time_range": "230.0s - 236.0s",
-          "query": "VISUAL: There's a boy and a girl sitting together. The boy is wearing a light blue shirt over a dark one, and the girl has on a pink top with a brown vest. They seem to be interacting playfully. The background shows some framed pictures on a wall.AUDIO: Someone is speaking, saying \"I lie why were you so upset I don't know\". It seems like they're having a conversation or an argument about something that made the other person upset. What do you think might have happened?"
+          "query": "Visually, there are two kids in a room. One is a boy in a light blue shirt and the other is a girl in a pink top and brown vest. They seem to be interacting closely, with the girl leaning towards the boy. The background has framed pictures on the wall. The scene appears to be indoors, likely in a home or school setting.\n\nIn terms of audio, there's a child speaking, but the content of what they're saying isn't clear from the provided information."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 251.35080003738403
+      "processing_time": 260.7423493862152
     },
     {
-      "comment_index": 1898,
+      "comment_index": 1128,
       "video_id": "AKEQwvaYI_k",
       "comment": "3:31 it so cute, bring back the times when he was 15-19, when he and Selena were still together...",
       "language": "en",
@@ -199,24 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "202.0s - 208.0s",
-          "query": "VISUAL: There's a man sitting on a couch with his legs crossed, holding something to his ear. A woman is sitting next to him, also holding something to her ear. In front of them, there's a child sitting on a chair, covering their face with their hands. Another person in a suit walks past them.AUDIO: I can't really tell what's being said or if there's any music or sound effects. It seems like just some background noise. So, that's about it for the audio part. What do you think about this? Do you have any other questions related to the video?"
+          "query": "Visually, there are several people in a room. One person is sitting on a couch, another is sitting in a chair, and a child is standing near the chair. The room has framed pictures on the wall. There's a sense of movement as the child seems to be interacting with the people in the room. The colors are mostly neutral, like beige and brown, with the framed pictures adding some color.\n\nIn terms of audio, there's a conversation happening. The voices are clear and seem to be in English. There are no distinct sound effects or music. The overall atmosphere seems calm and casual."
         },
         {
           "segment_index": 2,
           "time_range": "208.0s - 214.0s",
-          "query": "VISUAL: There's a little girl sitting on a chair with her hands covering her face. A man in a light-colored shirt is hugging her from behind. Another person in a suit stands nearby, smiling. The background has some framed pictures on the wall.AUDIO: You can hear applause and some indistinct speech in the background. It seems like there might be a small gathering or event going on. What do you think about it?"
+          "query": "Visually, there's a young girl sitting in a chair, looking a bit startled or surprised. A man in a suit is standing next to her, and he seems to be trying to comfort or interact with her. There are framed pictures on the wall behind them. The scene looks like it's in a room, possibly a waiting area or a small office. The colors are mostly neutral, with beige walls and dark frames on the pictures. The movement is mainly the man's gestures towards the girl, and the girl's slight movements as she reacts to the situation.Audibly, there's a sound effect that resembles a door slamming or something being knocked over. Then there's applause, which could be from an audience or a group of people reacting to something that happened in the video."
         },
         {
           "segment_index": 3,
           "time_range": "214.0s - 220.0s",
-          "query": "VISUAL: There's a man in a suit standing near two framed pictures on a wall. A girl is hugging another person who seems to be sitting down. In the background, there are some other people sitting on a couch. The room has light-colored walls and furniture.AUDIO: You can hear applause and laughter throughout the clip. It gives off a celebratory or happy vibe. So, what do you think about it? Do you have any other thoughts or questions related to this video?"
+          "query": "**Visual:** The video shows a group of people in a room. There are framed pictures on the walls. One person is sitting on a couch, while others are standing or moving around. The room has a cozy, indoor feel with soft lighting. The people seem to be interacting casually.\n\n**Audio:** There is applause and laughter heard in the background, suggesting a positive and lively atmosphere."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 240.38922929763794
+      "processing_time": 398.5133566856384
     },
     {
-      "comment_index": 1899,
+      "comment_index": 1129,
       "video_id": "AKEQwvaYI_k",
       "comment": "1:55 he dabbed before it was famous!",
       "language": "en",
@@ -229,54 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "106.0s - 112.0s",
-          "query": "VISUAL: There's a man in a suit standing on a stage with a cityscape backdrop. Then it cuts to a living room scene where two girls are on a couch, one lying down holding a pillow, and another girl is climbing onto a chair. The room has framed pictures on the wall.AUDIO: A male voice says \"Family are backstage right now we flew them out here that's Cody she's with her sisters and her mom and dad.\" It seems like he's talking about someone named Cody and their family being there for some event. So, what do you think about this video? Any thoughts or questions?"
+          "query": "**Visual:** The video shows a group of people in a living room setting. There are sofas, a chair, and some framed pictures on the wall. One person is sitting on a sofa, while another is sitting on a chair. There's a sense of casual interaction among them. The lighting is warm and the colors are mostly neutral, like beige and brown.\n\n**Audio:** The audio includes a voiceover saying, \"Family are backstage right now we flew them out here that's Cody she's with her sisters and her mom and.\" The tone is neutral, and it seems like an informative narration."
         },
         {
           "segment_index": 2,
           "time_range": "112.0s - 118.0s",
-          "query": "VISUAL: There's a young girl sitting on a chair, another one lying on a couch with her legs up. A boy is standing near them, waving his hand. Then there's a man in a suit talking in front of a cityscape background.AUDIO: Someone is speaking about Justin Bieber being backstage too. There's applause at the end.What do you think about it? Do you have any other questions related to this video?"
+          "query": "**Visual:** The video shows two people in a room. One is sitting on a couch, wearing a gray top and dark pants, with a yellow pillow beside them. The other is standing, wearing a light-colored shirt and a striped tie. The room has a cityscape visible through a window behind the standing person. There are framed pictures on the wall.\n\n**Audio:** A male voice is speaking, saying \"and what the kids don't know is is that Justin Bieber's backstage too.\""
         },
         {
           "segment_index": 3,
           "time_range": "118.0s - 124.0s",
-          "query": "VISUAL: There's a man in a suit standing on a stage with a cityscape backdrop. He seems to be talking or presenting something. The lighting is focused on him, making him stand out against the darker background.AUDIO: You can hear applause and cheering from an audience, along with some speech that might be from the same person on stage. It gives off a lively, celebratory vibe.What do you think about it? Any thoughts or questions?"
+          "query": "Visual: The image shows a man standing on a stage or set that resembles a talk show environment. He is dressed formally in a dark suit with a white shirt and a striped tie. The background features an out-of-focus cityscape at night, with illuminated buildings visible.\n\nAudio: There is applause heard from an unseen audience, suggesting that the man has just finished speaking or performing something noteworthy."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 228.90536499023438
+      "processing_time": 189.2687907218933
     },
     {
-      "comment_index": 1900,
-      "video_id": "AKEQwvaYI_k",
-      "comment": "3:31 aww so cute 💘💖",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 15.0,
-      "comment_timestamp": 211.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "202.0s - 208.0s",
-          "query": "VISUAL: There's a man sitting on a couch with his legs crossed, holding something to his ear. A woman is sitting next to him, also holding something to her ear. In front of them, there's a child sitting on a chair, covering their face with their hands. Another person in a suit walks past them.AUDIO: I can't really tell what's being said or if there's any music or sound effects. It seems like just some background noise. So, that's about it for the audio part. What do you think about this? Do you have any other questions related to the video?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "208.0s - 214.0s",
-          "query": "VISUAL: There's a little girl sitting on a chair with her hands covering her face. A man in a light-colored shirt is hugging her from behind. Another person in a suit stands nearby, smiling. The background has some framed pictures on the wall.AUDIO: You can hear applause and some indistinct speech in the background. It seems like there might be a small gathering or event going on. What do you think about it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "214.0s - 220.0s",
-          "query": "VISUAL: There's a man in a suit standing near two framed pictures on a wall. A girl is hugging another person who seems to be sitting down. In the background, there are some other people sitting on a couch. The room has light-colored walls and furniture.AUDIO: You can hear applause and laughter throughout the clip. It gives off a celebratory or happy vibe. So, what do you think about it? Do you have any other thoughts or questions related to this video?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 242.91004014015198
-    },
-    {
-      "comment_index": 1901,
+      "comment_index": 1130,
       "video_id": "AKEQwvaYI_k",
       "comment": "03:36 Justin's hand omg",
       "language": "en",
@@ -289,24 +289,24 @@
         {
           "segment_index": 1,
           "time_range": "207.0s - 213.0s",
-          "query": "VISUAL: There's a man sitting on a couch with his arm around a woman who is sitting on a chair. A little girl is also on the chair. Then someone comes up from behind the chair and lifts it up, causing the girl to fall off. The man quickly grabs her and holds her close. In the background, there are framed pictures on the wall.AUDIO: You can hear some kind of impact sound at the beginning, followed by a child screaming. After that, there's applause and more shouting. It seems like something exciting or surprising just happened. So, what do you think about this scene?"
+          "query": "**Visual:** The video shows several people sitting on chairs in an indoor setting with framed pictures on the walls. There's a mix of adults and children. One child is standing up, appearing to be dancing or moving energetically while others watch.\n\n**Audio:** Sounds of conversation can be heard throughout the clip, along with some laughter from the group. There are no distinct music tracks or other notable sound effects."
         },
         {
           "segment_index": 2,
           "time_range": "213.0s - 219.0s",
-          "query": "VISUAL: There's an older man in a suit hugging a young girl with long hair. They're in a room with framed pictures on the wall. Another person is sitting on a couch nearby, watching them. The girl has a pink toy in her hand.AUDIO: You can hear applause and some indistinct cheering in the background. It seems like there might be a small audience present.What do you think about this scene? Do you have any other videos to analyze?"
+          "query": "Visually, there are two people hugging in a room. One is wearing a light-colored top and jeans, while the other is in a suit with a tie. The room has framed pictures on the wall and a couch. There are also other people in the background, some sitting and some standing. The scene seems to be indoors, possibly in a living room or a similar setting. The lighting is warm and the colors are soft.\n\nIn terms of audio, there is applause and laughter heard, suggesting a positive and celebratory atmosphere."
         },
         {
           "segment_index": 3,
           "time_range": "219.0s - 225.0s",
-          "query": "VISUAL: There's a man in a suit handing something to a girl with long hair. Another guy is sitting on a couch in the background. The room has framed pictures on the wall.AUDIO: You can hear applause and some speech. It seems like someone is thanking another person for getting a lot of views on a video. What do you think about it?"
+          "query": "Visually, there are a few people in a room. One person is wearing a suit and tie, and another is in a pink top. There are framed pictures on the wall. The person in the suit seems to be interacting with the person in the pink top, maybe handing something to them. The scene looks like it's in a formal or semi-formal setting, like an office or a meeting room. The colors are mostly neutral, with beige walls and dark-colored furniture. There's some movement as the people interact, but it's not very dynamic.The audio has applause and laughter, which suggests that something amusing or positive has happened. There's also some speech, but it's not clear what's being said. It seems like a light-hearted moment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 213.7754831314087
+      "processing_time": 211.76408648490906
     },
     {
-      "comment_index": 1902,
+      "comment_index": 1131,
       "video_id": "AKEQwvaYI_k",
       "comment": "4:00 \"Your life's not gonna get any better than this right now, ... This is the top,\"  Prophetic.",
       "language": "en",
@@ -319,24 +319,54 @@
         {
           "segment_index": 1,
           "time_range": "231.0s - 237.0s",
-          "query": "VISUAL: There's a boy and a girl sitting together. The boy is holding something small in his hands. They seem to be interacting with each other. In another scene, there's a man in a suit standing up. He looks like he might be talking or reacting to something.AUDIO: Someone is speaking, saying \"Why were you so upset? You've got Bieber fever.\" It seems like they're addressing someone about their reaction to Justin Bieber. What do you think about it?"
+          "query": "**Visual:** The video shows two children, a boy and a girl, standing close together indoors. They appear to be interacting playfully or affectionately. The background includes framed pictures on a wall.\n\n**Audio:** There is a child speaking, saying \"you've got Bieber fever.\""
         },
         {
           "segment_index": 2,
           "time_range": "237.0s - 243.0s",
-          "query": "VISUAL: There's a man in a suit with a yellow tie standing in an office - like setting. He has short brown hair. A woman with long blonde hair runs up to him from behind and gives him a big hug. She's wearing a black top. The background shows some framed pictures on the wall and a door. There's also an air conditioning unit on the wall.AUDIO: Someone is speaking in English. They say \"Well you have don't you? By the way your life's not gonna get any better than this right now.\" It seems like they're talking about something positive or encouraging. What do you think about it?"
+          "query": "Visually, there are two people in a room. One is wearing a suit and tie, and the other is in a more casual outfit. They seem to be interacting closely, with the person in the suit having their arm around the other. The room has some framed pictures on the wall and an air conditioning unit. The lighting is relatively dim, giving a somewhat subdued feel.Audibly, there's a man speaking. His words are somewhat unclear, but he seems to be saying something like \"what you have don't you\" and then \"by the way your life's not gonna get any better than this right now.\" The tone of his voice suggests a somewhat serious or even slightly threatening undertone."
         },
         {
           "segment_index": 3,
           "time_range": "243.0s - 249.0s",
-          "query": "VISUAL: There's a man holding a little girl in his arms. They're both smiling. Then another man in a suit appears, waving at someone off - screen. He seems to be talking while doing so.AUDIO: Someone is speaking, saying \"This is it no no this is the top everything else is you know bumpy trust.\" It's not clear who they are or where they are. But there's definitely some kind of speech going on.What do you think about this? Do you have any other videos you want me to analyze?"
+          "query": "Visually, there's a man in a suit standing indoors. He seems to be gesturing with his hand while talking. There are some framed pictures or artworks on the wall behind him. The room looks like an office or a formal setting. The lighting is bright, typical for indoor spaces.Audibly, it sounds like he's speaking, possibly giving instructions or explaining something. There might be some background noise from other people or equipment, but it's not very clear.What do you think about the scene? Any thoughts or questions?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 258.411847114563
+      "processing_time": 188.6606376171112
     },
     {
-      "comment_index": 1903,
+      "comment_index": 1132,
+      "video_id": "AKEQwvaYI_k",
+      "comment": "3:25 so cute",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 7.0,
+      "comment_timestamp": 205.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "196.0s - 202.0s",
+          "query": "Sure! So, in the video, there are a few people in a room. One person is sitting on a chair, talking on a phone. Another person is sitting on a couch, and there's also someone standing in the background. The room has some framed pictures on the wall. In the audio, you can hear people talking and laughing.Anything else you want to know about the video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "202.0s - 208.0s",
+          "query": "Visually, there are several people in a room. One person is sitting on a couch, another is sitting in a chair, and a child is standing near the chair. The room has framed pictures on the wall. There's a sense of movement as the child seems to be interacting with the people in the room. The colors are mostly neutral, like beige and brown, with the framed pictures adding some color.\n\nIn terms of audio, there's a conversation happening. The voices are clear and seem to be in English. There are no distinct sound effects or music. The overall atmosphere seems calm and casual."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "208.0s - 214.0s",
+          "query": "Visually, there's a young girl sitting in a chair, looking a bit startled or surprised. A man in a suit is standing next to her, and he seems to be trying to comfort or interact with her. There are framed pictures on the wall behind them. The scene looks like it's in a room, possibly a waiting area or a small office. The colors are mostly neutral, with beige walls and dark frames on the pictures. The movement is mainly the man's gestures towards the girl, and the girl's slight movements as she reacts to the situation.Audibly, there's a sound effect that resembles a door slamming or something being knocked over. Then there's applause, which could be from an audience or a group of people reacting to something that happened in the video."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 342.5695161819458
+    },
+    {
+      "comment_index": 1133,
       "video_id": "AKEQwvaYI_k",
       "comment": "0:12 now this is me... except it's BTS that brings me to tears when I listen to their music 😂",
       "language": "en",
@@ -349,24 +379,24 @@
         {
           "segment_index": 1,
           "time_range": "3.0s - 9.0s",
-          "query": "VISUAL: There's a man in a suit standing in front of a cityscape backdrop at night. He has his hands in his pockets and is talking. The background shows buildings with lights on.AUDIO: A male voice is speaking about a three - year - old girl named Cody who loves Justin Bieber. It seems like he might be narrating or reporting something.If you want to talk more about this or have other videos to analyze, feel free to let me know!"
+          "query": "**Visual:** The video shows a man dressed in a suit with a yellow tie standing on a stage or set that resembles a nighttime cityscape background. He appears to be speaking or presenting something.\n\n**Audio:** There is no discernible dialogue or music in the provided audio segment. It's mostly silent except for some faint background noise."
         },
         {
           "segment_index": 2,
           "time_range": "9.0s - 15.0s",
-          "query": "VISUAL: There's a man in a suit talking on stage with a cityscape background. Then it cuts to two girls sitting close together, one looking sad. One girl has her arm around the other.AUDIO: A man is speaking, saying \"Just listening to his music brings her to tears. Cody why are you so sad honey?\" It seems like there might be some music playing too, but not clearly heard.What do you think about the scene?"
+          "query": "Visually, there's a man in a suit and tie standing in what looks like a studio with a cityscape backdrop. He seems to be talking or presenting. Then, there's a quick cut to a woman and a child sitting together, looking at the camera. The woman has long hair and the child is wearing a patterned top. The scene is indoors, likely a home setting. The colors are mostly muted, with the studio having darker tones and the home scene having warmer, softer colors.Audibly, there's a man speaking, and then a woman starts talking. The man's speech is clear, and the woman's voice is also audible. There's no background music or sound effects, just the two people talking."
         },
         {
           "segment_index": 3,
           "time_range": "15.0s - 21.0s",
-          "query": "VISUAL: There's an older girl with long dark hair wearing a black jacket with white patterns on it. She has a younger girl with blonde hair leaning against her. The younger girl is also wearing a similar black jacket. They seem to be sitting close together, maybe on a bed or couch. The background looks like a bedroom with some pink elements.AUDIO: I can't really make out any specific words from the audio. It seems like there might be some kind of conversation going on, but it's too muffled to understand clearly.What do you think about the video? Do you have any other questions?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 3.95 GiB. GPU 1 has a total capacity of 23.56 GiB of which 3.21 GiB is free. Including non-PyTorch memory, this process has 20.34 GiB memory in use. Of the allocated memory 16.12 GiB is allocated by PyTorch, and 3.91 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 244.241760969162
+      "processing_time": 265.72645330429077
     },
     {
-      "comment_index": 1904,
+      "comment_index": 1134,
       "video_id": "AKEQwvaYI_k",
       "comment": "‘all my sisters wanna marry you..’  4:18 I’m dead look at the blonde girl 😂😂😂😂😭",
       "language": "en",
@@ -379,24 +409,24 @@
         {
           "segment_index": 1,
           "time_range": "249.0s - 255.0s",
-          "query": "VISUAL: There's a man in a suit walking into a room with framed pictures on the wall. Then there's a boy sitting next to a girl who is standing up. The boy is holding her hands and they seem to be having a conversation. The girl has long blonde hair and is wearing a pink top with a brown dress over it. The boy has short blondish-brown hair and is wearing a light blue shirt.AUDIO: You can hear someone saying \"me on this one\" twice, followed by laughter. It seems like a casual, friendly interaction between the two kids. So, what do you think about this scene? Do you have any other thoughts or questions?"
+          "query": "Visually, there are two people in the video. One is an adult male wearing a suit and the other is a young girl in a dress. They seem to be interacting, with the man holding the girl's hands. The background shows a room with framed pictures on the wall. The scene appears to be indoors, possibly in a home or office setting. There's a sense of movement as the man and girl are engaged in some kind of activity together.\n\nIn terms of audio, there's speech from the man and the girl. The man speaks first, and then the girl responds. The speech seems to be a conversation between them. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 2,
           "time_range": "255.0s - 261.0s",
-          "query": "VISUAL: There's a boy holding a little girl in his arms. They seem to be in an indoor setting with some framed pictures on the wall behind them. The boy is wearing a light blue shirt and the girl has long hair and is dressed in pink. Then it cuts to two women sitting together on a couch, both smiling. One woman has long dark hair and is wearing a plaid top, while the other has lighter hair and is in a gray shirt. Finally, there's a man in a suit looking down, possibly at something off - screen.AUDIO: Someone is speaking, saying \"wait a minute we're gonna have to decide who.\" It seems like they might be talking about choosing between the boy and the girl or maybe among the women. What do you think could be happening here?"
+          "query": "Visually, there's a group of kids sitting together indoors. They seem to be engaged in some playful activity or conversation. The room has light-colored walls with framed pictures hanging on them.\n\nIn terms of audio, someone is speaking, likely guiding the kids through whatever they're doing. There might also be some background noise from their activities."
         },
         {
           "segment_index": 3,
           "time_range": "261.0s - 267.0s",
-          "query": "VISUAL: There's a man in a suit looking down at something off - screen. Then it cuts to a family sitting on a couch and chairs in a living room. The family seems relaxed, with one person leaning back on the couch and others sitting upright.AUDIO: Someone is speaking, saying \"Who he's gonna marry though cuz you can't all marry Justin right? Well so who should marry him?\" It's just dialogue without any background music or sound effects.What do you think about that scene?"
+          "query": "Visually, there's a man in a suit and tie standing in a room. He seems to be looking at something or someone off to the side. In the background, there are framed pictures on the wall. There are also some people sitting on a couch, but they're not clearly visible. The room looks like a living room or an office.The audio has a conversation. One person says something about marrying Justin, and another responds that not everyone can marry Justin. Then someone asks who should marry him."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 314.7010552883148
+      "processing_time": 240.32195806503296
     },
     {
-      "comment_index": 1905,
+      "comment_index": 1135,
       "video_id": "AKEQwvaYI_k",
       "comment": "Because I know he loves me back😢😢😢 0:44",
       "language": "en",
@@ -409,24 +439,24 @@
         {
           "segment_index": 1,
           "time_range": "35.0s - 41.0s",
-          "query": "VISUAL: There's an adult and a child sitting together on a bed. The adult is wearing a black jacket with some white designs, and the child has long hair and is wearing a striped shirt. They seem to be cuddling or hugging. The background looks like a bedroom with pink walls and some furniture.AUDIO: Someone is speaking, saying \"cuz you don't get to see him all day yeah.\" It seems like they're talking about not seeing someone often. What do you think about it?"
+          "query": "Visually, there are two people in the video. One is an adult, and the other is a child. They seem to be sitting close together, possibly on a bed or a couch. The adult is wearing a dark-colored hoodie with some white patterns on it. The child is wearing a striped shirt and jeans. The background looks like a bedroom, with some pillows and a door visible. The lighting is somewhat dim, giving a cozy feel. There's not much movement from the people, just a slight shift in their positions as they interact with each other.Audibly, there's a child speaking. The child's voice is clear and seems to be talking to the adult. The adult responds, but it's not clear what they're saying. The child's voice has a playful and curious tone. There are no other distinct sounds in the audio."
         },
         {
           "segment_index": 2,
           "time_range": "41.0s - 47.0s",
-          "query": "VISUAL: There are two girls sitting close together on a bed. One girl has long dark hair and is wearing a black jacket with some white patterns. The other girl has blonde hair and is leaning her head on the first girl's shoulder. They seem to be talking or interacting in a relaxed way. The room looks like a bedroom with pink walls and some items around, like a guitar leaning against something.AUDIO: A child is speaking, saying \"What do you love Justin Bieber?\" in an excited tone. It seems like they're really into it. There's no background music or any other sound effects. Just that one question being asked.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "**Visual:** The video shows two people sitting closely together. One person has long hair and is wearing a black hoodie with a white design. The other person has blonde hair and is wearing a striped shirt. They seem to be in a room with pink walls and some furniture visible in the background. There's a sense of closeness between them, like they're sharing a moment.\n\n**Audio:** The audio features a child speaking. The child says, \"I love Justin Bieber because he loves me back.\""
         },
         {
           "segment_index": 3,
           "time_range": "47.0s - 53.0s",
-          "query": "VISUAL: There are two girls sitting close together on a bed. One girl has long dark hair and is wearing a black jacket with some white patterns. The other girl has blonde hair and is leaning her head against the first girl's shoulder. They seem to be in a bedroom with pink walls and some musical instruments like guitars or violins leaning against the wall.AUDIO: A woman is speaking, saying \"cuz you know he loves you back yeah honey.\" It seems like she might be comforting one of the girls. There's also some background noise that could be from the room itself. What do you think about it?"
+          "query": "Visually, there are two people sitting closely together. One has long hair and is wearing a dark-colored hoodie with some text on it. The other has blonde hair and is wearing a striped shirt. They seem to be in a room with pink walls and some furniture visible in the background. There's a bit of movement as they shift slightly.\n\nIn terms of audio, there's a woman speaking, and then a child starts to cry."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 270.19220328330994
+      "processing_time": 284.1432116031647
     },
     {
-      "comment_index": 1906,
+      "comment_index": 1136,
       "video_id": "AKEQwvaYI_k",
       "comment": "3:51 that voice crack though 😭",
       "language": "en",
@@ -439,24 +469,24 @@
         {
           "segment_index": 1,
           "time_range": "222.0s - 228.0s",
-          "query": "VISUAL: There's a man in a suit adjusting his tie at first. Then it shifts to a boy and a girl sitting together on a couch. The boy is talking to the girl who looks up at him. There's another person partially visible behind them. The background has some framed pictures on the wall.AUDIO: You can hear applause and then someone says \"I saw you in the video you got a lot of views.\" followed by more applause. It seems like there might be a bit of a cough or throat clearing too.If you have any other thoughts about the video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Visually, there's a man in a suit adjusting his tie while standing near some framed pictures on a wall. A woman with long blonde hair is smiling and looking at him. There s also a young girl in a brown dress with pink hearts on it nearby. The scene seems to be indoors, possibly an office or home setting.\n\nAudibly, someone says \"So we got a lot of views.\" Then another person responds with \"I cried about you.\" It feels like they're talking about something related to online content or social media."
         },
         {
           "segment_index": 2,
           "time_range": "228.0s - 234.0s",
-          "query": "VISUAL: There's a boy and a girl sitting together. The boy is holding the girl on his lap. They seem to be having a conversation. The background has some framed pictures on the wall.AUDIO: I can hear someone speaking, but it's not clear who or what they're saying. It seems like there might be some kind of dialogue going on between them. What do you think about this? Do you have any other thoughts on the video?"
+          "query": "Visually, there are two kids in the video. One is wearing a light blue shirt and the other a pink top. They seem to be interacting closely, with the kid in the pink top leaning towards the other. The background has a beige wall with framed pictures hanging on it. The movement is mainly the kids' interaction, with the kid in pink leaning and the other looking at her.\n\nIn terms of audio, there's laughter from the kids, and then a voice says something like \"you cried a lot why were you so upset I don't know because I think you can't.\""
         },
         {
           "segment_index": 3,
           "time_range": "234.0s - 240.0s",
-          "query": "VISUAL: There's a boy and a girl sitting together on a chair. The boy is wearing a light blue shirt over a dark one, and the girl has long blonde hair and is in a pink top with a brown vest. They seem to be having a conversation or interaction. Then an adult man in a suit walks into the frame from the right side.AUDIO: Someone says \"you do you've got Bieber fever is what you have don't you\" in a playful tone. It seems like they're talking about Justin Bieber fan behavior. What do you think about it?"
+          "query": "Visually, there are two people in the video. One is a boy with light brown hair, wearing a light blue shirt, and the other is a girl with long blonde hair, dressed in a pink top. They seem to be interacting closely, possibly hugging or holding each other. The background shows a beige wall with a framed picture hanging on it. There's also a black chair partially visible behind them. The scene appears to be indoors, likely in a home or office setting.\n\nIn terms of audio, there's a male voice speaking. The speech is somewhat unclear, but it seems to be in English. The man is talking about something related to \"Bieber fever, \" but the exact context is hard to determine from just these few seconds."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 222.39721155166626
+      "processing_time": 251.96298837661743
     },
     {
-      "comment_index": 1907,
+      "comment_index": 1137,
       "video_id": "AKEQwvaYI_k",
       "comment": "LOL @ 1:00 \"it's a good point! we sometimes do have to cry for Justin bieber \" jimmy's got a point xD",
       "language": "en",
@@ -469,54 +499,24 @@
         {
           "segment_index": 1,
           "time_range": "51.0s - 57.0s",
-          "query": "VISUAL: There are two girls sitting close together on a bed. One girl has long brown hair and is wearing a black jacket with white patterns. The other girl has blonde hair and is leaning her head against the first girl's shoulder. They seem to be looking at something off - camera.AUDIO: Someone says \"honey we don't have to cry because we love\" in a soft, comforting tone.If you want to talk more about this or have any other questions, feel free to let me know."
+          "query": "Visually, there are two people in the video. One has long dark hair and is wearing a black jacket with a patterned design. The other has blonde hair and is wearing a striped shirt. They seem to be sitting close together, possibly on a bed or couch. The background is somewhat blurry but appears to be an indoor setting with some furniture visible. There's a sense of stillness in their posture, suggesting they might be having a quiet moment together.\n\nIn terms of audio, there's a woman speaking. She says, \"Honey, we don't have to cry because we love.\" The tone of her voice is gentle and comforting. There's no music or other sound effects, just the woman's speech."
         },
         {
           "segment_index": 2,
           "time_range": "57.0s - 63.0s",
-          "query": "VISUAL: There's a woman with long dark hair sitting on a bed, wearing a black jacket with white patterns. A child is hugging her from behind. The background shows some furniture like a chair and a wardrobe. The lighting seems warm and indoor.AUDIO: Someone is speaking about Justin Bieber, saying \"of Justin Bieber yeah we do it's a good point we sometimes do have to cry.\" It sounds like they're having a conversation or making a statement. What do you think about that?"
+          "query": "Visual: The video shows two people sitting closely together, one with long dark hair and the other with blonde hair. They seem to be in a relaxed, indoor setting. There's a hint of a cityscape in the background, possibly through a window or on a screen. The lighting is warm and soft, suggesting a cozy atmosphere. The two people are smiling and looking at the camera, giving off a friendly vibe. There's also a chair visible in the background, and the overall color palette is warm with lots of browns and beiges.\n\nAudio: The audio features a man speaking in a calm, somewhat serious tone. He seems to be making a point or explaining something. There are no other distinct sounds or music in the background."
         },
         {
           "segment_index": 3,
           "time_range": "63.0s - 69.0s",
-          "query": "VISUAL: A man in a suit is standing on a stage with a cityscape background. He seems to be talking or presenting something. There's some kind of desk or table behind him.AUDIO: There's laughter and applause from an audience, along with some indistinct speech. It sounds like it could be a talk show or similar event.If you want to know more about this type of analysis or have other videos to analyze, feel free to ask!"
+          "query": "Visually, there's a man in a suit and tie standing in what looks like a studio with a cityscape backdrop. He seems to be speaking or presenting. There are no other people or significant objects in the frame. The lighting is focused on him, and the background is dark with some illuminated buildings.\n\nIn terms of audio, there's a man speaking, and then laughter and applause can be heard. The speech seems to be part of a monologue or presentation, and the laughter and applause suggest a positive audience reaction."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 218.13047432899475
+      "processing_time": 282.4183123111725
     },
     {
-      "comment_index": 1908,
-      "video_id": "AKEQwvaYI_k",
-      "comment": "1:35 NO!! I DO!!!!!",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 5.0,
-      "comment_timestamp": 95.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "86.0s - 92.0s",
-          "query": "VISUAL: There's a woman and a young girl sitting together on a bed. The woman has long dark hair and is wearing a black top with some designs. The girl has blonde hair and is in a striped shirt. They seem to be talking or interacting. The room looks like a bedroom with pink walls and some furniture visible.AUDIO: I can hear someone speaking, saying \"hangs out Justin Bieber\" twice. It seems like they're talking about hanging out with Justin Bieber. There's also some background noise that might be from other people or activities in the room.What do you think about it? Do you have any other thoughts or questions related to this video?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "92.0s - 98.0s",
-          "query": "VISUAL: There's a woman and a young girl sitting close together. The woman is wearing a patterned top with a dark jacket over it. The girl has long blonde hair and is also wearing a patterned top. They seem to be in an indoor setting, possibly a room with some furniture visible in the background. The camera moves closer to them as they talk.AUDIO: You can hear a child singing or speaking in the background. It seems like there might be some kind of playful or joyful atmosphere. There's no clear music or other distinct sound effects. What do you think about the scene?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "98.0s - 104.0s",
-          "query": "VISUAL: There's a man in a suit on stage with a cityscape background. He seems to be talking or presenting something. The lighting is focused on him.AUDIO: You can hear applause and some indistinct speech in the background. It gives off an atmosphere like a live show or event. So, what do you think about it? Any thoughts or questions?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 279.8142502307892
-    },
-    {
-      "comment_index": 1909,
+      "comment_index": 1138,
       "video_id": "AKEQwvaYI_k",
       "comment": "4:07 Hold the beans, did he say \"F***ing trust me\"?!?!",
       "language": "en",
@@ -529,54 +529,24 @@
         {
           "segment_index": 1,
           "time_range": "238.0s - 244.0s",
-          "query": "VISUAL: A man in a suit is holding a young girl on his back. He then puts her down gently. There's another person sitting on a couch nearby. The background has framed pictures on the wall.AUDIO: Someone is speaking, saying \"by the way your life's not gonna get any better than this it right now this is it.\" It seems like they're making a statement about the current situation being the best.So, what do you think about that? Any thoughts or questions?"
+          "query": "Visually, there are two kids hugging in a room with framed pictures on the wall. One kid is wearing a light blue shirt and the other a pink one. There's also a man in a suit and tie walking in the background. The room has a beige wall and a door. The kids seem to be in a playful or affectionate moment. The man is just casually walking through the room.\n\nAudio-wise, there's a male voice speaking. He says, \"by the way your life's not gonna get any better than this it right now this is it.\" The tone seems a bit sarcastic or dismissive. There's no music or other sound effects, just the man's voice and some faint background noise."
         },
         {
           "segment_index": 2,
           "time_range": "244.0s - 250.0s",
-          "query": "VISUAL: There's a man in a suit with a yellow tie standing in an office - like setting. He seems to be talking or reacting to something. The background has some framed pictures on the wall and an air conditioner unit. There are also two kids sitting together, one holding the other. One kid is wearing a pink top and the other a light blue shirt.AUDIO: A male voice is speaking, saying \"No no this is the top everything else is you know bumpy trust me on this one.\" It sounds like he might be explaining or emphasizing something important. There's also laughter from someone off - screen at the end.What do you think about the scene? Any thoughts or questions?"
+          "query": "Visually, there are two people in a room. One is wearing a suit and tie, and the other is in a more casual outfit. The room has some framed pictures on the wall and an air conditioner unit. The person in the suit seems to be gesturing or pointing at something, while the other person is looking at them. There's also a door visible in the background. The colors are mostly neutral, like beige walls and dark furniture. The movement is mainly the gestures of the person in the suit and the slight movements of the other person's head as they look at the suit-clad person.Audibly, there's a man speaking. His speech is clear and seems to be part of a conversation or monologue. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "250.0s - 256.0s",
-          "query": "VISUAL: There's a boy and a girl sitting together on a chair. The boy is holding something small in his hands while they both seem to be engaged in some kind of activity or conversation. The background has framed pictures on the wall.AUDIO: You can hear children speaking and laughing throughout the clip. It seems like there might be some playful interaction going on between them.What do you think about their interaction?"
+          "query": "**Visual:** The video shows a young boy and a girl sitting together in a room. The boy is wearing a light blue shirt and the girl is in a pink top with a patterned dress. They seem to be interacting with each other, possibly playing or talking. The room has framed pictures on the wall behind them. There's also a couch visible in the background.\n\n**Audio:** The audio includes a child speaking, likely the girl, and some laughter. The child seems to be saying something to the boy, and there's a playful tone to the interaction."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 270.5202167034149
+      "processing_time": 275.58697485923767
     },
     {
-      "comment_index": 1910,
-      "video_id": "AKEQwvaYI_k",
-      "comment": "bruh is no one gonna talk about how at 4:35 justin pets her hair like shes a dog like wtf",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 4.0,
-      "comment_timestamp": 275.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "266.0s - 272.0s",
-          "query": "VISUAL: There's a family sitting on a couch. A man is leaning back with his arm behind his head, while three kids sit next to him. One girl is on his lap. The room has framed pictures on the wall.AUDIO: I hear some laughter and applause in the background. It seems like there might be a show or something entertaining going on.What do you think about it? Do you have any other questions related to this video?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "272.0s - 278.0s",
-          "query": "VISUAL: There's a boy standing up, reaching out to touch a girl sitting down. Another man in a suit is also present, looking at them. The background has framed pictures on the wall.AUDIO: Someone says \"we're gonna take a break um justin bieber everybody and little cody her wish came true here.\" It seems like there might be applause or some kind of positive reaction from an audience too.If you have any other thoughts about this video or want to discuss it further, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "278.0s - 284.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 147.62329864501953
-    },
-    {
-      "comment_index": 1911,
+      "comment_index": 1139,
       "video_id": "AKEQwvaYI_k",
       "comment": "What does she say after 1:30?",
       "language": "en",
@@ -589,21 +559,51 @@
         {
           "segment_index": 1,
           "time_range": "81.0s - 87.0s",
-          "query": "VISUAL: There are two girls sitting close together on a bed. One girl has long blonde hair and is wearing a striped shirt with a heart design. The other girl has dark brown hair and is wearing a black top with white patterns. They seem to be interacting playfully. The background shows some pillows and a wall that looks like it's painted pinkish - purple.AUDIO: I can hear someone speaking, saying \"you want me keep recording you yeah crying about Justin Bieber.\" It seems like they're talking to one of the girls in the video. There's also some kind of crying or sobbing in the background, which might be from the girl who is crying about Justin Bieber.If you have any more questions about this video or anything else, feel free to let me know!"
+          "query": "Sure! So, visually, there are two girls sitting together. One girl is holding something small and pink, maybe a toy or a piece of candy. They seem to be interacting with it. The other girl looks like she's watching her friend or reacting to whatever they're doing. There s not much else going on in the background, just some furniture that suggests they re indoors.The audio? Well, I can t really make out any specific words or phrases clearly. It seems more like some kind of noise or background chatter, but nothing distinct.What do you think about the video?"
         },
         {
           "segment_index": 2,
           "time_range": "87.0s - 93.0s",
-          "query": "VISUAL: There's an adult woman holding a young girl. The woman has long dark hair and is wearing a black top with some designs on it. The girl has light brown or blonde hair and is dressed in a striped shirt. They seem to be sitting close together, possibly on a bed or couch. The background looks like a bedroom with pink walls and some furniture visible.AUDIO: I can hear a child crying and speaking in the audio. It seems like there might be some kind of interaction between the woman and the child, maybe trying to comfort her. What do you think about this scene?"
+          "query": "Visually, there are two people sitting together in a room. One appears to be an adult and the other a child. They seem to be engaged in some kind of activity or conversation. The room has a pinkish hue, possibly from lighting or decor. There's some furniture or objects in the background, but it's not very clear.\n\nIn terms of audio, there's a child speaking, and then a woman starts speaking. The child's voice is clear and seems to be saying something, while the woman's voice is also audible and likely responding to the child."
         },
         {
           "segment_index": 3,
           "time_range": "93.0s - 99.0s",
-          "query": "VISUAL: There's a young girl with long blonde hair sitting on a bed. She has a blanket around her shoulders. Another person is next to her, partially visible. The room seems to have pink walls and some pillows or blankets on the bed.AUDIO: You can hear a child speaking and laughing throughout the clip. There's also a phone ringing in the background. It gives off a playful and casual vibe.What do you think about it? Do you want to know more about something specific in the video?"
+          "query": "Visually, there are two young girls in a room. One girl has blonde hair and is wearing a pink top, while the other has darker hair and is in a black and white patterned top. They seem to be interacting with each other, possibly playing or talking. The room has a pinkish-purple wall and some furniture, like a chair or a bed, is partially visible. There's also a colorful blanket or pillow on the furniture.Action-wise, the girls are moving around a bit, their heads and bodies shift as they interact. The blonde-haired girl looks like she might be speaking or reacting to something, while the other girl seems to be listening or responding.\n\nIn terms of audio, there's a child speaking, likely one of the girls. The speech is in English and seems to be playful or excited. There are also some background sounds, possibly from the room or other children playing nearby. The overall tone of the audio is cheerful and lively."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 282.8792531490326
+      "processing_time": 247.79313206672668
+    },
+    {
+      "comment_index": 1140,
+      "video_id": "AKEQwvaYI_k",
+      "comment": "bruh is no one gonna talk about how at 4:35 justin pets her hair like shes a dog like wtf",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 4.0,
+      "comment_timestamp": 275.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "266.0s - 272.0s",
+          "query": "Visually, there's a group of people sitting on a couch and chairs in a room with framed pictures on the wall. One person is holding a baby. The scene seems relaxed and casual.\n\nAudibly, laughter can be heard throughout the clip. There doesn't seem to be any specific dialogue or music playing."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "272.0s - 278.0s",
+          "query": "Visually, there are two people in a room with framed pictures on the walls. One person is wearing a suit and the other is in a more casual outfit. They seem to be interacting, possibly shaking hands or touching shoulders. The room has a warm, indoor lighting.\n\nIn terms of audio, there's a voice speaking, saying \"we're gonna take a break um Justin Bieber everybody and little Cody her wish came true here.\" There's also applause in the background."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "278.0s - 284.0s",
+          "query": "Inference error: 'video_fps'"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 184.76774263381958
     }
   ]
 }

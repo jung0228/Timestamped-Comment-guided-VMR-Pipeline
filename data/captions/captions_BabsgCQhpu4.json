@@ -4,10 +4,9 @@
   "successful_comments": 20,
   "failed_comments": 0,
   "success_rate": "100.0%",
-  "processing_time": 5409.223701715469,
   "comments": [
     {
-      "comment_index": 3630,
+      "comment_index": 1241,
       "video_id": "BabsgCQhpu4",
       "comment": "4:10 \"that should be a series of books\" \"Nah, I think it'll make a better tv show\"   Oh Jon Snow, you still know nothing.",
       "language": "en",
@@ -20,24 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "241.0s - 247.0s",
-          "query": "VISUAL: There's a man in a black fur coat standing up and yelling at another person who is sitting down. The seated person has their head down and seems to be reacting to the yelling. There are other people around them, some looking on. The room looks like it could be a living room or dining area with a lamp and flowers visible.AUDIO: There's music playing throughout the clip, and there's also laughter heard towards the end. It gives off a sort of tense yet humorous vibe. So, what do you think about this scene?"
+          "query": "Visually, there are several people in a room. One person is wearing a black outfit and seems to be moving around, possibly dancing or gesturing. There are other people in the room, some sitting and others standing. The room has a lamp and some furniture. The overall color scheme is dark with some light coming from the lamp. There's also a guitar leaning against the wall.\n\nAudio-wise, there's music playing in the background. It's upbeat and lively. There are also some sound effects, like laughter and applause, which suggest that the people in the room are enjoying themselves."
         },
         {
           "segment_index": 2,
           "time_range": "247.0s - 253.0s",
-          "query": "VISUAL: There's a group of people sitting around a table with wine glasses and some food on it. The setting seems to be indoors, like a restaurant or dining room. The lighting is dim. One person is wearing a plaid shirt and another has an afro hairstyle.AUDIO: Someone says \"wow that should be a series of books\" twice, and there's also applause heard in between those two statements.What do you think about the scene? Any thoughts?"
+          "query": "Visually, there are several people sitting around a table, engaged in what seems to be a meal or a discussion. The setting looks like a dining room or a similar indoor space. There are some decorative elements like flowers and wall art. The lighting is warm and cozy. The people are mostly focused on the table, with some looking at each other or at something on the table. There's a sense of casual interaction among them.\n\nIn terms of audio, there's a woman speaking, and then there's a sound effect that resembles a gasp or a surprised \"wow.\" The speech is clear and seems to be part of a conversation or presentation. The gasp adds a moment of surprise or emphasis to what she's saying."
         },
         {
           "segment_index": 3,
           "time_range": "253.0s - 259.0s",
-          "query": "VISUAL: There's a group of people sitting around a table with food and drinks. One person is speaking while others seem to be listening or reacting. The setting looks like an indoor dining area with some plants and wall art in the background.AUDIO: Someone is talking about making a better TV show and asking who they think their mother is. It seems like there might be some kind of discussion or argument going on. What do you think about it?"
+          "query": "Visually, there are two people sitting at a table. One person is wearing a dark jacket and has long hair, while the other is bald and wearing a dark shirt. The table has a glass of red wine, some food, and a vase with white flowers. The background shows a lamp and a wall with a picture frame. The scene seems to be indoors, possibly in a dining room or a similar setting.\n\nAudibly, there's a man speaking. He says, \"I think you make a better TV show.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 234.68886876106262
+      "processing_time": 250.26364040374756
     },
     {
-      "comment_index": 3631,
+      "comment_index": 1242,
       "video_id": "BabsgCQhpu4",
       "comment": "3:58 Hang on... Wolverine is in Game of Thrones?",
       "language": "en",
@@ -50,24 +49,24 @@
         {
           "segment_index": 1,
           "time_range": "229.0s - 235.0s",
-          "query": "VISUAL: There's a man in a plaid shirt sitting at a table with others. He looks surprised or shocked. Then another person dressed in black fur clothing appears, standing up and looking angry or intense. The setting seems to be indoors, like a dining room or something similar.AUDIO: There's some kind of music playing throughout the clip, along with laughter from the people present. It gives off a light-hearted vibe despite the expressions of surprise and anger. So, what do you think about this scene?"
+          "query": "Visually, there are several people in a room. One person is wearing a plaid shirt and seems to be looking at something or someone. Another person in a dark outfit is standing up, possibly reacting to something. There are also some objects like a lamp and what looks like a table with items on it. The room has a somewhat dim lighting, and there are curtains in the background. The overall scene gives off a casual, indoor vibe.\n\nAudibly, there's laughter and music playing in the background. The laughter seems to be a reaction to something happening in the scene, and the music adds to the lively atmosphere."
         },
         {
           "segment_index": 2,
           "time_range": "235.0s - 241.0s",
-          "query": "VISUAL: There's a man with long black hair wearing a dark fur coat standing up and yelling at another man who is sitting down. The setting seems to be an indoor dining area with a table full of food like bread rolls, wine glasses, and some other dishes. There are also chairs around the table. The background has some wall art and a lamp.On the table, there are various items including bread rolls, wine glasses filled with red liquid, some plates with food, and a glass container holding chopsticks. There are also some white flowers on the table.AUDIO: I can hear laughter and applause in the background. It seems like it might be from an audience reacting to something happening in the scene. What do you think about this video? Do you have any other questions related to it?"
+          "query": "Visually, there are two men sitting at a table in a dimly lit room. One man is wearing a dark shirt and the other is in a lighter shirt. There are glasses, a wine glass, and some food on the table. The background has a lamp and some wall decorations. The scene seems to be a casual dining or social setting.\n\nIn terms of audio, there's laughter and applause heard, suggesting a light-hearted or celebratory moment. There's also some music playing in the background."
         },
         {
           "segment_index": 3,
           "time_range": "241.0s - 247.0s",
-          "query": "VISUAL: There's a man in a black fur coat standing up and yelling at another person who is sitting down. The seated person has their head down and seems to be reacting to the yelling. There are other people around them, some looking on. The room looks like it could be a living room or dining area with a lamp and flowers visible.AUDIO: There's music playing throughout the clip, and there's also laughter heard towards the end. It gives off a sort of tense yet humorous vibe. So, what do you think about this scene?"
+          "query": "Sure! So, here's my take:.Visually, there s someone in black clothing standing up from a table where others are seated. The room has some furniture like chairs and tables, with a lamp on one side. There are also flowers visible.The audio? Well, it seems to be a mix of speech and laughter, along with some background music.Anything else you want me to focus on?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 298.4745559692383
+      "processing_time": 221.76205801963806
     },
     {
-      "comment_index": 3632,
+      "comment_index": 1243,
       "video_id": "BabsgCQhpu4",
       "comment": "0:17 I don't know how Kit could keep a straight face throughout that .... ;)",
       "language": "en",
@@ -80,24 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "8.0s - 14.0s",
-          "query": "VISUAL: There's a group of people sitting around a table with wine glasses and food on it. One person is drinking from a glass while others seem to be chatting or looking at something. The setting looks like an indoor dining area with some art on the walls.AUDIO: Someone is talking about walking all the way from Brooklyn because of how beautiful it is today. They also mention that New York is gorgeous in the spring. It seems like there might be other conversations going on too, but they're not clearly audible.If you have any more questions about the video or want to discuss it further, feel free to let me know!"
+          "query": "Visually, there are several people sitting around a dining table. They seem to be having a meal together. There are wine glasses, plates with food, and a vase with white flowers on the table. The background shows some wall art and a lamp. The people are engaged in conversation, and one person is drinking wine. The overall setting looks like a cozy, well-decorated dining room.Audibly, there are voices of people talking. One person mentions walking from Brooklyn because of the beautiful weather in New York. The conversation seems casual and friendly."
         },
         {
           "segment_index": 2,
           "time_range": "14.0s - 20.0s",
-          "query": "VISUAL: There's a group of people sitting around a table with white flowers on it. One person is holding up a glass of red wine. The setting seems to be indoors, maybe a restaurant or dining room. The lighting is warm and dim.AUDIO: Someone says \"Spring is officially sprung\" followed by laughter, then \"Winter is coming.\" It sounds like they're having a conversation about seasons. What do you think about that?"
+          "query": "Visually, there's a group of people sitting around a table with wine glasses, some food, and flowers on it. The setting seems to be indoors, possibly at an event or gathering. There s laughter heard from one person."
         },
         {
           "segment_index": 3,
           "time_range": "20.0s - 26.0s",
-          "query": "VISUAL: There's a group of people sitting around a table with food and wine glasses. One person is wearing a black fur coat. The setting seems to be indoors, maybe a dining room or restaurant. The lighting is warm and cozy.AUDIO: There's laughter and applause in the background, along with some speech that says \"Who was your new friend again Seth?\" It sounds like it could be from a TV show or movie scene. So, what do you think about this scene?"
+          "query": "Well, I'm not sure if there's anything specific to describe about the visual or audio here. It seems like it might be an empty frame or something that doesn't really show much. Maybe there was supposed to be some action or dialogue? Let me know if you want to try again with more details!"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 234.39348983764648
+      "processing_time": 261.93224120140076
     },
     {
-      "comment_index": 3633,
+      "comment_index": 1244,
       "video_id": "BabsgCQhpu4",
       "comment": "1:57 but that was not Robb's wedding??? It was his uncle's the Red Wedding..",
       "language": "en",
@@ -110,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "108.0s - 114.0s",
-          "query": "VISUAL: There's a group of people sitting around a table with wine glasses and food on it. They seem to be having a conversation. One person is holding a glass of red wine. The setting looks like an indoor dining area with some wall lights and plants in the background.AUDIO: Someone is speaking, asking if there are any siblings, and then mentioning \"one brother.\" It seems like they're having a casual chat about family members.What do you think about the scene? Do you have any similar experiences?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.02 GiB. GPU 1 has a total capacity of 23.56 GiB of which 3.06 GiB is free. Including non-PyTorch memory, this process has 20.49 GiB memory in use. Of the allocated memory 16.21 GiB is allocated by PyTorch, and 3.97 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 2,
           "time_range": "114.0s - 120.0s",
-          "query": "VISUAL: There are two men sitting at a table with wine glasses. One man is holding his glass while talking to the other. The setting seems like an indoor place with dim lighting, there's a lamp on a stand behind them. There are also some white flowers on the table.AUDIO: A male voice says \"lives in Cleveland you my brother was stabbed to death at his own\". It has a somewhat serious tone. What do you think about this scene?"
+          "query": "Visually, there are two men sitting at a table. One is holding a glass of red wine, and there are some white flowers on the table. The background has a lamp and a dark wall. The scene seems to be indoors, possibly in a restaurant or a private dining room. The lighting is dim, creating a somewhat intimate atmosphere.\n\nIn terms of audio, there's a man speaking. His voice is clear and he seems to be having a conversation. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "120.0s - 126.0s",
-          "query": "VISUAL: There's a man with long hair sitting at a table, looking down. Then it cuts to two men talking closely together, one in a black fur coat and the other in a plaid shirt. They seem to be having an intense conversation. The scene shifts again to show four people around a dining table, eating and chatting. There are white flowers on the table and some wine glasses.AUDIO: You can hear someone saying \"my bad\" multiple times, followed by laughter from others. Then there's a question about whether Michelle is still in Brooklyn. It seems like they're having a casual dinner gathering and the conversation takes a bit of a turn when that statement is made.So, what do you think about the context of their conversation?"
+          "query": "**Visual:** The video shows two men in a dimly lit room, possibly a bar or restaurant. One man is wearing a dark jacket and the other is in a plaid shirt. They appear to be having a conversation. There's a lamp on a table behind them, and a vase with white flowers on the table in front of them. The setting gives off a cozy, intimate vibe.\n\n**Audio:** The audio includes a man speaking, saying \"my bad, my bad, I knew it as soon as I said it.\" There's also laughter and applause from an unseen audience, suggesting this might be part of a show or performance."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 293.1569221019745
+      "processing_time": 295.11279916763306
     },
     {
-      "comment_index": 3634,
+      "comment_index": 1245,
       "video_id": "BabsgCQhpu4",
       "comment": "Honestly, what is that at 4:00 ?? Last time I checked wolverine is not in ASOIAF",
       "language": "en",
@@ -140,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "231.0s - 237.0s",
-          "query": "VISUAL: There's a man in a black fur-trimmed coat standing up and yelling at two other men sitting down. The setting seems to be indoors with some flowers on the table. One of the seated men is wearing glasses and has a bald head, while the other has curly hair.AUDIO: There's music playing throughout the clip, and there's also laughter heard towards the end. It gives off a light-hearted vibe. So, what do you think about it? Do you have any thoughts or questions related to this video?"
+          "query": "Visually, there are several people in a room. One person in the center seems to be reacting strongly, possibly shouting or expressing surprise. The others are looking at this person, some with expressions of amusement or shock. The room has a lamp, a table with a glass of red wine, and some other indistinct items. The lighting is dim, creating a somewhat dramatic atmosphere. There's also a piece of clothing hanging on the wall in the background. The overall scene gives off a sense of a social gathering or a party.Audibly, there's music playing in the background, which is upbeat and lively. There's also laughter and applause, suggesting that something amusing or entertaining has just happened."
         },
         {
           "segment_index": 2,
           "time_range": "237.0s - 243.0s",
-          "query": "VISUAL: There's a group of people at a table with food and drinks like wine glasses. One person is standing up, looking towards others who seem to be reacting to something. The setting looks like an indoor dining area with some wall art in the background.AUDIO: I can hear laughter and clapping along with some music playing in the background. It seems like there might be a performance or some kind of entertainment going on.What do you think about it? Do you have any other thoughts or questions related to this video?"
+          "query": "Visually, there are several people sitting around a table. One person is wearing a black outfit and appears to be leaning forward, possibly engaged in conversation. The table has various items on it, including a wine glass, some food, and a vase with white flowers. The background shows a lamp and a wall with a piece of art. The lighting is dim, creating a cozy atmosphere.\n\nIn terms of audio, there's laughter and applause heard, suggesting a social gathering or celebration. There's also music playing in the background, adding to the festive mood."
         },
         {
           "segment_index": 3,
           "time_range": "243.0s - 249.0s",
-          "query": "VISUAL: There's a man with long hair and a beard, wearing a black fur coat. He seems to be in an intense situation, possibly fighting or struggling with someone who is out of frame. The setting looks like a dimly lit room, maybe a dining area, with a table that has some food items on it. There are also other people present, one of whom is sitting at the table, looking somewhat shocked or surprised.AUDIO: You can hear laughter and applause in the background, along with some kind of grunting or exertion noises from the man in the fur coat. It gives off a sense of a performance or a staged event. What do you think about this scene?"
+          "query": "Visually, there are people in a room. One person seems to be holding something up, possibly a piece of paper or a small object. There's a lamp in the background, and the room has a cozy, dimly lit feel. The people are interacting, but it's not entirely clear what they're doing exactly. The colors are mostly muted, with dark and warm tones.Audibly, there's music playing in the background, and there are sounds of laughter and applause. It seems like a social gathering or some kind of event where people are enjoying themselves."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 278.2688980102539
+      "processing_time": 257.6223168373108
     },
     {
-      "comment_index": 3635,
+      "comment_index": 1246,
       "video_id": "BabsgCQhpu4",
       "comment": "At 2:17 he almost started laughing",
       "language": "en",
@@ -170,54 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "128.0s - 134.0s",
-          "query": "VISUAL: There's a group of four people sitting around a dining table. The table is set with wine glasses, plates of food, and a vase with white flowers. One person is holding a glass of red wine. The room has dim lighting from lamps on the wall and a floor lamp.The AUDIO: A woman is speaking about moving to the city and saying it was the right decision. She mentions \"the wall\" at the end. It seems like there might be some background noise or other voices too, but they're not clear.So, what do you think about their move?"
+          "query": "Visually, there are several people sitting around a table. The table is set with wine glasses, plates, and a vase with white flowers. The room has a warm, dimly lit ambiance with a lamp in the background. The people seem to be engaged in conversation, some looking at each other while others are focused on something in their hands. There's a sense of a social gathering or dinner party. The colors are mostly muted, with the white of the flowers standing out against the darker tones of the room and the people's clothing. The movement is mainly the subtle gestures of the people talking and interacting at the table. In the audio, there's a woman speaking. She says, \"ah we just moved to the city too and let me tell you it was the right decision the wall.\" The tone is positive and enthusiastic. There's no background music or sound effects, just the woman's voice and some faint ambient noise from the room."
         },
         {
           "segment_index": 2,
           "time_range": "134.0s - 140.0s",
-          "query": "VISUAL: There's a man with long dark hair wearing a black fur - lined cloak sitting at a table. The table has wine glasses, plates with food, and some other items like a bowl of bread. In the background, there are some wall decorations and a lamp. Another person is partially visible on the left side of the frame.AUDIO: A male voice is speaking. He says something about living \"400 leagues north of King's Landing.\" It seems to be a dialogue or an interview type of situation.If you have any more questions about this video or want to discuss it further, feel free to let me know!"
+          "query": "Visually, there's a man sitting at a table with wine glasses and some food items. He's wearing a dark outfit with a fur collar. The setting seems to be indoors, possibly a dining area, with some plants and wall decorations visible. There's also a person partially visible on the left side of the frame, but their face isn't shown clearly. The lighting is dim, creating a somewhat intimate atmosphere.Audibly, there's a conversation happening. One person is speaking, and the other seems to be responding. The speech is in English, and it's difficult to make out the exact words due to the short duration of the segment."
         },
         {
           "segment_index": 3,
           "time_range": "140.0s - 146.0s",
-          "query": "VISUAL: There's a group of people sitting around a dining table with food and drinks on it. The table has plates of pasta, bread, wine glasses, and some white flowers in a vase. One person is holding a glass of red wine. The setting seems to be indoors, maybe a restaurant or someone's home. The lighting is warm and dim.AUDIO: A man is speaking. He says \"Staten Island there's no island sir it's a cold dark place.\" It sounds like he might be in a serious conversation or telling a story.So, what do you think about this scene? Do you have any other questions related to it?"
+          "query": "Visual: The video shows a group of people sitting around a dining table. There are plates of food, wine glasses, and a vase with white flowers on the table. The people are engaged in conversation, with one person gesturing while talking. The setting appears to be indoors, with a lamp and some plants in the background. The lighting is warm and cozy. Audio: There is a man speaking, and his words are \"Staten Island, there's no island, sir, it's a cold, dark place.\" The tone of his voice suggests a somewhat serious or somber mood."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 291.12001872062683
+      "processing_time": 283.3651397228241
     },
     {
-      "comment_index": 3636,
-      "video_id": "BabsgCQhpu4",
-      "comment": "3:56 Wolverine was on GoT? Who was that?",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 25.0,
-      "comment_timestamp": 236.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "227.0s - 233.0s",
-          "query": "VISUAL: There's a man in a black outfit with long hair standing up from a table where some men are seated. The room has dark curtains and a lamp. The men at the table seem to be having a conversation. One guy is wearing a plaid shirt and looks like he might be laughing or reacting to something. There are white flowers on the table.AUDIO: There's music playing throughout the clip. It seems to be instrumental music without any lyrics. There's also laughter heard towards the end of the clip.What do you think about the scene? Do you have any other thoughts or questions related to it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "233.0s - 239.0s",
-          "query": "VISUAL: There's a man with long dark hair wearing a black fur coat standing up and yelling at two other men sitting down at a table. The table has food like bread rolls and a glass of red wine on it. There's also a lamp on a side table next to them. The background shows some framed pictures on the wall.AUDIO: You can hear laughter and applause in the audio. It seems like there might be some kind of performance or event going on.What do you think about this scene? Do you have any ideas about what could be happening here?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "239.0s - 245.0s",
-          "query": "VISUAL: There's a man with long hair wearing a black fur-trimmed coat standing up at a table where three other men are seated. The room has a lamp, some flowers on the table, and a couch in the background. One of the seated men is looking at him while he seems to be speaking or reacting to something.AUDIO: There's laughter and clapping heard throughout the clip. It gives off a light-hearted vibe. What do you think about it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 262.95123410224915
-    },
-    {
-      "comment_index": 3637,
+      "comment_index": 1247,
       "video_id": "BabsgCQhpu4",
       "comment": "3:59  Kit as the next Wolverine in the MCU confirmed 🤔😂",
       "language": "en",
@@ -230,54 +199,54 @@
         {
           "segment_index": 1,
           "time_range": "230.0s - 236.0s",
-          "query": "VISUAL: There's a man in a plaid shirt sitting at a table with others. Then another person dressed in black fur clothing enters from behind a curtain and yells at someone seated there. The setting seems like an indoor dining area with some art on the walls.AUDIO: There's music playing throughout the clip, and laughter can be heard towards the end. It gives off a light-hearted vibe. What do you think about it?"
+          "query": "Visually, there are several people in a room. One person is standing up abruptly, looking startled or shocked. The others are seated, some looking towards the standing person. The room has a lamp, some plants, and a painting on the wall. The colors are mostly neutral, with some darker tones. There's a sense of sudden movement and surprise.\n\nAudio-wise, there's music playing in the background, and laughter can be heard towards the end."
         },
         {
           "segment_index": 2,
           "time_range": "236.0s - 242.0s",
-          "query": "VISUAL: There's a group of people sitting around a table with food and drinks like wine glasses on it. One person is standing up, looking at someone else who seems to be reacting to something. The setting looks like an indoor dining area with some art on the walls.AUDIO: You can hear applause and music playing in the background. It gives off a celebratory or social vibe. What do you think about the scene?"
+          "query": "Visually, there are people sitting around a table with food and drinks, like wine glasses. The setting seems to be indoors, possibly a dining room or a restaurant. There's a lamp on a side table, and the walls have some decorations. The people are engaged in conversation and seem to be enjoying their meal. The colors are warm, with a lot of browns and reds from the food and drinks. There's some movement as people are talking and eating.\n\nAudio-wise, there's laughter and applause in the background, suggesting a social gathering or celebration. There's also music playing, which adds to the festive atmosphere."
         },
         {
           "segment_index": 3,
           "time_range": "242.0s - 248.0s",
-          "query": "VISUAL: There's a man in black fur clothing standing up from a table where others are seated. He seems to be yelling or shouting at someone who is sitting down. The setting looks like an indoor dining area with a lamp on a side table and some flowers on the table.AUDIO: There's music playing throughout the clip, and there are also some clapping and laughter heard towards the end. It gives off a lively atmosphere.What do you think about the scene? Any thoughts or questions?"
+          "query": "Visually, there are several people in a dimly lit room. They seem to be at a gathering, possibly a dinner or a party. There are wine glasses on the table, and some are holding drinks. The room has a cozy, intimate feel with soft lighting from lamps. The people are engaged in conversation, and one person is gesturing with their hand, maybe telling a story or making a point. The overall color scheme is warm, with browns and soft yellows from the lamps.\n\nIn terms of audio, there's background music playing, which adds to the relaxed and social atmosphere. There are also sounds of laughter and applause, suggesting that the people are enjoying themselves and reacting positively to what's being said or happening."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 227.47278261184692
+      "processing_time": 245.20946383476257
     },
     {
-      "comment_index": 3638,
+      "comment_index": 1248,
       "video_id": "BabsgCQhpu4",
-      "comment": "Jon's grim face at 0:20 is absolutely hilarious haha.",
+      "comment": "3:56 Wolverine was on GoT? Who was that?",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
-      "likes": 22.0,
-      "comment_timestamp": 20.0,
+      "likes": 25.0,
+      "comment_timestamp": 236.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "11.0s - 17.0s",
-          "query": "VISUAL: There's a group of people sitting around a table with food and wine glasses. The setting seems to be indoors, like a restaurant or dining room. You can see some white flowers on the table too.AUDIO: Someone is talking about how beautiful it is today in New York during spring. It sounds like they're having a nice conversation. There's also laughter at the end, probably from the other people at the table.So, what do you think about that? Do you have any similar experiences?"
+          "time_range": "227.0s - 233.0s",
+          "query": "Visually, there are several people sitting around a table in what seems to be a dimly lit room, possibly a restaurant or a private dining area. The table has some white flowers and glasses on it. The people are engaged in conversation, with one person looking towards the camera and smiling. The background has some wall art and a lamp.\n\nAudio-wise, there's music playing in the background, and towards the end, there's applause."
         },
         {
           "segment_index": 2,
-          "time_range": "17.0s - 23.0s",
-          "query": "VISUAL: There's a group of people sitting around a table with food and drinks. One person is wearing a black fur coat and has long hair. They seem to be having a conversation. The table has white flowers on it.AUDIO: You can hear laughter and applause in the background. It seems like they're reacting to something funny or exciting that was said.What do you think about the scene?"
+          "time_range": "233.0s - 239.0s",
+          "query": "Visually, there's a group of people at a table with food and drinks like wine glasses. One person is standing up, looking surprised or shocked, while others seem to be reacting to something. The setting looks like an indoor dining area with dim lighting and some wall art. There s also applause heard in the background."
         },
         {
           "segment_index": 3,
-          "time_range": "23.0s - 29.0s",
-          "query": "VISUAL: There's a group of people sitting around a table with food and drinks. One person is holding a glass of red wine while talking. The setting seems to be indoors, like a dining room or restaurant. There are flowers on the table too.AUDIO: Someone is speaking, saying \"Who's your new friend again Seth? This is John and John actually think winter is over and we're headed into spring.\".It sounds like they might be having a casual conversation about the weather change. What do you think about it?"
+          "time_range": "239.0s - 245.0s",
+          "query": "Visually, there are several people in a dimly lit room. One person is standing and seems to be in a confrontational stance, while others are seated around a table. There are some objects on the table, like a lamp and what looks like a vase with flowers. The overall color scheme is dark, with muted tones.\n\nIn terms of audio, there's laughter and applause, suggesting a social gathering or event. There's also background music playing, which adds to the lively atmosphere."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 236.2606110572815
+      "processing_time": 234.1173801422119
     },
     {
-      "comment_index": 3639,
+      "comment_index": 1249,
       "video_id": "BabsgCQhpu4",
       "comment": "lol at the laugh at 2:35 ..",
       "language": "en",
@@ -290,54 +259,54 @@
         {
           "segment_index": 1,
           "time_range": "146.0s - 152.0s",
-          "query": "VISUAL: There's a group of people sitting around a table with food and wine glasses. One person is wearing a black fur coat. The table has plates of food, bread, and a vase of white flowers. The room looks dimly lit with some wall lights on.AUDIO: A man is speaking about something huge made of pure ice, mentioning its height and width, and describing it as having harsh conditions and being cold.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Well, in the visual part, there are three people sitting around a table. The table has wine glasses, some food, and a vase with white flowers. The room looks cozy with warm lighting and some plants in the background. The people seem to be having a conversation.As for the audio, there's a man speaking. He's talking about something related to feet high and 300 miles wide, made of pure ice, and conditions that are harsh and cold. It sounds like he might be describing a geographical feature or something similar. So, what do you think about this? Do you have any other questions?"
         },
         {
           "segment_index": 2,
           "time_range": "152.0s - 158.0s",
-          "query": "VISUAL: There's a man with long dark hair wearing a black fur-trimmed coat sitting at a table. On the table, there are wine glasses filled with red wine, some empty glasses, a plate of food, and a basket of bread. There's also a vase with white flowers. The background has a wall lamp and some plants.AUDIO: Someone is speaking, saying \"Make your little prick fall off.\" It seems like a crude or offensive statement. What do you think about it?"
+          "query": "Well, in the visual part, there are a few people sitting around a table. The table has wine glasses, some food, and a vase with white flowers. The background has a lamp and some wall art. The people seem to be engaged in a conversation, and one of them is gesturing with his hands.As for the audio, there's a man speaking, and you can hear laughter from the audience. It seems like a social gathering or a dinner party. So, what do you think about this scene?"
         },
         {
           "segment_index": 3,
           "time_range": "158.0s - 164.0s",
-          "query": "VISUAL: There's a group of people sitting around a dining table with food and drinks on it. One person is wearing a black fur coat and seems to be talking or reacting to something. The table has plates of food like Brussels sprouts and pancetta, glasses of wine, and some bread. The setting looks like an indoor dining area with dim lighting and a lamp in the background.AUDIO: Someone is speaking about how amazing the Brussels sprouts are and asking what the pancetta is. It sounds like they're having a conversation during a meal. There's also laughter from other people in the room.If you have any thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there are three people sitting at a table. One person is wearing a black fur coat and seems to be looking down. The table has wine glasses, a vase with white flowers, and some food items. The background shows a dark room with a lamp and a wall-mounted light fixture. The scene appears to be indoors, possibly in a dining or living room setting.\n\nIn terms of audio, there's laughter and applause, followed by a man speaking. The speech seems to be in English."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 281.7597620487213
+      "processing_time": 285.56571435928345
     },
     {
-      "comment_index": 3640,
+      "comment_index": 1250,
       "video_id": "BabsgCQhpu4",
-      "comment": " [USER]  honestly its 5:02pm in my country..i just got home from my lectures  and am picking some stuff to go crash at my friend's where we watching the 2nd episode of got season 8 ...",
+      "comment": "Jon's grim face at 0:20 is absolutely hilarious haha.",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
-      "likes": 17.0,
-      "comment_timestamp": 302.0,
+      "likes": 22.0,
+      "comment_timestamp": 20.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "293.0s - 299.0s",
-          "query": "VISUAL: There's a man in a suit with his arms crossed. He has short hair and is smiling. The background is light blue. There are some texts on the screen too.AUDIO: There's music playing throughout the whole time. No specific speech or sound effects are heard.If you have any other videos to analyze or questions about this one, feel free to let me know!"
+          "time_range": "11.0s - 17.0s",
+          "query": "Visually, there are several people sitting around a table. The table is set with wine glasses, a pitcher, and some food. There are also flowers on the table. The people seem to be engaged in conversation. The background has a lamp and some other indistinct items. The overall color scheme is warm, with browns and beiges dominating.The audio features a conversation between two people. One person says, \"it's so beautiful today\" and the other replies, \"New York is gorgeous in the spring.\" There's also a brief moment of laughter."
         },
         {
           "segment_index": 2,
-          "time_range": "299.0s - 305.0s",
-          "query": "VISUAL: A man in a suit is standing with his arms crossed against a blue background. There's some text on the screen too. The NBC logo is visible at the bottom left corner.AUDIO: Background music is playing throughout the clip. No specific speech or dialogue is heard."
+          "time_range": "17.0s - 23.0s",
+          "query": "Visually, there are several people sitting around a table. They seem to be in a dimly lit room, possibly a restaurant or a private dining area. There are wine glasses, a vase with white flowers, and some food items on the table. The people are engaged in conversation, and one person is seen drinking from a glass. The overall atmosphere appears to be relaxed and social.\n\nIn terms of audio, there is laughter and applause heard, suggesting a light-hearted and jovial mood among the people present."
         },
         {
           "segment_index": 3,
-          "time_range": "305.0s - 311.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "time_range": "23.0s - 29.0s",
+          "query": "**Visual:** The scene shows several people seated around a dining table set with wine glasses, plates, and flowers. One person is holding a glass of red wine while talking. There's a painting on the wall behind them.\n\n**Audio:** Someone is speaking about thinking winter is over and heading into spring."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 214.50447010993958
+      "processing_time": 210.68350172042847
     },
     {
-      "comment_index": 3641,
+      "comment_index": 1251,
       "video_id": "BabsgCQhpu4",
       "comment": "1:58 that was not his wedding  It was his uncle's wedding",
       "language": "en",
@@ -350,54 +319,54 @@
         {
           "segment_index": 1,
           "time_range": "109.0s - 115.0s",
-          "query": "VISUAL: There's a group of people sitting around a table with wine glasses and some food on it. One person is eating something from a spoon while another holds a glass of red wine. The setting seems to be indoors, maybe a dining room or restaurant, with dim lighting and some plants visible in the background.AUDIO: Someone is speaking, asking about siblings and mentioning that one brother lives in Cleveland. It sounds like they're having a casual conversation during a meal. What do you think about the scene?"
+          "query": "Visually, there are three people sitting at a table. They seem to be having a meal or a drink together. There are glasses, a wine glass, and some food items on the table. The setting looks like an indoor dining area with a lamp and some plants in the background. The lighting is warm and dim, creating a cozy atmosphere. The people are engaged in conversation, and one of them is holding a glass of wine. The table has a white floral centerpiece.Audibly, there's a man speaking. He asks, \"So, lots, do you have any siblings?\" and then mentions that one brother lives in Cleveland."
         },
         {
           "segment_index": 2,
           "time_range": "115.0s - 121.0s",
-          "query": "VISUAL: There's a man sitting at a table with a glass of red wine in his hand. He looks like he's having a conversation with someone off - screen to his left. The setting seems to be indoors, maybe a restaurant or a private dining room, with dim lighting and some flowers on the table.AUDIO: A male voice is speaking, saying \"you my brother was stabbed to death at his own wedding.\" It's a serious statement, likely part of a dramatic scene or story. There's no background music or other sound effects, just the man's voice and a bit of ambient noise from the indoor environment.If you have any thoughts about this or want to discuss more about it, feel free to share!"
+          "query": "Visually, there are two men sitting at a table. One is holding a glass of red wine, and the other is looking at him. There are wine glasses and a floral centerpiece on the table. The background has a lamp and some dark curtains. The lighting is dim, creating a somewhat somber atmosphere.Audibly, there's a man speaking, and it seems like he's saying something serious or emotional. There's also laughter from the audience, which contrasts with the man's words."
         },
         {
           "segment_index": 3,
           "time_range": "121.0s - 127.0s",
-          "query": "VISUAL: There's two men having an intense conversation in a dimly lit room with a lamp on the wall. Then it cuts to three people at a dinner table, eating and chatting. The table has white flowers, wine glasses, and plates of food.AUDIO: A man is speaking, saying \"my bad my bad I knew it as soon as I said it\" and then asks if someone named Michelle is still in Brooklyn. Another person responds that they're not.Anything else you noticed or want to ask about?"
+          "query": "**Visual:** The video shows two people in a dimly lit room, likely a dining area. There's a table with a lamp, some flowers, and food. One person is wearing a plaid shirt and seems to be talking or reacting to something, while the other, in darker clothing, is looking down. The setting gives off a cozy, intimate vibe.\n\n**Audio:** The audio includes a man speaking, saying \"my bad, my bad, I knew it as soon as I said it.\" There's also a woman responding, but her words are not fully clear. The overall tone seems to be a bit awkward or apologetic."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 298.9195079803467
+      "processing_time": 256.94841623306274
     },
     {
-      "comment_index": 3642,
+      "comment_index": 1252,
       "video_id": "BabsgCQhpu4",
-      "comment": "3:58  When was wolverine in game of thrones ?!?!",
+      "comment": " @thehydronater7628  honestly its 5:02pm in my country..i just got home from my lectures  and am picking some stuff to go crash at my friend's where we watching the 2nd episode of got season 8 ...",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
-      "likes": 16.0,
-      "comment_timestamp": 238.0,
+      "likes": 17.0,
+      "comment_timestamp": 302.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "229.0s - 235.0s",
-          "query": "VISUAL: There's a man in a plaid shirt sitting at a table with others. He looks surprised or shocked. Then another person dressed in black fur clothing appears, standing up and looking angry or intense. The setting seems to be indoors, like a dining room or something similar.AUDIO: There's some kind of music playing throughout the clip, along with laughter from the people present. It gives off a light-hearted vibe despite the expressions of surprise and anger. So, what do you think about this scene?"
+          "time_range": "293.0s - 299.0s",
+          "query": "**Visual:** The video shows a man in a suit standing with his arms crossed. He has a smile on his face. There are texts on the screen, including \"SUBSCRIBE\" and \"WATCH MORE LATE NIGHT\" with a play button icon. The background is a gradient of light blue shades. The NBC logo is visible in the bottom left corner.\n\n**Audio:** There is music playing in the background throughout the video."
         },
         {
           "segment_index": 2,
-          "time_range": "235.0s - 241.0s",
-          "query": "VISUAL: There's a man with long black hair wearing a dark fur coat standing up and yelling at another man who is sitting down. The setting seems to be an indoor dining area with a table full of food like bread rolls, wine glasses, and some other dishes. There are also chairs around the table. The background has some wall art and a lamp.On the table, there are various items including bread rolls, wine glasses filled with red liquid, some plates with food, and a glass container holding chopsticks. There are also some white flowers on the table.AUDIO: I can hear laughter and applause in the background. It seems like it might be from an audience reacting to something happening in the scene. What do you think about this video? Do you have any other questions related to it?"
+          "time_range": "299.0s - 305.0s",
+          "query": "Visually, there's a man in a suit standing with his arms crossed. He's smiling. The background is a gradient of blue shades. There's also some text on the left side of the screen, which seems to be related to subscribing and watching more content. The NBC logo is visible in the bottom left corner. The audio is just music playing throughout the 6 seconds."
         },
         {
           "segment_index": 3,
-          "time_range": "241.0s - 247.0s",
-          "query": "VISUAL: There's a man in a black fur coat standing up and yelling at another person who is sitting down. The seated person has their head down and seems to be reacting to the yelling. There are other people around them, some looking on. The room looks like it could be a living room or dining area with a lamp and flowers visible.AUDIO: There's music playing throughout the clip, and there's also laughter heard towards the end. It gives off a sort of tense yet humorous vibe. So, what do you think about this scene?"
+          "time_range": "305.0s - 311.0s",
+          "query": "Inference error: 'video_fps'"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 298.8200137615204
+      "processing_time": 167.96178770065308
     },
     {
-      "comment_index": 3643,
+      "comment_index": 1253,
       "video_id": "BabsgCQhpu4",
       "comment": "4:12 that line is painful to hear nowadays",
       "language": "en",
@@ -410,54 +379,24 @@
         {
           "segment_index": 1,
           "time_range": "243.0s - 249.0s",
-          "query": "VISUAL: There's a man with long hair and a beard, wearing a black fur coat. He seems to be in an intense situation, possibly fighting or struggling with someone who is out of frame. The setting looks like a dimly lit room, maybe a dining area, with a table that has some food items on it. There are also other people present, one of whom is sitting at the table, looking somewhat shocked or surprised.AUDIO: You can hear laughter and applause in the background, along with some kind of grunting or exertion noises from the man in the fur coat. It gives off a sense of a performance or a staged event. What do you think about this scene?"
+          "query": "Visually, there are people in a room. One person seems to be holding something up, possibly a piece of paper or a small object. There's a lamp in the background, and the room has a cozy, dimly lit feel. The people are interacting, but it's not entirely clear what they're doing exactly. The colors are mostly muted, with dark and warm tones.Audibly, there's music playing in the background, and there are sounds of laughter and applause. It seems like a social gathering or some kind of event where people are enjoying themselves."
         },
         {
           "segment_index": 2,
           "time_range": "249.0s - 255.0s",
-          "query": "VISUAL: There's a group of people sitting around a table with wine glasses and food on it. The setting seems to be indoors, like a dining room or restaurant. One person is wearing a plaid shirt, another has short hair and earrings, and there's someone else in black. They're all engaged in conversation.AUDIO: Someone says \"Wow that should be a series of books I think he\" in an excited tone. It sounds like they might be discussing something interesting or surprising related to writing or storytelling.What do you think about the scene? Any thoughts on why they might be talking about a book series?"
+          "query": "Visual: The video shows a group of people sitting around a table in what appears to be a dining or meeting room. There are wine glasses, plates, and some decorative items like flowers on the table. The background includes a large painting or artwork on the wall. The people are engaged in conversation, with one person speaking prominently while others listen or react.\n\nAudio: The audio features a person speaking, likely in a conversational tone. There are no distinct sound effects or music, just the natural sounds of the conversation and the room."
         },
         {
           "segment_index": 3,
           "time_range": "255.0s - 261.0s",
-          "query": "VISUAL: There's a man with long hair sitting at a table, looking to his left. Then there's another man with short hair also at the table, holding a glass of red wine. The table has some food items like bread and a plate with something on it. There are white flowers in a vase too. The background shows a wall with some writing on it.AUDIO: A male voice is speaking. He says \"make a better TV show so wait who do you think your mother really is?\". It seems like he's having a conversation about someone's mother. What do you think about this scene?"
+          "query": "Oh, okay. So, visually, there's someone sitting at a table with flowers on it. There s also a lamp in the background. And then, for the audio, I can hear some kind of speech going on.Anything else you noticed or want to ask about?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 307.2666256427765
+      "processing_time": 242.4590334892273
     },
     {
-      "comment_index": 3644,
-      "video_id": "BabsgCQhpu4",
-      "comment": "2:30 the \"little prick\" is so uncalled for 😂",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 10.0,
-      "comment_timestamp": 150.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "141.0s - 147.0s",
-          "query": "VISUAL: There's a group of people sitting around a dining table with food and drinks on it. The table has plates of food, glasses of wine, water glasses, and a basket of bread. There are also some white flowers in a vase on the table. The room looks dimly lit with a lamp in the background.AUDIO: A man is speaking about the Highlands being a cold, dark place, 700 feet high and 300 miles long. He seems to be explaining something related to the location. It's just his voice without any other sound effects or music.If you have any more questions about the video or want to discuss it further, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "147.0s - 153.0s",
-          "query": "VISUAL: There's a group of people sitting around a table with food and wine glasses. One person is wearing a black fur coat. The setting seems to be indoors, like a dining room or restaurant. The lighting is warm and there are some plants visible in the background.AUDIO: A man is speaking. His words seem to be about something harsh and cold related to ice, but it's not clear who he is talking to or why he's saying these things.So, what do you think about this scene? Do you have any ideas on what might be going on here?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "153.0s - 159.0s",
-          "query": "VISUAL: There's a man with long black hair wearing a black fur coat sitting at a table. He looks to his right. Then there's another person across from him, wearing a plaid shirt, who seems to be talking or reacting. The table has wine glasses, some food, and white flowers. The background shows a lamp and some wall art.AUDIO: You can hear laughter and applause throughout the clip. It gives off a light-hearted vibe. What do you think about it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 292.50564646720886
-    },
-    {
-      "comment_index": 3645,
+      "comment_index": 1254,
       "video_id": "BabsgCQhpu4",
       "comment": "3:52 him imitating Joffrey’s death LMFAO",
       "language": "en",
@@ -470,84 +409,54 @@
         {
           "segment_index": 1,
           "time_range": "223.0s - 229.0s",
-          "query": "VISUAL: There's a man with curly hair wearing a black fur cloak. He seems to be in some kind of room or hall. There are other people around him too. The setting looks like it could be from a historical or fantasy show.AUDIO: Someone is speaking about kingdoms and a vacancy for the throne. It sounds like they're discussing political matters. There's also background music playing throughout the clip.What do you think about the scene? Any thoughts on who the man might be or what he's talking about?"
+          "query": "Well, I'm not sure if there's actually anything to describe from that short clip. There doesn't seem to be any clear visuals or audio events mentioned here. Maybe you could give me more details about it?"
         },
         {
           "segment_index": 2,
           "time_range": "229.0s - 235.0s",
-          "query": "VISUAL: There's a man in a plaid shirt sitting at a table with others. He looks surprised or shocked. Then another person dressed in black fur clothing appears, standing up and looking angry or intense. The setting seems to be indoors, like a dining room or something similar.AUDIO: There's some kind of music playing throughout the clip, along with laughter from the people present. It gives off a light-hearted vibe despite the expressions of surprise and anger. So, what do you think about this scene?"
+          "query": "Visually, there are several people in a room. One person is wearing a plaid shirt and seems to be looking at something or someone. Another person in a dark outfit is standing up, possibly reacting to something. There are also some objects like a lamp and what looks like a table with items on it. The room has a somewhat dim lighting, and there are curtains in the background. The overall scene gives off a casual, indoor vibe.\n\nAudibly, there's laughter and music playing in the background. The laughter seems to be a reaction to something happening in the scene, and the music adds to the lively atmosphere."
         },
         {
           "segment_index": 3,
           "time_range": "235.0s - 241.0s",
-          "query": "VISUAL: There's a man with long black hair wearing a dark fur coat standing up and yelling at another man who is sitting down. The setting seems to be an indoor dining area with a table full of food like bread rolls, wine glasses, and some other dishes. There are also chairs around the table. The background has some wall art and a lamp.On the table, there are various items including bread rolls, wine glasses filled with red liquid, some plates with food, and a glass container holding chopsticks. There are also some white flowers on the table.AUDIO: I can hear laughter and applause in the background. It seems like it might be from an audience reacting to something happening in the scene. What do you think about this video? Do you have any other questions related to it?"
+          "query": "Visually, there are two men sitting at a table in a dimly lit room. One man is wearing a dark shirt and the other is in a lighter shirt. There are glasses, a wine glass, and some food on the table. The background has a lamp and some wall decorations. The scene seems to be a casual dining or social setting.\n\nIn terms of audio, there's laughter and applause heard, suggesting a light-hearted or celebratory moment. There's also some music playing in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 301.2440264225006
+      "processing_time": 218.06707572937012
     },
     {
-      "comment_index": 3646,
+      "comment_index": 1255,
       "video_id": "BabsgCQhpu4",
-      "comment": "3:58; don't go anywhere, we got our next Wolverine",
+      "comment": "2:30 the \"little prick\" is so uncalled for 😂",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
       "likes": 10.0,
-      "comment_timestamp": 238.0,
+      "comment_timestamp": 150.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "229.0s - 235.0s",
-          "query": "VISUAL: There's a man in a plaid shirt sitting at a table with others. He looks surprised or shocked. Then another person dressed in black fur clothing appears, standing up and looking angry or intense. The setting seems to be indoors, like a dining room or something similar.AUDIO: There's some kind of music playing throughout the clip, along with laughter from the people present. It gives off a light-hearted vibe despite the expressions of surprise and anger. So, what do you think about this scene?"
+          "time_range": "141.0s - 147.0s",
+          "query": "Well, in the visual part, there are three people sitting around a table. The table is set with plates of food, glasses of wine, and a vase with white flowers. The room has a warm, dimly lit ambiance with a lamp in the background. The people seem to be engaged in a conversation, with one person leaning in towards another as if sharing something. In the audio part, there's a man speaking, but the content of what he's saying isn't clear from this short segment. There's also a brief moment of laughter. So, what do you think about this scene?"
         },
         {
           "segment_index": 2,
-          "time_range": "235.0s - 241.0s",
-          "query": "VISUAL: There's a man with long black hair wearing a dark fur coat standing up and yelling at another man who is sitting down. The setting seems to be an indoor dining area with a table full of food like bread rolls, wine glasses, and some other dishes. There are also chairs around the table. The background has some wall art and a lamp.On the table, there are various items including bread rolls, wine glasses filled with red liquid, some plates with food, and a glass container holding chopsticks. There are also some white flowers on the table.AUDIO: I can hear laughter and applause in the background. It seems like it might be from an audience reacting to something happening in the scene. What do you think about this video? Do you have any other questions related to it?"
+          "time_range": "147.0s - 153.0s",
+          "query": "Visually, there are three people sitting around a table. The table has wine glasses, a plate of food, and a vase with white flowers. The room has a lamp and some plants in the background. The people seem to be having a conversation while eating and drinking wine. The colors are mostly warm, like browns and beiges from the furniture and food, with the white flowers adding a bit of contrast. There's some movement as the people gesture while talking.Audibly, there's a man speaking. His voice is clear and he seems to be talking about something related to ice and harsh conditions."
         },
         {
           "segment_index": 3,
-          "time_range": "241.0s - 247.0s",
-          "query": "VISUAL: There's a man in a black fur coat standing up and yelling at another person who is sitting down. The seated person has their head down and seems to be reacting to the yelling. There are other people around them, some looking on. The room looks like it could be a living room or dining area with a lamp and flowers visible.AUDIO: There's music playing throughout the clip, and there's also laughter heard towards the end. It gives off a sort of tense yet humorous vibe. So, what do you think about this scene?"
+          "time_range": "153.0s - 159.0s",
+          "query": "Visually, there are several people sitting around a table. The table has wine glasses, some with wine in them, and a vase with white flowers. The background shows a lamp and some wall art. The people seem to be engaged in conversation, with one person gesturing with their hands. The lighting is warm and the overall setting looks like a dining or meeting room.\n\nIn terms of audio, there's laughter and applause heard, suggesting a light-hearted or celebratory moment during the conversation."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 299.96405243873596
+      "processing_time": 258.7021336555481
     },
     {
-      "comment_index": 3647,
-      "video_id": "BabsgCQhpu4",
-      "comment": "0:25  \"Actually Jon I actually think winter is over and we're headed into Spring now.\"  \"WINTER IS COMING!\"  Hahahahaha!!!",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 7.0,
-      "comment_timestamp": 25.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "16.0s - 22.0s",
-          "query": "VISUAL: There's a man with long hair wearing a black fur coat sitting at a table. He has a glass of red wine in front of him. The table also has some white flowers and other glasses. There are three other people around the table, two on one side and one on the other. They seem to be having a meal or a gathering.AUDIO: You can hear laughter and applause throughout the clip. It seems like there might be a performance or a funny moment happening. What do you think about it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "22.0s - 28.0s",
-          "query": "VISUAL: There's a group of people sitting around a table with food and drinks. One person is holding a glass of red wine. The setting seems to be indoors, like a dining room or restaurant. The lighting is warm and cozy.AUDIO: Someone is speaking, saying \"Who was your new friend again Seth? This is John and John actually think winter.\" It sounds like they're having a conversation about someone named John and his thoughts on winter.So, what do you think about this scene? Do you have any other questions related to it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "28.0s - 34.0s",
-          "query": "VISUAL: There's a man in a plaid shirt sitting at a table with wine glasses and flowers on it. He seems to be talking or reacting to something. Another person is also present, wearing a black fur - like coat. The background has some abstract art on the wall.AUDIO: Someone is speaking about winter being over and spring coming, and then says \"winter is coming.\" There's laughter after that. It sounds like they're having a conversation in a relaxed setting.What do you think about the scene?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 244.74070048332214
-    },
-    {
-      "comment_index": 3648,
+      "comment_index": 1256,
       "video_id": "BabsgCQhpu4",
       "comment": "4:35 \"You know nothing Jon Snow\"  😂😂",
       "language": "en",
@@ -560,24 +469,54 @@
         {
           "segment_index": 1,
           "time_range": "266.0s - 272.0s",
-          "query": "VISUAL: There's a group of people in a room with some furniture like a couch and a table. One person is sitting on the couch holding something small, maybe a phone or a card. Another person is standing up near them, gesturing with their hands. The background has some wall art and a lamp. The lighting seems warm and cozy.AUDIO: I can hear someone speaking, but it's not clear who they are or what they're saying. There's also some music playing in the background that's pretty soft and mellow.What do you think about the scene? Do you have any ideas about what might be happening there?"
+          "query": "Visual: The video shows a group of people in a room. There are three individuals sitting on a couch, and one person is standing. The room has a lamp on a side table, some framed pictures on the wall, and a piece of abstract art. The people seem to be engaged in a conversation or discussion. The colors are warm, with beige walls and red furniture. The movement is mainly from the standing person who appears to be talking or gesturing.\n\nAudio: The audio includes a man speaking, likely the one standing. There's also some background noise, possibly from other people or activities in the room. The speech seems to be in English, but without more context, it's hard to determine the exact topic."
         },
         {
           "segment_index": 2,
           "time_range": "272.0s - 278.0s",
-          "query": "VISUAL: There's a man standing up talking to three others seated on a red couch. The room has some abstract paintings on the wall behind them. There's also a lamp on a side table next to the couch.AUDIO: Someone is speaking, saying \"exist time oh you know nothing Jon Snow what was it then.\" It seems like they're having a conversation about something related to Jon Snow from Game of Thrones. So, what do you think about this scene?"
+          "query": "Visually, there are four people in a room. One person is standing and talking, while the others are seated. The room has a lamp, some paintings on the wall, and a couch. The colors are mostly warm, like browns and beiges. The people seem to be engaged in a conversation.\n\nAudibly, there's a man speaking, and there's laughter in the background."
         },
         {
           "segment_index": 3,
           "time_range": "278.0s - 284.0s",
-          "query": "VISUAL: There's a group of four people in a room with some art on the wall behind them. One person is standing while three others are sitting on a couch. The standing person seems to be talking or gesturing. The seated ones look engaged in the conversation.AUDIO: Someone says \"you got mail\" followed by \"I love that movie me too really yeah.\" It sounds like they're having a casual chat about a movie. So, what do you think about the movie mentioned?"
+          "query": "Visual: The video shows four people sitting on a red couch in a room with blue walls. There are paintings on the walls, a lamp on a side table, and a coffee table in front of the couch. The people are engaged in conversation, with one person standing and talking to the others. The scene appears to be indoors, possibly in a living room or a similar setting.\n\nAudio: The audio includes dialogue between the people on the couch. The conversation seems casual and friendly, with laughter and smiles. There are no background music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 258.9628653526306
+      "processing_time": 281.09615206718445
     },
     {
-      "comment_index": 3649,
+      "comment_index": 1257,
+      "video_id": "BabsgCQhpu4",
+      "comment": "0:25  \"Actually Jon I actually think winter is over and we're headed into Spring now.\"  \"WINTER IS COMING!\"  Hahahahaha!!!",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 7.0,
+      "comment_timestamp": 25.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "16.0s - 22.0s",
+          "query": "Sure! So, visually, there's a group of people sitting around a table with wine glasses, some food like bread rolls, and flowers on it. The setting seems cozy, maybe indoors, with warm lighting. There s also someone holding a glass of red wine and another person with long hair.Anything specific you want to know more about?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "22.0s - 28.0s",
+          "query": "Visually, there are several people sitting around a table. They seem to be having a meal or a gathering. There are wine glasses, some food items like nuts, and a vase with white flowers on the table. The background has a lamp and some wall art. The people are engaged in conversation, with one person holding a wine glass and talking. The lighting is warm and cozy, suggesting an indoor setting. The overall mood appears to be relaxed and social.\n\nAudio-wise, there's a man speaking. He seems to be introducing someone named John, saying something like \"who's your new friend again Seth, this is John.\" The tone is friendly and conversational. There's also laughter in the background, indicating a light-hearted and jovial atmosphere."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "28.0s - 34.0s",
+          "query": "Visually, there are two men sitting at a table. One has curly hair and is wearing a dark coat, while the other has short hair and is in a plaid shirt. The table has wine glasses, a pitcher, and some white flowers. The background shows a wall with a painting. There's also a hashtag \"#LNSM\" visible on the table.Audibly, there's a man speaking, and you can hear laughter in the background."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 199.661283493042
+    },
+    {
+      "comment_index": 1258,
       "video_id": "BabsgCQhpu4",
       "comment": "0:14 Hodor, is that you?",
       "language": "en",
@@ -590,21 +529,81 @@
         {
           "segment_index": 1,
           "time_range": "5.0s - 11.0s",
-          "query": "VISUAL: The video shows a man sitting at a table with food and wine glasses. He's wearing a plaid shirt and has short hair. There are other people around him, some also eating or drinking. The setting seems to be indoors, like a dining room. The lighting is warm and cozy.AUDIO: Someone is speaking, saying \"Thank you all so much for coming over. Of course, this is so nice.\" It sounds like they're expressing gratitude to guests. There's no background music or sound effects, just their voice. What do you think about it?"
+          "query": "**Visual:** The scene shows an indoor setting with a man sitting at a table. There's food on the table, including a plate that looks like it has pasta or something similar. A glass of red wine is also visible. The room appears to be dimly lit, creating a cozy atmosphere. There are some plants near the window.\n\n**Audio:** Someone is speaking, saying \"so much for coming over\" followed by \"of course this is so nice.\" Then they mention walking from Brooklyn because of something unspecified."
         },
         {
           "segment_index": 2,
           "time_range": "11.0s - 17.0s",
-          "query": "VISUAL: There's a group of people sitting around a table with food and wine glasses. The setting seems to be indoors, like a restaurant or dining room. You can see some white flowers on the table too.AUDIO: Someone is talking about how beautiful it is today in New York during spring. It sounds like they're having a nice conversation. There's also laughter at the end, probably from the other people at the table.So, what do you think about that? Do you have any similar experiences?"
+          "query": "Visually, there are several people sitting around a table. The table is set with wine glasses, a pitcher, and some food. There are also flowers on the table. The people seem to be engaged in conversation. The background has a lamp and some other indistinct items. The overall color scheme is warm, with browns and beiges dominating.The audio features a conversation between two people. One person says, \"it's so beautiful today\" and the other replies, \"New York is gorgeous in the spring.\" There's also a brief moment of laughter."
         },
         {
           "segment_index": 3,
           "time_range": "17.0s - 23.0s",
-          "query": "VISUAL: There's a group of people sitting around a table with food and drinks. One person is wearing a black fur coat and has long hair. They seem to be having a conversation. The table has white flowers on it.AUDIO: You can hear laughter and applause in the background. It seems like they're reacting to something funny or exciting that was said.What do you think about the scene?"
+          "query": "Visually, there are several people sitting around a table. They seem to be in a dimly lit room, possibly a restaurant or a private dining area. There are wine glasses, a vase with white flowers, and some food items on the table. The people are engaged in conversation, and one person is seen drinking from a glass. The overall atmosphere appears to be relaxed and social.\n\nIn terms of audio, there is laughter and applause heard, suggesting a light-hearted and jovial mood among the people present."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 234.8745038509369
+      "processing_time": 216.09528183937073
+    },
+    {
+      "comment_index": 1259,
+      "video_id": "BabsgCQhpu4",
+      "comment": "4:40 Daenarys Stormborn won't be happy about this.",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 5.0,
+      "comment_timestamp": 280.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "271.0s - 277.0s",
+          "query": "Visually, there are four people in a room. One person is standing and talking, while the others are seated, looking at him. The room has a lamp, some paintings on the wall, and a couch. The colors are mostly warm, like browns and beiges. The people seem to be engaged in a conversation.\n\nAudio-wise, there's a man speaking, and he seems to be making a joke or a comment that gets a laugh from the others. There's also some background noise, like the sound of a lamp or a fan."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "277.0s - 283.0s",
+          "query": "Visually, there are four people in a room. One person is standing and talking, while the others are seated on a red couch. The room has a lamp on a side table, and there are some abstract paintings on the walls. The colors are mostly warm, like browns and beiges. The people seem to be engaged in a conversation, with the standing person gesturing as they speak. The seated individuals are listening and reacting, like laughing or nodding.\n\nAudio-wise, there's a man speaking, and he seems to be saying something like \"you got mail\" and \"love that movie.\" There's also laughter from the seated people, indicating they're enjoying the conversation."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "283.0s - 289.0s",
+          "query": "Visually, there are two people sitting close together, one with curly hair and the other with dark hair. They seem to be engaged in a conversation or interaction. The background is somewhat blurred, but it looks like an indoor setting with a lamp and some furniture. The lighting is warm and cozy.\n\nAudio-wise, there's a sound effect that resembles a \"whoosh\" or \"swoosh\" noise, which might indicate a transition or a dramatic moment. There's also a brief moment of applause, suggesting that something positive or exciting has just happened."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 247.9162871837616
+    },
+    {
+      "comment_index": 1260,
+      "video_id": "BabsgCQhpu4",
+      "comment": "Look at 2:34 when he realizes he had overdone it🤣🤣",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 5.0,
+      "comment_timestamp": 154.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "145.0s - 151.0s",
+          "query": "Visually, there are three people sitting around a table. The table has wine glasses, a vase with white flowers, and some food. The room has a lamp and a wall-mounted light fixture. The people seem to be engaged in conversation, with one person gesturing with a wine glass. The overall color scheme is warm, with browns and reds from the wine and the room's decor.Audibly, there's a man speaking. He's talking about something related to \"LNSM\" and mentions a place that's 700 feet high and 300 miles wide, made of pure ice."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "151.0s - 157.0s",
+          "query": "Visually, there are several people sitting around a dining table. The table is set with wine glasses, plates of food, and some decorative items like flowers. The room has a modern decor with a lamp and some wall art. The people seem to be engaged in conversation, with one person gesturing with their hands. The lighting is warm and creates a cozy atmosphere.\n\nIn terms of audio, there's a man speaking, and his words are somewhat harsh and cold in tone. There's also laughter from the people at the table, indicating a light-hearted or humorous moment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "157.0s - 163.0s",
+          "query": "Visually, there are several people sitting around a dining table. The table is set with wine glasses, plates of food, and a vase of white flowers. The background shows a dimly lit room with some wall art. The people seem to be engaged in conversation, with one person leaning forward, possibly reacting to something. The overall color scheme is warm, with browns and reds from the table setting and clothing.\n\nIn terms of audio, there's laughter and applause heard, suggesting a light-hearted or humorous moment. There's also some speech, but it's not clear what's being said due to the short duration."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 191.89480137825012
     }
   ]
 }

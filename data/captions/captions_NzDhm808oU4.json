@@ -4,100 +4,9 @@
   "successful_comments": 20,
   "failed_comments": 0,
   "success_rate": "100.0%",
-  "processing_time": 9748.283703804016,
   "comments": [
     {
-      "comment_index": 3816,
-      "video_id": "NzDhm808oU4",
-      "comment": "2:02 “thank you brother”🧍🏼 I LOST IT😭",
-      "language": "en",
-      "channel_name": "TheDailyShow",
-      "category": "talk show",
-      "likes": 30.0,
-      "comment_timestamp": 122.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "113.0s - 119.0s",
-          "query": "VISUAL: There's a man in a suit holding a microphone talking to another guy in a blue shirt and cap outside a building labeled \"CIVIC CENTER\". In the background, there are people walking around, some tents set up, one with \"TRUMP\" written on it. The scene seems busy and outdoorsy.AUDIO: Someone is speaking about Dave Matthews having African Americans in his band and asking when they see someone who isn't white. It's just speech without any other distinct sounds like music or sound effects.If you have more questions about the video or want to discuss something else related to it, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "119.0s - 125.0s",
-          "query": "VISUAL: There's a crowd gathered outside, some wearing Trump hats and shirts. A man in a suit is interviewing someone in a white shirt and cap. The background has trees and tents. The scene seems to be at an outdoor event.AUDIO: Someone is speaking, saying \"Here right here thank you brother Donald Trump don't even know how much a loaf of bread or a dozen eggs.\" It sounds like they're talking about the high cost of basic goods compared to Trump's popularity. So, what do you think about this?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "125.0s - 131.0s",
-          "query": "VISUAL: There's a man in a white shirt and cap talking to another man in a suit who has a microphone. In the background, there are some people wearing Trump hats and shirts. The setting seems to be outdoors with trees and tents visible.AUDIO: A man is speaking, saying \"so you don't even support Donald Trump no okay so he didn't work in other words.\" It's just his voice without any music or sound effects. What do you think about it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 439.22143507003784
-    },
-    {
-      "comment_index": 3811,
-      "video_id": "NzDhm808oU4",
-      "comment": "How can a woman think like that about other women?  That’s too much toxicity she has.  Lady at 4:03. 🙄🙄🙄",
-      "language": "en",
-      "channel_name": "TheDailyShow",
-      "category": "talk show",
-      "likes": 179.0,
-      "comment_timestamp": 243.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "234.0s - 240.0s",
-          "query": "VISUAL: A man in a white shirt and tie is holding a microphone and interviewing a woman wearing a white hat with \"TRUMP\" on it. They're standing outdoors at some kind of event with tents and people around. The woman seems to be speaking into the microphone while the man listens. There's also an American flag visible in the background.AUDIO: Someone is speaking, saying something about females having more hormones and being able to start a war quickly if they were president. It's just one person talking without any other distinct sounds or music. So, what do you think about that?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "240.0s - 246.0s",
-          "query": "VISUAL: There's a man in a white shirt and tie holding a microphone, interviewing an older woman wearing a hat and sunglasses. They're outdoors at some kind of event with tents and flags in the background. The woman is talking while gesturing with her hands.AUDIO: A female voice is speaking, saying \"is hot flashes whatever boom haven't all wars been started by men.\" It seems like she might be making a point or joke about something related to gender roles or history.If you have any other thoughts on this or want to discuss it further, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "246.0s - 252.0s",
-          "query": "VISUAL: A man in a white shirt and tie is interviewing an older woman wearing a Trump hat and shirt at some kind of outdoor event with tents and flags around. The woman seems to be speaking into a microphone held by the man.AUDIO: There's laughter and applause in the background, along with the man saying \"yes whenever I hear president.\" It also sounds like there might be some music playing faintly in the distance.What do you think about the scene?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 495.2407011985779
-    },
-    {
-      "comment_index": 3812,
-      "video_id": "NzDhm808oU4",
-      "comment": "7:30 holy shit! He predicted only one term!",
-      "language": "en",
-      "channel_name": "TheDailyShow",
-      "category": "talk show",
-      "likes": 87.0,
-      "comment_timestamp": 450.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "441.0s - 447.0s",
-          "query": "VISUAL: There's a man in an orange shirt with \"TRUMP DYNASTY\" written on it standing near a crowd behind a metal barrier. Another man in a dark jacket is talking to him, pointing at his back. The crowd seems to be outdoors, possibly at some kind of event or rally. It looks like it might be raining as there are umbrellas visible.AUDIO: Someone is speaking, saying something about being 20 feet away from someone else, mentioning years like 24 to 28. It sounds like they're having a conversation about distance and time. What do you think about this scene?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "447.0s - 453.0s",
-          "query": "VISUAL: There's an older man wearing a red \"TRUMP DYNASTY\" shirt with names and dates on it. He's talking to another man in a brown jacket. The background shows a crowd behind a fence, some holding umbrellas, suggesting it might be raining or overcast. There's also a large white statue visible.AUDIO: A voice is heard saying something about one - term presidents, mentioning Ivanka and Don Jr. It seems like a discussion or argument about political terms. What do you think about that?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "453.0s - 459.0s",
-          "query": "VISUAL: There's a man in an orange shirt with \"TRUMP DYNASTY\" written on it, standing outside near a crowd behind a fence. Another man in a dark jacket is talking to him. The crowd seems to be at some kind of event or gathering.AUDIO: A voice asks about the date for Ivanka Trump, which is given as 2024 - 2028. Then there's a bit of confusion about whether that's four years or eight years. It ends with someone saying \"that's four years.\" What do you think about this?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 516.3647832870483
-    },
-    {
-      "comment_index": 3810,
+      "comment_index": 3593,
       "video_id": "NzDhm808oU4",
       "comment": "3:18 Joseph Stalin calls Bernie Sanders “Bolshevik” in 2020. I’ve seen everything now.",
       "language": "en",
@@ -110,114 +19,84 @@
         {
           "segment_index": 1,
           "time_range": "189.0s - 195.0s",
-          "query": "VISUAL: There's a man in a white shirt and tie holding a microphone and clipboard, talking to an older woman with glasses outside near some buildings. Then it cuts to two men in brown jackets having a conversation outdoors, one wearing a hat with \"TRUMP 2020\" on it.AUDIO: A male voice says something like \"that's the wrong answer sorry hold on\" followed by \"one word descriptor Joe Biden Nicholas Elizabeth Warren Elizabeth.\" It seems like there might be applause or cheering in the background too.What do you think about that? Any thoughts or questions?"
+          "query": "Visual: The video shows a man holding a clipboard while standing outdoors with other people around him. There's also another scene where two men are talking outside, one wearing a \"Trump 2020\" hat.\n\nAudio: Speech is heard throughout the video segments."
         },
         {
           "segment_index": 2,
           "time_range": "195.0s - 201.0s",
-          "query": "VISUAL: There's two men talking outdoors. One is wearing an American flag hat and brown jacket, while the other has on an orange jacket with patches and a cap. They seem to be at some kind of event with tents and people around. The background shows trees without leaves, suggesting it might be fall or winter.AUDIO: Someone is speaking, saying \"Warren scummy Bernie Sanders Bolshevik Pete Buttigieg.\" It seems like they're criticizing these political figures. What do you think about that?"
+          "query": "Visual: The video shows two men outdoors. One is wearing a brown jacket and a red, white, and blue bandana, while the other is in an orange jacket with various patches and a gray cap. They seem to be having a conversation, with the man in the brown jacket holding a microphone. There are tents and other people in the background, suggesting a public event or gathering. The setting appears to be in a park or open area with trees and grass.\n\nAudio: The audio includes speech from the two men. The man in the brown jacket is speaking into the microphone, and the man in the orange jacket is responding. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "201.0s - 207.0s",
-          "query": "VISUAL: There's a man wearing an orange jacket with American flag patterns and patches on it. He has a mustache and is talking to another person who's holding a microphone. The background shows some tents and flags, suggesting an outdoor event. There are also other people around, some walking or standing.AUDIO: You can hear laughter and then someone asking \"What's the punchline?\" followed by more laughter. It seems like they're having a light-hearted conversation about a joke. So, what do you think about that?"
+          "query": "**Visual:** The video shows two men outdoors at an event with tents and flags visible in the background. One man is wearing a dark jacket and holding a microphone, while the other is dressed in a colorful outfit adorned with various patches and a cap. They appear to be engaged in conversation.\n\n**Audio:** There's laughter from both individuals, followed by one person speaking into the microphone."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 468.93203139305115
+      "processing_time": 176.09433603286743
     },
     {
-      "comment_index": 3814,
+      "comment_index": 3594,
       "video_id": "NzDhm808oU4",
-      "comment": "I love how women are trying to get equal rights and want to become president, and this female is bringing them done. 4:00",
+      "comment": "How can a woman think like that about other women?  That’s too much toxicity she has.  Lady at 4:03. 🙄🙄🙄",
       "language": "en",
       "channel_name": "TheDailyShow",
       "category": "talk show",
-      "likes": 45.0,
-      "comment_timestamp": 240.0,
+      "likes": 179.0,
+      "comment_timestamp": 243.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "231.0s - 237.0s",
-          "query": "VISUAL: There's a man in a white shirt and tie holding a microphone and clipboard, interviewing a woman wearing a white hat with \"TRUMP\" on it. They're outdoors at some kind of event with tents and people around. The background has trees and an American flag.The AUDIO: A man is speaking about women being qualified to be president, saying something like \"The man's job I have women are qualified to be president no a female has more.\" It seems like he's making a point or argument about gender qualifications for leadership roles.If you want to talk more about this or have other questions, feel free to let me know!"
+          "time_range": "234.0s - 240.0s",
+          "query": "Visually: The video shows a man in a white shirt and tie interviewing a woman in a white shirt and hat outdoors. There are other people and tents in the background, suggesting a public event or gathering. The scene is well-lit, indicating it's daytime. The man holds a microphone towards the woman as they interact.\n\nAudio: The main audio is a conversation between the man and woman. The woman speaks, saying something about hormones and the possibility of starting a war quickly. There are no other distinct sounds or music in the audio."
         },
         {
           "segment_index": 2,
-          "time_range": "237.0s - 243.0s",
-          "query": "VISUAL: A man in a white shirt and tie is interviewing an older woman wearing a white hat with \"TRU\" on it. The woman is holding a microphone and appears to be speaking animatedly while gesturing with her hands. There's a crowd in the background, some tents, cars, and American flags. It looks like an outdoor event or gathering.AUDIO: Someone is speaking about hormones and how they could potentially lead to a war within ten seconds if there are hot flashes. The tone seems somewhat dramatic. There are no other distinct sounds besides the speech. So, what do you think about that?"
+          "time_range": "240.0s - 246.0s",
+          "query": "Visually, there's an outdoor scene with tents set up, likely at some kind of event or fair. A man in a white shirt and tie is interviewing someone wearing a hat and holding a microphone. There are other people around, some walking and others standing near the tents. The background shows more tents and open space.\n\nIn terms of audio, it seems like there might be some conversation happening between the interviewer and interviewee, though I can't make out specific words from just the description. There could also be ambient noise typical for such an outdoor setting, like distant chatter or wind rustling through trees."
         },
         {
           "segment_index": 3,
-          "time_range": "243.0s - 249.0s",
-          "query": "VISUAL: A man in a white shirt and tie is interviewing an older woman wearing a white hat and a Trump-themed shirt at some kind of outdoor event with tents and flags around. The woman has her hands on her hips while talking to him.AUDIO: There's a male voice saying \"Haven't all wars been started by men?\" followed by laughter and applause."
+          "time_range": "246.0s - 252.0s",
+          "query": "**Visual:** The video shows a man in a white shirt and tie interviewing a woman wearing a white hat and a light-colored shirt. They are outdoors, with a crowd of people and tents visible in the background. The setting appears to be a public event or gathering, possibly a fair or festival. The man is holding a microphone and seems to be asking questions, while the woman responds. The background is slightly blurred, emphasizing the two main figures in the foreground.\n\n**Audio:** There is laughter and applause heard in the background, suggesting a positive and lively atmosphere. The main audio consists of the man speaking and the woman responding, indicating an ongoing conversation or interview."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 477.8984606266022
+      "processing_time": 238.44860768318176
     },
     {
-      "comment_index": 3815,
+      "comment_index": 3595,
       "video_id": "NzDhm808oU4",
-      "comment": "4:20 “ThAtS A mAnS jOb “ miss girl thats the internalized misogyny speaking 😭💀💀",
+      "comment": "7:30 holy shit! He predicted only one term!",
       "language": "en",
       "channel_name": "TheDailyShow",
       "category": "talk show",
-      "likes": 39.0,
-      "comment_timestamp": 260.0,
+      "likes": 87.0,
+      "comment_timestamp": 450.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "251.0s - 257.0s",
-          "query": "VISUAL: A woman wearing a white cap with \"TRUMP\" on it is being interviewed outdoors. She's holding something in her hand while talking to a man in a white shirt and tie who has a microphone. There are tents, cars, and other people in the background. The scene seems to be at some kind of public event or gathering.AUDIO: A woman is speaking about presidents and associating them with men, saying it's a man's job. It's just her voice without any music or sound effects. So, what do you think about this? Do you have any similar experiences?"
+          "time_range": "441.0s - 447.0s",
+          "query": "**Visual:** The video shows a man in a dark jacket pointing at the back of a red shirt worn by another man. The red shirt has text on it, but it's not fully clear. There are other people in the background, some wearing similar red shirts. The setting seems to be outdoors, possibly at an event or gathering, with a fence visible. The weather looks overcast.\n\n**Audio:** The audio includes a conversation between two men. One man is speaking, and the other responds. The dialogue is in English, and the speaker seems to be explaining something about a time frame, mentioning \"20 24 to 28\" and \"four years.\""
         },
         {
           "segment_index": 2,
-          "time_range": "257.0s - 263.0s",
-          "query": "VISUAL: There's a man in a white shirt and tie holding a microphone, interviewing a woman wearing a white hat and a light-colored top. They're standing outdoors with parked cars and tents visible in the background. The woman is gesturing while speaking.The AUDIO: A female voice is heard saying \"misogynistic\" twice during the interview. It seems like she might be responding to something the interviewer said or asking about it.What do you think about the context of their conversation?"
+          "time_range": "447.0s - 453.0s",
+          "query": "**Visual:** The video shows a group of people outdoors. There's a man in a red shirt with \"TRUMP 2016-2020\" written on it, and another man in a black jacket. They seem to be interacting, possibly having a conversation. The background has a crowd and some barriers, suggesting a public event or gathering.\n\n**Audio:** The audio includes a voice speaking, but the content of the speech is not clear from the provided information."
         },
         {
           "segment_index": 3,
-          "time_range": "263.0s - 269.0s",
-          "query": "VISUAL: There's a man in a white shirt and tie talking to a woman wearing a white hat with \"TRUMP\" on it. They seem to be having an argument or discussion. The background shows some tents, cars, and other people around, suggesting an outdoor event like a rally or fair. The lighting is bright, indicating daytime.AUDIO: A man is speaking, saying things like \"No, you're voting against your own interests.\" He also says \"That's it! Thank you very much. He's extreme.\" It seems like he's trying to persuade someone about voting. There's no music or sound effects, just his voice and some faint ambient noise from the crowd in the background.If you have any thoughts or questions about this analysis, feel free to share!"
+          "time_range": "453.0s - 459.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.87 GiB is free. Including non-PyTorch memory, this process has 15.68 GiB memory in use. Of the allocated memory 13.59 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 490.58637952804565
+      "processing_time": 395.0906150341034
     },
     {
-      "comment_index": 3817,
-      "video_id": "NzDhm808oU4",
-      "comment": "1:59 “thank you brother” 🤣 lmaoo",
-      "language": "en",
-      "channel_name": "TheDailyShow",
-      "category": "talk show",
-      "likes": 23.0,
-      "comment_timestamp": 119.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "110.0s - 116.0s",
-          "query": "VISUAL: There's an outdoor scene with lots of white tents set up. People are milling around near tables. In the foreground, two men are having a conversation. One is dressed formally in a suit and tie, while the other wears a blue cap and t - shirt.AUDIO: The main audio features someone talking about it being like a Dave Matthews concert, except mentioning that Dave Matthews has African Americans in his band. There are no background music or sound effects, just the man speaking. So, what do you think about this comparison?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "116.0s - 122.0s",
-          "query": "VISUAL: There's a crowd gathered at an outdoor event. People are walking around, some wearing Trump hats and shirts. There are tents set up with \"TRUMP GEAR\" written on one. The scene has trees and buildings in the background.AUDIO: Someone is speaking, saying \"tell me when you see somebody who is not white here right here thank you brother Donald.\" It seems like they're addressing someone named Donald. What do you think about this?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "122.0s - 128.0s",
-          "query": "VISUAL: There's a man in a white shirt and cap talking to another man in a suit. In the background, there are some people wearing Trump hats and others with American flag patterns on their clothes. There are also some banners or signs hanging around. The setting seems to be outdoors at night, with trees visible.The AUDIO: A man is speaking, saying \"Trump don't even know how much a loaf of bread or a dozen eggs cost so you don't you don't even support Donald Trump.\" It's just his voice, no other sounds like music or sound effects. What do you think about this?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 416.0979857444763
-    },
-    {
-      "comment_index": 3813,
+      "comment_index": 3596,
       "video_id": "NzDhm808oU4",
       "comment": "7:37 it kills me how flustered Jordan is when he says “THATS 4 YEARS!!”",
       "language": "en",
@@ -230,24 +109,144 @@
         {
           "segment_index": 1,
           "time_range": "448.0s - 454.0s",
-          "query": "VISUAL: There's a man in a brown jacket talking to another person wearing an orange shirt with \"TRUMP DYNASTY\" written on it. The background shows a crowd behind barriers, some holding signs. It looks like an outdoor event, maybe a rally or protest.AUDIO: A man is speaking, saying something about one - term presidents, mentioning Ivanka and Don Jr. There's also laughter heard in the background.What do you think about this scene? Any thoughts or questions?"
+          "query": "Visually, there are two people in the foreground. One is wearing a red shirt with \"TRUMP DYNASTY\" and \"TRUMP 2016-2020\" written on it. The other is in a dark jacket. They seem to be interacting, with the person in the dark jacket gesturing towards the person in the red shirt. In the background, there are more people, some wearing hats and scarves, suggesting a cold weather setting. There are also metal barriers visible.\n\nAudio-wise, there's a conversation between the two people in the foreground. The person in the dark jacket is speaking, and the person in the red shirt is responding. The speech is in English."
         },
         {
           "segment_index": 2,
           "time_range": "454.0s - 460.0s",
-          "query": "VISUAL: There's a man in a red shirt with \"TRUMP DYNASTY\" written on it, pointing at his back where names and years are listed. Another man in a dark jacket is talking to him. In the background, there are metal barriers and a crowd of people, some holding umbrellas. The scene seems to be outdoors, possibly during an event.AUDIO: A voice says something about Ivanka being related to certain years, specifically 2024 and 2028, and mentions that it's four years. There's also laughter heard towards the end."
+          "query": "**Visual:** The video shows two men interacting outdoors on a cloudy day. One man is wearing an orange hoodie with various names printed on it, while the other is dressed in dark clothing. There's a crowd behind a metal barricade in the background.\n\n**Audio:** Someone says \"that's four years\" in English."
         },
         {
           "segment_index": 3,
           "time_range": "460.0s - 466.0s",
-          "query": "VISUAL: There's a man in a red \"Trump Dynasty\" shirt with names and years on it. He's talking to another guy in a dark jacket. They seem to be having some kind of interaction near a crowd behind metal barriers. The background has a lot of people, some holding umbrellas, suggesting it might be raining or overcast.AUDIO: You can hear applause and cheering from an audience, along with some speech that seems to be about someone getting elected. It's not clear who is speaking though.So, what do you think about this scene? Any thoughts or questions?"
+          "query": "Visually, there are two men in the foreground. One is wearing a red hoodie with \"TRUMP DYNASTY 2020\" and a list of years printed on the back. The other man is in a dark jacket. They seem to be interacting, possibly shaking hands or exchanging something. In the background, there's a crowd of people, some holding umbrellas, suggesting it might be raining. There are also barricades or fences separating the crowd from the men in the foreground. The overall scene looks like it could be at a political rally or event.\n\nAudibly, there's applause and cheering from the crowd in the background. The man in the dark jacket is speaking, but the content of his speech isn't clear from the audio alone."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 440.8789551258087
+      "processing_time": 200.1606616973877
     },
     {
-      "comment_index": 3818,
+      "comment_index": 3597,
+      "video_id": "NzDhm808oU4",
+      "comment": "I love how women are trying to get equal rights and want to become president, and this female is bringing them done. 4:00",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 45.0,
+      "comment_timestamp": 240.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "231.0s - 237.0s",
+          "query": "Visually, there's a man in a white shirt and tie holding a microphone and a clipboard, talking to a woman wearing a white hat and a light-colored shirt. They seem to be at an outdoor event with tents and people in the background. The scene is well-lit, suggesting it's daytime. There are also some flags visible in the distance.\n\nIn terms of audio, the man is speaking, and his words are about women being qualified to be president. The woman seems to be listening to him. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "237.0s - 243.0s",
+          "query": "Well, in the visual part, there's a woman in a white shirt and tie talking to a man in a white shirt and tie. They seem to be having a conversation. There are other people around them, some with umbrellas, and it looks like they're in an outdoor area with some tents and trees in the background. The colors are mostly bright, like the white of their shirts and the green of the trees.The audio part? Well, there's a woman speaking. She says something about hormones and starting a war in 10 seconds. It's a bit of a strange thing to say, isn't it? So, what do you think about this video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "243.0s - 249.0s",
+          "query": "Visually, there's a man in a white shirt and tie interviewing a woman in a light blue outfit with a white hat. They're outdoors, with tents and people in the background. The woman seems to be holding something, possibly a sign or a small object. The scene looks like it could be at some kind of public event or fair.\n\nIn terms of audio, there's a man speaking, and then laughter can be heard."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 260.1113328933716
+    },
+    {
+      "comment_index": 3598,
+      "video_id": "NzDhm808oU4",
+      "comment": "4:20 “ThAtS A mAnS jOb “ miss girl thats the internalized misogyny speaking 😭💀💀",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 39.0,
+      "comment_timestamp": 260.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "251.0s - 257.0s",
+          "query": "Visually, there are two people in the video. One is wearing a white shirt and tie, holding a microphone, and the other is in a white shirt with \"ALABAMA\" written on it, wearing a cap and sunglasses. They seem to be having a conversation outdoors, with some tents and other people in the background. The scene looks like it's in a park or an open area with trees and a clear sky. There are also some vehicles parked in the distance. The colors are bright, suggesting it's daytime.Audibly, there's a woman speaking. She says, \"whenever I hear president I think of man.\" It sounds like she's responding to something said by the man with the microphone. There are no other distinct sounds or music in the audio."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "257.0s - 263.0s",
+          "query": "**Visual:** The video shows two people outdoors, likely in a parking lot or similar open area. One person, a woman, is wearing a white cap and a light-colored shirt. The other person, a man, is dressed in a white shirt and tie. They appear to be engaged in a conversation. There are cars and tents visible in the background, suggesting some kind of event or gathering. The lighting indicates it's daytime, possibly late afternoon.\n\n**Audio:** The audio includes speech from the man and woman. The man seems to be speaking directly to the woman, and there are moments of laughter and applause in the background, indicating a public or social setting."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "263.0s - 269.0s",
+          "query": "**Visual:** The video shows a man in a white shirt and tie holding a microphone, interviewing a woman in a white shirt and cap. They are outdoors, with a tent and some people in the background. The setting seems to be a public event or gathering. The colors are bright, suggesting it's daytime.\n\n**Audio:** The audio includes a man speaking, saying \"no you're voting against your own interests\" and \"that's it thank you very much.\" There's also laughter heard in the background."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 233.25583791732788
+    },
+    {
+      "comment_index": 3599,
+      "video_id": "NzDhm808oU4",
+      "comment": "2:02 “thank you brother”🧍🏼 I LOST IT😭",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 30.0,
+      "comment_timestamp": 122.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "113.0s - 119.0s",
+          "query": "Visual: The video shows an outdoor scene with several people walking around. There's a man in a suit and tie talking to another person wearing a blue shirt and cap. In the background, there are tents set up, some with political slogans like \"TRUMP GEAR.\" Trees and buildings can also be seen.\n\nAudio: Someone is speaking, but it's not clear who or what they're saying due to the short duration."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "119.0s - 125.0s",
+          "query": "Visually, there's a group of people in what looks like an outdoor event. Some are wearing Trump-branded items, like hats and shirts. There's a man in a suit shaking hands with someone in a white shirt and a Trump hat. The background has trees and a building, suggesting it's a public gathering. The colors are mostly neutral, with pops of red, white, and blue from the Trump gear. Movement is mainly from the people interacting, like shaking hands and talking.\n\nAudio - The audio is mostly speech. It starts with someone saying \"Here, right here, thank you, brother.\" Then there's a pause, and someone else says \"Donald Trump don't even know how much a loaf of bread or a dozen.\" The speech is clear and seems to be part of a conversation or interview."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "125.0s - 131.0s",
+          "query": "Visually, there are several people in the scene. Some are wearing patriotic-themed clothing, like hats with stars and stripes. There's a man in a white shirt and a blue cap talking to another man in a dark suit. The background seems to be outdoors, possibly at a public event or gathering. The people are standing close together, and there's some movement as they interact.\n\nIn terms of audio, there's a conversation between the two men. One of them is speaking, and the other is responding. The speech is clear and audible, and there are no other significant sounds like music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 209.4585735797882
+    },
+    {
+      "comment_index": 3600,
+      "video_id": "NzDhm808oU4",
+      "comment": "1:59 “thank you brother” 🤣 lmaoo",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 23.0,
+      "comment_timestamp": 119.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "110.0s - 116.0s",
+          "query": "**Visual:** The video shows an outdoor event with several white tents set up. There are people milling around, some sitting at tables. A man in a suit and tie is talking to another man wearing a blue shirt and a cap. The background includes a building with a sign that says \"CIVIC CENTER.\" Trees are also visible.\n\n**Audio:** The audio features a conversation between the two men. One of them is speaking, and the other is listening. The speech is clear and audible."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "116.0s - 122.0s",
+          "query": "Visually, there's a crowd of people in what looks like an outdoor event. Some are wearing Trump hats and there are American flags around. There's a man in a suit talking to someone in a Trump hat. The scene has a lot of movement as people are walking and interacting. The colors are mostly red, white, and blue from the flags and hats. The overall scene gives off a political rally vibe.Audibly, there's a man speaking, and he says \"Tell me when you see somebody who is not white here right here.\" There's also some background chatter and laughter."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "122.0s - 128.0s",
+          "query": "Sure! So, visually, there's a group of people outdoors. You can see some trees and buildings in the background. There s someone wearing a Trump hat among them. The scene seems to be during daytime with natural light. As for the audio, it mainly consists of conversation between two men. One is speaking angrily while the other listens. There aren t any noticeable music or sound effects.Anything else you want to know about the video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 261.5240354537964
+    },
+    {
+      "comment_index": 3601,
       "video_id": "NzDhm808oU4",
       "comment": "That women at 1:17. How did she ever get through life with that attitude.",
       "language": "en",
@@ -260,54 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "68.0s - 74.0s",
-          "query": "Well, I haven't actually seen the video yet. But if it's a typical kind of video, for the visual part, there could be some objects like furniture or decorations depending on the setting. Maybe there are people doing something like cooking or cleaning. The colors might be warm or cool based on the lighting. And the movement could be things being moved around or people walking around.For the audio part, if there's speech, it could be someone talking about the scene they're in. There might also be background music to set the mood. Sound effects could be related to the actions happening in the video, like chopping vegetables or turning on a faucet.If you can tell me more about the video, that would help me give a better analysis. So, go ahead and share any details you have."
+          "query": "**Visual:** The video shows a man in a suit holding a microphone, interviewing a woman with short hair. They are outdoors, with trees and a building in the background. There are other people and tents visible in the distance. The woman is wearing a dark jacket with red and white stripes. The man is holding a notepad in his other hand.\n\n**Audio:** The man is speaking, asking questions. The woman responds, but her words are not clearly audible. There are no distinct sound effects or music."
         },
         {
           "segment_index": 2,
           "time_range": "74.0s - 80.0s",
-          "query": "Well, I haven't actually seen the video yet. But if it's a typical kind of video, for the visual part, there could be some objects like furniture or decorations depending on the setting. Maybe there are people doing something like cooking or cleaning. The colors might be warm or cool based on the lighting. And the movement could be things being moved around or people walking around.For the audio part, if there's speech, it could be someone talking about the scene they're in. There might also be background music to set the mood. Sound effects could be related to the actions happening in the video, like chopping vegetables or turning on a faucet.If you can tell me more about the video, that would help me give a better analysis. So, go ahead and share any details you have."
+          "query": "Visually, there are two people in the foreground. One is wearing a red hat and a scarf with an American flag pattern, and the other is in a suit and tie, holding a microphone. They seem to be having a conversation. In the background, there are other people, some tents, and trees. The setting looks like an outdoor event or gathering. The colors are mostly neutral, with the red hat and scarf standing out. There's some movement from the people in the background.\n\nAudio-wise, there's a man speaking. He says, \"X and bull you put it all together exactly Obama is a Muslim he's a terrorist nobody will ever tell me different.\" The speech is clear and the man's tone seems somewhat forceful."
         },
         {
           "segment_index": 3,
           "time_range": "80.0s - 86.0s",
-          "query": "Well, I haven't actually seen the video yet. But if it's a typical kind of video, for the visual part, there could be some objects like furniture or decorations depending on the setting. Maybe there are people doing something like cooking or cleaning. The colors might be warm or cool based on the lighting. And the movement could be things being moved around or people walking around.For the audio part, if there's speech, it could be someone talking about the scene they're in. There might also be background music to set the mood. Sound effects could be related to the actions happening in the video, like chopping vegetables or turning on a faucet.If you can tell me more about the video, that would help me give a better analysis. So, go ahead and share any details you have."
+          "query": "**Visual:** The video shows a woman wearing a red hat and a scarf with an American flag design. She appears to be speaking or reacting to something. There are other people in the background, some holding signs, suggesting a public event or protest. The setting seems to be outdoors, possibly in a parking lot or open area with tents or stalls.\n\n**Audio:** The audio contains a conversation. One person is speaking, and the other is responding. The dialogue includes phrases like \"Do I have proof?\" and \"No, do I have articles?\" The tone suggests a discussion or debate, possibly related to the event shown in the video."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 581.9990882873535
+      "processing_time": 352.11073207855225
     },
     {
-      "comment_index": 3821,
-      "video_id": "NzDhm808oU4",
-      "comment": " [USER]  Klepper correctly points out at 7:40 that that notation could very well mean that somebody else gets elected in between",
-      "language": "en",
-      "channel_name": "TheDailyShow",
-      "category": "talk show",
-      "likes": 13.0,
-      "comment_timestamp": 460.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "451.0s - 457.0s",
-          "query": "VISUAL: There's a man in a red shirt with \"TRUMP DYNASTY\" written on it, standing outside. He has a list of names and dates printed on his back. Another man in a dark jacket is talking to him. In the background, there are other people, some holding signs, and metal barricades. The scene seems to be outdoors, possibly at an event.AUDIO: A voice asks about something related to Ivanka Trump and a date, specifically mentioning \"2024.\" Then someone responds that \"Ivanka is 2024.\" It sounds like they're discussing political stuff or something related to politics.What do you think about this? Do you have any ideas on why they might be talking about this?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "457.0s - 463.0s",
-          "query": "VISUAL: There's a man in an orange shirt with \"TRUMP DYNASTY\" written on it standing near a metal fence. Another man in a dark jacket is pointing at something on his back. Behind them, there's a crowd of people, some holding signs. The scene seems to be outdoors, possibly during a political event.AUDIO: Someone is speaking, saying things like \"that's eight years that's four years.\" It sounds like they're discussing time periods related to elections or political terms. There's also applause heard towards the end.What do you think about the context of this video?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "463.0s - 469.0s",
-          "query": "VISUAL: There's a man in an orange shirt with \"TRUMP DYNASTY\" written on it, pointing at something. Another man in a dark jacket is standing nearby, looking at him. In the background, there are metal barriers and a crowd of people. The scene seems to be outdoors, possibly during a rainy day as the ground looks wet.AUDIO: Someone is speaking about someone getting elected in 2024 and 2028. It sounds like they're discussing political matters."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 592.7171039581299
-    },
-    {
-      "comment_index": 3819,
+      "comment_index": 3602,
       "video_id": "NzDhm808oU4",
       "comment": "6:53 that whole interview cracked me up",
       "language": "en",
@@ -320,144 +289,54 @@
         {
           "segment_index": 1,
           "time_range": "404.0s - 410.0s",
-          "query": "VISUAL: A woman with curly hair is being interviewed outside a building. There are police officers standing nearby. The background shows a crowd of people, some wearing red hats. The scene appears to be outdoors on a sunny day.AUDIO: Someone is speaking, saying \"be right but I would still vote for him\" followed by \"what if he said everybody should go uh little pigs.\" It's just speech without any other distinct sounds or music. So, what do you think about that?"
+          "query": "Visually, there's a woman in a black outfit being interviewed by a man in a suit. There are other people in the background, some in red and others in darker clothes. The setting seems to be outdoors, possibly near a building. The colors are mostly muted, with the red clothing standing out. The movement is mainly from the interviewee and interviewer, with the background people mostly standing still.\n\nAudio - The woman is speaking, and her words are \"be right but I would still vote for him.\" The man in the suit is also speaking, but his words aren't clear from this segment. There are no distinct sound effects or music."
         },
         {
           "segment_index": 2,
           "time_range": "410.0s - 416.0s",
-          "query": "VISUAL: There's a man in a suit holding a microphone outside a building with a crowd behind him. Then it cuts to another scene where an older man wearing a red shirt and cap is talking to someone else. The background has a lot of people around.AUDIO: Someone is speaking, saying \"would you still vote for him then I would\" followed by \"still vote for him yeah weeks ago I had\". It seems like they're discussing voting preferences. What do you think about that?"
+          "query": "**Visual:** The video shows a man in a suit and tie speaking to a woman with curly hair. They are outdoors, with a crowd of people in the background. The setting appears to be a public event or gathering, possibly a political rally or press conference. The man seems to be addressing the woman directly, and the crowd is engaged, with some people looking towards the speakers. The colors are typical of an outdoor scene, with the blue sky and the varied clothing of the people in the crowd.\n\n**Audio:** The audio features a conversation between the man in the suit and the woman with curly hair. The man is speaking, and the woman responds. The dialogue is clear and focused, suggesting a formal or important discussion. There are no other significant sounds or music in the background, keeping the focus on the conversation."
         },
         {
           "segment_index": 3,
           "time_range": "416.0s - 422.0s",
-          "query": "VISUAL: There's a man in an orange shirt with \"TRUMP DYNASTY\" written on it, standing outside in front of a crowd. He seems to be talking or arguing with another person who has his back turned towards him. The background shows many people, some holding umbrellas, suggesting it might be raining. The scene looks like it could be at some kind of public event.AUDIO: Someone is speaking about having a dream where they were given a vision while being at a screen printing shop. It sounds like they're sharing a personal experience related to screen printing.What do you think about the scene? Does it seem interesting to you?"
+          "query": "**Visual:** The video shows a man in a red shirt with \"TRUMP DYNASTY\" written on the back, standing in a crowded outdoor area. He's interacting with another person in a dark jacket. The background has other people, some tents, and a cloudy sky. There's a sense of movement as people are walking around.\n\n**Audio:** Someone is speaking, but the content of the speech isn't clear from the provided information."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 461.2923324108124
+      "processing_time": 292.6464514732361
     },
     {
-      "comment_index": 3824,
+      "comment_index": 3603,
       "video_id": "NzDhm808oU4",
-      "comment": "Black guy in white shirt in the background at 1:46 have no clue why he's there though",
+      "comment": " @HostileHitman  Klepper correctly points out at 7:40 that that notation could very well mean that somebody else gets elected in between",
       "language": "en",
       "channel_name": "TheDailyShow",
       "category": "talk show",
-      "likes": 10.0,
-      "comment_timestamp": 106.0,
+      "likes": 13.0,
+      "comment_timestamp": 460.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "97.0s - 103.0s",
-          "query": "VISUAL: There's a man in a suit holding a microphone talking to another guy in a blue shirt and cap outside near some tents. In the background, there's a crowd gathered around tables with various items on them. The setting seems like an outdoor event or market.AUDIO: A male voice is speaking, asking about African Americans being present at the location shown in the video. It's just his voice without any other sound effects or music. So, what do you think about this scene?"
+          "time_range": "451.0s - 457.0s",
+          "query": "**Visual:** The video shows a group of people outdoors, possibly at a public event. There are metal barricades visible, suggesting a controlled area. One person is wearing a red shirt with text on it, and another person is interacting with them. The background is somewhat blurry, but it appears to be an overcast day.\n\n**Audio:** The audio includes a voice asking, \"What does it say for Ivanka? What is the date?\" The tone seems to be inquisitive or seeking clarification."
         },
         {
           "segment_index": 2,
-          "time_range": "103.0s - 109.0s",
-          "query": "VISUAL: There's a large group of people under a tent at an outdoor event. They're standing around tables with various items on them, like clothes and hats. Some people are wearing red shirts or hats. The scene is busy with movement as people walk around and interact. There's also a man in a suit holding a microphone talking to another person in a blue shirt and cap.AUDIO: A male voice is speaking over the background noise of the crowd. He says \"the four hundred five hundred people here we don't see any they'll wave.\" It seems like he might be reporting or commenting on something related to the event. So, what do you think about this event?"
+          "time_range": "457.0s - 463.0s",
+          "query": "Visually, there are two men in the foreground. One is wearing a red hoodie with some text on the back, and the other is in a dark jacket. They seem to be interacting, maybe shaking hands or exchanging something. In the background, there are a lot of people, some with umbrellas, suggesting it might be raining. There are also barricades set up, possibly for an event. The overall scene looks like it's outdoors, and the sky is overcast.The audio includes speech, likely from the two men in the foreground. There's also applause from a crowd, which could be from the people in the background. It seems like a public event of some sort."
         },
         {
           "segment_index": 3,
-          "time_range": "109.0s - 115.0s",
-          "query": "VISUAL: There's an outdoor scene with lots of white tents set up on tables. People are milling around near these tables. In the foreground, there's a man in a suit holding a microphone talking to another person wearing a blue cap and shirt. The background shows a building labeled \"CIVIC CENTER\". There's also some greenery like trees visible.AUDIO: Someone is speaking, saying something about it being like a Dave Matthews concert except Dave Matthews actually has that. It seems to be a casual conversation or interview. What do you think about this?"
+          "time_range": "463.0s - 469.0s",
+          "query": "Visually, there are two men in the foreground. One is wearing a red shirt with some text on the back, and the other is in a dark jacket. They seem to be interacting, possibly having a conversation. In the background, there's a crowd of people, some of whom are wearing colorful clothing. There are also metal barriers visible. The sky looks overcast, suggesting it might be a cloudy day. The overall scene gives off a busy, possibly public event vibe.\n\nAudio-wise, there's a voice speaking, but the content of the speech isn't clear from the provided information. There are no distinct sound effects or music."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 537.7244074344635
+      "processing_time": 408.783047914505
     },
     {
-      "comment_index": 3820,
-      "video_id": "NzDhm808oU4",
-      "comment": "The woman at 1:17 is the racist Karen from “my kids can’t hear me they’re listening to kidz bop” video",
-      "language": "en",
-      "channel_name": "TheDailyShow",
-      "category": "talk show",
-      "likes": 17.0,
-      "comment_timestamp": 77.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "68.0s - 74.0s",
-          "query": "VISUAL: A man in a suit is interviewing an older woman wearing a Trump 2016 button. They're outdoors with other people around, some holding flags. The background has trees and buildings.AUDIO: There's a conversation between the interviewer and interviewee. The interviewer asks about sources for information, mentioning Facebook and Twitter. The interviewee responds that they look at everything online."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "74.0s - 80.0s",
-          "query": "VISUAL: A man in a suit is interviewing an older woman wearing a red hat with \"MAKE AMERICA GREAT AGAIN\" written on it. They're outdoors at some kind of event with tents and other people around. The woman has an American flag scarf draped over her shoulders.AUDIO: There's a conversation between the interviewer and interviewee. The woman is speaking about Obama being a Muslim terrorist. It seems to be a political discussion. What do you think about that?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "80.0s - 86.0s",
-          "query": "VISUAL: A woman wearing a red hat with \"MAKE AMERICA GREAT AGAIN\" written on it is being interviewed outside a building labeled \"CANTON MEMORIAL CIVIC CENTER.\" She has an American flag scarf around her neck. There are other people in the background, some holding signs. The interviewer holds a microphone towards her.AUDIO: Someone is speaking, saying \"Do I have proof? No. Do I have articles? No. But your mind is made up without any information. My mind is.\" It seems like a discussion or argument about evidence and opinions. So, what do you think about this kind of situation?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 458.62101674079895
-    },
-    {
-      "comment_index": 3825,
-      "video_id": "NzDhm808oU4",
-      "comment": "0:44 “She has motivation to lie” Ma’am, everyone can lie. Including you.",
-      "language": "en",
-      "channel_name": "TheDailyShow",
-      "category": "talk show",
-      "likes": 7.0,
-      "comment_timestamp": 44.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "35.0s - 41.0s",
-          "query": "VISUAL: There's a man in a suit holding a microphone, interviewing an older woman with red hair outside. The background shows some buildings, trees, and a few other people around. There's also a Trump campaign flag visible.AUDIO: A male voice is speaking about proving someone was born here, mentioning possible witnesses who were attendants at their birth. It seems like he's talking to the woman being interviewed.If you have any thoughts or questions about this, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "41.0s - 47.0s",
-          "query": "VISUAL: There's an older woman being interviewed outdoors. She has short red hair and is wearing a black jacket over a striped shirt with a \"Trump 2016\" button. The interviewer is a man in a suit holding a microphone. In the background, there are some trees, buildings, and other people walking around. There's also a Trump flag visible.AUDIO: A conversation between the interviewer and the interviewee takes place. The woman seems to be answering questions about someone named Donald Trump's mother, saying she doesn't trust her because she has motivation to lie. It's just dialogue without any music or sound effects. So, what do you think about this? Any thoughts on the content?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "47.0s - 53.0s",
-          "query": "VISUAL: There's a man in a suit holding a microphone, interviewing an older woman with short red hair. They're outside, surrounded by other people, tents, and trees. The woman is wearing a black jacket over a striped shirt and has a button that says \"TRUMP 2016.\" The background shows some buildings and more people milling about.AUDIO: A male voice is speaking, saying something like \"Trump's birth certificate either yeah because he's been here forever how do you know about how do you what's your proof.\" It seems to be a conversation or interview. What do you think about it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 429.65511870384216
-    },
-    {
-      "comment_index": 3823,
-      "video_id": "NzDhm808oU4",
-      "comment": "If you look closely, the guy at 7:47 also has \"America\" misspelled on his shirt. Man, 'tis a scary time in which we live.",
-      "language": "en",
-      "channel_name": "TheDailyShow",
-      "category": "talk show",
-      "likes": 11.0,
-      "comment_timestamp": 467.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "458.0s - 464.0s",
-          "query": "VISUAL: There's a man in an orange shirt with \"TRUMP DYNASTY\" written on it, standing outside near a crowd behind a fence. Another man in a dark jacket is pointing at something on his back. The background has many people, some holding umbrellas, suggesting it might be raining or overcast.AUDIO: Someone is speaking, saying things like \"it's four years\" and \"you have a four-year period.\" There's also applause heard during the speech. It seems to be a public event or gathering where political topics are being discussed.What do you think about the scene? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "464.0s - 470.0s",
-          "query": "VISUAL: There's a man in an orange shirt with \"TRUMP DYNASTY\" written on it, talking to another guy in a black jacket. They seem to be at some kind of outdoor event, maybe a rally or something similar. There are other people around them, some holding signs. The background has metal barriers and more people behind them.AUDIO: A voice is speaking, saying something about someone getting elected in 2024 and 2028, and then says \"your math is wrong.\" It also mentions that if it happens tomorrow, there's applause from the crowd.What do you think about this? Do you have any other thoughts on the video?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "470.0s - 476.0s",
-          "query": "VISUAL: There's two men talking outdoors. One is wearing a red shirt with a pattern and a blue cap, while the other has on a dark jacket. They seem to be having an interview or discussion. In the background, there are some tents, flags, and people milling about. It looks like it might be a public event or gathering.AUDIO: The main thing heard is someone speaking. The words \"Trump beats impeachment Trump can get on\" are clearly audible. It seems to be a political statement being made during the conversation between the two men.What do you think about the context of their conversation?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 592.8042888641357
-    },
-    {
-      "comment_index": 3822,
+      "comment_index": 3604,
       "video_id": "NzDhm808oU4",
       "comment": "3:49 \"A female has more hormones. She could start a war in 10 seconds. If she has got flashes , or whatever \" Is she not a female? She sounds confused on what a female experience is",
       "language": "en",
@@ -470,24 +349,84 @@
         {
           "segment_index": 1,
           "time_range": "220.0s - 226.0s",
-          "query": "VISUAL: There's a man wearing a cowboy hat with \"TRUMP 2020\" on it. He's talking to another person who has a beard. They seem to be at some kind of outdoor event, there are tents and other people around. The man in the cowboy hat is smiling and looking at the other guy.AUDIO: Someone is speaking, saying things like \"the whole thing on camera\", \"what's the whole thing\", \"Pete Buttplug\", \"Oh it's homophobic that's why you can't say him\". It seems like they're having a conversation about something controversial related to Pete Buttplug. So, what do you think about this? Do you know who Pete Buttplug is?"
+          "query": "**Visual:** The video shows two men interacting outdoors. One man is wearing a cowboy hat with \"2020\" written on it, a brown hoodie, and jeans. The other man is in a dark jacket and jeans. They appear to be having a conversation, with the man in the cowboy hat smiling and looking at the other man. There are tents and other people in the background, suggesting an outdoor event or festival. The setting seems to be during the day, with natural light.\n\n**Audio:** The audio includes dialogue between the two men. The man in the cowboy hat says \"Pete Buttigieg.\" The other man responds with \"The whole thing on camera? What's the whole thing?\" The conversation seems to be about something related to Pete Buttigieg, possibly a video or event."
         },
         {
           "segment_index": 2,
           "time_range": "226.0s - 232.0s",
-          "query": "VISUAL: A man is interviewing a woman outdoors at some kind of event with tents and people around. The woman is wearing a white hat and shirt with \"TRUMP\" on it. There's also a title card that says \"ROUND 4 WOMEN\". AUDIO: There's applause and music playing in the background, along with the man speaking about women not being fit for presidency because it's a man's job. What do you think about this view?"
+          "query": "Visual: The video shows a man in a white shirt and tie interviewing a woman in sunglasses and a white shirt. They are outdoors, with a crowd of people in the background. The woman is holding a microphone. The text \"ROUND 4 WOMEN\" is prominently displayed on the screen. The scene has a bright, sunny atmosphere with clear skies.\n\nAudio: There is applause heard in the background, followed by music. The man is speaking, but the content of his speech is not clear from the provided information."
         },
         {
           "segment_index": 3,
           "time_range": "232.0s - 238.0s",
-          "query": "VISUAL: A man in a white shirt and tie is holding a microphone and clipboard while interviewing a woman wearing a white hat and shirt with \"TRUMP\" on it. They're outdoors at some kind of event with tents and flags visible in the background. There's also another person walking past them.AUDIO: The man is speaking, saying something about women being qualified to be president, and then there's a response from someone else who says \"no.\" It seems like they're having a conversation about gender qualifications for political positions. What do you think about that?"
+          "query": "Visual: A man in formal attire is interviewing a woman wearing a hat with \"TRUMP\" written on it at an outdoor event. There are tents, flags, and other people around.\n\nAudio: The man speaks about women having more hormones than men."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 526.290116071701
+      "processing_time": 204.71086192131042
     },
     {
-      "comment_index": 3826,
+      "comment_index": 3605,
+      "video_id": "NzDhm808oU4",
+      "comment": "If you look closely, the guy at 7:47 also has \"America\" misspelled on his shirt. Man, 'tis a scary time in which we live.",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 11.0,
+      "comment_timestamp": 467.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "458.0s - 464.0s",
+          "query": "**Visual:** The video shows two men in a crowded outdoor setting. One man is wearing a red hoodie with text on the back, and the other is in a dark jacket. They appear to be interacting, with the man in the dark jacket reaching out to touch the back of the man in the red hoodie. The background is filled with people, some of whom are wearing red, and there are tents or barriers visible. The overall scene looks like a public event or gathering.\n\n**Audio:** There is a voiceover saying, \"It's four years. You have a four-year period here where somebody else gets elected.\" The tone is somewhat serious or informative."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "464.0s - 470.0s",
+          "query": "Visually, there are two men in the foreground. One is wearing a red jacket with text on the back, and the other is in a dark jacket. They seem to be interacting, possibly talking or laughing. In the background, there are more people, some with umbrellas, suggesting it might be raining. There are also barricades and a cloudy sky.\n\nAudio-wise, there's a voice speaking, but the content of the speech isn't clear from this short segment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "470.0s - 476.0s",
+          "query": "Visual: The video shows two men in an outdoor setting, possibly a market or fair. One man is wearing a red shirt with a pattern and a blue cap, while the other is in a dark jacket. There are other people and tents in the background. The scene seems to be during the day.\n\nAudio: The audio features a man speaking, likely conducting an interview or having a conversation. The speech is clear and the man's tone suggests he might be explaining or discussing something."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 282.91954350471497
+    },
+    {
+      "comment_index": 3606,
+      "video_id": "NzDhm808oU4",
+      "comment": "Black guy in white shirt in the background at 1:46 have no clue why he's there though",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 10.0,
+      "comment_timestamp": 106.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "97.0s - 103.0s",
+          "query": "Well, in the video, visually, there are a bunch of people gathered in what looks like an outdoor market or fair. There are tents set up, and you can see various items on display. Some people are standing around, chatting, and others seem to be browsing the goods. There are also some trees and buildings in the background. Oh, and there are a few motorcycles parked nearby. As for the audio, there's a man speaking, but it's not clear what he's saying exactly. It's just his voice, no other distinct sounds like music or sound effects. So, what do you think about this scene?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "103.0s - 109.0s",
+          "query": "Visually, there are a lot of people gathered under a large white tent. Some are standing, some are walking around. There are tables with items on them, possibly for a market or event. The people are dressed casually, and the overall scene looks busy and lively. The colors are mostly neutral, with some pops of color from clothing and items on the tables. There's movement as people interact and move around the area.\n\nAudio-wise, there's a man speaking in the foreground. He seems to be talking to someone else, but it's not clear what he's saying. The background has some ambient noise, like other people talking and the general hubbub of a crowded place. There are no distinct music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "109.0s - 115.0s",
+          "query": "**Visual:** The scene shows an outdoor event with several white tents set up on a paved area. There are many people milling about, some standing near tables or walking around. A man in a suit is holding a microphone and talking to another person wearing a blue shirt and cap. In the background, there's a building with large windows.\n\n**Audio:** Someone is speaking into a microphone, saying something like \"boy yeah it's like a Dave Matthews concert except Dave Matthews actually has.\" The tone seems casual and conversational."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 235.0698766708374
+    },
+    {
+      "comment_index": 3607,
       "video_id": "NzDhm808oU4",
       "comment": "7:34 “2024-2028”  Trump Supporter: “THATS EIGHT YEARS” The un-education is ASTRONOMICAL",
       "language": "en",
@@ -500,24 +439,54 @@
         {
           "segment_index": 1,
           "time_range": "445.0s - 451.0s",
-          "query": "VISUAL: There's a man in a brown jacket talking to an older woman wearing a red \"TRUMP DYNASTY\" shirt with various names and years on it. They seem to be having a conversation while standing near a crowd behind some barriers. The background shows more people, some holding signs.The AUDIO: A male voice is speaking about terms of presidents, mentioning \"four years\" and \"one-term presidents.\" It seems like he's explaining something related to political terms. What do you think about the content? Do you have any other thoughts or questions regarding this video?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.86 GiB is free. Including non-PyTorch memory, this process has 15.69 GiB memory in use. Of the allocated memory 13.60 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 2,
           "time_range": "451.0s - 457.0s",
-          "query": "VISUAL: There's a man in a red shirt with \"TRUMP DYNASTY\" written on it, standing outside. He has a list of names and dates printed on his back. Another man in a dark jacket is talking to him. In the background, there are other people, some holding signs, and metal barricades. The scene seems to be outdoors, possibly at an event.AUDIO: A voice asks about something related to Ivanka Trump and a date, specifically mentioning \"2024.\" Then someone responds that \"Ivanka is 2024.\" It sounds like they're discussing political stuff or something related to politics.What do you think about this? Do you have any ideas on why they might be talking about this?"
+          "query": "**Visual:** The video shows two individuals interacting outdoors. One is wearing an orange shirt with \"TRUMP 2016-2020\" written on it, along with other names like Ivanka and Barron. They seem to be engaged in conversation or some form of exchange. There's a crowd in the background behind barricades.\n\n**Audio:** Someone asks about what the shirt says for Ivanka and the date. Another person responds that Ivanka refers to 2024 and the date is also 2024."
         },
         {
           "segment_index": 3,
           "time_range": "457.0s - 463.0s",
-          "query": "VISUAL: There's a man in an orange shirt with \"TRUMP DYNASTY\" written on it standing near a metal fence. Another man in a dark jacket is pointing at something on his back. Behind them, there's a crowd of people, some holding signs. The scene seems to be outdoors, possibly during a political event.AUDIO: Someone is speaking, saying things like \"that's eight years that's four years.\" It sounds like they're discussing time periods related to elections or political terms. There's also applause heard towards the end.What do you think about the context of this video?"
+          "query": "Visually, there are two men in the foreground. One is wearing a red hoodie with some text on the back, and the other is in a dark jacket. They seem to be interacting, maybe shaking hands or exchanging something. In the background, there are a lot of people, some with umbrellas, suggesting it might be raining. There are also barricades set up, possibly for an event. The overall scene looks like it's outdoors, and the sky is overcast.The audio includes speech, likely from the two men in the foreground. There's also applause from a crowd, which could be from the people in the background. It seems like a public event of some sort."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 492.0391581058502
+      "processing_time": 208.85889148712158
     },
     {
-      "comment_index": 3828,
+      "comment_index": 3608,
+      "video_id": "NzDhm808oU4",
+      "comment": "0:44 “She has motivation to lie” Ma’am, everyone can lie. Including you.",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 7.0,
+      "comment_timestamp": 44.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "35.0s - 41.0s",
+          "query": "Visually, there are two people in the video. One is a woman with red hair, wearing a black jacket over a red and white striped shirt. The other is a man in a suit, holding a microphone. They seem to be having a conversation. There are some trees and a building in the background, and a blue flag with some text on it is visible. There are also some people and tents in the distance, suggesting an outdoor event or gathering. The scene appears to be during the day, with natural light.\n\nAudio - The woman is speaking, but the content of her speech isn't clear from this short segment. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "41.0s - 47.0s",
+          "query": "Visually, there are two people in a public outdoor setting. One is a woman with short brown hair, wearing a black jacket over a red and white striped shirt. The other is a man in a dark suit and tie. They seem to be engaged in a conversation. There are some trees and a building in the background, and a few other people are visible in the distance. The scene appears to be during the day, with natural light.\n\nIn terms of audio, there's a conversation between the two people. The woman speaks first, and then the man responds. The speech is clear and seems to be in English. There are no other noticeable sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "47.0s - 53.0s",
+          "query": "Visually, there are two people in the video. One is a man in a suit holding a microphone and a piece of paper, and the other is a woman in a dark jacket and striped shirt. They seem to be having a conversation in an outdoor setting with some trees and people in the background. The man is gesturing with his hand while speaking, and the woman is looking at him and responding. The scene looks like it could be part of a public event or interview.Audibly, there is a conversation between the two people. The man is speaking, and the woman is responding. There are no other distinct sounds like music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 277.048704624176
+    },
+    {
+      "comment_index": 3609,
       "video_id": "NzDhm808oU4",
       "comment": "2:01, he is white, just for the record.",
       "language": "en",
@@ -530,54 +499,24 @@
         {
           "segment_index": 1,
           "time_range": "112.0s - 118.0s",
-          "query": "VISUAL: There's a man in a suit holding a microphone talking to another guy wearing a blue cap and shirt. They're outside near some buildings with \"CIVIC CENTER\" visible on one. There are also people milling around in the background.AUDIO: A male voice is speaking about something related to a Dave Matthews concert and mentions African Americans in his band. It seems like he's making a comparison or observation.If you have any other thoughts or questions about it, feel free to share!"
+          "query": "**Visual:** The video shows two men talking outdoors. One is in a suit and tie, while the other wears a blue shirt and a cap. There are people in the background, some walking and others standing. Trees and a building are visible. The scene seems to be in a public area, possibly a park or plaza.\n\n**Audio:** A man is speaking, but the content of his speech isn't clear from the provided information."
         },
         {
           "segment_index": 2,
           "time_range": "118.0s - 124.0s",
-          "query": "VISUAL: There's a crowd gathered at an outdoor event. People are wearing Trump hats and shirts. Some are standing near stalls with American flags. A man in a suit is interviewing someone in a white shirt and blue cap. The background has trees and some buildings.AUDIO: Someone is speaking, saying \"White here right here thank you brother Donald Trump don't even know how much I love for bread.\" It seems like they're expressing their admiration for something related to bread or food. What do you think about it?"
+          "query": "Visually, there's a crowd of people in an outdoor setting. Some are wearing patriotic clothing like red, white, and blue. There are tents and stalls, suggesting a fair or event. People are interacting, shaking hands, and talking. The scene has a lively, bustling feel.Audibly, there's conversation between people. It seems like a casual, friendly chat. There are no distinct music or sound effects, just the natural sounds of a crowd."
         },
         {
           "segment_index": 3,
           "time_range": "124.0s - 130.0s",
-          "query": "VISUAL: There's an older man in a white shirt and cap talking to someone in a suit. In the background, there are other people, some wearing Trump hats. The setting seems like an outdoor event with trees and stalls. There's also a sign that says \"SHIRTS\" partially visible.AUDIO: A man is speaking, saying something about eggs costing more and not supporting Donald Trump. It sounds like he's having a conversation or interview. There's no music or sound effects, just his voice and some ambient noise from the crowd. So, what do you think about this scene?"
+          "query": "Visual: The video shows a group of people in what seems to be a public outdoor setting. There are trees and some structures in the background. The people are dressed casually, with one person wearing a baseball cap and another in a suit. They appear to be engaged in a conversation or some kind of interaction. The colors are typical of an outdoor scene, with greens from the trees and various colors from the people's clothing.\n\nAudio: The audio features a man speaking. He seems to be addressing someone directly, possibly asking a question or making a statement. The tone suggests a serious or somewhat confrontational conversation."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 395.3956446647644
+      "processing_time": 279.7187719345093
     },
     {
-      "comment_index": 3829,
-      "video_id": "NzDhm808oU4",
-      "comment": "2:45 bye this one got my crying- THEY WORK SO HARD AT WHAT BEING STRAIGHT",
-      "language": "en",
-      "channel_name": "TheDailyShow",
-      "category": "talk show",
-      "likes": 6.0,
-      "comment_timestamp": 165.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "156.0s - 162.0s",
-          "query": "VISUAL: There's an older man with long gray hair wearing a plaid shirt over a red t - shirt. He's being interviewed by another man who has short brown hair, is dressed in a white shirt and tie, holding a microphone and clipboard. They're outside near some buildings and trees. The interviewer seems to be asking questions while the interviewee listens and responds. In the background, there are other people walking around.AUDIO: A male voice says \"Two men getting married is blank disgusting actually the answer is legal.\" It's clear and straightforward without any background noise or music. So, what do you think about that statement?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "162.0s - 168.0s",
-          "query": "VISUAL: There's a man with long hair wearing a plaid shirt talking to another man in a white shirt and tie who has a microphone. They seem to be having an interview or discussion outdoors near some buildings. There are also other people around them, some standing and some walking. The background shows trees and a clear sky.AUDIO: A man is speaking about something being legal in the United States but he doesn't like it. He then asks if a gay couple should have the same rights as a straight couple.If you want to talk more about this video or anything else related, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "168.0s - 174.0s",
-          "query": "VISUAL: A man in a white shirt and tie is interviewing an older woman with short hair wearing glasses and a zebra - print top outside a building labeled \"AVIATION\". There's a crowd behind them. The man holds a microphone towards her.AUDIO: Someone is speaking, saying things like \"that no I don't I really don't I think it's fair to the gay couple well no but\" in a somewhat hesitant tone.What do you think about the interview?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 481.87636041641235
-    },
-    {
-      "comment_index": 3827,
+      "comment_index": 3610,
       "video_id": "NzDhm808oU4",
       "comment": "9:25 is the best roast I've heard Jordan Klepper deliver",
       "language": "en",
@@ -590,21 +529,81 @@
         {
           "segment_index": 1,
           "time_range": "556.0s - 562.0s",
-          "query": "VISUAL: There's a woman with blonde hair wearing an American flag-themed hat and scarf. She's speaking into a microphone while gesturing. Then she turns to face another person who is also holding a microphone. The background shows a snowy outdoor scene with some buildings, flags, and other people around.AUDIO: A man is talking about reading transcripts on the news and mentions not having seen the transcript yet. He seems to be explaining something related to the concept of reading transcripts. It sounds like he might be trying to clarify or correct someone else's misunderstanding.If you have any thoughts or questions about this video, feel free to share!"
+          "query": "Visual: The video shows a snowy outdoor scene. There are people dressed warmly, with one person wearing a hat resembling the American flag. There are also some tents and flags in the background. The overall color scheme is dominated by whites and reds from the snow and the flag.\n\nAudio: The audio includes a man speaking, and there's laughter in the background."
         },
         {
           "segment_index": 2,
           "time_range": "562.0s - 568.0s",
-          "query": "VISUAL: There's a man with a beard holding a microphone, interviewing a woman wearing an American flag-themed headband and scarf. They're outside in a snowy area with some buildings and flags in the background. The woman is talking into the microphone while gesturing with her hands.AUDIO: A conversation between the interviewer and interviewee takes place. The interviewer asks if they've read the transcript, to which the interviewee responds that she has. There's also a mention of a spoiler alert."
+          "query": "Visual: The video shows two women outdoors. One is holding a microphone and appears to be interviewing the other. The interviewer is wearing a hat with an American flag design. The interviewee is also dressed in a way that suggests a patriotic theme, with a red, white, and blue scarf. There are some tents and parked cars in the background, indicating an outdoor event or gathering. The scene is set during the day, and the overall atmosphere seems lively and festive.\n\nAudio: The audio features a conversation between the two women. The interviewer is speaking, and the interviewee is responding. There are no other significant sound effects or music in the background."
         },
         {
           "segment_index": 3,
           "time_range": "568.0s - 574.0s",
-          "query": "VISUAL: There's a man with a microphone interviewing a woman outdoors in winter. The woman is wearing patriotic headwear and scarf. They're standing on snow - covered ground. In the background, there are flags, tents, and some buildings. People can be seen walking around.AUDIO: A male voice says \"He asks a foreign country to interfere in our election. It's crazy right.\" There's also laughter from an unseen source. What do you think about this kind of interference?"
+          "query": "Visually, there are two people in the foreground. One is holding a microphone, and the other is wearing a headband with an American flag design. They seem to be in an outdoor setting with snow on the ground and some tents or booths in the background. There are also some trees and a building visible. The colors are mostly muted due to the snowy environment, but the headband adds a pop of red, white, and blue.\n\nIn terms of audio, there's a man speaking. He says something about a foreign country interfering in their election, and then he expresses disbelief, saying \"it's crazy right.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 443.1575677394867
+      "processing_time": 301.49625420570374
+    },
+    {
+      "comment_index": 3611,
+      "video_id": "NzDhm808oU4",
+      "comment": "2:45 bye this one got my crying- THEY WORK SO HARD AT WHAT BEING STRAIGHT",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 6.0,
+      "comment_timestamp": 165.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "156.0s - 162.0s",
+          "query": "Visual: The video shows two men standing outdoors. One man is wearing a plaid shirt and the other is in a white shirt with a tie. They seem to be engaged in a conversation. There are some trees and a building in the background. The scene looks like it's during the day with clear weather.\n\nAudio: A man is speaking, but the content of what he's saying isn't clear from the provided information. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "162.0s - 168.0s",
+          "query": "**Visual:** The video shows two men standing outdoors. One is holding a microphone and appears to be interviewing or talking to the other man who has long hair. There's a crowd of people in the background, some taking photos. Trees and buildings can also be seen.\n\n**Audio:** A male voice speaks, saying \"it's legal but I don't like it.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "168.0s - 174.0s",
+          "query": "**Visual:** A man in a white shirt and tie is interviewing an older woman wearing glasses and a striped top outside a building with glass doors. There's a crowd behind them.\n\n**Audio:** The man speaks into a microphone while interviewing the woman."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 195.5810034275055
+    },
+    {
+      "comment_index": 3612,
+      "video_id": "NzDhm808oU4",
+      "comment": "7:14 Well, so far that dude’s prediction is correct",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 5.0,
+      "comment_timestamp": 434.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "425.0s - 431.0s",
+          "query": "**Visual:** The video shows two men interacting outdoors on a cloudy day. One man is wearing a red shirt with names and years printed on it, while the other is dressed in dark clothing. There's a crowd behind them separated by metal barricades. The setting appears to be an event or gathering.\n\n**Audio:** A voice can be heard saying \"and then Barron great.\" It seems like a casual conversation or commentary during the event."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "431.0s - 437.0s",
+          "query": "**Visual:** The video shows two men standing outdoors. One is wearing a red shirt with various names and years printed on it, and the other is in a dark jacket. There are other people in the background, some wearing red as well. The setting seems to be a public area, possibly a rally or event, with a fence visible behind them. The weather looks overcast.\n\n**Audio:** The audio features a man speaking, saying \"all right but Baron only serves one term.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "437.0s - 443.0s",
+          "query": "**Visual:** The video shows a person wearing a red shirt with various names and years printed on it, like \"TRUMP 2016-2020\" and \"IVANKA 2024-2028.\" There are other people in the background, some holding signs. The setting seems to be an outdoor event, possibly a rally or protest, with a crowd gathered behind a fence.\n\n**Audio:** The audio features a conversation between two men. One of them is saying, \"Yeah, actually these are mostly one-term presidents.\" The other responds, \"You're not reading it right, brother.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 244.70523977279663
     }
   ]
 }

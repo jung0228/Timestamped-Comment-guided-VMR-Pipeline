@@ -6,7 +6,7 @@
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 801,
+      "comment_index": 5187,
       "video_id": "Vw34wMAqWzc",
       "comment": "0:05 Tony Kroos 🇩🇪 0:29 Ricardo Quaresma 🇵🇹 0:58 Ahmed Musa 🇳🇬 1:32 Nacer Chadli 🇧🇪 2:14 Denis Cheryshev 🇷🇺 2:40 Lionel Messi 🇦🇷 3:13 Cristiano Ronaldo 🇵🇹 3:37 Luka Modric 🇭🇷 4:01 Juan Quintero 🇨🇴 4:30 Benjamin Pavard 🇫🇷",
       "language": "en",
@@ -19,24 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "184.0s - 190.0s",
-          "query": "VISUAL: There's a soccer player in a red uniform standing on a field with a blue background behind him. He looks like he might be Cristiano Ronaldo. The scene seems to be from a FIFA TV broadcast.AUDIO: You can hear applause and music playing in the background. It gives off an exciting vibe, probably because it's related to a big soccer match or event. So, what do you think about this video?"
+          "query": "Visual: The video shows a soccer player in red standing on a field with a crowd in the background. There's also a net visible.\n\nAudio: Music is playing throughout the short clip."
         },
         {
           "segment_index": 2,
           "time_range": "190.0s - 196.0s",
-          "query": "VISUAL: The video shows a soccer player in a red uniform standing against a blue background with \"4\" and \"CRISTIANO RONALDO PORTUGAL v SPAIN\" written on it. Then there's a scene of a soccer match in a stadium with players in red and white uniforms playing. There are also some banners around the field.AUDIO: There is music playing throughout the video."
+          "query": "Visual: The video shows a soccer match between Portugal and Spain. Players from both teams are on the field, wearing their respective team jerseys. The stadium is filled with spectators creating a lively atmosphere.\n\nAudio: There's background music playing throughout the video, adding to the energetic vibe of the scene."
         },
         {
           "segment_index": 3,
           "time_range": "196.0s - 202.0s",
-          "query": "VISUAL: The video shows a soccer match scene on a field with players in red and white uniforms. There's a large crowd in the stands watching. One player in red is seen celebrating after scoring a goal. The camera focuses on him running towards his teammates.AUDIO: There's music playing throughout the video, and at one point, someone says \"Oh genius\" in an excited tone."
+          "query": "Visual: The video shows a soccer match taking place on a green field with players wearing red jerseys. There's a large crowd in the stands watching the game. One player is seen running towards the camera.\n\nAudio: Music plays throughout the clip, and there are some cheers from the crowd at the end."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 234.38099551200867
+      "processing_time": 191.23666787147522
     },
     {
-      "comment_index": 802,
+      "comment_index": 5188,
       "video_id": "Vw34wMAqWzc",
       "comment": "0:07 Reus get an easy assist lol",
       "language": "en",
@@ -49,24 +49,24 @@
         {
           "segment_index": 1,
           "time_range": "0.0s - 4.0s",
-          "query": "VISUAL: There's a man standing against a blue background. He's wearing a white soccer jersey with black stripes on the shoulders, black shorts, and has tattoos on his left arm. The number \"10\" is displayed next to him along with some text about a soccer match between Germany and Sweden.AUDIO: There's music playing throughout the video."
+          "query": "**Visual:** The video shows a soccer player wearing a white jersey with black accents, standing against a blue background. The number \"10\" is prominently displayed next to his name, \"TONI KROOS,\" along with \"GERMANY v SWEDEN.\" There's also an Adidas logo on the jersey.\n\n**Audio:** Music plays throughout the entire duration of the video."
         },
         {
           "segment_index": 2,
           "time_range": "4.0s - 10.0s",
-          "query": "VISUAL: A soccer player in white is seen up close at first. Then it cuts to a wide shot of a soccer field during a match. There's a goal area with players from both teams, some in blue and yellow uniforms, others in white. The crowd is visible in the background. One player in white kicks the ball towards the goal. AUDIO: There's cheering and shouting throughout, along with music playing in the background. What do you think about that scene?"
+          "query": "**Visual:** The video shows a soccer match in progress. Players are on the field, with one player in a white jersey with the number 8 prominently visible. The crowd in the background is cheering, and the stadium is filled with spectators. The scene is dynamic, with players moving around and engaging in the game.\n\n**Audio:** There is music playing in the background, and towards the end, there is applause from the crowd."
         },
         {
           "segment_index": 3,
           "time_range": "10.0s - 16.0s",
-          "query": "VISUAL: There's a soccer match going on. You can see players in blue and yellow jerseys playing against those in white and black. One player in blue kicks the ball towards the goal. The crowd is cheering in the background.AUDIO: There's a commentator talking about an \"inspirational moment from Toni Kroos.\" It seems like he's praising someone or something related to the game. There's also some music playing in the background.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Visual: The video shows a soccer match in a stadium filled with spectators. Players are on the field, one in a yellow jersey is running towards the goal. The scene includes a goalpost, advertising boards, and a referee in a yellow shirt. The colors are vibrant, with the green of the field, the red and white of the goal net, and the various colors of the players' jerseys. The movement is dynamic, with players running and the ball in play.\n\nAudio: There's commentary in the background, likely from a sports announcer. The speech is clear and energetic, typical of a live sports broadcast. There are no distinct sound effects or music in this segment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 205.65943312644958
+      "processing_time": 219.6643192768097
     },
     {
-      "comment_index": 803,
+      "comment_index": 5189,
       "video_id": "Vw34wMAqWzc",
       "comment": "2:56 ''Maradona himself would have been proud of'' :(",
       "language": "en",
@@ -79,24 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "167.0s - 173.0s",
-          "query": "VISUAL: There's a soccer player on a field with his arms outstretched. He has tattoos on one arm. The background shows a crowd, some banners, and a goalpost. The field is green and there are other players around him.AUDIO: You can hear cheering from the crowd and some music playing in the background.If you have any thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's a soccer player in a white jersey with the number 10 on the back. He's on a green soccer field, and there are spectators in the background. The player has tattoos on his arms and is raising his arms in celebration. The scene is bright, likely during a daytime match. There are also some advertisements visible on the sidelines, including one for Coca-Cola. The overall color scheme is dominated by the green of the field and the white of the player's jersey. The movement is mainly the player's arm raising and the slight swaying of the crowd in the background."
         },
         {
           "segment_index": 2,
           "time_range": "173.0s - 179.0s",
-          "query": "VISUAL: There's a soccer player in an Argentina jersey with number 10 on it. He has tattoos on his arms. He's celebrating with his hands up. In the background, there are other players running around. The field is green and there are some advertisements like Coca - Cola visible. The crowd can be seen in the stands.AUDIO: You can hear cheering from the crowd throughout the video. There's also some commentary about a \"stylish finish\" that Maradona would have been proud of. It seems to be during a soccer match. So, what do you think about this video? Do you have any other videos you want me to analyze?"
+          "query": "Visually, the video shows a soccer match. There are players in white and black uniforms actively playing on a green field. One player in white is dribbling the ball while being chased by a player in black. The background has a red Coca-Cola advertisement. The scene is dynamic, with players moving quickly.\n\nIn terms of audio, there's cheering from the crowd, likely in response to the ongoing game. There's also background music playing, adding to the energetic atmosphere."
         },
         {
           "segment_index": 3,
           "time_range": "179.0s - 185.0s",
-          "query": "VISUAL: There's a soccer player in an Argentina jersey with number 10 on it. He's dribbling the ball while another player in green is chasing him. The background shows a crowd watching from the stands. There are also some advertisements like Coca - Cola visible.AUDIO: You can hear cheering and clapping from the crowd, along with some commentary about Argentina's prayers being answered by the blue man. There's also music playing in the background.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a soccer player in a light blue jersey with the number 10, dribbling a soccer ball on a green field. There are other players in the background, one in a dark green jersey. The scene is set in a stadium with a large Coca-Cola advertisement visible. The player is moving forward, focused on the ball. The colors are vibrant, with the green of the field contrasting against the players' jerseys.\n\n**Audio:** There is cheering and applause from spectators in the background, along with commentary. The commentator mentions something about prayers being answered by \"the little man.\" The overall atmosphere is energetic and exciting, typical of a live sports event."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 239.3309931755066
+      "processing_time": 297.00287532806396
     },
     {
-      "comment_index": 804,
+      "comment_index": 5190,
       "video_id": "Vw34wMAqWzc",
       "comment": "4:51 Why is it so satisfyin to see that",
       "language": "en",
@@ -109,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "282.0s - 288.0s",
-          "query": "VISUAL: The video shows a soccer match with players running on a green field. There's a large crowd in the background watching. One player in blue is seen up close, looking determined. Other players in different colored jerseys are also visible, some chasing after the ball.AUDIO: There's cheering from the crowd throughout the video. At one point, there's a short clip of someone speaking, possibly an announcer or commentator. Then there's more cheering."
+          "query": "Visual: The video shows a soccer match. Players are running on a green field, wearing different colored jerseys. There are spectators in the stands, creating a lively atmosphere. The players seem to be actively engaged in the game, with some running towards the ball and others positioning themselves. The scene is set in a large stadium filled with fans. Audio: There's a commentator speaking in the background, likely describing the ongoing match. The crowd is cheering, adding to the excitement of the game."
         },
         {
           "segment_index": 2,
           "time_range": "288.0s - 294.0s",
-          "query": "VISUAL: There's a soccer match going on. You can see players in different colored jerseys running around the field. One player kicks the ball towards the goal. The goalkeeper dives to try and stop it but misses. The crowd is cheering in the background.AUDIO: There's some commentary happening during the game. It seems like someone is commenting on the action. There's also music playing in the background, probably from the stadium or broadcast. And there are cheers from the crowd too.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "**Visual:** The video shows a soccer match in a stadium filled with spectators. A player in a white jersey is seen kicking the ball towards the goal. The goalkeeper, dressed in orange, dives to the right in an attempt to save the shot. The ball goes past him into the net. The crowd in the background is cheering and clapping.\n\n**Audio:** There is cheering and clapping from the crowd, indicating excitement and approval. The sound of the ball hitting the net can also be heard."
         },
         {
           "segment_index": 3,
           "time_range": "294.0s - 300.0s",
-          "query": "VISUAL: There's a soccer player in a white jersey kicking the ball towards the goal. The goalkeeper is in blue, trying to block it. In the background, there are spectators watching intently. There's also a person in a yellow vest standing near the goalpost.AUDIO: There's music playing throughout the video."
+          "query": "Visual: The video shows a soccer player in action on a field with spectators watching from the stands. There's also an image of a golden trophy displayed prominently.\n\nAudio: Background music is playing throughout the clip."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 228.76649069786072
+      "processing_time": 212.69562411308289
     },
     {
-      "comment_index": 805,
+      "comment_index": 5191,
       "video_id": "Vw34wMAqWzc",
       "comment": "0:03 Toni Kroos (GER) vs Sweden for 2-1, 95th min (group stage, Sochi) 0:27 Ricardo Quaresma (POR) vs Iran for 1-0, 45th min (group stage, Saransk) 0:53 Ahmed Musa (NGA) vs Iceland for 2-0, 75th min (group stage, Volgograd) 1:27 Nacer Chadli (BEL) vs Japan for 3-2, 94th min (round of 16, Rostov-on-Don) 2:09 Denis Cheryshev (RUS) vs Croatia for 1-0, 31st min (quarter-final, Sochi) 2:36 Lionel Messi (ARG) vs Nigeria for 1-0, 14th min (group stage, St. Petersburg) 3:10 Cristiano Ronaldo (POR) vs Spain for 3-3, 88th min (group stage, Sochi) 3:32 Luka Modric (CRO) vs Argentina for 2-0, 80th min (group stage, Nizhny Novgorod) 3:57 Juan Quintero (COL) vs Japan for 1-1, 39th min, (group stage, Saransk) 4:25 Benjamin Pavard (FRA) vs Argentina for 2-2 (round of 16, Kazan)",
       "language": "en",
@@ -139,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "78.0s - 84.0s",
-          "query": "VISUAL: There's a soccer match going on. A player in green is dribbling the ball while being chased by players in blue. One of the blue players falls to the ground as he tries to tackle. The crowd in the background looks excited.AUDIO: There's commentary about a player named Mousa being flat-footed at the back. It seems like there was an attempt to challenge him but it didn't work out.If you want to talk more about this or have other questions, feel free to let me know!"
+          "query": "**Visual:** The video shows a soccer match. There are players in blue and white uniforms actively playing. One player in blue is seen falling to the ground, possibly after a tackle or a collision. Another player in white is running towards the ball, which is on the ground. The background shows a stadium filled with spectators. The colors are vibrant, with the green of the field, the blue and white of the uniforms, and the colorful crowd.\n\n**Audio:** There's commentary in the background, likely from a sports announcer. The announcer mentions something about a player being \"flat-footed\" and not being able to get a challenge in. There's also applause from the crowd, indicating a positive moment in the game."
         },
         {
           "segment_index": 2,
           "time_range": "84.0s - 90.0s",
-          "query": "VISUAL: There's a soccer match going on. You can see players in blue and white uniforms playing against those in red and yellow. One player in red kicks the ball towards the goal. The crowd is cheering in the background.AUDIO: There's a man speaking over the sound of cheering from the crowd. Then there's some music playing in the background. Oh, and at one point, applause is heard too.If you want to talk more about this or have other questions, feel free to let me know!"
+          "query": "Visual: The video shows a soccer match. There are players on the field, one in a red jersey is standing prominently in front of a blue background with his name and number displayed. The scene shifts to a soccer field where players are actively playing, with a goalkeeper in blue making a save. The crowd in the stands is visible, adding to the lively atmosphere. The colors are vibrant, with the green of the field, the red and blue jerseys, and the blue sky in the background. The movement is dynamic, with players running and kicking the ball.\n\nAudio: There's commentary in the background, likely from a sports announcer. The speech is clear and informative, providing details about the match. Music plays intermittently, adding to the excitement of the game. There are also sound effects, such as the thud of the ball hitting the goalpost or the players' footsteps on the field."
         },
         {
           "segment_index": 3,
           "time_range": "90.0s - 96.0s",
-          "query": "VISUAL: The video shows a soccer match on a field with players in red and blue uniforms actively playing. There's a large number \"7\" displayed next to a player named Nacer Chadli wearing a red jersey with the number 22. The background is a blue screen with some text about Belgium vs Japan.AUDIO: There's music playing throughout the video, and at one point, there's an announcer saying something like \"Courtis simply grabbed and there's just.\" It seems like they're commenting on a play during the game.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "Visual: A soccer match is taking place on a green field with players in red and blue jerseys actively playing. The crowd in the stands can be seen watching intently.\n\nAudio: There's background music playing throughout the clip, along with some commentary or announcements from an announcer."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 257.1101496219635
+      "processing_time": 214.48965764045715
     },
     {
-      "comment_index": 806,
+      "comment_index": 5192,
       "video_id": "Vw34wMAqWzc",
       "comment": "Real Madrid 🇪🇸: 0:06 Vitória S.C. 🇵🇹: 0:29  Al-Nassr FC 🇸🇦: 0:58 İstanbul Başakşehir F.K. 🇹🇷: 1:33 Valencia CF 🇪🇸: 2:15 Paris Saint Germain 🇫🇷: 2:41 Manchester United 🇬🇧: 3:14 Real Madrid 🇪🇸: 3:38 Club Atlético River Plate 🇦🇷: 4:02 FC Bayern Munich 🇩🇪: 4:30",
       "language": "en",
@@ -169,24 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "209.0s - 215.0s",
-          "query": "VISUAL: There's a soccer match going on. Players in red and white uniforms are playing against those in light blue. One player in red kicks the ball towards the goal. The crowd is cheering. Then it cuts to an image of Luka Modric in a Croatia jersey with \"3\" displayed next to him.AUDIO: You can hear the crowd cheering throughout. There's also some music playing in the background."
+          "query": "Visually, the video shows a soccer match in progress. Players in white and red uniforms are actively engaged on the field. The crowd in the background is visible, suggesting a large stadium. There's a graphic overlay with the number \"3\" and the name \"LUKA MODRIC\" along with \"ARGENTINA v CROATIA\", indicating a specific player and the teams involved. The scene is dynamic, with players moving around and the ball in play. The colors are vibrant, with the green of the field, the white and red of the uniforms, and the blue of the graphic overlay. The movement is fast-paced, typical of a soccer game.\n\nAudio-wise, there's applause heard, likely from the crowd reacting to something in the game. There's also music playing in the background, adding to the excitement of the match."
         },
         {
           "segment_index": 2,
           "time_range": "215.0s - 221.0s",
-          "query": "VISUAL: There's a soccer player in a red and white checkered jersey with number 10 on it standing against a blue background. The name \"LUKA MODRIC\" is displayed below him along with \"ARGENTINA v CROATIA\". Then there's an aerial view of a soccer match where players in black and white jerseys are playing on a green field with a crowd watching. AUDIO: Music plays throughout the video. There are also some words like \"mod rich\" being spoken. What do you think about this video?"
+          "query": "Visual: The video shows a soccer match in progress. Players are on a green field, wearing different colored jerseys. One player in a red and white checkered jersey is prominently featured. The crowd in the stands is visible, and the overall scene is set in a large stadium. The action seems to be focused on the players' movements and the ball.\n\nAudio: There is background music playing throughout the video. No specific speech or sound effects are discernible."
         },
         {
           "segment_index": 3,
           "time_range": "221.0s - 227.0s",
-          "query": "VISUAL: The video shows a soccer match on a green field with players in white and black uniforms. One player in black is running towards the camera, looking excited. There's a crowd in the background watching the game.AUDIO: You can hear cheering from the crowd and someone shouting \"sensational goal\" during the video. It seems like there was an exciting moment in the match that got everyone excited. What do you think about it?"
+          "query": "Visual: The video shows a soccer match in progress. Players are on the field, some in white jerseys and others in darker ones. The ball is in play, and there's a large crowd in the stands watching. The field is green, and there are advertising boards around the pitch. The scene is dynamic, with players moving and the ball being passed around.\n\nAudio: There's commentary in the background, likely from a sports announcer. The announcer is speaking, and there are also crowd noises, including cheers and applause."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 229.20959496498108
+      "processing_time": 272.49400901794434
     },
     {
-      "comment_index": 807,
+      "comment_index": 5193,
       "video_id": "Vw34wMAqWzc",
       "comment": "4:38 the sound of that volley",
       "language": "en",
@@ -199,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "269.0s - 275.0s",
-          "query": "VISUAL: The video shows a soccer match between France and Argentina on a green field with players in white and blue uniforms. There's a large crowd watching from the stands. One player in a blue jersey is seen running towards the goal area.AUDIO: There's music playing throughout the video."
+          "query": "Visual: The video shows a soccer match in progress. Players are running across a green field, wearing different colored jerseys. The crowd in the stands is visible, cheering and watching the game. The scene is set in a large stadium with bright lights illuminating the field. The players are actively engaged in the game, passing the ball and moving strategically.\n\nAudio: There is music playing in the background, creating an energetic atmosphere. The crowd is cheering and reacting to the ongoing game, adding to the excitement."
         },
         {
           "segment_index": 2,
           "time_range": "275.0s - 281.0s",
-          "query": "VISUAL: There's a soccer match going on. A player in white is sliding to tackle another player in blue near the goal area. The goalkeeper in orange is also visible. The crowd in the background looks excited. There are some banners with \"WANDA\" written on them around the field.AUDIO: You can hear cheering from the crowd throughout the clip. There's also some commentary or shouting that seems to be related to the game. Oh, and there's a bit of music playing in the background too.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Visually, the video shows a soccer match in progress. Players are on the field, some in white jerseys and others in darker ones. The ball is in play, and there's a goalkeeper near the goalpost. The crowd in the stands is visible, and the stadium is filled with spectators. The colors are typical of a soccer field, with green grass and the bright colors of the players' uniforms. There's movement as players run and interact with the ball.\n\nAudio-wise, there's music playing in the background, likely to enhance the excitement of the match. There are also sound effects, possibly from the crowd cheering or reacting to the game."
         },
         {
           "segment_index": 3,
           "time_range": "281.0s - 287.0s",
-          "query": "VISUAL: The video shows a soccer match. There's a player in blue celebrating with his arms outstretched on the field. Other players in different colored jerseys are running around him. The background has a large crowd watching from the stands. There are also some banners and advertisements visible along the sidelines.AUDIO: You can hear cheering and clapping from the crowd throughout the video. There's also some commentary or announcements being made."
+          "query": "Visual: The video shows a soccer match in a stadium filled with spectators. Players are on the field, one in a green jersey is running and celebrating, possibly after scoring a goal. The field is green, and the crowd is a mix of colors. There are banners and advertisements visible around the field.\n\nAudio: There's cheering from the crowd, likely in response to the action on the field. The sound of the game, like the ball being kicked and players moving, can also be heard."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 209.07825303077698
+      "processing_time": 286.3129651546478
     },
     {
-      "comment_index": 808,
+      "comment_index": 5194,
       "video_id": "Vw34wMAqWzc",
       "comment": "4:36 that Guy with number 6 lost hes boot",
       "language": "en",
@@ -229,24 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "267.0s - 273.0s",
-          "query": "VISUAL: There's a soccer player standing against a blue background. He's wearing a dark blue jersey with white shorts. The number \"1\" is displayed next to his name, Benjamin Pavard. It also says \"France v Argentina.\" The FIFA TV logo is on the top right corner.AUDIO: There's music playing throughout the entire clip."
+          "query": "Visual: The video shows a soccer match in progress. Players are running across a green field, wearing blue and white uniforms. The scene is set in a stadium with a large crowd in the background. The players are actively engaged in the game, passing and chasing the ball. The colors are vibrant, with the green of the field contrasting against the blue and white of the uniforms. The movement is fast-paced, reflecting the dynamic nature of the sport.\n\nAudio: There is music playing in the background throughout the video. It's an upbeat, energetic track that complements the action on the field. There are no distinct speech or sound effects, just the continuous music."
         },
         {
           "segment_index": 2,
           "time_range": "273.0s - 279.0s",
-          "query": "VISUAL: There's a soccer match going on. Players in white and blue jerseys are on the field. One player in white is dribbling the ball near the goal area while being challenged by an opponent in blue. The crowd in the background looks excited.AUDIO: You can hear cheering from the crowd throughout the clip. There's also some commentary or announcements in the background. It seems like there might be music playing too, but it's not very clear.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.87 GiB is free. Including non-PyTorch memory, this process has 15.68 GiB memory in use. Of the allocated memory 13.59 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 3,
           "time_range": "279.0s - 285.0s",
-          "query": "VISUAL: There's a soccer match going on. You can see players in blue and white jerseys playing on a green field. One player in blue is running towards the camera with his arms outstretched. The crowd in the background looks excited.AUDIO: There's cheering from the crowd throughout the clip. It seems like they're really into whatever just happened in the game. Oh, and there's also some music playing in the background. What do you think about that?"
+          "query": "Visual: The video shows a soccer match scene on a green field with players in blue and white jerseys actively playing. There's a large crowd in the background behind barriers. One player in a blue jersey is seen celebrating enthusiastically.\n\nAudio: A commentator is heard speaking excitedly about the game, likely commenting on an exciting play or goal. Music plays softly in the background throughout the clip."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 205.01241278648376
+      "processing_time": 272.26391434669495
     },
     {
-      "comment_index": 809,
+      "comment_index": 5195,
       "video_id": "Vw34wMAqWzc",
       "comment": "4:48 griezmann trying to header in pavards shot",
       "language": "en",
@@ -259,24 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "279.0s - 285.0s",
-          "query": "VISUAL: There's a soccer match going on. You can see players in blue and white jerseys playing on a green field. One player in blue is running towards the camera with his arms outstretched. The crowd in the background looks excited.AUDIO: There's cheering from the crowd throughout the clip. It seems like they're really into whatever just happened in the game. Oh, and there's also some music playing in the background. What do you think about that?"
+          "query": "Visual: The video shows a soccer match. Players are on a green field, wearing different colored jerseys. One player in a dark jersey is running towards the camera, looking excited. The background has a crowd of spectators and some banners with logos. The scene is well-lit, suggesting it's daytime or under stadium lights. There's a sense of action and energy as players move around the field.\n\nAudio: The audio includes a commentator's voice, likely in a foreign language, and the sound of a cheering crowd. The commentator seems to be describing the action, and the crowd's cheers add to the excitement of the match."
         },
         {
           "segment_index": 2,
           "time_range": "285.0s - 291.0s",
-          "query": "VISUAL: There's a soccer match going on. Players in white and blue jerseys are running around the field. One player in white kicks the ball towards the goal. The goalkeeper in yellow dives to try and stop it but misses. The crowd is cheering in the background.AUDIO: There's a commentator speaking over the action, and there's also some music playing in the background. You can hear the crowd cheering too.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Visual: A soccer match is taking place in a large stadium filled with spectators. Players in white and blue jerseys are actively running and competing on the field. One player in a white jersey is seen kicking the ball towards the goal. The ball goes past the goalkeeper, who dives but fails to stop it. The crowd cheers as the ball enters the net. The scene is vibrant with the colors of the jerseys, the green of the field, and the blue of the sky.\n\nAudio: There's a commentator speaking in the background, likely describing the action. The crowd is cheering loudly, adding to the excitement of the moment. Music is playing in the background, enhancing the atmosphere of the match."
         },
         {
           "segment_index": 3,
           "time_range": "291.0s - 297.0s",
-          "query": "VISUAL: There's a soccer player in blue kicking the ball towards the goal. The goalkeeper is in orange, trying to block it. You can see the crowd behind them, some wearing blue and white. There's also a person in a yellow vest near the goalpost.AUDIO: There's music playing throughout the whole time. It seems like there might be some cheering or applause from the crowd too. What do you think about that scene?"
+          "query": "Visual: The video shows a soccer match. There are players in action, with one player in a dark jersey appearing to be in the process of kicking the ball. The background includes a crowd of spectators, some wearing white shirts. The scene is set on a soccer field with green grass. There's also a trophy displayed prominently in the foreground, suggesting this might be a significant match or tournament. The colors are vibrant, with the green of the field, the white of the spectators' shirts, and the darker tones of the players' jerseys standing out. Movement is evident as the players are actively engaged in the game.\n\nAudio: The audio features music playing throughout the segment, creating an energetic and exciting atmosphere. There are no distinct speech or sound effects, just the continuous music."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 223.01902770996094
+      "processing_time": 337.9271008968353
     },
     {
-      "comment_index": 810,
+      "comment_index": 5196,
       "video_id": "Vw34wMAqWzc",
       "comment": "So we’re not gonna talk about this pass? 0:58",
       "language": "en",
@@ -289,24 +289,24 @@
         {
           "segment_index": 1,
           "time_range": "49.0s - 55.0s",
-          "query": "VISUAL: A soccer player is seen heading the ball towards the goal. The crowd in the background is cheering. There's also an image of another soccer player standing against a blue background with his name \"Ahmed Musa\" displayed next to him. He's wearing a green and white jersey with the number 7 on it.AUDIO: There's applause from the crowd throughout the video. Then there's some music playing in the background."
+          "query": "**Visual:** The video shows a soccer match. There's a player in a green and white jersey standing in front of a blue background. The number \"8\" and the name \"AHMED MUSA\" are displayed prominently. The setting appears to be a stadium with a large crowd in the background. The player seems to be posing or standing still.\n\n**Audio:** There is applause heard in the audio, suggesting a positive moment in the match, possibly a goal or a good play."
         },
         {
           "segment_index": 2,
           "time_range": "55.0s - 61.0s",
-          "query": "VISUAL: The video shows a soccer match on a large field with players in green and white uniforms playing against those in blue and yellow. There's a crowd watching from the stands. One player is highlighted, wearing number 7. The scene shifts to show different moments of the game, like players running and passing the ball.AUDIO: There's background music throughout the video. No specific speech or sound effects are heard. So, that's it! What do you think about the video?"
+          "query": "Visually, the video shows a soccer match in progress. Players in green and white jerseys are actively running and playing on a green field. The crowd in the stands is visible, adding to the lively atmosphere. The scene is well-lit, suggesting it's daytime or under stadium lights. There are also some yellow flags along the sidelines.\n\nAudio-wise, there's music playing in the background, creating an energetic and exciting ambiance for the soccer match."
         },
         {
           "segment_index": 3,
           "time_range": "61.0s - 67.0s",
-          "query": "VISUAL: The video shows a soccer match on a green field with players in blue and white uniforms. There's a large crowd watching from the stands. One player in white is dribbling the ball towards the goal while being chased by a player in blue. The scene has bright lighting, likely from stadium lights.AUDIO: There's music playing throughout the video. At one point, there's some commentary about a player named Musa trying to get around another player named Arneson. It seems like an exciting moment during the game.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "**Visual:** The video shows a soccer match in progress. Players are running across a green field, with one player in a light blue jersey dribbling the ball. The stadium is filled with spectators, and there are banners and advertisements visible around the field. The scene is dynamic, with players actively engaged in the game.\n\n**Audio:** There is music playing in the background, and at one point, someone says \"looser again\" in a somewhat frustrated tone."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 252.83303427696228
+      "processing_time": 262.03846192359924
     },
     {
-      "comment_index": 811,
+      "comment_index": 5197,
       "video_id": "Vw34wMAqWzc",
       "comment": "4:47 i love how griezmann tryied to play with his head",
       "language": "en",
@@ -319,114 +319,114 @@
         {
           "segment_index": 1,
           "time_range": "278.0s - 284.0s",
-          "query": "VISUAL: It's a soccer match scene. There are players on the field, one team in white jerseys and another in blue. The crowd is cheering. You can see the goal area with the goalkeeper in orange. The players seem to be celebrating or reacting to something.The AUDIO: There's a man speaking in an excited tone, saying \"Oh how about that glorious.\" There's also some background noise from the crowd, like applause and shouting. And there's music playing throughout the clip.What do you think about this match?"
+          "query": "Visual: The video shows a soccer match taking place on a green field with players wearing blue and white uniforms. There's an audience in the background, some standing and cheering. One player in blue is seen running towards the camera with excitement.\n\nAudio: A commentator is heard speaking enthusiastically about something that happened during the game, possibly praising or commenting on a play. There's also applause from the crowd throughout the clip."
         },
         {
           "segment_index": 2,
           "time_range": "284.0s - 290.0s",
-          "query": "VISUAL: There's a soccer match going on. Players in blue and white jerseys are running around the field. One player in blue seems to be dribbling the ball towards the goal. The crowd is cheering in the background.AUDIO: You can hear the crowd cheering loudly throughout the clip. There's also some commentary or shouting from someone off - screen. It gives an exciting atmosphere of a live sports event.So, what do you think about this match? Do you have any favorite teams playing?"
+          "query": "Visually, the video shows a soccer match in a stadium filled with spectators. Players are running on the field, and one player in a white jersey is seen kicking the ball. The scene is dynamic, with players in different colored jerseys moving around. The colors are mainly the green of the field, the white and black of the jerseys, and the various colors of the spectators' clothing. There's a sense of action and movement as the players chase the ball.\n\nAudibly, there's cheering from the crowd, indicating excitement and support. There's also commentary, likely from a commentator, providing updates or analysis of the game. The overall sound is energetic, matching the lively atmosphere of a soccer match."
         },
         {
           "segment_index": 3,
           "time_range": "290.0s - 296.0s",
-          "query": "VISUAL: There's a soccer match going on. A player in blue kicks the ball towards the goal. The goalkeeper in orange dives to save it but misses. The crowd is cheering. You can see the net and some players around the goal area.AUDIO: There's music playing throughout the video. No specific speech or sound effects are heard. It's just the background music.If you want to talk more about this video or have other questions, feel free to let me know."
+          "query": "Sure! So, visually, it looks like there's an intense soccer match going on. You can see players running around, trying to score goals. The crowd is cheering really loudly, which adds to the excitement. There s also some kind of official or referee nearby, wearing bright yellow.Got any other questions about it?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 232.61816596984863
+      "processing_time": 231.9878900051117
     },
     {
-      "comment_index": 812,
+      "comment_index": 5198,
       "video_id": "Vw34wMAqWzc",
-      "comment": "the shot of pavard is so hard that you can hear pavard hitting the ball 4:38",
+      "comment": "2:43 Unnreal Ball Control 😳👏🏼",
       "language": "en",
       "channel_name": "fifa",
       "category": "sports",
-      "likes": 167.0,
-      "comment_timestamp": 278.0,
+      "likes": 151.0,
+      "comment_timestamp": 163.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "269.0s - 275.0s",
-          "query": "VISUAL: The video shows a soccer match between France and Argentina on a green field with players in white and blue uniforms. There's a large crowd watching from the stands. One player in a blue jersey is seen running towards the goal area.AUDIO: There's music playing throughout the video."
+          "time_range": "154.0s - 160.0s",
+          "query": "Visual: The video shows a soccer match between Nigeria and Argentina. Players from both teams can be seen on the field, with one player wearing an Argentina jersey prominently featured. The background includes a crowd of spectators.\n\nAudio: There is music playing throughout the entire clip."
         },
         {
           "segment_index": 2,
-          "time_range": "275.0s - 281.0s",
-          "query": "VISUAL: There's a soccer match going on. A player in white is sliding to tackle another player in blue near the goal area. The goalkeeper in orange is also visible. The crowd in the background looks excited. There are some banners with \"WANDA\" written on them around the field.AUDIO: You can hear cheering from the crowd throughout the clip. There's also some commentary or shouting that seems to be related to the game. Oh, and there's a bit of music playing in the background too.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "time_range": "160.0s - 166.0s",
+          "query": "**Visual:** The video shows a soccer match in progress. Players are actively running and passing the ball on a green field. The stadium is filled with spectators, creating a lively atmosphere. The players are wearing different colored jerseys, indicating two opposing teams. The camera captures the dynamic movement of the players as they chase the ball.\n\n**Audio:** There is background music playing throughout the video, adding to the energetic feel of the match. The sound of cheering from the crowd can also be heard, contributing to the excitement of the game."
         },
         {
           "segment_index": 3,
-          "time_range": "281.0s - 287.0s",
-          "query": "VISUAL: The video shows a soccer match. There's a player in blue celebrating with his arms outstretched on the field. Other players in different colored jerseys are running around him. The background has a large crowd watching from the stands. There are also some banners and advertisements visible along the sidelines.AUDIO: You can hear cheering and clapping from the crowd throughout the video. There's also some commentary or announcements being made."
+          "time_range": "166.0s - 172.0s",
+          "query": "Visually, the video shows a soccer match. There are players on a green field, with one player in a white and light blue striped jersey, number 10, celebrating with his arms raised. The background includes a blue wall with some advertisements and a crowd of spectators. The scene is well-lit, suggesting it's daytime or under stadium lights. The players are actively moving around the field, engaging in the game.\n\nIn terms of audio, there is cheering from the crowd, indicating excitement and support. There's also a voiceover saying \"yes it is\", which could be a commentator confirming a play or a goal. The overall atmosphere seems energetic and lively."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 226.70428133010864
+      "processing_time": 290.91682863235474
     },
     {
-      "comment_index": 813,
+      "comment_index": 5199,
       "video_id": "Vw34wMAqWzc",
-      "comment": "2:56 The touches are even prettier in slow motion",
+      "comment": "2:32 did someone fart",
       "language": "en",
       "channel_name": "fifa",
       "category": "sports",
-      "likes": 162.0,
-      "comment_timestamp": 176.0,
+      "likes": 135.0,
+      "comment_timestamp": 152.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "167.0s - 173.0s",
-          "query": "VISUAL: There's a soccer player on a field with his arms outstretched. He has tattoos on one arm. The background shows a crowd, some banners, and a goalpost. The field is green and there are other players around him.AUDIO: You can hear cheering from the crowd and some music playing in the background.If you have any thoughts or questions about this video, feel free to share!"
+          "time_range": "143.0s - 149.0s",
+          "query": "Visual: The video shows a soccer field with players in red and white uniforms. There are also some people in suits, likely officials or coaches, on the sidelines. The players are celebrating, with one raising his arms in triumph. The background has advertising boards with logos like McDonald's and FIFA TV. The scene is set in a stadium with a crowd of spectators.\n\nAudio: There's a man shouting in the background, possibly a commentator or a fan. The crowd is cheering and clapping, adding to the excitement of the moment."
         },
         {
           "segment_index": 2,
-          "time_range": "173.0s - 179.0s",
-          "query": "VISUAL: There's a soccer player in an Argentina jersey with number 10 on it. He has tattoos on his arms. He's celebrating with his hands up. In the background, there are other players running around. The field is green and there are some advertisements like Coca - Cola visible. The crowd can be seen in the stands.AUDIO: You can hear cheering from the crowd throughout the video. There's also some commentary about a \"stylish finish\" that Maradona would have been proud of. It seems to be during a soccer match. So, what do you think about this video? Do you have any other videos you want me to analyze?"
+          "time_range": "149.0s - 155.0s",
+          "query": "Visually, there's a soccer match going on. A player in a red jersey is on the ground, seemingly having just kicked the ball. Another player in a white jersey is nearby, possibly reacting to the play. The background shows a crowd of spectators, and there's a goalpost visible. The colors are mainly green from the field, red and white from the jerseys, and the green of the goalkeeper's uniform. The movement is focused on the players and the ball.The audio includes cheering from the crowd, which is typical for a soccer match. There's also some commentary, likely from a commentator, but the specific words are unclear."
         },
         {
           "segment_index": 3,
-          "time_range": "179.0s - 185.0s",
-          "query": "VISUAL: There's a soccer player in an Argentina jersey with number 10 on it. He's dribbling the ball while another player in green is chasing him. The background shows a crowd watching from the stands. There are also some advertisements like Coca - Cola visible.AUDIO: You can hear cheering and clapping from the crowd, along with some commentary about Argentina's prayers being answered by the blue man. There's also music playing in the background.If you have any other thoughts or questions about this video, feel free to share!"
+          "time_range": "155.0s - 161.0s",
+          "query": "Visual: The video shows Lionel Messi standing on a soccer field wearing his Argentina national team jersey with the number 10. He is positioned near a goalpost, looking towards the camera against a blue background.\n\nAudio: There's upbeat music playing throughout the entire clip."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 236.85289645195007
+      "processing_time": 244.39257884025574
     },
     {
-      "comment_index": 814,
+      "comment_index": 5200,
       "video_id": "Vw34wMAqWzc",
-      "comment": "0:57 Musa's goal reminds me Robben's goal against Spain in FIFA WORLD CUP 2014  Who else??",
+      "comment": "1:06  Musa teammate's : \"HEEYY MANNN LOOK AT MEEE\"",
       "language": "en",
       "channel_name": "fifa",
       "category": "sports",
-      "likes": 101.0,
-      "comment_timestamp": 57.0,
+      "likes": 130.0,
+      "comment_timestamp": 66.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "48.0s - 54.0s",
-          "query": "VISUAL: There's a soccer match going on. A player in red kicks the ball towards the goal. The crowd is cheering. Then it cuts to an image of a player named Ahmed Musa standing against a blue background with his name and \"Nigeria v Iceland\" displayed. He's wearing a green and white jersey.AUDIO: You can hear the crowd cheering throughout the first part. In the second part, there's some music playing in the background."
+          "time_range": "57.0s - 63.0s",
+          "query": "**Visual:** The video shows a soccer match in progress on a large, well-maintained green field. Players in blue and white uniforms are actively engaged in the game, running and passing the ball. The stadium is filled with spectators, creating a lively atmosphere. The scene is brightly lit, suggesting it's daytime.\n\n**Audio:** The audio features background music, which adds to the energetic ambiance of the soccer match. There are no distinct speech or sound effects heard in this segment."
         },
         {
           "segment_index": 2,
-          "time_range": "54.0s - 60.0s",
-          "query": "VISUAL: The video shows a soccer match on a field with players in blue and white uniforms playing against those in green and white. There's a large crowd watching from the stands. One player in a green and white uniform is standing in front of a blue background with his name \"Ahmed Musa\" displayed next to him.AUDIO: There's music playing throughout the entire 6 seconds of the video."
+          "time_range": "63.0s - 69.0s",
+          "query": "**Visual:** The video shows a soccer match. Players in blue and white jerseys are on the field. One player in blue is dribbling the ball, while others are running around. The crowd in the background is cheering. The field is green, and there are advertisements along the sidelines. The scene is dynamic, with players constantly moving.\n\n**Audio:** There's commentary in the background, likely from a sports announcer. The announcer is speaking in a lively, excited tone. There are also sound effects, probably from the crowd cheering and the ball hitting the ground."
         },
         {
           "segment_index": 3,
-          "time_range": "60.0s - 66.0s",
-          "query": "VISUAL: The video shows a soccer match on a green field with players in blue and white uniforms. There's a large crowd watching from the stands. One player in a light blue uniform is dribbling the ball while being chased by an opponent in dark blue. The camera follows their movement across the field.AUDIO: There's background music playing throughout the video. No specific speech or sound effects can be heard during these six seconds. So, it seems like just the music is present.If you have any other thoughts about the video or want to discuss something else related to it, feel free to let me know!"
+          "time_range": "69.0s - 75.0s",
+          "query": "Visual: The video shows a soccer match. Players are on the field, wearing different colored jerseys. One player in a green and white jersey is running towards the camera. The background has a crowd of spectators. The field is green and well-maintained. There are some yellow and black banners visible.\n\nAudio: There's cheering from the crowd, indicating excitement. Music is playing in the background, adding to the lively atmosphere."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 237.66134667396545
+      "processing_time": 274.16033124923706
     },
     {
-      "comment_index": 815,
+      "comment_index": 5201,
       "video_id": "Vw34wMAqWzc",
       "comment": "I cant stop watching this goal:00 ASTONISHING!!!! You can even hear the hit of the ball...... speechless!!! 4:31",
       "language": "en",
@@ -439,24 +439,54 @@
         {
           "segment_index": 1,
           "time_range": "262.0s - 268.0s",
-          "query": "VISUAL: There's a soccer player in an orange jersey making a save near the goalpost. The ball is in front of him. Then it cuts to a still image of another player in a blue jersey with the number 2 on his shorts. He stands against a dark background.AUDIO: There's music playing throughout the entire clip. No specific speech or sound effects are heard.Does that cover what you were looking for? Let me know if there's anything else!"
+          "query": "Visual: The video shows a soccer player in an orange jersey diving to make a save near a goalpost with a blue net. There's also another person in white shorts standing nearby. The background has some blurred elements suggesting a stadium setting.\n\nAudio: Music is playing throughout the entire 6 seconds of the video."
         },
         {
           "segment_index": 2,
           "time_range": "268.0s - 274.0s",
-          "query": "VISUAL: The video shows a soccer match between France and Argentina on a green field with players in white and blue uniforms. There's a large number \"1\" next to Benjamin Pavard's name, indicating his ranking or position. The crowd is visible in the background.AUDIO: There's music playing throughout the video, along with some cheering from the crowd."
+          "query": "**Visual:** The video shows a soccer match in progress. Players are running across a green field, wearing blue and white uniforms. The scene is set in a large stadium with a crowd of spectators visible in the background. The lighting suggests it's daytime.\n\n**Audio:** There is music playing in the background throughout the video. No specific speech or sound effects are discernible."
         },
         {
           "segment_index": 3,
           "time_range": "274.0s - 280.0s",
-          "query": "VISUAL: There's a soccer match going on. Players in white and blue jerseys are on the field. One player in white is sliding to tackle another in blue near the goal area. The crowd in the stands is visible, some wearing yellow vests. The field has green grass and white markings.AUDIO: You can hear cheering from the crowd throughout the clip. There's also a male voice shouting something at one point. The background has music playing."
+          "query": "Visually, it's a soccer match scene with players on the field, a referee, and a goalkeeper near the goalpost. The crowd is visible in the background, cheering. There are banners around the stadium with \"Wanda\" written on them.\n\nAudio-wise, there's music playing throughout, likely from the stadium speakers, and some cheering from the crowd."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 214.0642113685608
+      "processing_time": 235.53176927566528
     },
     {
-      "comment_index": 816,
+      "comment_index": 5202,
+      "video_id": "Vw34wMAqWzc",
+      "comment": "0:57 Musa's goal reminds me Robben's goal against Spain in FIFA WORLD CUP 2014  Who else??",
+      "language": "en",
+      "channel_name": "fifa",
+      "category": "sports",
+      "likes": 101.0,
+      "comment_timestamp": 57.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "48.0s - 54.0s",
+          "query": "Visually, the video shows a soccer match. Players in white and red jerseys are on the field, with one player in a red jersey running towards the goal. The crowd in the background is cheering. There's also a graphic overlay with the number \"8\" and the name \"Ahmed Musa\" along with \"Nigeria v Iceland\" on a blue background. The colors are mainly the green of the field, the white and red of the jerseys, and the blue of the graphic overlay. The movement is mainly the players running and the crowd cheering.\n\nAudio-wise, there's a sound effect that resembles a goal being scored, followed by applause from the crowd. There's also background music playing throughout the video."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "54.0s - 60.0s",
+          "query": "Visually, the video shows a soccer match in progress. Players are on a green field, wearing different colored jerseys, actively running and competing. The background has a large crowd in the stands, suggesting a stadium setting. There's also a graphic overlay with the number \"8\" and the name \"AHMED MUSA\" along with \"NIGERIA v ICELAND\" indicating the teams playing.\n\nAudibly, there's music playing in the background, likely adding to the excitement of the match."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "60.0s - 66.0s",
+          "query": "Sure! So, in the video, you can see a soccer match happening on a green field. There are players in blue and white uniforms running around, trying to get the ball. The crowd in the stands is cheering and clapping. Oh, and there's a yellow banner with some text on it.In the audio, you hear the crowd cheering and clapping, and there's also some music playing in the background. It's a lively atmosphere!What do you think about the match?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 251.35911321640015
+    },
+    {
+      "comment_index": 5203,
       "video_id": "Vw34wMAqWzc",
       "comment": "3:24 i think that defender dislocated his neck there",
       "language": "en",
@@ -469,24 +499,24 @@
         {
           "segment_index": 1,
           "time_range": "195.0s - 201.0s",
-          "query": "VISUAL: It's a soccer match scene. There are players on the field, some in red jerseys and others in white. The crowd is in the stands, watching intently. One player in red seems to be celebrating or reacting to something. The field is green and there are banners around it.AUDIO: There's music playing throughout most of the clip. At one point, someone says \"Oh genius\" and then there's applause."
+          "query": "**Visual:** The video shows a soccer match in a large stadium filled with spectators. Players in red and white jerseys are on the field, actively engaged in the game. One player in red is prominently featured, running towards the camera. The scene is vibrant with the green of the field and the colorful crowd.\n\n**Audio:** There's energetic music playing in the background, along with cheering and shouting from the crowd."
         },
         {
           "segment_index": 2,
           "time_range": "201.0s - 207.0s",
-          "query": "VISUAL: The video shows a soccer match. There's a player in red running towards the goal area. Other players in white are near the goalpost. A goalkeeper in yellow is also there. The crowd is visible in the background, cheering. The scene takes place on a green soccer field.AUDIO: You can hear cheers from the crowd throughout the video. There's no distinct speech or music. It seems like just the general noise of a lively sports event.If you have any other thoughts about the video or want to discuss something related, feel free to let me know."
+          "query": "Visually, the video shows a soccer match. Players in red jerseys are celebrating, with one player in the foreground wearing the number 7. The scene is on a green soccer field, and there are spectators in the background. The players are running and jumping in excitement. The colors are mainly red, green, and white from the jerseys and the field. There's a sense of movement and energy as the players celebrate.\n\nAudio-wise, there's cheering from the crowd, which is typical for a soccer match. There's also music playing in the background, adding to the celebratory atmosphere."
         },
         {
           "segment_index": 3,
           "time_range": "207.0s - 213.0s",
-          "query": "VISUAL: There's a soccer match going on. A player in red kicks the ball towards the goal. The goalkeeper in green tries to block it. Other players in white are around, some watching the action. The scene is set in a stadium with a crowd in the background.AUDIO: You can hear cheering from the crowd throughout the clip. There's also some music playing in the background."
+          "query": "**Visual:** The video shows a soccer match. Players in white and red uniforms are on the field. One player in a red and white striped jersey is highlighted, and the number \"3\" is displayed prominently next to him. The background includes a crowd of spectators and a referee in a yellow shirt. The scene is set in a large stadium with bright lights.\n\n**Audio:** There is applause heard throughout the video, indicating a positive moment in the match, possibly a goal or a good play."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 214.8773488998413
+      "processing_time": 295.68763160705566
     },
     {
-      "comment_index": 817,
+      "comment_index": 5204,
       "video_id": "Vw34wMAqWzc",
       "comment": "4:09 \"Deny the goal, maybe no one will watch the replay\"",
       "language": "en",
@@ -499,24 +529,24 @@
         {
           "segment_index": 1,
           "time_range": "240.0s - 246.0s",
-          "query": "VISUAL: The video shows a soccer player in a yellow jersey with \"20\" on it standing against a blue background. There's also an image of a soccer field during a match, with players from two teams visible. One team is wearing yellow jerseys like the player in the first scene, while the other team has dark jerseys. The crowd in the stands is mostly dressed in yellow.The AUDIO: You can hear music playing throughout the video. There are also some words spoken, including \"so Quintero\" and \"so Quintero\" again. It seems to be related to the soccer player shown in the first part of the video.If you have any more questions about this or want to discuss something else, feel free to let me know!"
+          "query": "Visually, there's a soccer player in a yellow jersey with the number 20, standing confidently on a field. The background is a blue screen with \"FIFA TV\" and \"2 JUAN QUINTERO COLOMBIA v JAPAN\" displayed. The scene shifts to a soccer stadium filled with yellow-clad fans, cheering and waving flags. The field is green and marked for play. The audio features music playing in the background, and there's applause from the crowd."
         },
         {
           "segment_index": 2,
           "time_range": "246.0s - 252.0s",
-          "query": "VISUAL: The video shows a soccer match in a stadium filled with fans wearing yellow shirts. There's a player in an orange jersey taking a shot at the goal. The ball goes past the goalkeeper who is diving to save it. The crowd is cheering and waving flags.AUDIO: There's commentary about whether the player can deliver under the wall, which seems to be referring to the shot. There's also applause from the crowd throughout the clip.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "Visual: The video shows a soccer match in a stadium filled with yellow-clad fans. Players are on the field, with one player in a blue jersey heading the ball. The ball is near the goal area. The scene is bright, likely daytime, with clear visibility of the green field and the players' movements.\n\nAudio: There's cheering from the crowd, indicating excitement. A commentator's voice can be heard, likely commenting on the play. The overall sound is energetic, matching the lively atmosphere of a soccer game."
         },
         {
           "segment_index": 3,
           "time_range": "252.0s - 258.0s",
-          "query": "VISUAL: The video shows a soccer player in an orange jersey with a number on his back. He's holding a water bottle. Then there's a scene where players in yellow jerseys are celebrating, hugging and jumping around. There's also someone in a purple shirt with \"Russia\" written on it. The background has a large screen with some graphics.AUDIO: You can hear cheering from a crowd throughout the video. There's also a voice saying something like \"Colombia\" and \"Kintero is buried beneath.\" It seems to be related to a sports event, probably a soccer match. So, what do you think about this video? Any thoughts or questions?"
+          "query": "**Visual:** The video shows a soccer match scene with players on the field. There's a player in yellow and another in maroon. The crowd is visible in the background, suggesting it's a stadium setting. The players seem to be actively engaged in the game.\n\n**Audio:** There's cheering from the crowd throughout the clip, indicating excitement or celebration during the match."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 308.7354714870453
+      "processing_time": 240.69933104515076
     },
     {
-      "comment_index": 818,
+      "comment_index": 5205,
       "video_id": "Vw34wMAqWzc",
       "comment": "1:30 That Belgium goal was insane! Teamwork at its best!!  And special mention for Lukaku. Who in the world thinks of executing a dummy pass at that stage??",
       "language": "en",
@@ -529,24 +559,24 @@
         {
           "segment_index": 1,
           "time_range": "81.0s - 87.0s",
-          "query": "VISUAL: There's a soccer match going on. A player in green and white is running with the ball while being chased by players in blue. One of the blue players falls to the ground. The scene then shifts to show another player in blue near the goalpost, and it looks like he's about to score or has just scored.AUDIO: You can hear someone speaking over the game, saying \"Arden couldn't get the challenge in\" and \"Musa makes it four goals in two World Cup matches.\" There's also some cheering from the crowd in the background.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "Visually, there's a soccer match going on. You can see players in blue and white uniforms on a green field. One player in white is dribbling the ball, and another in blue is trying to tackle him. There are also some yellow cones on the field. The crowd in the background looks excited, with lots of people cheering. The colors are mainly green from the field, white and blue from the players' uniforms, and the yellow of the cones. The movement is fast-paced, with the players running and the ball being passed around.Audibly, there's a commentator speaking in English. He's saying something like \"Arden couldn't get the challenge in\" and \"Musa makes it four goals in two World Cup matches.\" The tone is excited, matching the energy of the match. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 2,
           "time_range": "87.0s - 93.0s",
-          "query": "VISUAL: There's a soccer player in a red jersey with the number 22 on it. He stands against a blue background. The scene then shifts to a soccer field where players are actively playing. One player is seen kicking the ball towards the goal. The crowd can be seen in the background.AUDIO: There's music playing throughout the entire video segment. No specific speech or sound effects are heard."
+          "query": "Visually, the video shows a soccer player in a red jersey with the number 22 on it. The player is standing on a soccer field, and there are other players in the background. The background is a blue gradient with some text and logos, including \"FIFA TV\" and \"Hisense.\" The player seems to be posing or getting ready for a moment in the game. There's also a large number \"7\" and the name \"NACER CHADLI\" displayed, along with \"BELGIUM v JAPAN.\"\n\nIn terms of audio, there is music playing throughout the 6 seconds."
         },
         {
           "segment_index": 3,
           "time_range": "93.0s - 99.0s",
-          "query": "VISUAL: The video shows a soccer match on a green field with players in red and blue jerseys running around. There's a crowd in the stands watching. You can see some advertisements like McDonald's, Hisense, Visa, and Qatar Airways along the sidelines.AUDIO: There's a man speaking over the sound of cheering from the crowd. It seems to be commentary about the game. Oh, and there's also music playing in the background.If you want to know more about the game or have any other questions, feel free to ask!"
+          "query": "Visual: A soccer match is taking place on a green field with players in orange and blue jerseys actively running around. The stands are filled with spectators. There's an advertisement board along the sidelines.\n\nAudio: An announcer speaks over the game, providing commentary or updates about the match."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 251.64639949798584
+      "processing_time": 306.73379826545715
     },
     {
-      "comment_index": 819,
+      "comment_index": 5206,
       "video_id": "Vw34wMAqWzc",
       "comment": "4:21 look at that ball!",
       "language": "en",
@@ -559,51 +589,21 @@
         {
           "segment_index": 1,
           "time_range": "252.0s - 258.0s",
-          "query": "VISUAL: The video shows a soccer player in an orange jersey with a number on his back. He's holding a water bottle. Then there's a scene where players in yellow jerseys are celebrating, hugging and jumping around. There's also someone in a purple shirt with \"Russia\" written on it. The background has a large screen with some graphics.AUDIO: You can hear cheering from a crowd throughout the video. There's also a voice saying something like \"Colombia\" and \"Kintero is buried beneath.\" It seems to be related to a sports event, probably a soccer match. So, what do you think about this video? Any thoughts or questions?"
+          "query": "**Visual:** The video shows a soccer match scene with players on the field. There's a player in yellow and another in maroon. The crowd is visible in the background, suggesting it's a stadium setting. The players seem to be actively engaged in the game.\n\n**Audio:** There's cheering from the crowd throughout the clip, indicating excitement or celebration during the match."
         },
         {
           "segment_index": 2,
           "time_range": "258.0s - 264.0s",
-          "query": "VISUAL: There's a soccer match going on. You can see players in yellow and blue jerseys playing on a green field. One player in yellow is kicking the ball towards the goal. The crowd in the background is cheering. There's also a goalkeeper in orange trying to block the shot.AUDIO: There's some commentary about a \"clever free kick under the wall\" being played. Then there's applause from the crowd. Oh, and there's music playing throughout the clip too.If you want to talk more about this or have other questions, feel free to ask!"
+          "query": "Visual: The video shows a soccer match. Players in yellow and blue jerseys are on the field. One player in yellow kicks the ball, aiming towards the goal. The goalkeeper in orange dives to try and block the shot. The crowd in the background is cheering. The scene is on a green soccer field with white boundary lines. The colors are vibrant, with the yellow and blue jerseys contrasting against the green field and the orange goalkeeper's kit.\n\nAudio: There's commentary in the background, likely from a sports announcer. The words \"FIFA TV\" are visible, suggesting it's a broadcast. The crowd is cheering, and there's a sound effect that accompanies the action on the field, possibly a whistle or a loud cheer."
         },
         {
           "segment_index": 3,
           "time_range": "264.0s - 270.0s",
-          "query": "VISUAL: There's a soccer player in an orange jersey diving to save a ball near the goalpost. Then it cuts to a still image of another player in a blue jersey with \"1\" on his back standing against a dark background. The name \"BENJAMIN PAVARD\" is displayed along with \"FRANCE v ARGENTINA\". AUDIO: There's music playing throughout the entire clip. What do you think about these two players?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.26 GiB. GPU 1 has a total capacity of 23.56 GiB of which 2.52 GiB is free. Including non-PyTorch memory, this process has 21.03 GiB memory in use. Of the allocated memory 16.52 GiB is allocated by PyTorch, and 4.19 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 300.3754231929779
-    },
-    {
-      "comment_index": 820,
-      "video_id": "Vw34wMAqWzc",
-      "comment": "0:01- Started through 2014 WC champ  4:28- Finished through 2018 WC champ",
-      "language": "en",
-      "channel_name": "fifa",
-      "category": "sports",
-      "likes": 75.0,
-      "comment_timestamp": 268.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "259.0s - 265.0s",
-          "query": "VISUAL: There's a soccer match going on. A player in yellow kicks the ball towards the goal. The goalkeeper in orange dives to save it but misses. The crowd is cheering in the background.AUDIO: You can hear cheers from the crowd throughout the clip. There's also some commentary about a clever free kick under the wall. And there's music playing in the background too.If you want to talk more about this or have other questions, feel free to let me know."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "265.0s - 271.0s",
-          "query": "VISUAL: There's a soccer player standing on a field with a blue background behind him. He has short brown hair and is wearing a dark blue jersey with white shorts. The number \"1\" appears next to his name, Benjamin Pavard, and it says \"France v Argentina.\" The FIFA TV logo is also visible.AUDIO: There's music playing throughout the entire clip. It seems like an energetic piece, possibly related to sports or a game. No specific speech or sound effects can be heard from the players or other sources. So, that's my analysis based on just those six seconds. What do you think about it? Do you have any other questions regarding this video?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "271.0s - 277.0s",
-          "query": "VISUAL: There's a soccer match going on. You can see players in white and blue uniforms running around the field. One player in white is kicking the ball towards the goal. The goalkeeper in orange is trying to block it. The crowd in the background looks excited.AUDIO: There's some music playing throughout the video. It seems like there might be some commentary or announcements too, but they're not very clear. Oh, and at one point, there's applause from the crowd. So, that's about it! What do you think about the game?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 261.30278158187866
+      "processing_time": 208.8194510936737
     }
   ]
 }

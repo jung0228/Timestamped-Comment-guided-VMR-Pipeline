@@ -6,7 +6,7 @@
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 4171,
+      "comment_index": 4613,
       "video_id": "sZs4NDC4yrI",
       "comment": "16:51 a mac with windows",
       "language": "en",
@@ -19,24 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "1002.0s - 1008.0s",
-          "query": "VISUAL: There's a man with a backpack standing at a counter in some kind of repair shop or electronics store. He's interacting with another person behind the counter who seems to be an employee. The background has shelves filled with various electronic devices like computers and monitors. There are also some signs on the wall that look like they're written in Chinese. The man is holding something small in his hand while talking to the employee. The scene looks busy but not overly crowded.AUDIO: You can hear some conversation between the two men. There's also a bit of music playing in the background. It gives off a casual, everyday vibe. What do you think about it? Do you have any other observations?"
+          "query": "Visually, there are people in what seems to be a store or workshop. There are shelves with various items, and some people are interacting, possibly discussing or examining something. The setting looks busy with different objects around. The colors are mostly neutral, with some items having brighter colors. There's movement as people are walking and gesturing.\n\nIn terms of audio, there's music playing in the background. There are also some sounds of things being moved or handled, like rustling or clinking."
         },
         {
           "segment_index": 2,
           "time_range": "1008.0s - 1014.0s",
-          "query": "VISUAL: There's a man in a black shirt with \"inus tech tips\" written on it standing in front of a counter filled with electronic devices like laptops and monitors. Behind him, there are shelves stocked with various items. Another person is sitting at the counter, looking at something on a laptop. The background has signs with Chinese characters. The scene seems to be inside an electronics repair shop or store.AUDIO: Someone says \"no no screwdriver okay okay should we just go to the\". It sounds like they're having a conversation about whether to proceed without a screwdriver or not.What do you think about this? Do you have any other questions related to the video?"
+          "query": "Visually, there are several people in what seems to be a busy electronics store. You can see computers, monitors, and other electronic devices on display. The people are moving around, some looking at the products, others interacting with each other. The store has a mix of bright and dim lighting, with some areas illuminated by neon signs.\n\nIn terms of audio, there's a conversation happening between two people. One person is speaking, and the other is responding. There are also some background noises, like the sound of a cash register and some ambient chatter from other customers."
         },
         {
           "segment_index": 3,
           "time_range": "1014.0s - 1020.0s",
-          "query": "VISUAL: There's a man in a black shirt with \"mustechtips\" on it standing in front of some electronic repair signs. He then walks away from the camera into a crowded area with other people around. The background has various electronic repair advertisements.AUDIO: Someone is speaking, saying things like \"building yeah okay fine let's just go where we know they're gonna have it all right let's go back to that big tool booth.\" It seems like they're discussing going somewhere specific related to tools or equipment.If you want to talk more about this video or anything else, feel free to ask!"
+          "query": "Visually, there are people in what seems to be a busy indoor area, possibly a market or a store. There are signs with Chinese characters, and some people are walking around. The colors are mostly neutral, with some bright signs. The movement is mostly people walking and interacting.\n\nAudibly, there's a conversation between two people. One person says \"building yeah okay fine let's just go\" and the other responds with \"where we know they're gonna have it all right let's go back to that big school booth.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 345.81625509262085
+      "processing_time": 303.1865882873535
     },
     {
-      "comment_index": 4172,
+      "comment_index": 4614,
       "video_id": "sZs4NDC4yrI",
       "comment": "Linus: \"I actually like this screwdriver\" Scott: \"Are you compensating for something?\" 21:35",
       "language": "en",
@@ -49,24 +49,24 @@
         {
           "segment_index": 1,
           "time_range": "1286.0s - 1292.0s",
-          "query": "VISUAL: Two men are standing outside near some equipment. One man is holding an electronic device with a black case that has holes on it. The other man is looking at him while he holds the device. There's a table behind them with various items like boxes and cables. In the background, there are trees and a building with Chinese characters on it.AUDIO: A woman is speaking about a system integrator SKU and mentions something about an OEM card related to \"Rat Bat.\" It seems like she might be explaining or discussing technical details.If you have any more questions about the video or want to discuss something else, feel free to let me know!"
+          "query": "Visual: The video shows two men standing close together, one wearing a black shirt and the other in a dark blue shirt. They seem to be examining a black electronic device, possibly a card, which one of them is holding. The background is somewhat blurry but appears to be an outdoor setting with some greenery and possibly a building or structure in the distance. There are also some colorful elements, like a red and yellow object, which could be part of a display or decoration.\n\nAudio: The main audio is a man speaking. He says, \"Oh this is a system integrator SKU so he sold us an OEM card that rat bad.\" The speech is clear and seems to be in English. There are no other distinct sounds or music in the audio."
         },
         {
           "segment_index": 2,
           "time_range": "1292.0s - 1298.0s",
-          "query": "VISUAL: Two men are standing outside at night near some equipment. One man is holding a screwdriver and appears to be working on something while the other watches. There's a table with various items like boxes and tools on it. The background shows some buildings and trees lit up.AUDIO: A conversation between two men about a screwdriver and warranty. They seem to be discussing the quality or reliability of an item related to the screwdriver. It's just their voices talking without any music or sound effects. So, what do you think they might be fixing?"
+          "query": "Well, in the visual part, there are two men standing outside. One of them is holding a screwdriver. They seem to be having a conversation. The background has some buildings and trees, and it looks like it's daytime. There are also some people walking around in the distance.In the audio part, there's a man speaking. He's talking about something related to warranty and screwdrivers. It sounds like he's explaining or discussing something. There's no music or sound effects, just his speech. So, what do you think about this video?"
         },
         {
           "segment_index": 3,
           "time_range": "1298.0s - 1304.0s",
-          "query": "VISUAL: There's a man in a black shirt working on some kind of electronic device with tools. He seems focused on his task. In the background, there are other people around, some sitting and some standing. There are also plants visible near where he is working.AUDIO: Someone is speaking, saying \"you're compensating for something okay now I promised that I was put\". The tone seems somewhat casual or conversational.If you have any more questions about the video or want to discuss it further, feel free to let me know!"
+          "query": "Visually, there are people in what seems to be an indoor setting, possibly a mall or a public area. There are plants and some kind of machinery or equipment in the background. The people are moving around, some are standing and others are walking. The colors are mostly neutral, with some green from the plants. The movement is generally casual and unhurried.\n\nIn terms of audio, there's a man speaking, and his voice is clear and audible. There are no other distinct sounds like music or sound effects. The speech seems to be a conversation or some kind of dialogue."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 276.92682552337646
+      "processing_time": 237.63350653648376
     },
     {
-      "comment_index": 4173,
+      "comment_index": 4615,
       "video_id": "sZs4NDC4yrI",
       "comment": "5:00    Nothing says China like an old lady shining high powered lasers off reflective surfaces in the middle of the mall with no protective eyewear.",
       "language": "en",
@@ -79,24 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "291.0s - 297.0s",
-          "query": "VISUAL: The video shows a close - up of some computer components inside a glass case. There's a motherboard with various chips and connectors visible. Then it shifts to show two men standing near the display case. One man is wearing a backpack and has his hands on his hips while looking at the components. The other man seems to be explaining something about them. The background includes shelves with more items and signs with Chinese characters.AUDIO: There's a voiceover saying \"like brand new that's incredible oh wow okay\" during the video. It's a short, somewhat excited statement."
+          "query": "Visually, the video shows a person in a store, possibly a electronics store, looking at a display of computer motherboards. The person is wearing a striped shirt and jeans. There are other people in the background, some standing and some sitting. The store has shelves with various items, and there are bright lights illuminating the area. The colors are mostly blue and yellow from the display cases and the store's decor. The movement is mainly the person in the striped shirt moving around the display, looking at the motherboards.\n\nAudio-wise, there is a man speaking in the background. He says something like \"like brand new that's incredible oh wow.\" The speech is clear and seems to be in English. There is no music or other sound effects, just the man's voice and some ambient noise from the store."
         },
         {
           "segment_index": 2,
           "time_range": "297.0s - 303.0s",
-          "query": "VISUAL: There's a person standing near some glass display cases with blue frames. They're wearing dark pants and sandals. Then there are two men in black shirts looking at something on their phones. One has a backpack. The background shows a busy store or market area with various signs and other people around.AUDIO: A woman is speaking about burning paper with an object, warning to be careful. It seems like she might be talking about a dangerous situation involving that object. What do you think about it?"
+          "query": "Well, in the video, there are two guys standing in a store. One of them is holding a phone and looking at it. The other guy is standing beside him, also looking at the phone. They seem to be focused on whatever's on the phone screen. The store has shelves with various items on them, and there are some signs and posters on the walls. The lighting is bright, typical of a store. In the audio, there's a woman speaking. She says something like, \"I can't even like focus my eyes on one point she was burning paper with one of these so just be careful.\" It sounds like she's warning about something dangerous or risky related to the phone or something in the store. What do you think about this? Do you have any other thoughts or questions?"
         },
         {
           "segment_index": 3,
           "time_range": "303.0s - 309.0s",
-          "query": "VISUAL: There's a man in a black shirt with a backpack standing at a display case filled with various items like cameras and tripods. He seems to be looking for something specific. Another person is behind him, possibly a shopkeeper or another customer. The background shows shelves stocked with more goods, and there are some signs on the wall.AUDIO: A male voice is speaking throughout the clip. It starts off asking about an item's price, then says \"oh here we go\" towards the end. There's no music or other distinct sound effects. Just that one voice talking. So, what do you think about this scene? Any thoughts?"
+          "query": "**Visual:** The video shows a store setting with shelves stocked with various items. Two people are interacting, one pointing at something on the shelf while the other holds a small object. The background has more shelves and products, suggesting a retail environment. The lighting is bright, typical of a store.\n\n**Audio:** There's a conversation between the two people. One person is asking about the price of an item, and the other seems to be responding, possibly explaining or confirming the price. The dialogue is clear and the tone suggests a casual shopping interaction."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 306.564129114151
+      "processing_time": 299.6079957485199
     },
     {
-      "comment_index": 4174,
+      "comment_index": 4616,
       "video_id": "sZs4NDC4yrI",
       "comment": "0:28  You can clearly see where Elon Musk drew his inspiration from...",
       "language": "en",
@@ -109,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "19.0s - 25.0s",
-          "query": "VISUAL: There are two men standing outside a building with Chinese characters on it. One man is wearing a black shirt with \"nutechtips\" written on it and has a backpack. The other man is wearing a dark blue shirt and also has a backpack. They seem to be talking or interacting. Then one of them turns around and starts walking away while gesturing with his arms. In the background, there's a busy street scene with buildings, trees, and some people sitting on the ground.AUDIO: A woman is speaking. She says something about a \"gigantic tech mall thing\" having everything from components to. It seems like she's describing a place that sells various electronic parts and gadgets.If you have any more questions about the video or want to discuss it further, feel free to let me know!"
+          "query": "Visual: The video shows a bustling city street with tall buildings, billboards, and a lot of people walking around. There are trees lining the sidewalk. A man in a black shirt with \"nustechtips\" written on it is seen gesturing and talking. He has a backpack on. The scene is lively and busy, with a mix of pedestrians and vehicles in the background. The colors are bright and varied, typical of an urban setting. The movement is fast-paced, with people constantly on the move.\n\nAudio: There's a woman speaking in the background, but her words are not clearly audible. The overall sound is that of a busy city, with the hum of traffic and the chatter of people."
         },
         {
           "segment_index": 2,
           "time_range": "25.0s - 31.0s",
-          "query": "VISUAL: There's a guy in a black t - shirt with \"nustechtips\" on it walking through an urban area. He has a backpack on. In the background, there are buildings with big billboards, some people sitting on benches, others walking around. There's also a white van parked nearby.AUDIO: A woman is speaking about various tech items like switches, computer parts, drones, cryptocurrency stuff, and mobile phones. It seems to be a promotional or informational talk about these products.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "Visually, there's a man in a black shirt with \"INUS TECH\" written on it, walking and talking. He's in an urban area with buildings, signs, and other people around. There are also some vehicles in the background. The scene seems to be during the day, with natural light. The man is gesturing with his hands as he speaks. The colors are typical of a cityscape, with grays, blues, and the occasional bright color from signs or clothing. The movement is mostly the man walking and the occasional movement of other people in the background.Audibly, there's a woman speaking. Her voice is clear and seems to be in a normal conversation tone. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "31.0s - 37.0s",
-          "query": "VISUAL: There are two men standing on a busy street. One is wearing a black t - shirt with \"nustech\" written on it and has a backpack. The other man is in a dark blue t - shirt and also has a backpack. They seem to be talking and gesturing. In the background, there's a building with large advertisements and some people walking around. A white van is parked nearby.AUDIO: Someone is speaking about shopping and having no specific objective other than that. It seems like they're just going along with the flow of things.If you have any more questions or want to discuss something else related to this video, feel free to let me know!"
+          "query": "**Visual:** The video shows a busy urban street scene. There are several people walking around, some carrying bags. A man in a black shirt with \"instructure\" written on it is prominently featured. He seems to be talking or gesturing. The background has buildings with advertisements and signs. The overall color scheme is a mix of urban grays and the colors of the people's clothing.\n\n**Audio:** The main audio is a man speaking. He says, \"pretty much you name it they've got it here so I don't really have any objective other than to go shopping.\" There are no other distinct sounds or music in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 353.24927043914795
+      "processing_time": 366.4447720050812
     },
     {
-      "comment_index": 4175,
+      "comment_index": 4617,
       "video_id": "sZs4NDC4yrI",
       "comment": "2:45 look at the confused guy eating his noodles thinking \"someone is filming me\"",
       "language": "en",
@@ -139,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "156.0s - 162.0s",
-          "query": "VISUAL: There's a man with a backpack walking through an electronics store. He looks at some items on display, like computer components. The store has various signs for brands like ASUS and Lenovo. There are also glass cases showing different tech products.AUDIO: Someone is speaking about mining power supplies, mentioning \"Apple cash machine\" and \"ROG something something.\" It seems to be a casual conversation or commentary. So, what do you think about this? Any thoughts or questions?"
+          "query": "Visual: The video shows a store setting. There are shelves with various electronic items, like motherboards and other computer components. A person is seen looking at a display case containing an Apple product, possibly an iPod or similar device. The person is wearing a black hoodie and has a backpack on. The store has bright lighting and a clean, organized appearance. The colors are mostly neutral, with the electronics being the main focus.\n\nAudio: There is a man speaking in the background. His voice is clear and he seems to be talking about something related to the store, possibly explaining products or giving directions. The speech is in English."
         },
         {
           "segment_index": 2,
           "time_range": "162.0s - 168.0s",
-          "query": "VISUAL: The video shows a store with various computer components on display. There's a motherboard in a glass case up front. In the background, there are shelves with boxes labeled \"PRIME B550GM\" and other items like Intel processors. People are browsing around, some looking at products while others seem to be chatting or working on something. One person is holding a box that says \"ROG\". There are also tables where some individuals are seated, possibly trying out or discussing the products.AUDIO: The audio includes someone saying \"looks like very similar skews yep\" twice. There's also some background noise from the store, like other customers talking and the general ambiance of a busy electronics shop.If you have any more questions about the video or need further details, feel free to ask!"
+          "query": "Visually, there are several people in what seems to be a store or showroom. There are various electronic devices on display, like laptops and monitors. Some people are looking at the devices, while others are talking or interacting with each other. The background has shelves with more products and some banners with brand names. The lighting is bright, typical of a retail environment. There's a mix of movement as people walk around and examine the items.Audibly, there's a man speaking, likely explaining something about the products. The speech is clear and seems to be directed at the people in the store. There's also some background noise, probably from other customers and the general ambiance of the store."
         },
         {
           "segment_index": 3,
           "time_range": "168.0s - 174.0s",
-          "query": "VISUAL: There's a man with a blue backpack walking through an electronics store. He passes by another person wearing a red cap. The store has various electronic products on display, like computers and other gadgets. There are also some boxes stacked up near the entrance.AUDIO: Someone is speaking, saying \"DO YOU NEED A COMPUTER?\" and then \"I'm just looking.\" It seems to be a conversation between two people in the store.If you have any more questions about the video or want to discuss it further, feel free to let me know!"
+          "query": "**Visual:** The video shows a store interior, likely an electronics store. There are shelves stocked with various items, and a few people are walking around. One person is wearing a blue backpack and another has a black backpack. The store has bright lighting and signs with Chinese characters. The camera moves slightly, capturing different parts of the store.\n\n**Audio:** There is a conversation happening in the background. The voices are somewhat muffled, but it seems like people are talking casually. There's no distinct music or sound effects, just the ambient noise of the store and the conversation."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 343.2482705116272
+      "processing_time": 275.3508825302124
     },
     {
-      "comment_index": 4176,
+      "comment_index": 4618,
       "video_id": "sZs4NDC4yrI",
       "comment": "3:09 imagine that you're that guy with the white shirt,you greet someone who's just walking into your shop,then he just leaves",
       "language": "en",
@@ -169,24 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "180.0s - 186.0s",
-          "query": "VISUAL: There's a man with a backpack walking into a store filled with electronics like monitors on shelves. He's greeted by two men, one in a red vest and another in a white shirt. The man in the white shirt seems to be explaining something to him. Then it cuts to a black - and - white close - up of the man in the white shirt talking to someone else.AUDIO: You can hear some background noise from the store, like people chatting or moving around. There's also a bit of music playing softly in the background. And there's a short piece of speech where someone says \"let him here hi now I'm just looking around it's okay thank you.\" What do you think about this scene?"
+          "query": "**Visual:** The video shows a store interior with shelves stocked with various items. There are people present, including a man in a red vest and another in a white shirt. The man in the white shirt is seen walking through the store, and there's a person with a backpack. The setting appears to be a retail environment with bright lighting.\n\n**Audio:** The audio includes speech, likely from the man in the white shirt, and some background music. The speech seems to be casual conversation or interaction within the store."
         },
         {
           "segment_index": 2,
           "time_range": "186.0s - 192.0s",
-          "query": "VISUAL: There's a man with glasses looking at something off - screen. Then it cuts to another guy in a store, looking at computer components on display. He has a backpack on. The store is filled with various tech products like Intel boxes and other computer parts.AUDIO: There's some music playing in the background. A person is speaking about how certain things they're seeing would never be found in retail stores back home, mentioning dual socket stuff.What do you think about these kinds of stores? Have you ever been to one?"
+          "query": "**Visual:** The video shows a person in a store, likely a tech store given the shelves filled with various electronic products. The person is wearing a black shirt and a backpack. They seem to be browsing or looking at items on the shelves. The shelves are stocked with boxes and gadgets, and there are bright lights illuminating the store. The person moves around the shelves, possibly examining different products.\n\n**Audio:** There is background music playing throughout the video. The music is upbeat and energetic, which might suggest a lively shopping environment."
         },
         {
           "segment_index": 3,
           "time_range": "192.0s - 198.0s",
-          "query": "VISUAL: There's a man with short hair wearing a black shirt and backpack looking at some computer components inside a glass display case. He seems to be checking out different items like power supplies and server boards. The background shows other boxes and products on shelves.AUDIO: A male voice is speaking, asking about the price of an 1800 watt power supply. It sounds like he might be in a store or tech shop.If you have any more questions about the video or need further details, feel free to ask!"
+          "query": "Visual: The video shows a store setting with shelves filled with various computer components like CPUs and motherboards. There's also a glass display case containing more tech items. A person is seen interacting with these products.\n\nAudio: Someone is speaking about asking for information on an \"1800 watt power supply.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 286.9175672531128
+      "processing_time": 239.01877689361572
     },
     {
-      "comment_index": 4177,
+      "comment_index": 4619,
       "video_id": "sZs4NDC4yrI",
       "comment": "16:49 did anyone else notice the Mac that was running Windows",
       "language": "en",
@@ -199,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "1000.0s - 1006.0s",
-          "query": "VISUAL: There's a guy in a black shirt with a backpack holding a phone. He walks through a shopping mall or store area. Then he goes into a shop where there are computers on display. Inside the shop, he hands over his phone to another man who is standing behind a counter. The other man takes the phone from him.AUDIO: You can hear some background chatter and music playing. There's also a bit of conversation between the two men when the guy gives the phone to the other one. It seems like they're having a short exchange about the phone. So, what do you think about this scene? Do you have any other questions related to it?"
+          "query": "Visually, there are people in what seems to be a store or shop. There are shelves with various items, and some people are interacting, possibly shopping or browsing. The colors are typical of a retail environment, with bright lighting and products on display. There's movement as people walk around and look at things.\n\nIn terms of audio, there's speech from the people in the store, likely discussing products or making purchases. There's also background music playing, which is common in retail settings."
         },
         {
           "segment_index": 2,
           "time_range": "1006.0s - 1012.0s",
-          "query": "VISUAL: There's a man in a black shirt with \"Linus Tech Tips\" written on it standing at a counter in what looks like an electronics repair shop. Behind him, there are shelves filled with various electronic devices and boxes. Another person is sitting behind the counter, working on something. The background has signs with Chinese characters. The man in the black shirt seems to be talking or explaining something.AUDIO: There's some kind of mechanical noise throughout the clip, possibly from tools or machinery in the shop. There's also a short piece of music playing towards the end."
+          "query": "**Visual:** The video shows a busy electronics repair shop. Several people are present, some standing and others sitting. There are various electronic devices and tools visible, including computers and what looks like a workbench. The shop has signs with Chinese characters, suggesting it's likely in a Chinese-speaking region. The people seem to be engaged in different tasks, possibly repairing or selling electronics.\n\n**Audio:** The audio includes a man speaking, likely explaining something or giving instructions. There's also a sound effect that resembles a cash register or a similar mechanical noise, possibly indicating a transaction or a machine being used."
         },
         {
           "segment_index": 3,
           "time_range": "1012.0s - 1018.0s",
-          "query": "VISUAL: There's a guy in a black shirt with \"inustechtips\" on it walking through some kind of electronics repair shop or store. You can see other people working at desks with computers and various electronic devices around. There are signs in Chinese hanging up. The guy has a backpack on and is looking down as he walks.AUDIO: Someone is speaking English, saying \"Okay, should we just go to the other building? Yeah, okay, fine. Let's just go where we know they're gonna have it.\" It seems like they're having a conversation about going somewhere else.What do you think about that? Do you want to talk more about the video?"
+          "query": "Visual: The video shows an indoor setting with multiple people. There's a man in a black shirt walking towards the camera, and another person in teal behind him. The background has signs with Chinese characters, suggesting it might be some kind of store or market area. Objects like shelves and electronic devices can also be seen.\n\nAudio: Speech is heard throughout, likely conversations between the people present. No distinct music or sound effects stand out."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 280.0419588088989
+      "processing_time": 201.1549036502838
     },
     {
-      "comment_index": 4178,
+      "comment_index": 4620,
       "video_id": "sZs4NDC4yrI",
       "comment": "20:47 \"being an idiot doesn't help.\"  Feeling like I should write that down...",
       "language": "en",
@@ -229,24 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "1238.0s - 1244.0s",
-          "query": "VISUAL: A person is assembling computer components on a table outdoors. There's a motherboard with a CPU already installed. The person seems to be explaining or demonstrating something while holding some parts. There are other computer parts like RAM sticks and cooling fans around. The background shows a van and some buildings.AUDIO: Someone is speaking, probably giving instructions or commentary about the assembly process. It sounds like they're talking about thermal paste too.If you have any more questions about this video or anything else, feel free to ask!"
+          "query": "Visually, there's a person working on a computer motherboard. They seem to be handling some components, possibly installing or removing parts. The motherboard is clearly visible with various slots and connectors. The person is wearing a black shirt and jeans. The background is somewhat blurred but looks like an indoor setting, maybe a workshop or a tech repair place. There are some other objects around, like a plant and what seems to be a tool or another piece of equipment.The audio is mostly speech. It's a man talking, and he seems to be explaining something about the process he's doing. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 2,
           "time_range": "1244.0s - 1250.0s",
-          "query": "VISUAL: The video shows two men working on a computer motherboard. One man is holding a screwdriver while the other is handling some components. There's a box labeled \"ASUS B350-PLUS\" underneath the motherboard. The background has some plants and other indistinct objects.AUDIO: There's a voiceover saying something like \"all over your hand did no wonder your projects take you eight months being an idiot doesn't help.\" It seems to be a sarcastic or critical comment about someone's work process.If you have any more questions about the video or want to discuss it further, feel free to let me know!"
+          "query": "Oh, it seems like there's been some confusion here. The video doesn't actually show any projects or anything related to being an idiot. It just shows someone working on computer hardware. There aren't any voices or sounds mentioned either.Anything else you'd like me to clarify?"
         },
         {
           "segment_index": 3,
           "time_range": "1250.0s - 1256.0s",
-          "query": "VISUAL: A person is installing RAM sticks into a motherboard on top of an ASUS B350 - PLUS box. There's another person standing behind them. The scene seems to be indoors with some plants visible in the background.AUDIO: Someone says \"okay HyperX all right okay HyperX all right\" during the video. It also includes some generic impact sounds and surface contact noises."
+          "query": "Visually, the video shows a person handling a box labeled \"HyperX Fury B350-PLUS ASUS.\" The person's hands are visible as they manipulate the box, possibly opening or adjusting it. The background seems to be an indoor setting, perhaps a store or an exhibition area, with some blurred figures and objects in the distance. The colors are mostly dark, with the box being the main focus.\n\nIn terms of audio, there is a voice speaking, saying \"okay HyperX fury all right what else is there in here we read.\" The speech is clear and seems to be part of a conversation or explanation about the product."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 268.77995228767395
+      "processing_time": 174.95736503601074
     },
     {
-      "comment_index": 4179,
+      "comment_index": 4621,
       "video_id": "sZs4NDC4yrI",
       "comment": "12:13 I'm just thinking if a Chinese visiting America and asking if anybody speaks Chinese? What possibly the response from an American would be!",
       "language": "en",
@@ -259,24 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "724.0s - 730.0s",
-          "query": "VISUAL: There's a group of young men in a store. One man is wearing a black shirt with a backpack, another has on a white \"PIRATES\" t - shirt, and there's someone else in a dark blue shirt with a backpack too. They seem to be looking at something together, maybe a product or a screen. The background shows shelves filled with various items, like electronics and other goods. There are also some signs with Chinese characters and English words like \"SONY\". The lighting is bright, typical for a retail store.AUDIO: A male voice says, \"Hold on yeah I don't think that's very good pricing I think we can do better elsewhere.\" It seems like he's discussing prices with others in the scene. There's no music or any other distinct sound effects. Just the conversation between these guys.So, what do you think about their discussion? Do you have any ideas on how they could find better prices?"
+          "query": "Visually, there are several people in a store. One person in a white shirt with \"Pirates\" written on it is interacting with a cashier. There are shelves with various items in the background. The lighting is bright, typical of a retail store. The people seem to be engaged in a transaction or discussion.\n\nIn terms of audio, there's a conversation between the people. The man in the white shirt is speaking, and the cashier responds. The speech is clear and seems to be about pricing, as the man says something about not thinking the price is good and believing they can do better elsewhere."
         },
         {
           "segment_index": 2,
           "time_range": "730.0s - 736.0s",
-          "query": "VISUAL: There's a man with short hair wearing a black shirt standing in a store filled with electronics. He seems to be talking or reacting to something. The background has various electronic products on display, like computers and monitors. There are also some signs in Chinese hanging around. The lighting is bright, typical for a retail store.AUDIO: A male voice is speaking English, saying \"We gotta start buying stuff or we're gonna run out of time here. Does anyone here speak English?\" It sounds like he might be asking for help or clarification about language. There doesn't seem to be any other significant sound effects or music in the audio.If you have any more questions about the video or want to discuss it further, feel free to let me know!"
+          "query": "Visually, there's a man in a black shirt with some text on it. He seems to be in a store or some kind of commercial space, with shelves and displays in the background. There are also some signs with Chinese characters. The man is talking and gesturing with his hand. The lighting is bright, typical of a retail environment. The colors are mostly neutral, with some colorful signs and displays. There's also a bit of movement from other people in the background, but they're not the focus.Audibly, there's a man speaking in English. He's saying something like \"We gotta start buying stuff or we're gonna run out of time here.\" There's also some background noise, probably from the store or other people. The speech is clear and the man seems to be in a hurry."
         },
         {
           "segment_index": 3,
           "time_range": "736.0s - 742.0s",
-          "query": "VISUAL: There's a man in a black shirt with \"mustechtips\" on it standing in a store filled with computer components like motherboards and graphics cards. He seems to be talking or explaining something. Then he turns around and starts walking towards some other men who are looking at their phones. The background has shelves stocked with various tech items and signs in Chinese.AUDIO: You can hear a man speaking, saying \"no I think that one's okay okay so\". There's also some background noise from the store, like other people talking and the hum of electronics. And there's music playing softly in the background too.If you have any more questions about the video or want to discuss it further, feel free to let me know!"
+          "query": "**Visual:** The video shows a group of people in what appears to be a store or market. There are shelves stocked with various items in the background. The people are interacting with each other, some looking at products and others talking. The setting seems busy and lively, with a mix of colors from the products and the people's clothing.\n\n**Audio:** The audio includes conversation among the people in the video. There's also background music playing, which adds to the bustling atmosphere of the scene."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 418.86217617988586
+      "processing_time": 289.6850986480713
     },
     {
-      "comment_index": 4180,
+      "comment_index": 4622,
       "video_id": "sZs4NDC4yrI",
       "comment": "21:36 \"I actually like this screwdriver\" \"You compensating for something?\" Holy shite",
       "language": "en",
@@ -289,24 +289,54 @@
         {
           "segment_index": 1,
           "time_range": "1287.0s - 1293.0s",
-          "query": "VISUAL: There are two men standing close together. One is holding an object that looks like some kind of electronic device or component. They seem to be examining it closely. The background shows some colorful decorations and possibly a market or fair setting with various items on display.AUDIO: A man is speaking. He's talking about a system integrator and mentions something about an OEM card being sold to them. It seems he's expressing frustration or disappointment. There's no other significant sound in the audio.What do you think about the situation described?"
+          "query": "Visually, there are two people in a room. One is holding a black object with circular patterns, and the other is looking at it. There are some shelves and boxes in the background. The person holding the object seems to be showing it to the other. The room has a somewhat cluttered look with various items around.\n\nIn terms of audio, there's a voice speaking, but the content is unclear due to the short duration. It sounds like a conversation or some kind of explanation."
         },
         {
           "segment_index": 2,
           "time_range": "1293.0s - 1299.0s",
-          "query": "VISUAL: There are two men standing outside at night. One is holding something small in his hand while the other looks on. They seem to be near some plants and there's a building with lights in the background. The man holding the object is wearing a black shirt and has short hair. The other man also has short hair and is wearing a dark shirt too.AUDIO: I can hear someone talking about warranty and screwdrivers. It seems like they're discussing something related to tools or equipment. There's no music or any other sound effects. Just their conversation. So, what do you think they might be talking about?"
+          "query": "Visually, there are two men in a nighttime outdoor setting. One man is wearing a black shirt and seems to be holding something, possibly a tool or an object. The other man is also in a black shirt and appears to be interacting with the first man, maybe handing over or receiving something. There are some plants and a building in the background. The lighting is dim, with some artificial lights illuminating the scene. The movement is mainly the two men interacting with each other.\n\nAudio - There's a conversation between the two men. The man in the black shirt is speaking, and his voice is clear. The other man responds, and their voices are audible. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "1299.0s - 1305.0s",
-          "query": "VISUAL: There's a guy in a black shirt working on some kind of electronic device or machinery outdoors. He seems to be focused on his task. In the background, there are plants and other people around, like someone sitting down with a bag. The setting looks like an open area, maybe near a building.AUDIO: A man is speaking, saying something about putting a radiator somewhere. It sounds like he might be explaining or instructing about it.What do you think about the scene? Any thoughts?"
+          "query": "**Visual:** The video shows an outdoor scene with several people walking around. There's greenery like plants and trees visible. Some individuals seem to be engaged in different activities, possibly shopping or just passing through.\n\n**Audio:** Someone is speaking, saying \"okay now I promised that I was putting this damn radiator.\" It seems like they're frustrated about something related to a radiator."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 287.22224950790405
+      "processing_time": 263.78140592575073
     },
     {
-      "comment_index": 4181,
+      "comment_index": 4623,
+      "video_id": "sZs4NDC4yrI",
+      "comment": "20:42 o o f",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 198.0,
+      "comment_timestamp": 1242.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1233.0s - 1239.0s",
+          "query": "**Visual:** The video shows someone working on computer hardware outdoors. There's a motherboard with various components visible, and the person is handling it carefully. They seem to be assembling or repairing something related to computers.\n\n**Audio:** Someone is speaking, saying \"and our cooler goes on right if we're double teaming on assembly then I'm gonna.\" It seems like they're discussing how to proceed with an assembly task involving a cooler component."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1239.0s - 1245.0s",
+          "query": "**Visual:** The video shows a person working on a computer motherboard. They're using tools, like a screwdriver, to manipulate components. There are various electronic parts and cables visible on the board. The person is wearing a dark shirt and seems focused on their task. The background is somewhat blurred but appears to be an indoor setting, possibly a workspace or a tech repair shop.\n\n**Audio:** The audio includes a man speaking. He says, \"a double team on unboxing here did you just get all the thermal goo all over your hands.\" The tone is casual and seems to be part of a conversation or commentary about the task being performed."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1245.0s - 1251.0s",
+          "query": "Visually, there are two people working on a computer motherboard. One person is holding a component, possibly a RAM stick, while the other seems to be assisting or observing. The motherboard is on a table, and there are some plants in the background. The scene is indoors, and the lighting is relatively bright. There's also a box with some text on it, likely related to the computer components. The people are wearing casual clothes, and one has a watch on their wrist. The overall color scheme is mostly dark with some metallic and black tones from the computer parts and the table. There's a sense of focused activity as they handle the components.Audibly, there's a man speaking. His voice is clear and he seems to be giving instructions or explaining something. The speech is in English, and he uses a somewhat impatient or frustrated tone, saying \"no wonder your projects take you eight months being an idiot doesn't help.\" There are no other distinct sounds in the audio, just the man's voice."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 231.50174975395203
+    },
+    {
+      "comment_index": 4624,
       "video_id": "sZs4NDC4yrI",
       "comment": "I love how at 16:52 the “imacs” on display are casualty running windows",
       "language": "en",
@@ -319,24 +349,24 @@
         {
           "segment_index": 1,
           "time_range": "1003.0s - 1009.0s",
-          "query": "VISUAL: There's a man in a black shirt with a backpack standing at a counter in an electronics repair shop. He hands something to another man in a light gray shirt who is behind the counter. The background has shelves filled with various electronic devices like computers and monitors. There are also some Chinese characters on the wall above the counter.AUDIO: You can hear some conversation between the two men, but it's not very clear. There's also some background noise that might be from other customers or staff in the shop. And there seems to be a bit of music playing softly in the distance.What do you think about the scene? Do you have any guesses about what they're talking about?"
+          "query": "Visually, there are two men in a room with computers and other equipment. One man is wearing a black shirt and the other is in a white shirt. They seem to be interacting, possibly discussing something. There are various objects like monitors, cables, and boxes around them. The room looks like a workspace or a tech repair shop. The colors are mostly neutral, with the black and white clothing of the men contrasting against the darker background of the equipment. The movement is mainly the two men talking and gesturing to each other.\n\nIn terms of audio, there's a man speaking, but the content of his speech isn't clear from this short segment. There's also some background noise, possibly from the equipment or other people in the room."
         },
         {
           "segment_index": 2,
           "time_range": "1009.0s - 1015.0s",
-          "query": "VISUAL: There's a man in a black shirt with \"linustechtips\" written on it standing in some kind of electronics repair shop or store. He seems to be talking to someone off - camera. In the background, there are other people working at desks with computers and various electronic devices around. The place is filled with shelves and signs in Chinese.There's also another person in white near a counter with a laptop on it.AUDIO: A man says \"okay okay should we just go to the other building.\" Then there's some music playing in the background.What do you think about this scene? Do you have any other questions related to it?"
+          "query": "Visual: The video shows a busy electronics repair shop. There are several people, including a man in a black shirt with \"fnustech\" written on it, who seems to be the main focus. The shop has various electronic devices and tools on display, and there are signs with Chinese characters. The background is filled with shelves and equipment.\n\nAudio: The audio includes a man speaking, likely giving instructions or explaining something. There's also a sound effect that resembles a camera shutter, possibly indicating a photo being taken."
         },
         {
           "segment_index": 3,
           "time_range": "1015.0s - 1021.0s",
-          "query": "VISUAL: There's a man in a black shirt with a backpack walking through an area that looks like a busy marketplace or shopping center. He passes by various stalls and signs written in Chinese. The scene is indoors with artificial lighting. There are other people around too, some standing near the stalls.AUDIO: Someone is speaking English, saying \"Yeah okay fine let's just go where we know they're gonna have it all right let's go back to that big tool booth I think the odds.\" It seems like they're planning something and discussing going somewhere specific.What do you think about the setting? Does it seem familiar to you?"
+          "query": "Visually, there are people walking in what seems to be a busy indoor area, possibly a market or a store. There are signs with Chinese characters and some English words like \"apple\" and \"computer.\" The lighting is bright, and there are various items on display. The people are moving around, some looking at the items, others walking past.\n\nIn terms of audio, there's a conversation happening. One person says, \"yeah okay fine let's just go where we know they're gonna have it all right let's go back to that big school booth I think the odds are.\" The tone seems casual and a bit resigned."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 306.9589624404907
+      "processing_time": 279.55408334732056
     },
     {
-      "comment_index": 4182,
+      "comment_index": 4625,
       "video_id": "sZs4NDC4yrI",
       "comment": "21:37 \"I actually like this screwdriver. -You compensating for something?\"",
       "language": "en",
@@ -349,24 +379,24 @@
         {
           "segment_index": 1,
           "time_range": "1288.0s - 1294.0s",
-          "query": "VISUAL: Two men are standing outside at night. One is holding a black object with hexagonal patterns on it. The other man is looking at him while they seem to be having a conversation. There's some kind of display or stall behind them with various items and lights.AUDIO: A man is speaking, saying \"Here skee so he sold us an OEM card that rat bastard so this probably doesn't have as much warranty on it.\".The scene seems to be set in a public place like a market or fairground at night. What do you think about the situation described?"
+          "query": "Well, I can't actually watch videos or listen to audio directly here. But if you describe the video to me, like what's happening with the people, any objects they're interacting with, and what kind of sounds there might be, then I'd be able to give you a good summary. So, go ahead and tell me about it!"
         },
         {
           "segment_index": 2,
           "time_range": "1294.0s - 1300.0s",
-          "query": "VISUAL: There are two men standing outside at night. One is wearing a black shirt with some white text on it, and the other has short hair and is also in a black shirt. They seem to be focused on something they're holding together. In the background, there's a building with bright lights and some trees with yellow lighting. The scene looks like an urban area.AUDIO: I can hear someone talking about liking a screwdriver and making a comment that might imply compensating for something. It seems like a casual conversation between the two men.What do you think about their interaction?"
+          "query": "Visual: The video shows two men standing outdoors at night. One man is wearing a black shirt and the other is wearing a dark blue shirt. They seem to be engaged in some kind of activity, possibly related to a machine or equipment. There are trees and some lights in the background, suggesting it might be a park or an outdoor area with some kind of setup. The scene has a casual, relaxed feel to it.\n\nAudio: There is a conversation between the two men. The man in the black shirt is speaking, and the man in the dark blue shirt responds. The conversation seems to be about something they are doing or discussing, but the exact topic isn't clear from just the audio."
         },
         {
           "segment_index": 3,
           "time_range": "1300.0s - 1306.0s",
-          "query": "VISUAL: There's a guy in a black shirt with \"Linustechtips\" on it. He seems to be working on some kind of computer case or electronic device. There are other people around him, like someone in a blue shirt walking past. The background has plants and looks like an indoor public space.AUDIO: A man is speaking, saying something about putting a radiator in no matter what. It sounds a bit frustrated or determined. There are also some generic impact sounds, maybe from tools or equipment being used.What do you think about the video? Any thoughts or questions?"
+          "query": "Visually, there are several people in what seems to be a busy indoor area, possibly a mall or a large store. There are plants and some electronic devices like TVs or monitors. The people are moving around, some carrying bags or looking at items. The colors are mostly neutral, with some green from the plants and the usual colors of clothing and store displays. The movement is quite dynamic, with people walking, stopping, and interacting with the environment.Audibly, there's a man speaking, saying \"okay now I promised that I was putting this damn radiator in no matter oh yeah.\" The speech is clear and seems to be the main focus of the audio. There are no other distinct sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 285.2035415172577
+      "processing_time": 330.0211043357849
     },
     {
-      "comment_index": 4183,
+      "comment_index": 4626,
       "video_id": "sZs4NDC4yrI",
       "comment": "3:00 I can feel the pain",
       "language": "en",
@@ -379,24 +409,24 @@
         {
           "segment_index": 1,
           "time_range": "171.0s - 177.0s",
-          "query": "VISUAL: There's a man with a blue backpack walking through an electronics store. He seems to be looking at different items on display. The store has various electronic products like computers and other gadgets. There are also some signs in Chinese. The lighting is bright, typical for such stores.AUDIO: Someone says \"just looking\" twice during the video. It's just that simple phrase without any other background noise or music. So, it looks like there might not be much going on in terms of dialogue or sound effects.What do you think about the scene? Do you have any other observations?"
+          "query": "Visual: The video shows a store interior, likely an electronics store. There are shelves stocked with various items. A person wearing a red vest is visible, possibly a store employee or a customer. Another person with a backpack is also seen. The store has bright lighting and signs with Chinese characters. The scene appears to be indoors, with a focus on the store's layout and the people within it.\n\nAudio: The audio includes a man speaking, saying \"just looking just looking.\" There's also background music playing throughout the video."
         },
         {
           "segment_index": 2,
           "time_range": "177.0s - 183.0s",
-          "query": "VISUAL: There's a man with a black backpack walking through an electronics store. He passes by shelves filled with various gadgets like computers and speakers. There are two other men in the store, one wearing a red vest and another in a white shirt and tie. The store has bright lighting and signs in Chinese hanging from the ceiling.AUDIO: Someone is speaking English, saying \"Okay no I don't necessarily want to get led in here hi now I'm just looking around it's okay.\" It seems like they're trying to explain their intentions while in the store.If you have any more questions about the video or need further details, feel free to ask!"
+          "query": "**Visual:** The video shows a store interior with shelves stocked with various items. There are a few people in the store, including one person in a red shirt and another in a black shirt with a backpack. The store has signs with Chinese characters. The scene appears to be indoors with artificial lighting.\n\n**Audio:** The audio includes a conversation between two people. One person says, \"ah okay no I don't necessarily want to get led in here,\" and then adds, \"I'm just looking around it's okay.\" The tone seems casual and a bit hesitant."
         },
         {
           "segment_index": 3,
           "time_range": "183.0s - 189.0s",
-          "query": "VISUAL: There's a man with glasses and a backpack standing in front of a store window filled with various items like Intel products. Another person is behind him, partially visible. The scene seems to be inside a store or an electronics shop. The color scheme is mostly black and white.AUDIO: There's some background music playing throughout the clip. No distinct speech can be heard from either of the two men in the video.If you have any other questions about the video or need more details, feel free to ask!"
+          "query": "**Visual:** The video shows a man in a red vest and white shirt standing in what appears to be a store or shop. There are shelves and various items in the background. The man seems to be interacting with someone off-camera, possibly a customer or another employee. The setting looks like a retail environment with products displayed on shelves.\n\n**Audio:** The audio includes a man speaking, likely in a friendly or professional tone, and some background music that is soft and ambient. The speech is clear and seems to be part of a conversation or transaction."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 286.16467547416687
+      "processing_time": 265.4260940551758
     },
     {
-      "comment_index": 4184,
+      "comment_index": 4627,
       "video_id": "sZs4NDC4yrI",
       "comment": "16:50 that’s a Mac running Windows 7",
       "language": "en",
@@ -409,24 +439,24 @@
         {
           "segment_index": 1,
           "time_range": "1001.0s - 1007.0s",
-          "query": "VISUAL: The video shows a busy electronics repair shop. There's a man with a backpack standing at a counter, interacting with someone behind it. The background has shelves filled with various electronic devices like computers and monitors. There are also some signs with Chinese characters visible.AUDIO: You can hear a man speaking clearly over the sound of a sewing machine running in the background. It seems to be a conversation between two people in the shop. What do you think about this kind of setting?"
+          "query": "Visually, there are people in what seems to be a store or shop. One person is handing something to another. There are shelves and various items in the background. The colors are mostly neutral, with some colorful items on the shelves. The movement is mainly focused on the interaction between the two people.\n\nIn terms of audio, there's a conversation happening between the people. There's also some background noise, possibly from other customers or staff."
         },
         {
           "segment_index": 2,
           "time_range": "1007.0s - 1013.0s",
-          "query": "VISUAL: There's a man in a light-colored shirt standing at a counter with some electronic devices behind him. Another person is sitting nearby looking up. Then a guy in a black \"inus tech tips\" t - shirt appears, talking to someone off - camera. The background has shelves filled with various gadgets and signs with Chinese characters.AUDIO: You can hear a conversation between two men, one saying \"no no screwdriver okay\" twice. There's also some background noise like shuffling and possibly some music or other faint sounds. What do you think about it?"
+          "query": "Visual: The video shows a busy electronics repair shop. There are several people, including a man in a light-colored shirt and another in a black shirt with \"nustech\" written on it. The shop has various electronic devices and tools on display, and the background is filled with shelves and equipment. The lighting is bright, typical of an indoor workspace.\n\nAudio: The audio includes a man speaking, likely explaining something or giving instructions. There's also a sound effect that resembles a spray or a quick burst, possibly related to the repair process. The overall sound is clear and focused on the man's speech."
         },
         {
           "segment_index": 3,
           "time_range": "1013.0s - 1019.0s",
-          "query": "VISUAL: There's a man in a black shirt with \"inustechtips\" on it walking through what looks like an electronics repair shop or market. There are various electronic devices and signs in Chinese around him. He has a backpack on. The scene changes to show more people in different areas of the place.AUDIO: Someone is speaking, saying things like \"Okay should we just go to the other building yeah okay fine let's just go where we know they're gonna have it all right let's go back.\" It seems like they're discussing going somewhere else.What do you think about that? Do you want to talk more about the video?"
+          "query": "**Visual:** The video shows a busy electronics repair shop. There are various electronic devices and repair tools visible. Several people are present, some working on devices, while others seem to be customers or passersby. The shop has signs with Chinese characters, indicating it's likely in a Chinese-speaking region. The environment is somewhat cluttered, typical of a repair shop.\n\n**Audio:** The audio features a conversation between two people. One person suggests going to another building, and the other agrees, saying \"okay, fine, let's just go where we know they're gonna have it.\" The tone is casual and seems to be a decision-making process."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 278.8733434677124
+      "processing_time": 295.43803787231445
     },
     {
-      "comment_index": 4185,
+      "comment_index": 4628,
       "video_id": "sZs4NDC4yrI",
       "comment": "22:20 that pun 😂😂😂😂 I feel rip off.",
       "language": "en",
@@ -439,24 +469,24 @@
         {
           "segment_index": 1,
           "time_range": "1331.0s - 1337.0s",
-          "query": "VISUAL: There's a guy in a black shirt working on some equipment outdoors at night. He seems to be setting up or fixing something related to water cooling. There are plants around him and other people walking in the background.AUDIO: Someone is talking about showing a cable management secret. It sounds like they're excited about it. There's also a bit of laughter in there.If you want to know more about what he might be doing with the equipment or if there were any other interesting details, feel free to ask!"
+          "query": "Visual: A man in a black shirt is interacting with a table or some kind of display. There are plants and other items around, suggesting an outdoor or semi-outdoor setting. The man seems to be adjusting or examining something on the table. The scene has a mix of natural and artificial elements, like plants and what looks like a building or structure in the background.\n\nAudio: There's a conversation happening. The man in the black shirt is speaking, and there are other voices in the background. The speech is clear and seems to be about cable management, as indicated by the subtitles."
         },
         {
           "segment_index": 2,
           "time_range": "1337.0s - 1343.0s",
-          "query": "VISUAL: There's two men standing next to a white computer case on a stand. One man is wearing a black t - shirt with \"linustechtips\" written on it. They seem to be in some kind of public place like an exhibition or mall. The background has plants and other people around.AUDIO: A male voice says something about finding out if a deal was good. It's just one person speaking without any other distinct sounds. So, what do you think about that? Any thoughts on the deal?"
+          "query": "Visual: Two men standing next to a white computer case on a table. One man is wearing a black shirt with \"Intel\" written on it, while the other has his arm around the computer case. The background shows an indoor setting with some plants and a large screen.\n\nAudio: A voice says, \"Okay so this is the moment where I find out if this was a good deal.\" There's no music or sound effects, just that one line spoken clearly."
         },
         {
           "segment_index": 3,
           "time_range": "1343.0s - 1349.0s",
-          "query": "VISUAL: There are two men standing next to a white computer case on a table outdoors. One man is wearing a black t - shirt with \"linus tech tips\" written on it, while the other has a plain dark t - shirt. They seem to be having a conversation or presentation about the computer case. The background shows some buildings, trees, and a few people walking around.AUDIO: A man is speaking, saying something like \"or a strip oh so I had to make some compromise.\" It's not clear if there's any music or sound effects in the audio."
+          "query": "Visual: The video shows two people standing in what looks like a store or showroom. One person is wearing a black shirt with \"Linus Tech Tips\" written on it, and the other is in a dark shirt. They seem to be interacting with a white electronic device, possibly a computer or a monitor. The background has shelves and other items, suggesting a retail or tech environment. The lighting is bright, typical of such places.\n\nAudio: There's laughter and conversation between the two people. The speech is in English, and it seems to be a casual, friendly exchange. No music or other sound effects are noticeable."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 247.0591757297516
+      "processing_time": 250.14551043510437
     },
     {
-      "comment_index": 4186,
+      "comment_index": 4629,
       "video_id": "sZs4NDC4yrI",
       "comment": "17:14 Staring at a wall of screwdrivers \"I actually don't see that many options\"",
       "language": "en",
@@ -469,24 +499,24 @@
         {
           "segment_index": 1,
           "time_range": "1025.0s - 1031.0s",
-          "query": "VISUAL: A person with a backpack is walking through a store aisle filled with various items on shelves. The store seems to be well-lit. There's another person ahead of them. The scene changes from an entrance area into the main store section.AUDIO: Someone is speaking about a tool store, mentioning that it looks open and they're thinking of buying a screwdriver. It sounds like there might be some background noise or other voices too, but not clearly identifiable.If you have any more questions or want to discuss something else related to this, feel free to let me know!"
+          "query": "**Visual:** The video shows someone walking through a store aisle filled with various items on shelves. There's another person ahead wearing a backpack. The lighting is bright, typical for retail stores.\n\n**Audio:** Someone is speaking, likely asking about something related to buying screws or tools."
         },
         {
           "segment_index": 2,
           "time_range": "1031.0s - 1037.0s",
-          "query": "VISUAL: The video shows two men walking through a store filled with various items on shelves. One man is wearing a black shirt with \"nustechtips\" written on it and has a backpack. They seem to be looking around at the products. There's an exit sign visible above them.AUDIO: I can hear some conversation between the two men, but the specific words aren't clear. There's also background noise that could be from other customers or store activities.If you have any more questions about the video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Visually, there are two men in a store. One is wearing a black shirt with \"tech\" written on it, and the other is in a blue shirt. They seem to be looking at items on the shelves. The shelves are stocked with various products, and there are signs hanging from the ceiling. The store has bright lighting.\n\nIn terms of audio, there's a conversation between the two men. One of them says, \"you have any nice well-being yeah\" and then the other responds, \"actually don't see that many options.\""
         },
         {
           "segment_index": 3,
           "time_range": "1037.0s - 1043.0s",
-          "query": "VISUAL: There's a man with short hair wearing a black shirt standing in front of a wall filled with various tools like screwdrivers. He has a backpack on his back. Another person is partially visible next to him. The man reaches up towards some items on the wall. The background shows more shelves stocked with different products.AUDIO: Someone is speaking about small screwdrivers, mentioning that there are lots of them available. It seems like they're describing the variety of screwdrivers in the store. There's also some music playing softly in the background.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "Visually, there's a man in a store, looking at items on shelves. He's wearing a black shirt and has a backpack. The shelves are stocked with various products, and there's another person partially visible in the background. The scene seems to be in a retail store with bright lighting. There's also a sign that says \"EXIT\" on the wall. The colors are mostly the typical colors of store items and the store's interior. The movement is mainly the man's hand reaching out to touch or pick up an item on the shelf, and his head turning as he looks around the shelves. The other person in the background is mostly just standing there, not doing much. In the audio, there's a man speaking. He says something like \"where's this here small screwdrivers the screwdriver with an S yeah 2013 used all like lots of press.\" The speech is clear and seems to be in English. There are no other distinct sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 321.2453098297119
+      "processing_time": 237.93032002449036
     },
     {
-      "comment_index": 4187,
+      "comment_index": 4630,
       "video_id": "sZs4NDC4yrI",
       "comment": "3:29 You know it's legit when it has 90+ gold certification",
       "language": "en",
@@ -499,24 +529,24 @@
         {
           "segment_index": 1,
           "time_range": "200.0s - 206.0s",
-          "query": "VISUAL: There's a woman in a pink shirt at a counter with some boxes stacked behind her. A man in a black t - shirt is standing next to her, looking at something on the counter. He has a backpack on. The background shows more boxes and a sign that says \"APC UPS\". The scene seems to be inside a store or warehouse.AUDIO: Someone is talking about a price, saying \"$50 for an 1800 watt\" twice. It sounds like they're discussing a product's cost."
+          "query": "**Visual:** The video shows a store setting. There are shelves stocked with various items, and a person in a pink shirt appears to be interacting with another individual. The person in the pink shirt seems to be handing something over or showing it to the other person. The background includes more shelves and possibly other customers or staff.\n\n**Audio:** The audio includes a conversation. One person says, \"that's like 50 bucks,\" and another responds, \"50 bucks yeah.\" There's also a brief mention of \"1800.\" The conversation seems to be about a price, likely related to an item in the store."
         },
         {
           "segment_index": 2,
           "time_range": "206.0s - 212.0s",
-          "query": "VISUAL: There's a man wearing a black \"ustechtips\" shirt with a backpack. He's holding a power supply box labeled \"1800W\". The background shows a store setting with shelves full of boxes and other items. There are also some people around, one of whom is wearing a blue backpack.AUDIO: A male voice says something about a power supply not feeling like an 1800 watt one, then expresses surprise that it's actually rated for only 1600 watts. It seems to be a conversation or explanation about the product shown in the video.If you have any more questions or need further details, feel free to ask!"
+          "query": "**Visual:** A person is holding up a power supply unit, showing it to the camera. The background looks like a store or workshop with shelves full of boxes and other items.\n\n**Audio:** Someone says \"doesn't feel like an 1800 watt power supply oh my god it's actually only rated for.\""
         },
         {
           "segment_index": 3,
           "time_range": "212.0s - 218.0s",
-          "query": "VISUAL: A person is holding a mining power supply box with a Bitcoin logo on it. They're in a store or shop setting, surrounded by boxes and other items. The person then picks up some cables wrapped in plastic. There's also another person standing nearby, wearing a backpack.AUDIO: Someone is speaking about the power supply being for mining only and that it only does 12 volts. It seems like they might be explaining something to the other person in the scene.If you have any more questions about this video or anything else, feel free to let me know!"
+          "query": "Visually, there's a person holding a large, rectangular object, possibly a mining power supply, in a store or workshop setting. The background has shelves with various items, like boxes and other equipment. The person seems to be examining or showing off the power supply. The colors are mostly muted, with the power supply having some yellow and black markings. There's some movement as the person adjusts their grip on the power supply.Audibly, there's a man speaking in English. He mentions that it's a mining-only power supply and that it only does 12 volts. The speech is clear and informative."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 277.3046338558197
+      "processing_time": 199.05665254592896
     },
     {
-      "comment_index": 4188,
+      "comment_index": 4631,
       "video_id": "sZs4NDC4yrI",
       "comment": "10:15 pretty much sums up how linus handled his guest. i don't understand why he's like that.",
       "language": "en",
@@ -529,24 +559,24 @@
         {
           "segment_index": 1,
           "time_range": "606.0s - 612.0s",
-          "query": "VISUAL: There's a guy with short hair wearing a black shirt and a backpack with a green logo on it. He's standing in front of some computer cases on display at a store. The cases have different designs, like one has a pixelated design that changes color. In the background, there are boxes stacked up, some with Chinese characters on them.AUDIO: A man is speaking, saying \"actually have a microphone though that is totally cheating\" twice. It seems to be a conversation or an explanation about something related to the context of the video."
+          "query": "Visually, there's a person with a backpack standing near some electronic devices on display in a store. The devices look like they could be gaming consoles or similar gadgets. There are boxes stacked behind them too. In terms of audio, someone is speaking, but it's not clear what they're saying from just these few seconds. It seems to be a normal conversation or explanation about the products."
         },
         {
           "segment_index": 2,
           "time_range": "612.0s - 618.0s",
-          "query": "VISUAL: There's a guy with a backpack looking at some computer cases on display in a store. He seems to be checking out different models. Then he turns around and talks to another person who is also in the store. The background has various signs in Chinese and English, like \"Apple Repair Services\" and other product-related stuff. There are boxes stacked up behind the display area too.AUDIO: You can hear someone talking about haggling over prices in China. It's just their voice, no other distinct sounds from the environment. So, what do you think about that? Do you have any experience with haggling?"
+          "query": "Visual: The video shows a store with shelves full of electronic devices like phones and computers. There are several people around, some looking at the products on display. One person is wearing a black shirt with a green logo.\n\nAudio: Someone is speaking, saying \"it's just cheating so that so the question was like should we haggle over this right.\""
         },
         {
           "segment_index": 3,
           "time_range": "618.0s - 624.0s",
-          "query": "VISUAL: Two men are in a store with lots of signs in Chinese. One man is wearing a black t - shirt with \"mushtechips\" written on it. The other has a blue backpack. They seem to be having a conversation while looking at something. There's a lot of stuff around them like electronics and repair services posters.AUDIO: A man is speaking about prices and how he doesn't push for more if he thinks it's fair. He mentions that most people in the market don't do that either.If you have any thoughts or questions about this, feel free to share!"
+          "query": "**Visual:** The video shows two men in a store. One is wearing a black shirt with \"PUBG\" written on it, and the other is in a dark blue shirt. They appear to be engaged in a conversation while looking at something, possibly a product. The store has shelves with various items, and there are signs with Chinese characters visible in the background.\n\n**Audio:** The audio features a man speaking. He says, \"is like if I think it's a fair price then I don't like I don't push on it most people in the market are not like.\" The tone suggests he might be explaining something about pricing or market behavior."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 279.6561806201935
+      "processing_time": 202.1094024181366
     },
     {
-      "comment_index": 4189,
+      "comment_index": 4632,
       "video_id": "sZs4NDC4yrI",
       "comment": "4:47 I thought someone was calling me   😂",
       "language": "en",
@@ -559,51 +589,21 @@
         {
           "segment_index": 1,
           "time_range": "278.0s - 284.0s",
-          "query": "VISUAL: There's a black plastic container on a table with some red and yellow objects inside it. Next to it, there are stacks of red notebooks. In the background, there's a person standing near a counter with various items like papers and a box. The scene seems to be indoors, possibly in a store or office setting.AUDIO: I can't really tell what's being said in the audio. It might be some kind of speech or conversation, but it's not clear enough to understand.Anything else you noticed in the video that you want to talk about?"
+          "query": "Oh, okay. So, visually, it looks like there's some kind of electronic equipment or maybe a server setup on display. There are stacks of red books nearby too. And then, for the audio, I can't really make out any distinct sounds from that short clip.Anything else you noticed or want to ask about?"
         },
         {
           "segment_index": 2,
           "time_range": "284.0s - 290.0s",
-          "query": "VISUAL: There's a man with short hair wearing a black shirt and a backpack. He seems to be looking at something on display. The background shows shelves filled with various electronic items like motherboards and other computer components. There are also some boxes with Chinese characters on them.AUDIO: A male voice is speaking about \"top like telephone gear\" and mentions \"LGA775.\" It sounds like he might be explaining or discussing something related to computer hardware.What do you think about the content? Do you have any other questions regarding it?"
+          "query": "**Visual:** The video shows a person in a store, likely a electronics or computer shop, given the shelves filled with various items. The person is wearing a black shirt and has a backpack. They are looking at a display case containing what appears to be computer components or gadgets. The background has bright lighting and other shelves stocked with products. There are also some signs and labels visible, though not clearly readable.\n\n**Audio:** The audio includes a man speaking, but the speech is not clear enough to understand the content. There is also some background noise, possibly from other people in the store or general store ambiance."
         },
         {
           "segment_index": 3,
           "time_range": "290.0s - 296.0s",
-          "query": "VISUAL: The video shows a close - up view of several motherboards inside a claw machine. A hand is seen trying to grab one of them. There's also a person standing nearby, looking at the machine. The background seems like a store or arcade with various items on display.AUDIO: Someone says \"five motherboards here like brand new that's incredible oh wow\" during the video. There doesn't seem to be any other distinct audio elements apart from this speech."
+          "query": "**Visual:** The video shows a close-up of a motherboard, which is blue and yellow in color. There are various electronic components visible on it. Then, the camera shifts to show a person standing in what appears to be a store or market. The person is wearing a black shirt with a blue stripe on the sleeve. The background is filled with shelves and other items, suggesting a busy retail environment.\n\n**Audio:** The audio features a voice saying, \"I have motherboards here like brand new.\" The tone is neutral, and there are no other distinct sounds or music in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 262.5296378135681
-    },
-    {
-      "comment_index": 4190,
-      "video_id": "sZs4NDC4yrI",
-      "comment": "7:36 “I don’t think we’re gonna find anything weird”  standing in front of “Microsoft” store with iPhone pictures",
-      "language": "en",
-      "channel_name": "LinusTechTips",
-      "category": "technology",
-      "likes": 84.0,
-      "comment_timestamp": 456.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "447.0s - 453.0s",
-          "query": "VISUAL: The video shows a black - and - white scene with several laptops on display at a store. There are people around, some looking at the laptops. One person is standing near the laptops, possibly examining them. The background has shelves and other items typical of a retail environment.AUDIO: Someone is speaking about currency exchange rates, specifically mentioning that six Chinese yuan is roughly one US dollar. They also mention dividing something by six to get an amount close to a thousand dollars. It seems like they're explaining or calculating something related to money conversion.If you have any more questions about the video or want to discuss it further, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "453.0s - 459.0s",
-          "query": "VISUAL: The video shows two men walking through an electronics store. One has a black backpack with a logo on it, and the other has a blue one. There are various electronic products displayed around them. The store seems busy with some people in the background.AUDIO: Someone is speaking about not finding anything weird or cheap at home. It's just their voice, no other distinct sounds like music or sound effects. So, what do you think about this? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "459.0s - 465.0s",
-          "query": "VISUAL: Two men with backpacks walk through an indoor area. There's a Dell store visible with people inside looking at computers. The setting seems like a shopping mall or tech store. The lighting is bright and there are various displays around.AUDIO: A man is speaking about editing videos on Final Cut or Premiere. He mentions he has Final Cut in mind. It's just his voice talking without any other background noises.If you have any more questions about this video or anything else, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 403.29681301116943
+      "processing_time": 229.71636247634888
     }
   ]
 }

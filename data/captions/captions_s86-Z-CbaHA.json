@@ -2,11 +2,11 @@
   "video_id": "s86-Z-CbaHA",
   "total_comments": 20,
   "successful_comments": 19,
-  "failed_comments": 14,
+  "failed_comments": 1,
   "success_rate": "95.0%",
   "comments": [
     {
-      "comment_index": 4301,
+      "comment_index": 4353,
       "video_id": "s86-Z-CbaHA",
       "comment": "\"1:28\" -Sorry sir, why this dollar is torn into 5 pieces? -Its 2 dollars, btch.",
       "language": "en",
@@ -19,54 +19,54 @@
         {
           "segment_index": 1,
           "time_range": "79.0s - 85.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing an orange shirt against a black background. He seems to be talking or explaining something.AUDIO: A male voice is speaking about the Banach - Tarski paradox in modern mathematics. It's just his voice without any other sounds like music or sound effects. So, what do you think about this paradox? Do you want to know more about it?"
+          "query": "**Visual:** The video shows a person wearing glasses and a brown shirt against a black background. The person appears to be speaking or presenting. The text \"Banach-Tarski paradox\" is prominently displayed in large, white letters across the screen.\n\n**Audio:** There is a voiceover in the audio, likely explaining or discussing the Banach-Tarski paradox. The voiceover is clear and seems to be in English."
         },
         {
           "segment_index": 2,
           "time_range": "85.0s - 91.0s",
-          "query": "VISUAL: A man with glasses and a beard is seen against a black background. He's wearing an orange shirt. He starts speaking and then holds up a dollar bill. His hands move while he talks.AUDIO: There's a male voice speaking throughout the video. The speech seems to be about separating objects into two parts. No other distinct sounds like music or sound effects are heard.If you have any more questions about the video or want to discuss it further, feel free to let me know!"
+          "query": "Visual: A man with glasses and a beard is seen against a black background. He's wearing an orange shirt and holding up a piece of paper or money towards the camera.\n\nAudio: The man speaks during these six seconds, though without more details on his words, I can't specify further. There doesn't seem to be any other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "91.0s - 97.0s",
-          "query": "VISUAL: A man with glasses is holding a dollar bill. He's tearing it into five pieces. The background is black.AUDIO: There's no speech or music. You can only hear the sound of the dollar bill being torn. So, what do you think about this? Any thoughts on why he might be doing that?"
+          "query": "Visual: A man with glasses and a bald head is shown. He's wearing a brown shirt and has a blue wristwatch on his left wrist. He's holding a folded dollar bill in his hands and is in the process of tearing it into five different pieces. The background is completely black.\n\nAudio: There is no speech in the audio. The sound of the dollar bill being torn into pieces is audible."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 196.66638112068176
+      "processing_time": 228.9157783985138
     },
     {
-      "comment_index": 4303,
+      "comment_index": 4354,
       "video_id": "s86-Z-CbaHA",
-      "comment": "At 11:04 I literally put my head in my hands and said 'oh my god' out loud. It's encouraging that this video went so wildly viral - such an arcane and impenetrable topic, but somehow, against all odds, people care",
+      "comment": "No One:  Kindergarten Teachers: 8:05",
       "language": "en",
       "channel_name": "Vsauce",
       "category": "knowledge",
-      "likes": 775.0,
-      "comment_timestamp": 664.0,
+      "likes": 791.0,
+      "comment_timestamp": 485.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "655.0s - 661.0s",
-          "query": "VISUAL: The video shows a list of words starting with different letters from A to Z. It's organized alphabetically. There are no people or objects moving around. The background is plain white.AUDIO: There's some kind of narration or explanation about removing an initial \"a\" from words. No other distinct sounds like music or sound effects are present.If you have any thoughts on this or want to discuss more about it, feel free to share!"
+          "time_range": "476.0s - 482.0s",
+          "query": "**Visual:** The video shows a man with glasses and a beard wearing an orange shirt. He is standing against a black background. He makes some hand gestures while talking. There's a white infinity symbol that appears in front of him.\n\n**Audio:** The man is speaking, but the content of his speech isn't clear from the description. There's also some background music playing."
         },
         {
           "segment_index": 2,
-          "time_range": "661.0s - 667.0s",
-          "query": "VISUAL: The video shows a list titled \"A: Volume 1\" with various combinations of letters like \"A\", \"B\", \"C\", etc. arranged in rows. There's also some text on the right side saying \"[all 'A' words]\". The background is white.AUDIO: A man speaks about something related to the video content, mentioning \"sans the first a which has surprisingly become every possible word.\".If you have any other thoughts or questions about this video, feel free to share!"
+          "time_range": "482.0s - 488.0s",
+          "query": "Sure! So, visually, there's someone wearing glasses and an orange shirt against a black background. They seem to be talking or explaining something while using hand gestures. As for the audio, it looks like they're speaking, probably about moving on to something next.Anything else you need help with?"
         },
         {
           "segment_index": 3,
-          "time_range": "667.0s - 673.0s",
-          "query": "VISUAL: The video shows a diagram with different sections labeled \"A: Volume 1\" on the left side. There are rows of letters like A, B, C, Z, and combinations of these letters. On the right side, there's a section titled \"[all 'A' words]\". The diagram seems to be showing some kind of categorization or organization of words.AUDIO: Someone is speaking about just one of the twenty - six volumes being decomposed into something. It's not clear what they're referring to specifically though.What do you think about this? Do you have any other questions related to it?"
+          "time_range": "488.0s - 494.0s",
+          "query": "Visually, there's a person wearing glasses and a brown shirt. They seem to be talking and gesturing with their hands. The background is dark. There's also a white paper with a red circle drawn on it on a wooden surface. The circle is outlined clearly. The person is standing in front of this paper, and it looks like they might be explaining something related to the circle or shapes in general."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 243.2015998363495
+      "processing_time": 219.62927532196045
     },
     {
-      "comment_index": 4302,
+      "comment_index": 4355,
       "video_id": "s86-Z-CbaHA",
       "comment": "Dad: today was your test how many marks did you get? Sister: 99.999999999% Me: 4:07",
       "language": "en",
@@ -79,24 +79,54 @@
         {
           "segment_index": 1,
           "time_range": "238.0s - 244.0s",
-          "query": "VISUAL: A person is writing on a notepad with a blue marker. The notepad has \"UNCOUNTABLE ∞\" written at the top. Below that, there's a line with numbers like 0, 1, 2, 3, 4, 5, and some fractions and π marked along it. The person seems to be explaining something related to these numbers.AUDIO: There's a man speaking in English about real numbers and where to start counting them. He mentions zero specifically."
+          "query": "Visual: A person is writing on a notepad with a blue marker. The notepad has \"UNCOUNTABLE ∞\" written at the top, followed by numbers from 0 to 5. There's also some squiggly lines drawn under the numbers.\n\nAudio: Someone is speaking, saying \"Real number I mean where do you even start zero.\""
         },
         {
           "segment_index": 2,
           "time_range": "244.0s - 250.0s",
-          "query": "VISUAL: A hand is writing on a notepad with a blue marker. The notepad has \"UNCOUNTABLE ∞\" written at the top. Below that, there's a line with numbers like 0, 1, 2, 3, 4, 5, and fractions such as ⅓ and π. The hand writes \"0.00000\" below these numbers.AUDIO: There's a man speaking, saying \"Okay, but what comes next?\". Then he repeats it again. It seems to be a question or a prompt about something related to the numbers and symbols on the notepad.What do you think might be going on here?"
+          "query": "Visually, there's a hand writing on a notepad. The notepad has a spiral binding and is placed on a surface. The hand is using a blue pen to write. The writing includes words like \"UNCOUNTABLE\" and \"∞\" along with some numbers and fractions. The background seems to be a textured surface, possibly a carpet or a mat. There are no other objects or people visible in the frame. The hand is in motion, actively writing on the notepad."
         },
         {
           "segment_index": 3,
           "time_range": "250.0s - 256.0s",
-          "query": "VISUAL: A hand is writing on a notepad with a blue pen. The notepad has some mathematical symbols like fractions and numbers written on it. The background seems to be a carpeted floor.AUDIO: There's a male voice speaking over the sound of a pen scratching on paper. He says \"0 0 eventually we would imagine a one going somewhere at the end.\" It sounds like he might be explaining something related to math or logic.If you have any other questions about the video, feel free to ask!"
+          "query": "Visually, the video shows a hand holding a blue pen, writing on a white notepad. The notepad is placed on a brown surface. The hand writes numbers and mathematical terms like \"UNCOUNTABLE\" and \"∞\" in blue ink. There are also some fractions and other mathematical symbols written.\n\nIn terms of audio, there is no distinct speech or music. The only sound is the faint scratching of the pen on the paper as the hand writes."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 273.5494065284729
+      "processing_time": 215.60359263420105
     },
     {
-      "comment_index": 4304,
+      "comment_index": 4356,
+      "video_id": "s86-Z-CbaHA",
+      "comment": "At 11:04 I literally put my head in my hands and said 'oh my god' out loud. It's encouraging that this video went so wildly viral - such an arcane and impenetrable topic, but somehow, against all odds, people care",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 775.0,
+      "comment_timestamp": 664.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "655.0s - 661.0s",
+          "query": "**Visual:** The video shows a static image of a text document. The text is organized in a list format, with items starting with the letter \"A\" and progressing through the alphabet. The text is black on a white background, and the font is a standard, clean typeface. There are no people or moving objects in the video.\n\n**Audio:** The audio consists of a male voice speaking in English. The speaker's tone is neutral, and he is delivering a line of text that reads, \"A volume by removing the initial a the publisher is left with every a word.\" The speech is clear and uninterrupted."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "661.0s - 667.0s",
+          "query": "**Visual:** The video shows a list with words starting from \"A\" to \"Z\". Each letter has multiple entries like \"A\", \"AA\", \"AAA\", etc., going up to \"ZZZZZ\".\n\n**Audio:** There is no spoken dialogue or background music; it's just the sound of the list being displayed visually."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "667.0s - 673.0s",
+          "query": "**Visual:** The video shows a diagram with multiple columns labeled \"A: Volume 1\" on the left side. Each column contains various combinations of letters like \"A,\" \"B,\" \"C,\" etc., arranged vertically. On the right side, there's a box labeled \"[all 'A' words].\" The background is white.\n\n**Audio:** There is no audible speech or sound effect in the provided time frame."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 224.3795461654663
+    },
+    {
+      "comment_index": 4357,
       "video_id": "s86-Z-CbaHA",
       "comment": "\"We apparently never needed it to be complete\" 9:20 This is exactly how I imagine Micheal breaking up with someone.",
       "language": "en",
@@ -109,65 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "551.0s - 557.0s",
-          "query": "VISUAL: A hand is drawing on a piece of paper with a blue pen. There's a circular diagram being sketched out, with numbered points around it. The hand moves steadily, adding more numbers to the circle.AUDIO: Someone is speaking about an \"unending supply of numbered points\" and mentions that there are no holes. It seems like they're explaining something related to the diagram being drawn."
+          "query": "Visual: A hand is drawing on a piece of paper with a blue pen. The drawing consists of a circle with numbered points around it. The background is a wooden surface.\n\nAudio: There's no distinct speech or music heard in the audio. It seems to be just the sound of the pen scratching against the paper."
         },
         {
           "segment_index": 2,
           "time_range": "557.0s - 563.0s",
-          "query": "VISUAL: A hand is drawing on a piece of paper with a blue pen. There's a circle drawn on the paper with numbers around it. The hand moves along the circle, pointing at different points. The background is a wooden surface.AUDIO: There's some kind of narration or explanation happening, but I can't make out the exact words from just listening to the audio. It seems like someone is talking about something related to the drawing, maybe explaining a concept or giving instructions.If you want, we could try to figure out more details together based on these descriptions."
+          "query": "Visually, there's a hand drawing a circle on a piece of paper with a blue pen. The hand is moving steadily, and the circle is gradually forming. The paper is on a wooden surface. There are some small, colorful dots inside the circle, and arrows pointing in different directions around it. The colors are mainly blue, white, and brown. There's no other significant movement or objects in the scene."
         },
         {
           "segment_index": 3,
           "time_range": "563.0s - 569.0s",
-          "query": "VISUAL: A person is drawing on paper with a blue marker. There's a circular diagram with numbers around it. The background looks like a wooden surface.AUDIO: Someone is speaking about something related to infinity and its consequences. It seems to be an educational or explanatory context.If you want to know more about what was said specifically, feel free to ask!"
+          "query": "Visually, there's a hand drawing a circle on a piece of paper. The hand is using a blue pen. The paper is on a wooden surface. The circle is being drawn with small dots around it. There's also a man with glasses and a beard in a brown shirt. He's talking and gesturing with his hands. The background is black.\n\nIn terms of audio, there's a man speaking. He seems to be explaining something. There are no other sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 211.3265516757965
+      "processing_time": 180.32882356643677
     },
     {
-      "comment_index": 4307,
-      "video_id": "s86-Z-CbaHA",
-      "comment": "0:00 - 24:13   I don't get this part. Can someone explain?",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 590.0,
-      "error": "Invalid timestamp (<= 0)",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 4306,
-      "video_id": "s86-Z-CbaHA",
-      "comment": "If u watch it infinite number of times, the information u find is gonna keep increasing, as every time you watch it, your brain gets somethings that it didn't get the last time. Eventually, you will end up with infinite knowledge wtf  It's 1:00 am. Don't you dare say I'm wrong.   Actually..It maybe a hyperwebster... Caus' infinite knowledge can be divided into two parts:  1. Infinite knowledge 2. Infinite knowledge.  Basically, U have infinite amount of infinite knowledge.  I need to sleep.",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 692.0,
-      "comment_timestamp": 60.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "51.0s - 57.0s",
-          "query": "VISUAL: There are two chocolate bars on a white surface. One has a green circle around it with some crumbs on top. The other bar is plain. Then there's an animation showing one of the bars being cut into smaller pieces and floating away.AUDIO: A man speaks over the visuals. He says something about how the cut makes it difficult to notice right away and that the animation is extra misleading because it tries to do something. But he doesn't finish his thought.If you want, we can talk more about what might be going on here."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "57.0s - 63.0s",
-          "query": "VISUAL: There's a chocolate bar on a black background at first. Then some squares start appearing from different directions, like from the left side and above. They seem to be coming together to form another chocolate bar. The squares have different colors too, like brown, red, and yellow.AUDIO: There's no clear speech or music in the audio. Just some kind of sound effect that might be related to the movement of the squares. It could also be just a quiet background noise.If you want to talk more about this video or have other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "63.0s - 69.0s",
-          "query": "VISUAL: There's a chocolate bar on the left side of the screen that moves to the right. Then it disappears from view. On the right side, there's another chocolate bar with different colored squares that also moves to the right and then disappears. The background is black.AUDIO: There's some kind of narration or explanation happening over the visuals. It seems like someone is talking about something related to the moving chocolate bars."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 240.63458275794983
-    },
-    {
-      "comment_index": 4305,
+      "comment_index": 4358,
       "video_id": "s86-Z-CbaHA",
       "comment": "9:16 \"No hole will be left unfilled\"   Wise words, my son. Wise words",
       "language": "en",
@@ -180,24 +169,65 @@
         {
           "segment_index": 1,
           "time_range": "547.0s - 553.0s",
-          "query": "VISUAL: A hand is drawing on a piece of paper with a blue pen. There's a circle drawn on the paper with some numbers around it. The hand moves to different points on the circle while writing or pointing at them.AUDIO: Someone is speaking about point two filling in where point one used to be, and so on. It seems like they're explaining something related to the diagram being drawn."
+          "query": "**Visual:** The video shows a close-up of a hand drawing a circle on a piece of paper with a blue marker. The hand is steady as it draws the circle. The paper is on a wooden surface. There are some small, irregular shapes drawn inside the circle, but they are not the main focus.\n\n**Audio:** There is no distinct speech or music in the audio. The only sound is the faint scratching of the marker on the paper as the hand draws."
         },
         {
           "segment_index": 2,
           "time_range": "553.0s - 559.0s",
-          "query": "VISUAL: A hand is drawing on a piece of paper with a blue pen. There's a circular diagram being drawn with numbered points around it. The hand moves smoothly to add more numbers and lines to the circle.AUDIO: Someone is speaking about having an unending supply of numbered points so no hole will be left unfilled. It seems like they're explaining something related to the diagram being drawn. Well, that's all I can say based on these two short descriptions. What do you think? Do you have any other questions or thoughts about this?"
+          "query": "Visually, there's a hand drawing a circle on a piece of paper with a blue pen. The paper is on a wooden surface. The hand is moving steadily as it draws. There are some small symbols or dots inside the circle, but they're not clearly defined. The colors are mainly the blue of the pen, the white of the paper, and the brown of the wooden surface. There's no other significant movement or objects in the scene. The audio is just the sound of the pen scratching on the paper."
         },
         {
           "segment_index": 3,
           "time_range": "559.0s - 565.0s",
-          "query": "VISUAL: A hand is drawing on a piece of paper with a blue pen. There's a circular diagram with numbered points around it. The hand moves to point at different numbers on the circle.AUDIO: Someone says \"The missing point is forgotten we apparently never needed it to be complete.\" It's just one person speaking, no other sounds or music. So, what do you think about that? Any thoughts or questions?"
+          "query": "Visually, there's a hand drawing a circle on a piece of paper. The hand is using a blue pen. The paper is on a wooden surface. There are some small doodles or marks inside the circle. The hand moves steadily as it draws the circle. The colors are mainly the blue of the pen, the white of the paper, and the brown of the wooden surface. There's no other significant movement or objects in the frame. The scene is quite simple and focused on the drawing action.Audibly, there's a man speaking in the background. The speech is clear and seems to be in English. The man's voice is calm and measured. There are no other distinct sounds or music in the audio. The speech is the main audio element, but it's not clear what he's saying from just this short segment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 212.68065643310547
+      "processing_time": 239.2885890007019
     },
     {
-      "comment_index": 4308,
+      "comment_index": 4360,
+      "video_id": "s86-Z-CbaHA",
+      "comment": "0:00 - 24:13   I don't get this part. Can someone explain?",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 590.0,
+      "error": "Invalid timestamp (<= 0)",
+      "analysis_type": "failed"
+    },
+    {
+      "comment_index": 4359,
+      "video_id": "s86-Z-CbaHA",
+      "comment": "If u watch it infinite number of times, the information u find is gonna keep increasing, as every time you watch it, your brain gets somethings that it didn't get the last time. Eventually, you will end up with infinite knowledge wtf  It's 1:00 am. Don't you dare say I'm wrong.   Actually..It maybe a hyperwebster... Caus' infinite knowledge can be divided into two parts:  1. Infinite knowledge 2. Infinite knowledge.  Basically, U have infinite amount of infinite knowledge.  I need to sleep.",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 692.0,
+      "comment_timestamp": 60.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "51.0s - 57.0s",
+          "query": "Visually, there are two chocolate bars. One has a green circle around a piece that looks like it's been cut off. The other chocolate bar is whole. The background is plain and light-colored. There's no movement of people or objects in the video. The colors are mainly the brown of the chocolate and the white of the background. The green circle is the only thing that stands out visually.Audibly, there's no speech, music, sound effects, or ambient sounds. It's just silence."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "57.0s - 63.0s",
+          "query": "**Visual:** The video shows a chocolate bar initially whole on a black background. As it progresses, pieces of the chocolate bar start to disappear one by one from different sides, leaving gaps where they once were.\n\n**Audio:** There is no discernible audio in this segment; only the sound of the chocolate pieces disappearing can be heard."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "63.0s - 69.0s",
+          "query": "Visually, there's a chocolate bar divided into smaller squares on a black background. The audio has someone speaking, though it's not clear what they're saying due to the short duration."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 158.32559823989868
+    },
+    {
+      "comment_index": 4361,
       "video_id": "s86-Z-CbaHA",
       "comment": "9:15 No hole will be left unfilled ( ͡° ͜ʖ ͡°)",
       "language": "en",
@@ -210,54 +240,24 @@
         {
           "segment_index": 1,
           "time_range": "546.0s - 552.0s",
-          "query": "VISUAL: A hand is drawing on a piece of paper with a blue pen. There's a circle drawn on the paper with some numbers around it. The hand moves to point at different numbers on the circle.AUDIO: There's a voiceover saying \"in the hole point two fills in the place where point one used to be three fills in two and so on.\" It seems like an explanation or narration related to the drawing.What do you think about this? Do you have any other questions regarding the video?"
+          "query": "**Visual:** The video shows hands drawing on a piece of paper with a blue marker. There's a large circle drawn on the paper, and numbers like \"1\", \"2\", \"3\", etc., are written around it at different points along the circumference.\n\n**Audio:** No distinct audio is heard apart from some background noise that might be related to the environment where the video was recorded."
         },
         {
           "segment_index": 2,
           "time_range": "552.0s - 558.0s",
-          "query": "VISUAL: A hand is drawing on a piece of paper with a blue pen. There's a circular diagram being sketched out, with numbered points around it. The hand moves steadily, adding more numbers to the circle.AUDIO: There's some background music playing throughout the video. No specific speech or sound effects can be heard from the provided information.If you have any other questions about the video or need further details, feel free to ask!"
+          "query": "Well, in the visual part, there's a hand holding a blue pen. It's drawing on a piece of paper that's on a wooden surface. The drawing looks like a circle with some arrows and numbers inside it. The hand is moving steadily as it draws.In the audio part, there's just music playing in the background. It's a bit of a simple, light tune. There's no speech or any other sound effects. It's just the music that you can hear.So, what do you think about this video? Do you have any other questions?"
         },
         {
           "segment_index": 3,
           "time_range": "558.0s - 564.0s",
-          "query": "VISUAL: A hand is drawing on a piece of paper with a blue pen. There's a circular diagram with numbers around it. The hand moves to point at different parts of the circle.AUDIO: Someone is speaking, saying \"The missing point is forgotten we apparently never needed it.\" It seems like they're explaining something related to the diagram. What do you think about that?"
+          "query": "I'm sorry, I can't analyze the video since there's no information about it provided here. Could you please describe the video or share more details? That way, I could give you a proper analysis!"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 214.92404675483704
+      "processing_time": 161.86574935913086
     },
     {
-      "comment_index": 4310,
-      "video_id": "s86-Z-CbaHA",
-      "comment": "I love how he takes time to study and learn all of this , but not to cut paper with scissors 7:45",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 487.0,
-      "comment_timestamp": 465.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "456.0s - 462.0s",
-          "query": "VISUAL: The video shows a hand pointing at a whiteboard with \"Hilbert's Hotel\" written on it. There are numbered rooms from 1 to infinity, some with smiley faces drawn inside them. The hand moves across different rooms, indicating shifts. AUDIO: A man is speaking about shifting guests in Hilbert's Hotel, mentioning room numbers like 1, 3, 4, etc. He explains how every guest can be moved to another room. So, what do you think about this concept? Do you have any other questions related to it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "462.0s - 468.0s",
-          "query": "VISUAL: There's a whiteboard with \"Hilbert's HOTEL\" written on it in green marker. Below that, there are six numbered squares from 1 to 6, outlined in green. Each square has a piece of paper with a red smiley face drawn on it. A hand is seen moving over these squares, pointing at them.AUDIO: Someone is speaking about an infinite sequence related to Hilbert's Hotel, mentioning guests and a never - ending supply. The speech seems to be explaining something mathematical or theoretical.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "468.0s - 474.0s",
-          "query": "VISUAL: The video shows a whiteboard with \"Hilbert's HOTEL\" written on it. There are six numbered squares below, labeled 1 to 6, with smiley faces drawn inside them. A man wearing glasses and an orange shirt is seen talking against a black background. He gestures with his hand while speaking.AUDIO: Someone is speaking about Hilbert's Hotel, mentioning that no room will be left empty and that you can subtract something from it without leaving any empty rooms. It seems like they're explaining a concept related to infinity or set theory.If you want to know more about what he might be explaining specifically, feel free to ask!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 299.8760085105896
-    },
-    {
-      "comment_index": 4309,
+      "comment_index": 4362,
       "video_id": "s86-Z-CbaHA",
       "comment": "\"Forever isn't enough...\" Michael Stevens, 2015 (5:15)",
       "language": "en",
@@ -270,24 +270,54 @@
         {
           "segment_index": 1,
           "time_range": "306.0s - 312.0s",
-          "query": "VISUAL: A hand is holding up a piece of paper with numbers written on it. The numbers seem to be related to whole numbers and real numbers between 0 and 1. There's also some text at the top that says \"WHOLE NUMBERS\" and \"Real numbers between 0 and 1.\" The background looks like a carpet or similar textured surface.AUDIO: Someone is speaking about countable and uncountable sets being the same size, but then says \"but we can't do that.\".The speaker seems to be explaining something mathematical. What do you think about this? Do you have any questions regarding the content?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 5.52 GiB. GPU 1 has a total capacity of 23.56 GiB of which 3.74 GiB is free. Including non-PyTorch memory, this process has 19.81 GiB memory in use. Of the allocated memory 18.24 GiB is allocated by PyTorch, and 1.26 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 2,
           "time_range": "312.0s - 318.0s",
-          "query": "VISUAL: A hand is holding up a whiteboard with numbers written on it. The numbers seem to be related to whole numbers and real numbers between 0 and 1. There's also some writing at the top that says \"WHOLE NUMBERS\" and \"Real numbers between 0 and 1.\" The background looks like a carpeted floor.AUDIO: Someone is speaking, saying \"Even though this list goes on forever, forever isn't enough.\".The speaker has a neutral tone. It seems like they're explaining something about these lists of numbers. What do you think about this? Do you have any other questions or thoughts?"
+          "query": "**Visual:** The video shows a hand holding up a whiteboard with handwritten numbers. The board is divided into sections labeled \"WHOLE NUMBERS\" and \"Real numbers between 0 and 1.\" Underneath these labels, there's a list of numbers written out.\n\n**Audio:** There is no discernible dialogue or sound effect; only background noise can be heard."
         },
         {
           "segment_index": 3,
           "time_range": "318.0s - 324.0s",
-          "query": "VISUAL: There's a piece of paper with numbers written on it. It has whole numbers listed vertically on one side and real numbers between 0 and 1 listed horizontally. A hand is holding the paper steady while another hand writes something on it with a pen.AUDIO: Someone is speaking about going diagonally down an endless list of real numbers. The speech is clear and seems to be explaining or teaching something related to math."
+          "query": "**Visual:** The video shows a hand holding a pen, writing on a whiteboard. The whiteboard has two columns labeled \"WHOLE NUMBERS\" and \"Real numbers between 0 and 1.\" The hand writes numbers in each column. The background is a textured surface, possibly a carpet. The pen is black, and the writing is in blue marker.\n\n**Audio:** There is no audible speech or music in the audio. The only sound is the faint scratching of the pen on the whiteboard as the numbers are written."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 281.8767375946045
+      "processing_time": 360.56814217567444
     },
     {
-      "comment_index": 4311,
+      "comment_index": 4363,
+      "video_id": "s86-Z-CbaHA",
+      "comment": "I love how he takes time to study and learn all of this , but not to cut paper with scissors 7:45",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 487.0,
+      "comment_timestamp": 465.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "456.0s - 462.0s",
+          "query": "**Visual:** The video shows a hand pointing at a whiteboard with \"Hilbert's HOTEL\" written on it. Below that, there are six numbered squares, each containing a smiley face drawn inside. The numbers range from 1 to 6. The hand moves across these squares.\n\n**Audio:** There is no discernible audio in this video segment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "462.0s - 468.0s",
+          "query": "Visual: The video shows a whiteboard with \"Hilbert's HOTEL\" written in green marker at the top. Below, there are six small squares, each with a number from 1 to 6 written in green. Some squares have a red circle and a smiley face drawn in them. A hand is visible, pointing at the squares.\n\nAudio: There is a male voice speaking in English. The speech content is about an infinite amount of guests and a never-ending situation related to Hilbert's Hotel."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "468.0s - 474.0s",
+          "query": "Visual: The video shows a whiteboard with \"Hilbert's Hotel\" written on it in green marker. Below, there are six small squares, each with a smiley face drawn in red. The numbers 1 through 6 are written below the squares. A man with glasses and a beard, wearing an orange shirt, is seen giving a thumbs-up gesture against a black background.\n\nAudio: There is a voiceover saying, \"apply of them no room will be left empty as it turns out you can subtract.\" The voice is calm and clear."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 285.65688467025757
+    },
+    {
+      "comment_index": 4364,
       "video_id": "s86-Z-CbaHA",
       "comment": "1:15 Michael... don't you dare... DON'T YOU DARE SAY IT. Michael--- 🤦 He said it..... HERE WE GO",
       "language": "en",
@@ -300,24 +330,24 @@
         {
           "segment_index": 1,
           "time_range": "66.0s - 72.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing an orange shirt. He has his hands up near his face. The background is black.AUDIO: A male voice is speaking. It seems to be saying something about cutting up a chocolate bar and rearranging it. There's no other sound effect or music. What do you think he might be talking about?"
+          "query": "Visually, there's a man in an orange shirt against a black background. He has glasses and a beard. He's talking and gesturing with his hands. There are some chocolate bar graphics on the screen, but they don't seem to be interacting with the man. The man's mouth is open, suggesting he's speaking. The overall scene is simple, with the focus mainly on the man and the chocolate bar graphics."
         },
         {
           "segment_index": 2,
           "time_range": "72.0s - 78.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing an orange shirt against a black background. He seems to be talking or explaining something while gesturing with his hands.AUDIO: The main thing heard is some kind of speech, possibly a question about dividing things into more than one started with. There might also be some background music or sound effects that are not very clear.What do you think about it? Do you have any other observations?"
+          "query": "Visually, there's a man with glasses and a beard wearing an orange shirt. He's standing against a black background. He seems to be talking or presenting something, and his hands are moving as if he's explaining or emphasizing points. There's no other object or person visible in the frame.\n\nAudio-wise, there's a male voice speaking. The speech is clear and seems to be part of a presentation or explanation. There's no background music or sound effects, just the man's voice."
         },
         {
           "segment_index": 3,
           "time_range": "78.0s - 84.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing an orange shirt against a black background. He seems to be talking or explaining something.AUDIO: A male voice is speaking about the Banach - Tarski paradox. It's just his voice without any other sounds like music or sound effects.So, what do you think about this paradox? Do you find it interesting?"
+          "query": "Visual: A man with glasses and a beard is standing against a black background. He's wearing a brown shirt and talking. The text \"Banach-Tarski paradox\" appears on the screen. The man seems to be explaining something related to this paradox.\n\nAudio: There is a male voice speaking in English. The speech is about the Banach-Tarski paradox, describing it as one of the strangest theorems in modern mathematics."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 195.38646626472473
+      "processing_time": 231.96644282341003
     },
     {
-      "comment_index": 4313,
+      "comment_index": 4365,
       "video_id": "s86-Z-CbaHA",
       "comment": "13:47 I'm German and this looks suspicious",
       "language": "en",
@@ -330,54 +360,24 @@
         {
           "segment_index": 1,
           "time_range": "818.0s - 824.0s",
-          "query": "VISUAL: A hand is drawing on a notepad with a pen. There's a circle drawn on it with arrows inside. The hand writes \"LUR\" and \"DD\" next to the circle. Then there's a list of different combinations like \"LUU\", \"RRR\", etc. under the circle. The hand circles some words in green and draws an arrow pointing down. AUDIO: Someone is speaking about coloring something blue because they ended with a down rotation. It seems related to the content being written on the notepad. So, what do you think about this? Do you have any other questions or thoughts?"
+          "query": "Visual: The video shows a hand drawing on a spiral notebook. There's a large circle drawn in the center, and inside the circle, there are some arrows and a question mark. The hand is using a blue marker. The notebook is on a white surface. The background is plain and light-colored. Audio: There's a voiceover in the audio, but the content of the speech isn't clear from the provided information."
         },
         {
           "segment_index": 2,
           "time_range": "824.0s - 830.0s",
-          "query": "VISUAL: A hand is drawing on a notebook with a pen. There's a circle drawn on the page, and arrows pointing around it. The hand writes letters like \"LUR\", \"DD\", \"RDR\" next to the arrows. The background seems to be a light-colored surface.AUDIO: Someone is speaking, saying something about a point's name taking them somewhere and mentioning a final right rotation. It sounds like they're explaining or teaching something related to directions or rotations.If you have any other questions about the video or want to discuss more details, feel free to let me know!"
+          "query": "**Visual:** The video shows someone drawing on a spiral notebook with a red marker. There's a large circle drawn in the center, and various letters like \"L,\" \"U,\" \"R,\" etc., are written around it. Arrows indicate movement or rotation within the circle.\n\n**Audio:** No distinct audio is heard apart from the sound of the marker writing on paper."
         },
         {
           "segment_index": 3,
           "time_range": "830.0s - 836.0s",
-          "query": "VISUAL: A hand is drawing on a notebook with a pen. There's a circular diagram drawn inside the notebook page. The hand draws arrows within the circle and writes some letters around it like \"LUR\", \"DD\", \"RDR\". Then there are two columns filled with various letter sequences. Some of these sequences have been circled or highlighted in different colors. One sequence has a green highlight, another has an orange highlight.AUDIO: Someone is speaking about using red for certain sequences that end with \"up\" and then mentions color - coding points orange. It seems to be related to the content being written in the notebook."
+          "query": "**Visual:** The video shows a notebook with handwritten sequences like \"L, LL, LLL...\" on one page and similar sequences on another page to its right. A hand is seen writing or pointing at these sequences. There's also a circular diagram drawn on the left side of the notebook.\n\n**Audio:** No distinct audio elements are mentioned other than the implied presence of someone speaking while performing the actions shown visually."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 283.2139735221863
+      "processing_time": 178.9042944908142
     },
     {
-      "comment_index": 4312,
-      "video_id": "s86-Z-CbaHA",
-      "comment": "9:15\"No hole will be left unfilled ( ͡° ͜ʖ ͡°)\"",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 462.0,
-      "comment_timestamp": 555.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "546.0s - 552.0s",
-          "query": "VISUAL: A hand is drawing on a piece of paper with a blue pen. There's a circle drawn on the paper with some numbers around it. The hand moves to point at different numbers on the circle.AUDIO: There's a voiceover saying \"in the hole point two fills in the place where point one used to be three fills in two and so on.\" It seems like an explanation or narration related to the drawing.What do you think about this? Do you have any other questions regarding the video?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "552.0s - 558.0s",
-          "query": "VISUAL: A hand is drawing on a piece of paper with a blue pen. There's a circular diagram being sketched out, with numbered points around it. The hand moves steadily, adding more numbers to the circle.AUDIO: There's some background music playing throughout the video. No specific speech or sound effects can be heard from the provided information.If you have any other questions about the video or need further details, feel free to ask!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "558.0s - 564.0s",
-          "query": "VISUAL: A hand is drawing on a piece of paper with a blue pen. There's a circular diagram with numbers around it. The hand moves to point at different parts of the circle.AUDIO: Someone is speaking, saying \"The missing point is forgotten we apparently never needed it.\" It seems like they're explaining something related to the diagram. What do you think about that?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 205.43656015396118
-    },
-    {
-      "comment_index": 4314,
+      "comment_index": 4366,
       "video_id": "s86-Z-CbaHA",
       "comment": "At 12:00 I bet he was thinking, \"Nope, that's going to be a swastika. I better stop.\"",
       "language": "en",
@@ -390,24 +390,54 @@
         {
           "segment_index": 1,
           "time_range": "711.0s - 717.0s",
-          "query": "VISUAL: A hand is drawing on a spiral notebook with a marker. There's a circle drawn inside the page, and arrows are being added to it. The hand moves steadily while drawing.AUDIO: Someone is speaking about rotating without backtracking. It seems like they're explaining something related to the drawing. There's no background music or other sounds.If you want to know more about what was said during that short clip, feel free to ask!"
+          "query": "Visually, there's a hand drawing on a spiral notebook. The hand is using a pen to draw a circle and then adding arrows and dots inside it. The background is a plain white surface. There are no other objects or people in the video. The colors are mainly the black of the pen and the white of the notebook and background. The movement is focused on the hand's drawing actions.Audibly, there's no speech or music. The only sound is the faint scratching of the pen on the paper as the hand draws."
         },
         {
           "segment_index": 2,
           "time_range": "717.0s - 723.0s",
-          "query": "VISUAL: A hand is drawing on a spiral notebook with a pen. There's a circle drawn on the page, and arrows pointing in different directions inside it. The hand moves around, adding more arrows.AUDIO: Someone is speaking about finding up in the same place twice by rotating in four directions to achieve some kind of paradox. It seems like they're explaining something related to the visuals.What do you think about this paradox? Do you have any ideas on how it could be possible?"
+          "query": "Visually, there's a hand drawing a circle on a piece of paper. The hand is using a pen, and the circle is being drawn with arrows inside it, showing different directions of rotation. The paper is on a flat surface, and the background is plain and light-colored. There are no other objects or people in the frame. The colors are mostly the black of the pen on the white paper, and the light background. The movement is the hand drawing and the arrows indicating rotation."
         },
         {
           "segment_index": 3,
           "time_range": "723.0s - 729.0s",
-          "query": "VISUAL: A hand is drawing on a spiral notebook with a black marker. There's a circle drawn on the page, and arrows are being added inside it to show directions. The hand moves around the circle, adding these arrows.AUDIO: Someone is speaking about \"up down left and right around two perpendicular axes.\" It seems like they're explaining something related to the diagram being drawn."
+          "query": "Visually, there's a hand drawing a circle on a spiral notebook. The hand is using a pen to add arrows inside the circle, pointing in different directions like up, down, left, and right. The notebook is on a flat surface. There's no other significant movement or objects in the scene. The colors are mostly the white of the paper, the black of the pen, and the brown of the spiral binding. The background is plain and light-colored, probably a table or desk.Audibly, there's no speech or music. The only sound is the slight scratching of the pen on the paper as the hand draws and adds the arrows."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 227.29846000671387
+      "processing_time": 290.58837890625
     },
     {
-      "comment_index": 4316,
+      "comment_index": 4367,
+      "video_id": "s86-Z-CbaHA",
+      "comment": "1:00 hey this video is pretty cool! 5:00 wow, this is good! 10:00 intresting! 15:00 uhhh... okay... 16:00 ... 17:00 what are you talking about? 18:00 can i get a refund on my brain please? 20:00 UHUHEUBIOWOB 24:13 Ambulance Arrives",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 434.0,
+      "comment_timestamp": 1020.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1011.0s - 1017.0s",
+          "query": "**Visual:** The video shows a close-up view of a textured surface on the left side, resembling a magnified image or a fuzzy texture. On the right side, there's an open notebook with handwritten notes. The handwriting includes words like \"up,\" \"down,\" \"left,\" \"right,\" \"starting points,\" \"poles,\" and \"center.\" There are also some arrows pointing to different directions.\n\n**Audio:** The audio contains a voiceover saying, \"into nearly just by rotating it we added nothing.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1017.0s - 1023.0s",
+          "query": "**Visual:** The video shows a large, fuzzy sphere on the left side against a black background. On the right is a notepad with handwritten notes about \"starting points,\" \"poles,\" and \"center.\" There are also small colored circles labeled \"up,\" \"down,\" \"left,\" \"right.\"\n\n**Audio:** The audio includes someone speaking over the visuals, mentioning adding something to create rotation around poles and center points."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1023.0s - 1029.0s",
+          "query": "**Visual:** The video shows a large sphere with a textured surface on the left side. On the right side, there are smaller spheres or objects in different colors like pink, blue, green, and yellow. There's also some text at the bottom that says \"up\", \"down\", \"left\", \"right\", \"starting points\", \"poles\", and \"center\".\n\n**Audio:** Someone is speaking over the visuals, saying something about having \"the entire sphere again\" and mentioning \"stuff left over to make a\"."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 144.28507900238037
+    },
+    {
+      "comment_index": 4368,
       "video_id": "s86-Z-CbaHA",
       "comment": "Way that you write 8 on 5:46 hurts my feelings.",
       "language": "en",
@@ -420,54 +450,24 @@
         {
           "segment_index": 1,
           "time_range": "337.0s - 343.0s",
-          "query": "VISUAL: A hand is writing on a piece of paper with numbers listed under \"WHOLE NUMBERS\" and \"Real numbers between 0 and 1.\" The person writes more numbers next to these categories.AUDIO: There's some background music playing throughout the video."
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.87 GiB is free. Including non-PyTorch memory, this process has 15.68 GiB memory in use. Of the allocated memory 13.59 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 2,
           "time_range": "343.0s - 349.0s",
-          "query": "VISUAL: A hand is writing on a piece of paper with a pen. The paper has numbers written on it under headings like \"WHOLE NUMBERS\" and \"Real numbers between 0 and 1.\" There's also some red markings on the numbers. The background looks like a textured surface.AUDIO: Someone is speaking about defining something to be different from every number on an endless list at least one place. It seems to be related to math or logic. Well, that's all I can say based on those few seconds. What do you think? Do you have any other questions about it?"
+          "query": "**Visual:** The video shows a close-up of a whiteboard with handwritten text. The text is divided into two sections: \"WHOLE NUMBERS\" and \"Real numbers between 0 and 1.\" Below these headings, there are lists of numbers written in different colors. A person's hand is visible, holding a pen and writing on the board. The background appears to be a textured surface, possibly a carpet.\n\n**Audio:** There is no discernible audio in this segment."
         },
         {
           "segment_index": 3,
           "time_range": "349.0s - 355.0s",
-          "query": "VISUAL: A hand is writing on a piece of paper with numbers listed under \"WHOLE NUMBERS\" and \"Real numbers between 0 and 1.\" The hand writes \"0.68281\" next to number 3. There's also a pen in use. The background seems like a carpeted floor.AUDIO: Someone is speaking about something not being contained in a list, using phrases like \"it's clearly not contained in the list\" and \"in other words we've used up.\" It sounds like an explanation or discussion about math or logic."
+          "query": "**Visual:** The video shows a close-up of a whiteboard with handwritten numbers. The numbers are divided into two columns labeled \"WHOLE NUMBERS\" and \"Real numbers between 0 and 1.\" A person's hand is visible, holding a pen and writing on the board. The background appears to be a textured surface, possibly a carpet.\n\n**Audio:** There is a voiceover in the background, speaking in a calm and clear tone. The speaker says, \"it's clearly not contained in the list in other words we've used up.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 231.20597338676453
+      "processing_time": 548.385062456131
     },
     {
-      "comment_index": 4315,
-      "video_id": "s86-Z-CbaHA",
-      "comment": "1:00 hey this video is pretty cool! 5:00 wow, this is good! 10:00 intresting! 15:00 uhhh... okay... 16:00 ... 17:00 what are you talking about? 18:00 can i get a refund on my brain please? 20:00 UHUHEUBIOWOB 24:13 Ambulance Arrives",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 434.0,
-      "comment_timestamp": 1200.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "1191.0s - 1197.0s",
-          "query": "VISUAL: There's a black background with some white mathematical equations and graphs at first. Then it changes to show two spheres - one pinkish on the left side and another yellowish on the right side against a dark background.AUDIO: There is a male voice speaking about the Banach-Tarski paradox possibly happening in our real world. The tone seems to be somewhat serious or explanatory.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "1197.0s - 1203.0s",
-          "query": "VISUAL: There are six colorful spheres on a black background. They seem to be made up of many small lines or dots radiating outwards from their centers. The spheres are arranged in two rows of three. The top row has pink, peach, and yellow spheres, while the bottom row has purple, green, and another yellow sphere.AUDIO: A male voice is speaking about cutting an object into five pieces that aren't simple shapes. It's just his voice with no other sounds like music or sound effects. So, what do you think about this? Do you have any ideas for how those non - simple shapes could look?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "1203.0s - 1209.0s",
-          "query": "VISUAL: There are six colorful spheres on a black background. They seem to be made up of many small lines or dots radiating outwards from their centers. The colors are pink, light orange, yellow, purple, greenish-blue, and another shade of greenish-blue.AUDIO: A man is speaking. He says \"They must be infinitely complex and detailed that's not possible to.\" His voice seems calm and measured.What do you think about these spheres? Do you have any other questions related to this video?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 283.5532398223877
-    },
-    {
-      "comment_index": 4317,
+      "comment_index": 4369,
       "video_id": "s86-Z-CbaHA",
       "comment": "05:47 Interesting video but not as interesting as the way you write your 8's.",
       "language": "en",
@@ -480,54 +480,24 @@
         {
           "segment_index": 1,
           "time_range": "338.0s - 344.0s",
-          "query": "VISUAL: A hand is writing on a piece of paper with a pen. The paper has columns labeled \"WHOLE NUMBERS\" and \"Real numbers between 0 and 1.\" There are some real numbers listed under that column. The background looks like a carpeted floor.AUDIO: Someone is speaking about a real number that's obviously between zero and one, but they mention something about it being defined. It seems to be an explanation or discussion about math concepts.If you have any thoughts or questions about this, feel free to share!"
+          "query": "**Visual:** The video shows a hand holding a pen, writing on a whiteboard. The whiteboard has two columns labeled \"WHOLE NUMBERS\" and \"Real numbers between 0 and 1.\" The hand writes numbers in each column. The background is a textured surface, possibly a carpet.\n\n**Audio:** There is no distinct audio mentioned in the description."
         },
         {
           "segment_index": 2,
           "time_range": "344.0s - 350.0s",
-          "query": "VISUAL: A hand is writing on a piece of paper with a pen. The paper has columns labeled \"WHOLE NUMBERS\" and \"Real numbers between 0 and 1.\" There are some numbers listed under these headings. The background seems to be a textured surface like carpet.AUDIO: Someone is speaking about being different from every number on an endless list at least one place. It's clear that there's something important here."
+          "query": "**Visual:** The video shows a close-up of a whiteboard with handwritten numbers divided into two columns. The left column is labeled \"WHOLE NUMBERS\" and the right column \"Real numbers between 0 and 1.\" A person's hand is writing numbers in the right column. The background is a textured surface, possibly a carpet.\n\n**Audio:** There is no audible speech or music in the audio. The only sound is the faint scratching of a pen on the whiteboard as numbers are written."
         },
         {
           "segment_index": 3,
           "time_range": "350.0s - 356.0s",
-          "query": "VISUAL: A hand is writing on a piece of paper with numbers listed under \"WHOLE NUMBERS\" and \"Real numbers between 0 and 1.\" The hand circles one number under \"WHOLE NUMBERS.\".AUDIO: There's some kind of narration or explanation about using up every single whole number. It seems to be related to math concepts."
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.87 GiB is free. Including non-PyTorch memory, this process has 15.68 GiB memory in use. Of the allocated memory 13.59 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 254.63602137565613
+      "processing_time": 519.8804020881653
     },
     {
-      "comment_index": 4319,
-      "video_id": "s86-Z-CbaHA",
-      "comment": "My new year's resolution: Get a girlfriend Me, a minute into the new year: 20:07",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 383.0,
-      "comment_timestamp": 1207.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "1198.0s - 1204.0s",
-          "query": "VISUAL: There are six colorful circles on a black background. They seem to be made up of many small lines or dots radiating outwards from their centers. The circles are arranged in two rows of three. The top row has pink, peach, and yellow circles, while the bottom row has purple, light green, and another light green circle.AUDIO: A man is speaking about cutting an object into five pieces that aren't simple shapes, they must be in some kind of specific arrangement.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "1204.0s - 1210.0s",
-          "query": "VISUAL: There are five colorful spheres on a black background. They seem to be made up of many small lines or dots that give them texture. The colors are pink, light orange, yellow, purple, and greenish - blue.AUDIO: A man is speaking. He says \"infinitely complex and detailed that's not possible to do in the real world.\" It seems like he might be explaining something about these spheres or related concepts.What do you think about it? Do you have any other thoughts or questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "1210.0s - 1216.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing an orange shirt. He has his hands up near his face, then moves them down to his sides. The background is black.AUDIO: Someone is speaking. It seems like they're talking about measurements getting small and time being finite. But it cuts off before finishing.Anything else you noticed or want to ask about?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 235.02029657363892
-    },
-    {
-      "comment_index": 4318,
+      "comment_index": 4370,
       "video_id": "s86-Z-CbaHA",
       "comment": "18:57       1+1=1       Me: We’ve been lied to, compromised and quite possibly bamboozled.",
       "language": "en",
@@ -540,24 +510,54 @@
         {
           "segment_index": 1,
           "time_range": "1128.0s - 1134.0s",
-          "query": "VISUAL: The video shows a spiral - bound notebook on a textured surface with some scribbles inside. Then it transitions to a black background where six colorful spheres appear. They seem to be made up of many small dots or lines radiating from their centers.AUDIO: There's no clear speech or music in the audio. Just a voiceover saying \"We have taken one sphere and turned into two identical spheres without.\" It seems like an explanation about something related to the spheres shown visually.What do you think about this? Do you have any other questions regarding the video?"
+          "query": "Visually, there are multiple spheres of different colors like red, yellow, blue, and green. They seem to be moving around on a black background. There aren't any people or other objects in the video. The movement of the spheres is the main action here.Audibly, there's a male voice speaking. The speech is clear and seems to be explaining something related to the spheres. There's no music or other sound effects."
         },
         {
           "segment_index": 2,
           "time_range": "1134.0s - 1140.0s",
-          "query": "VISUAL: There are four spheres with different colors - pink, purple, green, and brownish - on a black background. They move around. Then two of them stop moving and stay still.AUDIO: There's some kind of narration or explanation about adding something, followed by \"1 plus 1 equals one.\" It seems like it might be related to math or logic. What do you think?"
+          "query": "Visually, the video shows four spheres against a black background. The spheres are of different colors: one is orange, another is a darker brown, a third is a lighter brown, and the fourth is green. They are positioned in a way that they seem to be floating or suspended in space. There's no visible movement or action involving the spheres.\n\nIn terms of audio, there is a voiceover that says \"one plus one equals one.\" The voice is clear and the tone is neutral. There's no background music or sound effects, just the spoken words."
         },
         {
           "segment_index": 3,
           "time_range": "1140.0s - 1146.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing an orange shirt. He seems to be talking or explaining something while gesturing with his hands. The background is black.AUDIO: It's just someone speaking, no other sounds like music or sound effects. The speech lasts for about 6 seconds.What do you think he might be talking about?"
+          "query": "Sure! So, for the visual part:.There's someone wearing an orange shirt against a black background. They're talking and using hand gestures while speaking.For the audio part:.The person is speaking, likely explaining something related to mathematics or implications based on their words.What do you think about it? Do you have any other questions?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 218.0886778831482
+      "processing_time": 253.56535172462463
     },
     {
-      "comment_index": 4320,
+      "comment_index": 4371,
+      "video_id": "s86-Z-CbaHA",
+      "comment": "My new year's resolution: Get a girlfriend Me, a minute into the new year: 20:07",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 383.0,
+      "comment_timestamp": 1207.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1198.0s - 1204.0s",
+          "query": "Visual: The video shows six circular objects of different colors - pink, peach, yellow, purple, and green. They are arranged in two rows of three. The circles are somewhat blurry and have a glowing effect. There's no clear action or movement of the objects, just their presence against a dark background.\n\nAudio: There's no speech or music in the audio. The only sound is a very faint, almost imperceptible ambient noise, possibly from the camera or recording device."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1204.0s - 1210.0s",
+          "query": "Sure! Let's break it down:.Visually, there are five colorful circles on a black background. There s also a man wearing glasses and an orange shirt standing in front of them.Audibly, someone is speaking about something complex that can't be done in the real world.Anything else you want to know?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1210.0s - 1216.0s",
+          "query": "Visually, there's a man in a brown shirt against a black background. He's gesturing with his hands, like he's explaining something. He has glasses and a beard. There's also a blue wristband on his left wrist. The scene is pretty simple, just him and the black backdrop.Audibly, there's a voice speaking, but no other sounds like music or sound effects. The speech seems to be the main focus."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 167.88649010658264
+    },
+    {
+      "comment_index": 4372,
       "video_id": "s86-Z-CbaHA",
       "comment": "2:27 when you zoom out in google maps but the world don’t load",
       "language": "en",
@@ -570,21 +570,21 @@
         {
           "segment_index": 1,
           "time_range": "138.0s - 144.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing an orange shirt. He seems to be talking or explaining something while gesturing with his hands. The background is black.AUDIO: Someone is speaking about \"number\" and mentions infinity could be really big. It sounds like they're discussing some kind of concept related to numbers or mathematics.What do you think about that? Do you have any other thoughts on the video?"
+          "query": "**Visual:** The video shows a man wearing glasses and a brown shirt. He has a beard and is gesturing with his hands while speaking. The background is black. The word \"number\" is prominently displayed in quotation marks in front of him.\n\n**Audio:** There is speech in the audio, but the content of the speech is not provided."
         },
         {
           "segment_index": 2,
           "time_range": "144.0s - 150.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing an orange shirt against a black background. He seems to be talking or presenting something. Then it cuts to a grid pattern that looks like graph paper.AUDIO: The man is speaking throughout the video. There are no other distinct sounds like music or sound effects. It's just his voice. What do you think about this? Do you have any other questions related to the video?"
+          "query": "Well, visually, it looks like there's just a grid pattern throughout the whole thing. There aren't any objects or people really moving around. It's all pretty static. As for the audio, hmm, I can't really make out anything specific from that short clip. Maybe some faint background noise? What do you think about it?"
         },
         {
           "segment_index": 3,
           "time_range": "150.0s - 156.0s",
-          "query": "VISUAL: The video shows a grid pattern that seems to be made up of intersecting lines forming small squares. It's mostly grayish - white with some darker areas where the lines overlap more densely. There aren't any moving objects or people in it.AUDIO: There is a male voice speaking over the video. He says \"Forever and ever without end beyond even the part we can observe or ever hope.\" The tone seems calm and somewhat melancholic.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Well, I'm sorry, but there's nothing to analyze here. The image is just a gray grid pattern with no objects, people, or any kind of movement. And since it's an image, there's also no audio to describe. So, that's all there is to say about this \"video\" segment. What else can I help you with?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 243.54277968406677
+      "processing_time": 159.72457838058472
     }
   ]
 }

@@ -330,7 +330,7 @@
         {
           "segment_index": 3,
           "time_range": "240.0s - 246.0s",
-          "query": "VISUAL: The video shows a static image with \"THE STARTERS\" written prominently on an orange banner at the top. Below it says \"WEEKNIGHTS ON NBA TV\". There's also a website link \"NBA.COM/THESTARTERS\" and a Twitter handle \"[USER]\". At the bottom right corner is the NBA TV logo.AUDIO: There's no speech or dialogue in the audio. Just some kind of sound effect that seems like a low, rumbling noise throughout the 6 seconds.If you have any other questions about this video or anything else, feel free to let me know!"
+          "query": "VISUAL: The video shows a static image with \"THE STARTERS\" written prominently on an orange banner at the top. Below it says \"WEEKNIGHTS ON NBA TV\". There's also a website link \"NBA.COM/THESTARTERS\" and a Twitter handle \"@ThEStarters\". At the bottom right corner is the NBA TV logo.AUDIO: There's no speech or dialogue in the audio. Just some kind of sound effect that seems like a low, rumbling noise throughout the 6 seconds.If you have any other questions about this video or anything else, feel free to let me know!"
         }
       ],
       "analysis_type": "optimized_video_analysis",

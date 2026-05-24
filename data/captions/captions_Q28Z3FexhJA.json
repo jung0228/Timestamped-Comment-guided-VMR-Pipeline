@@ -1,0 +1,69 @@
+{
+  "video_id": "Q28Z3FexhJA",
+  "total_comments": 2,
+  "successful_comments": 2,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 18969,
+      "video_id": "Q28Z3FexhJA",
+      "comment": "It didn't bounce off the cushion, it bounced off the ball! 0:31",
+      "language": "en",
+      "channel_name": "SkySports",
+      "category": "sports",
+      "likes": 1.0,
+      "comment_timestamp": 31.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "22.0s - 28.0s",
+          "query": "Visual: The video shows a bowling alley scene with a person in an American flag-themed shirt celebrating enthusiastically after a successful throw. There's a scoreboard visible in the background displaying scores like \"7/10\" and \"54\". The environment is brightly lit, typical for a bowling alley.\n\nAudio: You can hear cheering from spectators and possibly some commentary or announcements related to the bowling event."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "28.0s - 34.0s",
+          "query": "**Visual:** The video shows two individuals wearing shirts with an American flag design. One person is seen from behind, walking away while the other is partially visible on the right side. There's also a red banner with white text that says \"PBA Tour\" and some numbers displayed at the bottom left corner.\n\n**Audio:** You can hear cheering and shouting in the background, along with a male voice saying something that seems to be related to bowling, like \"Spare of the game.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "34.0s - 40.0s",
+          "query": "Visual: The video shows a bowling alley scene with pins set up at the end of the lane. There's a person wearing a colorful shirt standing near the pins, likely preparing to bowl. The background has some signage related to the bowling event or venue.\n\nAudio: The audio includes commentary from an announcer, possibly describing the ongoing game or providing updates on scores. There might be some cheering or other crowd reactions too."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 185.31958270072937
+    },
+    {
+      "comment_index": 18970,
+      "video_id": "Q28Z3FexhJA",
+      "comment": "0:08 Since when did Joe Biden do bowling commentary?",
+      "language": "en",
+      "channel_name": "SkySports",
+      "category": "sports",
+      "likes": 0.0,
+      "comment_timestamp": 8.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "0.0s - 5.0s",
+          "query": "Visual: The video shows a bowling alley scene with two players, one wearing an American flag-themed shirt. There's a scoreboard visible displaying scores for \"NEUER\" and \"BUTTURFF.\" The lanes have pins set up at the end.\n\nAudio: You can hear the sound of a bowling ball rolling down the lane and hitting the pins. There might be some commentary or cheering from spectators too."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "5.0s - 11.0s",
+          "query": "Sure! Here's a breakdown:.Visual: The video shows a bowling alley scene with a scoreboard displaying scores for two players named Neuer and Butturff. There are bowling pins set up on the lane, and a person is seen walking towards the lane, likely preparing to bowl. The background has some logos like KIA and PBA Tour, along with \"guaranteed Rate\" and \"U.S. OPEN\" signs. The colors are mostly dark with bright reds from the pins and score display. The movement mainly focuses on the person approaching the lane.Action: The main action involves someone getting ready to bowl at the pins. You can see them walking forward, probably focusing on their aim before releasing the ball. The scoreboard updates as they bowl, showing different scores for each player."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "11.0s - 17.0s",
+          "query": "**Visual:** The video shows a bowling alley scene. There's a person wearing an American flag-themed shirt standing near the lanes. A black bowling ball is rolling down the lane towards the pins. The background has colorful lights and structures typical of a bowling alley.\n\n**Audio:** There's no distinct speech or dialogue heard. Instead, there are ambient bowling alley sounds like the ball rolling and possibly some cheering or commentary from spectators."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 264.5282185077667
+    }
+  ]
+}

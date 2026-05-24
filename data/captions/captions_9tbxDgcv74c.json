@@ -4,10 +4,9 @@
   "successful_comments": 20,
   "failed_comments": 0,
   "success_rate": "100.0%",
-  "processing_time": 6145.731233596802,
   "comments": [
     {
-      "comment_index": 3570,
+      "comment_index": 1001,
       "video_id": "9tbxDgcv74c",
       "comment": "\"Did you know that every bird in our videos has an owner?\"  1:10 This bird's owner: 👁👄👁",
       "language": "en",
@@ -20,54 +19,54 @@
         {
           "segment_index": 1,
           "time_range": "61.0s - 67.0s",
-          "query": "VISUAL: The video shows a bar graph comparing the TNT equivalent energy of different nuclear bombs. There are two bars labeled \"Little Boy\" and \"Fat Man.\" Then it zooms out to show another bar for \"Tsar Bomba.\" The bars represent the energy levels in meters. The background is blue.AUDIO: A man speaks about humans exploding the RDS - 220 hydrogen bomb or Tsar Bomba. It's just his voice with no other sounds like music or sound effects. So, what do you think about these nuclear bombs?"
+          "query": "I'm sorry, I can't analyze videos directly. But if you describe the content to me, I'd be happy to help summarize it!"
         },
         {
           "segment_index": 2,
           "time_range": "67.0s - 73.0s",
-          "query": "VISUAL: There's an animated bird on a blue background at first. Then it transforms into a red robot with a gun. The robot shoots out small green objects. The scene is simple with bright colors.AUDIO: There's some music playing throughout the video. No specific speech or sound effects are heard. It's just the continuous music.If you have any other questions about the video or want to discuss something else, feel free to let me know!"
+          "query": "Visually, there's a green bird with orange feet and a beak. It's standing on a blue background. Then, a red bird appears, also on the blue background. There are some green dots flying around it. The scene is simple, with no complex actions or movements. The colors are bright and simple, mainly green, blue, and red. There's also a bar graph in the background with labels like \"Energy of Nuclear Bombs\" and \"Meters.\".Audio-wise, there's music playing throughout the video. There's also a male voice speaking, but the content of the speech isn't clear from this short segment."
         },
         {
           "segment_index": 3,
           "time_range": "73.0s - 79.0s",
-          "query": "VISUAL: There's an illustration of a broken megaphone on one side, and on the other side, there's a large mushroom cloud rising up against a purple background. The cloud has different layers with orange, yellow, pink, and white colors. There are also some blue trees at the bottom of the scene.AUDIO: I can't really tell what kind of speech or music is playing since it's just described as \"music\" without any specific details. But there might be some sound effects related to the breaking of the megaphone and the explosion of the mushroom cloud."
+          "query": "Visually, there's an illustration of two cannons on a blue background. One cannon is firing red balls into the air. On the right side, there's a purple background with a large mushroom cloud rising up, labeled \"Kilometers\" on a scale from 10 to 50.\n\nAudio-wise, it seems like there might be some kind of narration or explanation happening alongside the visuals, but I can't really make out any specific words or phrases clearly. There could also be some subtle sound effects related to the cannons firing and the explosion of the mushroom cloud."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 243.80353212356567
+      "processing_time": 148.5078661441803
     },
     {
-      "comment_index": 3571,
+      "comment_index": 1002,
       "video_id": "9tbxDgcv74c",
       "comment": "4:19 Oh hey heres spongebobs house 4:21 HOW DARE YOU KILL SPONGEBOB",
       "language": "en",
       "channel_name": "Kurzgesagt",
       "category": "knowledge",
       "likes": 825.0,
-      "comment_timestamp": 261.0,
+      "comment_timestamp": 259.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "252.0s - 258.0s",
-          "query": "VISUAL: The video shows an illustration of two tectonic plates - the Mariana Plate on the left and the Pacific Plate on the right. There's a depiction of a trench where these plates meet. The colors used are bright and distinct for each plate. The animation seems to show some kind of interaction between the plates, like movement or pressure.\n\nAUDIO: A male voice is speaking throughout the video. He says something about detonating a bomb at the exact point where tectonic plates touch. It's not clear from just that snippet if he's explaining why or giving instructions."
+          "time_range": "250.0s - 256.0s",
+          "query": "Visually, the video shows a colorful diagram of the Mariana Trench and the Pacific Plate. There are different layers and colors representing various geological features. The diagram includes labels like \"Mariana Plate\" and \"Pacific Plate.\" The colors are bright and distinct, making it easy to differentiate between the different parts. There are no people or moving objects in the video, just the static diagram.\n\nAudio - There is no audio in this video segment."
         },
         {
           "segment_index": 2,
-          "time_range": "258.0s - 264.0s",
-          "query": "VISUAL: The video shows an underwater scene with colorful coral reefs in bright orange, pink, green, and blue hues. There are also some fish swimming around. Then it transitions to a desert-like landscape with orange and purple mountains against a light blue sky. The movement is mainly from left to right, showing different scenes.AUDIO: There's a man speaking about an explosion that would vaporize part of the sea floor and turn sand into glass. It seems like he's explaining something scientific or hypothetical. There are no other noticeable sound effects or music. So, what do you think about this video? Do you have any other questions related to it?"
+          "time_range": "256.0s - 262.0s",
+          "query": "Visually, the video shows a colorful underwater scene with coral reefs and marine life. There are different types of corals in various colors like orange, pink, and purple. The background has a blue hue, suggesting the underwater environment. The movement is mainly the gentle sway of the corals and the occasional movement of small fish or other small marine creatures.\n\nAudio-wise, there's a man speaking in English. The speech seems to be explaining something, possibly related to the underwater scene. There's also some background music that adds to the ambiance of the underwater setting."
         },
         {
           "segment_index": 3,
-          "time_range": "264.0s - 270.0s",
-          "query": "VISUAL: The video shows an abstract landscape with colorful mountains and valleys. There's a split - screen effect where one side has orange and red hues while the other is blue with a yellow sun peeking out from behind some dark shapes. It then transitions to a map showing plate boundaries around the world with lines connecting different points.AUDIO: A man is speaking about energy distribution during earthquakes, mentioning that most energy goes into water rather than seismic waves. He also notes that earthquakes are already quite common.So, what do you think about these two parts? Do you have any other questions related to the video?"
+          "time_range": "262.0s - 268.0s",
+          "query": "Visually, the video shows a colorful, abstract landscape. There are various shapes and colors like orange, red, purple, and blue. It looks like a stylized representation of a desert or a mountainous area. The colors are bright and the shapes are somewhat irregular, giving it a unique, artistic feel. There are no people or specific objects in the scene, just the abstract shapes and colors.Audibly, there's a man speaking. The speech is clear and seems to be explaining something, but the content of what he's saying isn't provided. There's no music or sound effects, just the man's voice."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 310.17599058151245
+      "processing_time": 253.15585160255432
     },
     {
-      "comment_index": 3572,
+      "comment_index": 1003,
       "video_id": "9tbxDgcv74c",
       "comment": "4:18 I saw spongebob’s house :)",
       "language": "en",
@@ -80,54 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "249.0s - 255.0s",
-          "query": "VISUAL: The video shows an animated map highlighting the Mariana Trench with colorful lines indicating plate boundaries. There's also a cross - section view of two plates, one labeled \"Mariana Plate\" and the other \"Pacific Plate.\" The animation seems to show tectonic activity like earthquakes and volcanic eruptions.AUDIO: There is some kind of narration or explanation about the Mariana Trench and its relation to earthquakes and volcanoes. It mentions something about detonating a bomb in the trench. The overall tone suggests it might be educational or informative.If you have any more questions about this video or anything else, feel free to ask!"
+          "query": "Visually, the video shows a colorful diagram of the Mariana Trench and the Pacific Plate. There are different layers and structures depicted, with bright colors like orange, purple, and blue. The diagram seems to illustrate geological features related to the trench and plate movement. There are no people or moving objects in the video, just the static diagram.\n\nIn terms of audio, there is a male voice speaking throughout the 6 seconds. The speech is in English and seems to be explaining something related to the visual content, possibly about earthquakes and volcanoes. There are no other sound effects or music."
         },
         {
           "segment_index": 2,
           "time_range": "255.0s - 261.0s",
-          "query": "VISUAL: The video shows an illustration of two tectonic plates - the Mariana Plate and Pacific Plate. They're depicted with different layers and textures. Then it transitions to an underwater scene with colorful corals and fish swimming around. There's also some text on the screen about tectonic plates touching and an explosion possibly happening there.AUDIO: There's a man speaking throughout the video. He seems to be explaining something related to tectonic plates and an explosion. The background has some soft music playing."
+          "query": "Visually, the video shows a colorful underwater scene with a Mariana Plate and a Pacific Plate. There are various corals and marine life depicted. The colors are bright and vibrant, with blues, purples, and oranges dominating. The movement is mainly of the plates and the surrounding underwater elements.\n\nAudio-wise, there's a male voice speaking in English. The speech is clear and seems to be explaining something related to the tectonic plates. There are no other sound effects or music in the audio."
         },
         {
           "segment_index": 3,
           "time_range": "261.0s - 267.0s",
-          "query": "VISUAL: The video shows an abstract landscape with colorful, wavy shapes that look like mountains or hills. There's a bright turquoise sky above them. As it progresses, there's a split - one side continues with the same scene while the other side shows a dark blue area with some kind of patterned texture and a small yellow light at the bottom right corner.AUDIO: There is a man speaking throughout the video. He seems to be explaining something about the sea floor and sand turning into glass, mentioning that most energy goes into the water rather than sand. It has a somewhat educational tone.If you have any thoughts on this or want to discuss more about it, feel free to share!"
+          "query": "Visually, the video shows a colorful, abstract landscape. There are various shapes and colors like orange, red, and purple, with some parts resembling mountains or hills. The colors are bright and the shapes are somewhat irregular. There's no clear action or movement of objects or people in this part.Audibly, there's a man speaking. The speech is clear and seems to be explaining something, but the content of what he's saying isn't provided. There's no background music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 321.5579390525818
+      "processing_time": 373.8633453845978
     },
     {
-      "comment_index": 3573,
-      "video_id": "9tbxDgcv74c",
-      "comment": "4:18 Ohhhhhhhh-- Who Died by a nuclear bomb under the sea? Spongebob Squarepants!",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 694.0,
-      "comment_timestamp": 258.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "249.0s - 255.0s",
-          "query": "VISUAL: The video shows an animated map highlighting the Mariana Trench with colorful lines indicating plate boundaries. There's also a cross - section view of two plates, one labeled \"Mariana Plate\" and the other \"Pacific Plate.\" The animation seems to show tectonic activity like earthquakes and volcanic eruptions.AUDIO: There is some kind of narration or explanation about the Mariana Trench and its relation to earthquakes and volcanoes. It mentions something about detonating a bomb in the trench. The overall tone suggests it might be educational or informative.If you have any more questions about this video or anything else, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "255.0s - 261.0s",
-          "query": "VISUAL: The video shows an illustration of two tectonic plates - the Mariana Plate and Pacific Plate. They're depicted with different layers and textures. Then it transitions to an underwater scene with colorful corals and fish swimming around. There's also some text on the screen about tectonic plates touching and an explosion possibly happening there.AUDIO: There's a man speaking throughout the video. He seems to be explaining something related to tectonic plates and an explosion. The background has some soft music playing."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "261.0s - 267.0s",
-          "query": "VISUAL: The video shows an abstract landscape with colorful, wavy shapes that look like mountains or hills. There's a bright turquoise sky above them. As it progresses, there's a split - one side continues with the same scene while the other side shows a dark blue area with some kind of patterned texture and a small yellow light at the bottom right corner.AUDIO: There is a man speaking throughout the video. He seems to be explaining something about the sea floor and sand turning into glass, mentioning that most energy goes into the water rather than sand. It has a somewhat educational tone.If you have any thoughts on this or want to discuss more about it, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 333.10914039611816
-    },
-    {
-      "comment_index": 3574,
+      "comment_index": 1004,
       "video_id": "9tbxDgcv74c",
       "comment": "5:02 \"The planet is too big. It does not care.\"  Damn it man that was badass line XD.",
       "language": "en",
@@ -140,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "293.0s - 299.0s",
-          "query": "VISUAL: The video shows four different scenes with colorful landscapes. There's an explosion or eruption happening on a rocky island in each scene. The first one has a pinkish-purple cloud, the second a blue one, the third a gray one, and the fourth a purple one. The background changes from orange to green to light blue to purple. In some scenes, there are houses or buildings near the water. The movement is mainly the expanding clouds and smoke from the eruptions.AUDIO: There's a male voice speaking over music. He says something like \"and that didn't change our orbit so why would this time be different\" and then mentions \"the strongest forces.\" It seems like he might be explaining something related to orbits and forces.If you have any other thoughts about the video or want to discuss it further, feel free to let me know!"
+          "query": "**Visual:** The video shows a series of four different scenes, each with a colorful, cartoonish style. The first scene has a pink mushroom cloud over a desert landscape. The second shows a blue mushroom cloud over a green area with mountains. The third features a gray mushroom cloud over a blue ocean. The fourth displays a red mushroom cloud over a purple landscape. Each scene has a simple, flat design with bold colors and minimal details.\n\n**Audio:** There is a male voice speaking in English. The speech is clear and the tone seems to be informative or explanatory. The content of the speech is not fully transcribed here, but it appears to be discussing something related to orbits and forces."
         },
         {
           "segment_index": 2,
           "time_range": "299.0s - 305.0s",
-          "query": "VISUAL: The video shows four different scenes. In one scene, there's a road with a car on it against a purple sky. Another has a volcano erupting with lava flowing down its sides, surrounded by small houses. A third scene depicts smoke rising from buildings that look like they're on fire. And the last one shows palm trees being battered by waves under a dark blue sky with rain falling. All these scenes have bright, vivid colors.AUDIO: There's a man speaking over some background music. He says \"humanity can unleash our laughable compared to the forces of nature the planet is too big.\" It seems like he might be making a point about how humans are insignificant when faced with natural disasters.What do you think about the message in the audio? Do you agree or disagree?"
+          "query": "**Visual:** The video shows four different scenes. In the top left, there's a road with a car driving on it, set against a colorful landscape with mountains and a purple sky. The top right scene features a volcano erupting, with lava flowing down its sides and a dark, stormy sky above. The bottom left scene depicts a rainy environment with houses and palm trees, and dark clouds in the sky. The bottom right scene shows a beach with waves crashing onto the shore, palm trees, and a bright blue sky.\n\n**Audio:** There is a voiceover saying, \"humanity can unleash our laughable compared to the forces of nature the planet is too big.\" The voice is calm and measured, and there are no other sound effects or music in the audio."
         },
         {
           "segment_index": 3,
           "time_range": "305.0s - 311.0s",
-          "query": "VISUAL: The video shows four different scenes. In one scene, there's a road with some buildings on either side. Another has a volcano erupting with lava flowing down its sides. There's also a scene with houses surrounded by dark clouds, and another showing a beach with palm trees and waves crashing onto the shore.AUDIO: There's a male voice speaking throughout the video, saying \"it doesn't care so what happens to us if we detonate a nuclear weapon really deep in the ocean.\" The background is mostly filled with music."
+          "query": "Visually, the video shows a colorful, cartoonish scene. There are various objects like a rainbow, a volcano, and some buildings. The colors are bright and vibrant, with a lot of blues, greens, and purples. The movement seems to be mostly static, with the objects just sitting there. There are no people or animals in the scene. The overall look is very playful and whimsical.Audience: The audio is mostly speech. It's a man speaking in a calm, measured tone. There are no other sounds like music or sound effects. The speech is the main focus of the audio."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 375.38365268707275
+      "processing_time": 288.4472198486328
     },
     {
-      "comment_index": 3575,
+      "comment_index": 1005,
       "video_id": "9tbxDgcv74c",
       "comment": "Anyone else notice the Pineapple under the sea at 4:20? SPONGE BOB!!! NOOOOOOOOOOOOOOO!!",
       "language": "en",
@@ -170,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "251.0s - 257.0s",
-          "query": "VISUAL: The video shows an illustration of two plates, the Mariana Plate and Pacific Plate. There's a diagram showing how they interact at their boundaries. One plate is pushing under the other, creating a trench. The colors used are bright and distinct for different layers within the plates.AUDIO: A man speaks about detonating a bomb in the trench where tectonic plates meet. His voice is clear and he seems to be explaining something important.If you have any more questions or want to discuss this further, feel free to let me know!"
+          "query": "Visually, the video shows a colorful diagram of tectonic plates. There are two main plates labeled \"Mariana Plate\" and \"Pacific Plate.\" The Mariana Plate is on the left, and the Pacific Plate is on the right. The diagram includes a trench area between the two plates. The colors are bright and varied, with different shades representing different layers or types of rock. There's no movement or action in the diagram itself, just a static representation of the plates and trench.\n\nAudio-wise, there's a male voice speaking. The speech is in English and seems to be explaining something related to the diagram, possibly about tectonic plates and their interactions. There are no other sounds like music or sound effects."
         },
         {
           "segment_index": 2,
           "time_range": "257.0s - 263.0s",
-          "query": "VISUAL: The video shows an underwater scene with colorful coral reefs and fish swimming around. There's also a view of mountains or hills in the distance. The colors are bright and vibrant.AUDIO: There is some kind of narration or explanation being given during these six seconds. It seems to be related to something about an explosion and its effects on the sea floor and surrounding areas.If you want to know more about this video or have other questions, feel free to ask!"
+          "query": "Oh, okay! So, visually, it looks like an underwater scene with colorful coral reefs and some fish swimming around. There's also a bit of a mountainous area visible. The colors are really bright and vivid, like oranges, pinks, and blues. As for the audio, there s just background music playing without any specific lyrics or dialogue. What do you think about that?"
         },
         {
           "segment_index": 3,
           "time_range": "263.0s - 269.0s",
-          "query": "VISUAL: The video shows an abstract landscape with colorful mountains in warm tones like orange and red against a teal sky. There's also a blue area that seems to represent water, with some white dots scattered around it. It then transitions to a map showing plate boundaries on land and underwater areas. The colors here are more muted compared to the first scene.AUDIO: There is a man speaking throughout the video. He says \"sand into glass but most of the energy goes into the water not seismic waves earthquakes.\" It sounds like he might be explaining something related to geology or natural phenomena.If you have any other thoughts about this video or want to discuss further, feel free to let me know!"
+          "query": "Visually, the video shows a colorful, abstract landscape. There are various shapes and colors like orange, red, and blue, with some areas resembling mountains or hills. The colors are vibrant and there's a sense of movement in the way the shapes and colors blend and shift.\n\nIn terms of audio, there's a man speaking. He seems to be explaining something, possibly related to the visuals. The speech is clear and the tone suggests he's providing information or narration."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 294.0529808998108
+      "processing_time": 243.32260417938232
     },
     {
-      "comment_index": 3576,
+      "comment_index": 1006,
       "video_id": "9tbxDgcv74c",
       "comment": "Y'all be talking about spongebob's pineapple or a godzilla in the video  But there's a frickin sharknado @ 5:05",
       "language": "en",
@@ -200,174 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "296.0s - 302.0s",
-          "query": "VISUAL: The video shows four different scenes with colorful illustrations. In one scene, there's an explosion with a pink mushroom cloud over orange hills. Another has a blue mushroom cloud over green hills. A third features a purple mushroom cloud over yellow hills. And the last one is a red mushroom cloud over purple hills. Then it transitions to show a bridge over a road, a volcano erupting near houses, smoke rising from buildings, and a stormy sea with palm trees. The colors are bright and cartoon - like.AUDIO: There's some kind of narration or speech in the background, but I can't make out the exact words. It seems to be in English though.If you want me to analyze more about this video or have any other questions, feel free to ask!"
+          "query": "Visually, the video shows four different scenes. In the top left, there's a road with a car driving on it, surrounded by green hills and a blue sky. The top right scene has a volcano erupting with lava flowing down its sides, and there are some small buildings nearby. The bottom left scene depicts a rainy day with houses and trees, and the sky is dark and stormy. The bottom right scene shows a beach with palm trees and a bright blue sky.\n\nAudio: There's a voiceover saying \"the strongest forces humanity can unleash are lovable compared to the.\" The voice is calm and measured."
         },
         {
           "segment_index": 2,
           "time_range": "302.0s - 308.0s",
-          "query": "VISUAL: The video shows four different scenes. In one scene, there's a road with a bridge over it, some green hills, and colorful houses. Another has a volcano erupting with lava flowing down its sides, surrounded by more houses. A third scene depicts a town with dark clouds above and lightning flashing. The last scene is an island with palm trees, a volcano erupting nearby, and rain falling.The colors are bright and cartoon - like. There's movement in all the scenes, like the lava flowing, the lightning, and the rain falling.AUDIO: There's a man speaking throughout the video. He says \"The forces of nature the planet is too big it doesn't care so what happens to.\" The tone seems somewhat serious or concerned.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Visually, the video shows a series of colorful, cartoonish scenes. There are houses, a volcano erupting, a road, and some water with a green creature. The colors are bright and varied, like purples, blues, greens, and oranges. The scenes seem to be in different environments, like a desert, a rainy area, and a more normal landscape. There's also a large, dark cloud in one of the scenes. The movement is mostly static, with the volcano erupting and the water rippling.\n\nAudio - There's a voiceover in the audio, but it's difficult to make out the exact words. It seems to be talking about \"the forces of nature\" and something about a planet being too big. The tone is somewhat serious, but the words are hard to understand clearly."
         },
         {
           "segment_index": 3,
           "time_range": "308.0s - 314.0s",
-          "query": "VISUAL: The video shows an animated scene with a blue ocean surface. There's a sun in the sky above it. Then, a small object appears to be dropped into the water, creating ripples. After that, the view changes to show a globe floating in space, surrounded by stars.AUDIO: There is some kind of narration or explanation being given throughout the video. It seems like someone is talking about something related to the visuals, possibly explaining the scenario depicted in the animation."
+          "query": "Visual: The video shows a stylized, cartoonish depiction of Earth from space. The planet is mostly blue, representing the oceans, with some landmasses in green and brown. There's a bright sun in the upper right corner, and the background is a dark blue, dotted with white stars. The Earth rotates slowly, giving a sense of movement.\n\nAudio: There's a male voice speaking in English. The speech is clear and seems to be explaining something, but the exact content isn't provided. There's also background music that plays throughout the video, adding to the overall atmosphere."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 365.3122446537018
+      "processing_time": 279.22913432121277
     },
     {
-      "comment_index": 3577,
-      "video_id": "9tbxDgcv74c",
-      "comment": "Here Are Some Easter Eggs! Spongebob's House: 4:18 Tardis: 4:18 Godzilla: 4:02 Sharknado: 5:00 Loch Ness Monster: 1:28 Prometheus Shapeship: 1:28 Dog In Space: 5:52 Lich (forgot): 3:27",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 493.0,
-      "comment_timestamp": 352.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "343.0s - 349.0s",
-          "query": "VISUAL: There's an animated scene with colorful birds on a purple background. A laptop is shown displaying a video with a pink character. The birds seem to be interacting with the laptop.AUDIO: Someone is speaking about getting a nice avatar and helping make more and better videos. It seems like they're promoting something related to the video content. So, what do you think about this kind of promotion?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "349.0s - 355.0s",
-          "query": "VISUAL: There's an animated scene with colorful birds around a laptop showing a video on its screen. The background is purple. Then it switches to space with two astronauts floating near Earth. The space has stars and a dark blue color.AUDIO: There's some kind of sound effect that plays throughout the whole clip, like a whoosh or swoosh sound. It doesn't seem to be any speech or music.If you have more questions about this video or anything else, feel free to ask!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "355.0s - 361.0s",
-          "query": "VISUAL: There's an animated scene with two characters floating in space near Earth. One character is on the left side, looking like a penguin in a spacesuit, and the other one is on the right, resembling a dog also in a spacesuit. The Earth is in the center, glowing blue and green. The background is dark blue filled with small white dots representing stars.AUDIO: There's some kind of soft, dreamy music playing throughout the 6 seconds. No specific speech or sound effects are heard.If you want to talk more about this video or have any other questions, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 285.70637035369873
-    },
-    {
-      "comment_index": 3578,
-      "video_id": "9tbxDgcv74c",
-      "comment": "4:18 who lives a pineapple under the sea?!  Oh, he's dead.",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 429.0,
-      "comment_timestamp": 258.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "249.0s - 255.0s",
-          "query": "VISUAL: The video shows an animated map highlighting the Mariana Trench with colorful lines indicating plate boundaries. There's also a cross - section view of two plates, one labeled \"Mariana Plate\" and the other \"Pacific Plate.\" The animation seems to show tectonic activity like earthquakes and volcanic eruptions.AUDIO: There is some kind of narration or explanation about the Mariana Trench and its relation to earthquakes and volcanoes. It mentions something about detonating a bomb in the trench. The overall tone suggests it might be educational or informative.If you have any more questions about this video or anything else, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "255.0s - 261.0s",
-          "query": "VISUAL: The video shows an illustration of two tectonic plates - the Mariana Plate and Pacific Plate. They're depicted with different layers and textures. Then it transitions to an underwater scene with colorful corals and fish swimming around. There's also some text on the screen about tectonic plates touching and an explosion possibly happening there.AUDIO: There's a man speaking throughout the video. He seems to be explaining something related to tectonic plates and an explosion. The background has some soft music playing."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "261.0s - 267.0s",
-          "query": "VISUAL: The video shows an abstract landscape with colorful, wavy shapes that look like mountains or hills. There's a bright turquoise sky above them. As it progresses, there's a split - one side continues with the same scene while the other side shows a dark blue area with some kind of patterned texture and a small yellow light at the bottom right corner.AUDIO: There is a man speaking throughout the video. He seems to be explaining something about the sea floor and sand turning into glass, mentioning that most energy goes into the water rather than sand. It has a somewhat educational tone.If you have any thoughts on this or want to discuss more about it, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 314.3700213432312
-    },
-    {
-      "comment_index": 3579,
-      "video_id": "9tbxDgcv74c",
-      "comment": "4:19 Who lives in a pineapple under the sea? Spongebob Squarepants! Absorbant and yellow and vaporized is he! S P O N G E B O B    S Q U A R E P A N T S",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 354.0,
-      "comment_timestamp": 259.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "250.0s - 256.0s",
-          "query": "VISUAL: The video shows an animated map with a route marked on it. There's also a diagram of two plates, the Mariana Plate and Pacific Plate, interacting at their edges. The colors are bright and cartoon - like.AUDIO: Someone is speaking about detonating a bomb in a trench at a specific point. It seems to be related to some kind of scientific or geological discussion.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "256.0s - 262.0s",
-          "query": "VISUAL: The video shows an underwater scene with colorful coral reefs and fish swimming around. There's also some kind of land or mountainous area visible. The colors are bright and vibrant.AUDIO: There's a man speaking over the visuals, and it seems like there might be some background music too. It could be a narration about tectonic plates or something related to the underwater environment.What do you think about the video? Do you have any other questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "262.0s - 268.0s",
-          "query": "VISUAL: The video shows an abstract landscape with colorful mountains in shades of orange, red, and purple against a teal sky. There's some sort of movement or animation on the mountains, like small lines or shapes. Then it splits into two sides - one side keeps the mountain scene, while the other side shows a blue area with a yellow sun-like shape at the bottom right corner.AUDIO: There's a man speaking about turning sand into glass and how most energy goes into water rather than seismic waves. It seems to be an explanatory voiceover.If you have any thoughts or questions about this analysis, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 253.3346824645996
-    },
-    {
-      "comment_index": 3580,
-      "video_id": "9tbxDgcv74c",
-      "comment": "4:19 Who lives in a pineapple under the sea?",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 339.0,
-      "comment_timestamp": 259.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "250.0s - 256.0s",
-          "query": "VISUAL: The video shows an animated map with a route marked on it. There's also a diagram of two plates, the Mariana Plate and Pacific Plate, interacting at their edges. The colors are bright and cartoon - like.AUDIO: Someone is speaking about detonating a bomb in a trench at a specific point. It seems to be related to some kind of scientific or geological discussion.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "256.0s - 262.0s",
-          "query": "VISUAL: The video shows an underwater scene with colorful coral reefs and fish swimming around. There's also some kind of land or mountainous area visible. The colors are bright and vibrant.AUDIO: There's a man speaking over the visuals, and it seems like there might be some background music too. It could be a narration about tectonic plates or something related to the underwater environment.What do you think about the video? Do you have any other questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "262.0s - 268.0s",
-          "query": "VISUAL: The video shows an abstract landscape with colorful mountains in shades of orange, red, and purple against a teal sky. There's some sort of movement or animation on the mountains, like small lines or shapes. Then it splits into two sides - one side keeps the mountain scene, while the other side shows a blue area with a yellow sun-like shape at the bottom right corner.AUDIO: There's a man speaking about turning sand into glass and how most energy goes into water rather than seismic waves. It seems to be an explanatory voiceover.If you have any thoughts or questions about this analysis, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 261.34135484695435
-    },
-    {
-      "comment_index": 3581,
-      "video_id": "9tbxDgcv74c",
-      "comment": "4:18 ohhhhhh who lives in a pineapple under the BOOOOOOOOOM",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 304.0,
-      "comment_timestamp": 258.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "249.0s - 255.0s",
-          "query": "VISUAL: The video shows an animated map highlighting the Mariana Trench with colorful lines indicating plate boundaries. There's also a cross - section view of two plates, one labeled \"Mariana Plate\" and the other \"Pacific Plate.\" The animation seems to show tectonic activity like earthquakes and volcanic eruptions.AUDIO: There is some kind of narration or explanation about the Mariana Trench and its relation to earthquakes and volcanoes. It mentions something about detonating a bomb in the trench. The overall tone suggests it might be educational or informative.If you have any more questions about this video or anything else, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "255.0s - 261.0s",
-          "query": "VISUAL: The video shows an illustration of two tectonic plates - the Mariana Plate and Pacific Plate. They're depicted with different layers and textures. Then it transitions to an underwater scene with colorful corals and fish swimming around. There's also some text on the screen about tectonic plates touching and an explosion possibly happening there.AUDIO: There's a man speaking throughout the video. He seems to be explaining something related to tectonic plates and an explosion. The background has some soft music playing."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "261.0s - 267.0s",
-          "query": "VISUAL: The video shows an abstract landscape with colorful, wavy shapes that look like mountains or hills. There's a bright turquoise sky above them. As it progresses, there's a split - one side continues with the same scene while the other side shows a dark blue area with some kind of patterned texture and a small yellow light at the bottom right corner.AUDIO: There is a man speaking throughout the video. He seems to be explaining something about the sea floor and sand turning into glass, mentioning that most energy goes into the water rather than sand. It has a somewhat educational tone.If you have any thoughts on this or want to discuss more about it, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 309.65310430526733
-    },
-    {
-      "comment_index": 3582,
+      "comment_index": 1007,
       "video_id": "9tbxDgcv74c",
       "comment": "0:56 a legend was born",
       "language": "en",
@@ -380,24 +199,54 @@
         {
           "segment_index": 1,
           "time_range": "47.0s - 53.0s",
-          "query": "VISUAL: There's an animated underwater scene with a colorful, glowing robot-like creature floating. It has a round head with eyes and some lights on it. The background is dark purple, suggesting deep water. There are also some coral formations and another similar creature in the distance.AUDIO: There's a voiceover saying \"Pitch black and under a thousand atmospheres of pressure it's a relatively pristine environment.\" The tone seems calm and descriptive.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, it seems like there's a colorful, abstract object or shape moving against a dark background. It has different colors like red, blue, and yellow, and it's kind of floating or drifting around. There aren't any people or other distinct objects in the scene. The movement is smooth and continuous, like it's being pulled or pushed by some force.Audibly, there's a voiceover that starts with \"pitch black and under a thousand atmospheres of pressure it's a relatively pristine environment.\" The voice is calm and measured, and there's no other sound effect or music in the audio."
         },
         {
           "segment_index": 2,
           "time_range": "53.0s - 59.0s",
-          "query": "VISUAL: There's an underwater scene with a submarine-like vehicle with lights on it. It has a face on its front. There are also some fish and coral around. The background is dark purple. The movement seems to be the vehicle moving forward.AUDIO: A man is speaking about how the absence of humans makes a place great for nuclear tests. There's no other sound effect or music. So, what do you think about this? Do you have any other videos you want me to analyze?"
+          "query": "Visually, the video shows a colorful, animated scene. There are various abstract shapes and objects, like a blue and yellow cloud-like figure with a face, and some orange and red shapes that seem to be moving or floating. The background is dark with some glowing elements, giving it a sort of otherworldly feel. The colors are bright and vibrant, with lots of neon-like hues.Audibly, there's a voiceover in the background. The voice is calm and neutral, and it seems to be saying something like \"thanks to the absence of humans, a great place for our nuclear test.\" The voice is clear and easy to understand, and there are no other distinct sounds or music in the audio."
         },
         {
           "segment_index": 3,
           "time_range": "59.0s - 65.0s",
-          "query": "VISUAL: There's an underwater scene with some kind of submarine or space - like vehicle floating around. It has bright lights on it. Then there's a bar graph showing the TNT equivalent energy of nuclear bombs, comparing \"Little Boy\" and \"Fat Man\". The bars are different colors and sizes to represent their relative power.AUDIO: A man is speaking about using the most powerful nuclear bomb humans have ever exploded, the RDS-220 hydrogen bomb. He seems to be explaining something related to the power of these bombs.If you want to talk more about this video or anything else, feel free to let me know!"
+          "query": "I'm sorry, but I can't analyze the video segment you mentioned. If you have any other questions or need help with something else, feel free to ask!"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 278.23332953453064
+      "processing_time": 298.61899065971375
     },
     {
-      "comment_index": 3583,
+      "comment_index": 1008,
+      "video_id": "9tbxDgcv74c",
+      "comment": "5:00 sharknado",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 286.0,
+      "comment_timestamp": 300.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "291.0s - 297.0s",
+          "query": "Visually, the video shows four different scenes of a mushroom cloud explosion. Each scene has a different background color and landscape. The first one has a yellow-orange background with mountains. The second has a green background with a body of water. The third has a blue background with a body of water. The fourth has a purple background with mountains. The mushroom clouds are in different colors too, like pink, blue, and red. There are no people or other objects in the scenes, just the explosions and the landscapes.\n\nAudio-wise, there's a voiceover saying, \"nuclear tests in the last 70 years and that didn't change our orbit so why would this time be different.\" The voice is calm and neutral. There's no music or sound effects, just the speech."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "297.0s - 303.0s",
+          "query": "**Visual:** The video shows a series of four different scenes. The first scene has a purple sky with a road and some buildings. The second scene features a red sky with a volcano erupting and houses nearby. The third scene depicts a blue sky with rain and palm trees. The fourth scene shows a green landscape with a river and some buildings. There are no people or animals visible in any of the scenes.\n\n**Audio:** The audio includes a voiceover saying, \"The strongest forces humanity can unleash are laughable compared to the forces of nature.\" The voiceover is in English and is the only sound in the video."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "303.0s - 309.0s",
+          "query": "Visually, the video shows a series of four different scenes. In the first scene, there's a road with a bridge and some buildings. The second scene has a volcano erupting. The third scene depicts a rainy environment with a house and some plants. The fourth scene shows a planet with a bright sun in the sky. The colors are bright and vivid, with lots of purples, blues, greens, and oranges. There's no clear movement or action in the scenes, just static images.\n\nAudio - There's a voiceover saying \"The planet is too big it doesn't care.\" The voice is calm and neutral. There's also background music playing throughout the video."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 326.68425726890564
+    },
+    {
+      "comment_index": 1009,
       "video_id": "9tbxDgcv74c",
       "comment": "0:50  \"It's a relatively pristine environment. Thanks to the absence of human\"  So accurate",
       "language": "en",
@@ -410,24 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "41.0s - 47.0s",
-          "query": "VISUAL: There's an illustration showing different depths on Earth compared to sea level. It has labels like Titanic at 3.75 km below sea level, Mount Everest at 8.8 km above sea level, and Mariana Trench at 11 km below sea level. The background is blue for water and purple for land.AUDIO: A man speaks about the \"dark grave of the Titanic\" being one of the last places on earth for humans to explore. There's no other sound except his voice.If you have any more questions or want to discuss something else related to this, feel free to let me know!"
+          "query": "Visually, the video shows a diagram with different geographical features. There are labels like \"Sea Level,\" \"Titanic,\" \"Mount Everest,\" and \"Mariana Trench.\" The colors are mainly shades of blue and purple, with some darker areas representing depth or shadow. The diagram seems to illustrate the relative depths of these locations.\n\nAudio-wise, there's a male voice speaking. The speech is in English and discusses the Titanic, mentioning it as one of the last places on Earth for humans to explore."
         },
         {
           "segment_index": 2,
           "time_range": "47.0s - 53.0s",
-          "query": "VISUAL: There's an animated underwater scene with a colorful, glowing robot-like creature floating. It has a round head with eyes and some lights on it. The background is dark purple, suggesting deep water. There are also some coral formations and another similar creature in the distance.AUDIO: There's a voiceover saying \"Pitch black and under a thousand atmospheres of pressure it's a relatively pristine environment.\" The tone seems calm and descriptive.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, it seems like there's a colorful, abstract object or shape moving against a dark background. It has different colors like red, blue, and yellow, and it's kind of floating or drifting around. There aren't any people or other distinct objects in the scene. The movement is smooth and continuous, like it's being pulled or pushed by some force.Audibly, there's a voiceover that starts with \"pitch black and under a thousand atmospheres of pressure it's a relatively pristine environment.\" The voice is calm and measured, and there's no other sound effect or music in the audio."
         },
         {
           "segment_index": 3,
           "time_range": "53.0s - 59.0s",
-          "query": "VISUAL: There's an underwater scene with a submarine-like vehicle with lights on it. It has a face on its front. There are also some fish and coral around. The background is dark purple. The movement seems to be the vehicle moving forward.AUDIO: A man is speaking about how the absence of humans makes a place great for nuclear tests. There's no other sound effect or music. So, what do you think about this? Do you have any other videos you want me to analyze?"
+          "query": "Visually, the video shows a colorful, animated scene. There are various abstract shapes and objects, like a blue and yellow cloud-like figure with a face, and some orange and red shapes that seem to be moving or floating. The background is dark with some glowing elements, giving it a sort of otherworldly feel. The colors are bright and vibrant, with lots of neon-like hues.Audibly, there's a voiceover in the background. The voice is calm and neutral, and it seems to be saying something like \"thanks to the absence of humans, a great place for our nuclear test.\" The voice is clear and easy to understand, and there are no other distinct sounds or music in the audio."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 279.50773334503174
+      "processing_time": 342.5678668022156
     },
     {
-      "comment_index": 3584,
+      "comment_index": 1010,
       "video_id": "9tbxDgcv74c",
       "comment": "2:07  That octopus is having none of your death bs",
       "language": "en",
@@ -440,84 +289,24 @@
         {
           "segment_index": 1,
           "time_range": "118.0s - 124.0s",
-          "query": "VISUAL: There's an underwater scene with colorful coral reefs and some fish swimming around. The background is a light blue-green color. There's also a large, round object that looks like it might be a sun or moon floating above the water.AUDIO: I can't really tell what's being said in the speech part because there isn't any. But there is some kind of music playing in the background.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Visually, the video shows a colorful underwater scene. There are various shapes and colors, like orange and purple, with some floating objects that look like bubbles or coral. There's also a large, light green circle in the background that seems to be a moon or a large rock. The movement is mainly of these floating objects, giving a sense of underwater flow.Audibly, there's a sound effect that resembles an explosion, followed by a description of the heat and the production of a cavity and a flaming bubble of water vapor. It sounds like a dramatic, possibly science - fiction - inspired scene."
         },
         {
           "segment_index": 2,
           "time_range": "124.0s - 130.0s",
-          "query": "VISUAL: There's an underwater scene with colorful coral reefs at the bottom. A large, glowing yellow bubble is rising up from the sea floor. As it rises, some jellyfish can be seen floating around. The background has a light blue color, giving a sense of being deep underwater.AUDIO: There's a man speaking over the visuals. He says \"radioactive nuclei and the remains of very unlucky fish the bubble grows quickly.\" It seems like he might be narrating or explaining something related to the visuals.What do you think about this? Do you have any other questions regarding the video?"
+          "query": "Visually, the video shows a colorful underwater scene. There are various sea creatures like jellyfish and a small fish. The background has a light blue-green color, and there are some coral-like structures. The sun is shining brightly in the sky, creating a warm glow. The objects are moving around, giving a sense of life in the underwater world. The colors are vibrant, with lots of greens, blues, and yellows.Audibly, there is a man speaking in the background. His voice is clear and he seems to be explaining something. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "130.0s - 136.0s",
-          "query": "VISUAL: There's an underwater scene with colorful coral reefs on either side. A jellyfish is floating near one of the reefs. The water has a gradient from light blue at the top to darker shades below. There's also a rainbow-like structure in the foreground. The camera moves forward towards it.AUDIO: There's some kind of narration or explanation about vaporizing water and immense pressure related to bubbles. It seems like scientific information being presented. What do you think about this? Do you have any other questions regarding the video?"
+          "query": "Well, I'm not sure if there's actually any content to analyze here. The text doesn't seem to describe anything related to a video or its audio. It just looks like some random words that don't form a coherent description. So, it seems like there might be an error or something missing. If you have more details about the video or audio, feel free to share!"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 265.8956084251404
+      "processing_time": 232.42148542404175
     },
     {
-      "comment_index": 3585,
-      "video_id": "9tbxDgcv74c",
-      "comment": "“We gathered all tiktokers in one house!” 0:56",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 225.0,
-      "comment_timestamp": 56.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "47.0s - 53.0s",
-          "query": "VISUAL: There's an animated underwater scene with a colorful, glowing robot-like creature floating. It has a round head with eyes and some lights on it. The background is dark purple, suggesting deep water. There are also some coral formations and another similar creature in the distance.AUDIO: There's a voiceover saying \"Pitch black and under a thousand atmospheres of pressure it's a relatively pristine environment.\" The tone seems calm and descriptive.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "53.0s - 59.0s",
-          "query": "VISUAL: There's an underwater scene with a submarine-like vehicle with lights on it. It has a face on its front. There are also some fish and coral around. The background is dark purple. The movement seems to be the vehicle moving forward.AUDIO: A man is speaking about how the absence of humans makes a place great for nuclear tests. There's no other sound effect or music. So, what do you think about this? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "59.0s - 65.0s",
-          "query": "VISUAL: There's an underwater scene with some kind of submarine or space - like vehicle floating around. It has bright lights on it. Then there's a bar graph showing the TNT equivalent energy of nuclear bombs, comparing \"Little Boy\" and \"Fat Man\". The bars are different colors and sizes to represent their relative power.AUDIO: A man is speaking about using the most powerful nuclear bomb humans have ever exploded, the RDS-220 hydrogen bomb. He seems to be explaining something related to the power of these bombs.If you want to talk more about this video or anything else, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 282.90957951545715
-    },
-    {
-      "comment_index": 3586,
-      "video_id": "9tbxDgcv74c",
-      "comment": "5:00 ah yes, the power of tsar bomba is laughable compared to natural disasters like volcanos, hurricanes, and bad movies",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 224.0,
-      "comment_timestamp": 300.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "291.0s - 297.0s",
-          "query": "VISUAL: The video shows four different scenes with colorful backgrounds. Each scene has an explosion happening at the center. There's a cloud-like shape above the explosion. The first two scenes have orange clouds, one on land and one over water. The next two have purple clouds, one on land and one over mountains.The background colors change from warm to cool tones. The explosions seem to be getting bigger and more intense as they progress.AUDIO: There is a voiceover saying \"nuclear tests in the last seventy years and that didn't change our orbit so why would this time be different.\" It's a calm male voice. There's no other sound effect or music in the audio.If you want to talk more about this video or anything else related, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "297.0s - 303.0s",
-          "query": "VISUAL: The video shows four different scenes. In one scene, there's a bridge over a road with houses nearby. Another has a volcano erupting near some houses. A third depicts a rainy scene with houses and palm trees. And the last one shows a house surrounded by water. All these scenes have bright, colorful backgrounds.AUDIO: There's a man speaking about how the strongest forces humanity can unleash are laughable compared to nature's forces. There's also background music playing throughout.If you want to talk more about this or have other questions, feel free to let me know."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "303.0s - 309.0s",
-          "query": "VISUAL: The video shows four different scenes. In one scene, there's a road with a bridge over an orange river. Another has a volcano erupting near some houses. A third depicts a town with dark smoke rising from it. And the last shows a beach with palm trees and waves crashing onto the shore.AUDIO: There's a man speaking throughout the video. He says \"the planet is too big it doesn't care so\" twice. There's also background music playing.If you want to talk more about this or have other questions, feel free to let me know."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 409.3598282337189
-    },
-    {
-      "comment_index": 3587,
+      "comment_index": 1011,
       "video_id": "9tbxDgcv74c",
       "comment": "0:01 the duolingo bird is still stalking me",
       "language": "en",
@@ -530,81 +319,291 @@
         {
           "segment_index": 1,
           "time_range": "0.0s - 0.0s",
-          "query": "VISUAL: There's an animated scene with a boat on water at night. A blue bird is flying around it. The background has purple buildings and hills. The boat has some colorful details like yellow railings and a red cabin.AUDIO: I can't really tell what's being said or if there's any music or sound effects. It seems pretty quiet overall.What do you think about that? Do you have any other questions related to this?"
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 2,
           "time_range": "0.0s - 4.0s",
-          "query": "VISUAL: The video starts with an abstract background of vertical lines and dots in blue shades. Then it shows a person underwater holding a device connected to a cable. There's some coral around them. Next, there's a cityscape with colorful buildings at night. A wave is shown crashing over the city, causing destruction.AUDIO: There's a man speaking throughout the video. He says \"weapon at the deepest point of the ocean for sure tsunamis hundreds of metres high would\". It seems like he's talking about the potential impact of a nuclear weapon dropped deep in the ocean on tsunamis.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Well, I'm not sure what you mean by \"designated\" in this context. Could you clarify what you're asking? Maybe give me a bit more information about what you want to know?"
         },
         {
           "segment_index": 3,
           "time_range": "4.0s - 10.0s",
-          "query": "VISUAL: The video starts with a colorful cityscape at night, buildings lit up in various bright colors like blue, pink, purple, and yellow. There's a body of water in front with a boat on it. Then it cuts to a scene with a red bird character standing next to a computer monitor showing a downward graph. Behind it, there are cars and debris scattered around, suggesting destruction. Finally, we see an erupting volcano with lava flowing down its sides and dark smoke rising into the sky.AUDIO: There is some kind of narration or explanation playing over the visuals, but I can't make out the exact words from just listening to the audio. It seems to be related to the events shown in the video.If you have any other thoughts about this video or want to discuss more, feel free to let me know!"
+          "query": "**Visual:** The video shows a stylized, animated scene. There's a large, futuristic-looking ship or structure with a glowing orange flame-like element on top. The background is a deep blue, suggesting an underwater or space-like environment. There are also some coral-like structures and what looks like a cityscape in the distance. The overall color scheme is dominated by blues and purples, with bright highlights on the ship and flame.\n\n**Audio:** The audio features a male voice speaking. The speech is clear and seems to be in English. The tone is informative, likely explaining something related to the visuals."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 339.48145294189453
+      "processing_time": 299.70110392570496
     },
     {
-      "comment_index": 3588,
+      "comment_index": 1012,
       "video_id": "9tbxDgcv74c",
-      "comment": "3:27 The Lich from Adventure Time????? 4:18 Spongebob AND Doctor Who",
+      "comment": "Teacher: What did you learn this lesson?  Me: 5:12",
       "language": "en",
       "channel_name": "Kurzgesagt",
       "category": "knowledge",
-      "likes": 193.0,
+      "likes": 148.0,
+      "comment_timestamp": 312.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "303.0s - 309.0s",
+          "query": "Visually, the video shows a series of four different scenes. In the first scene, there's a road with a bridge and some buildings. The second scene has a volcano erupting. The third scene depicts a rainy environment with a house and some plants. The fourth scene shows a planet with a bright sun in the sky. The colors are bright and vivid, with lots of purples, blues, greens, and oranges. There's no clear movement or action in the scenes, just static images.\n\nAudio - There's a voiceover saying \"The planet is too big it doesn't care.\" The voice is calm and neutral. There's also background music playing throughout the video."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "309.0s - 315.0s",
+          "query": "Visually, the video shows a stylized, pixelated Earth floating in space. There are clouds and landmasses visible on the planet. The background is a dark blue, representing space, with stars scattered around. The sun is depicted as a bright yellow orb in the upper right corner of the frame. The overall color scheme is a mix of blues, greens, and yellows, giving it a somewhat retro, video game - like appearance. There's no movement of people or objects within the frame, just the static image of the Earth and its surroundings.Audibly, there is a male voice speaking in English. The speech is clear and the voice seems to be delivering some kind of narration or explanation. The tone of the voice is neutral, without any particular emotion conveyed. There are no other sound effects or music in the audio segment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "315.0s - 321.0s",
+          "query": "Visually, the video shows a cartoon bear looking through a telescope. There are also colorful birds in the background, some of which are flying. The colors are bright and vibrant, with a yellowish background. The bear seems to be observing the birds through the telescope.\n\nAudio - There's a voiceover saying \"Did you know that every bird in our videos has an owner more than 1,000 people.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 264.1234784126282
+    },
+    {
+      "comment_index": 1013,
+      "video_id": "9tbxDgcv74c",
+      "comment": "They totally put the lich at 3:27 for the unclear waste right?",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 127.0,
       "comment_timestamp": 207.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
           "time_range": "198.0s - 204.0s",
-          "query": "VISUAL: There's an abstract, glowing orb with multiple layers, mainly green and yellow. It has eyes on it. The background is dark blue or purple. There are also some white arrow-like shapes around the orb. As the video progresses, the orb starts to break apart into smaller pieces that float upwards.AUDIO: There's a male voice speaking over the sound of water gurgling and bubbling. He says something about water chopping up an object and it becoming like an underwater mushroom cloud as it disintegrates.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's a bright, colorful object in the center, surrounded by a swirling pattern. It has a green and yellow core, and the surrounding area is filled with various colors like purple and blue. There are also some small, green, bubble - like shapes floating around. The movement is mainly the swirling of the colors and the floating of the bubbles.Audibly, there's a man speaking in the background. The speech is clear and seems to be explaining something related to what's happening in the video."
         },
         {
           "segment_index": 2,
           "time_range": "204.0s - 210.0s",
-          "query": "VISUAL: There are some green, skull - shaped objects floating upwards against a blue background with wavy lines. They seem to be breaking into smaller pieces as they go up.AUDIO: There's a man speaking over the visuals. The speech is about something breaking into smaller bubbles that are hot and radioactive, drifting upwards. It also mentions \"our mighty destroyer\" which seems to be related to the action in the video.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Well, visually, it looks like there are these greenish skulls floating around in a blue background. There's also some kind of boat or ship-like object in the water. The movement seems pretty random, just the skulls drifting up and down. As for the audio, I can't really tell much because it's so short. It might be some kind of music or sound effect, but it's hard to say for sure.What do you think about it? Do you have any other ideas on what could be happening in that video?"
         },
         {
           "segment_index": 3,
           "time_range": "210.0s - 216.0s",
-          "query": "VISUAL: There's an underwater scene with a purple background that looks like wavy water. In the middle, there's some kind of structure or rock formation. Green and yellow bubbles are rising from it. On the right side, there's a small boat floating on the surface.AUDIO: A man is speaking over the visuals. He says something about a destructive blast rising to the surface doing basically nothing, just creating a small wave and a bit of smoke. It seems like he might be narrating or commenting on the video.What do you think about this video? Do you have any other questions related to it?"
+          "query": "Visual: The video shows a colorful, abstract scene. There are various shapes and colors, like green, yellow, and purple. It looks like there's some kind of explosion or blast happening, with bright colors and movement. There's also a small boat or ship-like object on the right side of the frame. The background has wavy patterns in blue and purple.\n\nAudio: There's no clear speech or music in the audio. Instead, there's a sound effect that resembles an explosion or blast. It's a loud, sudden noise that rises to the surface."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 280.0243811607361
+      "processing_time": 274.83942794799805
     },
     {
-      "comment_index": 3589,
+      "comment_index": 1014,
       "video_id": "9tbxDgcv74c",
-      "comment": "I saw spongebob’s house at 4:18! Edit: this is the most likes I’ve ever gotten on any post. Thank you all for the support!",
+      "comment": "4:02 I love the way Godzilla is coming out of nowhere 😂",
       "language": "en",
       "channel_name": "Kurzgesagt",
       "category": "knowledge",
-      "likes": 174.0,
-      "comment_timestamp": 258.0,
+      "likes": 73.0,
+      "comment_timestamp": 242.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "249.0s - 255.0s",
-          "query": "VISUAL: The video shows an animated map highlighting the Mariana Trench with colorful lines indicating plate boundaries. There's also a cross - section view of two plates, one labeled \"Mariana Plate\" and the other \"Pacific Plate.\" The animation seems to show tectonic activity like earthquakes and volcanic eruptions.AUDIO: There is some kind of narration or explanation about the Mariana Trench and its relation to earthquakes and volcanoes. It mentions something about detonating a bomb in the trench. The overall tone suggests it might be educational or informative.If you have any more questions about this video or anything else, feel free to ask!"
+          "time_range": "233.0s - 239.0s",
+          "query": "Well, visually, it's quite colorful! There are these big clouds with different shades like green, blue, and white. They're floating around on a purple background. And there are some arrows moving downwards too. As for the audio, hmm, I can't really tell much from just that short clip. It might be some kind of music or sound effect, but not sure exactly.What do you think about it? Do you have any other details to share?"
         },
         {
           "segment_index": 2,
-          "time_range": "255.0s - 261.0s",
-          "query": "VISUAL: The video shows an illustration of two tectonic plates - the Mariana Plate and Pacific Plate. They're depicted with different layers and textures. Then it transitions to an underwater scene with colorful corals and fish swimming around. There's also some text on the screen about tectonic plates touching and an explosion possibly happening there.AUDIO: There's a man speaking throughout the video. He seems to be explaining something related to tectonic plates and an explosion. The background has some soft music playing."
+          "time_range": "239.0s - 245.0s",
+          "query": "Visually, the video shows a colorful, stylized scene of a tropical landscape. There are palm trees, a beach, and a body of water. The sky is filled with variously colored clouds, and it seems to be raining. The colors are bright and vibrant, with a lot of greens, blues, and purples. There are no people or animals visible in the scene. The movement is mainly the rain falling and the clouds drifting.\n\nAudio-wise, there is a male voice speaking in English. The speech is about the Philippines and mentions something about wind and fallout. The tone of the voice is neutral, and there are no other sounds like music or sound effects."
         },
         {
           "segment_index": 3,
-          "time_range": "261.0s - 267.0s",
-          "query": "VISUAL: The video shows an abstract landscape with colorful, wavy shapes that look like mountains or hills. There's a bright turquoise sky above them. As it progresses, there's a split - one side continues with the same scene while the other side shows a dark blue area with some kind of patterned texture and a small yellow light at the bottom right corner.AUDIO: There is a man speaking throughout the video. He seems to be explaining something about the sea floor and sand turning into glass, mentioning that most energy goes into the water rather than sand. It has a somewhat educational tone.If you have any thoughts on this or want to discuss more about it, feel free to share!"
+          "time_range": "245.0s - 251.0s",
+          "query": "Visually, the video shows a colorful, cartoon - like map of the Mariana Trench. There are different sections, like a blue area representing the trench, orange and yellow areas possibly indicating landmasses or other geographical features. There are also some red dots and lines, which might be showing paths or connections. The overall style is very bright and playful, with bold colors and simple shapes. There are no people or moving objects in the video, just the static map with its various elements.Audibly, there's a voiceover that says \"but clearly the real danger comes from our explosion triggering earthquakes and volcanoes.\" The voice is calm and informative, and there's no other sound effect or music in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 320.4850203990936
+      "processing_time": 222.42746329307556
+    },
+    {
+      "comment_index": 1015,
+      "video_id": "9tbxDgcv74c",
+      "comment": "2:11: Legends say the octopus is still trying to escape the Shockwave",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 72.0,
+      "comment_timestamp": 131.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "122.0s - 128.0s",
+          "query": "**Visual:** The video shows a colorful, abstract scene. There's a large, glowing yellow circle in the center, surrounded by various shapes and colors. The background is a light teal or turquoise, and there are some orange and purple elements that seem to be floating or moving around. It gives off a dreamy, otherworldly vibe.\n\n**Audio:** There's no clear speech or music in the audio. It's mostly just a sound effect that could be described as a \"whoosh\" or \"swoosh\" noise, which might be related to the movement of the objects in the video."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "128.0s - 134.0s",
+          "query": "Visually, there's a colorful underwater scene. You can see jellyfish floating around, and a small, round creature with a pink top and brown bottom is swimming. The background has a gradient of blue and green, and there's a rainbow-like arc in the foreground. The movement is mainly the creature swimming and the jellyfish drifting.\n\nAudio - There's a sound effect that starts around 1.9 seconds. It sounds like a quick, sharp noise, maybe like a bubble popping or something similar."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "134.0s - 140.0s",
+          "query": "Oh, I'm sorry! But it seems like there's been an issue with the video loading or displaying correctly. Could you try refreshing the page or checking your internet connection? If that doesn't work, let me know if there's anything else I can assist you with!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 214.21501803398132
+    },
+    {
+      "comment_index": 1016,
+      "video_id": "9tbxDgcv74c",
+      "comment": "2:08 all I really want to know is whether or not that squid made it out safely",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 58.0,
+      "comment_timestamp": 128.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "119.0s - 125.0s",
+          "query": "Visually, the video shows a colorful underwater scene. There are various coral formations in shades of orange, purple, and blue. A large, glowing orb is floating in the water, and there are smaller bubbles and particles around it. The overall color palette is vibrant and has a dreamy, otherworldly feel.\n\nAudio - There is no distinct speech or music in the audio. The only sound is the sound of the explosion, which creates a loud, sudden noise."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "125.0s - 131.0s",
+          "query": "Well, in the visual part, it seems like there's a colorful underwater scene. There are some jellyfish floating around, and a little fish is swimming near a rainbow. The colors are really bright and vibrant, like greens, blues, and yellows. The movement is quite lively, with the jellyfish drifting and the fish swimming.The audio part is a bit tricky. There's some kind of sound effect that's playing, but it's not really clear what it is. It could be something like a water splash or a fish's sound. There's also a bit of a musical element in there, but it's not very distinct.So, what do you think about this video? Do you have any other thoughts or questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "131.0s - 137.0s",
+          "query": "Visually, the video shows a colorful, abstract scene. There are bright, swirling patterns of yellow, red, and blue. It looks like a mix of different colors blending together in a dynamic way. There are no clear objects or people, just these vibrant, moving colors.Audibly, there's a man speaking. The speech is clear and seems to be in English. The tone of his voice is neutral, and he's talking about something related to water and pressure, mentioning a bubble and its effects on the surrounding water."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 276.7115297317505
+    },
+    {
+      "comment_index": 1017,
+      "video_id": "9tbxDgcv74c",
+      "comment": "LET'S JUST TAKE A MOMENT TO REALISE THAT THE BIRD IN 1:40 KILLED ITSELF",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 56.0,
+      "comment_timestamp": 100.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "91.0s - 97.0s",
+          "query": "Sure! So, in the video, visually, there's a really colorful and abstract scene. You see a mix of bright colors like orange, purple, and pink. There are some shapes and patterns that seem to be floating or moving around. It's kind of like a dreamy, surreal landscape with no clear objects or people. The colors are really vivid and create a sense of movement.In terms of audio, there's a voiceover that says \"They could boil away an entire lake and if we set off a nuclear bomb in the Mariana Trench.\" The voice is calm and neutral, and there's no other sound effect or music. It's just the voice and the abstract visuals."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "97.0s - 103.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.15 GiB. GPU 1 has a total capacity of 23.56 GiB of which 2.75 GiB is free. Including non-PyTorch memory, this process has 20.80 GiB memory in use. Of the allocated memory 16.39 GiB is allocated by PyTorch, and 4.10 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "103.0s - 109.0s",
+          "query": "Visually, the video shows a split - screen. On the left side, there's a dark, almost black area labeled \"Bottom of Mariana Trench.\" On the right side, there are multiple small, colorful objects that look like stylized flowers or cells, in shades of pink, yellow, and orange, set against a purple background. There's no visible movement or action in the video, just these static images.Audibly, there's a sound effect that starts around 2.9 seconds into the video. It's a low - pitched, somewhat eerie noise, like a growl or a rumble. There's also a male voice speaking in English, but the content of the speech isn't clear from this short segment."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 313.6233308315277
+    },
+    {
+      "comment_index": 1018,
+      "video_id": "9tbxDgcv74c",
+      "comment": "4:04 who else saw godziller?",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 54.0,
+      "comment_timestamp": 244.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "235.0s - 241.0s",
+          "query": "Well, in the visual part, it looks like there's a simple, colorful animation. There are some clouds, a bit of a landscape, and it seems like it's showing a cycle, maybe of rain or something similar. The colors are bright and kind of cartoonish. In the audio part, there's a man speaking. He's talking about salt making it to the atmosphere, collecting, and then raining down again. It's like he's explaining a process. So, what do you think about this? Do you have any other questions?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "241.0s - 247.0s",
+          "query": "Visually, there's an illustration of a tropical scene with palm trees on sandy ground, blue water, and purple mountains in the background. The sky is filled with colorful clouds and raindrops falling down. There s also some text that says \"Philippines\" at the top left corner. In another part, it shows a map-like image with orange lines and a mountain shape. And then there s a landscape with green hills and blue water. Audio - It seems like there might be some kind of narration or explanation going on, but I can t really make out specific words from just listening to the short clip. What do you think about these observations?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "247.0s - 253.0s",
+          "query": "Visually, the video shows a colorful, cartoonish representation of the Mariana Trench. There are different sections, like a map of the trench area, a volcano, and a cross-section of the trench's geological layers. The colors are bright and varied, with blues, greens, and purples dominating. The volcano section has a red and orange color scheme, suggesting heat and activity. The map has a blue ocean with orange landmasses and a green dot indicating the trench's location. The cross-section shows different layers in various colors, like brown, blue, and purple, representing different materials and depths.\n\nAudio-wise, there's a male voice speaking in English. He says, \"danger comes from our explosion triggering earthquakes and volcanoes right even if we detonate.\" The tone is somewhat serious, but the overall audio quality seems a bit muffled."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 238.4665331840515
+    },
+    {
+      "comment_index": 1019,
+      "video_id": "9tbxDgcv74c",
+      "comment": "4:57 \"the strongest forces humanity can unleash are laughable compared to the forces of nature\"  Climate change: am i a joke to you",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 49.0,
+      "comment_timestamp": 297.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "288.0s - 294.0s",
+          "query": "**Visual:** The video shows a series of four different scenes. In the first scene, there's a desert landscape with a car driving on a road. The second scene depicts a mountainous area with a pink cloud in the sky. The third scene is a beach with a blue sky and some clouds. The fourth scene shows a purple landscape with a large cloud and a small structure. There are no people visible in any of the scenes. The colors are bright and vivid, and the scenes are static, with no movement within each one.\n\n**Audio:** The audio consists of a male voice speaking in English. The speech is clear and the voice is calm. There are no other sound effects or music in the audio."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "294.0s - 300.0s",
+          "query": "I'm sorry, but I can't view or analyze videos directly. However, if you describe the video to me, I can help you analyze it!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "300.0s - 306.0s",
+          "query": "Visually, the video shows four different scenes. In the top left, there's a purple sky with a road and some buildings. The top right has a volcano erupting with lava and smoke. The bottom left shows houses in a green area with a dark cloud looming. The bottom right has a blue sky with rain and some green plants. There are no people or animals visible in any of the scenes. The colors are bright and cartoonish. The movement is mostly static, with the volcano showing lava and smoke moving.\n\nAudio: There's a man speaking in the background, but the content of what he's saying isn't clear from the description. The overall tone seems to be a bit ominous due to the dark clouds and the erupting volcano."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 363.3328833580017
+    },
+    {
+      "comment_index": 1020,
+      "video_id": "9tbxDgcv74c",
+      "comment": "4:58 reference to sharknado XD",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 45.0,
+      "comment_timestamp": 298.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "289.0s - 295.0s",
+          "query": "Visually, the video shows four different scenes. Each scene has a distinct color scheme and landscape. The first scene is orange with a mountain in the background. The second is teal with a green hill. The third is purple with a blue sky and clouds. The fourth is light blue with a sandy beach and a small island. There are no people or moving objects in the scenes. The audio is a man speaking, but the content of his speech isn't clear from the description."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "295.0s - 301.0s",
+          "query": "Visually, the video shows four different scenes. In the top left, there's a pink mushroom cloud against a desert-like background. The top right has a blue mushroom cloud with a green landscape. The bottom left features a purple mushroom cloud with a cityscape. The bottom right shows an orange mushroom cloud with a beach scene. There are no people or actions in these scenes, just the mushroom clouds and their respective backdrops. The colors are bright and distinct, with each cloud having a different color and the backgrounds varying in color and setting.\n\nAudio - There's a voiceover saying \"So why would this time be different? The strongest forces humanity can unleash are.\" The voice is calm and measured, and there are no other sound effects or music in the audio."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "301.0s - 307.0s",
+          "query": "Visually, the video shows four different scenes. In the top left, there's a road with a car driving on it, set against a colorful landscape. The top right scene features a volcano erupting, with lava flowing and smoke rising. The bottom left displays houses near a body of water, with a dark cloud looming over them. The bottom right shows a beach scene with palm trees and a stormy sky. The colors are bright and vibrant throughout.\n\nAudio-wise, there's a voiceover saying \"unaffordable compared to the forces of nature the planet is too big it doesn't care so.\" The voice is calm and measured, and there are no other sound effects or music in the audio."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 352.02938747406006
     }
   ]
 }

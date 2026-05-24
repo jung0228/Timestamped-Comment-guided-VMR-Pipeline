@@ -30,3 +30,6 @@ env/
 .DS_Store
 *.log
 .cache/
+
+# Local backup data folders
+data/captions_old/

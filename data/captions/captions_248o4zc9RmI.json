@@ -1,0 +1,579 @@
+{
+  "video_id": "248o4zc9RmI",
+  "total_comments": 19,
+  "successful_comments": 19,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 13172,
+      "video_id": "248o4zc9RmI",
+      "comment": "Please pay attention that if you declare losses on your real estate due to depreciation ( as explained at 20:10 ) and you later decide to sell that same property, you will be required to pay capital gains tax on the amount you deducted. This is called depreciation recapture. So you still have to pay those taxes, they are just deferred. And you can deferr them even more with a 1031 exchange. Also, there are strict requirements to qualify for a 1031 exchange, you cannot simply pick the property you want. It has to have a determined number of units, size, price and more. But it is possible",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 34.0,
+      "comment_timestamp": 1210.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1201.0s - 1207.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing next to a whiteboard with various calculations written on it. He appears to be explaining something while gesturing towards the board.\n\n**Audio:** The speaker is talking about deductions related to wear and tear for tax purposes."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1207.0s - 1213.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing next to a whiteboard with various calculations written on it. He appears to be explaining something related to financial or property values.\n\n**Audio:** The speaker mentions that if the value of your property is going up, then you've made $3000."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1213.0s - 1219.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 6.32 GiB is free. Including non-PyTorch memory, this process has 17.23 GiB memory in use. Of the allocated memory 16.77 GiB is allocated by PyTorch, and 151.13 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 504.1327304840088
+    },
+    {
+      "comment_index": 13173,
+      "video_id": "248o4zc9RmI",
+      "comment": "17:12 \"40k is more than 32k\" for some reason that made me laugh. Was like a flashback to 1st grade math. Jaspreet is the best!",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 5.0,
+      "comment_timestamp": 1032.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1023.0s - 1029.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing next to a whiteboard. He's pointing at some handwritten numbers on the board which include \"$40K\" under \"Job\" and \"$32K\". The background appears to be plain gray.\n\n**Audio:** There is a voiceover saying, \"the end of this you're left with forty thousand dollars.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1029.0s - 1035.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing next to a whiteboard. He's pointing at some handwritten numbers on the board with his right hand.\n\n**Audio:** The man speaks about money amounts, specifically mentioning \"$40K\" and \"$32K,\" and explains that one amount is more than the other because it represents earnings."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1035.0s - 1041.0s",
+          "query": "Sure! Let's break it down into two parts:.Visually, there is a man wearing a purple turban standing next to a whiteboard. He has a beard and is pointing at something on the board with his right hand.Audibly, he says \"This money not from here if you make forty thousand dollars in your capital.\".So, that covers both the visual and audio aspects of the short video segment. What else would you like to know about it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 302.1982731819153
+    },
+    {
+      "comment_index": 13174,
+      "video_id": "248o4zc9RmI",
+      "comment": "5:47  Elon Musk paid more taxes than any one person in a single year than anybody in history. This video is a joke.",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 2.0,
+      "comment_timestamp": 347.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "338.0s - 344.0s",
+          "query": "Visually, there's someone wearing a purple turban and a light blue shirt. They have a long beard and are gesturing with their hands while speaking. The background is plain gray.\n\nAudio-wise, it seems like they're talking about Elon Musk getting something around $22 million worth of stock options back in '12. There doesn't seem to be any other significant sounds or music involved."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "344.0s - 350.0s",
+          "query": "Visually: There's a man with a long black beard wearing a purple turban and a light blue shirt. He seems to be talking or explaining something while gesturing with his hands. The background is plain gray.\n\nAudio: A male voice is speaking, likely explaining or discussing something related to Tesla stock performance in 2021."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "350.0s - 356.0s",
+          "query": "Visually, there's a man wearing a purple turban and a light blue shirt. He has a long beard. His hands are raised slightly, palms facing up, like he's explaining or questioning something. The background is plain gray.\n\nIn terms of audio, it seems to be someone speaking, likely the same man from the visuals. The speech could be about earning money for the first time after years and having to pay taxes on that income. It's hard to say exactly without more context though."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 203.90634870529175
+    },
+    {
+      "comment_index": 13175,
+      "video_id": "248o4zc9RmI",
+      "comment": "25:56 because you die contented and happy😆",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 1.0,
+      "comment_timestamp": 1556.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1547.0s - 1553.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing next to a whiteboard with drawings and numbers on it. He points at different sections of the board while speaking.\n\n**Audio:** The speaker says \"again again and again you go from $400,000 to a million dollars.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1553.0s - 1559.0s",
+          "query": "Visually, there's a man wearing a purple turban and a light blue shirt standing in front of a whiteboard with some drawings and numbers on it. The whiteboard has sketches of houses and arrows pointing to different dollar amounts like $100K, $200K, and $400K.\n\nAudio-wise, someone is speaking about making money repeatedly until death, mentioning \"million dollars\" and \"you can do this.\" There's also an unexpected \"I don't know why I made dying song\" at the end."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1559.0s - 1565.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing in front of a whiteboard with some drawings on it. He has a long beard and is gesturing with his hands while speaking.\n\n**Audio:** The man is talking about deferring taxes repeatedly. His voice seems to be explaining something related to financial planning or tax strategies."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 207.79232096672058
+    },
+    {
+      "comment_index": 13176,
+      "video_id": "248o4zc9RmI",
+      "comment": "25:40 this is why rent is out of control and the system unsustainable",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 1.0,
+      "comment_timestamp": 1540.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1531.0s - 1537.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing next to a whiteboard. On the board, there's a simple drawing of a house with \"$100K\" written above it and \"$200K\" below it. The man appears to be explaining something related to these figures.\n\n**Audio:** Someone is speaking about making more money and getting bigger tax deductions."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1537.0s - 1543.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing next to a whiteboard. He's dressed in a light blue shirt. On the whiteboard, there's a simple drawing of a house with two labels underneath it - \"$100K\" and \"$200K\". The man appears to be explaining something related to these figures.\n\n**Audio:** There is no discernible dialogue or sound effects in the provided audio segment. It seems like just background noise without any specific content that can be transcribed."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1543.0s - 1549.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing in front of a whiteboard. He's writing on it with a marker. The whiteboard has some drawings and numbers like \"$100K\", \"$200K\", and \"$400K\". There's also a simple house drawing connected to these numbers.\n\n**Audio:** Someone is speaking, saying \"hundred dollars then you do it all over again and you can do it again and again.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 190.21293830871582
+    },
+    {
+      "comment_index": 13177,
+      "video_id": "248o4zc9RmI",
+      "comment": "Look at the chimney of the house @ 17:43, she’s blowin sideways boys, can you imagine that! 😆 😂 😆 😂 😆 I had to make the joke, it was too funny to resist. I love ❤️ you my friend, keep up the good work, you are the best. I’ll be watching.",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 1.0,
+      "comment_timestamp": 1063.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1054.0s - 1060.0s",
+          "query": "**Visual:** The video shows a person wearing a purple turban standing against a plain background. They gesture with their hands while speaking.\n\n**Audio:** A man is talking about earning money from real estate, mentioning tax rates for different income levels. He uses phrases like \"For example,\" and \"In addition.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1060.0s - 1066.0s",
+          "query": "Visually: A man wearing a purple turban is standing next to a whiteboard with a simple house drawing on it. He's gesturing towards the board while speaking.\n\nAudio: The man is talking about earning money from real estate investments. His voice seems calm and informative. There are no other noticeable sounds or music in the background."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1066.0s - 1072.0s",
+          "query": "**Visual:** A man wearing a purple turban is seen from behind, facing a whiteboard. He's drawing a simple house with a dollar sign next to it on the board. His arms are outstretched as if presenting or explaining something.\n\n**Audio:** The speaker says, \"Assume this home costs $100,000 now again.\" There's no background music or other sound effects; just the clear voice of the speaker."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 180.197740316391
+    },
+    {
+      "comment_index": 13178,
+      "video_id": "248o4zc9RmI",
+      "comment": "So how does Elon pay back the debt if he's not earning? 7:15 how does he pay the money back if he has no income ? Anyone",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 1.0,
+      "comment_timestamp": 435.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "426.0s - 432.0s",
+          "query": "Visual: A man wearing a purple turban is standing in front of a whiteboard. He's writing on it with a marker. The whiteboard has some numbers written on it like \"$10\" and \"$1,000\". There's also a triangle drawn below one of the dollar signs.\n\nAudio: Someone is speaking, but I can't make out the exact words from just these six seconds. It seems to be a normal conversation or explanation kind of tone."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "432.0s - 438.0s",
+          "query": "Sure! So, visually, there's someone wearing a purple turban writing on a whiteboard with some numbers and words like \"Debt\" and \"$1,000\". The person is facing away from the camera. In terms of audio, it seems to be a man speaking about paying back money plus interest.Anything else you want to know?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "438.0s - 444.0s",
+          "query": "Visual: A man wearing a purple turban is standing next to a whiteboard with some calculations written on it. He appears to be explaining something related to finance or economics.\n\nAudio: The speaker mentions \"such low interest rates\" and talks about borrowing money at these rates."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 174.34986472129822
+    },
+    {
+      "comment_index": 13179,
+      "video_id": "248o4zc9RmI",
+      "comment": "Big Math Mistake at 20:00 - you are doing monthly accounting then put the annual deduction in there.",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 1200.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1191.0s - 1197.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing next to a whiteboard with some calculations written on it. He seems to be explaining something related to money or finance.\n\n**Audio:** The speaker is talking about having $3000 in one's pocket and mentions technical reasons for getting something, though the exact details aren't clear from just these few seconds."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1197.0s - 1203.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing next to a whiteboard. He appears to be explaining something while pointing at various numbers and symbols on the board.\n\n**Audio:** The man speaks about deducting $1 for every 27.5 years, mentioning that it's related to home ownership."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1203.0s - 1209.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing next to a whiteboard filled with handwritten notes and drawings. He appears to be explaining something, gesturing towards the board.\n\n**Audio:** The speaker is talking about deducting certain amounts from taxes, mentioning figures like $100k, $1k/mo., $12k/yr, etc."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 170.8149173259735
+    },
+    {
+      "comment_index": 13180,
+      "video_id": "248o4zc9RmI",
+      "comment": "10:56 that al capone logic with 1099's is fun until you get audited 😂",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 656.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "647.0s - 653.0s",
+          "query": "Visual: A man wearing a purple turban is standing next to a whiteboard with \"Earn Taxes Spend\" written on it. He turns around and starts writing something else.\n\nAudio: The man speaks while writing on the board, but no specific words or phrases can be clearly heard from this short clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "653.0s - 659.0s",
+          "query": "**Visual:** A person wearing a purple turban is writing on a whiteboard with a marker. The words \"Earn\" and \"Spend\" are written on two separate sections of the board.\n\n**Audio:** Someone is speaking about earning money and paying taxes only on certain aspects related to it."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "659.0s - 665.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing next to a whiteboard with \"Earn\" and \"Spend Taxes Spend\" written on it. He gestures towards the board while speaking.\n\n**Audio:** The speaker discusses earning money, taxes, and spending, mentioning government and IRS incentives related to these topics."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 113.1595458984375
+    },
+    {
+      "comment_index": 13181,
+      "video_id": "248o4zc9RmI",
+      "comment": "23:26 that last one is incorrect. We had an apartment we paid 100k for, and sold it for 200k like 8 years later, and had to pay like 23k in tax. there is definitely tax on what you sell it for even though we ended up using that 200k to buy another apartment that cost the same 200k. Maybe this is state dependent, but its definitely not tax free everywhere.",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 1406.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1397.0s - 1403.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing next to a whiteboard. He's pointing at some handwritten notes on it that include \"$50K\", \"$250K\", and \"$400K\". There's also a simple drawing of a house with \"DP\" written inside.\n\n**Audio:** The man speaks about selling a home for different amounts of money, mentioning \"$150, 000\" specifically."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1403.0s - 1409.0s",
+          "query": "Visual: A man wearing a purple turban is standing next to a whiteboard with a drawing on it. The drawing appears to be a simple house or building structure. There's also some writing on the board that includes numbers like $50K, $250K, and $400K.\n\nAudio: Someone is speaking about tax deductions being valuable for the average person."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1409.0s - 1415.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing next to a whiteboard. He's gesturing with his hands while speaking. On the whiteboard, there's a drawing of a house labeled \"DP\" and some numbers \"$50K\", \"$250K\", and \"$400K\". The background appears to be plain gray.\n\n**Audio:** The man is talking about selling a home and making a profit up to $250, 000. There are no other noticeable sounds or music in the audio."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 249.92234063148499
+    },
+    {
+      "comment_index": 13182,
+      "video_id": "248o4zc9RmI",
+      "comment": "At 17:19, that’s a little deceptive because if from my job I made let’s say 30k and then from selling the asset I made that same 40k after having held it for a year plus, my long term capital gains would be 15% not zero.  But the video kind of makes it look like the assets that qualify as long term capital gains have their own isolated income tax brackets not effected by a person’s taxable income.",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 1039.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1030.0s - 1036.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing next to a whiteboard. He points at some handwritten numbers on the board with his right hand.\n\n**Audio:** The speaker says, \"thousand dollars and the reason why you get to keep more is because you earned this money.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1036.0s - 1042.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing next to a whiteboard. He's pointing at some handwritten numbers on the board with his right hand while speaking.\n\n**Audio:** The speaker says, \"from here if you make forty thousand dollars in your capital gains long-term.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1042.0s - 1048.0s",
+          "query": "Sure! Here's a breakdown:.Visually, there is a man wearing a purple turban standing next to a whiteboard with some numbers written on it. The background appears to be plain and dark.Audibly, someone is speaking, likely explaining something related to the numbers on the board. There doesn't seem to be any other significant sounds or music.Got any more questions about this?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 116.66793942451477
+    },
+    {
+      "comment_index": 13183,
+      "video_id": "248o4zc9RmI",
+      "comment": "2:52  I can tell you’re wrong already. When you’re hired, instead of filling out a W-4 you should ask for and fill out a W-8BEN. Then they will not remove taxes from your earnings.",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 172.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "163.0s - 169.0s",
+          "query": "Visually, there's a man wearing a purple turban and a light blue shirt. He has a long beard. The background is plain gray. His hands are moving as if he's explaining something. There aren't any other objects or people visible.\n\nAudio-wise, it seems like someone is speaking about taxes and money. They mention making $100, 000 and how much one pays in taxes compared to how much they keep. It doesn't seem like there's any music or sound effects, just that person talking."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "169.0s - 175.0s",
+          "query": "Well, I'm not sure if there's actually anything to analyze from just that one sentence. It doesn't seem like it describes a complete scene or action really. Maybe you could give me more details?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "175.0s - 181.0s",
+          "query": "Visual: A man wearing a purple turban and a white shirt is talking while gesturing with his hands. He has a long beard. The background is plain gray.\n\nAudio: There's a male voice speaking, saying something about making $100, 000 a couple of years ago and mentioning an accountant calling him up."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 151.27502870559692
+    },
+    {
+      "comment_index": 13184,
+      "video_id": "248o4zc9RmI",
+      "comment": "Okay at 7:40 in theory how is he paying back the money borrowed against the shares if he’s just borrowing?",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 460.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "451.0s - 457.0s",
+          "query": "Sure! Here's a breakdown based on your request:.Visually: The video shows a man wearing a purple turban standing in front of a whiteboard with some handwritten notes. He appears to be explaining something while gesturing with his hands.Audibly: There is no background music or sound effects. The main audio consists of the man speaking clearly about borrowing debt tax-free and mentioning borrowing $250."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "457.0s - 463.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing next to a whiteboard with some handwritten notes on it. The background appears to be plain gray.\n\n**Audio:** Someone is speaking about buying a home and paying taxes on money received from a bank."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "463.0s - 469.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing in front of a whiteboard. He has a long beard and is dressed in a light blue shirt. The whiteboard behind him shows some handwritten notes with numbers like \"$100\" and \"Debt.\" His hands are gesturing as if he's explaining something.\n\n**Audio:** There is a voice speaking, likely explaining financial concepts related to the content on the whiteboard. The tone seems instructive or explanatory."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 151.2617154121399
+    },
+    {
+      "comment_index": 13185,
+      "video_id": "248o4zc9RmI",
+      "comment": "7:19 I understand all the way up until this point. How is he paying it back? Is he using some of the money he borrowed? I'm confused on this. Noone really taught me alot of what I should know about Money Management. So I'm on my own here.",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 439.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "430.0s - 436.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing in front of a whiteboard. He's writing on it with a marker. The whiteboard has some numbers and symbols drawn on it.\n\n**Audio:** There seems to be no distinct audio mentioned here, so I can't describe any spoken words or background sounds."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "436.0s - 442.0s",
+          "query": "Sure! So here's how I'd break it down:.Visually, there s a man wearing a purple turban standing next to a whiteboard. He has a beard and is dressed in light blue clothes. The whiteboard shows some financial calculations with numbers like $6, $1,000, and $8, along with words like \"Interest\" and \"Debt.\".In terms of audio, he seems to be talking about interest rates, especially when they're low. His voice is clear and confident.Anything else you want me to clarify?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "442.0s - 448.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing next to a whiteboard with some handwritten calculations on it. He appears to be explaining something related to finance or investment.\n\n**Audio:** The man is speaking about borrowing money at different interest rates and how stocks can grow over time."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 173.6075530052185
+    },
+    {
+      "comment_index": 13186,
+      "video_id": "248o4zc9RmI",
+      "comment": "08:20 hmmmkay, where does the money to pay the loan come? Isn't it taxed?",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 500.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "491.0s - 497.0s",
+          "query": "**Visual:** There's a man wearing a purple turban and white shirt standing next to a whiteboard. He seems to be explaining something related to finance or economics, pointing at different elements on the board like \"Debt\" and \"$1,000\". The background is plain gray.\n\n**Audio:** A male voice is speaking about assets increasing in value when they go up, and mentions borrowing against them."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "497.0s - 503.0s",
+          "query": "**Visual:** There's a man wearing a purple turban and a light blue shirt standing next to a whiteboard. On the whiteboard, there are some handwritten notes like \"$10\", \"7,000\", \"$8\", and \"Debt\". The man is gesturing with his hands while speaking.\n\n**Audio:** A male voice is speaking about assets being tax-free in one's pocket and how they can be used for living off."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "503.0s - 509.0s",
+          "query": "Sure! So here's how I'd break it down:.Visually, there s a man wearing a purple turban standing next to a whiteboard with some calculations on it. He has a beard too.Action-wise, he seems to be explaining something about money, debt, and tax-free spending.He s pointing at different parts of the board while talking.Sounds-wise, his voice is clear and confident, like he knows what he s talking about.The overall scene feels educational and focused on financial concepts.What do you think? Do you have any other questions or need more details?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 132.37474966049194
+    },
+    {
+      "comment_index": 13187,
+      "video_id": "248o4zc9RmI",
+      "comment": "@3:00, like a business tax write off. Kinda difficult for individuals.",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 180.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "171.0s - 177.0s",
+          "query": "**Visual:** A man wearing a purple turban and a light blue shirt is talking directly to the camera. He has a long beard and is gesturing with his hands while speaking.\n\n**Audio:** The man is speaking about having zero dollars worth of taxable income because he made one hundred thousand dollars and spent it all. There's no background music or other sound effects; just his voice."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "177.0s - 183.0s",
+          "query": "Visually, there's a man wearing a purple turban and a light blue shirt. He has a long beard and is making hand gestures while speaking. The background appears to be plain gray.\n\nIn terms of audio, it seems like he's talking about an accountant calling him regarding a tax problem. There doesn't seem to be any other significant sounds or music involved."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "183.0s - 189.0s",
+          "query": "Well, let's break it down. Visually, there's someone wearing a purple turban and a light blue shirt. They seem to be gesturing with their hands while talking. The background is just plain gray. As for the audio, they're speaking about spending more money and figuring out how to spend $300, 000. There doesn't seem to be any other significant sounds like music or sound effects.Anything else you want to know?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 170.95693159103394
+    },
+    {
+      "comment_index": 13188,
+      "video_id": "248o4zc9RmI",
+      "comment": "17:32 dude thats total income…you cant live off invest,rnt money, especially long term investment.  How can you explain that?",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 1052.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1043.0s - 1049.0s",
+          "query": "Sure! Here's a breakdown based on your instructions:.Visual: The video shows a man wearing a purple turban standing next to a whiteboard with some handwritten numbers and words like \"Inv $40K\", \"Job $40K\", \"$40K\", and \"$32K\". He is gesturing with his hands while speaking.Audio: There is a male voice speaking throughout the video, explaining something related to the numbers and concepts written on the board. No other significant sounds or music are present.Does that cover what you were looking for? Let me know if there's anything else specific you'd like to know about the video!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1049.0s - 1055.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing in front of a whiteboard with some handwritten notes on it. The background appears to be an indoor setting, possibly an office or classroom.\n\n**Audio:** Someone is speaking about investment income taxes for the 2022 tax year. They mention that if someone makes $1 million from investments, they will pay certain amounts based on their filing status."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1055.0s - 1061.0s",
+          "query": "**Visual:** A man wearing a purple turban is gesturing with his hands while standing against a plain background. There's some text on the screen that seems to be related to tax rates for different income levels.\n\n**Audio:** Someone is speaking about earning money from real estate. The speaker mentions \"tax rates\" and \"earn money from real estate.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 216.0891354084015
+    },
+    {
+      "comment_index": 13189,
+      "video_id": "248o4zc9RmI",
+      "comment": "Psalm 37:21 says, “The wicked borrows and does not pay back, but the righteous is gracious and gives.”...........Owe no one anything except to love one another, for he who loves another has fulfilled the law (Romans 13:8, .   The rich rule over the poor, and the borrower is slave to the lender.",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 2241.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "2232.0s - 2238.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "2238.0s - 2244.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "2244.0s - 2250.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.004515647888183594
+    },
+    {
+      "comment_index": 13190,
+      "video_id": "248o4zc9RmI",
+      "comment": "25:58 is that the reason why Growing is such an imperativ in the corporate world  Not-paying-taxes after bonuses As the ultimate capitalist ejaculate?",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 1558.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1549.0s - 1555.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing next to a whiteboard. He has a long beard and is dressed in a light blue shirt. On the whiteboard, there's a simple drawing of a house with three boxes labeled \"$100K\", \"$200K\", and \"$400K\". The man appears to be explaining something related to these figures.\n\n**Audio:** The man speaks about going from $400,000 to a million dollars, then from a million to two million dollars, and finally from two million to four million dollars. His tone suggests he might be discussing financial growth or investment strategies. There are no other noticeable sounds besides his speech."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1555.0s - 1561.0s",
+          "query": "**Visual:** A man wearing a purple turban is standing in front of a whiteboard with some drawings and numbers on it. He has a long beard and is dressed in light blue clothing. The background appears to be plain gray.\n\n**Audio:** The man is speaking, though without specific content details from the provided text, I can't give more information about his speech. There doesn't seem to be any other significant audio elements like music or sound effects mentioned."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1561.0s - 1567.0s",
+          "query": "**Visual:** A man wearing a purple turban stands next to a whiteboard with drawings and numbers on it. He gestures while speaking.\n\n**Audio:** The man is talking about deferring taxes repeatedly without ever having to pay them."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 233.49204778671265
+    }
+  ]
+}

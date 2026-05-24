@@ -1,0 +1,609 @@
+{
+  "video_id": "wOmjnioNulo",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 21232,
+      "video_id": "wOmjnioNulo",
+      "comment": "4:54 Incorrect. A cat is a tiny tiger that lets you live in its house.",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 4300.0,
+      "comment_timestamp": 294.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "285.0s - 291.0s",
+          "query": "Oh, that's an interesting one! So, visually, there are dogs running through tall grass. They look really happy and energetic. The scene is outdoors, probably on a sunny day because it looks bright. There aren't any other objects or people around just these dogs and the grass. As for the audio, I can't really tell much from just six seconds. It might be some kind of background noise like birds chirping or leaves rustling, but it's hard to say for sure.What do you think about this? Do you have any other questions related to it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "291.0s - 297.0s",
+          "query": "Visual: A fluffy white cat is lying on its back on a wooden floor. It looks relaxed or maybe even a bit sleepy. Then someone gently pets it.\n\nAudio: There's some speech happening, probably someone talking to the cat. The tone seems calm and affectionate."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "297.0s - 303.0s",
+          "query": "Visually, there's an image of zebras standing together in a grassy area. The zebras have their characteristic black and white stripes. There doesn't seem to be much movement from them. In terms of audio, I can hear someone speaking, saying \"There's no such thing as society.\" It's just that one line spoken clearly. What do you think about it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 188.11106967926025
+    },
+    {
+      "comment_index": 21233,
+      "video_id": "wOmjnioNulo",
+      "comment": "5:45 i see you muted the audio for the OG sponsor of the video.",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 980.0,
+      "comment_timestamp": 345.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "336.0s - 342.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "342.0s - 348.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "348.0s - 354.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.010882139205932617
+    },
+    {
+      "comment_index": 21234,
+      "video_id": "wOmjnioNulo",
+      "comment": "@2:30  \"Bred\" image of wheat shows on screen  Well done Grey, well done.",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 690.0,
+      "comment_timestamp": 150.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "141.0s - 147.0s",
+          "query": "**Visual:** The video shows an animated scene with a stick figure sitting at a desk on the right side. On the left, there's a picture of someone feeding a tiger cub milk from a bottle. There's also a diagram labeled \"Domestication vs Taming\" with sheep icons representing domestication.\n\n**Audio:** No specific dialogue or sound is mentioned in the provided information."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "147.0s - 153.0s",
+          "query": "Oh, okay! So, visually, it looks like there's an aerial shot of some kind of field or large area with rows that seem to be crops or something similar. There s also a close-up of strawberries hanging on vines, looking really ripe and red. The colors are mostly green from the plants and red from the strawberries.The audio? Hmm, I can t really tell much about that since no specific details were given.Does that help? Let me know if you want more info!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "153.0s - 159.0s",
+          "query": "Oh, okay! So, visually, there are strawberries hanging on vines with green leaves around them. The background is kind of blurry, so it feels like an outdoor setting. There's also some movement from the plants, probably due to wind or something.Now for the audio - hmm, I don't really hear any distinct sounds here. Just maybe some faint natural noises? What do you think about that?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 175.6587085723877
+    },
+    {
+      "comment_index": 21235,
+      "video_id": "wOmjnioNulo",
+      "comment": "5:00 \"bruh, there's no such thing as society.\" -CGP",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 414.0,
+      "comment_timestamp": 300.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "291.0s - 297.0s",
+          "query": "Visual: A fluffy white cat is lying on its back on a wooden floor. It looks relaxed or maybe even a bit sleepy. Then someone gently pets it.\n\nAudio: There's some speech happening, probably someone talking to the cat. The tone seems calm and affectionate."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "297.0s - 303.0s",
+          "query": "Visually, there's an image of zebras standing together in a grassy area. The zebras have their characteristic black and white stripes. There doesn't seem to be much movement from them. In terms of audio, I can hear someone speaking, saying \"There's no such thing as society.\" It's just that one line spoken clearly. What do you think about it?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "303.0s - 309.0s",
+          "query": "Well, visually, there's a large group of zebras gathered around a body of water. Some are standing on the shore while others are already in the water. The water looks calm and blue. In the background, there seems to be some kind of rocky or sandy terrain.The audio is pretty quiet, just a bit of natural ambient noise like maybe a gentle breeze or distant animal sounds. There doesn't seem to be any distinct speech or music.What do you think about zebras? Have you seen them before?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 182.42647886276245
+    },
+    {
+      "comment_index": 21236,
+      "video_id": "wOmjnioNulo",
+      "comment": "1:07  \"because their day job is *murder*\" caught me by surprise and made me laugh so hard. Note to self: domesticate the animals that don't \"moonlight in murder.\" 🤣",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 348.0,
+      "comment_timestamp": 67.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "58.0s - 64.0s",
+          "query": "Well, I don't actually have access to videos or audio files directly here. But if we were to analyze based on your description, for the visual part, it seems like there's an image of a man skateboarding with his dog on a leash outside a house. There might be some kind of cartoonish or stylized elements too. For the audio, since it says \"Okay.\" at the end, that could just be someone speaking casually. What do you think about these observations? Do they match what you saw?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "64.0s - 70.0s",
+          "query": "Visually, there's a cougar lounging on tree branches. It looks relaxed, just lying there. The background seems to be a forested area with trees around.The audio is mostly silent, no distinct sounds or voices that I can make out.What do you think about cougars? Have you seen one before?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "70.0s - 76.0s",
+          "query": "Well, visually, there's a bear just chilling on some rocks. It looks pretty relaxed, like it's taking a break or something. And then there are these two buffalo fighting on a road with cars around them. That's quite a sight! The scene is set outdoors, probably somewhere wild or near a forest area because I can see trees in the background. Oh, and there's also an animated stick figure sitting at a desk with a cup of coffee next to him. He seems to be watching all this chaos unfold from his little office.The audio? Hmm, not much going on there really. Just the usual sounds of nature - maybe some birds chirping here and there. But nothing too loud or distracting.So, that's about it for this short clip. What do you think about it? Do you have any other questions?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 174.18478727340698
+    },
+    {
+      "comment_index": 21237,
+      "video_id": "wOmjnioNulo",
+      "comment": "0:20 Is it just me, or did even early humans find it funny to draw men with large dongs?",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 315.0,
+      "comment_timestamp": 20.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "11.0s - 17.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short time frame. There might be no visible objects or actions happening at all during those six seconds. And for the audio, without any sound events mentioned, it seems like there could also be nothing to describe. Maybe check again? What do you think is going on in that video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "17.0s - 23.0s",
+          "query": "Well, visually, there's a big circular diagram with some text on it. And then around that, there are pictures of different animals like flamingos, llamas, and chickens. There's also an image of someone walking with a camel. Oh, and there's a scene where a person is feeding chickens. As for the audio, I can't really tell much because it seems to be silent or very quiet. So, not much going on there. What do you think about these images? Do you have any other questions related to them?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "23.0s - 29.0s",
+          "query": "Sure! So, for the visual part:.There's a cow and its calf grazing on green grass. The cow is brownish-red with white markings, and the calf looks similar but smaller. They seem to be enjoying their meal in a peaceful outdoor setting. For the audio part:.I don't actually hear any specific sounds or speech in this short clip. It s pretty quiet.What do you think about that? Any other details you noticed?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 192.97923827171326
+    },
+    {
+      "comment_index": 21238,
+      "video_id": "wOmjnioNulo",
+      "comment": "4:55 As a cat owner, this is the most accurate statement I've ever heard.",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 154.0,
+      "comment_timestamp": 295.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "286.0s - 292.0s",
+          "query": "Oh, it seems like there might be some confusion here. The instruction is asking for an analysis of a video segment that lasts only 6 seconds, but no actual video content or audio details were provided. So, I can't really describe what's happening visually or audibly based on just these words. If you could share more about what's actually shown in the video, I'd be happy to help analyze it!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "292.0s - 298.0s",
+          "query": "Sure! So, visually, there's a fluffy white cat lying on a wooden floor. Then someone starts petting it gently. The cat looks calm at first but then seems to get annoyed or uncomfortable and starts moving around a bit. There s also an orange blanket or something in the background. Oh, and the lighting is warm and cozy.Audibly, I can hear some soft, gentle petting noises from the person. There might be a faint background noise too, maybe like a fan or something, but not really loud. It feels kind of peaceful overall.What do you think about that? Do you have any other questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "298.0s - 304.0s",
+          "query": "Visually, there's a group of zebras standing together in a grassy area. They seem to be just hanging out, not doing anything specific like running or eating. The background looks like an open savanna with dry grass. There aren't any other animals or objects visible in the scene.Audibly, someone is speaking. The speech seems to be about zebras and society, mentioning that they don't have such things. It's a bit hard to make out all the details because it's only for six seconds."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 267.23120403289795
+    },
+    {
+      "comment_index": 21239,
+      "video_id": "wOmjnioNulo",
+      "comment": "These were among the best 5:34 minutes of my life",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 111.0,
+      "comment_timestamp": 334.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "325.0s - 331.0s",
+          "query": "Visually, there's an animated stick figure sitting at a desk with a cup of coffee. There's also a clipboard on the wall with some checkmarks next to words like \"Friendly\", \"Feedable\", \"Fecond\", and \"Family Friendly\". A map is shown with various animals marked in green hexagons across different continents.\n\nIn terms of audio, it seems like there might be some background noise or music playing, but no distinct speech can be heard clearly from this short clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "331.0s - 337.0s",
+          "query": "**Visual:** The video shows an animated stick figure sitting at a desk with a cup of coffee. There's a world map on the wall behind it, featuring various animals inside green hexagons. The scene is simple, with muted colors.\n\n**Audio:** The only sound heard is background music, which seems to be calm and instrumental."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "337.0s - 343.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 121.82736015319824
+    },
+    {
+      "comment_index": 21240,
+      "video_id": "wOmjnioNulo",
+      "comment": "4:32  This is here so you can play it on loop",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 96.0,
+      "comment_timestamp": 272.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "263.0s - 269.0s",
+          "query": "Visually, there's an image with \"Family Values\" written on it. There are stick figures around sheep in a field. The background seems to be a farm setting. In the audio, someone is speaking about how humans exploit family values because they grow up with that idea. It's just speech without any other sounds or music. What do you think about the message?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "269.0s - 275.0s",
+          "query": "Well, visually, there's a cowboy on horseback herding cattle across a field. The background has some trees and a barn-like structure. There are also silhouettes of chickens scattered around. In terms of audio, it seems like there might be some kind of narration or commentary going on, but I can't really make out any specific words from just that short clip. What do you think about it? Do you have any other thoughts or questions related to this video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "275.0s - 281.0s",
+          "query": "Well, visually, there's a close - up shot of a chicken's face at first. Then it cuts to some pictures of dogs and cats. The audio has someone saying \"We're top chicken\" and then talking about how dogs and cats are different. It seems like they might be comparing them or something.Does that help? What else do you want to know about the video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 189.98806881904602
+    },
+    {
+      "comment_index": 21241,
+      "video_id": "wOmjnioNulo",
+      "comment": "0:19 that guy on the top there, must of been a bit too excited to domesticate animals.",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 95.0,
+      "comment_timestamp": 19.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "10.0s - 16.0s",
+          "query": "Visually, there's an animated stick figure sitting at a desk with a cup of coffee. On the left side, there are images showing animals being used for various purposes like farming and transportation. The background has a world map. There's also some text on the screen that says \"part one animals were powerful tools food clothing transportation.\"Audio - It seems to be a narration or explanation about how animals have been used throughout history for different needs. The tone is informative. So, what do you think about using animals in these ways?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "16.0s - 22.0s",
+          "query": "Sure! So, visually, there's a big circular diagram with lots of lines and text inside it. Outside that, you can see some flamingos standing around. The background looks kind of dark and blurry, maybe like an old cave or something.The audio? Well, I don't really hear any distinct sounds or speech. It seems pretty quiet overall.What do you think about these descriptions? Do you have any other questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "22.0s - 28.0s",
+          "query": "Well, I'm not sure if there's actually a video here to analyze. But if we were to make a domestication checklist based on your suggestion, it could include things like providing shelter for animals, teaching them to respond to commands, and ensuring they have proper nutrition. What do you think? Do you want to add more items to that list?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 192.93753504753113
+    },
+    {
+      "comment_index": 21242,
+      "video_id": "wOmjnioNulo",
+      "comment": "3:48 The barely readable text on the white board reads \"Yes I decided 'zebra' as a plural form of 'zebra'.\"  Edit:Correction from Advick, and thank you.",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 72.0,
+      "comment_timestamp": 228.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "219.0s - 225.0s",
+          "query": "Visual: The video shows a stick figure sitting at a desk with a cup on it. There's also an image projected onto a screen above the figure. This projection seems to be some kind of ancient artwork or painting depicting a person riding a horse across a landscape.\n\nAudio: A voice is heard saying something about \"the best internet available horses were domesticated.\" It's not entirely clear who is speaking or where they're coming from, but it's likely related to the content being shown on the screen."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "225.0s - 231.0s",
+          "query": "Well, let's break it down. Visually, there's an animated scene with a stick figure sitting at a desk on one side and a map showing Africa and Eurasia on the other. The stick figure seems to be looking at the map. There's also a zebra running across a plain in another part of the video. As for the audio, I can't really tell much because it doesn't seem like there's any distinct speech or music. It might just be some background noise or nothing at all.If you want to know more about why humans didn't ride out of Africa right away, we could talk about that too!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "231.0s - 237.0s",
+          "query": "Well, visually, there's a zebra running across a field. It looks like it might be in some kind of dry area at first glance, but then we see more zebras grazing on green grass later on. The colors are mainly greens from the grass and browns from the dirt or dry areas.The audio? Hmm, I can't really tell much about that since no specific details were given for the audio part. So, not much to say there. What do you think about zebras? Do you find them interesting?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 256.9975047111511
+    },
+    {
+      "comment_index": 21243,
+      "video_id": "wOmjnioNulo",
+      "comment": "0:06  I believe the technical term is \"fluffification.\"",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 44.0,
+      "comment_timestamp": 6.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "0.0s - 3.0s",
+          "query": "Visual: The video shows sheep grazing on grass in a field. There's also an illustration with stick figures pointing to sheep images labeled \"Project: Maximum Fluff.\" The sheep look fluffy.\n\nAudio: No distinct speech or music is heard. Just the natural sounds of the sheep grazing."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "3.0s - 9.0s",
+          "query": "Visually, there's an image showing sheep being sheared on a wooden floor with some wool scattered around. There's also a stick figure sitting at a desk with a cup of coffee, looking at a world map. The colors are mostly muted, like browns for the wood and grayish tones overall. The movement is mainly the action of shearing the sheep and the stick figure's stillness.Audibly, it seems like there might be some background noise or faint sounds related to the shearing process, but no distinct speech or music can really be heard clearly. It could just be a very quiet environment. What do you think about this? Do you have any other observations?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "9.0s - 15.0s",
+          "query": "Visually, there's an animated stick figure sitting at a desk with a cup of coffee. On the left side, there's a map showing Africa and Europe. Below that, some smaller images show animals like a horse pulling a cart and a cow. There's also a circular diagram with various words around it.\n\nAudio - There seems to be no distinct audio mentioned here. It could just be background noise or silence. What do you think about the visuals?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 242.26569771766663
+    },
+    {
+      "comment_index": 21244,
+      "video_id": "wOmjnioNulo",
+      "comment": "4:04  PITAA  I was trying to make a joke about pita but I couldn’t come up with anything",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 40.0,
+      "comment_timestamp": 244.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "235.0s - 241.0s",
+          "query": "Oh, okay! So here's what I noticed:.Visually: There are zebras running across a green field. The background has some trees and grass. It looks like it might be early morning or late afternoon because of how the light is hitting everything.Audio: Hmm, there doesn't seem to be any distinct sounds from the video itself. Just the natural sounds of nature, maybe birds chirping or something like that? What do you think about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "241.0s - 247.0s",
+          "query": "Well, visually, there's someone riding a horse through a field with tall grass. The sky is clear blue. There are also some stick figures drawn on the screen, one looking like a zebra head and another with glasses. Oh, and there are zebras grazing in the background too. As for the audio, it seems to be just the sound of nature - maybe birds chirping or something like that. What do you think about it? Do you have any other observations?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "247.0s - 253.0s",
+          "query": "Well, visually, there's a herd of zebras running through water. You can really see their black and white stripes clearly against the water. And they're all moving together in kind of a line. Oh, and there's also some text on the screen that says \"Horse herds hierarchy\" which is kinda confusing since it's about zebras.Anything else you noticed or want to ask about?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 177.2502908706665
+    },
+    {
+      "comment_index": 21245,
+      "video_id": "wOmjnioNulo",
+      "comment": "4:36 ~ Look at me, I'm top chicken now!",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 40.0,
+      "comment_timestamp": 276.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "267.0s - 273.0s",
+          "query": "Sure! So, visually, there's a person on horseback herding cattle across a grassy field with trees in the background. There are also some stick figures drawn at the bottom of the screen. The audio has someone speaking, though it s hard to make out specific words clearly.What do you think about that? Any other details you noticed or want to discuss further?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "273.0s - 279.0s",
+          "query": "Oh, okay! So, visually, there's like a bunch of black silhouettes of chickens against a light background. Then it cuts to a close-up of an actual chicken with its face really up front. And finally, we see a cat lying down outside.Anything else you noticed or want me to focus on?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "279.0s - 285.0s",
+          "query": "Well, visually, there's a dog lying down on some kind of surface at first. Then it shows a forest scene with trees around. After that, we see a group of wolves standing together on rocks. Oh, and there's also an image of a stick figure holding a cup of coffee.Anything else you noticed or want to ask about?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 146.26106643676758
+    },
+    {
+      "comment_index": 21246,
+      "video_id": "wOmjnioNulo",
+      "comment": "04:50 :- )))) and then the cat with that face... dog: - yoooohooo, the alpha is home, home! the lord, my MAAASER!! cat: - yoo late, slayv. giv I many foodz. now!",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 39.0,
+      "comment_timestamp": 290.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "281.0s - 287.0s",
+          "query": "Oh, okay! So, visually, it looks like there's some kind of animal or creature moving around on rocks. It seems to be in an outdoor setting with trees and greenery in the background. The movement is pretty dynamic, like it's either running or jumping around.On the audio side, hmm, I can't really make out any distinct speech or music. There might be some faint natural sounds, maybe rustling leaves or something? But not much else.What do you think about that? Any other details catch your eye?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "287.0s - 293.0s",
+          "query": "Well, let's break it down. Visually, there's a dog in tall grass. It looks like it might be playing or just standing there. The grass is really green and lush. There aren't any other objects or people around that I can see clearly.As for the audio, hmm, I don't actually hear anything specific. Maybe some faint background noise? But nothing distinct enough to say for sure.What do you think about the video? Do you have any other observations?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "293.0s - 299.0s",
+          "query": "Oh, okay! So, visually, there's a cat being petted on a wooden floor. The cat looks pretty relaxed, just lying down. And then, there's also an illustration of a zebra head and a stick figure with glasses. Hmm. for the audio, it seems like someone is talking about cats, mentioning they're \"tiny tigers that live in your house.\" There s no background music or anything else really noticeable.Anything specific you want to know more about?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 235.53790807724
+    },
+    {
+      "comment_index": 21247,
+      "video_id": "wOmjnioNulo",
+      "comment": "3:54 the way the zebra winks at the camera as he called them bastards",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 37.0,
+      "comment_timestamp": 234.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "225.0s - 231.0s",
+          "query": "Well, let's break it down. Visually, there's an animated scene with a stick figure sitting at a desk on one side and a map showing Africa and Eurasia on the other. The stick figure seems to be looking at the map. There's also a zebra running across a plain in another part of the video. As for the audio, I can't really tell much because it doesn't seem like there's any distinct speech or music. It might just be some background noise or nothing at all.If you want to know more about why humans didn't ride out of Africa right away, we could talk about that too!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "231.0s - 237.0s",
+          "query": "Well, visually, there's a zebra running across a field. It looks like it might be in some kind of dry area at first glance, but then we see more zebras grazing on green grass later on. The colors are mainly greens from the grass and browns from the dirt or dry areas.The audio? Hmm, I can't really tell much about that since no specific details were given for the audio part. So, not much to say there. What do you think about zebras? Do you find them interesting?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "237.0s - 243.0s",
+          "query": "Oh, that's an interesting one! So, visually, there's someone riding a horse through a field with tall grass. The sky is clear blue, and there are some trees or bushes in the background. It looks like it might be sunny too. As for the audio, I can't really tell much because it seems to be just the sound of nature - maybe wind rustling leaves? What do you think about it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 222.50929975509644
+    },
+    {
+      "comment_index": 21248,
+      "video_id": "wOmjnioNulo",
+      "comment": "0:02 I just learnt a new word, \"Fluffyfied\"",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 37.0,
+      "comment_timestamp": 2.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "0.0s - 0.0s",
+          "query": "Visual: The video shows sheep grazing on grass in a field. There's also an illustration with stick figures pointing to sheep images labeled \"Project: Maximum Fluff.\" The sheep look fluffy.\n\nAudio: No distinct speech or music is heard. Just the natural sounds of the sheep grazing."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "0.0s - 5.0s",
+          "query": "Visually, there's an image showing sheep being sheared on a wooden floor with some wool scattered around. There's also a stick figure sitting at a desk with a cup of coffee, looking at a world map. The colors are mostly muted, like browns for the wood and grayish tones overall. The movement is mainly the action of shearing the sheep and the stick figure's stillness.Audibly, it seems like there might be some background noise or faint sounds related to the shearing process, but no distinct speech or music can really be heard clearly. It could just be a very quiet environment. What do you think about this? Do you have any other observations?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "5.0s - 11.0s",
+          "query": "Visually, there's an animated stick figure sitting at a desk with a cup of coffee. On the left side, there's a map showing Africa and Europe. Below that, some smaller images show animals like a horse pulling a cart and a cow. There's also a circular diagram with various words around it.\n\nAudio - There seems to be no distinct audio mentioned here. It could just be background noise or silence. What do you think about the visuals?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 180.9295048713684
+    },
+    {
+      "comment_index": 21249,
+      "video_id": "wOmjnioNulo",
+      "comment": "1:32 you have no idea how happy I was when I found out this wasn’t a sponsor",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 36.0,
+      "comment_timestamp": 92.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "83.0s - 89.0s",
+          "query": "Well, I don't actually have access to videos or any kind of media content like that. So, I can't really analyze it for you. But if you describe the video to me, I'd be happy to help break it down into those two parts! What do you think?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "89.0s - 95.0s",
+          "query": "Well, visually, it looks like there's some kind of battle scene going on. There are these big creatures that seem to be bears, and they're being ridden by people who look like warriors. The background is all dusty and chaotic, with lots of movement and action. It gives off a really intense vibe.Audience-wise, I can't really tell much from just one second of audio. But if we had more context or longer audio, maybe we could figure out if there was any dialogue or music playing.Anyway, do you have any other thoughts about this video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "95.0s - 101.0s",
+          "query": "Visual: The video shows a deer standing on grassy land with trees in the background. There's also an image of a person riding a motorcycle with a large wheel visible behind them. The scene seems to be set outdoors.\n\nAudio: No distinct audio is mentioned here, so there might not be any spoken words or specific sound effects described."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 137.94698429107666
+    },
+    {
+      "comment_index": 21250,
+      "video_id": "wOmjnioNulo",
+      "comment": "2:00 - I thought you were gonna say giraffes. I heard something like 93% of giraffe sex is male-on-male. That fight for dominance uses up precious giraffe-making calories.",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 35.0,
+      "comment_timestamp": 120.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "111.0s - 117.0s",
+          "query": "Visually, there's an animated scene with stick figures. One figure is holding a clipboard and seems to be presenting or explaining something. There are also some abstract shapes like lines and a heart on a screen. The color palette is mostly black, white, and gray, with some red for emphasis.\n\nIn terms of audio, I can't really tell much because it's just described as \"some animals have reproductive preferences that.\" It doesn't seem to give any specific details about the audio content itself."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "117.0s - 123.0s",
+          "query": "Visual: The video shows two pandas sitting on a wooden bench, eating bamboo. There's also an illustration of a person with glasses holding a clipboard next to a cage containing a brown diamond shape. The background is mostly gray.\n\nAudio: There's no distinct speech or music in the audio. Just some general ambient noise that could be from the environment where the pandas are located."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "123.0s - 129.0s",
+          "query": "Oh, that's an interesting one! So, visually, there are two pandas sitting on some logs, munching on bamboo. They look pretty relaxed. And then, there are these cartoonish figures with speech bubbles saying \"Let's... not.\" In the background, it seems like a natural setting with mountains or hills. For the audio, I can't really make out any specific words or sounds clearly.What do you think about this? Do you have any other thoughts or questions related to it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 190.00502395629883
+    },
+    {
+      "comment_index": 21251,
+      "video_id": "wOmjnioNulo",
+      "comment": "3:47 there is a hidden message saying ''Yes, i've decided that 'zebra' is the plural form of 'zebra' ''",
+      "language": "en",
+      "channel_name": "CGPGrey",
+      "category": "knowledge",
+      "likes": 33.0,
+      "comment_timestamp": 227.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "218.0s - 224.0s",
+          "query": "Visually, there's an image on a screen showing a stick figure riding a horse across a green field with mountains in the background. On the right side, there's another stick figure sitting at a desk with a cup that has steam coming out of it, suggesting they're drinking something hot. The overall color scheme is muted, mostly greens and grays.\n\nIn terms of audio, I can't really tell much from just these six seconds. There might be some background noise or faint sounds, but nothing distinct enough to describe clearly. What do you think about the scene?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "224.0s - 230.0s",
+          "query": "Well, let's break it down. Visually, there's an image of Africa with stick figures on it. And then there's a stick figure sitting at a desk with a cup that has steam coming out of it. There's also a zebra walking across the screen from left to right. The background is mostly gray. As for the audio, I can't really tell much because it seems like there might not be any spoken words or music. It could just be some kind of sound effect related to the zebra.Anything else you noticed or want to ask about?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "230.0s - 236.0s",
+          "query": "Well, visually, there's a zebra running across a field. It looks like it might be in some kind of dry area at first, then later on, we can see more greenery around. The zebra is just moving quickly, its legs pumping up and down.As for the audio, I don't really hear any distinct speech or music. There could be some background noise from nature, maybe birds chirping or something like that, but it's not very clear.So, what do you think about zebras? Do you find them interesting?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 249.76362299919128
+    }
+  ]
+}

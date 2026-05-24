@@ -1,10 +1,9 @@
 {
   "video_id": "eIho2S0ZahI",
   "total_comments": 20,
-  "successful_comments": 0,
-  "failed_comments": 20,
-  "success_rate": "0.0%",
-  "processing_time": 0.0036683082580566406,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
   "comments": [
     {
       "comment_index": 61,
@@ -12,76 +11,209 @@
       "comment": "At 5:10 but aside from that... Lol",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
+      "category": "talk show",
       "likes": 760.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "comment_timestamp": 310.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "301.0s - 307.0s",
+          "query": "Visually, there's a man in a light-colored suit jacket and a dark shirt. He's standing in front of a blue background with some abstract shapes. He's holding something small in his right hand and has his left hand on his chest. He seems to be speaking or presenting.\n\nAudio-wise, there's a man speaking. He's talking about needing to go down to the chest and mentions voting for politicians with lower something, but it's unclear what he means by \"lower something.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "307.0s - 313.0s",
+          "query": "Visually, there's a man standing on a stage. He's bald, wearing a light-colored blazer over a dark shirt, and he's gesturing with his hands while speaking. The background is blue with some abstract shapes. There's no other person or object in the frame.\n\nIn terms of audio, the man is speaking, but there's no music or sound effects. The speech is the only sound."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "313.0s - 319.0s",
+          "query": "Visual: A red toolbox with \"register timbre\" written on it is shown against a blue background.\n\nAudio: Someone is speaking about register and timbre, explaining that register refers to how your voice feels when you speak or sing, and timbre relates to the quality or color of your voice."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 207.21451807022095
     },
     {
       "comment_index": 62,
       "video_id": "eIho2S0ZahI",
-      "comment": "Video on 'How to make people listen to you'  Shot at 01:25 of a man sleeping",
+      "comment": "0:13 Intro 0:33 7 deadly sins of speaking 2:45 4 positive/powerful elements in speech 4:22 The toolbox 7:44 Vocal warmup 9:05 Conclusion",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 613.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 714.0,
+      "comment_timestamp": 13.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "4.0s - 10.0s",
+          "query": "Visually, the video shows the TED logo with a background of interconnected dots and lines, giving a sense of a network or connections. The text \"TED\" is in bold, with \"TED\" in red and \"Talks\" in black. Below it, the phrase \"Ideas worth spreading\" is written in a smaller font. The colors are mainly white, red, and black, with the background dots and lines in shades of gray and white. There are no people or actions visible in this segment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "10.0s - 16.0s",
+          "query": "Visual: A man is standing on a stage with a blue background behind him. He's wearing a light-colored blazer over a dark shirt. There are some circular patterns projected or displayed around him.\n\nAudio: The main thing heard is someone speaking, likely giving a talk or presentation. There's also applause from an audience at one point."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "16.0s - 22.0s",
+          "query": "Visually, there's a man standing in front of a blue background. He's wearing a beige jacket over a black shirt with a white collar. He seems to be speaking or presenting something. There are some dark circular shapes on the blue background, but they don't seem to be moving much. The man is mostly stationary, just talking or presenting.Audibly, there's a voice speaking. The speech is clear and seems to be about an instrument that can start a war. The tone is somewhat serious. There's no music or other sound effects, just the man's voice."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 232.60029983520508
     },
     {
       "comment_index": 63,
       "video_id": "eIho2S0ZahI",
-      "comment": "1:24 The guy sleeping lol!",
+      "comment": "Video on 'How to make people listen to you'  Shot at 01:25 of a man sleeping",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 522.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 613.0,
+      "comment_timestamp": 85.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "76.0s - 82.0s",
+          "query": "Well, in the visual part, there's a man with a really shocked or surprised look on his face. He's got his hands on his cheeks, and his eyes are wide open. Then, there's another man in a white suit jacket, standing against a blue background. He seems to be talking or presenting something. In the audio part, it's just the man talking, and it sounds like he's sharing something about his mother's last years being very negative. He mentions saying something to her on October 1st. So, what do you think about this? Do you have any similar experiences?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "82.0s - 88.0s",
+          "query": "Visual: A man is standing on stage against a blue background. He's wearing a light-colored blazer over a dark shirt with a checkered pattern. The audience is seated below him, some looking attentive while others seem amused or relaxed.\n\nAudio: There's laughter heard from the audience during this short clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "88.0s - 94.0s",
+          "query": "Visually, there's a man in a light-colored suit jacket and dark shirt standing on a stage. He's gesturing with his hands as if he's speaking or presenting. The background is blue with some abstract shapes. There's no other person or object visible.\n\nAudio-wise, there's a male voice speaking. The speech seems to be in English and is about negativity and complaining. There are no other sounds like music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 206.39747595787048
     },
     {
       "comment_index": 64,
       "video_id": "eIho2S0ZahI",
-      "comment": "+chawbok He noticed... look at his throat 5:13",
+      "comment": "1:24 The guy sleeping lol!",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 495.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 522.0,
+      "comment_timestamp": 84.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "75.0s - 81.0s",
+          "query": "Visual: A man with wide eyes and hands covering his mouth is shown. He looks surprised or shocked. The background seems plain.\n\nAudio: There's someone speaking, but it's not clear who they are or what they're saying due to the short duration. It could be a conversation or monologue."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "81.0s - 87.0s",
+          "query": "Visually, there's a man in a white suit jacket and a dark shirt with a patterned tie. He's standing in front of a blue background. The camera then shifts to show an audience, with people looking in different directions. The lighting is dim, and the audience seems attentive. There's a bit of movement as the camera pans across the audience.Audience: The man is speaking, and you can hear laughter from the audience. It sounds like a light-hearted or humorous speech."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "87.0s - 93.0s",
+          "query": "Visually, there's a man in a light-colored suit jacket and dark shirt standing on a stage. He seems to be speaking or presenting, gesturing with his hands. The background is a solid blue with some abstract shapes. There are also blurred images of people in the background, suggesting an audience.\n\nAudio-wise, there's a man speaking, and his words are \"it's hard to listen when somebody's that negative.\" There's also laughter from the audience, indicating a light-hearted or humorous moment."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 206.36856818199158
     },
     {
       "comment_index": 65,
       "video_id": "eIho2S0ZahI",
-      "comment": "1:24 that old man wasnt listening",
+      "comment": "+chawbok He noticed... look at his throat 5:13",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 405.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 495.0,
+      "comment_timestamp": 313.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "304.0s - 310.0s",
+          "query": "Visually, there's a man on stage wearing a light-colored suit with a striped shirt underneath. He has headphones around his neck and is gesturing while speaking. The background is blue with some abstract shapes.\n\nIn terms of audio, it seems like he's giving a speech or presentation, though I can't make out specific words from just these six seconds. There doesn't seem to be any other distinct sounds besides his voice."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "310.0s - 316.0s",
+          "query": "Sure! So, visually, there's someone standing on stage with a blue background featuring some abstract shapes. They're wearing a light-colored suit jacket over a dark shirt. The person is gesturing with their hands while speaking. In terms of audio, it seems like they're talking about \"depth\" and \"power,\" possibly related to authority or something similar. There might be some other words or phrases that aren't fully clear from just these six seconds.Anything else you want to know?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "316.0s - 322.0s",
+          "query": "Visual: A red toolbox with \"register timbre\" written on it is shown against a blue background.\n\nAudio: Someone is speaking about how voices that are rich feel preferred according to research."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 140.44699144363403
     },
     {
       "comment_index": 66,
       "video_id": "eIho2S0ZahI",
-      "comment": "Vocal Exercises begin at 7:50 :   1. Raise arms above head, take a deep breath, sigh loudly. \"AAaaaaaaahhhh.\"  2. Warm up lips.\"Bop. Bop. Bop. Bop. Bop.\"  3. Blow Raspberries. \"Bbbbbrrlllthhhhh.\"  4. Exaggerate LA's. \"LA. LA. LA. LA. LA.\"  5. Roll an R. Like champagne for the tongue. \"RrrRrRrrRrRrrRrR.\"  6. The Siren. The WE's are always high and the oo's are always low. \"WWWEEEEEeeeeeeeeeooooooowwWWWEEEEEeeeeooooooooowwwwwwwwwww.\"   I enjoyed writing this.",
+      "comment": "Obviously didn't work for the guy in 1:25 - 1:26 sleeping like a log while others were laughing.",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 345.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 452.0,
+      "comment_timestamp": 85.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "76.0s - 82.0s",
+          "query": "Well, in the visual part, there's a man with a really shocked or surprised look on his face. He's got his hands on his cheeks, and his eyes are wide open. Then, there's another man in a white suit jacket, standing against a blue background. He seems to be talking or presenting something. In the audio part, it's just the man talking, and it sounds like he's sharing something about his mother's last years being very negative. He mentions saying something to her on October 1st. So, what do you think about this? Do you have any similar experiences?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "82.0s - 88.0s",
+          "query": "Visual: A man is standing on stage against a blue background. He's wearing a light-colored blazer over a dark shirt with a checkered pattern. The audience is seated below him, some looking attentive while others seem amused or relaxed.\n\nAudio: There's laughter heard from the audience during this short clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "88.0s - 94.0s",
+          "query": "Visually, there's a man in a light-colored suit jacket and dark shirt standing on a stage. He's gesturing with his hands as if he's speaking or presenting. The background is blue with some abstract shapes. There's no other person or object visible.\n\nAudio-wise, there's a male voice speaking. The speech seems to be in English and is about negativity and complaining. There are no other sounds like music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 210.23858094215393
     },
     {
       "comment_index": 67,
       "video_id": "eIho2S0ZahI",
-      "comment": "At 1:24 when the camera shows the crowd there’s a old guy with glasses sleeping",
+      "comment": "Vocal Exercises begin at 7:50 :   1. Raise arms above head, take a deep breath, sigh loudly. \"AAaaaaaaahhhh.\"  2. Warm up lips.\"Bop. Bop. Bop. Bop. Bop.\"  3. Blow Raspberries. \"Bbbbbrrlllthhhhh.\"  4. Exaggerate LA's. \"LA. LA. LA. LA. LA.\"  5. Roll an R. Like champagne for the tongue. \"RrrRrRrrRrRrrRrR.\"  6. The Siren. The WE's are always high and the oo's are always low. \"WWWEEEEEeeeeeeeeeooooooowwWWWEEEEEeeeeooooooooowwwwwwwwwww.\"   I enjoyed writing this.",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 268.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 345.0,
+      "comment_timestamp": 470.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "461.0s - 467.0s",
+          "query": "**Visual:** A bald man wearing a beige suit jacket over a dark shirt is speaking on stage against a blue background with geometric shapes.\n\n**Audio:** The speaker is talking about an engine working well without being warmed up, advising to warm up your voice."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "467.0s - 473.0s",
+          "query": "Visually, there's a man on a stage at a TED event. He's standing in front of a large screen showing a globe. The stage has a red carpet and some circuit board-like designs on the sides. The audience is seated in rows, looking at the speaker. The lighting is focused on the speaker, making him the main focus.Audibly, the man is speaking, and he seems to be asking the audience to stand up for a moment. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "473.0s - 479.0s",
+          "query": "I'm sorry, I can't analyze videos directly. But if you describe the video to me, I'd be happy to help!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 161.7201476097107
     },
     {
       "comment_index": 68,
@@ -89,65 +221,179 @@
       "comment": "Stranger : How to speak so that people want to listen?   Me : 8:49",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
+      "category": "talk show",
       "likes": 252.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "comment_timestamp": 529.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "520.0s - 526.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short description. It doesn't seem like it gives enough information about either the visual or the audio aspects of the video. Hmm. Maybe you could give me more details? That way, I can help you better!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "526.0s - 532.0s",
+          "query": "**Visual:** A man is standing on a stage with his arms outstretched. He's wearing a light-colored blazer over a dark shirt and light pants. The background appears to be a large screen or projection surface with some abstract shapes.\n\n**Audio:** There is no clear dialogue or speech audible during these six seconds. Instead, there seems to be a sound effect that resembles a whooshing noise, possibly indicating movement or transition."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "532.0s - 538.0s",
+          "query": "Visual: The video shows a large group of people sitting in rows, likely in an auditorium or conference hall. They are dressed formally, suggesting a professional or formal event. The lighting is dim, focusing on the stage area. The people appear attentive, some smiling or nodding.\n\nAudio: There is a man speaking on stage, and the audience responds with applause. The man's speech seems to be engaging, as indicated by the enthusiastic applause."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 187.95118641853333
     },
     {
       "comment_index": 69,
       "video_id": "eIho2S0ZahI",
-      "comment": "1:24 that guy. So perfect",
+      "comment": "0:34  😂 anyone hare 2025 🎉",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 240.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 235.0,
+      "comment_timestamp": 34.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "25.0s - 31.0s",
+          "query": "Visually, there's a man on stage against a blue background with some dark shapes. He's wearing a light-colored blazer over a black shirt. The audience is visible in front of him, seated in rows.\n\nIn terms of audio, it seems like he's giving a speech or presentation. There might be some ambient noise from the audience, but no distinct music or sound effects stand out. It looks like a formal event, probably a TED talk given the \"RECORDED AT TEDGLOBAL\" text at the bottom. So, how do you think we can speak powerfully?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "31.0s - 37.0s",
+          "query": "Visual: The video shows a large auditorium filled with people sitting in rows of seats. The audience appears attentive, facing forward. The setting has a warm, dim lighting, creating a focused and somewhat formal atmosphere. There's a stage area visible, but no specific details about the stage itself are shown.\n\nAudio: A man is speaking, likely delivering a presentation or lecture. His voice is clear and confident, suggesting he's addressing the audience directly. There are no other noticeable sounds or music in the background."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "37.0s - 43.0s",
+          "query": "Sure! So, in the video, there's a man standing on a stage. He's wearing a light-colored suit and is gesturing with his hands as he speaks. The background is blue with some abstract shapes. In the audio, you can hear him talking, but there's no music or sound effects. It's just his speech.Anything else you want to know about the video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 216.87324857711792
     },
     {
       "comment_index": 70,
       "video_id": "eIho2S0ZahI",
-      "comment": "That sleeping grandpa at 1:24 tho XD",
+      "comment": "that one lone laugh at the beginning killed me. 0:45",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 237.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 227.0,
+      "comment_timestamp": 45.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "36.0s - 42.0s",
+          "query": "Sure! So, in the video, there's a man standing on a stage. He's wearing a light-colored suit and a dark shirt. He's talking and gesturing with his hands. The background is blue with some abstract shapes.The audio is just the man speaking. He seems to be explaining something, maybe giving a presentation or lecture. There are no other sounds or music.What do you think about the video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "42.0s - 48.0s",
+          "query": "Sure! So, for the visual part:.There's a bald man wearing a light-colored blazer over a dark shirt with a checkered collar. He seems to be speaking or presenting something. The background is blue with some darker shapes, maybe circles.The audio part:.The main thing here is someone talking about habits that can change lives. It s pretty straightforward, no other sounds like music or sound effects.What do you think? Any specific details you want me to focus on more?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "48.0s - 54.0s",
+          "query": "Visually, there's a man in a beige suit standing on a red circular platform. Behind him, there's a large screen showing two people whispering to each other. The background is blue with some abstract patterns. The man seems to be speaking or presenting something.\n\nAudio-wise, there's a male voice speaking, but the content of what he says isn't clear from this short segment. There's no music or sound effects, just the man's voice."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 246.41061401367188
     },
     {
       "comment_index": 71,
       "video_id": "eIho2S0ZahI",
-      "comment": "0:34  😂 anyone hare 2025 🎉",
+      "comment": "the best time to sleep is in ted talks 1:23 xD",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 235.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 220.0,
+      "comment_timestamp": 83.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "74.0s - 80.0s",
+          "query": "Visually, there's a man with wide - open eyes and hands covering his mouth. He looks really surprised or shocked. The background is plain and light - colored. There's also a bald man in a suit with a tie, looking serious and a bit stern. The scene seems to be indoors, and there's no clear indication of movement or other objects.\n\nAudio - wise, there's a voice speaking. The speech is about someone's mother becoming very negative in her last years of life, and it's hard to listen to. There's no music or sound effects, just the voice."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "80.0s - 86.0s",
+          "query": "Visually, there's a man in a light-colored suit jacket and dark shirt standing in front of a blue background. He seems to be speaking or presenting. In the audience, there are several people, some looking attentive, others smiling or reacting. The lighting is focused on the speaker, making him the main focus.\n\nAudibly, there's a man speaking, and then laughter can be heard, suggesting a humorous or light-hearted moment in his speech."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "86.0s - 92.0s",
+          "query": "Visually, there's a man in a light-colored suit standing on a stage with a blue background. He seems to be speaking or presenting, gesturing with his hands. The audience is visible in the foreground, some looking at him, others chatting. The lighting is focused on the speaker, making him the main focus. The colors are mainly the blue of the background and the light color of the speaker's suit, with the audience in darker tones.Audibly, there's a man speaking, likely the same man on stage. He seems to be delivering a speech or presentation. There's also laughter from the audience, indicating that the speaker might be making jokes or humorous remarks. The overall atmosphere seems to be a formal event, like a conference or seminar."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 292.32478427886963
     },
     {
       "comment_index": 72,
       "video_id": "eIho2S0ZahI",
-      "comment": "that one lone laugh at the beginning killed me. 0:45",
+      "comment": "\"How to speak so people want to listen\"  Video Length, 9:58 Average watch time 5:34  Thats under 60% of the video. Passing a test in school requires 60%. I'm just stating some facts here.",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 227.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 157.0,
+      "comment_timestamp": 334.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "325.0s - 331.0s",
+          "query": "Visually, there's a bald man wearing a light-colored blazer over a dark shirt. He's standing against a blue background with some darker blue circular shapes. He seems to be speaking or presenting something. There's no significant movement other than his head turning slightly.\n\nIn terms of audio, there's a man speaking. The speech includes phrases like \"chocolate well if that's not you that's\" and \"not the end of the world because you can.\" The tone seems calm and somewhat reassuring."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "331.0s - 337.0s",
+          "query": "**Visual:** A man is standing on a stage with a blue background featuring abstract black shapes. He's wearing a light-colored blazer over a dark shirt. His hands are gesturing as he speaks.\n\n**Audio:** The speaker is talking about amazing things that can be done with breathing, posture, and exercises."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "337.0s - 343.0s",
+          "query": "Visually, there's a man in a beige suit standing in front of a blue background. He seems to be speaking or presenting. There's also a red toolbox with \"register timbre prosody\" written on it in yellow. The toolbox has a metal handle and a latch.\n\nAudio-wise, there's a man speaking. The speech is about improving voice timbre and prosody, mentioning \"I love prosody\" and \"the sing song the metal.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 234.63200283050537
     },
     {
       "comment_index": 73,
       "video_id": "eIho2S0ZahI",
-      "comment": "the best time to sleep is in ted talks 1:23 xD",
+      "comment": "Imagine someone being late and walking in at 8:30",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 220.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 120.0,
+      "comment_timestamp": 510.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "501.0s - 507.0s",
+          "query": "Visually, there's a crowd of people in the background, some looking towards the front. The lighting seems dim, suggesting an indoor setting, possibly a theater or conference hall. The people are mostly dressed in semi-formal or formal attire. There's a man in the foreground who appears to be speaking or presenting, wearing a light-colored jacket over a dark shirt. He seems to be the focus of the scene, standing out from the crowd.\n\nAudibly, there's a sound effect that resembles a burp, followed by a man speaking. The speech is clear and seems to be directed at the audience. The burp sound effect is quite noticeable and seems to be part of the speech, possibly for comedic or dramatic effect."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "507.0s - 513.0s",
+          "query": "**Visual:** The video shows a man in a light-colored suit jacket and dark shirt standing in front of a blue background. He appears to be speaking or presenting. The camera then shifts to show an audience, with people looking attentive and some smiling. The lighting is focused on the speaker and audience, creating a clear view of their expressions.\n\n**Audio:** The audio features a man speaking, likely delivering a presentation or speech. His voice is clear and confident. There are no other distinct sounds or music in the background."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "513.0s - 519.0s",
+          "query": "Visually, there's a man speaking on stage with an audience behind him. He seems to be giving a presentation or lecture. The background is mostly blue with some darker areas. The audience looks attentive.\n\nAudibly, it's mainly the man talking. There might be some faint ambient noise from the audience, like whispers or rustling, but nothing too prominent."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 234.95239973068237
     },
     {
       "comment_index": 74,
@@ -155,76 +401,209 @@
       "comment": "4:01 \"Tempered with love, honesty is a great thing.\" What a powerful statement; so, so true.",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
+      "category": "talk show",
       "likes": 115.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "comment_timestamp": 241.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "232.0s - 238.0s",
+          "query": "Visually, there's a man in a light-colored suit jacket and a striped shirt. He's standing in front of a blue background with some abstract shapes. He seems to be speaking and gesturing with his hands. There's no other person or object in the frame.\n\nAudio-wise, there's a man speaking. He says, \"For two reasons, first of all, I think absolute honesty may not be what we want. I mean, my goodness, you look ugly this morning.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "238.0s - 244.0s",
+          "query": "Visually, there's a man in a light-colored suit jacket and a dark shirt standing on a stage. He seems to be speaking or presenting, gesturing with his hands. The background is blue with some abstract shapes. There are also blurred images of an audience in the foreground, suggesting a theater or conference setting. The lighting is focused on the speaker, making him the main focus.Audibly, there's a man speaking, and he says \"perhaps that's not necessary tempered with love of course.\" The tone seems somewhat serious or reflective. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "244.0s - 250.0s",
+          "query": "**Visual:** The video shows a person standing on a red circular platform in front of a large screen. The screen displays words like \"Honesty, \" \"Authenticity, \" \"Integrity, \" and \"Love\" in different colors. There are also some abstract blue and green shapes on the screen. The person appears to be giving a speech or presentation.\n\n**Audio:** The audio features a man speaking. He says, \"Honesty is a great thing but also if you're really wishing somebody well it's very hard to judge them.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 251.79825043678284
     },
     {
       "comment_index": 75,
       "video_id": "eIho2S0ZahI",
-      "comment": "Speaker: Talks about how to speak so that people want to listen  Guy at 1:25",
+      "comment": "Anyone here 2025 1:47",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 105.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 92.0,
+      "comment_timestamp": 107.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "98.0s - 104.0s",
+          "query": "Visually, there's a man in a beige suit jacket and light-colored pants standing on a stage. He's bald and has glasses. He's gesturing with his hands as if he's speaking or presenting. The background is blue with some black geometric shapes. There's no other person or object visible in the frame.\n\nAudio-wise, there's a man speaking. He seems to be talking about various topics like national sport, complaining about the weather, sports, politics, and everything else. His tone suggests he might be a bit sarcastic or critical. There's no music or sound effects, just his speech."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "104.0s - 110.0s",
+          "query": "Well, in the visual part, there's a man standing on a stage. He's wearing a beige suit and a black shirt. He seems to be giving a speech or presentation. The background is blue with some abstract shapes. There's also a big screen behind him showing his image. In the audio part, it's just the man speaking. He's talking about something related to spreading sunshine and lightness in the world, but it's not clear what exactly he's saying. There's no music or sound effects, just his speech. So, what do you think about this video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "110.0s - 116.0s",
+          "query": "Visually, there's a man standing with his arms outstretched against a plain gray background. He seems to be gesturing or presenting something. There aren't any other objects or people visible.\n\nIn terms of audio, it's just someone speaking. The speaker is talking about \"this guy\" and mentions that some people have a \"blame thrower.\" No music or sound effects are present."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 200.04366540908813
     },
     {
       "comment_index": 76,
       "video_id": "eIho2S0ZahI",
-      "comment": "1:25 Pretty sure that guy's dead! LoL",
+      "comment": "He made them look like idiots XD 8:22",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 98.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 84.0,
+      "comment_timestamp": 502.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "493.0s - 499.0s",
+          "query": "**Visual:** The video shows a man in a light-colored suit jacket and dark shirt standing in front of a blue background. He appears to be speaking or presenting. The camera then shifts to show an audience, consisting of several people, some of whom are looking towards the speaker. The lighting is dim, suggesting an indoor setting, possibly a conference or seminar.\n\n**Audio:** The audio features a man speaking, though the specific words are not provided. There are no other discernible sounds or music in the clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "499.0s - 505.0s",
+          "query": "Visual: The video shows a man speaking on stage to an audience. He's wearing a light-colored suit jacket over a dark shirt. The background is mostly blue with some darker areas. There are many people in the audience watching him attentively.\n\nAudio: There s no clear speech or music in the audio. Instead, there s just a strange, loud buzzing noise that lasts for about six seconds. It kind of resembles a bug buzzing around."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "505.0s - 511.0s",
+          "query": "Visually, there's a man in a white jacket and dark shirt standing in front of a blue background. He seems to be speaking or presenting, and there are other people in the background, suggesting an audience. The scene looks like it could be from a conference or a talk show. The colors are mainly blue and white, with some darker tones in the clothing of the people in the background. There's some movement, like the man's gestures and the slight shifts in the audience's positions.\n\nAudio-wise, there's a voice speaking, likely giving instructions or commentary. The speech includes phrases like \"now your lips should be coming alive\" and \"we're going to do the tongue next with exaggerated la la la.\" It sounds like it's guiding someone through a demonstration or an exercise."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 204.81286931037903
     },
     {
       "comment_index": 77,
       "video_id": "eIho2S0ZahI",
-      "comment": "Anyone here 2025 1:47",
+      "comment": "Start the video at 3:04 then immediately pause it and move to 8:04 so disturbing",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 92.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 62.0,
+      "comment_timestamp": 484.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "475.0s - 481.0s",
+          "query": "Visually, there's a man speaking on stage with an audience in the background. He's wearing a light-colored blazer over a dark shirt. The setting seems to be indoors, possibly at a conference or event.\n\nAudio-wise, it's just his voice talking without any other distinct sounds like music or sound effects. It appears he might be giving a presentation or lecture."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "481.0s - 487.0s",
+          "query": "Visually, there's a person on a stage with a large screen behind them. The screen shows a maze-like pattern. The person seems to be giving a presentation or speech. The audience is visible in the foreground, some with their hands raised. The lighting is focused on the stage, making it stand out against the darker surroundings. The colors are mainly dark with some bright spots from the stage lights and the screen.Audibly, there's a voice speaking, likely the person on the stage. The speech includes instructions like \"Do these first, arms up, deep breath in, and sigh out.\" There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "487.0s - 493.0s",
+          "query": "Visual: A large crowd is shown, looking attentive and engaged. The lighting suggests an indoor event or presentation setting. There's also a stage with a person standing on it, possibly giving a talk.\n\nAudio: Someone is speaking, likely introducing or transitioning to another part of the event. The tone seems positive and encouraging."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 183.43407773971558
     },
     {
       "comment_index": 78,
       "video_id": "eIho2S0ZahI",
-      "comment": "Bro is NOT listening at 1:25 😂",
+      "comment": "It's not my job description to \"spread sunshine and light in the world\"  1:44  This guy is a cretin.  I am reminded about a book by Barbara Ehrenriech where she talks about how when they hire people they hire those who are likely to be sort of robotic ... that is, mindlessly positive.  Sure, it's great to get along and make others comfortable and happy, but the larger context in the world today is massive corruption and inequality, and forcing people to put on a smile and not say anything negative or criticize people just enables things to stay the same or get worse.",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 84.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 56.0,
+      "comment_timestamp": 104.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "95.0s - 101.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short clip. There seems to be no visible action or objects, just a blank space. And for the audio, it's also empty - no speech, music, or anything else. So, hmm, not much going on here. What do you think? Maybe there was something I missed?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "101.0s - 107.0s",
+          "query": "Visually, there's a man standing on a stage. He's wearing a light-colored suit jacket, a dark shirt, and light-colored pants. He seems to be speaking and gesturing with his hands. The background is blue with some abstract black shapes. There's no significant movement other than the man's gestures.Audibly, there's a man speaking. The speech is clear and seems to be about complaining and its effects on spreading misery rather than sunshine and lightness."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "107.0s - 113.0s",
+          "query": "Visual: A man is standing on a stage with a red carpet circle beneath him. Behind him, there's a large screen showing another person gesturing. The background has blue circuit-like patterns.\n\nAudio: There's a male voice speaking, but no specific words or phrases can be clearly identified from just these six seconds."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 165.64507007598877
     },
     {
       "comment_index": 79,
       "video_id": "eIho2S0ZahI",
-      "comment": "It's not my job description to \"spread sunshine and light in the world\"  1:44  This guy is a cretin.  I am reminded about a book by Barbara Ehrenriech where she talks about how when they hire people they hire those who are likely to be sort of robotic ... that is, mindlessly positive.  Sure, it's great to get along and make others comfortable and happy, but the larger context in the world today is massive corruption and inequality, and forcing people to put on a smile and not say anything negative or criticize people just enables things to stay the same or get worse.",
+      "comment": "6:08  2026 any people 😢",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 56.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 43.0,
+      "comment_timestamp": 368.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "359.0s - 365.0s",
+          "query": "Visually, there's a man in a light-colored suit jacket and a dark shirt with a patterned tie. He's standing in front of a blue background with some abstract shapes. He seems to be speaking and gesturing with his hands, possibly holding a small object in one hand. The lighting is bright, highlighting him clearly.\n\nAudio-wise, it's just the man speaking. There are no other sounds like music or sound effects. The speech is clear and seems to be the main focus."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "365.0s - 371.0s",
+          "query": "Visually, there's a man in a beige suit standing on a stage. He's holding a small object in his hand and seems to be speaking or presenting. The background is blue with some abstract shapes. There's also a red toolbox with words like \"register\", \"timbre\", \"prosody\" on it, and a \"TED\" logo below it. The man is bald and wearing a dark shirt under his suit. He's gesturing with his hand while speaking.\n\nAudio-wise, there's a male voice speaking, and it sounds like he's making a statement rather than asking a question. There's also laughter heard in the background, suggesting the audience is reacting to what he's saying."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "371.0s - 377.0s",
+          "query": "Visual: There's a man standing on a red circular platform. Behind him, there's a large screen displaying a red toolbox with the words \"register\", \"timbre\", \"prosody\" written on it. The background has a blue and black circuit-like pattern. The man is wearing a light-colored suit and is gesturing with his hands while speaking. The overall setting seems to be a stage or a presentation area.\n\nAudio: The man is speaking, and his speech is the main audio component. There are no other distinct sound effects or music in the background."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 282.5288770198822
     },
     {
       "comment_index": 80,
       "video_id": "eIho2S0ZahI",
-      "comment": "6:08  2026 any people 😢",
+      "comment": "5:55 another one",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 43.0,
-      "error": "Video file not found: eIho2S0ZahI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 40.0,
+      "comment_timestamp": 355.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "346.0s - 352.0s",
+          "query": "Visually, there's a bald man in a light-colored suit jacket and a dark shirt with a patterned tie. He's standing against a blue background with some abstract shapes. He seems to be speaking and gesturing with his hands. There's no other person or object in the frame. The colors are mainly blue, beige, and dark tones from his shirt and tie. The movement is mainly the man's gestures as he speaks.Audibly, there's a man speaking. The speech is clear and seems to be in English. There are no other sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "352.0s - 358.0s",
+          "query": "Well, in the video, there's a man in a beige suit jacket and a black shirt. He seems to be speaking or presenting something. He's standing in front of a blue background with some darker blue shapes on it. There are also some other people in the background, but they're not really the focus.The audio part is just the man speaking. There's no music or sound effects, just his voice. It sounds like he's talking about something, but it's hard to tell exactly what without more context.So, what do you think about this? Do you have any other questions about the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "358.0s - 364.0s",
+          "query": "Visually, there's a man in a light-colored suit jacket and a dark shirt with a patterned tie. He's standing on a stage with a blue background that has some abstract shapes. He's holding something small in his left hand and gesturing with his right hand. He seems to be speaking or presenting.\n\nAudio-wise, there's a man speaking. The speech is in English and seems to be about something related to \"monotone\" and \"repetitive prosody.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 264.4357657432556
     }
   ]
 }

@@ -1,109 +1,279 @@
 {
   "video_id": "wtPBOwE0Qn0",
   "total_comments": 9,
-  "successful_comments": 0,
-  "failed_comments": 9,
-  "success_rate": "0.0%",
-  "processing_time": 0.0022258758544921875,
+  "successful_comments": 9,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 2035,
+      "comment_index": 2492,
       "video_id": "wtPBOwE0Qn0",
       "comment": "2:58 So they said \"Change the world my final message good bye\" :)",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 4.0,
-      "error": "Video file not found: wtPBOwE0Qn0",
-      "analysis_type": "failed"
+      "comment_timestamp": 178.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "169.0s - 175.0s",
+          "query": "**Visual:** The video shows a series of black-and-white illustrations. In one scene, a man is lying on a couch with his eyes closed, appearing to be asleep or unconscious. There's a tall column-like structure behind him. Another illustration depicts two figures in an indoor setting; one figure seems to be holding or interacting with the other, who appears to be in distress.\n\n**Audio:** The audio consists of a woman speaking in French. She says, \"La femme est libre, la femme est puissante.\" This translates to \"The woman is free, the woman is powerful.\"\n\nLet me know if you'd like more details!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "175.0s - 181.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 12.28 GiB. GPU 0 has a total capacity of 23.56 GiB of which 10.03 GiB is free. Including non-PyTorch memory, this process has 13.52 GiB memory in use. Of the allocated memory 11.98 GiB is allocated by PyTorch, and 1.23 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "181.0s - 187.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 13.81 GiB. GPU 0 has a total capacity of 23.56 GiB of which 2.53 GiB is free. Including non-PyTorch memory, this process has 21.02 GiB memory in use. Of the allocated memory 20.25 GiB is allocated by PyTorch, and 469.33 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 39.677168130874634
     },
     {
-      "comment_index": 2036,
+      "comment_index": 2493,
       "video_id": "wtPBOwE0Qn0",
       "comment": "6:23 \"non-western or so-called primitive cultures\" EXCUSE ME, who writes your scripts?",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 1.0,
-      "error": "Video file not found: wtPBOwE0Qn0",
-      "analysis_type": "failed"
+      "comment_timestamp": 383.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "374.0s - 380.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 52.22 GiB. GPU 0 has a total capacity of 23.56 GiB of which 2.53 GiB is free. Including non-PyTorch memory, this process has 21.02 GiB memory in use. Of the allocated memory 9.17 GiB is allocated by PyTorch, and 11.54 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "380.0s - 386.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 2 has a total capacity of 23.56 GiB of which 3.91 GiB is free. Including non-PyTorch memory, this process has 19.64 GiB memory in use. Of the allocated memory 19.09 GiB is allocated by PyTorch, and 243.29 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "386.0s - 392.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 2 has a total capacity of 23.56 GiB of which 5.91 GiB is free. Including non-PyTorch memory, this process has 17.64 GiB memory in use. Of the allocated memory 11.07 GiB is allocated by PyTorch, and 6.26 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 303.0631687641144
     },
     {
-      "comment_index": 2037,
+      "comment_index": 2494,
       "video_id": "wtPBOwE0Qn0",
       "comment": "1:05.  'Parade' ~ parade, assume at least 3 meanings + Time. 1) Freud: A DIFFICULTY IN THE PATH OF PSYCHO-ANALYSIS(1917) \"I will say at once that it is not an intellectual difficulty I am thinking of, not anything that makes psycho- analysis hard for the hearer or reader to understand, but an affective one - something that alienates the feelings of those who come into contact with it, so that they become lessinclined to believe in it or take an interest in it. As will be observed, the two kinds of difficulty amount to the same thing in the end. Where sympathy is lacking, understanding will not come very easily.\" 2) Moses | Trojan Horse  | Joshua 'Karen Horney' Whores Jericho Walls  3) \"The New Mission of Judex\" serial 4) Chaplin \"The Floorwalker\" (1916) satire of Futurism and Marcel Duchamp (get one back for the 'team'). Temporal:   Gimbal's 🦃  🎁 🛷 1920 Philadelphia  \"1917\" 2019 Redbox DVD COVID-19 parade.",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 0.0,
-      "error": "Video file not found: wtPBOwE0Qn0",
-      "analysis_type": "failed"
+      "comment_timestamp": 65.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "56.0s - 62.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 2 has a total capacity of 23.56 GiB of which 5.91 GiB is free. Including non-PyTorch memory, this process has 17.64 GiB memory in use. Of the allocated memory 11.07 GiB is allocated by PyTorch, and 6.26 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "62.0s - 68.0s",
+          "query": "**Visual:** The video shows a black-and-white image with text at the top reading \"L'AMOUR vous aimerez LE SURREALISME\" followed by more text about surrealist centers. Below that, there's an illustration featuring three figures dressed in surrealistic costumes, standing against a plain background.\n\n**Audio:** There is no discernible audio in this clip; it consists solely of visuals without any spoken words or music."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "68.0s - 74.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 2 has a total capacity of 23.56 GiB of which 5.91 GiB is free. Including non-PyTorch memory, this process has 17.64 GiB memory in use. Of the allocated memory 11.07 GiB is allocated by PyTorch, and 6.26 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 394.0847215652466
     },
     {
-      "comment_index": 2038,
-      "video_id": "wtPBOwE0Qn0",
-      "comment": "This is a bit strange, also Japan isn't here at 0:41",
-      "language": "en",
-      "channel_name": "theartassignment",
-      "category": "art/design",
-      "likes": 0.0,
-      "error": "Video file not found: wtPBOwE0Qn0",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 2039,
+      "comment_index": 2495,
       "video_id": "wtPBOwE0Qn0",
       "comment": "The image at 5:58 is stunning.. surrealism FTW",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 0.0,
-      "error": "Video file not found: wtPBOwE0Qn0",
-      "analysis_type": "failed"
+      "comment_timestamp": 358.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "349.0s - 355.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.26 GiB. GPU 0 has a total capacity of 23.56 GiB of which 2.53 GiB is free. Including non-PyTorch memory, this process has 21.02 GiB memory in use. Of the allocated memory 18.47 GiB is allocated by PyTorch, and 2.23 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "355.0s - 361.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 10.91 GiB. GPU 0 has a total capacity of 23.56 GiB of which 2.53 GiB is free. Including non-PyTorch memory, this process has 21.02 GiB memory in use. Of the allocated memory 17.13 GiB is allocated by PyTorch, and 3.58 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "361.0s - 367.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 20.63 GiB. GPU 0 has a total capacity of 23.56 GiB of which 2.53 GiB is free. Including non-PyTorch memory, this process has 21.02 GiB memory in use. Of the allocated memory 6.94 GiB is allocated by PyTorch, and 13.77 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 6.813326597213745
     },
     {
-      "comment_index": 2040,
+      "comment_index": 2496,
+      "video_id": "wtPBOwE0Qn0",
+      "comment": "This is a bit strange, also Japan isn't here at 0:41",
+      "language": "en",
+      "channel_name": "theartassignment",
+      "category": "art/design",
+      "likes": 0.0,
+      "comment_timestamp": 41.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "32.0s - 38.0s",
+          "query": "**Visual:** The video shows a black-and-white photograph of a group of people dressed in various costumes, possibly from a theatrical or artistic performance. They appear to be posing together, with some individuals standing and others sitting. The costumes seem eclectic, including hats, masks, and other unique accessories.\n\n**Audio:** There is no discernible dialogue or music in the audio portion of the video; it consists solely of background noise that could be ambient room sounds."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "38.0s - 44.0s",
+          "query": "**Visual:** The video shows a series of images including a page with text on it, a black and white photo of the Eiffel Tower, and a map highlighting various geographical locations like Russia, Alaska, and the Pacific Ocean. There's also an abstract image featuring a red balloon-like shape against a textured background.\n\n**Audio:** The audio consists of a voice speaking French, which seems to be reciting or reading out some lines from the text shown in the first frame."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "44.0s - 50.0s",
+          "query": "**Visual:** The video shows various surrealistic images. There's an abstract painting with shapes like circles and lines on a textured background. Then there's a black-and-white photo of a person wearing goggles and a hat, standing among soldiers. Next is a surreal image of a lobster on top of a rotary dial telephone.\n\n**Audio:** No distinct audio elements or dialogue can be heard in these six seconds. It seems to rely solely on visuals without any accompanying sound."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 155.63132452964783
+    },
+    {
+      "comment_index": 2497,
       "video_id": "wtPBOwE0Qn0",
       "comment": "1:11 is that Layne Staley?",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 0.0,
-      "error": "Video file not found: wtPBOwE0Qn0",
-      "analysis_type": "failed"
+      "comment_timestamp": 71.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "62.0s - 68.0s",
+          "query": "**Visual:** The video shows a black-and-white image with text at the top reading \"L'AMOUR vous aimerez LE SURREALISME\" followed by more text about surrealist centers. Below that, there's an illustration featuring three figures dressed in surrealistic costumes, standing against a plain background.\n\n**Audio:** There is no discernible audio in this clip; it consists solely of visuals without any spoken words or music."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "68.0s - 74.0s",
+          "query": "**Visual:** The video shows a series of black-and-white images featuring various objects and figures. There's a person standing next to a horse with polka dots, another figure holding an object, and a statue-like head. The background is plain, emphasizing the subjects.\n\n**Audio:** No distinct audio elements like speech or music are present; it appears to be silent throughout the segment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "74.0s - 80.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 10.32 GiB. GPU 0 has a total capacity of 23.56 GiB of which 2.53 GiB is free. Including non-PyTorch memory, this process has 21.02 GiB memory in use. Of the allocated memory 10.92 GiB is allocated by PyTorch, and 9.79 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 83.66520500183105
     },
     {
-      "comment_index": 2041,
+      "comment_index": 2498,
       "video_id": "wtPBOwE0Qn0",
       "comment": "Who the fuck drew that messed up map @6:24",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 0.0,
-      "error": "Video file not found: wtPBOwE0Qn0",
-      "analysis_type": "failed"
+      "comment_timestamp": 384.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "375.0s - 381.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 55.25 GiB. GPU 0 has a total capacity of 23.56 GiB of which 2.53 GiB is free. Including non-PyTorch memory, this process has 21.02 GiB memory in use. Of the allocated memory 9.38 GiB is allocated by PyTorch, and 11.33 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "381.0s - 387.0s",
+          "query": "**Visual:** The video shows a series of objects, starting with a dark, elongated object resembling a piece of wood or a fossil. It then transitions to another similar-looking object. Following that, there's an abstract sculpture with a pointed top and a base. Finally, it displays a surrealistic map of the world from 1929.\n\n**Audio:** There is no discernible dialogue or spoken words in the audio portion of the video."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "387.0s - 393.0s",
+          "query": "**Visual:** The video shows a black-and-white image of a surreal map of the world from 1929. It features distorted geographical outlines with labels like \"RUSSE,\" \"ALASKA,\" and \"OCEAN.\" Below the map is an old photograph of a display case filled with various objects, including sculptures, masks, and other art pieces. The setting appears to be an exhibition space.\n\n**Audio:** There is no audible dialogue or music in the provided segment. The only sound is the faint background noise typical of an indoor environment, possibly an art gallery or museum."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 123.51130509376526
     },
     {
-      "comment_index": 2042,
+      "comment_index": 2499,
       "video_id": "wtPBOwE0Qn0",
       "comment": "5:46   CORN BIN  Here is a huge one.",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 0.0,
-      "error": "Video file not found: wtPBOwE0Qn0",
-      "analysis_type": "failed"
+      "comment_timestamp": 346.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "337.0s - 343.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.26 GiB. GPU 0 has a total capacity of 23.56 GiB of which 2.53 GiB is free. Including non-PyTorch memory, this process has 21.02 GiB memory in use. Of the allocated memory 18.47 GiB is allocated by PyTorch, and 2.23 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "343.0s - 349.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 2 has a total capacity of 23.56 GiB of which 5.91 GiB is free. Including non-PyTorch memory, this process has 17.64 GiB memory in use. Of the allocated memory 11.12 GiB is allocated by PyTorch, and 6.21 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "349.0s - 355.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.26 GiB. GPU 0 has a total capacity of 23.56 GiB of which 2.53 GiB is free. Including non-PyTorch memory, this process has 21.02 GiB memory in use. Of the allocated memory 18.47 GiB is allocated by PyTorch, and 2.23 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 152.69282793998718
     },
     {
-      "comment_index": 2043,
+      "comment_index": 2500,
       "video_id": "wtPBOwE0Qn0",
       "comment": "whats the name of the movie in the 0:10 that shows, thank you",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 0.0,
-      "error": "Video file not found: wtPBOwE0Qn0",
-      "analysis_type": "failed"
+      "comment_timestamp": 10.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1.0s - 7.0s",
+          "query": "**Visual:** The video starts with a gray background featuring the letters \"PBS\" in large font. It then transitions to an image resembling Salvador Dalí's \"The Persistence of Memory,\" where clocks appear melted or distorted. A man wearing a top hat is depicted, with his face obscured by a green apple. The scene includes surreal elements like a tree without leaves and a landscape that seems to blend reality and fantasy.\n\n**Audio:** There is no discernible dialogue or spoken words. Instead, there is instrumental music playing throughout the video, creating an atmospheric and somewhat dreamlike ambiance."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "7.0s - 13.0s",
+          "query": "**Visual:** The video starts with an image of a cup and saucer covered in fur, creating a surreal and unusual scene. It then transitions to a black-and-white shot of a person's face partially obscured by their hand, giving off a mysterious vibe. Next, there s a scene showing two people sitting at a table, one writing on a notepad while the other looks on. This is followed by a dreamy sequence where a woman in a white dress appears to be floating or flying above water, with seagulls and a starry sky in the background. Finally, it ends with a close-up of someone holding a piece of paper.\n\n**Audio:** There seems to be no distinct audio mentioned here—no speech, music, sound effects, or ambient sounds described."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "13.0s - 19.0s",
+          "query": "**Visual:** The video features a series of surreal images and text. It starts with a person lying on their back, seemingly floating or suspended mid-air against a starry night sky backdrop. This is followed by a close-up of a dictionary page highlighting the word \"surreal\" along with its definition. Various framed pictures and illustrations surround the text, adding to the dreamlike quality.\n\n**Audio:** There is no discernible spoken dialogue or background music in this short clip. The focus remains entirely on the visual elements presented."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 68.186758518219
     }
   ]
 }

@@ -1,0 +1,609 @@
+{
+  "video_id": "OQaLic5SE_I",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 7822,
+      "video_id": "OQaLic5SE_I",
+      "comment": "6:17 boy has daughter",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 613.0,
+      "comment_timestamp": 377.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "368.0s - 374.0s",
+          "query": "Visual: A classroom scene with students sitting at desks. There's an American flag on one side. The teacher is standing near the whiteboard, which has some writing on it.\n\nAudio: Someone is speaking, likely giving instructions or making an announcement about sending photos to a gymnasium."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "374.0s - 380.0s",
+          "query": "Visual: A classroom setting with a teacher standing near a whiteboard filled with notes and diagrams. Students are seated at desks, some raising their hands or looking towards the teacher.\n\nAudio: Someone is speaking, saying \"classroom Timotei I gotta go pick up my daughter.\" The tone seems casual and urgent."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "380.0s - 386.0s",
+          "query": "Sorry, I can't analyze that video since it's not available to me. If you describe it or share more details about what happens in those six seconds, I'd be happy to help break it down for you!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 87.8018627166748
+    },
+    {
+      "comment_index": 7823,
+      "video_id": "OQaLic5SE_I",
+      "comment": "The look on Balake's face at 2:40 is priceless.",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 588.0,
+      "comment_timestamp": 160.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "151.0s - 157.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 500.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 449.00 MiB is free. Including non-PyTorch memory, this process has 23.11 GiB memory in use. Of the allocated memory 22.57 GiB is allocated by PyTorch, and 237.58 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "157.0s - 163.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 1.17 GiB. GPU 0 has a total capacity of 23.56 GiB of which 787.00 MiB is free. Including non-PyTorch memory, this process has 22.78 GiB memory in use. Of the allocated memory 22.32 GiB is allocated by PyTorch, and 157.05 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "163.0s - 169.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 572.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 293.00 MiB is free. Including non-PyTorch memory, this process has 23.26 GiB memory in use. Of the allocated memory 22.24 GiB is allocated by PyTorch, and 723.31 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 246.33271956443787
+    },
+    {
+      "comment_index": 7824,
+      "video_id": "OQaLic5SE_I",
+      "comment": "3:53 \"Ain't none a ya'll old enough to go to the damn club\" is sending me 😭🙏 💀",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 514.0,
+      "comment_timestamp": 233.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "224.0s - 230.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 850.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 285.00 MiB is free. Including non-PyTorch memory, this process has 23.27 GiB memory in use. Of the allocated memory 22.17 GiB is allocated by PyTorch, and 805.54 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "230.0s - 236.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 982.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 305.00 MiB is free. Including non-PyTorch memory, this process has 23.25 GiB memory in use. Of the allocated memory 22.22 GiB is allocated by PyTorch, and 735.55 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "236.0s - 242.0s",
+          "query": "**Visual:** The video shows a classroom setting with students seated at desks, some looking towards the front where there's a teacher standing. There are educational posters on the walls, including a world map. One student is seen raising their hand.\n\n**Audio:** Someone is speaking angrily, saying \"Damn ridiculous.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 205.14720463752747
+    },
+    {
+      "comment_index": 7825,
+      "video_id": "OQaLic5SE_I",
+      "comment": "3:50 the way he says \"claabbb\"  \"AIN'T NONE OF Y'ALL OLD ENOUGH TO GO TO THE DAMN CLUB!\"",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 345.0,
+      "comment_timestamp": 230.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "221.0s - 227.0s",
+          "query": "Visually, there are two men in an indoor setting. One has curly hair and is wearing a red and white striped shirt. The other man, who seems to be speaking, is balding with short brown hair, dressed in a white shirt and tie. They appear to be having a conversation or some kind of interaction.\n\nIn terms of audio, it's mostly speech from the balding man. There doesn't seem to be any background music or sound effects. It looks like he might be talking about teaching for over twenty years in the city."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "227.0s - 233.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 960.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 283.00 MiB is free. Including non-PyTorch memory, this process has 23.27 GiB memory in use. Of the allocated memory 22.25 GiB is allocated by PyTorch, and 731.23 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "233.0s - 239.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 848.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 289.00 MiB is free. Including non-PyTorch memory, this process has 23.27 GiB memory in use. Of the allocated memory 22.41 GiB is allocated by PyTorch, and 557.36 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 210.69485664367676
+    },
+    {
+      "comment_index": 7826,
+      "video_id": "OQaLic5SE_I",
+      "comment": "5:04 balakay's facial expression always had me rolling 🤣",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 306.0,
+      "comment_timestamp": 304.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "295.0s - 301.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 578.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 295.00 MiB is free. Including non-PyTorch memory, this process has 23.26 GiB memory in use. Of the allocated memory 22.25 GiB is allocated by PyTorch, and 716.79 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "301.0s - 307.0s",
+          "query": "**Visual:** The video shows a classroom setting with students seated at desks, some writing or looking around. A teacher is standing near the front, holding papers and speaking to someone off-camera.\n\n**Audio:** There's dialogue between two individuals. One person seems hesitant about asking something, while the other responds. The conversation appears to be in English."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "307.0s - 313.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 1.04 GiB. GPU 0 has a total capacity of 23.56 GiB of which 283.00 MiB is free. Including non-PyTorch memory, this process has 23.27 GiB memory in use. Of the allocated memory 22.26 GiB is allocated by PyTorch, and 720.17 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 180.28931999206543
+    },
+    {
+      "comment_index": 7827,
+      "video_id": "OQaLic5SE_I",
+      "comment": "2:19 “YOU DONE MESSED UP A-ARON",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 290.0,
+      "comment_timestamp": 139.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "130.0s - 136.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 1.12 GiB. GPU 0 has a total capacity of 23.56 GiB of which 9.00 MiB is free. Including non-PyTorch memory, this process has 23.54 GiB memory in use. Of the allocated memory 22.54 GiB is allocated by PyTorch, and 703.57 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "136.0s - 142.0s",
+          "query": "Visual: The scene is set in a classroom with students sitting at desks. There's a chalkboard behind them filled with writing and diagrams related to vertebrate systems. A man stands near the board, gesturing while speaking. Some students appear attentive, while others seem distracted or engaged in other activities.\n\nAudio: Someone shouts angrily, \"You're done messed up Iran now take your ass on.\" This is followed by a loud crash sound effect."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "142.0s - 148.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 712.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 317.00 MiB is free. Including non-PyTorch memory, this process has 23.24 GiB memory in use. Of the allocated memory 22.06 GiB is allocated by PyTorch, and 885.37 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 216.30835223197937
+    },
+    {
+      "comment_index": 7828,
+      "video_id": "OQaLic5SE_I",
+      "comment": "0:24 Its cool to notice that Jayqueline lift left hand first and got her right hand up when we see from back. 😅x",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 286.0,
+      "comment_timestamp": 24.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "15.0s - 21.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 398.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 289.00 MiB is free. Including non-PyTorch memory, this process has 23.27 GiB memory in use. Of the allocated memory 22.39 GiB is allocated by PyTorch, and 578.97 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "21.0s - 27.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 616.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 309.00 MiB is free. Including non-PyTorch memory, this process has 23.25 GiB memory in use. Of the allocated memory 22.12 GiB is allocated by PyTorch, and 837.37 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "27.0s - 33.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 428.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 303.00 MiB is free. Including non-PyTorch memory, this process has 23.25 GiB memory in use. Of the allocated memory 22.62 GiB is allocated by PyTorch, and 327.19 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 304.31039571762085
+    },
+    {
+      "comment_index": 7829,
+      "video_id": "OQaLic5SE_I",
+      "comment": "1:53 A-A Ron with that face he makes is fucking brilliant, you can read his mind clear as day yet he doesn't say a word. Great acting!",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 265.0,
+      "comment_timestamp": 113.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "104.0s - 110.0s",
+          "query": "Visual: The scene is set in a classroom with students sitting at desks facing a blackboard filled with handwritten notes about vertebrate systems like skeletal, endoskeleton, exoskeleton, etc. A man in a white shirt and tie stands near the board, holding papers.\n\nAudio: There's a voice speaking, saying \"aaron where are you where is aaron right.\" It seems to be asking for someone named Aaron."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "110.0s - 116.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 610.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 157.00 MiB is free. Including non-PyTorch memory, this process has 23.40 GiB memory in use. Of the allocated memory 22.26 GiB is allocated by PyTorch, and 841.40 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "116.0s - 122.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 338.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 145.00 MiB is free. Including non-PyTorch memory, this process has 23.41 GiB memory in use. Of the allocated memory 22.82 GiB is allocated by PyTorch, and 279.44 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 294.13346219062805
+    },
+    {
+      "comment_index": 7830,
+      "video_id": "OQaLic5SE_I",
+      "comment": "5:41 “I’m president of the Glee club! …why do I talk?” 😂😂😂",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 247.0,
+      "comment_timestamp": 341.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "332.0s - 338.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 636.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 245.00 MiB is free. Including non-PyTorch memory, this process has 23.31 GiB memory in use. Of the allocated memory 22.14 GiB is allocated by PyTorch, and 881.56 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "338.0s - 344.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 840.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 503.00 MiB is free. Including non-PyTorch memory, this process has 23.06 GiB memory in use. Of the allocated memory 22.33 GiB is allocated by PyTorch, and 428.70 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "344.0s - 350.0s",
+          "query": "**Visual:** The scene is set in a classroom with students seated at desks. There's an American flag on the wall, along with some posters or charts. A teacher stands near the front, seemingly addressing the class. One student in a red-striped shirt appears to be reacting strongly, possibly shouting or expressing frustration.\n\n**Audio:** Someone is yelling loudly throughout the clip. It seems intense and possibly angry. There might also be some background noise from the classroom environment."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 206.52206826210022
+    },
+    {
+      "comment_index": 7831,
+      "video_id": "OQaLic5SE_I",
+      "comment": "That little dance he does at 4:22 just KILLS me. 😂",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 206.0,
+      "comment_timestamp": 262.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "253.0s - 259.0s",
+          "query": "**Visual:** The scene is set in a classroom with students seated at desks facing a teacher standing near a whiteboard filled with writing. There's a globe on a table behind one student.\n\n**Audio:** A woman speaks, saying \"What? Mr. Garvey were telling the truth.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "259.0s - 265.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 596.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 173.00 MiB is free. Including non-PyTorch memory, this process has 23.38 GiB memory in use. Of the allocated memory 22.84 GiB is allocated by PyTorch, and 237.21 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "265.0s - 271.0s",
+          "query": "**Visual:** The video shows a classroom setting with students sitting at desks facing a teacher standing near a whiteboard filled with writing. There's a mix of male and female students, some looking attentive while others seem distracted. The room has typical classroom elements like chairs, desks, and educational posters on the walls.\n\n**Audio:** A man is speaking, saying \"play games I'm more than happy to play.\" His tone seems casual and friendly. There are no other distinct sounds or music in the background."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 230.70915937423706
+    },
+    {
+      "comment_index": 7832,
+      "video_id": "OQaLic5SE_I",
+      "comment": "5:35 - “There he is. A-a-ron.” A-a-ron: “Hey.” 💀💀💀",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 169.0,
+      "comment_timestamp": 335.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "326.0s - 332.0s",
+          "query": "**Visual:** The scene shows two individuals standing in front of a whiteboard filled with various writings and drawings. One person is wearing a striped shirt and has long hair, while the other is dressed in a white shirt and tie with their arms crossed. There's also some colorful posters on the wall behind them.\n\n**Audio:** Someone is speaking, saying \"not if the mosquito bite club maybe it's hurtful truthful.\" The tone seems somewhat serious or contemplative."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "332.0s - 338.0s",
+          "query": "Visually, there's a classroom scene with students sitting at desks, some looking towards the front where a teacher is standing near a whiteboard filled with writing. The room has typical classroom elements like blinds on the windows.\n\nIn terms of audio, someone is speaking, but without more details it's hard to pinpoint exactly what they're saying or if there's any background noise or music involved."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "338.0s - 344.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 768.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 331.00 MiB is free. Including non-PyTorch memory, this process has 23.23 GiB memory in use. Of the allocated memory 22.42 GiB is allocated by PyTorch, and 506.92 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 175.37554049491882
+    },
+    {
+      "comment_index": 7833,
+      "video_id": "OQaLic5SE_I",
+      "comment": "2:51 Funny how eventually they all accepted him calling them by the wrong name 😂😂",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 167.0,
+      "comment_timestamp": 171.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "162.0s - 168.0s",
+          "query": "Sure! So, visually, there's a classroom scene with students sitting at desks. A teacher is standing near a blackboard filled with writing about vertebrate systems like skeletal, muscular, integumentary, digestive, etc. There s also a skeleton model on display. One student has long blonde hair, another is raising their hand, and someone else looks thoughtful with their chin resting on their hand. The room seems to have typical classroom furniture and lighting.Audience-wise, it sounds like the teacher might be asking questions or explaining something, since one student raises their hand. There aren t any obvious sound effects or background music.Anything specific you want to know more about?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "168.0s - 174.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 1.15 GiB. GPU 0 has a total capacity of 23.56 GiB of which 423.00 MiB is free. Including non-PyTorch memory, this process has 23.14 GiB memory in use. Of the allocated memory 22.54 GiB is allocated by PyTorch, and 295.05 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "174.0s - 180.0s",
+          "query": "Visual: The video shows a classroom setting with students sitting at desks. There's a teacher standing near the front, holding a book or some papers. The walls have educational posters and charts. Some students seem to be paying attention while others look distracted.\n\nAudio: There is no distinct dialogue or music heard. Just general classroom background noise like whispers and occasional shuffling of papers."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 239.64240336418152
+    },
+    {
+      "comment_index": 7834,
+      "video_id": "OQaLic5SE_I",
+      "comment": "4:39 The usual suspects 😂",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 162.0,
+      "comment_timestamp": 279.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "270.0s - 276.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 800.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 673.00 MiB is free. Including non-PyTorch memory, this process has 22.89 GiB memory in use. Of the allocated memory 22.02 GiB is allocated by PyTorch, and 569.02 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "276.0s - 282.0s",
+          "query": "**Visual:** The scene is set in a classroom with students seated at desks. There's a whiteboard covered in writing and diagrams behind them. A person wearing a red and white striped shirt walks through the room, looking around. Another individual stands near the front, facing the class.\n\n**Audio:** Someone is speaking, saying \"there it is there it is the usual suspects.\" The tone seems somewhat dismissive or sarcastic."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "282.0s - 288.0s",
+          "query": "**Visual:** The scene is set in a classroom with students seated at desks facing a whiteboard filled with handwritten notes. A teacher stands near the board, seemingly addressing the class. The background shows typical classroom elements like posters on the walls.\n\n**Audio:** There's dialogue between two individuals, one speaking calmly while the other responds briefly. The conversation seems to be about leadership or future leaders of America, based on the subtitles provided."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 237.04855871200562
+    },
+    {
+      "comment_index": 7835,
+      "video_id": "OQaLic5SE_I",
+      "comment": "6:18 best line ever 😂",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 162.0,
+      "comment_timestamp": 378.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "369.0s - 375.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 916.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 367.00 MiB is free. Including non-PyTorch memory, this process has 23.19 GiB memory in use. Of the allocated memory 22.27 GiB is allocated by PyTorch, and 627.08 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "375.0s - 381.0s",
+          "query": "**Visual:** The scene is set in a classroom with students seated at desks facing a whiteboard filled with handwritten notes. A man dressed formally stands near the board, appearing to teach or present something. Students seem attentive.\n\n**Audio:** There's dialogue where someone says they need to pick up their daughter and asks if they're excused."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "381.0s - 387.0s",
+          "query": "I'm sorry, I can't analyze videos that haven't been uploaded yet. If you upload the video or describe it to me, I'd be happy to help!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 138.39413022994995
+    },
+    {
+      "comment_index": 7836,
+      "video_id": "OQaLic5SE_I",
+      "comment": "5:25 had me dying🤣🤣🤣",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 144.0,
+      "comment_timestamp": 325.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "316.0s - 322.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 23.56 GiB of which 3.00 MiB is free. Including non-PyTorch memory, this process has 23.55 GiB memory in use. Of the allocated memory 22.31 GiB is allocated by PyTorch, and 944.90 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "322.0s - 328.0s",
+          "query": "Visual: A man is standing with his arms crossed in front of him, facing someone who has their back to the camera. There's a whiteboard behind them covered in writing.\n\nAudio: The man speaks, saying \"I'm sorry sweetheart, you're not it.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "328.0s - 334.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 804.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 601.00 MiB is free. Including non-PyTorch memory, this process has 22.96 GiB memory in use. Of the allocated memory 22.47 GiB is allocated by PyTorch, and 180.95 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 241.93421244621277
+    },
+    {
+      "comment_index": 7837,
+      "video_id": "OQaLic5SE_I",
+      "comment": "0:52  \"yes Sir\" was cold as hell 😂😂",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 137.0,
+      "comment_timestamp": 52.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "43.0s - 49.0s",
+          "query": "Visually, there's a classroom scene with students sitting at desks, some looking towards the front where a teacher is standing. The chalkboard behind the teacher has words like \"vertebrate system\" written on it. There are also jars and other items on the desks.\n\nIn terms of audio, someone is speaking, but without more context from the video, I can't really say much about what they're saying specifically. It could be related to the lesson or just casual conversation."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "49.0s - 55.0s",
+          "query": "**Visual:** The scene appears to be set in a classroom or educational environment. There's a person standing at the front near a chalkboard with words like \"VERTEBRA\" and \"SKELETAL MUSCULAR SYSTEM\" written on it. Several students are seated facing forward, some looking attentive while others seem distracted. One student is wearing goggles and has curly hair.\n\n**Audio:** A male voice speaks clearly, saying \"No, Blake.\" It seems to be an interaction between the teacher or instructor and a student named Blake."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "55.0s - 61.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 1.10 GiB. GPU 0 has a total capacity of 23.56 GiB of which 63.00 MiB is free. Including non-PyTorch memory, this process has 23.49 GiB memory in use. Of the allocated memory 22.38 GiB is allocated by PyTorch, and 811.45 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 195.7973964214325
+    },
+    {
+      "comment_index": 7838,
+      "video_id": "OQaLic5SE_I",
+      "comment": "3:46 “ ain’t NONE OF Y’ALL OLD ENOUGH TO GO TO THE DAM CLUB” 🤣",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 133.0,
+      "comment_timestamp": 226.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "217.0s - 223.0s",
+          "query": "Visual: The video shows two men having an intense conversation. One has curly hair and is wearing a red and white striped shirt, while the other man is dressed formally with a tie. There's also another person partially visible behind them.\n\nAudio: A man speaks, saying something like \"Alright, you know what? That might work with other substitute teachers.\" It seems to be a casual or slightly serious tone."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "223.0s - 229.0s",
+          "query": "Visual: There's a man in a white shirt and tie standing up, looking down at someone with curly hair who seems to be sitting or crouching. The background has a map on one side and some papers pinned to a board on the other.\n\nAudio: A voice is speaking angrily, saying \"Harden for years now y'all wanna leave my class.\" It ends with an exclamation mark."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "229.0s - 235.0s",
+          "query": "Visually, there's a man wearing a white shirt and tie standing in front of a whiteboard with some writing on it. He seems to be speaking or reacting to something. There's also another person partially visible behind him, looking towards the camera. The background includes a map and some other indistinct items.\n\nIn terms of audio, someone is shouting \"y'all go meet up at the club.\" It's a clear, loud voice."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 145.47531723976135
+    },
+    {
+      "comment_index": 7839,
+      "video_id": "OQaLic5SE_I",
+      "comment": "5:43 THE GLEE CLUB?!?!?!?!?!?! 😂😂😂",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 120.0,
+      "comment_timestamp": 343.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "334.0s - 340.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 930.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 533.00 MiB is free. Including non-PyTorch memory, this process has 23.03 GiB memory in use. Of the allocated memory 22.09 GiB is allocated by PyTorch, and 641.00 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "340.0s - 346.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 652.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 53.00 MiB is free. Including non-PyTorch memory, this process has 23.50 GiB memory in use. Of the allocated memory 22.79 GiB is allocated by PyTorch, and 406.08 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "346.0s - 352.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 298.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 149.00 MiB is free. Including non-PyTorch memory, this process has 23.40 GiB memory in use. Of the allocated memory 22.70 GiB is allocated by PyTorch, and 405.05 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 254.2397665977478
+    },
+    {
+      "comment_index": 7840,
+      "video_id": "OQaLic5SE_I",
+      "comment": "6:00 I like how he can pronounce words from the Thesaurus correctly but not the students' names. 😂 Who uses chicanerous and deplorable in spoken language. 😂😭",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 113.0,
+      "comment_timestamp": 360.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "351.0s - 357.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 462.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 205.00 MiB is free. Including non-PyTorch memory, this process has 23.35 GiB memory in use. Of the allocated memory 22.75 GiB is allocated by PyTorch, and 290.21 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "357.0s - 363.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 378.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 139.00 MiB is free. Including non-PyTorch memory, this process has 23.41 GiB memory in use. Of the allocated memory 22.48 GiB is allocated by PyTorch, and 633.11 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "363.0s - 369.0s",
+          "query": "**Visual:** The scene is set in a classroom with an American flag visible on the right side. There's a person wearing a white shirt and tie standing near a whiteboard filled with writing. Another individual walks past them from left to right.\n\n**Audio:** A voice speaks, saying \"Principal O'Shaughnessy students please report to the gym.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 255.08729767799377
+    },
+    {
+      "comment_index": 7841,
+      "video_id": "OQaLic5SE_I",
+      "comment": "3:42 It’s always them telling how long they teached. We know—it’s your job. 😂",
+      "language": "en",
+      "channel_name": "KeyandPeele",
+      "category": "comedy",
+      "likes": 104.0,
+      "comment_timestamp": 222.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "213.0s - 219.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 1.02 GiB. GPU 0 has a total capacity of 23.56 GiB of which 317.00 MiB is free. Including non-PyTorch memory, this process has 23.24 GiB memory in use. Of the allocated memory 22.66 GiB is allocated by PyTorch, and 276.48 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "219.0s - 225.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 398.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 379.00 MiB is free. Including non-PyTorch memory, this process has 23.18 GiB memory in use. Of the allocated memory 22.56 GiB is allocated by PyTorch, and 311.00 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "225.0s - 231.0s",
+          "query": "Visual: A man is standing in front of a whiteboard with some writing on it. He's wearing a white shirt and tie. There seems to be another person partially visible behind him.\n\nAudio: The man is speaking angrily, saying something like \"y'all wanna leave my class early so y'all can go meet up at.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 306.2314221858978
+    }
+  ]
+}

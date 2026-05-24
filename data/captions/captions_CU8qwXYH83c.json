@@ -1,13 +1,12 @@
 {
   "video_id": "CU8qwXYH83c",
   "total_comments": 20,
-  "successful_comments": 20,
-  "failed_comments": 0,
+  "successful_comments": 19,
+  "failed_comments": 1,
   "success_rate": "100.0%",
-  "processing_time": 5462.0509123802185,
   "comments": [
     {
-      "comment_index": 3690,
+      "comment_index": 1521,
       "video_id": "CU8qwXYH83c",
       "comment": "2:16 otheR 😭 No.. she needs to take the whole family back to the UK this instant.",
       "language": "en",
@@ -20,24 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "127.0s - 133.0s",
-          "query": "VISUAL: There's a man in a suit sitting behind a desk on a talk show set with a cityscape background at night. A woman in black is seated on a chair to his left. They're having a conversation, with the man gesturing while speaking and the woman listening and responding. The scene has warm lighting.AUDIO: You can hear applause and laughter from an audience during the conversation between the two people. It seems like they said something amusing or impressive that got a reaction from the crowd.What do you think about their interaction?"
+          "query": "Visually, there are two people in a talk show setting. One is seated on a chair, dressed in black, and the other is behind a desk, also in formal attire. The background shows a cityscape at night with lit buildings. The person behind the desk is gesturing with their hands while speaking, and the seated person is listening and reacting. There's a moment of applause from an unseen audience.\n\nAudibly, there's a woman speaking, followed by applause from the audience."
         },
         {
           "segment_index": 2,
           "time_range": "133.0s - 139.0s",
-          "query": "VISUAL: There's a woman with blonde hair wearing a black dress sitting on a chair. She seems to be talking or reacting to something. The background shows a cityscape at night through large windows. There's also a man in a suit sitting across from her, likely hosting an interview show.AUDIO: Someone is speaking, saying \"um yeah and we always play people who sort of loathe each other yeah films that we do is there is their truth.\" It sounds like they're discussing acting roles where characters dislike each other.What do you think about the topic being discussed?"
+          "query": "**Visual:** The video shows a woman with blonde hair wearing a black outfit sitting in a chair. The background appears to be a studio setting with a cityscape visible through a window. There's a microphone in front of her, suggesting she might be on a talk show or interview.\n\n**Audio:** The audio includes a conversation between two people. One person says, \"um yeah and we always play people who sort of loathe each other yeah.\" The other responds with, \"Is there is there truth.\""
         },
         {
           "segment_index": 3,
           "time_range": "139.0s - 145.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting on a gray chair, talking to someone across from her at a wooden desk. The background shows a cityscape at night through large windows. The man at the desk has short brown hair and is wearing a suit.The AUDIO: There's a conversation between two people. One person asks about a rumor regarding another \"The Devil Wears Prada\" movie, and the other responds positively, saying they would love it."
+          "query": "**Visual:** The video shows two people in a talk show setting. One is seated on a couch, and the other is behind a desk. The background features a cityscape at night with illuminated buildings. The person on the couch is gesturing with their hands while speaking, and the person behind the desk is listening attentively.\n\n**Audio:** There is a conversation between the two individuals. The person on the couch is speaking, and the person behind the desk is responding. The tone of the conversation seems light-hearted and engaging."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 241.95083332061768
+      "processing_time": 268.981418132782
     },
     {
-      "comment_index": 3691,
+      "comment_index": 1522,
       "video_id": "CU8qwXYH83c",
       "comment": "2:55 is when it gets to John Krasinski.",
       "language": "en",
@@ -50,54 +49,24 @@
         {
           "segment_index": 1,
           "time_range": "166.0s - 172.0s",
-          "query": "VISUAL: There's a woman with blonde hair sitting on a chair. She's wearing a black dress and talking. The background shows a cityscape at night through some windows. There's also a brick wall to her right.AUDIO: A female voice is speaking about someone being at their wedding and then meeting her sister. It seems like she's sharing an interesting story. What do you think about it?"
+          "query": "**Visual:** The video shows a woman with blonde hair wearing a black outfit sitting on a chair against a backdrop that resembles an evening cityscape through large windows.\n\n**Audio:** There is dialogue between two people discussing someone meeting their sister and being married for some time now."
         },
         {
           "segment_index": 2,
           "time_range": "172.0s - 178.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting on a chair, talking to someone off - screen. She's wearing a black outfit. There's a man in a suit sitting at a desk across from her, also engaged in conversation. The background shows a cityscape through large windows at night.AUDIO: People are having a conversation. It seems like they're discussing something related to meeting someone named John. There's laughter heard during the conversation too.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "**Visual:** The scene shows two individuals seated on a talk show set. One is dressed in black with blonde hair, sitting on a couch-like chair, while the other, presumably the host, sits behind a wooden desk wearing a suit. There's a cityscape visible through large windows in the background.\n\n**Audio:** Laughter can be heard during the conversation between the two individuals."
         },
         {
           "segment_index": 3,
           "time_range": "178.0s - 184.0s",
-          "query": "VISUAL: There's a man and a woman sitting across from each other on a talk show set. The background shows a cityscape at night with lit-up buildings. The woman is wearing black and has long blonde hair. She gestures while talking. The man is dressed in a suit and tie, listening attentively.AUDIO: People are having a conversation about someone being on \"The Office\" show. It seems like they're discussing whether one person was aware of another's involvement in that show."
+          "query": "**Visual:** The scene shows two individuals seated on a talk show set. One is dressed in black attire, sitting on a chair to the left, while the other, wearing formal clothing, sits behind a wooden desk with a microphone. The backdrop features large windows revealing an urban night skyline filled with illuminated buildings.\n\n**Audio:** There's dialogue between the two individuals. The person in front of the desk speaks first, followed by the individual in black who responds. Their conversation seems casual yet professional, typical of a talk show format."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 237.33088064193726
+      "processing_time": 99.01340532302856
     },
     {
-      "comment_index": 3692,
-      "video_id": "CU8qwXYH83c",
-      "comment": "Skip to 2:55 to see the subject of this video's title.",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 46.0,
-      "comment_timestamp": 175.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "166.0s - 172.0s",
-          "query": "VISUAL: There's a woman with blonde hair sitting on a chair. She's wearing a black dress and talking. The background shows a cityscape at night through some windows. There's also a brick wall to her right.AUDIO: A female voice is speaking about someone being at their wedding and then meeting her sister. It seems like she's sharing an interesting story. What do you think about it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "172.0s - 178.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting on a chair, talking to someone off - screen. She's wearing a black outfit. There's a man in a suit sitting at a desk across from her, also engaged in conversation. The background shows a cityscape through large windows at night.AUDIO: People are having a conversation. It seems like they're discussing something related to meeting someone named John. There's laughter heard during the conversation too.If you have any other thoughts or questions about the video, feel free to share!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "178.0s - 184.0s",
-          "query": "VISUAL: There's a man and a woman sitting across from each other on a talk show set. The background shows a cityscape at night with lit-up buildings. The woman is wearing black and has long blonde hair. She gestures while talking. The man is dressed in a suit and tie, listening attentively.AUDIO: People are having a conversation about someone being on \"The Office\" show. It seems like they're discussing whether one person was aware of another's involvement in that show."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 226.43763208389282
-    },
-    {
-      "comment_index": 3693,
+      "comment_index": 1523,
       "video_id": "CU8qwXYH83c",
       "comment": "2:49 Who noticed the Monica Moment? \" I Know..\"",
       "language": "en",
@@ -110,24 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "160.0s - 166.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting on a chair, talking animatedly while gesturing with her hands. She's wearing a black outfit. The background shows a cityscape at night through large windows, and there's a brick wall to one side.AUDIO: There's a female voice speaking, saying something about another movie and loving someone. It seems like she's having an interesting conversation. What do you think about it?"
+          "query": "**Visual:** The video shows a woman with blonde hair wearing a black outfit. She is seated and appears to be talking, using hand gestures. The background includes a brick wall and a window with a nighttime cityscape view.\n\n**Audio:** There is a conversation happening, with the woman speaking and someone else responding. The speech is clear and there are no noticeable sound effects or music."
         },
         {
           "segment_index": 2,
           "time_range": "166.0s - 172.0s",
-          "query": "VISUAL: There's a woman with blonde hair sitting on a chair. She's wearing a black dress and talking. The background shows a cityscape at night through some windows. There's also a brick wall to her right.AUDIO: A female voice is speaking about someone being at their wedding and then meeting her sister. It seems like she's sharing an interesting story. What do you think about it?"
+          "query": "**Visual:** The video shows a woman with blonde hair wearing a black outfit sitting on a chair against a backdrop that resembles an evening cityscape through large windows.\n\n**Audio:** There is dialogue between two people discussing someone meeting their sister and being married for some time now."
         },
         {
           "segment_index": 3,
           "time_range": "172.0s - 178.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting on a chair, talking to someone off - screen. She's wearing a black outfit. There's a man in a suit sitting at a desk across from her, also engaged in conversation. The background shows a cityscape through large windows at night.AUDIO: People are having a conversation. It seems like they're discussing something related to meeting someone named John. There's laughter heard during the conversation too.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "**Visual:** The scene shows two individuals seated on a talk show set. One is dressed in black with blonde hair, sitting on a couch-like chair, while the other, presumably the host, sits behind a wooden desk wearing a suit. There's a cityscape visible through large windows in the background.\n\n**Audio:** Laughter can be heard during the conversation between the two individuals."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 236.8172688484192
+      "processing_time": 176.39367723464966
     },
     {
-      "comment_index": 3694,
+      "comment_index": 1524,
       "video_id": "CU8qwXYH83c",
       "comment": "abandoned at 3:58 btw",
       "language": "en",
@@ -140,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "229.0s - 235.0s",
-          "query": "VISUAL: There's a man and a woman sitting on a talk show set. The background shows a cityscape at night with lots of lights. The man is wearing a suit and tie, while the woman has long blonde hair and is dressed in black. They're both seated, facing each other, having a conversation.AUDIO: A male voice is speaking, asking about someone coming over to eat a meal. The woman responds that he didn't come over for the meal. It seems like they're discussing some personal or interesting event related to the person mentioned. So, what do you think about their conversation?"
+          "query": "**Visual:** The scene shows two individuals seated on a talk show set. One is dressed formally in a suit, sitting behind a desk with a microphone, while the other, casually dressed, sits across from him in a chair. The background features large windows revealing an urban night skyline.\n\n**Audio:** There's dialogue between the two individuals. The formal-dressed person speaks first, followed by the casually dressed one responding."
         },
         {
           "segment_index": 2,
           "time_range": "235.0s - 241.0s",
-          "query": "VISUAL: There's a woman with blonde hair sitting on a chair, talking animatedly while gesturing with her hands. She's wearing a black outfit. Across from her is a man in a suit, seated behind a desk, listening attentively.AUDIO: The woman is speaking, and it seems like she's having an interesting conversation. There's no background music or sound effects, just their voices. It looks like they're in a talk show setting. What do you think about the scene?"
+          "query": "Visual: The video shows two people in a talk show setting. One is seated on a chair, wearing a black outfit, and the other is behind a desk, dressed in a suit. The background has a cityscape at night with lit buildings. The person on the chair is gesturing with their hands while speaking. The person behind the desk is listening and occasionally responding.\n\nAudio: There is a conversation between the two people. The woman on the chair speaks first, and then the man behind the desk responds. The speech is clear and there are no other noticeable sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "241.0s - 247.0s",
-          "query": "VISUAL: There's a woman with blonde hair sitting on a chair, wearing a black outfit. She seems to be talking or reacting to something. The background shows a cityscape at night through large windows. There's also a man in a suit who appears later, standing behind a desk with a microphone. He looks like he might be interviewing her.AUDIO: Someone is speaking, saying \"come and talk to us he did not eat he just stood there and made me laugh.\" It sounds like they're sharing an anecdote. There's laughter from others in the audience too.What do you think about that? Do you have any other thoughts on the video?"
+          "query": "**Visual:** The video shows a woman with blonde hair sitting in a chair, wearing a black outfit. She appears to be in a studio setting with a brick wall and a window-like structure in the background. There's a man in a suit sitting across from her, and they seem to be engaged in a conversation. The woman is smiling and looking at the man.\n\n**Audio:** The audio includes speech from the woman and the man. The woman speaks first, saying something that makes the man laugh. Then the man responds, and they continue their conversation."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 314.53138160705566
+      "processing_time": 206.91942501068115
     },
     {
-      "comment_index": 3695,
+      "comment_index": 1525,
       "video_id": "CU8qwXYH83c",
       "comment": "2:50 In my mind I said Emily's \"I know\" like Monica from Friends' \"I KNOW\" 😂",
       "language": "en",
@@ -170,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "161.0s - 167.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting on a chair, talking animatedly while gesturing with her hands. She's wearing a black outfit. The background shows a window with a cityscape view at night, and there's a brick wall to one side.AUDIO: There's a female voice speaking, saying \"There is another movie we shot on the first day.\" It seems like she's sharing some information about a film project. What do you think about it? Do you have any other questions related to this?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.87 GiB is free. Including non-PyTorch memory, this process has 15.68 GiB memory in use. Of the allocated memory 13.59 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 2,
           "time_range": "167.0s - 173.0s",
-          "query": "VISUAL: There's a woman with blonde hair wearing a black dress sitting on a couch. She seems to be talking or reacting to something. The background shows a cityscape at night through some windows, and there's a brick wall next to her. There's also a microphone visible near her.AUDIO: Someone is speaking, saying things like \"our wedding\" and \"that's unbelievable.\" It sounds like they're having a conversation about a wedding and meeting someone's sister. The tone suggests surprise or disbelief.If you have any other thoughts or questions about it, feel free to share!"
+          "query": "**Visual:** The scene shows a woman with blonde hair wearing a black outfit sitting on a chair against a backdrop that resembles a nighttime cityscape through large windows. There's also some brick wall visible to one side.\n\n**Audio:** Someone is speaking, saying \"that's unbelievable I know\" followed by \"and they've been married for a while though right.\""
         },
         {
           "segment_index": 3,
           "time_range": "173.0s - 179.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting on a chair, wearing a black outfit. She's talking to someone off - screen. There's a man in a suit sitting at a desk across from her, also engaged in conversation. The background shows a cityscape through large windows at night.AUDIO: People are having a conversation. It seems like they're discussing something related to meeting someone named John. There's laughter heard during the conversation too.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a talk show setting. There are two people seated, one behind a desk and the other in a chair. The background features a cityscape at night with illuminated buildings. The person behind the desk is wearing a suit, and the person in the chair is dressed in black. The scene appears to be a typical talk show format.\n\n**Audio:** The audio includes speech, likely from the host and the guest. There are also laughter sounds, indicating a light-hearted conversation."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 262.4157214164734
+      "processing_time": 202.90922856330872
     },
     {
-      "comment_index": 3696,
+      "comment_index": 1526,
       "video_id": "CU8qwXYH83c",
       "comment": "1:15 in and I thought she was on fallons show lmao then i realized it’s Seth",
       "language": "en",
@@ -200,24 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "66.0s - 72.0s",
-          "query": "VISUAL: There's a man and a woman on a talk show set. The background shows a cityscape at night with lit-up buildings. The man is sitting behind a desk, wearing a suit, and he seems to be talking or interviewing. The woman is seated on a chair opposite him, dressed in black, and she looks like she's responding to his words. Both seem engaged in conversation.AUDIO: You can hear laughter from both the man and the woman throughout the clip. It gives off a light-hearted vibe. There's also some English speech that includes phrases like \"the British way\" and \"give it ten years.\" So, it seems like they're having a casual chat about something related to the British culture or experience. What do you think they might be talking about?"
+          "query": "**Visual:** The video shows a talk show setting. There are two people, one sitting in a chair and the other behind a desk. The person behind the desk is wearing a suit and appears to be the host. The person in the chair is dressed in black. The background features a cityscape at night with illuminated buildings. The host and guest are engaged in conversation, with the host gesturing with his hands.\n\n**Audio:** The audio includes dialogue between the host and the guest. The host speaks first, and then the guest responds. The conversation seems light-hearted and humorous, as indicated by the laughter heard in the background."
         },
         {
           "segment_index": 2,
           "time_range": "72.0s - 78.0s",
-          "query": "VISUAL: There's a man and a woman on a talk show set. The background shows a cityscape at night with lit-up buildings. The man is sitting behind a desk, gesturing while talking to the woman who's seated in a chair. She has long blonde hair and is wearing black. The man also has short brown hair and is dressed formally.AUDIO: A male voice speaks first, then a female voice responds. They seem to be having a conversation about Mary Poppins and Julie Andrews. It sounds like they're discussing something related to these two figures, possibly an upcoming event or movie involving them.So, what do you think about their discussion? Do you have any thoughts on Mary Poppins or Julie Andrews?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 5.23 GiB. GPU 1 has a total capacity of 23.56 GiB of which 4.20 GiB is free. Including non-PyTorch memory, this process has 19.35 GiB memory in use. Of the allocated memory 17.84 GiB is allocated by PyTorch, and 1.20 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 3,
           "time_range": "78.0s - 84.0s",
-          "query": "VISUAL: There's a man and a woman on a talk show set. The background shows a cityscape at night with lots of lights. The woman is sitting on a gray chair wearing black clothes, and she has long blonde hair. The man is behind a wooden desk, dressed in a suit and tie, and he seems to be talking while gesturing with his hands.AUDIO: It's a conversation between the two people. The man speaks first, then the woman responds. They seem to be discussing something related to love or relationships based on their dialogue.So, what do you think about this kind of talk show format?"
+          "query": "**Visual:** The video shows two people in a talk show setting. One is seated on a couch, and the other is behind a desk. The background features a cityscape at night with lit buildings. The person on the couch is gesturing while speaking, and the person at the desk is also gesturing and appears to be responding.\n\n**Audio:** There is a conversation between the two people. The dialogue includes phrases like \"Poppins okay and had they been in love\" and \"I mean I guess they're not old enough to have been in love with it for a long time but how long have they seen what they've seen.\" The tone seems to be a mix of casual and thoughtful discussion."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 335.25930428504944
+      "processing_time": 272.8105480670929
     },
     {
-      "comment_index": 3697,
+      "comment_index": 1527,
       "video_id": "CU8qwXYH83c",
       "comment": "0:01 i thought he was asking if her daughters were also foreign",
       "language": "en",
@@ -230,54 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "0.0s - 0.0s",
-          "query": "VISUAL: There's a woman with long blonde hair sitting on a chair, wearing a black outfit. She seems to be talking to someone across from her. The background shows a cityscape at night through large windows. There's also a man in a suit sitting behind a desk, looking towards the woman.AUDIO: Someone is speaking about girls being four and two years old, assuming they won't see a film, and asking if they've seen something related to the person being talked about. It sounds like an interview or talk show setting. So, what do you think about it?"
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 2,
           "time_range": "0.0s - 4.0s",
-          "query": "VISUAL: There's a man and a woman sitting across from each other on a talk show set. The background shows a cityscape at night with lit buildings. The woman has blonde hair and is wearing a black outfit. She seems to be talking while gesturing with her hands. The man is dressed in a suit and tie, listening attentively.AUDIO: Someone is speaking, saying \"on film and how do they react when they see daughters in general loathe to see me on screen.\" It sounds like a conversation or interview. There's also some laughter heard in the background.If you have any thoughts about this or want to discuss more, feel free to share!"
+          "query": "**Visual:** The video shows two people sitting across from each other in what looks like a talk show setting. The background has a cityscape with lights, suggesting it's nighttime. The person on the left has long blonde hair and is wearing a black outfit. The person on the right is dressed in a dark suit and tie. They seem to be engaged in a conversation.\n\n**Audio:** There is a conversation happening between the two people. The dialogue includes phrases like \"your girls are four and two\" and \"and now I'm assuming they're not gonna.\" The tone seems casual and conversational."
         },
         {
           "segment_index": 3,
           "time_range": "4.0s - 10.0s",
-          "query": "VISUAL: There's a woman with blonde hair wearing a black dress sitting on a chair. She seems to be talking and gesturing with her hands. The background shows a cityscape at night through a window with bars. There's also a brick wall visible next to her.AUDIO: Someone is speaking about something related to \"Mary Poppins\" and mentions FaceTiming their daughter. It sounds like they're sharing an anecdote or experience. There's no music or other sound effects, just the person's voice. What do you think about that? Do you have any similar experiences?"
+          "query": "**Visual:** The scene shows a woman with blonde hair wearing a black outfit sitting on a chair. She's gesturing with her hand near her chest while talking. There's a window behind her showing an urban night view with lit buildings.\n\n**Audio:** A female voice is speaking about something related to \"Mary Poppins\" and mentions using FaceTime with her daughter."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 320.3580176830292
+      "processing_time": 217.11504411697388
     },
     {
-      "comment_index": 3698,
-      "video_id": "CU8qwXYH83c",
-      "comment": "3:58 yeahh that sounds american lol",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 10.0,
-      "comment_timestamp": 238.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "229.0s - 235.0s",
-          "query": "VISUAL: There's a man and a woman sitting on a talk show set. The background shows a cityscape at night with lots of lights. The man is wearing a suit and tie, while the woman has long blonde hair and is dressed in black. They're both seated, facing each other, having a conversation.AUDIO: A male voice is speaking, asking about someone coming over to eat a meal. The woman responds that he didn't come over for the meal. It seems like they're discussing some personal or interesting event related to the person mentioned. So, what do you think about their conversation?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "235.0s - 241.0s",
-          "query": "VISUAL: There's a woman with blonde hair sitting on a chair, talking animatedly while gesturing with her hands. She's wearing a black outfit. Across from her is a man in a suit, seated behind a desk, listening attentively.AUDIO: The woman is speaking, and it seems like she's having an interesting conversation. There's no background music or sound effects, just their voices. It looks like they're in a talk show setting. What do you think about the scene?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "241.0s - 247.0s",
-          "query": "VISUAL: There's a woman with blonde hair sitting on a chair, wearing a black outfit. She seems to be talking or reacting to something. The background shows a cityscape at night through large windows. There's also a man in a suit who appears later, standing behind a desk with a microphone. He looks like he might be interviewing her.AUDIO: Someone is speaking, saying \"come and talk to us he did not eat he just stood there and made me laugh.\" It sounds like they're sharing an anecdote. There's laughter from others in the audience too.What do you think about that? Do you have any other thoughts on the video?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 269.224219083786
-    },
-    {
-      "comment_index": 3699,
+      "comment_index": 1528,
       "video_id": "CU8qwXYH83c",
       "comment": "3:20 actually tells how they met",
       "language": "en",
@@ -290,24 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "191.0s - 197.0s",
-          "query": "VISUAL: There's a woman with blonde hair wearing a black outfit sitting on a chair. She seems to be talking or reacting to something. The background shows a cityscape at night through large windows. There's also a man in a suit sitting across from her, likely hosting an interview or talk show.\n\nAUDIO: Someone is speaking, saying \"But I was a big fan of the British office.\" Then there's a response like \"That's what people on the American office love to hear\" followed by some kind of agreement or laughter. It sounds like a conversation between two people."
+          "query": "**Visual:** The video shows a woman with blonde hair wearing a black outfit sitting in a chair. She appears to be on a talk show set, with a cityscape visible through the window behind her. The setting includes a desk and a microphone, suggesting an interview format.\n\n**Audio:** There is a conversation happening, with the woman speaking and someone else responding. The dialogue seems to be light-hearted and engaging, possibly discussing a popular TV show."
         },
         {
           "segment_index": 2,
           "time_range": "197.0s - 203.0s",
-          "query": "VISUAL: There's a man and a woman on a talk show set. The background shows a cityscape at night with lots of lights. The woman is sitting on a gray chair wearing black clothes, and she has blonde hair. She gestures while talking. The man is behind a wooden desk, dressed in a suit, and he also gestures during their conversation.AUDIO: The woman speaks first, saying something about binge - watching \"The Americans.\" Then the man responds, agreeing that he loved it. They seem to be having a friendly chat."
+          "query": "Visually, there are two people in a talk show setting. One is seated on a couch, and the other is behind a desk. The background shows a cityscape at night with lit buildings. The person on the couch is gesturing with their hands while speaking, and the person behind the desk is listening and responding. The colors are mostly dark with the city lights providing a contrast. There's movement from the people talking and gesturing.\n\nAudio-wise, there's a conversation between the two people. The woman on the couch speaks first, and the man behind the desk responds. There's laughter and a sense of a light-hearted discussion."
         },
         {
           "segment_index": 3,
           "time_range": "203.0s - 209.0s",
-          "query": "VISUAL: There's a man and a woman sitting across from each other on a talk show set. The background shows a cityscape at night with lit-up buildings. The woman is wearing black and has long blonde hair. She seems to be talking animatedly while gesturing with her hands. The man is dressed in a suit and is listening attentively.AUDIO: Someone is speaking, saying \"Did you guys meet if you so it's like kind of a sad lame story you know not sad but it's just kind of lame.\" It's a bit hard to understand clearly due to the short duration and possible background noise.If you have any more questions about this or want to discuss something else related to videos, feel free to let me know!"
+          "query": "**Visual:** The video shows two people in a talk show setting. One is seated in a chair, dressed in black, and the other is behind a desk, also in formal attire. The background features a cityscape at night with illuminated buildings. There's a microphone on the desk.\n\n**Audio:** The audio includes a conversation between the two individuals. The woman speaks first, and then the man responds. The tone seems casual and conversational."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 314.85769152641296
+      "processing_time": 270.80975437164307
     },
     {
-      "comment_index": 3700,
+      "comment_index": 1529,
       "video_id": "CU8qwXYH83c",
       "comment": "0:52 she sounds like Jennifer Lawrence when she says \"huh, cool.\"",
       "language": "en",
@@ -320,84 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "43.0s - 49.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting on a chair, wearing a black outfit. She's talking and gesturing with her hands. The background shows a cityscape at night through large windows, with some lights visible. There's also a brick wall to one side.AUDIO: Someone is speaking about a trailer they've seen. They mention screaming at the end of it. It seems like there might be some sound effects or music related to the trailer in the background too.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "**Visual:** The scene shows a woman with blonde hair wearing a black outfit sitting on a chair. She appears to be talking or presenting something. There's a brick wall behind her and large windows showing an urban night view outside.\n\n**Audio:** Someone is speaking, likely the same woman from the visuals. The speech seems to be about seeing a trailer at the end of it, though the exact words aren't fully clear due to the short duration."
         },
         {
           "segment_index": 2,
           "time_range": "49.0s - 55.0s",
-          "query": "VISUAL: There's a woman with blonde hair sitting on a chair. She's wearing a black outfit. The background shows a cityscape at night through some windows. She seems to be talking or reacting to something.AUDIO: Someone is speaking, saying \"you can see her brain exploding and but instead she went huh cool.\" There's also laughter heard after that. So, it looks like there might be a funny situation going on here. What do you think about it?"
+          "query": "Sure! So, visually, there's someone with blonde hair sitting down, wearing a black outfit. The background shows some city lights through windows, suggesting it might be nighttime. There s also a brick wall nearby. In terms of audio, I can hear laughter and some speech, though without more details on the content of that speech.Anything else you want to know about the video?"
         },
         {
           "segment_index": 3,
           "time_range": "55.0s - 61.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting on a chair, wearing a black outfit. She's talking and gesturing with her hands. There's a man in a suit across from her at a desk, also speaking. The background shows a cityscape through large windows at night.AUDIO: People are having a conversation, with laughter heard throughout. It seems like they're discussing something related to parenting based on the subtitles."
+          "query": "Sure! So, visually, there's someone with blonde hair sitting on a chair, wearing black clothes. The background shows a nighttime cityscape through large windows.On the audio side, it seems like they're having a conversation about parenting, specifically mentioning not talking about something again. It feels like an interview or talk show setting.Anything else you want to know?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 218.3581199645996
+      "processing_time": 199.73784399032593
     },
     {
-      "comment_index": 3701,
-      "video_id": "CU8qwXYH83c",
-      "comment": "2:49 That eye flip is killing me 😍",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 9.0,
-      "comment_timestamp": 169.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "160.0s - 166.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting on a chair, talking animatedly while gesturing with her hands. She's wearing a black outfit. The background shows a cityscape at night through large windows, and there's a brick wall to one side.AUDIO: There's a female voice speaking, saying something about another movie and loving someone. It seems like she's having an interesting conversation. What do you think about it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "166.0s - 172.0s",
-          "query": "VISUAL: There's a woman with blonde hair sitting on a chair. She's wearing a black dress and talking. The background shows a cityscape at night through some windows. There's also a brick wall to her right.AUDIO: A female voice is speaking about someone being at their wedding and then meeting her sister. It seems like she's sharing an interesting story. What do you think about it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "172.0s - 178.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting on a chair, talking to someone off - screen. She's wearing a black outfit. There's a man in a suit sitting at a desk across from her, also engaged in conversation. The background shows a cityscape through large windows at night.AUDIO: People are having a conversation. It seems like they're discussing something related to meeting someone named John. There's laughter heard during the conversation too.If you have any other thoughts or questions about the video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 220.5555624961853
-    },
-    {
-      "comment_index": 3702,
-      "video_id": "CU8qwXYH83c",
-      "comment": "4:21 Yeah just like ALL of us with our late night talk show's.",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 6.0,
-      "comment_timestamp": 261.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "252.0s - 258.0s",
-          "query": "VISUAL: There's a man in a suit sitting behind a desk on a talk show set with a cityscape background at night. A woman is seated on a couch to his left. The man gestures while speaking, and the woman laughs and reaches out towards him. The scene has warm lighting.AUDIO: Someone says \"Yeah yeah that's good don't wait am I speaking to Us Weekly one time um I love you.\" It seems like a casual conversation or interview."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "258.0s - 264.0s",
-          "query": "VISUAL: There's a man in a suit sitting behind a desk on a talk show set with a cityscape background at night. A woman in black is seated across from him on a couch. They're both laughing and talking. The man gestures while speaking, and the woman responds with laughter and conversation.AUDIO: People are having a conversation, and there's laughter throughout the clip. It seems like they're discussing something light-hearted or funny."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "264.0s - 270.0s",
-          "query": "VISUAL: There's a man and a woman sitting on a talk show set. The background shows a cityscape at night with lit-up buildings. The woman is wearing black and has long blonde hair. She's seated on a gray chair while the man, dressed in a suit, sits behind a wooden desk. They seem to be having a conversation.AUDIO: Someone is speaking, saying \"Thank you guys yeah um but I'm so happy it really is i mean for waiting to see you guys work together i never.\" It seems like they're expressing gratitude and happiness about seeing two people working together.So, what do you think about their interaction?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 287.9668860435486
-    },
-    {
-      "comment_index": 3703,
+      "comment_index": 1530,
       "video_id": "CU8qwXYH83c",
       "comment": "1:30 no one laughs, cause no one laughs at the real Mary Poppins.",
       "language": "en",
@@ -410,84 +289,54 @@
         {
           "segment_index": 1,
           "time_range": "81.0s - 87.0s",
-          "query": "VISUAL: There's a man in a suit sitting behind a desk on a talk show set with a cityscape background at night. A woman is seated across from him in a chair. The man gestures while speaking, and the woman listens and then responds, using hand gestures too.AUDIO: It's a conversation between two people. The man speaks first, asking about how long someone has seen something they've been in love with for a long time. Then the woman responds that she never showed it to them."
+          "query": "**Visual:** The video shows two people in a talk show setting. One is seated on a couch, and the other is behind a desk. The background features a cityscape at night. The person on the couch is gesturing with their hands while speaking, and the person behind the desk is also gesturing as they talk. The lighting is bright, highlighting the two individuals.\n\n**Audio:** There is a conversation between the two people. The woman on the couch speaks first, and then the man behind the desk responds. The dialogue seems to be about something they've never shown to someone else."
         },
         {
           "segment_index": 2,
           "time_range": "87.0s - 93.0s",
-          "query": "VISUAL: There's a woman with blonde hair sitting on a chair. She's wearing a black outfit. The background has a brick wall and some windows showing a cityscape at night.AUDIO: A female voice is speaking about not wanting to be distracted during her film shooting because she was selfish. It seems like she's talking about something related to the film industry or personal experiences in it.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a woman with blonde hair, wearing a black outfit, sitting in a chair. She's gesturing with her hands while speaking. The background includes a window with a view of a cityscape at night, with buildings lit up. There's also a brick wall visible on the right side.\n\n**Audio:** The woman is speaking, and her words are in English. She seems to be discussing something related to shooting a film, mentioning being distracted."
         },
         {
           "segment_index": 3,
           "time_range": "93.0s - 99.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting on a couch. She's wearing a black outfit and has her hands gesturing while she speaks. The background shows a cityscape at night through large windows. There's also a brick wall to one side.AUDIO: Someone is speaking, saying \"Julie Andrews was already feeling there was this like iconic boulder that I had to like move aside.\" It seems like they're talking about Julie Andrews and some kind of challenge or obstacle related to her. So, what do you think about this? Do you know any other interesting facts about Julie Andrews?"
+          "query": "**Visual:** The video shows a woman with blonde hair wearing a black outfit. She's seated, gesturing with her hands as she speaks. The background includes a window with a nighttime cityscape view and a brick wall. There's also a microphone visible.\n\n**Audio:** The audio features a woman speaking, likely in a talk show or interview setting. Her speech is clear and engaging, with some laughter or chuckles included."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 263.8171286582947
+      "processing_time": 269.28602051734924
     },
     {
-      "comment_index": 3704,
+      "comment_index": 1531,
       "video_id": "CU8qwXYH83c",
-      "comment": "2:49 How she said that ❤",
+      "comment": "4:21 Yeah just like ALL of us with our late night talk show's.",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
-      "likes": 5.0,
-      "comment_timestamp": 169.0,
+      "likes": 6.0,
+      "comment_timestamp": 261.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "160.0s - 166.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting on a chair, talking animatedly while gesturing with her hands. She's wearing a black outfit. The background shows a cityscape at night through large windows, and there's a brick wall to one side.AUDIO: There's a female voice speaking, saying something about another movie and loving someone. It seems like she's having an interesting conversation. What do you think about it?"
+          "time_range": "252.0s - 258.0s",
+          "query": "**Visual:** The scene shows two individuals seated across from each other on a talk show set. One is dressed formally in a suit, likely the host, while the other wears casual attire, possibly a guest. They appear to be engaged in conversation against a backdrop depicting a nighttime cityscape through large windows.\n\n**Audio:** There's dialogue between the two individuals, with laughter and applause heard intermittently, suggesting a light-hearted or humorous exchange during their interaction."
         },
         {
           "segment_index": 2,
-          "time_range": "166.0s - 172.0s",
-          "query": "VISUAL: There's a woman with blonde hair sitting on a chair. She's wearing a black dress and talking. The background shows a cityscape at night through some windows. There's also a brick wall to her right.AUDIO: A female voice is speaking about someone being at their wedding and then meeting her sister. It seems like she's sharing an interesting story. What do you think about it?"
+          "time_range": "258.0s - 264.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.86 GiB is free. Including non-PyTorch memory, this process has 15.69 GiB memory in use. Of the allocated memory 13.60 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 3,
-          "time_range": "172.0s - 178.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting on a chair, talking to someone off - screen. She's wearing a black outfit. There's a man in a suit sitting at a desk across from her, also engaged in conversation. The background shows a cityscape through large windows at night.AUDIO: People are having a conversation. It seems like they're discussing something related to meeting someone named John. There's laughter heard during the conversation too.If you have any other thoughts or questions about the video, feel free to share!"
+          "time_range": "264.0s - 270.0s",
+          "query": "**Visual:** The video shows a talk show setting. There are two people, one sitting on a chair and the other behind a desk. The person behind the desk is wearing a suit and appears to be the host. The person on the chair is dressed in black and seems to be a guest. The background has a cityscape at night with lit-up buildings. The lighting is bright, focusing on the two people.\n\n**Audio:** The audio includes speech from the person on the chair, who is expressing happiness and gratitude. The host responds with a smile, and there's laughter from both parties. The overall tone is cheerful and positive."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 223.71445631980896
+      "processing_time": 212.84423637390137
     },
     {
-      "comment_index": 3705,
-      "video_id": "CU8qwXYH83c",
-      "comment": "2:20 well.. this aged well.",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 4.0,
-      "comment_timestamp": 140.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "131.0s - 137.0s",
-          "query": "VISUAL: There's a woman with blonde hair sitting on a chair, wearing a black dress. She seems to be talking or reacting to something. Across from her is a man in a suit, also engaged in conversation. The background shows a cityscape at night through large windows. The scene has warm lighting.AUDIO: You can hear applause and laughter during the conversation between the two people. It gives off a light-hearted vibe. What do you think about it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "137.0s - 143.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting on a chair, wearing a black outfit. She's talking to someone off - screen. The background shows a cityscape at night through large windows. There's also a man in a suit sitting across from her at a desk.\n\nAUDIO: People are having a conversation. One person says \"We do.\" Then another asks if there's truth to a rumor about \"The Devil Wears Prada\" possibly having another sequel."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "143.0s - 149.0s",
-          "query": "VISUAL: There's a woman with blonde hair sitting on a gray chair, wearing black clothes. She seems to be talking and gesturing with her hands. Across from her is a man in a suit, sitting behind a wooden desk. He looks like he's listening to her. The background shows a cityscape at night through large windows.The AUDIO: You can hear some applause and cheering in the background during the first few seconds, then it turns into clapping towards the end. What do you think about this scene?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 232.17541790008545
-    },
-    {
-      "comment_index": 3706,
+      "comment_index": 1532,
       "video_id": "CU8qwXYH83c",
       "comment": "1:05 British referencing their colonial past.",
       "language": "en",
@@ -500,84 +349,84 @@
         {
           "segment_index": 1,
           "time_range": "56.0s - 62.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting on a chair, talking. She's wearing a black outfit. There's a man in a suit sitting across from her at a desk. The background shows a cityscape through large windows at night.AUDIO: People are having a conversation. It seems to be about something serious or important based on their tone.So, what do you think about that? Any thoughts or questions?"
+          "query": "Well, visually, there's someone with blonde hair sitting on a chair, wearing black clothes. There's also another person across from them at a desk, dressed formally. The background seems to be like a studio set up for an interview or talk show, with city lights visible through large windows. As for the audio, it's mainly conversation between these two people. They're talking about parenting and something related to a traumatic event. So, that's pretty much it! What do you think about their discussion?"
         },
         {
           "segment_index": 2,
           "time_range": "62.0s - 68.0s",
-          "query": "VISUAL: There's a man and a woman sitting on a talk show set. The background shows a cityscape at night with lots of lights. The man is behind a desk, wearing a suit, and he seems to be talking or interviewing the woman who has long blonde hair and is dressed in black. She looks like she's responding to him.AUDIO: You can hear some English speech from both the man and the woman. It's not clear what they're saying specifically, but it sounds like a conversation typical for a talk show setting. There are no other distinct sounds like music or sound effects."
+          "query": "**Visual:** The video shows a talk show setting. There are two people, a man and a woman, sitting across from each other. The man is dressed in a suit and is seated behind a desk, while the woman is in a black dress and seated in a chair. The background features a cityscape at night with illuminated buildings. The man is gesturing with his hands as he speaks, and the woman is listening attentively.\n\n**Audio:** The audio includes a conversation between the man and the woman. The man is speaking, and the woman is responding. There are no other significant sound effects or music in the background."
         },
         {
           "segment_index": 3,
           "time_range": "68.0s - 74.0s",
-          "query": "VISUAL: There's a man and a woman on a talk show set. The background shows a cityscape at night with lots of lights. The woman is sitting on a gray chair wearing black, and she has long blonde hair. She seems to be laughing or smiling. The man is behind a wooden desk, dressed in a suit, and he also looks like he's having a good time, maybe laughing too.AUDIO: Someone is speaking, saying \"painful's happened to you give it ten years sweep it under the carpet yes are you you must be excited for the.\" It sounds like they're talking about something that might have been difficult or painful in the past, and now there's some kind of excitement related to it."
+          "query": "**Visual:** The video shows two people in a talk show setting. One is seated on a chair, dressed in black, and the other is behind a desk, also in formal attire. The background features a cityscape at night with illuminated buildings. The person behind the desk is speaking and gesturing, while the seated person listens and responds.\n\n**Audio:** There is a conversation between the two individuals. The person behind the desk speaks first, and the seated person responds. The tone is light-hearted, with laughter and a casual, conversational feel."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 283.0943441390991
+      "processing_time": 229.2867283821106
     },
     {
-      "comment_index": 3707,
+      "comment_index": 1533,
       "video_id": "CU8qwXYH83c",
-      "comment": "Starts at 3:27. Editors snoozing",
+      "comment": "2:20 well.. this aged well.",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
-      "likes": 3.0,
-      "comment_timestamp": 207.0,
+      "likes": 4.0,
+      "comment_timestamp": 140.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "198.0s - 204.0s",
-          "query": "VISUAL: There's a woman with blonde hair sitting on a gray chair, wearing black clothes. She seems to be talking animatedly while gesturing with her hands. Across from her is a man in a suit, seated behind a wooden desk. He looks like he's listening intently. The background shows a cityscape at night through large windows.The AUDIO: A female voice is speaking about binge - watching \"The Americans\" and then asks how two people met. It's just dialogue without any other sound effects or music. So, what do you think about this scene? Do you have any similar experiences?"
+          "time_range": "131.0s - 137.0s",
+          "query": "Visually, there are two people in a talk show setting. One is seated on a chair, wearing a black outfit, and the other is behind a desk, dressed in a suit. The background shows a cityscape at night with lights. There's applause heard in the audio."
         },
         {
           "segment_index": 2,
-          "time_range": "204.0s - 210.0s",
-          "query": "VISUAL: There's a woman with blonde hair sitting on a gray chair, wearing black clothes. She seems to be talking and gesturing with her hands. Across from her is a man in a suit, sitting behind a wooden desk. The background shows a cityscape at night through large windows. The scene looks like it could be from a talk show.AUDIO: A female voice is speaking. It's a conversation between two people, one of whom is the woman we saw visually. The tone suggests they're discussing something that might not be very exciting or interesting."
+          "time_range": "137.0s - 143.0s",
+          "query": "Oh, I'm sorry, but I can't actually analyze or describe videos directly from images. However, if you tell me about the video - like what's happening visually and what the audio sounds like - I'd be happy to help! What did you notice?"
         },
         {
           "segment_index": 3,
-          "time_range": "210.0s - 216.0s",
-          "query": "VISUAL: There's a woman with blonde hair wearing a black outfit sitting on a chair. She seems to be talking and gesturing with her hands. The background shows a window with a night cityscape view and some brick walls. There's also a microphone visible near her.AUDIO: Someone is speaking about being in a restaurant with a mutual friend during a romantic comedy scene. It sounds like they're describing an event or story related to that setting."
+          "time_range": "143.0s - 149.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 3.77 GiB. GPU 1 has a total capacity of 23.56 GiB of which 3.65 GiB is free. Including non-PyTorch memory, this process has 19.90 GiB memory in use. Of the allocated memory 15.86 GiB is allocated by PyTorch, and 3.73 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 266.3376657962799
+      "processing_time": 195.95617485046387
     },
     {
-      "comment_index": 3708,
+      "comment_index": 1534,
       "video_id": "CU8qwXYH83c",
-      "comment": "1:10 Britain's evil past.",
+      "comment": "Lol why can’t I stop laughing at this? 😂😂  00:18",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
       "likes": 3.0,
-      "comment_timestamp": 70.0,
+      "comment_timestamp": 18.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "61.0s - 67.0s",
-          "query": "VISUAL: There's a man and a woman sitting across from each other on a talk show set. The background shows a cityscape at night with lots of lights. They're both dressed formally, the man in a suit and tie, the woman in black. The man is gesturing while speaking, and the woman seems to be listening and then responding. There's a microphone between them.AUDIO: The audio has a conversation going on. It starts with some kind of dramatic statement about letting someone deal with something on their own, followed by a comment about being raised that way, which is described as \"the British way.\" Then there's laughter."
+          "time_range": "9.0s - 15.0s",
+          "query": "**Visual:** The video shows a woman with blonde hair wearing a black outfit. She is seated in a chair, and the background features a nighttime cityscape with illuminated buildings visible through a window. There's also a brick wall partially visible on the right side of the frame.\n\n**Audio:** The audio includes a woman speaking, though the specific content of her speech is not provided. There are no other discernible sounds or music in the audio."
         },
         {
           "segment_index": 2,
-          "time_range": "67.0s - 73.0s",
-          "query": "VISUAL: There's a man and a woman on a talk show set. The background shows a cityscape at night with lots of lights. The woman is sitting on a chair, wearing black, and laughing. The man is behind a desk, also dressed formally, and he seems to be talking to her.AUDIO: Someone is speaking, saying \"I know something painful has happened to you give it ten years sweep it under the carpet.\" It sounds like they're trying to comfort or make light of a difficult situation.What do you think about that? Do you have any other thoughts on the video?"
+          "time_range": "15.0s - 21.0s",
+          "query": "**Visual:** The video shows a woman with blonde hair wearing a black outfit. She is seated in what looks like a studio setting, with a brick wall and a window in the background showing a nighttime cityscape. She appears to be talking and gesturing with her hands.\n\n**Audio:** The audio features a woman speaking. She says, \"When I was doing Mary Poppins, I'd even FaceTime my daughter and she'd be like, 'Take that silly old Mary Poppins wig off.'\""
         },
         {
           "segment_index": 3,
-          "time_range": "73.0s - 79.0s",
-          "query": "VISUAL: There's a man and a woman on a talk show set. The background shows a cityscape at night with lit-up buildings. The woman is sitting in a gray chair wearing a black outfit, while the man sits behind a wooden desk in a suit.The AUDIO: Someone is speaking about Mary Poppins and Julie Andrews, mentioning that they're excited for someone to see Mary Poppins because they love Julie Andrews who played Mary Poppins. It seems like an interview or discussion context. So, what do you think about it?"
+          "time_range": "21.0s - 27.0s",
+          "query": "**Visual:** The video shows a woman with blonde hair sitting in a chair, wearing a black outfit. She's in a room with a window behind her that has a night cityscape view. There's a man in a suit sitting across from her, and they seem to be engaged in a conversation. The woman is smiling and laughing.\n\n**Audio:** The woman is speaking, and she says, \"She was like, 'I like your blond hair.'\" The man responds with, \"That's lovely.\" There's laughter from both of them."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 282.11734199523926
+      "processing_time": 271.98217606544495
     },
     {
-      "comment_index": 3709,
+      "comment_index": 1535,
       "video_id": "CU8qwXYH83c",
       "comment": "4:16 The good old elbow grab.",
       "language": "en",
@@ -590,21 +439,171 @@
         {
           "segment_index": 1,
           "time_range": "247.0s - 253.0s",
-          "query": "VISUAL: There's a man and a woman on a talk show set. The background shows a cityscape at night with lit buildings. The man is sitting behind a desk, wearing a suit, and gesturing while talking. The woman is seated on a chair to his left, dressed in black, and she seems to be responding to him. Both appear engaged in conversation.AUDIO: The audio includes laughter from both the man and the woman, along with some speech that seems like they're discussing something related to knowing someone right away after many years. It also has a bit of an apology for digging into a topic."
+          "query": "**Visual:** The video shows two people in a talk show setting. One is seated behind a desk, and the other is sitting in a chair across from them. The background features a cityscape at night with illuminated buildings. The person behind the desk is gesturing with their hands while speaking, and the person in the chair is listening and responding.\n\n**Audio:** There is a conversation between the two people. The person behind the desk is speaking and gesturing, while the person in the chair is also speaking and responding. The conversation seems to be light-hearted, as indicated by laughter."
         },
         {
           "segment_index": 2,
           "time_range": "253.0s - 259.0s",
-          "query": "VISUAL: There's a man and a woman on a talk show set. The background shows a cityscape at night with lit buildings. The woman is sitting on a gray chair wearing black, while the man sits behind a wooden desk in a suit. They seem to be having a conversation.AUDIO: The woman speaks first, saying something that makes the man laugh. Then she says \"I love you\" and continues talking. It seems like there might be some kind of playful or affectionate banter between them.What do you think about their interaction?"
+          "query": "**Visual:** The video shows a talk show setting. There are two people, one seated behind a desk and the other seated in a chair. The person behind the desk is dressed formally, while the other person is in a black outfit. The background features a cityscape at night with illuminated buildings. The person behind the desk is gesturing with their hand, possibly during a conversation.\n\n**Audio:** The audio includes speech from the person behind the desk, likely the host, and laughter from the other person, possibly a guest. The speech seems to be light-hearted and conversational."
         },
         {
           "segment_index": 3,
           "time_range": "259.0s - 265.0s",
-          "query": "VISUAL: There's a man in a suit sitting behind a desk on a talk show set with a cityscape background at night. A woman in black is seated on a chair to his left. They're both laughing and talking. The man has short hair and the woman has long blonde hair.AUDIO: People are having a conversation, specifically saying \"clear that you guys as stars are just like us\" and \"I know I am just like you guys.\" It seems like they're sharing some humorous or relatable thoughts about being stars. What do you think about their interaction?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.76 GiB. GPU 1 has a total capacity of 23.56 GiB of which 1.35 GiB is free. Including non-PyTorch memory, this process has 22.20 GiB memory in use. Of the allocated memory 17.21 GiB is allocated by PyTorch, and 4.68 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 409.28959441185
+      "processing_time": 330.464058637619
+    },
+    {
+      "comment_index": 1536,
+      "video_id": "CU8qwXYH83c",
+      "comment": "1:10 Britain's evil past.",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 3.0,
+      "comment_timestamp": 70.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "61.0s - 67.0s",
+          "query": "Sure! So, visually, there's someone sitting on a chair talking to another person who seems to be behind a desk. The background looks like it has city lights at night. In terms of audio, I can hear some conversation going on.Anything else you need help with?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "67.0s - 73.0s",
+          "query": "**Visual:** The video shows two people in a talk show setting. One is seated behind a desk, and the other is sitting in a chair across from them. The background features a cityscape at night with illuminated buildings. The person behind the desk is wearing a suit, while the other person is dressed in black. They appear to be engaged in a conversation.\n\n**Audio:** There is a conversation happening between the two individuals. The dialogue includes phrases like \"I know something painful's happened to you\" and \"Give it 10 years.\" The tone seems to be serious or reflective."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "73.0s - 79.0s",
+          "query": "**Visual:** The scene shows two individuals seated on a talk show set. One is dressed in black attire with blonde hair, sitting on a gray chair to the left. The other person, wearing a suit, sits behind a wooden desk on the right. They appear to be engaged in conversation against a backdrop featuring large windows showing an urban night skyline.\n\n**Audio:** There's dialogue between the two individuals. The woman speaks first, mentioning \"Mary Poppins.\" Then, the man responds affirmatively, saying \"Okay.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 182.34570622444153
+    },
+    {
+      "comment_index": 1537,
+      "video_id": "CU8qwXYH83c",
+      "comment": "You know, for a movie star who isn't in cartoons much, I noticed that Emily Blunt is really talented with voice acting between her different-sounding voice roles in The Simpsons, Gnomeo & Juliet, and My Little Pony: Friendship is Magic. She was even born in the same year as Ashleigh Ball! April 9, 2018, 11:27am",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 3.0,
+      "comment_timestamp": 687.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "678.0s - 684.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "684.0s - 690.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "690.0s - 696.0s",
+          "query": "Inference error: 'video_fps'"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.00480961799621582
+    },
+    {
+      "comment_index": 1538,
+      "video_id": "CU8qwXYH83c",
+      "comment": "Love love this clip. Wow 2:00.",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 3.0,
+      "comment_timestamp": 120.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "111.0s - 117.0s",
+          "query": "**Visual:** The scene shows two individuals seated on a talk show set. One is dressed formally in a suit, likely the host, while the other has blonde hair and wears dark clothing, possibly a guest. They're engaged in conversation across a wooden desk with a microphone between them. The background features large windows revealing an urban night skyline.\n\n**Audio:** There's dialogue occurring between the two individuals. The host seems to be asking questions or making comments, while the guest responds. The tone suggests a light-hearted or entertaining discussion."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "117.0s - 123.0s",
+          "query": "**Visual:** The scene shows two individuals seated on a talk show set. One is dressed formally in a suit, sitting behind a desk with a microphone, while the other, wearing black attire, sits across from them in a chair. The background features large windows revealing an urban night skyline.\n\n**Audio:** There's laughter heard during the interaction between the two individuals."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "123.0s - 129.0s",
+          "query": "**Visual:** The video shows a talk show setting. There are two people seated, one in a black dress and the other in a suit. The background features a cityscape at night with illuminated buildings. The person in the suit is speaking and gesturing, while the person in the black dress listens attentively.\n\n**Audio:** The audio includes speech from the person in the suit, likely the host, and laughter from the audience. There's also applause heard, suggesting a positive or humorous moment in the conversation."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 144.82662892341614
+    },
+    {
+      "comment_index": 1539,
+      "video_id": "CU8qwXYH83c",
+      "comment": "Starts at 3:27. Editors snoozing",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 3.0,
+      "comment_timestamp": 207.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "198.0s - 204.0s",
+          "query": "Visually, there are two people in a talk show setting. One is seated on a couch, and the other is behind a desk. The background shows a cityscape at night. The person on the couch is gesturing with their hands while speaking. The person behind the desk is listening and responding. The colors are mostly dark, with the city lights providing some illumination. There's a microphone on the desk, and the overall scene suggests a conversation or interview.\n\nAudio-wise, there's a woman speaking, and then a man responds. The woman seems to be sharing something, and the man acknowledges her and asks a follow-up question. The conversation is the main focus, with no other significant sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "204.0s - 210.0s",
+          "query": "**Visual:** The scene shows two people sitting on a talk show set. One is seated behind a desk with a microphone, likely the host, while the other sits across from them, presumably a guest. They're both dressed formally. The background features large windows showing an urban night skyline with lit buildings.\n\n**Audio:** There's dialogue between the two individuals. The woman seems to be speaking about something she considers \"lame\" or not very impressive, mentioning being rushed."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "210.0s - 216.0s",
+          "query": "Visually, there's a woman with blonde hair, wearing a black outfit, sitting in what looks like a studio setting. She's talking and gesturing with her hands. The background has a brick wall and a window showing a nighttime cityscape with lights. There's also a microphone visible on the right side of the frame. The colors are mostly dark, with the woman's blonde hair and the city lights providing some contrast. The movement is mainly from the woman as she speaks and gestures.Audibly, there's a woman speaking. She seems to be talking about a restaurant and mentions being with a mutual friend. The tone suggests it might be part of a romantic comedy."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 285.82681345939636
+    },
+    {
+      "comment_index": 1540,
+      "video_id": "CU8qwXYH83c",
+      "comment": "3:00 thank me later",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 2.0,
+      "comment_timestamp": 180.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "171.0s - 177.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.86 GiB is free. Including non-PyTorch memory, this process has 15.69 GiB memory in use. Of the allocated memory 13.60 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "177.0s - 183.0s",
+          "query": "**Visual:** The video shows two people in a talk show setting. One is seated on a couch, and the other is behind a desk with a microphone. The background features a cityscape at night with illuminated buildings. The person on the couch is wearing a black outfit, and the person at the desk is in a suit.\n\n**Audio:** There is a conversation between the two people. The dialogue includes phrases like \"John he was already on the office yes\" and \"and were you aware of that show when.\" The tone seems casual and conversational."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "183.0s - 189.0s",
+          "query": "**Visual:** The video shows a talk show setting. There are two people, one sitting on a couch and the other behind a desk. The person on the couch is gesturing with their hand while talking. The background features a cityscape at night with illuminated buildings. The person behind the desk is listening attentively.\n\n**Audio:** The audio includes speech from the person on the couch, who seems to be engaged in a conversation. There is laughter heard in the background, suggesting a light-hearted or humorous exchange."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 295.97621178627014
     }
   ]
 }

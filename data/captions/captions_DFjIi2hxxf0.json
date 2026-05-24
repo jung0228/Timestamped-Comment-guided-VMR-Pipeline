@@ -1,230 +1,609 @@
 {
   "video_id": "DFjIi2hxxf0",
   "total_comments": 20,
-  "successful_comments": 0,
-  "failed_comments": 20,
-  "success_rate": "0.0%",
-  "processing_time": 0.003631114959716797,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 1276,
+      "comment_index": 101,
       "video_id": "DFjIi2hxxf0",
       "comment": "Nobody: Absolutely nobody:  Geometry dash users levels:   6:00",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 972.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
+      "comment_timestamp": 360.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "351.0s - 357.0s",
+          "query": "Visually, there's a man in a light blue shirt. He's holding his hands up to his face, covering his mouth and nose. The background is dark, which makes him stand out. There's no other significant object or scene visible in the frame.\n\nAudio-wise, there's music playing in the background. It seems to be instrumental, possibly with some traditional or classical elements. There are no spoken words or other distinct sounds."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "357.0s - 363.0s",
+          "query": "Visually, there's a person holding a microphone, likely performing or speaking. The background is dark, suggesting an indoor setting, possibly a stage or a studio. The person seems to be in motion, perhaps dancing or moving rhythmically while using the microphone. There are no other distinct objects or people visible in the frame.\n\nIn terms of audio, there's a sound effect that resembles a whoosh or swoosh, which could be part of a musical track or a sound effect used in the performance. There's also a brief moment of speech, but it's not clear what is being said due to the lack of context."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "363.0s - 369.0s",
+          "query": "Visually, there's a person on a stage, holding a microphone and speaking. The background has a large \"TED\" logo in red. The person seems to be in the middle of a presentation or talk. There's also a bit of movement, like someone walking in front of the camera.\n\nAudio-wise, there's a sound effect that starts around the 2.5-second mark. It's a kind of whoosh or swoosh sound, like something is moving quickly. Then there's applause, which suggests the person on stage might have just made a point or finished a part of their talk."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 242.02100443840027
     },
     {
-      "comment_index": 1277,
+      "comment_index": 102,
       "video_id": "DFjIi2hxxf0",
       "comment": "Nobody: Literally nobody: 6:07: Me at 3am in my room when I should be sleeping",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 795.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
+      "comment_timestamp": 367.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "358.0s - 364.0s",
+          "query": "Visually, there's a person in a light blue shirt. They're holding a microphone close to their mouth and seem to be speaking or singing. Their hand gestures suggest they're emphasizing something. The background is dark, which makes the person stand out more. There's also a brief moment where a hand appears in the foreground, possibly adjusting something or gesturing. The overall scene gives off a performance or presentation vibe.Audibly, there's a sound effect that starts around 2.9 seconds into the video. It's a whooshing sound, kind of like a gust of wind or a fast-moving object passing by. The rest of the audio seems to be the person speaking or singing, but the whooshing sound interrupts it for a moment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "364.0s - 370.0s",
+          "query": "Visually, there's a person on a stage, holding a microphone close to their mouth. They're wearing a light blue shirt and seem to be speaking or singing. The background is mostly dark with a large red \"TED\" logo visible. There's also some kind of equipment or furniture partially visible in front of the person.\n\nIn terms of audio, there's a beatboxing sound, which is a form of vocal percussion, and then laughter can be heard."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "370.0s - 376.0s",
+          "query": "Visually, there's a man in a light blue shirt. He seems to be in a dark setting, possibly on a stage or in a dimly lit room. He's holding a microphone close to his mouth, suggesting he might be speaking or singing. His head is tilted back a bit, and he looks like he's in the middle of an expressive moment, maybe singing or shouting. There's no clear indication of other people or objects in the frame, just this man and the microphone.Audibly, there's music playing in the background. It's not very clear what kind of music it is, but it seems to be some sort of instrumental piece. There are also some sound effects, like applause or cheering, which could be from an audience. It gives the impression of a live performance or a public speaking event."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 263.8177442550659
     },
     {
-      "comment_index": 1278,
+      "comment_index": 103,
       "video_id": "DFjIi2hxxf0",
       "comment": "5:58 I always come back for : GERMANY !",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 730.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
+      "comment_timestamp": 358.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "349.0s - 355.0s",
+          "query": "Visually, there's a man in a light blue shirt. He has his hands near his face, fingers touching his cheeks. The background is dark, making him stand out. There's no clear indication of a specific scene or location. The colors are mainly the light blue of his shirt and the dark background.\n\nIn terms of audio, there's music playing in the background. It's a continuous sound without any distinct speech or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "355.0s - 361.0s",
+          "query": "Visually, there's a person wearing a light blue shirt. They're holding something up to their mouth with one hand while looking down slightly. The background is dark.\n\nIn terms of audio, it starts with some kind of sound effect or noise, then someone says \"Germany\" clearly. There's also music playing softly in the background throughout."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "361.0s - 367.0s",
+          "query": "Visually, there's a person on stage holding a microphone, likely performing or speaking. The background is dark, and there's a red \"TED\" logo partially visible. The person seems to be in motion, possibly dancing or moving rhythmically.\n\nIn terms of audio, there's a sound effect that resembles a whoosh or a fast-moving object, followed by a beat or rhythm that could be part of a musical track."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 214.2079737186432
     },
     {
-      "comment_index": 1279,
-      "video_id": "DFjIi2hxxf0",
-      "comment": "I'm from Germany. 5:58 is absolutely genius 😂 I really love this part :D",
-      "language": "en",
-      "channel_name": "TED",
-      "category": "talk show",
-      "likes": 717.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1280,
+      "comment_index": 104,
       "video_id": "DFjIi2hxxf0",
       "comment": "Girl: Its not easy to get me...   3 mins later: 0:44",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 630.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
+      "comment_timestamp": 44.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "35.0s - 41.0s",
+          "query": "Visual: A person is on a stage at a TEDxSydney 2013 event. They're standing behind a podium, wearing a light-colored shirt and dark pants. The stage has a red carpet and the TEDxSydney logo is prominently displayed in the background. The person seems to be speaking or presenting, gesturing with their hands.\n\nAudio: There is a man speaking, likely the presenter. He starts by saying \"but I'd like to give you guys a bit of a demonstration about what I do.\" The speech is clear and confident."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "41.0s - 47.0s",
+          "query": "Visually, there's someone on stage at a TEDxSydney event from 2013. They're wearing sunglasses and seem to be speaking or performing into a microphone. The background is dark with some red lighting.\n\nIn terms of audio, it seems like there might be some kind of beatboxing or rhythmic vocalization happening alongside the speech. There could also be some ambient noise typical for an indoor event space."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "47.0s - 53.0s",
+          "query": "Visually, there's a person wearing sunglasses and a light blue shirt. They're holding a microphone close to their mouth, suggesting they're singing or speaking. The background is dark, which makes the person stand out. There's also a brief moment where the person moves their hand, possibly adjusting the microphone or gesturing.\n\nIn terms of audio, there's a beatboxing sound throughout the segment. It's rhythmic and seems to be part of a musical performance."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 198.1757628917694
     },
     {
-      "comment_index": 1281,
+      "comment_index": 105,
       "video_id": "DFjIi2hxxf0",
       "comment": "Caption: beat boxing billie jean 2:42     deaf people: Am I a joke to you",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 612.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
+      "comment_timestamp": 162.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "153.0s - 159.0s",
+          "query": "Visually, there's a person in a light blue shirt. They seem to be in a dark setting, possibly on a stage, and they're holding a microphone close to their mouth, suggesting they might be singing or speaking. The background is mostly dark, with some faint lights or reflections visible.\n\nIn terms of audio, there's a sound effect that resembles a whoosh or swoosh, followed by a musical beat. It's a short, sharp sound effect that transitions into a rhythmic musical beat."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "159.0s - 165.0s",
+          "query": "**Visual:** A person is seen on a stage, holding a microphone close to their mouth, suggesting they are either speaking or singing. The background is dark, indicating a performance or concert setting. The person appears to be in motion, possibly dancing or moving rhythmically.\n\n**Audio:** There is music playing in the background, which seems to be instrumental or possibly a beat, setting the tone for the performance."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "165.0s - 171.0s",
+          "query": "**Visual:** The video shows a person in a light blue shirt and dark pants. They are holding a microphone close to their mouth, suggesting they are speaking or singing. The background is dark, possibly a stage or a dimly lit room. There's a brief glimpse of another person's legs in dark pants.\n\n**Audio:** The audio features a beatboxing sound, which is a form of vocal percussion. It's rhythmic and creates a musical effect."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 245.88450384140015
     },
     {
-      "comment_index": 1282,
+      "comment_index": 106,
       "video_id": "DFjIi2hxxf0",
       "comment": "Her: \"I don't do this kind of thing a lot.\"   Also her: 0:45",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 612.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
+      "comment_timestamp": 45.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "36.0s - 42.0s",
+          "query": "**Visual:** A person is standing on a stage with \"TEDxSydney 2013\" prominently displayed behind them. The individual appears to be speaking into a microphone while gesturing with their hands.\n\n**Audio:** Someone is speaking, likely introducing or explaining something related to the event, possibly giving context about what they will demonstrate later."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "42.0s - 48.0s",
+          "query": "Visually, there's a person wearing sunglasses and a light-colored shirt. They're holding a microphone close to their mouth, suggesting they're singing or speaking. The background is dark, which makes the person stand out. There's also some text in red and white that says \"TEDx Sydney 2013\".\n\nAudibly, there's a sound effect that resembles a drum or a similar percussive instrument. It's a short, sharp sound."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "48.0s - 54.0s",
+          "query": "Visually, there's someone wearing sunglasses and a light blue shirt performing on stage with a microphone close to their mouth. The background is dark.\n\nAudio-wise, it seems like there might be some kind of beatboxing or rhythmic vocalization happening along with the performance. There could also be some music playing softly in the background."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 123.46757793426514
     },
     {
-      "comment_index": 1283,
+      "comment_index": 107,
       "video_id": "DFjIi2hxxf0",
       "comment": "6:01 i can’t believe a human made that noise lmao",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 503.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
+      "comment_timestamp": 361.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "352.0s - 358.0s",
+          "query": "Visually, there's a person in a light blue shirt. They're holding a microphone close to their mouth, suggesting they might be speaking or singing. The background is dark, which makes the person stand out. There's also a brief moment where the person touches their nose with their hand. The scene seems to be indoors, possibly on a stage or in a studio.\n\nIn terms of audio, there's music playing in the background. It's instrumental, with a melody that could be described as somewhat melancholic or reflective. There are no distinct speech or sound effects, just the music."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "358.0s - 364.0s",
+          "query": "Visually, there's a person in a light blue shirt. They're holding a microphone close to their mouth and seem to be speaking or singing. Their hand gestures suggest they're emphasizing something. The background is dark, which makes the person stand out more. There's also a brief moment where a hand appears in the foreground, possibly adjusting something or gesturing. The overall scene gives off a performance or presentation vibe.Audibly, there's a sound effect that starts around 2.9 seconds into the video. It's a whooshing sound, kind of like a gust of wind or a fast-moving object passing by. The rest of the audio seems to be the person speaking or singing, but the whooshing sound interrupts it for a moment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "364.0s - 370.0s",
+          "query": "Visually, there's a person on a stage, holding a microphone close to their mouth. They're wearing a light blue shirt and seem to be speaking or singing. The background is mostly dark with a large red \"TED\" logo visible. There's also some kind of equipment or furniture partially visible in front of the person.\n\nIn terms of audio, there's a beatboxing sound, which is a form of vocal percussion, and then laughter can be heard."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 228.7507803440094
     },
     {
-      "comment_index": 1284,
+      "comment_index": 108,
       "video_id": "DFjIi2hxxf0",
       "comment": "6:08 damn this was so impressive, no differences between  clubs of Berlin 😂👍🏻👍🏻",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 465.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
+      "comment_timestamp": 368.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "359.0s - 365.0s",
+          "query": "Visually, there's a person holding a microphone, likely performing or speaking. They seem to be in a dark setting, probably on a stage. The person is wearing a light-colored shirt. There's also a red \"P\" logo visible in the background. The person's hand is raised near their face, possibly gesturing while speaking or singing. The overall scene gives off a performance vibe, like a concert or a talk show.Audibly, there's a sound effect that resembles a burp or a similar noise. It's a short, distinct sound that interrupts the person's speech or singing."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "365.0s - 371.0s",
+          "query": "Visually, there's a man on a stage, holding a microphone close to his mouth. He seems to be speaking or singing. The background has a large red \"TED\" logo. The man is wearing a light blue shirt and dark pants. He's moving slightly, possibly gesturing while speaking or singing. There's also a table with some items on it in the background, but it's not very clear what they are. The lighting is focused on the man, making him the main focus of the scene. The overall color scheme is dark with the red logo standing out.\n\nAudio-wise, there's a sound effect that starts around the 2-second mark. It's a whooshing sound, like something is moving quickly past. Then, there's applause from an audience, which lasts until about the 5-second mark. The rest of the audio seems to be the man's speech or singing, but it's not very clear due to the background noise and the whooshing sound."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "371.0s - 377.0s",
+          "query": "Visually, there's a man in a light blue shirt. He seems to be speaking or singing into a microphone, and he's making hand gestures. The background is dark, which makes him stand out. There's also a bit of movement, like he might be swaying or shifting his position a little.Audibly, there's music playing in the background. It's not very clear what kind of music it is, but it gives a sort of energetic or lively feel to the scene. There are also some sound effects, but they're not very distinct."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 307.6331150531769
     },
     {
-      "comment_index": 1285,
+      "comment_index": 109,
       "video_id": "DFjIi2hxxf0",
       "comment": "5:59 Germans are into the kinky stuff",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 437.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
+      "comment_timestamp": 359.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "350.0s - 356.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.75 GiB is free. Including non-PyTorch memory, this process has 15.79 GiB memory in use. Of the allocated memory 13.70 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "356.0s - 362.0s",
+          "query": "Visually, there's a person in a light blue shirt. They're holding a microphone close to their mouth, and it looks like they're beatboxing. Their hands are also moving in a way that suggests they're creating beats with their mouth and possibly their hands. The background is completely black, which makes the person and their actions stand out clearly. There's no other object or person visible in the frame. The person's hair is dark and short, and they seem to be focused on their performance.Audibly, there's a beatboxing sound. It's rhythmic and seems to be the main focus of the audio. There are no other distinct sounds like speech, music, or sound effects. The audio is clear and focused on the beatboxing."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "362.0s - 368.0s",
+          "query": "Visually, there's a person on a stage, holding a microphone close to their mouth, seemingly in the middle of speaking or singing. They're wearing a light blue shirt. The background is mostly dark, with a large red \"TED\" logo visible. The person's head is slightly tilted back, and they appear to be in motion, possibly dancing or moving rhythmically.\n\nIn terms of audio, there's a beatboxing sound in the background, which seems to be part of the performance. The beatboxing is rhythmic and adds a musical element to the scene."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 275.2357714176178
     },
     {
-      "comment_index": 1286,
+      "comment_index": 110,
       "video_id": "DFjIi2hxxf0",
       "comment": "6:10 when your neighbors are having a party and didn't invite you",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 436.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
+      "comment_timestamp": 370.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "361.0s - 367.0s",
+          "query": "Visually, there's a person on stage holding a microphone, likely performing or speaking. The background is dark, and there's a red \"TED\" logo partially visible. The person seems to be in motion, possibly dancing or moving rhythmically.\n\nIn terms of audio, there's a sound effect that resembles a whoosh or a fast-moving object, followed by a beat or rhythm that could be part of a musical track."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "367.0s - 373.0s",
+          "query": "Visually, there's a man on a stage, holding a microphone. He seems to be speaking or performing. The background has a large red \"TED\" logo. The man is wearing a light blue shirt and dark pants. He's standing upright and appears to be in the middle of a speech or presentation. There's also a brief moment where the camera zooms in on his face, showing him speaking more closely. The lighting is focused on him, making him the main subject of the shot. The overall scene suggests a formal or semi-formal event, likely a TED talk or similar.\n\nAudio-wise, there's a sound effect that resembles a drum roll or a similar percussive noise. It starts around the 2-second mark and lasts for a few seconds. There's also a brief moment of applause, which could be from the audience. The overall audio gives the impression of a live event with some dramatic elements."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "373.0s - 379.0s",
+          "query": "Visually, there's a man in a light blue shirt. He seems to be speaking or reacting to something, with his mouth open and hand gestures. The background is dark, which makes him stand out. There's also a bit of movement, like something being tapped or tapped on, maybe a table or something similar. The colors are mostly muted, with the blue shirt being the most noticeable part of the scene. The movement is mainly the man's gestures and the tapping sound.Audibly, there's music playing in the background. It's not very loud but adds a certain mood to the scene. There are also sound effects, like a tap or a tap on a surface, which seem to be related to the man's actions. The music is probably instrumental, and the sound effects are brief and distinct."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 279.976375579834
     },
     {
-      "comment_index": 1287,
+      "comment_index": 111,
       "video_id": "DFjIi2hxxf0",
       "comment": "me: trying to sleep the flies in my room: 9:06",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 421.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
+      "comment_timestamp": 546.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "537.0s - 543.0s",
+          "query": "Visually, there's a person on a stage, likely performing. They're wearing a light blue shirt and seem to be holding a microphone close to their mouth, suggesting they might be speaking or singing. The background is dark, and there's a large red \"TEDx\" logo visible, indicating this is a TEDx event. The person appears to be moving slightly, possibly engaging with the audience or adjusting their position.\n\nIn terms of audio, there's music playing in the background, which seems to be instrumental and sets a certain mood for the performance."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "543.0s - 549.0s",
+          "query": "Visually, there's someone standing on stage with a microphone in hand, seemingly preparing to speak or perform. The background has large red letters spelling out \"TEDxSy\". There are some cables and equipment on a table in front of them.\n\nAudibly, it starts with a bit of static noise, then fades into soft music playing in the background."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "549.0s - 555.0s",
+          "query": "Visually, there's a person on a stage with a microphone in hand. They seem to be speaking or performing. The background has large red and white letters, possibly part of a logo or event name. The person is wearing a light blue shirt and has short, light-colored hair. There's also a table in front of them with some items on it, like a laptop or a device.\n\nIn terms of audio, there's music playing in the background, but no distinct speech or sound effects are heard."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 221.6883089542389
     },
     {
-      "comment_index": 1288,
+      "comment_index": 112,
       "video_id": "DFjIi2hxxf0",
       "comment": "Me to mom when I boil some water 3:50",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 397.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
+      "comment_timestamp": 230.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "221.0s - 227.0s",
+          "query": "Visually, there's a man on a stage. He's wearing a light blue shirt and jeans. He's holding a microphone in his right hand and gesturing with his left. The background is mostly dark with a large red \"TED\" logo visible. There's also a table with some items on it in front of him. The man seems to be speaking or presenting something.\n\nIn terms of audio, there's a man speaking, and you can hear applause and a whistle in the background. It sounds like he's in the middle of a presentation or talk."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "227.0s - 233.0s",
+          "query": "Visually, there's a person standing on a stage in a dimly lit environment. The stage has some blue lighting effects. The person is wearing a light-colored shirt and seems to be gesturing with their hand. There are also some objects on the stage, like what looks like a speaker or a microphone stand.\n\nIn terms of audio, there's a man speaking. He seems to be addressing an audience, and there's applause from the audience in the background."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "233.0s - 239.0s",
+          "query": "Visually, there's a man in a light blue shirt. He seems to be on a stage or in a public speaking setting. He's adjusting his sunglasses on his head and then starts speaking into a microphone. The background is dark, which makes him stand out. There's also some applause heard in the audio, suggesting an audience is present."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 269.76670122146606
     },
     {
-      "comment_index": 1289,
+      "comment_index": 113,
       "video_id": "DFjIi2hxxf0",
       "comment": "10:58 Basically me when i step on a lego brick",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 337.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
+      "comment_timestamp": 658.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "649.0s - 655.0s",
+          "query": "Visually, there's a person in a light blue shirt, holding a microphone close to their mouth, seemingly singing or speaking. The background is mostly dark, with a large red \"TEX\" text visible. The person's head is slightly tilted downward as they interact with the microphone. There's also another person partially visible in the foreground, wearing a striped shirt, but their face isn't fully shown.\n\nIn terms of audio, there's a musical track playing in the background. It starts with a brief pause, then a simple, repetitive melody begins. The music seems to be instrumental, possibly electronic or pop in genre."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "655.0s - 661.0s",
+          "query": "Visually, there's a person on a stage, likely performing. They're wearing a light blue shirt and seem to be engaged in some kind of expressive action, possibly dancing or moving rhythmically. The background is dark, and there are large white letters partially visible, suggesting a formal or event-like setting. The person's movements are dynamic, with their arms and body in motion.\n\nAudibly, there's music playing in the background, which seems to be instrumental. It has a lively, upbeat tempo, possibly in a pop or dance genre. There are no distinct speech or sound effects heard."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "661.0s - 667.0s",
+          "query": "Visually, there's a person on a stage with a microphone in hand. They're wearing a light blue shirt and dark pants. The background prominently features the red \"TEDx\" logo. The person seems to be speaking or presenting, and there's a table with some items on it in front of them. The lighting is focused on the speaker, making them the main focus of the scene.\n\nIn terms of audio, there's a musical performance happening. It sounds like a mix of different instruments and voices, creating a lively and engaging atmosphere."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 234.00950169563293
     },
     {
-      "comment_index": 1290,
-      "video_id": "DFjIi2hxxf0",
-      "comment": "6:08 When your nightbours are having a big party and you aren´t invited.😂😂😂  BTW: Thanks for the likes👍👍👍",
-      "language": "en",
-      "channel_name": "TED",
-      "category": "talk show",
-      "likes": 316.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1291,
+      "comment_index": 114,
       "video_id": "DFjIi2hxxf0",
       "comment": "1:34 that beat made me eat soup with a fork.",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 266.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
+      "comment_timestamp": 94.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "85.0s - 91.0s",
+          "query": "Sure! So, visually, there's someone on stage with a microphone. They seem to be performing or speaking. The background has large red letters that look like \"TED.\" There s also another person partially visible in front.Anything else you want me to focus on?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "91.0s - 97.0s",
+          "query": "Visually, there's a person singing into a microphone. They seem to be on a stage, and the background is dark, suggesting a concert or performance setting. The person is wearing a light-colored shirt. There's also a hand visible in the foreground, possibly holding something or gesturing.\n\nAudibly, there's music playing in the background, likely the song being sung. There are no distinct speech or sound effects, just the music."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "97.0s - 103.0s",
+          "query": "Visually, there's a person on a stage, holding a microphone close to their mouth, likely singing or speaking. The background is dark, suggesting a concert or performance setting. The person seems to be in motion, possibly dancing or moving around while performing. There are some colorful lights, like green and purple, adding to the stage ambiance. The person is wearing a light-colored shirt with some darker patterns or designs on it. The overall scene gives off a lively, energetic vibe typical of a live performance.Audibly, there's music playing in the background, which is likely part of the performance. There are also some sound effects, possibly from the stage setup or special effects related to the performance. The music seems to be upbeat and rhythmic, matching the energetic feel of the visual."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 207.47304701805115
     },
     {
-      "comment_index": 1292,
-      "video_id": "DFjIi2hxxf0",
-      "comment": "6:00 Germany killed me XD",
-      "language": "en",
-      "channel_name": "TED",
-      "category": "talk show",
-      "likes": 263.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1293,
+      "comment_index": 115,
       "video_id": "DFjIi2hxxf0",
       "comment": "Why is there no one that commented about his introduction..? I mean, i never saw him...and..i don't know him but...i'm already laughing just by the way he introduce his job...i mean... \"I use my mouth in different strange ways\"...COF COF 0:26 XD",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 217.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
+      "comment_timestamp": 26.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "17.0s - 23.0s",
+          "query": "Visually, there's a man on a stage. He's wearing a light blue shirt and glasses. He's holding a microphone and seems to be speaking. The background is dark with a large red \"TED\" logo visible. There's also some text on the bottom left that says \"MAY 2013 SYDNEY AUSTRALIA\".\n\nAudibly, he's speaking, but the content of what he's saying isn't clear from this short segment. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "23.0s - 29.0s",
+          "query": "Visually, there's a man on stage holding a microphone. He has short hair and is wearing sunglasses along with a light blue shirt. The background seems dark with some red elements visible.\n\nAudio-wise, it's just his voice speaking clearly without any other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "29.0s - 35.0s",
+          "query": "Visually, there's a man on stage holding a microphone. He seems to be speaking or presenting something. The background has large red letters that might spell out \"TED.\" The lighting is focused on him, making him stand out against the darker surroundings.\n\nIn terms of audio, it sounds like he's talking, probably delivering a speech or lecture. There aren't any other distinct sounds besides his voice."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 184.60662508010864
     },
     {
-      "comment_index": 1294,
-      "video_id": "DFjIi2hxxf0",
-      "comment": "Nobody:  Not a single soul: Not even the aliens of area 51: My neighbors: 6:07",
-      "language": "en",
-      "channel_name": "TED",
-      "category": "talk show",
-      "likes": 209.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1295,
+      "comment_index": 116,
       "video_id": "DFjIi2hxxf0",
       "comment": "0:22 \"Basically, I use my mouth in strange ways in exchange for cash\"",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 200.0,
-      "error": "Video file not found: DFjIi2hxxf0",
-      "analysis_type": "failed"
+      "comment_timestamp": 22.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "13.0s - 19.0s",
+          "query": "Visually, there's a man on a stage. He's wearing a light blue shirt and dark sunglasses. He's holding a microphone and seems to be speaking or presenting. The background is dark with a large red \"TED\" logo partially visible. The man is moving slightly, gesturing with his hand as he speaks.\n\nAudio-wise, there's a man speaking. He's saying, \"Tom and I've come here today to come clean about what I do for money.\" The speech is clear and seems to be the main focus. There's no background music or sound effects, just the man's voice."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "19.0s - 25.0s",
+          "query": "Visually, there's a man on a stage. He's wearing a light blue shirt and glasses. He's holding a microphone and seems to be speaking. The background is mostly dark with a large red \"TED\" logo visible. There's also text on the screen saying \"MAY 2013\" and \"SYDNEY AUSTRALIA\".\n\nIn terms of audio, it's just the man speaking. There are no other sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "25.0s - 31.0s",
+          "query": "Visually, there's a man on a stage. He's wearing a light blue shirt and sunglasses. He's holding a microphone and seems to be speaking or presenting. The background is dark with a large red \"TED\" logo visible. The man is standing upright and appears to be gesturing with his free hand.\n\nAudio-wise, there's a man speaking. His speech is in English and seems to be about doing something in downtown bars. The tone is casual and conversational."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 243.19891238212585
+    },
+    {
+      "comment_index": 117,
+      "video_id": "DFjIi2hxxf0",
+      "comment": "9:42 I could imagine him just doing this in his house alone having fun",
+      "language": "en",
+      "channel_name": "TED",
+      "category": "talk show",
+      "likes": 182.0,
+      "comment_timestamp": 582.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "573.0s - 579.0s",
+          "query": "Visually, there's a man in a light blue shirt standing in front of a large \"TEDxSydney\" sign. He seems to be speaking or presenting, and there's a table with some items on it in front of him. The background is dark, which makes the sign and the man stand out. There's also a close-up shot of the man, showing him holding a microphone and looking down, possibly at some notes or a device.\n\nIn terms of audio, there's music playing in the background throughout the segment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "579.0s - 585.0s",
+          "query": "Visually, there's someone on stage with a microphone, wearing a light blue shirt. They seem to be performing or speaking. The background has large red letters that say \"TEDx\". There are some objects like cables and equipment on a table in front.On the audio side, it starts with some music playing softly in the background. Then, a voice begins speaking, introducing someone as \"the star of the show\" and referring to them as one of the greatest jazz legends of all time.So, what do you think about this? Do you have any other questions related to the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "585.0s - 591.0s",
+          "query": "Visually, there's a person standing on a stage with \"TEDxSydney 2013\" prominently displayed in the background. The person seems to be preparing to speak or perform, as they're facing away from the camera and looking towards the audience area. The stage is dimly lit, with some red lighting highlighting the TEDx logo. There are also some objects on the stage, like a microphone stand and possibly some equipment or props.The audio features a voice saying, \"Music lovers and jazz lovers alike please give a warm hand of applause for the one and only.\" It's a clear, confident voice, and the words are spoken in a way that suggests an introduction or announcement."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 282.98710346221924
+    },
+    {
+      "comment_index": 118,
+      "video_id": "DFjIi2hxxf0",
+      "comment": "5:16 wow INDIA",
+      "language": "en",
+      "channel_name": "TED",
+      "category": "talk show",
+      "likes": 174.0,
+      "comment_timestamp": 316.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "307.0s - 313.0s",
+          "query": "Visually, there's a person on a stage, holding a microphone close to their mouth. They seem to be speaking or singing. The background is dark, suggesting a performance or presentation setting. The person is wearing a light-colored shirt. There's a bit of movement as they gesture with their hand while speaking or singing. The lighting focuses mainly on the person, making them the central figure in the scene. There's also a hint of a red light or object in the background, but it's not very clear.Audibly, there's a sound effect that resembles a didgeridoo being played. It's a low, resonant sound that adds a unique element to the audio. The didgeridoo sound is continuous throughout the 6 seconds."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "313.0s - 319.0s",
+          "query": "Visually, there's a man in a light blue shirt. He's holding a microphone close to his mouth and appears to be singing or speaking. His other hand is raised, possibly gesturing. The background is dark, which makes him stand out. There's also a brief moment where another person, wearing a darker shirt, is visible, but they're mostly obscured and not the focus.\n\nIn terms of audio, there's a sound effect that starts around 2.5 seconds into the video. It's a whooshing sound, kind of like a gust of wind or something moving quickly. Then, there's a short segment of speech that follows the whoosh."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "319.0s - 325.0s",
+          "query": "Visually, there's a person on stage, likely performing. They're wearing a light blue shirt and seem to be engaged in some kind of expressive action, possibly singing or beatboxing. The background is dark, and there's a large red \"TED\" logo visible, suggesting this is a TED event. The person's hair is short and dark.\n\nAudibly, there's a beatboxing sound, which is rhythmic and likely part of the performance. There's also a brief moment of music, possibly a musical interlude or transition."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 256.89178919792175
+    },
+    {
+      "comment_index": 119,
+      "video_id": "DFjIi2hxxf0",
+      "comment": "9:38  That my friends is \"No Diggity\" played on a voice trumpet. My respect just tripled for this man.",
+      "language": "en",
+      "channel_name": "TED",
+      "category": "talk show",
+      "likes": 165.0,
+      "comment_timestamp": 578.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "569.0s - 575.0s",
+          "query": "Visually, there's a person on a stage with a microphone in hand, seemingly giving a speech or presentation. The background prominently displays the \"TEDxSydney\" logo in large letters. The person is wearing a light blue shirt and appears to be gesturing with their other hand while speaking. There's a table in front of them with some items on it, possibly related to the presentation.\n\nIn terms of audio, there's music playing in the background, which seems to be instrumental and sets a certain mood for the scene."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "575.0s - 581.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.75 GiB is free. Including non-PyTorch memory, this process has 15.79 GiB memory in use. Of the allocated memory 13.70 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "581.0s - 587.0s",
+          "query": "Visually, there's a man in a light blue shirt. He seems to be in a dark room, possibly a stage or a studio. He's moving around, maybe dancing or gesturing. There's a table in front of him with some objects on it, like a microphone or some other equipment. The background has a large \"TEDx\" logo in red and \"Sydney 2013\" written in white. The lighting is dim, with some bright spots highlighting the man and the table.Audibly, there's a male voice rapping. The lyrics mention \"the show\" and \"the greatest jazz legends of all time.\" The music is a hip-hop beat, and there are no other distinct sounds or effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 268.37519240379333
+    },
+    {
+      "comment_index": 120,
+      "video_id": "DFjIi2hxxf0",
+      "comment": "OMG trumpet solo at 10:35... holy... wow.",
+      "language": "en",
+      "channel_name": "TED",
+      "category": "talk show",
+      "likes": 159.0,
+      "comment_timestamp": 635.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "626.0s - 632.0s",
+          "query": "Visually, there's a man in a blue shirt and dark pants. He's standing in front of a table with various objects on it, like a microphone and some other items. He seems to be adjusting or interacting with something on the table. The background is dark, which makes the objects on the table stand out. There's also a brief moment where he touches his face with his hand. The overall scene looks like it could be a performance or a presentation setting.\n\nAudio-wise, there's music playing in the background. It's a bit hard to pinpoint the exact type of music, but it has a sort of ambient or instrumental feel to it. There are no distinct speech or sound effects, just the music."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "632.0s - 638.0s",
+          "query": "Visually, there's a person in a light blue shirt. They're holding a microphone close to their mouth, suggesting they might be speaking or singing. The background is dark, which makes the person stand out. There's also a hand reaching in from the left side of the frame, possibly to adjust something or interact with the person.\n\nIn terms of audio, there's music playing in the background. It seems to be a lively, upbeat tune, likely setting a positive or energetic mood for whatever the person is doing with the microphone."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "638.0s - 644.0s",
+          "query": "Visual: A person wearing sunglasses is seen in a close-up shot. The background is dark, and there's a hint of a red and white logo or text. The person seems to be moving slightly, possibly adjusting their glasses or looking around.\n\nAudio: There's a musical sound effect playing in the background, which could be part of a performance or a show."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 243.100821018219
     }
   ]
 }

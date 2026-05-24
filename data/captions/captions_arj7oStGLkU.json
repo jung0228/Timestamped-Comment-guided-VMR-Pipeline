@@ -1,230 +1,609 @@
 {
   "video_id": "arj7oStGLkU",
   "total_comments": 20,
-  "successful_comments": 0,
-  "failed_comments": 20,
-  "success_rate": "0.0%",
-  "processing_time": 0.003659963607788086,
+  "successful_comments": 19,
+  "failed_comments": 1,
+  "success_rate": "100.0%",
   "comments": [
     {
       "comment_index": 41,
       "video_id": "arj7oStGLkU",
-      "comment": "Me: has to study for an exam that weighs a lot on my grade  Me at 3:30a.m.:",
+      "comment": "4:15-4:45 Why does  this guy know how every single day of me looks like ?",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 534.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 941.0,
+      "comment_timestamp": 255.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "246.0s - 252.0s",
+          "query": "Visually, there's a man in a black shirt standing in front of a blue and red background. He seems to be talking or presenting something. There's also a cartoon image of a monkey holding a ship's wheel with a speech bubble saying \"Nope!\" and another speech bubble saying \"This is a perfect time to get some work done.\" The cartoon is on a white background. The man's arms are outstretched, and he looks like he's in the middle of speaking or explaining something. The overall scene gives off a mix of a real-life presentation and a humorous cartoon element."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "252.0s - 258.0s",
+          "query": "Visually, there's a stick figure monkey and a stick figure person. The monkey is on the left, and the person is on the right, holding a ship's wheel. The monkey has a speech bubble saying \"Nope!\" and the person has a speech bubble saying \"This is a perfect time to get some work done.\" The background is plain white. There's a red wavy line on the ground.\n\nAudio: There's a man speaking in English. He says, \"So the rational decision maker will make the rational decision to do something productive but the monkey.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "258.0s - 264.0s",
+          "query": "Well, I'm not sure if there's any actual video content here to analyze. There seems to be no visual or audio information provided for me to describe. Maybe you could upload the video again?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 218.59977674484253
     },
     {
       "comment_index": 42,
       "video_id": "arj7oStGLkU",
-      "comment": "13:32  Me: \"Wow, I don't have that much time in this world\" Monkey: \"Let's count these boxes\"",
+      "comment": "The frustration was not that they werent able to chase their dreams its that they werent even able to start chasing them”  12:30-12:37 ( that GOT me, HARD )",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 496.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 651.0,
+      "comment_timestamp": 750.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "741.0s - 747.0s",
+          "query": "Visual: A man is on stage speaking to an audience. He's wearing a black shirt and jeans, holding something small in his hand. The background has blue and red elements. There are several people sitting in rows, watching him.\n\nAudio: The man is talking, likely about procrastination and its impact on projects over time."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "747.0s - 753.0s",
+          "query": "Visually, there's a man in a black shirt standing in front of a blue and red backdrop. He seems to be holding something small in his hands and is moving around a bit. The backdrop is pretty simple, just those two colors. There's no other significant objects or scenery in the frame.Audibly, there's a man speaking. His voice is clear and he seems to be talking about something related to frustration and spectatorship in people's lives. There's no music or other sound effects, just his speech."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "753.0s - 759.0s",
+          "query": "Visually, there's a man on a stage with a large \"TED\" sign in the background. He's wearing a dark shirt and jeans, and he seems to be speaking or presenting. The stage lighting is focused on him, and the background is dark. There are some people in the audience, but they're not very clear. The overall scene suggests a TED talk or similar event.\n\nIn terms of audio, there's a man speaking. His voice is clear and he seems to be delivering a speech or presentation. There are no other noticeable sounds like music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 202.372230052948
     },
     {
       "comment_index": 43,
       "video_id": "arj7oStGLkU",
-      "comment": "12:25 \"Long time procrastination will make you feel like spectator in your own Life. The frustration will then not be that you could not achieve your dreams, but that you were not even able to start chasing them.....\" 💯💯",
+      "comment": "Chapters (Powered by ChapterMe) -  00:00 - Intro 00:19 - Work per day to complete the paper 03:00 - What goes on in the heads of a procrastinator? 03:40 - Brain of a non-procrastinator vs a procrastinator 04:59 - Instant gratification monkey only cares about easy and fun 05:46 - The role of the rational decision maker in our brain 06:33 - Orange zone - The Dark playground 07:18 - The panic monster 10:05 - Response on the blog 10:55 - Two kinds of procrastination 11:57 - Long-term effects of procrastination 13:03 - Life calendar",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 483.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 535.0,
+      "comment_timestamp": 438.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "429.0s - 435.0s",
+          "query": "**Visual:** The video shows a man standing on a stage with a large screen behind him. On the screen, there are drawings of a boat, a mountain, a person jumping, and a sign that says \"Welcome to THE DARK PLAYGROUND.\" The man is gesturing with his hands as if he's explaining something. The stage has a red carpet and the word \"TED\" is visible in large letters on the left side.\n\n**Audio:** The audio features a voice speaking in English. The speaker says, \"Keep it behind the wheel. How does the procrastinator ever get himself over here to this blue zone, a less pleasant place?\" The tone seems to be questioning or explaining something related to procrastination."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "435.0s - 441.0s",
+          "query": "Visually, there's a person on a stage in front of a large screen. The screen shows a Venn diagram with two circles labeled \"Hard Things\" and \"Important Things.\" A stick figure is in the overlapping section of the circles. The person on stage seems to be speaking, gesturing with their hands. The stage has a red carpet and the TED logo is visible.\n\nAudio-wise, there's a man speaking. He's talking about how important things happen in the overlapping section of the Venn diagram, which is labeled \"Hard Things.\" He mentions that procrastination is involved."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "441.0s - 447.0s",
+          "query": "Visually, there's a man in a black shirt standing in front of a red and blue background. He seems to be speaking and gesturing with his hands. There's also a small cartoon monkey on his shoulder. The scene is simple, with no other objects or people visible. The colors are mainly red, blue, and black, and the movement is mainly from the man's gestures and the slight wobble of the cartoon monkey.Audibly, there's a man speaking. His voice is clear and he seems to be explaining something, possibly giving a presentation or lecture. There are no other sounds like music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 346.1694588661194
     },
     {
       "comment_index": 44,
       "video_id": "arj7oStGLkU",
-      "comment": "9:26 There's a guy taking f**king notes!!!😂😂",
+      "comment": "Me: has to study for an exam that weighs a lot on my grade  Me at 3:30a.m.:",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 432.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 534.0,
+      "comment_timestamp": 210.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "201.0s - 207.0s",
+          "query": "Visually, there's a person standing on a stage in front of a large audience. The person seems to be speaking or presenting, gesturing with their hands. The audience is seated in rows, looking towards the stage. The setting appears to be a large auditorium or conference hall, with dim lighting focused on the stage area. The colors are mostly muted, with the audience in darker clothing and the stage having a reddish hue from the lighting.Audibly, there's a voice speaking, likely the person on stage. The speech seems to be in English, and it's clear and audible over the background noise of the audience. There are no distinct sound effects or music in the audio."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "207.0s - 213.0s",
+          "query": "Well, in the visual part, there's a man standing on a stage in front of a large audience. He seems to be giving a speech or presentation. The audience is seated in rows, looking at him. The stage has a red carpet and the background is dark with some lighting effects. In the audio part, there's a man speaking. He's talking about something related to procrastination, mentioning that he's a non-procrastinator and wants to compare things. He also says he brought something to show. So, what do you think about this? Do you have any other questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "213.0s - 219.0s",
+          "query": "Visually, there's a man in a black shirt. He seems to be holding something in his right hand and gesturing with his left. The background is mostly red with some blue elements. He looks like he's speaking or presenting, and his body language suggests he's engaged in what he's doing. There's also a bit of movement as he shifts his stance a little.Audibly, it's a man speaking. The speech is clear and seems to be part of a presentation or talk. There are no other noticeable sounds like music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 236.18177032470703
     },
     {
       "comment_index": 45,
       "video_id": "arj7oStGLkU",
-      "comment": "Tim: \"We need to all take a long, hard look at that calendar, and we need to think about what we're really procrastinating on, because everyone is procrastinating on something in life\"  13:18  Me: Counting every row and column on the life calendar to confirm that there are exactly 4680 squares on the screen.",
+      "comment": "13:32  Me: \"Wow, I don't have that much time in this world\" Monkey: \"Let's count these boxes\"",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 367.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 496.0,
+      "comment_timestamp": 812.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "803.0s - 809.0s",
+          "query": "Visually, there's a person on a stage with a large screen behind them. The stage has a red carpet and the word \"TED\" is visible in red letters. The person seems to be speaking or presenting, gesturing with their hands. The background is dark, and the lighting focuses on the speaker and the screen. The colors are mainly red, black, and white. There's movement as the person walks and gestures on the stage.Audibly, there's a man speaking. His voice is clear and he seems to be delivering a speech or presentation. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "809.0s - 815.0s",
+          "query": "Visually, there's a man on a stage with a large screen behind him. He's wearing a black shirt and jeans, and he seems to be speaking or presenting. The stage has a red carpet, and the TED logo is visible in the background. The man is gesturing with his hands as he moves around the stage.\n\nAudio-wise, there's a voice speaking, likely the man on stage. The speech is about procrastination and staying aware of instant gratification. There's no background music or sound effects, just the man's voice."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "815.0s - 821.0s",
+          "query": "**Visual:** The video shows a man standing on a stage with a red carpet, addressing an audience seated in rows of chairs. The background is dark with some lighting focused on him. There's also a large screen behind him displaying some visuals.\n\n**Audio:** A male voice is speaking, likely delivering a presentation or lecture to the audience."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 219.62161374092102
     },
     {
       "comment_index": 46,
       "video_id": "arj7oStGLkU",
-      "comment": "10:23 Guilty PhD student here... by the way, it feels like a support group here in the comments section.",
+      "comment": "12:25 \"Long time procrastination will make you feel like spectator in your own Life. The frustration will then not be that you could not achieve your dreams, but that you were not even able to start chasing them.....\" 💯💯",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 299.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 483.0,
+      "comment_timestamp": 745.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "736.0s - 742.0s",
+          "query": "Well, visually, I can see an audience sitting in rows of seats. They seem to be at some kind of event or conference. There's not much movement from them though. As for the audio, there's just someone speaking, but it's hard to make out what they're saying clearly. It doesn't seem like there's any background music or sound effects.What do you think about that? Do you have any other thoughts on the video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "742.0s - 748.0s",
+          "query": "Visually, there's a man in a black shirt and jeans standing on a stage. He's gesturing with his hands, possibly speaking or presenting. The background is dark with some red lighting. There are also blurred images of people in the audience, suggesting a live event like a conference or seminar. The man seems to be the main focus, moving slightly as he speaks or presents.Audibly, there's a voice speaking, but the content is unclear. It could be a speech or presentation. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "748.0s - 754.0s",
+          "query": "Visually, there's a man in a black shirt. He seems to be in a room with dark blue and red lighting. He's moving around, gesturing with his hands as if he's speaking or presenting something. There's a bit of motion blur, suggesting he's in motion.Audibly, there's a man speaking. His voice is clear and he seems to be talking about something related to frustration and dreams."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 223.00668621063232
     },
     {
       "comment_index": 47,
       "video_id": "arj7oStGLkU",
-      "comment": "6:42 Youtube is my Dark Playground",
+      "comment": "9:26 There's a guy taking f**king notes!!!😂😂",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 203.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 432.0,
+      "comment_timestamp": 566.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "557.0s - 563.0s",
+          "query": "Sure! So, visually, there's a big red monster with sharp teeth and claws, standing on one leg. It has a speech bubble full of \"AHHH\"s. Then there's a small monkey sitting on a ship's wheel, looking scared. And next to that is a stick figure who seems really panicked, also with an \"AHHH\" speech bubble. The background is just plain white.The audio? Well, it starts with the monster yelling \"AHHH\"s. Then the monkey yells too, and finally, the stick figure joins in. There s no music or other sound effects, just those \"AHHH\"s. It all happens pretty quickly.What do you think about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "563.0s - 569.0s",
+          "query": "Visually, the video shows a cartoonish drawing of a monkey with a speech bubble containing a lot of \"A\" characters. There's also a stick figure with a speech bubble. The scene then shifts to a real-life setting where people are sitting in an auditorium, watching a presentation. The presenter is standing on stage, gesturing towards a large screen displaying the cartoon drawing.\n\nAudibly, there's laughter from the audience, indicating they're enjoying the presentation. The presenter is speaking, but the specific words aren't clear from the provided information."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "569.0s - 575.0s",
+          "query": "Visual: A man is standing on a stage with a large screen behind him displaying a cartoonish drawing. The drawing shows various elements like a tree, a ship's wheel, and some abstract shapes. The man appears to be giving a presentation or talk.\n\nAudio: There is a male voice speaking, likely explaining something related to the content displayed on the screen."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 209.29304480552673
     },
     {
       "comment_index": 48,
       "video_id": "arj7oStGLkU",
-      "comment": "Procrastinating in a nutshell:     2 weeks: yeah we’ve got time.  1 & a half weeks: yeah it’ll be fine,    1 week: ehh, I’ll do it tomorrow.    4 days: hmmm… nahh I’ve got things to do.    1 day: well.. ookayyyy, fine i will do it in an hour.    12:30: let’s start this thing! nevermind I will do it after a short nap 💤    1 hour before it’s due: OH F—",
+      "comment": "Tim: \"We need to all take a long, hard look at that calendar, and we need to think about what we're really procrastinating on, because everyone is procrastinating on something in life\"  13:18  Me: Counting every row and column on the life calendar to confirm that there are exactly 4680 squares on the screen.",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 167.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 367.0,
+      "comment_timestamp": 798.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "789.0s - 795.0s",
+          "query": "Well, I can't actually watch videos or analyze them directly like that. But if you describe the video to me, I'd be happy to help break it down into those two parts for you! What do you think?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "795.0s - 801.0s",
+          "query": "**Visual:** The video shows two men on a stage at a TED event. One man is speaking while holding a remote control or clicker, and there's a large screen behind them displaying a blank white image. The audience is seated in rows facing the stage.\n\n**Audio:** A male voice is speaking, saying \"especially since we've used a bunch of those so I think we need to all take out.\" There doesn't seem to be any background music or other sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "801.0s - 807.0s",
+          "query": "Visually, there's a man on a stage, gesturing with his arms. He's wearing a black shirt. The background is dark, and there's a large screen behind him. The stage has a red carpet. There are some people in the audience, but they're not very clear.Audibly, there's a man speaking. He seems to be talking about looking at a calendar and thinking about something. The speech is clear and the man's voice is calm."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 148.84247374534607
     },
     {
       "comment_index": 49,
       "video_id": "arj7oStGLkU",
-      "comment": "The lady on 9:24 be like: \"hm-m, yes, monky go AAAA, gotta write that down\"",
+      "comment": "10:23 Guilty PhD student here... by the way, it feels like a support group here in the comments section.",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 146.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 299.0,
+      "comment_timestamp": 623.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "614.0s - 620.0s",
+          "query": "**Visual:** The video shows a person standing on a stage with a large screen behind them. On the screen, there are simple drawings: a stick figure with a speech bubble saying \"HAAAAAAAAAAAA\" and a tree. The person on stage appears to be speaking or presenting, gesturing with their hands. The stage has a red carpet and the word \"TED\" is visible in the background, suggesting a TED Talk setting. The lighting is focused on the speaker and the screen.\n\n**Audio:** The audio features a man speaking in English. He seems to be talking about people from all over the world doing different things. The speech is clear and the tone suggests he might be explaining or emphasizing a point."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "620.0s - 626.0s",
+          "query": "**Visual:** The video shows a man with short dark hair, wearing a dark shirt. He seems to be in a dimly lit room with a blue background. He's looking down and then turns his head slightly to the side. His expression appears thoughtful or focused. There's no other significant action or objects visible.\n\n**Audio:** The audio features a male voice speaking. The speech is clear and seems to be part of a presentation or lecture. There are no other sound effects or music."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "626.0s - 632.0s",
+          "query": "Visually, there's a man in a black shirt walking on a stage. He seems to be in a performance or presentation setting. The background has red and blue lighting, giving it a dramatic feel. There are also some blurred figures in the background, possibly an audience or other performers. The man is moving forward, and his body language suggests he might be speaking or performing.\n\nAudio - There's a male voice speaking, but the content of the speech isn't clear from this short segment. There are no distinct sound effects or music."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 227.07998895645142
     },
     {
       "comment_index": 50,
       "video_id": "arj7oStGLkU",
-      "comment": "13:04 my panic monster just activated THERE AREN'T ENOUGH BOXES OH GOD THERE AREN'T ENOUGH BOXES OH NO OH GOD WHYYYYYY HAVE I WASTED MY ENTIRE LIFE WAHHHAHHAHHHHHHHHHHGGGGG",
+      "comment": "6:42 Youtube is my Dark Playground",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 144.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 203.0,
+      "comment_timestamp": 402.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "393.0s - 399.0s",
+          "query": "Well, in the visual part, there's a person standing on a stage in front of a large screen. The screen shows a Venn diagram with two circles. One circle is orange and labeled \"easy and fun\", and the other is white and labeled \"makes sense\". There's also a small drawing of a monkey on top of the orange circle. The person seems to be giving a presentation or a talk. The stage has a dark background, and there are some people in the audience watching.The audio part is just the man speaking. He's talking about the orange zone, which is described as an \"easy and fun place\" that's \"entirely out of the\". But it's not clear what he's saying after that. It's just his voice, no other sounds like music or sound effects.What do you think about this? Do you have any other questions?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "399.0s - 405.0s",
+          "query": "I'm sorry, I can't analyze videos directly from images or descriptions like that. If you could upload the actual video file, I'd be happy to help!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "405.0s - 411.0s",
+          "query": "Visually, there's a man in a black shirt and jeans walking through a large, crowded auditorium. The audience is seated in rows, and the lighting is dim, creating a somewhat dark atmosphere. The man seems to be moving purposefully towards the front of the auditorium. The colors are mostly muted due to the dim lighting, but there are some brighter spots from the audience's clothing and the stage area. There's a sense of movement as the man walks and the audience sits still.Audibly, there's a male voice speaking in an excited or enthusiastic tone. The speech is clear and prominent, and it seems to be the main focus of the audio. There are no other significant sound effects or ambient sounds that stand out."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 340.5372142791748
     },
     {
       "comment_index": 51,
       "video_id": "arj7oStGLkU",
-      "comment": "My rational decision maker: Lets study for the test that is in 1 week Monkey: Actually, Lets watch Ted talks  6 Days later at 23:00  Panic monster: AAAAAAAAAAAHHHH Monkey runs away Me: Oh crap (Me right now xD)",
+      "comment": "The lady on 9:24 be like: \"hm-m, yes, monky go AAAA, gotta write that down\"",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 118.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 146.0,
+      "comment_timestamp": 564.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "555.0s - 561.0s",
+          "query": "Visual: The video shows a stick figure standing next to a ship's wheel. There's a large, red, jagged shape on the left side of the screen, which seems to be a monster or some sort of creature. It has a speech bubble with a lot of \"AHHHHHHHHH\" written in it. The stick figure appears to be looking at the creature.\n\nAudio: There is a sound effect that resembles a loud, sharp noise, like a scream or a bang, which seems to be coming from the creature."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "561.0s - 567.0s",
+          "query": "Visual: The video shows a cartoonish scene with a stick figure in the center, holding a steering wheel. Surrounding the stick figure are three other stick figures, each with a speech bubble containing the text \"AAAAAAAAAH\" and \"HHHHHHHHHHH.\" The background is a simple, solid color, and there are no other significant objects or scenery.\n\nAudio: The audio features laughter, which seems to be a reaction to the absurdity of the scene depicted in the video."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "567.0s - 573.0s",
+          "query": "Visually, there's a man on a stage at a TED event. He's gesturing towards a large screen behind him. On the screen, there's a simple drawing of a person, a tree, and a speech bubble. The man seems to be explaining something related to the drawing. The stage has the red TED logo on the floor. The background is dark, typical of a TED talk setting. The colors are mainly red, black, and white from the drawing and the stage elements. The movement is mainly the man's gestures and the static image on the screen.\n\nAudio - There's a man speaking, likely the presenter. His speech is clear and seems to be part of his presentation. There are no other distinct sounds like music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 299.23166489601135
     },
     {
       "comment_index": 52,
       "video_id": "arj7oStGLkU",
-      "comment": "This vid is 14:04 long, but i spent over 25 mins watching this vid.",
+      "comment": "13:04 my panic monster just activated THERE AREN'T ENOUGH BOXES OH GOD THERE AREN'T ENOUGH BOXES OH NO OH GOD WHYYYYYY HAVE I WASTED MY ENTIRE LIFE WAHHHAHHAHHHHHHHHHHGGGGG",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 115.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 144.0,
+      "comment_timestamp": 784.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "775.0s - 781.0s",
+          "query": "Well, I'm not sure if there's actually any audio or visual content to analyze here. It seems like it might be an empty response? Maybe check again for more details?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "781.0s - 787.0s",
+          "query": "Well, in the video, there's a man in a black shirt. He seems to be talking and gesturing with his hands. The background is mostly red and blue, with some white elements. In the audio, there's a voice speaking, and it sounds like he's explaining something. He mentions \"deadlines\" and \"showing one last thing.\" He also refers to it as a \"life.\" So, it seems like he's giving some kind of presentation or lecture. What do you think he might be talking about?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "787.0s - 793.0s",
+          "query": "I'm sorry, I can't analyze that image because it's just a blank white one with some small dots scattered around. There aren't any objects, people, or actions to describe visually. And there's no audio information available either since it's not an audio file. So, I can't really break down what's happening in those two parts for you. If you have another image or something else to analyze, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 214.58590459823608
     },
     {
       "comment_index": 53,
       "video_id": "arj7oStGLkU",
-      "comment": "12:17 that dude on the right staring at the camera is psychologically abusing me",
+      "comment": "ok definitely starting at 3:00 pm at 3:01: ill relax until 4 and start and so on xD",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 77.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 139.0,
+      "comment_timestamp": 180.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "171.0s - 177.0s",
+          "query": "Visually, the video shows a group of people sitting in what looks like an auditorium or theater. They are seated in rows, facing forward, and appear to be watching something. The lighting is dim, typical of such venues, and the audience members are dressed casually. There's a sense of anticipation or focus among them.\n\nIn terms of audio, there's a man speaking, and his words are \"No, no, it was very, very bad.\" This suggests he might be reacting to something he's seen or heard. There's also laughter in the background, indicating that the audience finds the situation amusing."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "177.0s - 183.0s",
+          "query": "Visually, there's a man standing on a stage with a large screen behind him displaying some text. The background has red and blue sections. He seems to be giving a presentation or talk.\n\nAudio-wise, he is speaking, likely explaining something related to the content on the screen. There doesn't seem to be any other significant sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "183.0s - 189.0s",
+          "query": "Visually, there's a person standing on a stage with a large screen behind them. The screen shows a graph with a single vertical line. The person seems to be giving a presentation or speech. The stage has a red carpet and the word \"TED\" is visible in the background. The lighting is focused on the speaker and the screen, creating a professional and engaging atmosphere. There's also some blue lighting in the background, adding a bit of contrast to the scene. The person is gesturing with their hands, likely emphasizing points in their speech. The overall setting suggests a formal event, possibly a TED Talk or a similar conference.Audience: The audio consists of a man speaking. He seems to be explaining something, possibly related to the graph on the screen. His tone is confident and engaging, suggesting he's trying to communicate important information to his audience. There are no other sounds like music or sound effects, just the clear voice of the speaker."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 242.55771327018738
     },
     {
       "comment_index": 54,
       "video_id": "arj7oStGLkU",
-      "comment": "it's 4:30 a.m for me, I have a math test in four hours, I am not even half way through my math review homework which i was supposed to have started a while ago, math is my worst subject at the moment, and I am procrastinating while watching a video on procrastination. what a great life",
+      "comment": "12:11 Yep..",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 76.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 121.0,
+      "comment_timestamp": 731.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "722.0s - 728.0s",
+          "query": "**Visual:** A man is standing on a stage with \"TED\" prominently displayed behind him in large red letters. He's wearing casual clothes - a black shirt and jeans. The audience is seated in front of him, some facing towards him while others seem distracted. The background has a dark blue curtain.\n\n**Audio:** There seems to be no distinct dialogue or music playing during these six seconds. It appears to be mostly silent apart from any faint ambient noise that might be present in such an indoor setting."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "728.0s - 734.0s",
+          "query": "Visually, there's a man on a stage with a large \"TED\" logo behind him. He's wearing a dark shirt and jeans, and he seems to be speaking or presenting. The background is dark, and there are some lights on the stage. There are also some people in the audience, but they're not very clear.In terms of audio, it's a man speaking, likely the presenter on stage. The speech seems to be about something related to unhappiness, but the exact words aren't clear from this short segment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "734.0s - 740.0s",
+          "query": "Visual: There's an audience seated in rows, looking attentive towards something off-camera. The setting seems like a conference or seminar hall with dim lighting focused on the stage area.\n\nAudio: Someone is speaking, though it's not clear who they are or what they're saying due to the short duration provided."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 198.59387183189392
     },
     {
       "comment_index": 55,
       "video_id": "arj7oStGLkU",
-      "comment": "09:25 the guy taking notess thooo 😂  He is like WRITE THAT DOWN WRITE THAT DOWN",
+      "comment": "🎯 Key Takeaways for quick navigation:  00:12 📚 The typical workflow of writing papers doesn't work for him; procrastination kicks in. 00:41 📈 Thought his 90-page senior thesis would be different, but procrastination still got the best of him. 01:43 ⏱️ Pulled two all-nighters to complete his 90-page thesis just in time, but it was not well-received. 02:49 🖋️ Tim Urban is a writer-blogger who decided to investigate procrastination. 03:18 🧠 Brain scans suggest procrastinators and non-procrastinators have different brain structures. 03:50 🐒 Introduces the concept of the \"Instant Gratification Monkey\" in the procrastinator's brain. 05:24 🐾 Instant Gratification Monkey doesn't understand the complexities of modern civilization. 06:25 🌑 Describes the \"Dark Playground,\" a zone where procrastinators spend time when they shouldn't. 07:26 😱 Introduces the \"Panic Monster,\" the only entity the Monkey is afraid of. 08:32 🌏 Even the opportunity to give a TED Talk didn't initially overpower procrastination. 09:32 🚨 The Panic Monster wakes up as the deadline approaches, finally enabling focused work. 10:02 📧 Tim Urban was flooded with emails from people across various professions relating to his description of procrastination, indicating it's a widespread issue. 10:31 😔 The light tone of Tim's blog post contrasted with the heavy emotional burden that procrastination had placed on people's lives. 11:04 ⏰ There are two types of procrastination: one with deadlines, where the \"Panic Monster\" kicks in, and one without deadlines, which is more detrimental in the long run. 11:32 🏃‍♀️ Procrastination affects not just work, but other areas of life like health and relationships, where there are no immediate deadlines to invoke the Panic Monster. 12:00 😢 Long-term procrastination can lead to feelings of unhappiness and regret, making people feel like spectators in their own lives. 12:30 🚀 The frustration for many isn't about not achieving dreams, but not even starting to chase them. 13:03 🗓️ Tim introduces the \"Life Calendar,\" emphasizing the limited time we have, and argues that everyone is procrastinating on something in life. 13:37 ⏳ The urgency to address procrastination should start soon, given the limited \"boxes\" in the Life Calendar.  Made with HARPA AI",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 74.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 118.0,
+      "comment_timestamp": 12.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "3.0s - 9.0s",
+          "query": "Visual: The video shows an abstract animation with swirling patterns that resemble a cosmic or underwater scene. There are various shapes and lines moving dynamically against a dark background.\n\nAudio: Music plays throughout the entire duration of the video, creating an atmospheric backdrop for the visuals."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "9.0s - 15.0s",
+          "query": "Visual: A man is standing on stage against a dark blue curtain backdrop. He's wearing a black t-shirt with \"TIM URBAN\" printed on it.\n\nAudio: There's applause heard at the beginning, followed by someone speaking. The speaker seems to be starting a sentence about college."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "15.0s - 21.0s",
+          "query": "Well, I can't actually watch videos directly here, so I don't have any visual details to describe for you. But if you tell me about the audio - like what kind of speech there is or any other sounds - I'd be happy to help with that! What did you notice in the audio?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 114.62544322013855
     },
     {
       "comment_index": 56,
       "video_id": "arj7oStGLkU",
-      "comment": "i had 4 weeks to do a speech project. I've done nothing, its 0:01 and the presentation is tomorrow. I'm thinking of taking this topic",
+      "comment": "My rational decision maker: Lets study for the test that is in 1 week Monkey: Actually, Lets watch Ted talks  6 Days later at 23:00  Panic monster: AAAAAAAAAAAHHHH Monkey runs away Me: Oh crap (Me right now xD)",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 64.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 118.0,
+      "comment_timestamp": 1380.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1371.0s - 1377.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1377.0s - 1383.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1383.0s - 1389.0s",
+          "query": "Inference error: 'video_fps'"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.0035505294799804688
     },
     {
       "comment_index": 57,
       "video_id": "arj7oStGLkU",
-      "comment": "It's 2:00 A.M , got school tomorrow and might not go, and I got some stupid flash cards to in the the freaking eleven grade. Yay! Totally going!... nope plan to spend the day with Ted talks.",
+      "comment": "there's literally a guy taking notes at 9:25 , i'm done hahahaha",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 59.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 118.0,
+      "comment_timestamp": 565.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "556.0s - 562.0s",
+          "query": "Visual: The video shows a stick figure standing on a red ground. There's a large, red, chaotic shape with a speech bubble containing repeated \"AHHHHHHHHH\" and \"HHHHHHHHHHH\" sounds. A smaller, brown, stick figure with a steering wheel is also present, looking up at the chaotic shape. The chaotic shape seems to be moving or shaking.\n\nAudio: There's a voiceover saying, \"So the panic monster starts losing his mind and a few seconds later the whole system's in may.\" The voiceover is in English and has a somewhat dramatic tone."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "562.0s - 568.0s",
+          "query": "Visually, there's an animated scene with stick figures. One figure is holding a steering wheel, and others seem to be reacting with exaggerated expressions. The background looks like it could represent a stage or performance area.\n\nAudio-wise, laughter can be heard throughout the clip. There doesn't appear to be any specific dialogue or music playing during these six seconds."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "568.0s - 574.0s",
+          "query": "**Visual:** The video shows a person on stage at a TED event, gesturing towards a large screen behind them. On the screen is a cartoonish drawing with various characters and speech bubbles containing nonsensical words like \"AAAAAHHH\" and \"NHHHHHH.\" There's also an image of a tree and some other abstract shapes.\n\n**Audio:** A man is speaking, though his exact words aren't clear from just the visuals. His tone seems energetic or enthusiastic based on his gestures."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 232.2108178138733
     },
     {
       "comment_index": 58,
       "video_id": "arj7oStGLkU",
-      "comment": "11:16 is me in my life right now. Its really hard to get started on something especially if there are no deadlines. And also the funny thing about deadlines is its like a game. In a college year I have to try my hardest not to skip my first deadline, because if I skip one then for the rest of the year, deadlines seem irrelevant. Its like my monkey has now seen that the panic monster is harmless really, and it now isn't scared of it for the rest of the semester, until some major change happens and at the semester end it is like my brain presses a reset button.  And the cycle starts all over again and my monkey is again scared of the panic monster until it skips a deadline,...... And so on and so forth.",
+      "comment": "This vid is 14:04 long, but i spent over 25 mins watching this vid.",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 57.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 115.0,
+      "comment_timestamp": 844.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "835.0s - 841.0s",
+          "query": "Visually, there's a large crowd seated in rows, likely at an event like a concert or conference. The audience is diverse, with some people wearing bright clothing. A man in a black shirt walks across the foreground. The scene has warm lighting, probably from stage lights.\n\nAudibly, there's applause and cheering from the crowd, indicating approval or excitement about something that happened just before this moment. There might be some background chatter too."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "841.0s - 847.0s",
+          "query": "Well, I'm sorry, but there's no actual content to analyze here. The image is completely black. So, for both the visual and audio descriptions, it would be impossible to give any details. But if you have another video or something else you want me to look at, feel free to let me know!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "847.0s - 853.0s",
+          "query": "Inference error: 'video_fps'"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 91.59986209869385
     },
     {
       "comment_index": 59,
       "video_id": "arj7oStGLkU",
-      "comment": "Demozo  YES. Or if I decide to start my homework at 11:00pm the night before it’s due and I want to go to bed I just think \"If I don’t finish, then I don’t finish.\" Because then I have a few hours before I have to face the consequences of my actions, so I just pretend they’re not there.",
+      "comment": "5:40 Well, I'll start the work at 6 6:15 Okay 6:30 will be fine 6:45 7 is perfect, I think 7:30 Let's watch this Youtube video 9:00 ... 11:00 Okay, let's start working. Oh it's too late, I'm going to bed",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 53.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 86.0,
+      "comment_timestamp": 660.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "651.0s - 657.0s",
+          "query": "Visually, there's a large crowd in a dimly lit auditorium. A man in a black shirt is on a red stage, gesturing with his hands. The audience is seated, some looking towards the stage. The colors are mostly dark, with the red stage being a bright spot. There's movement from the man on stage and the audience's heads turning.\n\nAudio-wise, there's a man speaking in a calm, measured tone. The speech is the main focus, with no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "657.0s - 663.0s",
+          "query": "Visually, there's a man in a dark shirt. He seems to be in a room with red and blue elements in the background. He's gesturing with his hands, like he's explaining something. There's also a brief moment where the screen goes black, which could be a transition or an effect in the video.Audibly, there's a voice speaking. The speech is about procrastination, mentioning examples with deadlines. It's a pretty straightforward, informative tone."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "663.0s - 669.0s",
+          "query": "Well, in the video, there's a man in a black shirt. He seems to be talking and gesturing with his hands. The background is mostly red and blue, with some darker areas. As for the audio, it's just the man speaking. There's no music or sound effects. It's mainly his voice. So, what do you think about this video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 289.50221276283264
     },
     {
       "comment_index": 60,
       "video_id": "arj7oStGLkU",
-      "comment": "Tim: Draws a monkey screaming 9:23 guy: takes notes",
+      "comment": "I love how I have 3 vocab assignments, a make-up worksheet and a theatre slide to do all before 11:59pm tonight and it’s 9:45pm, but still I decided to watch this.",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 52.0,
-      "error": "Video file not found: arj7oStGLkU",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 81.0,
+      "comment_timestamp": 719.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "710.0s - 716.0s",
+          "query": "Visually, there's a man in a black shirt standing in front of a red and blue background. He seems to be speaking and gesturing with his hands. There's also a second person in a green and blue striped shirt partially visible behind him, also appearing to speak and gesture. The scene is simple, with no other objects or complex movements.\n\nAudio - The man in the black shirt is speaking, but the content of his speech isn't clear from this short segment. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "716.0s - 722.0s",
+          "query": "Visually, there's a man on a stage with a large \"TED\" sign in the background. He's wearing a dark shirt and jeans, and he seems to be speaking or presenting. The audience is seated in front of him, and the lighting is focused on the stage. The colors are mainly red and blue, with the red being prominent in the \"TED\" sign and the blue in the background. There's some movement as the man gestures while speaking.\n\nAudio-wise, there's a man speaking. The speech is clear and seems to be about procrastination, mentioning \"long-term kind of procrastination\" and how it's less visible. There are no other noticeable sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "722.0s - 728.0s",
+          "query": "**Visual:** A man is standing on a stage with \"TED\" prominently displayed behind him in large red letters. He's wearing casual clothes - a black shirt and jeans. The audience is seated in front of him, some facing towards him while others seem distracted. The background has a dark blue curtain.\n\n**Audio:** There seems to be no distinct dialogue or music playing during these six seconds. It appears to be mostly silent apart from any faint ambient noise that might be present in such an indoor setting."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 241.71603178977966
     }
   ]
 }

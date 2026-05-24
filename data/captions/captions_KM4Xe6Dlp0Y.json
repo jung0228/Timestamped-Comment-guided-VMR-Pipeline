@@ -1,230 +1,609 @@
 {
   "video_id": "KM4Xe6Dlp0Y",
   "total_comments": 20,
-  "successful_comments": 0,
-  "failed_comments": 20,
-  "success_rate": "0.0%",
-  "processing_time": 0.003872394561767578,
+  "successful_comments": 19,
+  "failed_comments": 1,
+  "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 1764,
+      "comment_index": 121,
       "video_id": "KM4Xe6Dlp0Y",
       "comment": "Proverbs 31:30 Charm is deceptive , and beauty is fleeting , but a woman who fears the Lord is to be praised.  Lord Jesus Christ is our true Savior🙏❤️🕊 Repent,  believe in the Gospel",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 20.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
+      "comment_timestamp": 1890.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1881.0s - 1887.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1887.0s - 1893.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1893.0s - 1899.0s",
+          "query": "Inference error: 'video_fps'"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.005560159683227539
     },
     {
-      "comment_index": 1765,
+      "comment_index": 122,
       "video_id": "KM4Xe6Dlp0Y",
       "comment": "0:58 „...I’m quite privileged...“ yeah... we know... you’re a model!",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 15.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
+      "comment_timestamp": 58.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "49.0s - 55.0s",
+          "query": "Visually, there's a woman standing on a stage with a dark background. She's wearing a patterned skirt and a dark top. She seems to be speaking or presenting, and there's a chair to her right. The background has \"Mid Atlantic\" written in large letters. There's also a red \"X\" on the left side of the background. The lighting is focused on her, making her the main subject of the shot. The overall scene suggests a formal or semi-formal event, possibly a conference or a talk show.\n\nAudio-wise, there's a woman speaking. Her speech is clear and confident. There's also laughter in the background, indicating that her words are likely humorous or entertaining. The laughter seems to be from an audience, suggesting that this is a public speaking event with an audience present."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "55.0s - 61.0s",
+          "query": "Visually, there's a woman on a stage. She's wearing a long dress with a patterned skirt and a dark top. She seems to be adjusting something in her hands. The background has a large \"MidAtlantic\" text on it. There's also a chair on the stage. The lighting is focused on her, making the background darker. The overall color scheme is dark with some light from the stage lighting.Audibly, there's a woman speaking. She starts with a laugh, then continues speaking. The speech seems to be in English. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "61.0s - 67.0s",
+          "query": "Visually, there's a woman in a floral dress standing on a stage with a dark backdrop. She seems to be preparing to speak or perform. There's also a chair or something similar on the stage. The lighting is focused on her, making her the main subject. The background is mostly dark, with some faint red lighting. There's a bit of movement as she adjusts her dress or something similar.Action-wise, she's mostly standing still but making small movements with her hands and body, possibly getting ready to start her speech or performance.Audibly, there's a woman speaking. Her voice is clear and confident. She's saying something like \"you think of me in a very brief 10 seconds, not everybody gets to do that.\" The tone suggests she might be sharing a personal story or making a point about self-perception or self-image. There are no other sounds like music or sound effects, just her speech."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 237.00071787834167
     },
     {
-      "comment_index": 1766,
+      "comment_index": 123,
       "video_id": "KM4Xe6Dlp0Y",
       "comment": "3:13 \"and white skin\" > Has a tan",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 6.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
+      "comment_timestamp": 193.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "184.0s - 190.0s",
+          "query": "Visually, there's a woman standing on a stage. She's wearing a black top and a patterned skirt. She seems to be speaking or presenting, using hand gestures. The background has large, bold letters that are partially visible, like \"MiCAt\". The lighting is focused on her, making her the main subject. There's also another person in the background, but they're not the focus.\n\nIn terms of audio, it sounds like she's speaking, possibly giving a talk or presentation. There's no music or sound effects, just her voice."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "190.0s - 196.0s",
+          "query": "Visually, there's a woman standing in front of a large, dark background with the word \"Mid\" prominently displayed in white letters. She has long, dark hair and is wearing a black top with a patterned skirt. Her hands are clasped together in front of her as she seems to be speaking or presenting. The lighting is focused on her, making her the main subject against the darker backdrop.\n\nIn terms of audio, it sounds like she's speaking, possibly delivering a presentation or a speech. There are no other noticeable sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "196.0s - 202.0s",
+          "query": "Visually, there's a woman standing on a stage. She's wearing a black top and a patterned skirt. The background has large white letters spelling out \"MidAt.\" She seems to be speaking or presenting, with her hands clasped in front of her. The lighting is focused on her, making her the main subject of the shot. There's no significant movement or action in the background, just the static scene of the stage and the letters.Audibly, there's a woman speaking. The speech is clear and seems to be part of a presentation or talk. There are no other distinct sounds like music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 292.77195715904236
     },
     {
-      "comment_index": 1767,
-      "video_id": "KM4Xe6Dlp0Y",
-      "comment": "Did i just watched 9:38 minutes of someone telling me how easy their life is because they are beautiful ? Lol thanks, exactly what I needed 😂",
-      "language": "en",
-      "channel_name": "TED",
-      "category": "talk show",
-      "likes": 5.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1768,
-      "video_id": "KM4Xe6Dlp0Y",
-      "comment": "1:30 wow there's so much worry in her voice.",
-      "language": "en",
-      "channel_name": "TED",
-      "category": "talk show",
-      "likes": 5.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1769,
+      "comment_index": 124,
       "video_id": "KM4Xe6Dlp0Y",
       "comment": "2 Timothy 4:18  The Lord will rescue me from every evil deed and bring me safely into his heavenly kingdom. To him be the glory forever and ever. Amen.",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 5.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
+      "comment_timestamp": 258.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "249.0s - 255.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.87 GiB is free. Including non-PyTorch memory, this process has 15.68 GiB memory in use. Of the allocated memory 13.59 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "255.0s - 261.0s",
+          "query": "Sorry, I can't analyze that video for you because it's not available to me. If you could describe the video or share more details about it, I'd be happy to help!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "261.0s - 267.0s",
+          "query": "**Visual:** The video shows a person standing on a red carpeted stage with \"BE MY BOSS\" prominently displayed behind them. The background is dark, emphasizing the bright yellow text. There's also a smaller screen showing an image of someone smiling.\n\n**Audio:** A voice speaks over the visuals, saying phrases like \"BE MY BOSS\" and mentioning potential career aspirations such as being the editor-in-chief of American Vogue or the CEO of H&M. The tone seems motivational and aspirational."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 178.93723893165588
     },
     {
-      "comment_index": 1770,
+      "comment_index": 125,
+      "video_id": "KM4Xe6Dlp0Y",
+      "comment": "Did i just watched 9:38 minutes of someone telling me how easy their life is because they are beautiful ? Lol thanks, exactly what I needed 😂",
+      "language": "en",
+      "channel_name": "TED",
+      "category": "talk show",
+      "likes": 5.0,
+      "comment_timestamp": 578.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "569.0s - 575.0s",
+          "query": "Visual: A woman is standing on a stage with a large screen behind her displaying \"TEDxMidAtlantic\". She appears to be giving a talk or presentation.\n\nAudio: There's applause from an audience, followed by some background music playing softly."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "575.0s - 581.0s",
+          "query": "I'm sorry, but I can't analyze the video segment you mentioned because it's not provided. Could you please upload the video or provide more details about it?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "581.0s - 587.0s",
+          "query": "Inference error: 'video_fps'"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 125.8888418674469
+    },
+    {
+      "comment_index": 126,
       "video_id": "KM4Xe6Dlp0Y",
       "comment": "I don't think she thinks that.  From 2:31 to 3:21 she acknowledges why she is on that stage because she is a 'pretty white woman' and says \"in my industry we call that a sexy girl\", \"...for the past centuries we have defined beauty not just as health and youth... but also as tall, slender figures, and femininity, and white skin\".  She also acknowledges that society thinks these aspects are what beauty is all about.",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 5.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
+      "comment_timestamp": 151.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "142.0s - 148.0s",
+          "query": "Visually, the video shows a black and white image of a woman. On the left side, she's in a silhouette, walking confidently with one hand on her hip. On the right side, she's facing forward, wearing a feathered outfit and posing with a serious expression. The background is plain and dark, emphasizing her figure.\n\nIn terms of audio, there's a woman speaking. She says, \"So today for me being fearless means being honest.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "148.0s - 154.0s",
+          "query": "**Visual:** The video shows a woman on a stage. She's wearing a dark top and a patterned skirt. There are large white letters behind her, but they're partially obscured. The woman is standing still, looking forward. The background is mostly dark, with some light reflecting off the floor.\n\n**Audio:** The woman is speaking. She says, \"and I am on this stage because I'm a model, I'm on this stage because I am a pretty white woman.\" The speech is clear and confident."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "154.0s - 160.0s",
+          "query": "Visually, there's a woman standing in front of a large, dark background with the word \"MICA\" in big white letters. She has long, wavy hair and is wearing a black top with a patterned skirt. She seems to be speaking and gesturing with her hands. The lighting is focused on her, making her the main focus against the dark backdrop. There's no other significant movement or objects in the scene. The colors are mainly black and white, with the woman's clothing adding some contrast. The overall scene gives off a professional or presentation-like vibe.Audibly, there's a woman speaking. Her speech is clear and seems to be answering questions. There are no other sounds like music or sound effects. The tone of her voice suggests she's explaining or providing information."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 284.32458567619324
     },
     {
-      "comment_index": 1771,
+      "comment_index": 127,
+      "video_id": "KM4Xe6Dlp0Y",
+      "comment": "1:30 wow there's so much worry in her voice.",
+      "language": "en",
+      "channel_name": "TED",
+      "category": "talk show",
+      "likes": 5.0,
+      "comment_timestamp": 90.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "81.0s - 87.0s",
+          "query": "Visually, there's a woman on a stage with a \"TEDx MidAtlantic\" backdrop. She's wearing a patterned skirt and a dark top. She seems to be moving around the stage, possibly engaging with the audience. There's also a small table or stand on the stage. The colors are mainly dark with the red TEDx logo standing out. The movement is mainly her walking and gesturing on the stage.Audibly, there's a woman speaking. The speech is clear and seems to be part of a presentation or talk. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "87.0s - 93.0s",
+          "query": "Visually, there's someone on stage with a chair beside them. The background has \"Mid/land\" written on it. There s also an image of a model walking down a runway wearing a unique outfit.\n\nAudio-wise, I hear laughter starting around 4 seconds into the clip. It seems like someone is speaking or reacting to something amusing."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "93.0s - 99.0s",
+          "query": "Visually, there's a woman in a white, puffy dress walking on a runway. The dress has a unique, dramatic design with large, fluffy sleeves and a high collar. She's wearing high heels and her hair is styled up. The background is dark, focusing attention on her. The text \"THAT'S AWKWARD\" is displayed prominently on the right side of the screen.\n\nAudibly, there's laughter in the background, suggesting a light-hearted or humorous context."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 222.35462832450867
+    },
+    {
+      "comment_index": 128,
       "video_id": "KM4Xe6Dlp0Y",
       "comment": "Around 3:23 the \"lottery\" metaphor sums up what I think so perfectly. Isn't it amazing how over different periods of time and areas, there are different ideals of beauty? If you are considered beautiful in any period of time, you are extremely lucky because likely in another era and place, you wouldn't be.",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 5.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
+      "comment_timestamp": 203.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "194.0s - 200.0s",
+          "query": "Visually, there's a woman standing in front of a large sign with the letters \"MidAt\" visible. She's wearing a black top and a patterned skirt. She seems to be speaking or presenting, as her hands are gesturing. The background is dark, making the sign and her stand out. There's no other significant movement or objects in the frame. The colors are mainly black and white, with the woman's skirt adding a bit of patterned color.Audibly, there's a woman speaking. The speech is clear and seems to be part of a presentation or talk. There are no other sounds like music or background noise."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "200.0s - 206.0s",
+          "query": "Visually, there's a woman standing in front of a large screen. The screen displays the word \"MID\" in big letters. The woman is wearing a black top and a patterned skirt. She seems to be speaking or presenting, with her hands clasped in front of her. The background is dark, suggesting it might be a stage or a presentation setting. There are also some lights visible in the distance, possibly from an audience area.Audibly, there's a woman speaking. She mentions that there are people in the audience who are skeptical and possibly some fashionistas who are waiting. The tone of her voice suggests she might be addressing a group of people, perhaps during a presentation or talk."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "206.0s - 212.0s",
+          "query": "Visually, there's a large crowd seated in rows, looking attentive. The lighting is dim with some bright spots highlighting certain areas. There seems to be a stage or platform where someone might be speaking, though it s not fully visible.Audibly, there s a woman speaking confidently, likely addressing the audience. Her words seem to carry weight, possibly delivering an important message or presentation."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 260.8451654911041
     },
     {
-      "comment_index": 1772,
+      "comment_index": 129,
       "video_id": "KM4Xe6Dlp0Y",
       "comment": "The best part was at 5:48 when she shows comparative photos. Here's me eating nachos 10 minutes later...",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 4.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
+      "comment_timestamp": 348.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "339.0s - 345.0s",
+          "query": "I'm sorry, I can't analyze videos or pictures directly. But if you describe them to me, I'd be happy to help!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "345.0s - 351.0s",
+          "query": "**Visual:** The video shows a woman standing on a stage with a TEDxMidAtlantic backdrop. She's wearing a dark top and a patterned skirt. The stage has a red carpet, and there's a large screen behind her displaying an image of a person. The lighting is focused on her, making her the main subject.\n\n**Audio:** The woman is speaking, and her voice is clear and confident. She seems to be sharing a personal story, mentioning something about not having her period yet. The background is relatively quiet, with no other noticeable sounds."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "351.0s - 357.0s",
+          "query": "I'm sorry, I can't analyze videos directly. But if you describe the video to me, I'd be happy to help!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 144.32950949668884
     },
     {
-      "comment_index": 1773,
+      "comment_index": 130,
       "video_id": "KM4Xe6Dlp0Y",
       "comment": "There aren't enough comments here appreciating her honesty. She was courageous enough to come out as insecure despite being a model.  A nice Ted talk by the way. For some dumbheads who question her talk, watch from 7:40 till the end to understand what she says.",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 4.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
+      "comment_timestamp": 460.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "451.0s - 457.0s",
+          "query": "**Visual:** The video shows a group of young girls posing together outdoors on a sunny day. They appear to be friends or classmates, smiling at the camera.\n\n**Audio:** There is no distinct dialogue or music heard in the audio portion of this short clip. It's mostly silent apart from any background noise that might be present due to being outside."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "457.0s - 463.0s",
+          "query": "Visually, there's a woman standing in front of a black background with large white letters. She's wearing a dark top and a patterned skirt. She seems to be speaking and gesturing with her hands. The scene is simple, with no other objects or people visible.\n\nAudio-wise, there's a woman speaking. She's answering a question about what it's like to be a model. The speech is clear and the background is quiet, so there are no other sounds to note."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "463.0s - 469.0s",
+          "query": "Visually, there's a woman standing on a stage with large white letters behind her that say \"MidAt\". She has long dark hair and is wearing a black top with a patterned skirt. Her hands are clasped together in front of her. There doesn't seem to be much movement from her.\n\nAudio-wise, it's just someone speaking. The words are \"is if you're a little bit skinnier and you have shinier hair you will be so happy.\" It seems like a motivational or self-help kind of statement."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 144.22776556015015
     },
     {
-      "comment_index": 1774,
-      "video_id": "KM4Xe6Dlp0Y",
-      "comment": "0:46  more true words have yet to be spoken",
-      "language": "en",
-      "channel_name": "TED",
-      "category": "talk show",
-      "likes": 3.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1775,
-      "video_id": "KM4Xe6Dlp0Y",
-      "comment": "2:17 how we look has huge impact on our life...   but looks aren’t everything.  Ok.",
-      "language": "en",
-      "channel_name": "TED",
-      "category": "talk show",
-      "likes": 3.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1776,
+      "comment_index": 131,
       "video_id": "KM4Xe6Dlp0Y",
       "comment": "4:09 justin.Y is  that  you ?  lol",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 3.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
+      "comment_timestamp": 249.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "240.0s - 246.0s",
+          "query": "Visually, there's a woman standing in front of a large \"Mic\" sign. She's wearing a black top and patterned pants. She seems to be speaking or presenting, with her hands gesturing as she talks. The background is dark, which makes the \"Mic\" sign and the woman stand out.\n\nIn terms of audio, there's a woman speaking. She's saying something like, \"And what I really want to say to these little girls is why you know you can be anything, you could be the president of the United States.\" It sounds like an empowering message."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "246.0s - 252.0s",
+          "query": "**Visual:** The video shows a person standing against a black background with large white letters spelling \"Mica.\" The person is wearing dark clothing and appears to be gesturing or speaking.\n\n**Audio:** There's someone talking about being a \"ninja cardio-thoracic surgeon poet\" and mentions inventing something related to the internet."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "252.0s - 258.0s",
+          "query": "Visual: The video shows a woman standing on a stage. She has long hair and is wearing a black top with patterned pants. There's a large screen behind her displaying text that says \"ninja cardio-thoracic surgeon poet\" and \"TEDxMidAtlantic\". The background is dark, and the woman appears to be speaking or presenting.\n\nAudio: The audio includes laughter and speech. The woman seems to be talking, and there's a moment of laughter, possibly from the audience."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 249.9706768989563
     },
     {
-      "comment_index": 1777,
+      "comment_index": 132,
       "video_id": "KM4Xe6Dlp0Y",
       "comment": "3:46 yes in america where most people are white..",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 3.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
+      "comment_timestamp": 226.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "217.0s - 223.0s",
+          "query": "Visually, there's a woman standing in front of a large \"MidA\" sign. She's wearing a black top and a patterned skirt. She seems to be speaking or presenting, with her hands gesturing as she talks. The background is dark, which makes the white letters of the sign really stand out. There's no other significant movement or objects in the scene.\n\nAudio-wise, there's a woman speaking. The speech is clear and seems to be about something related to a PhD student counting models on a runway. There are no other sounds like music or sound effects, just the woman's voice."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "223.0s - 229.0s",
+          "query": "Visually, there's a woman standing on a stage. She's wearing a black top and a patterned skirt. The background is dark with large white letters spelling out \"MidA\". She seems to be holding something small in her hands, possibly a remote or a small device. There's no significant movement from her, just a slight shift in posture.\n\nAudio-wise, there's a woman speaking. The speech is clear and seems to be part of a presentation or talk. There are no other sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "229.0s - 235.0s",
+          "query": "Visual: A person is standing on a stage with a large screen behind them. The screen displays an image of a child in a blue sweater and red pants. The stage has a red carpet, and the words \"TEDx MidAtlantic\" are visible on the screen. The person on stage appears to be speaking or presenting.\n\nAudio: A woman is speaking, and her voice is clear and confident. She seems to be answering a question about modeling."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 283.1153528690338
     },
     {
-      "comment_index": 1778,
+      "comment_index": 133,
+      "video_id": "KM4Xe6Dlp0Y",
+      "comment": "2:17 how we look has huge impact on our life...   but looks aren’t everything.  Ok.",
+      "language": "en",
+      "channel_name": "TED",
+      "category": "talk show",
+      "likes": 3.0,
+      "comment_timestamp": 137.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "128.0s - 134.0s",
+          "query": "Well, in the visual part, it looks like there's a close-up shot of a hand holding a needle and thread. The needle is being pushed through some kind of fabric or material. The background is a bit blurry, but it seems to be a light-colored surface. There's not much movement in the background, just the needle and thread action.In the audio part, there's a woman speaking. She seems to be talking about something related to work, maybe mentioning a fake tan she got two days ago. Her voice is clear and she's speaking in a normal tone. There's no music or sound effects, just her speech and a bit of ambient noise in the background, like a quiet room or office."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "134.0s - 140.0s",
+          "query": "Visually, there's a woman standing on a stage. She's wearing a dress and holding something in her hands. The background is dark, and there's a red carpet on the floor. There's also a chair and a microphone stand nearby. The scene seems to be set up for a presentation or speech.\n\nAudio - The woman is speaking. Her voice is clear and confident. There are no other sounds or music in the background."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "140.0s - 146.0s",
+          "query": "Visually, there are two black and white images side by side. On the left, a woman is shown in a side profile, wearing a long dress and high heels, with her hair down. On the right, another woman is depicted in a close-up, with long, wavy hair and a dress with a feather-like texture. The background is plain white in both images. There's no movement or action in the video.\n\nAudio-wise, there's a woman speaking. She seems to be delivering a speech or presentation, but the content of her speech isn't clear from this short segment. There's no background music or sound effects, just her voice."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 292.8180899620056
+    },
+    {
+      "comment_index": 134,
+      "video_id": "KM4Xe6Dlp0Y",
+      "comment": "0:46  more true words have yet to be spoken",
+      "language": "en",
+      "channel_name": "TED",
+      "category": "talk show",
+      "likes": 3.0,
+      "comment_timestamp": 46.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "37.0s - 43.0s",
+          "query": "Visual: A woman with long hair is on stage at TEDxMidAtlantic. She's wearing a black outfit and seems to be speaking or presenting. There s some movement as she adjusts her position.\n\nAudio: The main thing heard is the woman talking, likely sharing ideas during her presentation. There aren t any other distinct sounds like music or background noise."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "43.0s - 49.0s",
+          "query": "**Visual:** The video shows a woman standing on a stage with a dark background. She's wearing a black top and a patterned skirt. There's a large \"Mid Atlantic\" sign behind her. She seems to be adjusting her skirt or something similar. The lighting is focused on her, making her the main subject.\n\n**Audio:** The woman is speaking, and her voice is clear. She says, \"So you guys are pretty lucky to witness it I think if some of the women were really horrified when I came.\" The tone suggests she might be sharing a personal story or experience."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "49.0s - 55.0s",
+          "query": "Visually, there's a woman standing on a stage with a dark background. She's wearing a patterned skirt and a dark top. She seems to be speaking or presenting, and there's a chair to her right. The background has \"Mid Atlantic\" written in large letters. There's also a red \"X\" on the left side of the background. The lighting is focused on her, making her the main subject of the shot. The overall scene suggests a formal or semi-formal event, possibly a conference or a talk show.\n\nAudio-wise, there's a woman speaking. Her speech is clear and confident. There's also laughter in the background, indicating that her words are likely humorous or entertaining. The laughter seems to be from an audience, suggesting that this is a public speaking event with an audience present."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 254.61130928993225
+    },
+    {
+      "comment_index": 135,
       "video_id": "KM4Xe6Dlp0Y",
       "comment": "7:14 Not trying to start anything, but for all the people that deny white privilege, explain this.",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 3.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
+      "comment_timestamp": 434.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "425.0s - 431.0s",
+          "query": "Visually, there's a woman standing in front of a large sign with the letters \"MicA\" visible. She seems to be speaking or presenting something. In the background, there's a crowd of people, some wearing orange vests, holding signs and banners. The crowd looks like they're part of a protest or demonstration. The colors are mostly muted, with the orange vests standing out against the darker background. There's some movement in the crowd, like people shifting their positions or holding up signs more firmly. The scene gives off a sense of activism or public gathering.Audibly, there's a woman speaking. Her voice is clear and confident. She's talking about statistics related to teenagers being stopped in New York, mentioning numbers like 120, 000 and 177, 000. The tone is informative and seems to be part of a presentation or report."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "431.0s - 437.0s",
+          "query": "**Visual:** The video shows a group of people, mostly young men, standing together. They are wearing orange vests and some are holding signs. The background appears to be an outdoor setting with trees and possibly a building. The people seem to be part of a protest or demonstration.\n\n**Audio:** There is a woman speaking in the background. She is discussing statistics related to the number of black and Latino kids aged 14 to 18 who were stopped, mentioning that 86% of them were black and Latino and most were young men."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "437.0s - 443.0s",
+          "query": "**Visual:** The video shows a group of people, mostly young, standing together. They are wearing orange vests, and some are holding signs. The background appears to be an outdoor setting with trees and possibly a building. The people seem to be part of a protest or demonstration.\n\n**Audio:** A woman is speaking, and her voice is clear and confident. She is discussing statistics related to young black and Latino men in New York, specifically about being stopped. The tone of her speech suggests she is addressing an important issue."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 359.2213468551636
     },
     {
-      "comment_index": 1779,
+      "comment_index": 136,
       "video_id": "KM4Xe6Dlp0Y",
       "comment": "At 4:00, where she asks \"WHY\", clearly she won another lottery of fate -She must have come from an affluent family. There are MANY young people out there who wish to become models, NOT for the ego massage or to lead a glamorous life. Being a model doesn't require any special skills or training. It can provide money for college or to fund other creative or entrepreneurial aspirations, so that one can go on to a happy and successful career doing something else!",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 3.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
+      "comment_timestamp": 240.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "231.0s - 237.0s",
+          "query": "**Visual:** The video shows a person standing on a red carpet in a dark room. There's a large screen behind them displaying an image of a child wearing a blue sweater and red pants. The text \"TEDx MidAtlantic\" is visible on the screen. The person appears to be speaking or presenting.\n\n**Audio:** The audio contains a speech in English. The speaker says, \"the next question people always ask me is can I be a model when I grow up and the first answer is I don't know they don't put me in.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "237.0s - 243.0s",
+          "query": "Visual: A woman is standing on a stage with a TEDxMidAtlantic backdrop. She's wearing a black top and patterned pants. There's a screen behind her showing a picture of a child in a blue jacket and red pants. The stage has a red carpet.\n\nAudio: A woman is speaking, her voice is clear and confident. She seems to be addressing an audience, possibly sharing a story or giving a talk."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "243.0s - 249.0s",
+          "query": "Visually, there's a woman standing in front of a large \"Mica\" sign. She's wearing a black top and patterned pants. She seems to be speaking and gesturing with her hands. The background is dark, which makes the sign and her stand out. There's also a text overlay that says \"ninja cardio-thoracic surgeon poet.\" The scene appears to be indoors, possibly on a stage or in a studio.\n\nAudio-wise, there's a voice speaking. The speech is clear and seems to be in English. The speaker is saying, \"you know you can be anything you could be the president of the United States or the inventor of the next internet or a.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 292.7932856082916
     },
     {
-      "comment_index": 1780,
+      "comment_index": 137,
       "video_id": "KM4Xe6Dlp0Y",
-      "comment": "Number of \"Ums\" in the video and quick reference list: 0:20, 0:24, 0:28, 0:40, 0:46, 0:57, 1:02, 1:30, 1:35, 1:38, 1:43, 1:57, 2:04, 2:22, 2:37, 2:44, 3:02,  3:19, 3:31, 4:14, 4:20, 4:28, 5:11, 6:02, 6:33, 6:39, 6:46, 7:25, 8:15, 8:23, 8:31, 8:58, 9:17",
-      "language": "en",
-      "channel_name": "TED",
-      "category": "talk show",
-      "likes": 3.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1781,
-      "video_id": "KM4Xe6Dlp0Y",
-      "comment": "5:26!! EMINEM?? Is that you?",
+      "comment": "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord. Romans 6:23",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 2.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
+      "comment_timestamp": 383.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "374.0s - 380.0s",
+          "query": "**Visual:** The video shows a woman standing on a stage or platform with large white letters spelling \"MidAt\" behind her. She's wearing sunglasses and a black top with patterned pants. Her hands are gesturing as if she's speaking or presenting something.\n\n**Audio:** There is no distinct sound effect or background music audible during these six seconds. The only thing heard is the woman's voice, which seems to be talking about professionals like hairstylists, makeup artists, photographers, stylists, and their skills."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "380.0s - 386.0s",
+          "query": "**Visual:** The video shows a woman standing in front of a black background with large white letters spelling \"MidAt.\" She is wearing a dark top and a patterned skirt. Her hair is down, and she appears to be speaking or presenting. Her hands are gesturing as she talks, suggesting she is engaged in explaining something. The lighting is focused on her, making her the main subject of the shot.\n\n**Audio:** The audio features a woman speaking. Her tone seems to be informative or explanatory, possibly delivering a presentation or lecture. There are no other discernible sounds or music in the background."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "386.0s - 392.0s",
+          "query": "**Visual:** The video shows a woman standing on a stage with a red carpet. She is wearing a black top and a patterned skirt. Behind her is a large screen displaying the TEDxMidAtlantic logo repeatedly. The stage is dark, and the focus is on her and the screen.\n\n**Audio:** The woman is speaking, and her voice is clear and confident. There is no background music or sound effects. The speech is the only audible element."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 245.03130507469177
     },
     {
-      "comment_index": 1782,
+      "comment_index": 138,
+      "video_id": "KM4Xe6Dlp0Y",
+      "comment": "\"I'm a pretty white woman (@ 2:35)...I won a genetic lottery (@ 2:50)...\"  - not really all that honest lady...pretentious, certainly...but honest - or accurate, no.",
+      "language": "en",
+      "channel_name": "TED",
+      "category": "talk show",
+      "likes": 2.0,
+      "comment_timestamp": 155.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "146.0s - 152.0s",
+          "query": "**Visual:** The video shows a woman in a black dress with a feathered sleeve. She's posing confidently, with one hand on her hip and the other resting by her side. The background is dark, which makes her stand out. There's also a silhouette of a woman in high heels walking against a white backdrop.\n\n**Audio:** A woman is speaking, saying, \"means being honest and I am on this stage because I'm a model I'm on this.\" The tone is clear and confident."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "152.0s - 158.0s",
+          "query": "**Visual:** A woman is standing on a stage with large white letters spelling \"Mina\" behind her. She has long brown hair and is wearing a black top and patterned skirt. Her hands are clasped together in front of her.\n\n**Audio:** The woman is speaking, though I can't make out the exact words from just these six seconds. There doesn't seem to be any background music or other distinct sounds."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "158.0s - 164.0s",
+          "query": "Visually: A woman is standing on a stage with large white letters spelling \"Mia\" behind her. She's wearing a dark top and patterned pants. Her hands are gesturing as she speaks. The background is mostly black.\n\nAudio: There's a woman speaking clearly, likely giving some kind of presentation or talk. No other distinct sounds like music or sound effects are heard."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 198.57538032531738
+    },
+    {
+      "comment_index": 139,
       "video_id": "KM4Xe6Dlp0Y",
       "comment": "6:43 “Forgot my money”.  I’ve heard that one before",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 2.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
+      "comment_timestamp": 403.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "394.0s - 400.0s",
+          "query": "**Visual:** The video shows a woman standing in front of a black backdrop with large white letters that read \"MidA.\" She is wearing a black top and a patterned skirt. Her hands are clasped together in front of her. The lighting is focused on her, making her the main subject of the shot. There's no significant movement or action in the scene.\n\n**Audio:** The audio features a woman speaking. The speech is clear and seems to be part of a presentation or talk. There are no other sounds or music in the background."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "400.0s - 406.0s",
+          "query": "**Visual:** The video shows a woman standing on a stage with a black backdrop. The word \"Mid\" is partially visible behind her. She's wearing a black top and a patterned skirt. She seems to be speaking or presenting, using hand gestures. The setting looks like a formal event or a talk.\n\n**Audio:** There's a woman speaking in the audio. She mentions growing up in Cambridge and an anecdote about going into a store and forgetting her money, but they gave her a dress for free."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "406.0s - 412.0s",
+          "query": "Visually, there's a woman standing on a red carpet in a dark room. She's wearing a black top and a patterned skirt. There's a chair next to her. The background has large white letters. The scene seems to be indoors, possibly at an event or a formal gathering. There's no clear indication of movement in the visual part.Audibly, there's a woman speaking. She's talking about a past experience of driving with a friend who was a bad driver and getting pulled over after running a red light."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 314.9059829711914
     },
     {
-      "comment_index": 1783,
+      "comment_index": 140,
       "video_id": "KM4Xe6Dlp0Y",
-      "comment": "Sorry, but I don't like the UNDERLYING message of this video. Please, if I completely missunderstood, feel free to correct me (and if so, my apologies for what I am about to say also go to the young lady in the video)  Now, first of, let me say that she seems hypocritical to me. Why? Well, she wants to make it seem like she kinda dislikes that everything is superficial, thus portraiting herself as a 'good' person who TRIES to stand above superficially judging people or herself. Thus she tries to show her own 'noble' striving towards freedom of vanity, it seems. Yet, throughout the video, I couldn't help but feel that secretly she actually wanted to rub in to us how lucky she was. Like, when she was saying sth along the lines of ''It's so unfair, I'm only privilged because I'm a pretty, white girl'' - I don't know, that sounds pretty vain to me. Again, if I missunderstood, I am deeply sorry, but that is the impression this video left me with.  But that's not my main point. The problem is the underlying message. She basically suggests that either you are lucky and you're born with the perfect looks or you are not and there is basically very little chance of ever improving your situation. That message right there is extremely discouraging to many, and also wrong. Not everyone is just gonna accept it like ''oh, I think I look bad, but now it's okay because the lady said it's not right to think looks are important anyways''.  Now, let me start of by saying that I think humans do have some sort of an influence on their outer appearance that goes beyond pure genetics (and i DON'T mean plastic surgery, nonono!). There's so many things factoring in on this, for instance: one's perception of himself/herself, relations to people you grow up with, what you eat, neurotic behavior (or rather NO neurotic behavior), just to name a few of these factors. Just reducing the looks to a matter of genes is plain wrong, and could probably discourage some people quite a bit. Besides, people carry several 'hidden' genes which can be deactivated or activated by certain circumstances/lifestyles.  Besides, I don't like the whole ''I feel so bad about it but I do it anyways'' vibe and the ''It's sooo unfair that police men and people in general treat me better because I'm so pretty'' - sorry, still sounds vain and hypocritical (again, as I was saying above, speak up and correct me if I'm wrong)  Lastly, why on earth would she tell us 5:44? Also, all those pictures of her life, like a slide show. I know, it's her profession to ''exhibit'' herself (sorry if I used incorrect word), but that still seems so... narcissistic... in a way. If I am wrong, feel free to enlighten me, but well, that's the impression I had :P",
+      "comment": "1:48 \"I just totally transformed what you thought of me\", eee... no, no you didn't",
       "language": "en",
       "channel_name": "TED",
       "category": "talk show",
       "likes": 2.0,
-      "error": "Video file not found: KM4Xe6Dlp0Y",
-      "analysis_type": "failed"
+      "comment_timestamp": 108.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "99.0s - 105.0s",
+          "query": "Visually, there's a woman standing on a stage with a TEDxMidAtlantic backdrop. She's wearing a black top and a patterned skirt. There's a chair and a small table on the stage. The lighting is focused on her, and the background is dark. The woman seems to be speaking or presenting, but her exact actions aren't clear from this short segment. The colors are mainly black and white, with some color from her skirt and the stage elements. There's a sense of stillness, no significant movement apart from the woman's possible gestures or speech.Audience, there's a voice speaking. The speech is clear and seems to be part of a presentation or talk. There are no other sounds like music or sound effects. The tone of the speech suggests it's part of a formal event, likely the TEDxMidAtlantic event based on the backdrop."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "105.0s - 111.0s",
+          "query": "**Visual:** The video shows a stage with \"TEDx MidAtlantic\" written on it. There's a large screen displaying an image of two people embracing, with the words \"IMAGE IS Superficial\" underneath. A person is standing on the stage near a stool.\n\n**Audio:** Someone is speaking, though I can't make out the exact words from just these six seconds. It seems to be a calm tone."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "111.0s - 117.0s",
+          "query": "I'm sorry, I can't analyze videos or images directly from text descriptions like that. If you have an actual video file or image to share, I'd be happy to help! Just upload it here and let me know if there's anything specific you want to discuss about it."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 178.2386257648468
     }
   ]
 }

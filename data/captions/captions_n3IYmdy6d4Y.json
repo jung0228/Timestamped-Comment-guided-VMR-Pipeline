@@ -1,43 +1,12 @@
 {
   "video_id": "n3IYmdy6d4Y",
   "total_comments": 20,
-  "successful_comments": 20,
-  "failed_comments": 0,
+  "successful_comments": 15,
+  "failed_comments": 5,
   "success_rate": "100.0%",
-  "processing_time": 4310.516131877899,
   "comments": [
     {
-      "comment_index": 4206,
-      "video_id": "n3IYmdy6d4Y",
-      "comment": "I think the part at 00:29 explains it pretty much...",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 4.0,
-      "comment_timestamp": 29.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "20.0s - 26.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "26.0s - 32.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "32.0s - 38.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.5001626014709473
-    },
-    {
-      "comment_index": 4201,
+      "comment_index": 3421,
       "video_id": "n3IYmdy6d4Y",
       "comment": "0:52 shout 2 dude 4 using 60 years of his life to help us 😭🐐",
       "language": "en",
@@ -50,114 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "43.0s - 49.0s",
-          "query": "VISUAL: A man is cracking his knuckles. Then there's an older man sitting at a desk with a big yellow dice on it. He looks happy and is also cracking his knuckles. There are bookshelves behind him.AUDIO: Someone is speaking about whether knuckle-cracking habits are safe. They mention Donald L. Unger, who was a self - described researcher. The speaker says he probably chose to crack his knuckles. It seems like they're discussing some research related to knuckle - cracking.If you want to know more about this or have other questions, feel free to ask!"
+          "query": "Well, in the visual part, there's a man in a light blue suit sitting in a chair. He's got glasses on and there's a big yellow cube with red dots on it next to him. He seems to be talking and gesturing with his hands. In the background, there are bookshelves filled with books.Now, for the audio part, there's a woman speaking. She's talking about something related to the man in the video, mentioning \"Donald L Unger\" and \"Nobel Award Medicine.\" She also talks about \"knuckle cracking habits.\" It sounds like she might be discussing some research or a story related to the man in the video."
         },
         {
           "segment_index": 2,
           "time_range": "49.0s - 55.0s",
-          "query": "VISUAL: The video shows two X - ray images side by side of hands. One hand has \"Popped knuckles\" written under it, while the other says \"Didn't pop knuckles.\" There's also text saying \"Over 60 years\" between them. Then there's a Google search page with the query \"Does popping your knuckles cause a\".AUDIO: A woman is speaking about someone who popped the joints in one hand for 60 years but not the other to find out if popping knuckles causes something. It seems like she's explaining the context behind the X - rays shown earlier.If you have any thoughts or questions about this, feel free to share!"
+          "query": "I'm sorry, but I can't analyze the video segment you mentioned. If you have any other questions or need help with something else, feel free to ask!"
         },
         {
           "segment_index": 3,
           "time_range": "55.0s - 61.0s",
-          "query": "VISUAL: The video shows an X - ray image of two hands side by side against a black background. The words \"Results were the same\" appear above the hands, with \"LEFT HAND\" on one hand and \"RIGHT HAND\" on the other. There's also a source credit at the bottom right corner that says \"SOURCE: weissortho.com\". AUDIO: A man is speaking about someone who did something for sixty years and found no more arthritis in one hand than the other. He seems to be explaining or narrating some findings related to arthritis and knuckle popping. So, what do you think about this? Do you have any similar experiences?"
+          "query": "Visually, the video starts with a Google search page. Then it shows an X - ray of a hand, followed by a comparison of two hands' X - rays. The text \"Results were the same\" is displayed, and it mentions \"LEFT HAND\" and \"RIGHT HAND.\" The source is credited to weissortho.com.\n\nAudio - wise, there's a woman speaking. She says, \"Actually give you arthritis after six years of doing it he found that he didn't have any more arthritis in one hand than in the other.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 516.1178624629974
+      "processing_time": 268.90067291259766
     },
     {
-      "comment_index": 4205,
-      "video_id": "n3IYmdy6d4Y",
-      "comment": "0:29 The kid during the test:",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 9.0,
-      "comment_timestamp": 29.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "20.0s - 26.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "26.0s - 32.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "32.0s - 38.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.5175385475158691
-    },
-    {
-      "comment_index": 4203,
-      "video_id": "n3IYmdy6d4Y",
-      "comment": "0:45 I started this experiment 2 years ago now, and i plan on doing it for 25 years to see the result Wish me good luck",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 14.0,
-      "comment_timestamp": 45.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "36.0s - 42.0s",
-          "query": "VISUAL: The video shows an illustration of a muscle and tendon. There's also a close - up shot of someone's hand making a fist. The background is dark, which makes the white lines of the illustration stand out clearly.AUDIO: There's no speech or music in the audio. Instead, there's a sound effect that describes how tendons snap over joints when they move, creating a popping noise.If you have any other questions about this video or anything else, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "42.0s - 48.0s",
-          "query": "VISUAL: A man is shown cracking his knuckles. Then there's an older man in a suit sitting at a desk with a yellow dice lamp on it. He seems to be talking or reacting to something.AUDIO: There's some background music playing throughout the video. The man in the first scene is making a sound when he cracks his knuckles, and the second man has some kind of speech or reaction that can't really be heard clearly.What do you think about these two scenes? Do you have any other thoughts or questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "48.0s - 54.0s",
-          "query": "VISUAL: There's an older man with glasses sitting at a desk. He looks happy and is smiling. Next to him on the desk is a yellow dice - like object. Then there are two X - ray images of hands side by side. One hand has \"Popped knuckles\" written under it, while the other says \"Didn't pop knuckles\". Over both images, it says \"Over 60 years\". The source is mentioned as weissortho.com.AUDIO: A woman is speaking throughout the video. She seems to be explaining something related to the visuals. It's not clear what she's saying exactly though.If you want to know more about this or have any other questions, feel free to ask!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 502.4874200820923
-    },
-    {
-      "comment_index": 4204,
-      "video_id": "n3IYmdy6d4Y",
-      "comment": "0:54 why is she laughing 😂",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 11.0,
-      "comment_timestamp": 54.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "45.0s - 51.0s",
-          "query": "VISUAL: An older man with glasses is sitting at a desk. He's wearing a light blue suit jacket and a tie. There's a large yellow dice on his desk. He looks happy and is smiling while talking. The background shows bookshelves filled with books.AUDIO: A woman is speaking. She says something about Donald Unger being a self - described researcher who chose to pop the joints in one of his hands for decades.If you want to know more about this or have other questions, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "51.0s - 57.0s",
-          "query": "VISUAL: The video shows two X - ray images side by side of hands. One is labeled \"Popped knuckles\" and the other \"Didn't pop knuckles.\" There's also a Google search page with the query \"Does popping your knuckles cause arthritis?\" displayed.AUDIO: A woman speaks about someone who popped their knuckles for sixty years on one hand but not the other, and wanted to find out if it could lead to arthritis after that time."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "57.0s - 63.0s",
-          "query": "VISUAL: The video shows an X - ray image of two hands side by side on a black background. There's some text overlaid that says \"Results were the same\" with \"LEFT HAND\" under one hand and \"RIGHT HAND\" under the other. Then it cuts to a person rubbing their hands together in front of them. The person is wearing a dark shirt and has short hair.AUDIO: There's a woman speaking throughout the video. She seems to be explaining something related to arthritis in hands. It's not clear if there's any music or sound effects."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 342.3884382247925
-    },
-    {
-      "comment_index": 4202,
+      "comment_index": 3422,
       "video_id": "n3IYmdy6d4Y",
       "comment": "Me at 3:00AM:I think I should go to sleep   YT:Want to know happens when you pop your knuckles?  Me:Well well well let’s find out",
       "language": "en",
@@ -170,84 +49,144 @@
         {
           "segment_index": 1,
           "time_range": "171.0s - 177.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 2,
           "time_range": "177.0s - 183.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 3,
           "time_range": "183.0s - 189.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.051694393157958984
+      "processing_time": 0.005238056182861328
     },
     {
-      "comment_index": 4209,
+      "comment_index": 3423,
       "video_id": "n3IYmdy6d4Y",
-      "comment": "ROSÉ I HOPE YOU'RE WATCHING THIS BAHAHAHA 1:15 yeah Alice was pretty annoyed with it😅😅",
+      "comment": "0:45 I started this experiment 2 years ago now, and i plan on doing it for 25 years to see the result Wish me good luck",
       "language": "en",
       "channel_name": "Vox",
       "category": "documentary",
-      "likes": 2.0,
-      "comment_timestamp": 75.0,
+      "likes": 14.0,
+      "comment_timestamp": 45.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "66.0s - 72.0s",
-          "query": "VISUAL: A person is shown cracking their knuckles. The camera focuses on their hands doing so repeatedly. There's also some text visible that seems to be from an article or study about knuckle cracking.\n\nAUDIO: Someone is speaking over the visuals. They mention a 1990 study related to knuckle cracking leading to hand swelling and decreased grip strength."
+          "time_range": "36.0s - 42.0s",
+          "query": "Visually, the video shows a diagram of a muscle and a tendon. The muscle is labeled in blue and the tendon in white. There are some yellow lines connecting them, possibly representing nerves or other structures. The background is black, making the labeled parts stand out clearly. There's no movement in the visual part of the video, it's just a static image with labels.Audibly, there's a woman speaking. She seems to be explaining something related to the diagram, like how the tendon moves over the muscle when a joint moves. There are no other sounds or music in the audio part."
         },
         {
           "segment_index": 2,
-          "time_range": "72.0s - 78.0s",
-          "query": "VISUAL: The video shows an X - ray image of an elbow joint at first. Then it cuts to a close - up of hands cracking knuckles. The hands look like they belong to an adult, with visible skin texture and some dirt or marks on them.AUDIO: There's no clear audio described here. It seems there might be some background noise or music, but nothing specific is mentioned.If you have any other questions about this video or need more details, feel free to ask!"
+          "time_range": "42.0s - 48.0s",
+          "query": "Visual: There's a man in a light blue suit and glasses sitting in a room with bookshelves in the background. He's holding a yellow object with red dots, possibly a toy or a decorative item. He seems to be talking or explaining something. The room looks like a study or office, with a desk and some papers on it. The lighting is warm and the overall color scheme is neutral.\n\nAudio: The audio has a woman speaking. She's asking if knuckle cracking is safe. The tone is casual and informative. There's no background music or sound effects, just the woman's voice."
         },
         {
           "segment_index": 3,
-          "time_range": "78.0s - 84.0s",
-          "query": "VISUAL: A person is shown crumpling up bubble wrap with their hands. Then they blow a large bubble with chewing gum. The background seems to be indoors, maybe an office or home setting.AUDIO: There's some kind of music playing in the background throughout the whole clip. It has a light, possibly upbeat feel to it.What do you think about the video? Do you have any other questions related to it?"
+          "time_range": "48.0s - 54.0s",
+          "query": "Visual: The video shows two hands with bones highlighted against a black background. One hand has \"Popped knuckles\" written below it, while the other says \"Didn't pop knuckles.\" There's also some text at the bottom that reads \"SOURCE: weissortho.com.\"\n\nAudio: A woman is speaking throughout the video. She seems to be asking about someone who popped their joints for sixty years in one hand but not the other, and wants to find out something related to this."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 382.4190707206726
+      "processing_time": 201.06651377677917
     },
     {
-      "comment_index": 4208,
+      "comment_index": 3424,
       "video_id": "n3IYmdy6d4Y",
-      "comment": "1:35 to just say “literally nothing will happen”",
+      "comment": "0:54 why is she laughing 😂",
       "language": "en",
       "channel_name": "Vox",
       "category": "documentary",
-      "likes": 3.0,
-      "comment_timestamp": 95.0,
+      "likes": 11.0,
+      "comment_timestamp": 54.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "86.0s - 92.0s",
-          "query": "VISUAL: There's an old-fashioned TV with a screen showing \"Vox Explains\" and some graphics like a red elephant and blue donkey. The background is light gray. There are also some words on the right side like \"Subscribe\", \"Best of Vox\", and \"Random\". AUDIO: It's just music playing throughout the whole time. What do you think about it? Do you have any other videos to analyze?"
+          "time_range": "45.0s - 51.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.75 GiB is free. Including non-PyTorch memory, this process has 15.79 GiB memory in use. Of the allocated memory 13.70 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 2,
-          "time_range": "92.0s - 98.0s",
-          "query": "VISUAL: The video shows a pixelated image of a cityscape with buildings and water. There's also some text on the screen that says \"Mid - term election: The perfect storm\" and \"Subscribe Best of Vox Random\". The text is in different colors like yellow and white against a dark background. There are also some small icons or symbols next to the text. The overall style seems to be a bit retro, maybe inspired by old video games.AUDIO: The audio has a jingle playing throughout. It's a light, upbeat tune that gives off a positive vibe. There aren't any spoken words in the audio.What do you think about the design choices in the video?"
+          "time_range": "51.0s - 57.0s",
+          "query": "Visually, there's an X - ray image showing two hands side by side. One is labeled \"Popped knuckles\" and the other \"Didn't pop knuckles.\" The background is black.\n\nIn terms of audio, someone is speaking about popping your knuckles and arthritis after sixty years. There's no music or sound effects, just that speech."
         },
         {
           "segment_index": 3,
-          "time_range": "98.0s - 104.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "time_range": "57.0s - 63.0s",
+          "query": "Well, in the visual part, it seems like there's a close-up shot of a hand. You can see the bones clearly, like in an X - ray. And then there's a person's hand reaching out towards it. The colors are mostly black and white, which gives it that X - ray look. There's not much movement, just the hand reaching out.In the audio part, there's some speech. It's a bit hard to make out exactly what's being said, but it sounds like it could be about medical stuff, maybe related to the hand in the visual. There's no music or sound effects, just that speech."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 156.59778261184692
+      "processing_time": 237.15543293952942
     },
     {
-      "comment_index": 4207,
+      "comment_index": 3425,
+      "video_id": "n3IYmdy6d4Y",
+      "comment": "0:29 The kid during the test:",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 9.0,
+      "comment_timestamp": 29.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "20.0s - 26.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze here. The text doesn't seem to describe anything related to a video segment. Maybe you could give me more details or clarify?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "26.0s - 32.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short description. It doesn't really give enough information about either the visual or the audio aspects. But if we had more details like what was shown visually or what kind of sounds were made, then we could break it down into those two parts easily. So, can you tell me a bit more about what happened in the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "32.0s - 38.0s",
+          "query": "Visually, the video shows a close-up of a knee joint. There are labels pointing to the knee and a tendon. The background is dark, and the knee joint is in grayscale. There's also a diagram of a muscle and tendon next to the knee joint, with the tendon highlighted.\n\nAudio-wise, there's a sound effect of a snapping sound, which is likely the sound of a tendon sliding between muscles or over bones. There's also some background music playing."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 207.42938780784607
+    },
+    {
+      "comment_index": 3426,
+      "video_id": "n3IYmdy6d4Y",
+      "comment": "I think the part at 00:29 explains it pretty much...",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 4.0,
+      "comment_timestamp": 29.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "20.0s - 26.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze here. The text doesn't seem to describe anything related to a video segment. Maybe you could give me more details or clarify?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "26.0s - 32.0s",
+          "query": "Well, in the visual part, there's a person wearing a yellow shirt with some kind of design on it. They're holding a clear plastic bag. And then there's a close - up of a hand holding a small, round, yellow object. The background is mostly blurred, so it's hard to tell what's going on there.In the audio part, there's a woman speaking. She says something about \"20 minutes for the gas to return back to that fluid.\" It's not clear what she's referring to exactly, but it seems like she's explaining something related to a process or a scientific concept.So, what do you think about this? Do you have any ideas about what she might be talking about?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "32.0s - 38.0s",
+          "query": "Visually, the video shows a close-up of a knee joint. There are labels pointing to the knee and a tendon. The background is dark, and the knee joint is in grayscale. There's also a diagram of a muscle and tendon next to the knee joint, with the tendon highlighted.\n\nAudio-wise, there's a sound effect of a snapping sound, which is likely the sound of a tendon sliding between muscles or over bones. There's also some background music playing."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 239.51870679855347
+    },
+    {
+      "comment_index": 3427,
       "video_id": "n3IYmdy6d4Y",
       "comment": "Now this is what is like  Me reading comments of strangers at 2:00 am",
       "language": "en",
@@ -260,84 +199,54 @@
         {
           "segment_index": 1,
           "time_range": "111.0s - 117.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 2,
           "time_range": "117.0s - 123.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 3,
           "time_range": "123.0s - 129.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.061722755432128906
+      "processing_time": 0.004741191864013672
     },
     {
-      "comment_index": 4211,
+      "comment_index": 3428,
       "video_id": "n3IYmdy6d4Y",
-      "comment": "God so loved the world that He gave up His only begotten Son that whosoever believes in Him shall not perish but have eternal life-John 3:16",
+      "comment": "1:35 to just say “literally nothing will happen”",
       "language": "en",
       "channel_name": "Vox",
       "category": "documentary",
-      "likes": 1.0,
-      "comment_timestamp": 196.0,
+      "likes": 3.0,
+      "comment_timestamp": 95.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "187.0s - 193.0s",
-          "query": "Well, I haven't actually seen the video yet. But if it's a typical kind of video, for the visual part, there could be some objects like furniture or decorations depending on the setting. Maybe there are people doing something like cooking or cleaning. The colors might be warm or cool based on the lighting. And the movement could be things being moved around or people walking around.For the audio part, if there's speech, it could be someone talking about the scene they're in. There might also be background music to set the mood. Sound effects could be related to the actions happening in the video, like chopping vegetables or turning on a faucet.If you can tell me more about the video, that would help me give a better analysis. So, go ahead and share any details you have."
+          "time_range": "86.0s - 92.0s",
+          "query": "Sure! Here's a breakdown of the video segment based on the provided image:."
         },
         {
           "segment_index": 2,
-          "time_range": "193.0s - 199.0s",
-          "query": "Well, I haven't actually seen the video yet. But if it's a typical kind of video, for the visual part, there could be some objects like furniture or decorations depending on the setting. Maybe there are people doing something like cooking or cleaning. The colors might be warm or cool based on the lighting. And the movement could be things being moved around or people walking around.For the audio part, if there's speech, it could be someone talking about the scene they're in. There might also be background music to set the mood. Sound effects could be related to the actions happening in the video, like chopping vegetables or turning on a faucet.If you can tell me more about the video, that would help me give a better analysis. So, go ahead and share any details you have."
+          "time_range": "92.0s - 98.0s",
+          "query": "I'm sorry, I can't analyze that video since it's not provided here. But if you describe it to me or upload it again, I'd be happy to help!"
         },
         {
           "segment_index": 3,
-          "time_range": "199.0s - 205.0s",
-          "query": "Well, I haven't actually seen the video yet. But if it's a typical kind of video, for the visual part, there could be some objects like furniture or decorations depending on the setting. Maybe there are people doing something like cooking or cleaning. The colors might be warm or cool based on the lighting. And the movement could be things being moved around or people walking around.For the audio part, if there's speech, it could be someone talking about the scene they're in. There might also be background music to set the mood. Sound effects could be related to the actions happening in the video, like chopping vegetables or turning on a faucet.If you can tell me more about the video, that would help me give a better analysis. So, go ahead and share any details you have."
+          "time_range": "98.0s - 104.0s",
+          "query": "Inference error: 'video_fps'"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 644.5313303470612
+      "processing_time": 93.53841614723206
     },
     {
-      "comment_index": 4213,
-      "video_id": "n3IYmdy6d4Y",
-      "comment": "POV: you’re watching this at 10:00pm and even the ad won’t load because of the internet being terrible",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 1.0,
-      "comment_timestamp": 600.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "591.0s - 597.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "597.0s - 603.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "603.0s - 609.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.06175851821899414
-    },
-    {
-      "comment_index": 4210,
+      "comment_index": 3429,
       "video_id": "n3IYmdy6d4Y",
       "comment": "So basically you produced a video so we could waste 1:30 minutes of our time, nice",
       "language": "en",
@@ -350,174 +259,84 @@
         {
           "segment_index": 1,
           "time_range": "81.0s - 87.0s",
-          "query": "VISUAL: There's a person with long hair wearing a striped shirt. They're moving their head up and down. The background is kind of blurry and light-colored.AUDIO: I can hear some music playing in the background. It seems like there might be some speech too, but it's not very clear.What do you think about this? Do you have any other videos to analyze?"
+          "query": "Visually, the video shows a person wearing a striped shirt. There are some words like \"JUSTICE\", \"BUSINESS\", \"POLITICS\", \"FILM\", \"SCIENCE\", and \"HEALTH\" appearing on the screen. The background seems to be a bit blurry, possibly an indoor setting. The person's face is partially visible, and they seem to be moving slightly.\n\nAudibly, there is music playing in the background. There are also some indistinct sounds that could be from a crowd or other ambient noises."
         },
         {
           "segment_index": 2,
           "time_range": "87.0s - 93.0s",
-          "query": "VISUAL: There's an old-fashioned TV with \"Vox\" on it. Then a screen shows \"Mid - Term Mayhem The Perfect Storm\" with pixelated graphics of a red elephant and blue donkey. Below that, there are options like \"Subscribe\", \"Best of Vox\", and \"Random\". The credits mention names for video and research, and there's a link to Weissortho.com.AUDIO: There's music playing throughout the whole time. It seems to be instrumental music without any lyrics or spoken words.If you have any other thoughts about this video or want to discuss more, feel free to let me know!"
+          "query": "Visual: The video shows a split-screen. On the left, there's a vintage television displaying the \"Vox Explains\" logo. On the right, there are words like \"Subscribe\", \"Best of Vox\", and \"Random\" in yellow text on a light blue background. There are also some smaller texts like \"VIDEO\", \"RESEARCH\", \"ESTELLE CASWELL\", \"MEGAN THIELKING\", and \"X-REY FOOTAGE\" at the bottom. The overall design is simple and clean.\n\nAudio: The audio features music playing in the background throughout the 6 seconds."
         },
         {
           "segment_index": 3,
           "time_range": "93.0s - 99.0s",
-          "query": "VISUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUALUAL\n: What do you think about the video?"
+          "query": "I'm sorry, I can't analyze that video segment because it's not provided here. If you could upload or describe the video to me, I'd be happy to help!"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 538.2427129745483
+      "processing_time": 230.8932979106903
     },
     {
-      "comment_index": 4212,
+      "comment_index": 3430,
       "video_id": "n3IYmdy6d4Y",
-      "comment": "0:43 my guy breaks his back for the shot  Dedication",
+      "comment": "ROSÉ I HOPE YOU'RE WATCHING THIS BAHAHAHA 1:15 yeah Alice was pretty annoyed with it😅😅",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 2.0,
+      "comment_timestamp": 75.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "66.0s - 72.0s",
+          "query": "**Visual:** The video shows a person cracking their knuckles repeatedly while looking at some text on a screen. The background is plain gray.\n\n**Audio:** There's no distinct speech or music heard. Just the sound of the person cracking their knuckles."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "72.0s - 78.0s",
+          "query": "Visually, the video shows a close-up of a person's hands. The hands are in focus, and the person seems to be cracking their knuckles. The background is blurred, so it's hard to tell what the setting is. There are no other objects or people visible in the frame.\n\nIn terms of audio, there is a woman speaking. She says, \"strength but there hasn't been any follow-up research on that so while cracking your knuckles might not be bad for you there's still\". The speech is clear and the woman's voice is the only sound in the audio."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "78.0s - 84.0s",
+          "query": "Visually, there's a person in a green shirt. Their hands are moving, maybe gesturing or doing something with their hands. The background is blurry, so it's hard to tell what's there. There's also a person in a striped shirt, but they're mostly out of focus.Audibly, there's speech, but it's not clear what's being said. There's also some music playing in the background."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 192.36260652542114
+    },
+    {
+      "comment_index": 3431,
+      "video_id": "n3IYmdy6d4Y",
+      "comment": "POV: you’re watching this at 10:00pm and even the ad won’t load because of the internet being terrible",
       "language": "en",
       "channel_name": "Vox",
       "category": "documentary",
       "likes": 1.0,
-      "comment_timestamp": 43.0,
+      "comment_timestamp": 600.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "34.0s - 40.0s",
-          "query": "VISUAL: The video shows an illustration of a muscle and tendon against a black background. There's some yellow lines indicating movement or connection between them.AUDIO: A woman is speaking about tendons making a snapping sound when they slide between muscles or over bones during joint movement.If you have any other thoughts on this or want to discuss something else related, feel free to let me know."
+          "time_range": "591.0s - 597.0s",
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 2,
-          "time_range": "40.0s - 46.0s",
-          "query": "VISUAL: A person is shown cracking their knuckles. The hand is in focus, with fingers bending and popping. There's also an older man in a suit sitting at a desk, smiling and looking at his hands. He seems to be doing something similar to the first person.AUDIO: There's no distinct speech or music. Just the sound of the knuckle cracking is heard. It's a simple popping noise.If you have any other questions about the video or want to discuss it further, feel free to let me know!"
+          "time_range": "597.0s - 603.0s",
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 3,
-          "time_range": "46.0s - 52.0s",
-          "query": "VISUAL: There's an older man with glasses and a light blue suit sitting at a desk. He looks happy and is smiling widely. Behind him, there are bookshelves filled with books. On his right side, there's a yellow lamp with red dots on it.AUDIO: A male voice is speaking about Donald L. Unger, who was a self - described researcher. He mentions that Unger popped the joints in one hand for 60 years but not the other hand.If you want to know more about this or have any other questions, feel free to ask!"
+          "time_range": "603.0s - 609.0s",
+          "query": "Inference error: 'video_fps'"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 359.9593598842621
+      "processing_time": 0.0046765804290771484
     },
     {
-      "comment_index": 4214,
-      "video_id": "n3IYmdy6d4Y",
-      "comment": "In my country right now that I am writing is really 3:00 AM",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 1.0,
-      "comment_timestamp": 180.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "171.0s - 177.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "177.0s - 183.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "183.0s - 189.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.05080819129943848
-    },
-    {
-      "comment_index": 4219,
-      "video_id": "n3IYmdy6d4Y",
-      "comment": "Give me back my 1:35 minute",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 1.0,
-      "comment_timestamp": 95.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "86.0s - 92.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "92.0s - 98.0s",
-          "query": "VISUAL: The video shows a pixelated image of a red elephant with \"Mid - Term Election\" written on it. There's also a blue elephant next to it. The background is dark. AUDIO: I can't really tell what's being said or if there are any specific sound effects. It just seems like some kind of music playing in the background. What do you think about it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "98.0s - 104.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 63.29530167579651
-    },
-    {
-      "comment_index": 4216,
-      "video_id": "n3IYmdy6d4Y",
-      "comment": "Repent for the kingdom of heaven is coming.   Christ payed the price for our sins, for The most high Father had laid all of our sins on Him. Then He was buried, but on the third day he was resurrected from the grave and defeated death.   If you repent from your sins, confess with your mouth and believe in your heart that Yahushua ( one you know as Jesus) is king and savior and that He is the son of God you will be saved.  There is a coming wrath upon the earth where The Father will punish the wicked and unrepentant people. Christ will come and save His church from the wrath of The Father.  Please save yourself from this wrath and live a new hope filled life honourable to the Most High by keeping His commandments May the Father bless you all.    John 3:16 \"For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 1.0,
-      "comment_timestamp": 196.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "187.0s - 193.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "193.0s - 199.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "199.0s - 205.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.06224179267883301
-    },
-    {
-      "comment_index": 4220,
-      "video_id": "n3IYmdy6d4Y",
-      "comment": "Well thats 1:35 that ill never get back",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 0.0,
-      "comment_timestamp": 95.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "86.0s - 92.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "92.0s - 98.0s",
-          "query": "VISUAL: The video shows a pixelated image of a red elephant with \"Mid - Term Election\" written on it. There's also a blue elephant next to it. The background is dark. AUDIO: I can't really tell what's being said or if there are any specific sound effects. It just seems like some kind of music playing in the background. What do you think about it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "98.0s - 104.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 58.414036989212036
-    },
-    {
-      "comment_index": 4218,
+      "comment_index": 3432,
       "video_id": "n3IYmdy6d4Y",
       "comment": "0:30 that why I keep getting cought playing game at 1am",
       "language": "en",
@@ -530,24 +349,24 @@
         {
           "segment_index": 1,
           "time_range": "21.0s - 27.0s",
-          "query": "VISUAL: There's a person with short hair wearing a striped shirt. They're blowing a bubble gum bubble that pops. Then there's another person with tattoos on their arms, wearing a dark shirt. This person cracks their knuckles. The background is plain and light-colored.AUDIO: There's no distinct speech or music. Just some generic sound effects like the popping of the bubble gum bubble and the cracking of the knuckles.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Well, in the visual part, there's a person with tattoos on their arms. They're wearing a black shirt and are clapping their hands together. And then there's a yellow and white circular object that appears in the middle of the frame. It has some numbers on it, like \"55\" and \"60\". In the audio part, there's a woman speaking. She seems to be talking about cracking a knuckle and waiting about 20 minutes for it to pop again. So, what do you think about this video?"
         },
         {
           "segment_index": 2,
           "time_range": "27.0s - 33.0s",
-          "query": "VISUAL: The video shows a close - up of a yellow object with gray shapes on it. Then there's a person in a green sweater crumpling a clear plastic bag. After that, an X - ray image of a knee is shown.AUDIO: There's some speech about a fluid returning to something and comparing it to a pop when standing up quickly. It also mentions a sound related to a pop. What do you think about these two different sounds?"
+          "query": "Well, in the video, visually, there's a close - up of a hand holding a clear plastic bag. The hand seems to be manipulating the bag, maybe squeezing or adjusting it. The background is a bit blurry, so it's hard to make out much else. The colors are mostly muted, with the clear plastic being the most noticeable.As for the audio, there's a woman speaking. She's talking about something related to a pop, but it's not clear what exactly. There's no music or other sound effects, just her voice. It sounds like she might be explaining or describing something, but without more context, it's a bit hard to say for sure.So, what do you think about this? Do you have any other questions or thoughts?"
         },
         {
           "segment_index": 3,
           "time_range": "33.0s - 39.0s",
-          "query": "VISUAL: The video shows an X - ray image of a knee joint at first. Then it transitions to an illustration highlighting a muscle and a tendon. The illustration is simple with clear labels for the muscle and tendon.The AUDIO: There's a woman speaking about the snapping sound tendons make when they slide during joint movement. It's just her voice without any other background noises or music.If you have any more questions about this video or anything else, feel free to let me know!"
+          "query": "Well, I can't actually see the video you're referring to. But if it's an animation like the one you described, the visual part would likely show a simplified diagram of a muscle and a tendon. You might see the muscle as a long, cylindrical shape, and the tendon as a straight line extending from the muscle. There could be some lines or arrows indicating the direction of movement or force. The colors might be basic, like white for the muscle and yellow for the tendon, on a dark background.The audio part would probably include a woman speaking, maybe explaining what's happening in the video. There might also be some sound effects, like a snapping sound to represent the tendon moving. The music could be soft and non-distracting, to keep the focus on the woman's explanation.If you can show me the actual video, I could give you a more accurate description. So, what else can you tell me about it?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 431.912700176239
+      "processing_time": 261.1078929901123
     },
     {
-      "comment_index": 4217,
+      "comment_index": 3433,
       "video_id": "n3IYmdy6d4Y",
       "comment": "1:16 waittt, did he just twist his fingers!? I don't know if it's a good idea or not, but for me it hurts tho...",
       "language": "en",
@@ -560,24 +379,24 @@
         {
           "segment_index": 1,
           "time_range": "67.0s - 73.0s",
-          "query": "VISUAL: The video shows a close - up of some text on a page, then it cuts to an X - ray image of an elbow with \"Elbow\" labeled. There's also a person holding a white object that looks like a bone model or something similar. The background is mostly dark.\n\nAUDIO: Someone is speaking about the effects of habitual knuckle cracking over time, mentioning hand swelling and decreased grip strength. They also mention that there was no relation found between it and osteoarthritis of the hand."
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.86 GiB is free. Including non-PyTorch memory, this process has 15.69 GiB memory in use. Of the allocated memory 13.59 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 2,
           "time_range": "73.0s - 79.0s",
-          "query": "VISUAL: The video shows an X - ray image of an elbow joint at first. Then it cuts to a close - up of hands cracking knuckles. The hands belong to someone wearing a dark shirt.AUDIO: There's no clear speech or music in the audio. Just some background noise that might be from the environment where the video was recorded.If you have any other questions about the video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Oh, okay. So, visually, it looks like there's someone doing something with their hands—maybe cracking knuckles or something similar. The background is pretty dark, so not much else stands out. As for the audio, I can't really make out any specific words or sounds clearly.What do you think? Any other details you noticed?"
         },
         {
           "segment_index": 3,
           "time_range": "79.0s - 85.0s",
-          "query": "VISUAL: A person is holding and popping a large bubble wrap. Then they look up at the camera with a smile. The background seems plain and light-colored.AUDIO: There's some kind of music playing in the background. It has a sort of upbeat or lively feel to it.What do you think about that? Do you have any other videos you want me to analyze?"
+          "query": "Visual: A person is holding something wrapped in clear plastic. The background appears to be indoors with neutral colors.\n\nAudio: There's some indistinct chatter or conversation happening in the background. No specific music or sound effects stand out."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 310.4780750274658
+      "processing_time": 182.2551622390747
     },
     {
-      "comment_index": 4215,
+      "comment_index": 3434,
       "video_id": "n3IYmdy6d4Y",
       "comment": "John 3:16 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish but have everlasting life.",
       "language": "en",
@@ -590,21 +409,201 @@
         {
           "segment_index": 1,
           "time_range": "187.0s - 193.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 2,
           "time_range": "193.0s - 199.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 3,
           "time_range": "199.0s - 205.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.10437583923339844
+      "processing_time": 0.06693029403686523
+    },
+    {
+      "comment_index": 3435,
+      "video_id": "n3IYmdy6d4Y",
+      "comment": "0:19 sus image",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 1.0,
+      "comment_timestamp": 19.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "10.0s - 16.0s",
+          "query": "Visually, there's an illustration showing two oval shapes connected at their centers with a yellow area labeled \"Synovial fluid.\" The background is plain gray. There aren't any people or movement shown in the video. Audio - There's no spoken dialogue, just some kind of background noise that could be described as a low hum or static."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "16.0s - 22.0s",
+          "query": "Visually, it shows an X - ray of a hand. The bones are clearly visible, with the fingers and palm area in focus. There's no movement or action in the video, just the static image of the hand's skeletal structure. The colors are mostly grayscale, typical for X - rays, with some shading to show depth and bone density. There are no people or other objects in the video, just the hand's bones. The background is completely black, which makes the bones stand out even more. There's no sound in the video, so no audio description is needed."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "22.0s - 28.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze here. The instruction seems incomplete or unclear. Could you please clarify? Maybe give me more details about the video so I can help better?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 158.73151206970215
+    },
+    {
+      "comment_index": 3436,
+      "video_id": "n3IYmdy6d4Y",
+      "comment": "0:58 he didn't have any more arthritis in one hand than the other because he was already dead",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 0.0,
+      "comment_timestamp": 58.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "49.0s - 55.0s",
+          "query": "Visual: The video starts with an X - ray image of hands on a black background. Then it transitions to a Google search page with the question \"Does popping your knuckles\" typed into the search bar.\n\nAudio: There's no distinct speech or sound effects heard during these 6 seconds. Just the general ambiance that comes with a Google search interface."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "55.0s - 61.0s",
+          "query": "Visually, the video starts with a Google search page. Then it shows an X - ray of a hand, followed by a comparison of two hands' X - rays. The text \"Results were the same\" is displayed, and it mentions \"LEFT HAND\" and \"RIGHT HAND.\" The source is credited to weissortho.com.\n\nAudio - wise, there's a woman speaking. She says, \"Actually give you arthritis after six years of doing it he found that he didn't have any more arthritis in one hand than in the other.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "61.0s - 67.0s",
+          "query": "Visually, there's someone cracking their knuckles repeatedly. The person seems to be wearing a dark shirt. There aren't any other distinct objects or background details visible. In terms of audio, it's just the sound of the knuckle cracking. No other speech, music, or significant ambient sounds can be heard."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 216.2785370349884
+    },
+    {
+      "comment_index": 3437,
+      "video_id": "n3IYmdy6d4Y",
+      "comment": "0:51 I saw in another video that he did that to prove his mother wrong...  what a rebel.",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 0.0,
+      "comment_timestamp": 51.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "42.0s - 48.0s",
+          "query": "Visual: There's a man in a light blue suit and glasses sitting in a room with bookshelves in the background. He's holding a yellow object with red dots, possibly a toy or a decorative item. He seems to be talking or explaining something. The room looks like a study or office, with a desk and some papers on it. The lighting is warm and the overall color scheme is neutral.\n\nAudio: The audio has a woman speaking. She's asking if knuckle cracking is safe. The tone is casual and informative. There's no background music or sound effects, just the woman's voice."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "48.0s - 54.0s",
+          "query": "Visual: The video shows two hands with bones highlighted against a black background. One hand has \"Popped knuckles\" written below it, while the other says \"Didn't pop knuckles.\" There's also some text at the bottom that reads \"SOURCE: weissortho.com.\"\n\nAudio: A woman is speaking throughout the video. She seems to be asking about someone who popped their joints for sixty years in one hand but not the other, and wants to find out something related to this."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "54.0s - 60.0s",
+          "query": "Visually, the video shows a Google search page with the search bar containing the text \"popping your knuckles cause arthritis\". Below the search bar, there are two buttons labeled \"Google Search\" and \"I'm Feeling Lucky\". The background is white. There are also some X - ray images of hands on a black background, with text saying \"Results were the same LEFT HAND RIGHT HAND\" and a source credit \"source: wolfsortha.com\".\n\nAudibly, there is a woman speaking. She says, \"popping your knuckles would actually give you arthritis after 60 years of doing it he found that he didn't have any more arthritis and\"."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 199.96602749824524
+    },
+    {
+      "comment_index": 3438,
+      "video_id": "n3IYmdy6d4Y",
+      "comment": "0:55 Respect",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 0.0,
+      "comment_timestamp": 55.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "46.0s - 52.0s",
+          "query": "Visual: The video shows Donald L. Unger sitting in a chair, wearing a light blue suit and glasses. He has a yellow object in his hand. There are bookshelves in the background. The video also includes an X - ray image of hands, one labeled \"Popped knuckles\" and the other \"Didn't pop knuckles.\"\n\nAudio: There is a voiceover speaking in English, but the content of the speech isn't provided."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "52.0s - 58.0s",
+          "query": "Visually, there's an image of two hands with bones highlighted, like an X - ray view. The background is white at first, then turns black. There s also some text on the screen.\n\nIn terms of audio, someone is speaking about popping knuckles and arthritis over sixty years. It seems to be a factual discussion rather than emotional or musical."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "58.0s - 64.0s",
+          "query": "Visually, the video shows an X - ray of a hand, with text indicating \"Results were the same\" and \"LEFT HAND\" and \"RIGHT HAND\". Then, it transitions to a close - up of a person's hands, which are clasped together. The person is wearing a dark shirt. There's no clear background or setting visible in the video.\n\nIn terms of audio, there is a voiceover saying, \"found that he didn't have any more arthritis in one hand than the other most medical sources agree with his findings but there's\". The voice is neutral and informative."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 282.04020500183105
+    },
+    {
+      "comment_index": 3439,
+      "video_id": "n3IYmdy6d4Y",
+      "comment": "I got his in my recommendation section 6 years after release. Today is April 5, 2:20 am, Monday, 2021. Hello future",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 0.0,
+      "comment_timestamp": 140.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "131.0s - 137.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "137.0s - 143.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "143.0s - 149.0s",
+          "query": "Inference error: 'video_fps'"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.0040400028228759766
+    },
+    {
+      "comment_index": 3440,
+      "video_id": "n3IYmdy6d4Y",
+      "comment": "0:02 I HATE THIS SOUND. ;-;",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 0.0,
+      "comment_timestamp": 2.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "0.0s - 0.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "0.0s - 5.0s",
+          "query": "Visually, there are two hands shown. One hand is holding the other, and then the hands start to move in a way that looks like they're cracking or popping joints. The background is blurry and doesn't show much detail. The colors are muted, mostly shades of gray and white. There's a lot of movement in the hands, but not much else is happening in the scene. There's no clear audio to describe."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "5.0s - 11.0s",
+          "query": "Visually, the video shows a person cracking their knuckles. The focus is on the hand and fingers as they perform the action. There are no other significant objects or people in the frame. The background is plain and doesn't provide much detail.\n\nIn terms of audio, there is a voiceover that says, \"What happens to our joints when we crack them? Is it bad for you?\" The voice is clear and the tone seems to be informative. There are no other sounds or music in the audio."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 238.55698323249817
     }
   ]
 }

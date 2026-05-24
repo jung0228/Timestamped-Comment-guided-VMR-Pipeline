@@ -1,0 +1,609 @@
+{
+  "video_id": "RWf2P9pdoBI",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 19059,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "the TF2 booing at 3:00 💀",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 34.0,
+      "comment_timestamp": 180.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "171.0s - 177.0s",
+          "query": "**Visual:** The scene shows two men sitting on chairs in front of a banner that says \"THE CONAN SHOW.\" One man is wearing a blue tank top and shorts, while the other is dressed formally in a suit with a tie. There's a table between them with some items like a cup and a microphone. The setting appears to be an indoor studio or talk show environment.\n\n**Audio:** The audio includes dialogue where one person comments negatively about something being \"sucks\" and then mentions \"this show,\" suggesting they're discussing the show itself."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "177.0s - 183.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 7.55 GiB. GPU 1 has a total capacity of 23.56 GiB of which 5.93 GiB is free. Including non-PyTorch memory, this process has 17.62 GiB memory in use. Of the allocated memory 16.64 GiB is allocated by PyTorch, and 679.58 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "183.0s - 189.0s",
+          "query": "**Visual:** The scene shows two men sitting on chairs against a backdrop with \"THE CONAN SHOW\" written on it. One man is wearing a blue tank top and shorts, reclining casually while holding a drink cup. The other man, dressed formally, sits upright at a table with a mug. There's an empty auditorium filled with wooden seats behind them.\n\n**Audio:** A voice speaks, saying, \"Yeah, you know what? Audience is a bunch of morons.\" This statement is followed by laughter from unseen individuals."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 501.1744956970215
+    },
+    {
+      "comment_index": 19060,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "2:46 theremin as a weapon 😂",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 21.0,
+      "comment_timestamp": 166.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "157.0s - 163.0s",
+          "query": "Visual: There's someone sitting on a chair with legs stretched out, wearing a blue tank top and white socks. They're holding a microphone and seem to be talking or interacting with others who aren't fully visible. The setting looks like an indoor space, possibly a studio or living room, with some furniture around.\n\nAudio: Someone is speaking, likely the person with the microphone. It seems to be a conversation or interview type of dialogue."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "163.0s - 169.0s",
+          "query": "Well, let's break it down. Visually, there's someone sitting on a chair with their legs stretched out. They're wearing shorts and socks, and they seem to be holding something small in one hand while gesturing with the other. There's also another person in front of them who looks like they might be playing drums or some kind of percussion instrument. The background is dark, so not much else can really be seen clearly. As for the audio, I think there was just a short bit of music playing at the end. What do you think about that? Do you have any other thoughts on the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "169.0s - 175.0s",
+          "query": "**Visual:** The scene shows three men in an indoor setting with musical instruments like drums visible. One man is sitting on a chair wearing a blue tank top and shorts, holding a drink cup. Another man stands behind him in a suit, gesturing animatedly. A third person sits at a table to the right, also dressed formally.\n\n**Audio:** There's dialogue between the standing man and the seated man in the blue tank top. The conversation seems casual or conversational. No distinct music or sound effects are heard apart from their voices."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 260.41216588020325
+    },
+    {
+      "comment_index": 19061,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "5:40 Super disappointed the dog & chicken weren't in the audience again. 😥  All of Fred Armisen's work would be better with that dog/chicken.",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 16.0,
+      "comment_timestamp": 340.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "331.0s - 337.0s",
+          "query": "Sure! So, visually, there's two guys sitting on chairs with a cityscape backdrop at night. One guy is talking animatedly while gesturing with his hands, and the other one is listening attentively. There s also some furniture like tables and a desk around them. The lighting is warm and focused on the two men, making everything else look darker.In terms of audio, it s just their conversation. You can hear clear voices without any background noise or music.What do you think about that?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "337.0s - 343.0s",
+          "query": "Sure! So, visually, there are two men sitting on chairs in front of a cityscape backdrop at night. One man is wearing a dark shirt and pants, while the other has on a suit with a tie. They seem to be having a conversation. The scene looks like it's from a talk show or interview setting. There s also some kind of circular logo or emblem partially visible in one shot, which might be related to the event or show they're on.Audibly, someone is speaking, probably the host or interviewer, asking questions or making comments. It seems like a typical talk show dialogue, with pauses for responses. There aren t any obvious sound effects or background music, just the natural conversation sounds.If you want more details about either part, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "343.0s - 349.0s",
+          "query": "Sure! Here's my analysis:.Visually, there are multiple people sitting at tables with microphones, suggesting some kind of panel or discussion event. The background has banners and posters related to film festivals or similar events. There s also a person standing up, possibly presenting something.Audibly, it seems like there might be some background chatter from the audience, but no distinct speech is clearly audible.Does that help? Let me know if you need more details!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 245.05671548843384
+    },
+    {
+      "comment_index": 19062,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "2:25 is a deep cut. Making up a TV show where he played fwi-song from consider phlebas? Is that like a running joke for him?",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 15.0,
+      "comment_timestamp": 145.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "136.0s - 142.0s",
+          "query": "**Visual:** The video shows two men sitting on a couch. One man is wearing a blue tank top with yellow trim and white socks, while the other has his legs crossed and appears to be shirtless or wearing very light clothing. They seem relaxed, possibly engaged in conversation. There's a table between them with some items on it, including a microphone.\n\n**Audio:** Someone is speaking, likely narrating or commenting about something related to HBO and playing an alien role in Star Force."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "142.0s - 148.0s",
+          "query": "Visual: There's a man sitting on a wicker chair with his legs crossed. He's wearing a blue tank top and shorts. Another person is partially visible next to him, also seated. The setting seems like an indoor space, possibly a studio or living room, with some furniture around.\n\nAudio: Someone is speaking, but it's not clear who they are or what they're saying due to the short duration. It could be a conversation or monologue."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "148.0s - 154.0s",
+          "query": "Sure! So, visually, there's someone sitting on a chair with their legs up on another piece of furniture. They're wearing a blue tank top and white socks. There s also a table nearby with some items on it. The background seems to be indoors, maybe a studio or something like that.Audience-wise, I can't really tell much from just these six seconds. But if there was any sound, it might have been some kind of conversation or reaction, given the laughter at the end.What do you think about this? Any other details you noticed?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 242.5145013332367
+    },
+    {
+      "comment_index": 19063,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "0:02 sorry Bob the answer we were looking for is \"'s'all good, man!\"",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 13.0,
+      "comment_timestamp": 2.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "0.0s - 0.0s",
+          "query": "**Visual:** The video shows two men sitting on a talk show set. One is dressed casually in a dark shirt and pants, while the other wears a suit with a yellow tie. They're seated across from each other, engaged in conversation. The background features a cityscape at night, with tall buildings illuminated against a dark sky.\n\n**Audio:** There's dialogue between the two men, likely discussing something related to their past or relationship. The tone seems friendly and conversational. No significant music or sound effects are present; it's mainly focused on their interaction."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "0.0s - 5.0s",
+          "query": "**Visual:** The video shows a man sitting on a couch with a cityscape visible through a window behind him. He's wearing a dark-colored shirt and appears to be talking while gesturing with his hands.\n\n**Audio:** There is a male voice speaking about writing together at \"Saturday Night Live\" and sharing an office during that time."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "5.0s - 11.0s",
+          "query": "**Visual:** The video shows two men sitting on a talk show set. One is dressed casually in a dark shirt and pants, while the other wears a suit with a tie. They're seated across from each other, engaged in conversation. The background features a cityscape at night with illuminated buildings, including the Empire State Building. There's also a desk between them.\n\n**Audio:** The audio includes dialogue between the two men, likely discussing something related to the show or their experiences. No specific sound effects or music are audible apart from the conversation."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 176.4075493812561
+    },
+    {
+      "comment_index": 19064,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "3:11 predicted the current audience",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 12.0,
+      "comment_timestamp": 191.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "182.0s - 188.0s",
+          "query": "**Visual:** The scene shows two men sitting on chairs against a backdrop with \"THE CONAN SHOW\" written on it. One man is wearing a blue tank top and shorts, reclining casually while holding a drink cup. The other man, dressed more formally, sits upright at a table with a mug. There's some equipment visible around them.\n\n**Audio:** A voice speaks, saying, \"the audience is a bunch of morons that's what I think of you.\" This is followed by applause from an unseen crowd."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "188.0s - 194.0s",
+          "query": "Oh, okay! So, visually, there's a black dog on one side and a chicken on the other, both sitting in chairs like they're at some event or show. The background looks like an auditorium with rows of empty seats. Then, it cuts to two guys chatting on a talk show set. One guy is leaning back casually while the other seems more engaged, maybe asking questions.The audio? Well, there s laughter from the audience, which makes me think something funny happened during that chat. There s also applause, probably for whatever was said. And yeah, there s some music playing softly in the background.Does that cover what you were looking for? Let me know if you need anything else!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "194.0s - 200.0s",
+          "query": "**Visual:** The video shows two men sitting on a talk show set. One is dressed casually in a dark sweater and pants, while the other wears a suit with a tie. They're seated across from each other, engaged in conversation. The background features a cityscape at night, with illuminated buildings visible through large windows behind them.\n\n**Audio:** There's applause heard initially, followed by laughter, then more applause. A man speaks, likely the host or interviewer, though his exact words aren't clear from just these few seconds."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 305.5147912502289
+    },
+    {
+      "comment_index": 19065,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "4:50 Conan should have gone \"Change the subject change the subject....\"",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 9.0,
+      "comment_timestamp": 290.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "281.0s - 287.0s",
+          "query": "Sure! So, visually, there's someone sitting on a couch with their hands gesturing while talking. The background shows a cityscape at night with lights twinkling. There s also another person across from them, dressed formally, who seems to be listening or responding.The audio has some dialogue between these two people, along with laughter and applause from an unseen audience. It feels like they're having a lively conversation.What do you think about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "287.0s - 293.0s",
+          "query": "Visually, there are two men sitting on chairs in front of a cityscape backdrop at night. One man is wearing a dark sweater and pants, while the other is dressed in a suit with a tie. They seem to be engaged in conversation, gesturing with their hands. The setting looks like a talk show or interview setup.\n\nAudio-wise, I can hear laughter from both individuals, indicating they're having a light-hearted discussion. There's also some background noise that suggests an indoor studio environment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "293.0s - 299.0s",
+          "query": "**Visual:** The video shows two men sitting on a talk show set. One man is wearing a dark sweater and jeans, while the other is dressed more formally with a suit and tie. They're seated across from each other at a desk, engaged in conversation. The background features a cityscape at night with illuminated buildings.\n\n**Audio:** There's dialogue between the two men discussing winning awards and attending various festivals. No specific music or sound effects are audible apart from their conversation."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 239.74431729316711
+    },
+    {
+      "comment_index": 19066,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "2:47 Eric Andre took this joke to a whole new level.",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 9.0,
+      "comment_timestamp": 167.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "158.0s - 164.0s",
+          "query": "Sure! So, here's what I noticed:.Visually, there are two guys sitting on couches. One guy is wearing shorts and socks with sneakers, while the other has on a blue tank top and black shoes. They're both holding microphones and seem to be chatting or doing some kind of talk show thing. There s also a table between them with another microphone.Anything else you want me to look at?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "164.0s - 170.0s",
+          "query": "Sure! So, here's a quick breakdown:.Visually, there s someone sitting on a chair with their legs crossed, holding a microphone. They re wearing a blue tank top and shorts. Then, there s another person playing drums in front of them. The drummer is dressed in a suit and tie.The scene seems to be indoors, maybe some kind of studio or performance space. There s also a table nearby with a drink on it.Audibly, I can hear the drummer playing the drums, which creates a rhythmic beat. There might be some background noise too.What do you think about that? Any specific details you want to dive into more?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "170.0s - 176.0s",
+          "query": "**Visual:** The scene shows two men sitting in a studio-like setting. One man is wearing a suit and tie while the other is dressed more casually in a tank top and shorts. There's a banner behind them that says \"THE CONAN SHOW.\" A drum set can be seen partially visible on one side.\n\n**Audio:** The audio includes dialogue between the two men. They seem to be discussing something related to a theme song, with phrases like \"it sucks\" being mentioned."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 272.678564786911
+    },
+    {
+      "comment_index": 19067,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "3:45  \"change the subject\" on full display.  Lol",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 5.0,
+      "comment_timestamp": 225.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "216.0s - 222.0s",
+          "query": "Visually, there's someone sitting on a couch with a cityscape backdrop behind them. They're wearing a dark-colored top and gesturing with their hands while speaking. The background has curtains and some lights that give it a studio-like feel. There's also a microphone visible near them.Audibly, they seem to be talking about something funny involving \"people with cheese for heads.\" It sounds like they might be making a joke or telling an amusing story."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "222.0s - 228.0s",
+          "query": "Visually, there's a man sitting on a couch with a cityscape backdrop behind him. He seems to be engaged in conversation or an interview. The setting looks like it could be a talk show studio.\n\nIn terms of audio, I can hear laughter from someone off-camera, probably reacting to something said during the conversation. There s also some background noise that might be from the studio itself."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "228.0s - 234.0s",
+          "query": "**Visual:** The video shows two men sitting on a talk show set. One is dressed casually in a dark shirt and pants, while the other wears a suit with a tie. They're seated across from each other, engaged in conversation. The background features a cityscape at night, with illuminated buildings visible through large windows behind them.\n\n**Audio:** There's dialogue between the two men, likely discussing something related to film or directing based on the subtitles provided. No distinct music or sound effects can be heard apart from their conversation."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 221.66032338142395
+    },
+    {
+      "comment_index": 19068,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "1:50 Conan used to do the Eric Andre show?",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 5.0,
+      "comment_timestamp": 110.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "101.0s - 107.0s",
+          "query": "**Visual:** The video shows two men sitting on a talk show set with a cityscape backdrop at night. One man is wearing a dark sweater and jeans, while the other is dressed in a suit. They're seated across from each other, engaged in conversation. There's a desk between them, and they seem to be gesturing as they talk.\n\n**Audio:** The audio features dialogue between the two men. It seems like a casual chat or interview, with one person speaking and the other responding. The tone appears relaxed and conversational."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "107.0s - 113.0s",
+          "query": "**Visual:** The clip shows two men sitting on a talk show set with a cityscape backdrop at night. One man is wearing a dark sweater and jeans, while the other is dressed in a suit. They're seated across from each other, engaged in conversation. There's a wooden desk between them, and they seem to be gesturing and reacting to each other.\n\n**Audio:** The audio includes dialogue between the two men, likely discussing something related to the show or their experiences. There might also be some background music or sound effects typical for a talk show setting."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "113.0s - 119.0s",
+          "query": "**Visual:** The video shows two men seated at a table with a banner behind them that says \"THE CONAN SHOW.\" One man is wearing a blue tank top and shorts while reclining on a chair, and the other is dressed formally in a suit. There's laughter from an unseen audience.\n\n**Audio:** Laughter can be heard throughout the short clip."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 321.8349025249481
+    },
+    {
+      "comment_index": 19069,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "6:55 the pun better be intended",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 4.0,
+      "comment_timestamp": 415.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "406.0s - 412.0s",
+          "query": "Oh, it seems like there might be some confusion here. The image you've provided doesn't match with the description given about the Frank International Film Fest DVD. Could you please clarify or provide more accurate details? I'd love to help further!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "412.0s - 418.0s",
+          "query": "**Visual:** The scene shows two men seated on a talk show set with a cityscape backdrop at night. One man is dressed casually in a dark shirt and pants, while the other wears a suit with a tie. They appear to be engaged in conversation, with one gesturing towards the other. There's a table between them, and the setting includes chairs with patterned upholstery.\n\n**Audio:** The audio features a voice saying \"dinner will be in stores next Friday\" followed by applause from an unseen audience."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "418.0s - 424.0s",
+          "query": "I'm sorry, I can't analyze videos directly from images or descriptions like that. If you have a video file or can upload it here, I'd be happy to help!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 166.41988968849182
+    },
+    {
+      "comment_index": 19070,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "3:50 Look at his face when that director joke bombs. I'd be terrified",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 3.0,
+      "comment_timestamp": 230.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "221.0s - 227.0s",
+          "query": "Sure! So, visually, there's someone sitting on a couch with their hands raised up. The background looks like it has city lights at night. There s also some kind of curtain behind them.Audibly, they re talking about something funny that happened at 3 am when they were asleep. They mention liking it.Anything else you want to know?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "227.0s - 233.0s",
+          "query": "**Visual:** The video shows two men sitting on a talk show set. One is dressed casually in a dark sweater and pants, while the other wears a suit with a tie. They're seated in patterned armchairs facing each other across a wooden desk. Behind them is a backdrop depicting a city skyline at night, with lit buildings visible. There's also a small table between them holding a blue mug.\n\n**Audio:** The audio features dialogue between the two men. The man in the suit speaks first, saying something about his first film being \"Melvin Goes to Dinner.\" The other man responds affirmatively."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "233.0s - 239.0s",
+          "query": "**Visual:** A man is sitting on a couch with a microphone in his hand. He's wearing a dark-colored sweater and has short hair. The background features curtains that seem to be part of a studio set, possibly for an interview or talk show. There's also some lighting visible behind him.\n\n**Audio:** The man speaks directly into the microphone, saying something like \"that's just quite exciting\" followed by \"and I have a theory.\" His tone suggests enthusiasm or excitement about whatever he's discussing."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 218.3522117137909
+    },
+    {
+      "comment_index": 19071,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "3:59 there goes the rule of thirds",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 2.0,
+      "comment_timestamp": 239.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "230.0s - 236.0s",
+          "query": "**Visual:** The video shows two men sitting on a talk show set. One is dressed casually in a dark sweater and jeans, while the other wears a suit. They're seated across from each other with a small table between them. The background features a cityscape at night with lit buildings. There's also a curtain behind them.\n\n**Audio:** A man speaks about directing his first film and being a filmmaker now, expressing excitement."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "236.0s - 242.0s",
+          "query": "Sure! So, visually, there's someone sitting on a couch with a patterned design. They're wearing a dark long-sleeve shirt and have short hair. The background has curtains that look like they might be from a studio set, maybe for an interview or talk show. There s also some lighting that gives it a bit of a stage-like feel.Audience-wise, I can't really tell much about the audio since it's just described as \"speech.\" But if we assume it's talking, it could be someone explaining something or having a conversation.What do you think? Do you want to know more about either part?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "242.0s - 248.0s",
+          "query": "Sure! So, visually, there's someone sitting on a couch with a cityscape backdrop behind them. They're wearing dark clothes and seem to be talking or reacting to something. There s also another person across from them at a desk, dressed formally, probably conducting an interview or conversation. The setting looks like it could be a talk show or similar setup. As for the audio, I can't really tell much about the specific words being said since I don t have access to the actual dialogue. But overall, it seems like a typical talk show vibe.Anything else you noticed or want to ask about?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 277.41344833374023
+    },
+    {
+      "comment_index": 19072,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "3:32 Is he talking about Elon Musk?",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 2.0,
+      "comment_timestamp": 212.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "203.0s - 209.0s",
+          "query": "**Visual:** The video shows two men sitting on a talk show set. One is wearing a dark sweater and jeans, while the other is dressed in a suit with a tie. They're seated on patterned chairs against a backdrop featuring city lights at night. There's a wooden desk between them.\n\n**Audio:** The man in the sweater speaks first, saying something about \"the biggest mistake back then.\" Then, the man in the suit responds, mentioning that he actually sees it differently."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "209.0s - 215.0s",
+          "query": "**Visual:** The video shows two men sitting on a talk show set. One man is wearing a dark sweater and jeans, while the other is dressed in a suit with a tie. They're seated across from each other at a wooden desk. Behind them, there's a backdrop depicting a cityscape at night with lit buildings. There are also patterned curtains visible.\n\n**Audio:** The audio features dialogue between the two men. It seems to be a conversation or interview format typical of talk shows. No background music or sound effects are noticeable."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "215.0s - 221.0s",
+          "query": "Visually, there's a man sitting on a couch with his hands raised, looking like he's talking or reacting to something. The background shows a cityscape at night with lights. There are also two other men seated across from him, one wearing a suit and the other in casual clothes.\n\nIn terms of audio, it seems like someone is speaking, possibly asking questions or making comments related to the scene. It could be a talk show or interview setting."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 208.85927057266235
+    },
+    {
+      "comment_index": 19073,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "2:21 Saul before he discovered the Chi machine",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 1.0,
+      "comment_timestamp": 141.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "132.0s - 138.0s",
+          "query": "**Visual:** The scene shows two men in an indoor setting. One man is sitting on a wicker chair wearing a blue tank top with yellow trim, white socks, and black shoes. He has his legs crossed and appears to be writing or drawing something on paper. Another man stands behind him, dressed in a dark suit and tie, gesturing with one hand while holding a microphone in the other. There s also a table nearby with a mug that says \"Coca-Cola\" on it.\n\n**Audio:** The main audio features someone speaking, though I can't make out the exact words from just these six seconds. There's no background music or sound effects audible during this clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "138.0s - 144.0s",
+          "query": "**Visual:** The video shows two men sitting on a couch in a living room setting. One man is wearing a blue tank top and shorts, while the other has his legs stretched out on the couch. There's a table with a microphone on it between them. The background includes some furniture like a sofa and a window.\n\n**Audio:** A male voice is speaking about playing an alien character in \"Star Force 3000\" next week."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "144.0s - 150.0s",
+          "query": "**Visual:** There's a man sitting on a wicker chair with his legs stretched out onto a couch. He's wearing a blue tank top, shorts, white socks, and black shoes. His right hand is holding something small and yellowish, possibly a toy or an object he's fiddling with. The background shows some curtains and a dark area that might be a window or screen. Another person is partially visible to the right, just showing their legs.\n\n**Audio:** Someone says \"you know what this is just Andy falling asleep over here.\" It seems like they're commenting on the man in the chair appearing to fall asleep."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 294.50431776046753
+    },
+    {
+      "comment_index": 19074,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "5:47 Fred Armisen mention",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 1.0,
+      "comment_timestamp": 347.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "338.0s - 344.0s",
+          "query": "Visually, there are two men sitting on chairs against a backdrop that looks like a cityscape at night with lights. One man is wearing a dark shirt and pants, while the other has on a suit. They seem to be engaged in conversation or an interview setting. There s also some kind of circular object with writing on it partially visible.\n\nIn terms of audio, I can hear someone speaking, likely one of the men, but without more context, it's hard to say exactly what they're saying. It seems like normal conversation or dialogue."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "344.0s - 350.0s",
+          "query": "Sure! So, visually, there's a group of people sitting at tables with chairs around them. The room has some lights on the ceiling, and there s a poster or sign that says \"INTERNATIONAL FILM FESTIVAL 2003\" in big letters. There are also some other signs and posters visible in the background. The scene looks like it might be inside a restaurant or a similar venue.Audibly, I can't really make out any specific speech or music clearly from just these six seconds. It seems pretty quiet overall.What do you think about this? Do you have any more questions about the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "350.0s - 356.0s",
+          "query": "Sure! Here's my analysis:.Visually, there are several people sitting at a table with microphones and glasses on it. The background has some banners or posters, one of which seems to have a logo or design on it. There are also chairs around the table, and the setting looks like an indoor space, possibly a conference room or a small event venue. The lighting is relatively dim, giving off a cozy atmosphere.Audibly, someone is speaking into a microphone, likely addressing the group seated at the table. The tone suggests they might be leading a discussion or presentation. There doesn't seem to be any other significant sound effects or music playing.What do you think about this setup? Any specific details you're curious about?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 261.49634766578674
+    },
+    {
+      "comment_index": 19075,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "5:55 this is the youngest I’ve ever seen Fred Armisen lol",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 1.0,
+      "comment_timestamp": 355.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "346.0s - 352.0s",
+          "query": "Visually, there's a group of people sitting at a table with microphones labeled \"BOB\" and \"DJ\". The setting seems like an indoor event or gathering, possibly a panel discussion or interview. There are chairs stacked against the wall behind them. The lighting is dim, creating a somewhat intimate atmosphere.\n\nIn terms of audio, someone says \"yeah Frank you\", which could be part of a conversation or question being asked during the event. There doesn't seem to be any background music or sound effects, just the voice speaking clearly."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "352.0s - 358.0s",
+          "query": "Sure! Here's my analysis:.Visually, there are several people sitting at tables with nameplates like \"Bob\" visible. The setting seems to be an indoor event or gathering, possibly a panel discussion or interview. There are chairs around the tables, and some decorative elements on the walls. The lighting is relatively dim, creating a cozy atmosphere.Audibly, someone is speaking, likely addressing questions or making comments related to writing. The tone suggests it could be a formal or semi-formal conversation about creative work."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "358.0s - 364.0s",
+          "query": "Visually, there's a group of men sitting at a table with microphones in front of them. One man is speaking into his microphone while others look on. There s some kind of sign or poster behind them that says \"Frank International Film Festival.\" The setting seems to be indoors, possibly a conference room or similar space.\n\nAudio-wise, it mainly consists of the man speaking into the microphone. There doesn t seem to be any background music or sound effects, just the clear voice of the speaker. It looks like he might be giving an interview or making a statement about something related to the film festival."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 325.915185213089
+    },
+    {
+      "comment_index": 19076,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "2:59 When you lose a match in tf2",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 1.0,
+      "comment_timestamp": 179.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "170.0s - 176.0s",
+          "query": "**Visual:** The scene shows two men sitting in a studio-like setting. One man is wearing a suit and tie while the other is dressed more casually in a tank top and shorts. There's a banner behind them that says \"THE CONAN SHOW.\" A drum set can be seen partially visible on one side.\n\n**Audio:** The audio includes dialogue between the two men. They seem to be discussing something related to a theme song, with phrases like \"it sucks\" being mentioned."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "176.0s - 182.0s",
+          "query": "**Visual:** The scene shows two men sitting in a room with \"THE CONAN SHOW\" banner behind them. One man is wearing a blue tank top and shorts, sitting on an armchair, while the other is dressed formally, sitting at a table across from him. There's a microphone on the table between them.\n\n**Audio:** Someone shouts \"the toilet if you don't make some changes.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "182.0s - 188.0s",
+          "query": "**Visual:** The scene shows two men sitting on chairs against a backdrop with \"THE CONAN SHOW\" written on it. One man is wearing a blue tank top and shorts, reclining casually while holding a drink cup. The other man, dressed more formally, sits upright at a table with a mug. There's some equipment visible around them.\n\n**Audio:** A voice speaks, saying, \"the audience is a bunch of morons that's what I think of you.\" This is followed by applause from an unseen crowd."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 405.9676959514618
+    },
+    {
+      "comment_index": 19077,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "0:40 is bob a co-investor in Copenhagen Grooming from Denmark? They specialize in beard and hair growth products :D",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 1.0,
+      "comment_timestamp": 40.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "31.0s - 37.0s",
+          "query": "**Visual:** The video shows two men sitting on a talk show set with a cityscape backdrop at night. One man is dressed casually in a dark shirt and pants, while the other wears a suit with a tie. They appear to be engaged in conversation, with one gesturing animatedly.\n\n**Audio:** There's laughter from both individuals, indicating they're having a light-hearted discussion or sharing jokes. No specific dialogue can be discerned beyond the laughter."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "37.0s - 43.0s",
+          "query": "**Visual:** The video shows two men on a talk show set. One man is seated behind a desk with a microphone, wearing a suit and tie, while the other sits across from him in a chair, dressed casually in a dark shirt. There's a cityscape backdrop visible through windows behind them.\n\n**Audio:** A voice can be heard saying something like \"you haven't had all your hair from that time.\" It seems to be part of a conversation or interview taking place during the show."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "43.0s - 49.0s",
+          "query": "Sure! So, visually, there's someone sitting at a desk with a cityscape backdrop behind them. They're wearing a suit and tie, looking like they might be on some kind of talk show or interview set. There are other people around too, one of whom is laughing.Anything else you want to know about it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 151.7860472202301
+    },
+    {
+      "comment_index": 19078,
+      "video_id": "RWf2P9pdoBI",
+      "comment": "Oh my god, 5:57 Frank is the guy from Barry who blows his hand off, with the pen gun",
+      "language": "en",
+      "channel_name": "ConanOBrien",
+      "category": "talk show",
+      "likes": 0.0,
+      "comment_timestamp": 357.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "348.0s - 354.0s",
+          "query": "Visually, there's a group of people sitting at a table with nameplates like \"Bob\" and \"DJ\". The background has some posters or signs on the wall. There are glasses and other items on the table. The lighting seems dim, creating a somewhat intimate atmosphere.\n\nAudibly, someone is speaking, possibly making jokes or comments that cause laughter from others present. There might be some background noise too, typical for an indoor gathering."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "354.0s - 360.0s",
+          "query": "Oh， it seems like there's been some confusion here. The video segment you mentioned is actually an image， not a video. So I can't really analyze any movement or sounds from it. But if you describe more about the image， I'd be happy to help further！"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "360.0s - 366.0s",
+          "query": "Well, I'm not sure if there's actually anything to analyze from just these two frames. There doesn't seem to be much going on visually or audibly here. Maybe you could give me more context about where this video is from? That way I might be able to help better."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 151.55712270736694
+    }
+  ]
+}

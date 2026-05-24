@@ -1,13 +1,12 @@
 {
   "video_id": "7y1xJAVZxXg",
   "total_comments": 20,
-  "successful_comments": 20,
-  "failed_comments": 0,
+  "successful_comments": 19,
+  "failed_comments": 1,
   "success_rate": "100.0%",
-  "processing_time": 5314.35436797142,
   "comments": [
     {
-      "comment_index": 3550,
+      "comment_index": 841,
       "video_id": "7y1xJAVZxXg",
       "comment": "\"Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God\"  Matthew 19:24",
       "language": "en",
@@ -20,26 +19,26 @@
         {
           "segment_index": 1,
           "time_range": "1155.0s - 1161.0s",
-          "query": "VISUAL: There's a man and a woman sitting on chairs in front of a fireplace. The woman is wearing a red blazer over a white top, while the man has glasses, a dark suit with a yellow sweater underneath. They seem to be talking or presenting something. There are candles on a table between them, some books stacked nearby, and decorative vases on either side. The room looks like a studio set up for an interview or talk show.AUDIO: You can hear someone shouting \"All over his face!\" followed by \"1 dot 1\" and then \"keep it together.\" It seems like there might be some kind of commotion or unexpected event happening during their conversation.What do you think about that? Any thoughts or questions?"
+          "query": "**Visual:** The video shows two people sitting on a couch in a studio setting. The woman is wearing a red blazer and the man is in a suit with a yellow tie. They are seated in front of a fireplace with candles on the mantel. There are books stacked on a table to the left and a decorative bowl on the mantel. The background is light-colored with some plants visible. The text \"1-800-XXXX-XXXX\" is displayed at the bottom of the screen, with a note \"(Phone number no longer available)\" underneath.\n\n**Audio:** There is no clear dialogue or music in the audio. Instead, there are some indistinct sounds that could be interpreted as a person shouting or yelling."
         },
         {
           "segment_index": 2,
           "time_range": "1161.0s - 1167.0s",
-          "query": "VISUAL: There's a man and a woman sitting on chairs in front of a fireplace. The woman is wearing a red blazer and the man has glasses and a suit with a yellow sweater. They seem to be talking or presenting something. There are candles on the table between them and some books stacked nearby.AUDIO: A male voice is speaking over background music. He says \"call this number so you seed and ye shall prosper\" and then asks \"what wonder do you feel?\".The phone number at the bottom of the screen is also mentioned, but it's noted that it's no longer available.If you want to know more about this kind of thing, feel free to ask me other questions!"
+          "query": "Visually, there are two people sitting on chairs in a room. One is wearing a red blazer and the other is in a dark suit with a yellow sweater. There are some decorative items like a bowl on a shelf, candles, and a vase with flowers. The room has light-colored walls and a fireplace in the background. The people seem to be engaged in a conversation or presentation.\n\nAudio-wise, there's a voice speaking, but the content of the speech isn't clear from the provided information. There's also some background music playing."
         },
         {
           "segment_index": 3,
           "time_range": "1167.0s - 1173.0s",
-          "query": "VISUAL: There's a man and a woman sitting on chairs facing each other in a room with a fireplace in the background. The woman is wearing a red blazer and talking while gesturing with her hands. The man is dressed in a suit with a yellow sweater underneath and he seems to be listening or responding. There are some candles on a table between them. The camera then zooms out to show more of the room, which has a wooden floor, large windows, and several people standing around. Some are clapping and cheering.AUDIO: You can hear music playing throughout the video. There are also some sounds like applause from the crowd when the camera zooms out."
+          "query": "**Visual:** The video shows two people sitting in a room with a fireplace in the background. One person is wearing a red outfit and the other is in a suit with a yellow sweater. They appear to be engaged in a conversation. The room has a cozy, formal atmosphere with a large mirror and some decorative items visible. There are also some plants and a table with a glass centerpiece.\n\n**Audio:** The audio includes speech and laughter. The speech seems to be part of a conversation or interview, and the laughter indicates a light-hearted or humorous moment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 344.1153521537781
+      "processing_time": 281.5126008987427
     },
     {
-      "comment_index": 3551,
+      "comment_index": 842,
       "video_id": "7y1xJAVZxXg",
-      "comment": "It is always John saying ([USER]:25), \"And lo, another box was ticked!\" that always makes me pass out laughing!!! 😂😅😆🤣😅😂😆",
+      "comment": "It is always John saying (@16:25), \"And lo, another box was ticked!\" that always makes me pass out laughing!!! 😂😅😆🤣😅😂😆",
       "language": "en",
       "channel_name": "LastWeekTonight",
       "category": "news",
@@ -50,24 +49,24 @@
         {
           "segment_index": 1,
           "time_range": "976.0s - 982.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands on it. Behind him is a cityscape backdrop. There's also some text visible on the screen, like \"August 11, 2015\" and a quote about congregants meditating on fraudulent churches.AUDIO: The man is speaking, and there's laughter from an audience. Then he says something again, followed by more laughter. It seems like he might be making a joke or telling a story. What do you think about that?"
+          "query": "Visual: A man in a suit is standing behind a desk with his arms outstretched. There's a cityscape backdrop. Text overlays appear on the screen.\n\nAudio: The man speaks, and there's laughter from an unseen audience at some point."
         },
         {
           "segment_index": 2,
           "time_range": "982.0s - 988.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with his hands gesturing while talking. There's a cityscape background behind him. There's also some text on the screen that seems to be from a document or memo.AUDIO: Someone is speaking, and there's applause in the background. The speaker mentions an attorney and something about a best case for church membership. It ends with \"finally.\".If you have any other questions about the video or need more details, feel free to ask!"
+          "query": "Visual: A man wearing glasses and a suit is sitting at a desk with his hands gesturing while speaking. There's a cityscape background behind him. Text overlays appear on the screen.\n\nAudio: The man is talking about something related to \"fraudulent churches\" during a specific ritual where congregants silently meditate."
         },
         {
           "segment_index": 3,
           "time_range": "988.0s - 994.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands gesturing while talking. Behind him is a cityscape backdrop. There's also some text on the screen that seems to be from a document or note.AUDIO: The main thing heard is someone speaking about church membership and the live studio audience. There are no other distinct sounds like music or sound effects. What do you think about this? Any thoughts or questions?"
+          "query": "**Visual:** The video shows a man sitting at a desk in a studio with a cityscape background. He is wearing glasses, a suit, and tie. There's a piece of paper on his left side that seems to have some text or an image printed on it. The man appears to be speaking and gesturing with his hands.\n\n**Audio:** A male voice is heard speaking throughout the clip. The speech is clear and seems to be addressing the audience directly."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 219.94806146621704
+      "processing_time": 136.33647084236145
     },
     {
-      "comment_index": 3552,
+      "comment_index": 843,
       "video_id": "7y1xJAVZxXg",
       "comment": "1:54 this can't be real, HIS NAME IS CREEDLO DOLLAR!!! 😂😂😂😂😂😂😂😂😂😂😂",
       "language": "en",
@@ -80,24 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "105.0s - 111.0s",
-          "query": "VISUAL: There's a man sitting at a desk in front of a cityscape backdrop. He's wearing glasses, a suit, and tie. On the left side of the screen, there are logos for Daystar, TBN, and Inspiration Ministries. The man is gesturing with his hands while speaking.AUDIO: A male voice is speaking about Trinity, Inspiration Ministries, and Daystar, mentioning preachers on them having incredible influence. It seems to be some kind of commentary or discussion.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk. Behind him is a cityscape backdrop. There are logos for \"DAYSTAR,\" \"TBN,\" and \"Inspiration Ministries\" displayed on the screen. The man appears to be speaking and gesturing with his hands. The overall setting looks like a news or talk show studio.\n\n**Audio:** The audio consists of a man speaking. There are no other sounds like music or sound effects."
         },
         {
           "segment_index": 2,
           "time_range": "111.0s - 117.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands clasped together. Behind him is a cityscape backdrop. On the left side of the screen, there are logos for Daystar, TBN, and Inspiration Ministries. Then an image of Creflo Dollar appears on the left side of the screen.AUDIO: A male voice is speaking about Creflo Dollar getting attention earlier this year with a bold move. It seems to be some kind of news or commentary segment.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's a man in a suit sitting at a desk, likely in a news studio. Behind him, there's a cityscape backdrop. On the left side of the screen, there are logos for \"DAYSTAR\" and \"TBN\" with some additional text and graphics. The man is gesturing with his hands as he speaks. The overall color scheme is dark with some blue and white elements.\n\nIn terms of audio, the man is speaking, and it seems like he's delivering some kind of news or commentary. There are no other noticeable sound effects or music."
         },
         {
           "segment_index": 3,
           "time_range": "117.0s - 123.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a cityscape background. He seems to be talking or presenting something. In an inset image on the left side, there's another man wearing a black jacket with a logo on it, looking down and touching his face. The inset has \"CREFLO DOLLAR\" written above it.AUDIO: A woman is speaking, saying \"request pastor Creflo Dollar of the World Changers Church International facing harsh criticism.\" It's just her voice, no other sounds like music or sound effects.What do you think about this? Do you have any thoughts on the situation?"
+          "query": "Visual: The video shows a man in a suit and tie, likely a pastor, speaking into a microphone. There are some blurred images in the background, possibly of a cityscape or interior of a building. The text \"CREELO DOLLAR\" and \"PRAY & PAY\" are visible on the screen. The overall color scheme seems to be a mix of warm and cool tones, with a focus on the man in the foreground.\n\nAudio: The main audio is a man speaking, presumably the pastor. There are no other distinct sounds or music in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 361.6100540161133
+      "processing_time": 320.07461380958557
     },
     {
-      "comment_index": 3553,
+      "comment_index": 844,
       "video_id": "7y1xJAVZxXg",
       "comment": "13:06 anyone notice how the world started getting worse very quickly after Jon kept the dollar?",
       "language": "en",
@@ -110,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "777.0s - 783.0s",
-          "query": "VISUAL: A man in glasses and a suit is sitting at a desk with papers on it. He's gesturing while speaking. There's a cityscape background. There's also some text overlaid on the screen.AUDIO: The man is speaking about not robbing God with tithes and offerings, emphasizing not to let a dollar bill stay in your house. It seems like he's quoting someone else's words.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The scene shows a man sitting at a desk with papers and a microphone in front of him. He's wearing glasses and a suit. Behind him is an image of a cityscape at night. There are handwritten notes on paper displayed prominently.\n\n**Audio:** A male voice speaks, saying \"I must warn you not to rob God with your tithes and offerings.\" The tone seems serious or cautionary."
         },
         {
           "segment_index": 2,
           "time_range": "783.0s - 789.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with papers and money on it. He's holding up a one-dollar bill. There's a large piece of paper behind him with some writing on it. The background shows a cityscape at night.AUDIO: Someone is speaking, saying \"Let this $1 bill stay in your house\" and then \"I kept that $1 bill because.\" It ends with applause."
+          "query": "**Visual:** The video shows a man sitting at a desk with papers and a dollar bill in front of him. He's wearing glasses and a suit, gesturing while speaking. Behind him is a cityscape backdrop.\n\n**Audio:** A male voice speaks, saying \"I can't urge you enough: DO NOT LET THIS ONE DOLLAR BILL STAY IN YOUR HOUSE.\" There's applause heard after he finishes speaking."
         },
         {
           "segment_index": 3,
           "time_range": "789.0s - 795.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with papers and money on it. He's holding some cash and talking while gesturing. There's a document behind him with red writing and a date \"MAY 2015\" in the top left corner. The background shows a cityscape at night.AUDIO: There's applause and cheering from an audience throughout the clip. The man speaks, but his words aren't clear enough to transcribe."
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk with papers scattered around him. He's holding a dollar bill and gesturing while speaking. There's a cityscape background behind him.\n\n**Audio:** A male voice is heard speaking, likely delivering some kind of message or joke. The tone seems to be humorous or engaging."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 211.22819471359253
+      "processing_time": 99.63862371444702
     },
     {
-      "comment_index": 3554,
+      "comment_index": 845,
       "video_id": "7y1xJAVZxXg",
       "comment": "10:40 ---- wow. One can't deny these types of receipts. This is GOLD!",
       "language": "en",
@@ -140,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "631.0s - 637.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with his hands gesturing while talking. There's an image of a hand with \"CHURCH\" written on it to his left. In another frame within the video, there's a picture of a man in a suit and tie. The background shows a cityscape at night with lit buildings.AUDIO: Someone is speaking about operating with little oversight and mentions Robert Tilton. There's applause heard during the speech.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a man sitting at a desk in a studio setting with a cityscape background. He is wearing glasses, a suit, and tie. There's an inset image on the left side showing a hand with the word \"CHURCH\" written below it.\n\n**Audio:** A male voice speaks, saying something like \"operate with so little oversight it is amazing what you're able to do look at Robert till.\""
         },
         {
           "segment_index": 2,
           "time_range": "637.0s - 643.0s",
-          "query": "VISUAL: There's a man sitting at a desk with a cityscape background. He's wearing glasses and a suit. On the left side of the screen, there's an inset image of another man in a suit and tie. The main man is gesturing with his hands while speaking.AUDIO: A male voice is speaking about sending donations and some sort of consequence that happens when you do. It seems to be a serious or cautionary tone.If you have any thoughts on this or want to discuss more about it, feel free to share!"
+          "query": "Visually, there's a man in a suit sitting at a desk, gesturing with his hands. In the background, there's a cityscape at night. There's also a picture of another man in a suit in the top left corner. The colors are mostly dark with some blue and yellow tones. The movement is mainly the man's hand gestures and slight head movements."
         },
         {
           "segment_index": 3,
           "time_range": "643.0s - 649.0s",
-          "query": "VISUAL: There's a man sitting at a desk with a cityscape background. He's wearing glasses and a suit. On the left side of the screen, there's an inset image of another man in a suit with a yellow tie. The main guy is talking and gesturing with his hands.AUDIO: A male voice is speaking, saying \"Imagine because and we should probably come clean here we have been involved.\" It seems like he's making some kind of announcement or revelation. What do you think about it?"
+          "query": "**Visual:** The scene shows two men in suits against a backdrop of a cityscape at night. One man is seated behind a desk, gesturing with his hands while speaking. There's also an inset image of another man in a suit on the left side.\n\n**Audio:** A male voice speaks, saying \"because we have been involved.\" The tone seems serious or explanatory."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 249.83354902267456
+      "processing_time": 129.8250663280487
     },
     {
-      "comment_index": 3555,
+      "comment_index": 846,
       "video_id": "7y1xJAVZxXg",
       "comment": "Wanda Joe was fighting demons at 19:08 😂😂😂",
       "language": "en",
@@ -170,84 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "1139.0s - 1145.0s",
-          "query": "VISUAL: There's a man and a woman sitting on chairs in front of a fireplace with candles on it. The woman is wearing a red suit and the man has glasses, a yellow sweater under his suit jacket, and he seems to be talking while gesturing. There are some books stacked behind them and flowers on either side of the fireplace.AUDIO: A male voice is speaking, saying \"number right now one eight hundred because amazingly all of this is\". It sounds like he might be promoting something or giving instructions. What do you think about this? Do you have any other videos for me to analyze?"
+          "query": "Visually, there are two people sitting on a couch. One is wearing a red outfit, and the other is in a suit with a yellow sweater. They seem to be talking or presenting something. There are some decorative items like a vase with flowers and a candle holder on a table in front of them. The background has a light-colored wall with a decorative piece on it. The overall setting looks like a studio or a formal indoor space.\n\nIn terms of audio, there's a man speaking. He seems to be talking about a phone number, mentioning that it's no longer available. The speech is clear and the man's tone suggests he might be explaining or informing about something related to the phone number."
         },
         {
           "segment_index": 2,
           "time_range": "1145.0s - 1151.0s",
-          "query": "VISUAL: There's a man and a woman sitting on chairs in front of a fireplace with candles behind them. The woman is wearing a red blazer and the man has glasses and a suit. They seem to be talking or presenting something. There's also some text at the bottom about a phone number that's no longer available.AUDIO: Someone is speaking, saying \"This is all legal call this toll free number and plant your seed.\" It seems like they're giving instructions or information. What do you think about it?"
+          "query": "**Visual:** The video shows two people sitting on a couch in a well-decorated room. There are books, candles, and plants around. The man is wearing a suit and gesturing with his hands, while the woman is dressed in a red outfit. The background has a fireplace and some decorative items. There's a phone number displayed on the screen.\n\n**Audio:** The audio includes a man speaking, likely explaining something. The speech is clear and seems to be part of a presentation or discussion."
         },
         {
           "segment_index": 3,
           "time_range": "1151.0s - 1157.0s",
-          "query": "VISUAL: There's a man and a woman sitting on chairs in front of a fireplace with candles. The woman is wearing a red suit and the man has glasses, a yellow sweater under his blazer, and a tie. They seem to be talking or presenting something. There's also some text at the bottom saying \"1-800-XXX-XXXX Phone number no longer available.\".AUDIO: You can hear laughter and clapping in the background. Then there's a voice saying \"plant your seed in his mouth plant it all over his face.\" It seems like they're reacting to that voice. What do you think about this?"
+          "query": "**Visual:** The video shows two people sitting on a couch in a studio setting. The woman is wearing a bright pink blazer and the man is in a dark suit with a yellow sweater. There are books, candles, and decorative items around them. The background includes a fireplace mantel with a bowl on it. The text \"1-800-XXXX-XXXX (Phone number no longer available)\" is displayed on the screen.\n\n**Audio:** There is laughter and applause heard in the audio, suggesting a positive and lively atmosphere."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 299.62320470809937
+      "processing_time": 266.7103183269501
     },
     {
-      "comment_index": 3556,
-      "video_id": "7y1xJAVZxXg",
-      "comment": "Watching this on YouTube, so by touching my screen at 18:37 it went 2x playtime and made it so much funnier",
-      "language": "en",
-      "channel_name": "LastWeekTonight",
-      "category": "news",
-      "likes": 4.0,
-      "comment_timestamp": 1117.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "1108.0s - 1114.0s",
-          "query": "VISUAL: There's a man and a woman sitting on chairs in front of a fireplace with candles around it. The man is wearing glasses, a suit, and a yellow sweater. He gestures while talking. The woman is dressed in red and looks at him. There are books stacked to one side and some decorative items like vases on either side of them.AUDIO: A male voice speaks directly to an audience, asking if they have debt or lupus. It seems like he's trying to engage the viewers. There's no background music or other sound effects. Just his speech and the room's natural acoustics.If you want to know more about this kind of analysis or have any other questions, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "1114.0s - 1120.0s",
-          "query": "VISUAL: There's a man and a woman sitting on chairs in a room with a fireplace, candles, and some decorative items like vases and flowers. The man is wearing glasses and a suit, while the woman has short hair and is dressed in red. They both stand up suddenly and start moving their hands around as if they're trying to touch something imaginary.AUDIO: Someone is speaking in an excited tone, saying \"demon plague touch touch your hand to the screen right now and we shall cure it touch your hand to the\". It seems like they're trying to get someone to interact with a screen or something similar.What do you think about that? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "1120.0s - 1126.0s",
-          "query": "VISUAL: There's a man and a woman sitting on a couch. The woman is wearing a red suit and has her hands raised with palms facing forward. The man is in a dark suit with a yellow tie, also with his hands up like hers. They seem to be in some kind of living room setting with a fireplace behind them, candles on it, and some plants around.AUDIO: Someone is speaking angrily, saying \"scream right now curse you curse you demon lupus be devil us no more.\" It's a bit hard to understand all the words clearly though.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 344.7743983268738
-    },
-    {
-      "comment_index": 3557,
-      "video_id": "7y1xJAVZxXg",
-      "comment": "5:33 the irony of the fact that Jesus told a parable of someone who literally hid his money/talents in the ground and was punished by his master🤣these man",
-      "language": "en",
-      "channel_name": "LastWeekTonight",
-      "category": "news",
-      "likes": 4.0,
-      "comment_timestamp": 333.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "324.0s - 330.0s",
-          "query": "VISUAL: There's a man in a suit speaking on stage with two other people behind him. The background has some purple lighting. One person is partially visible to the left, and another is more fully visible to the right.AUDIO: A man is speaking about trying to buy a house and not having enough money. He mentions getting to a phone and putting something in the ground. It seems like he might be talking about planting seeds or something similar.If you have any thoughts or questions about this, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "330.0s - 336.0s",
-          "query": "VISUAL: There's a man in a suit pointing forward on stage with a microphone stand behind him. Another man is sitting at a desk in front of a cityscape backdrop, talking and gesturing with his hands.AUDIO: A man is speaking about selling money in the ground to reap riches, and there's some background noise."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "336.0s - 342.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a cityscape background. In an inset picture on the left side, there's another man pointing forward while standing next to someone else. The main guy is gesturing with his hands as he speaks.AUDIO: A male voice is speaking about investing money, saying it would be better off buried in the ground instead of being invested multiple times over.So, what do you think about that? Do you have any other videos or questions for me?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 205.4147424697876
-    },
-    {
-      "comment_index": 3558,
+      "comment_index": 847,
       "video_id": "7y1xJAVZxXg",
       "comment": "18:45 I touched the screen and something happened…because I'm watching on my ipad",
       "language": "en",
@@ -260,24 +199,54 @@
         {
           "segment_index": 1,
           "time_range": "1116.0s - 1122.0s",
-          "query": "VISUAL: There's a man in a suit with glasses and a yellow tie standing up, gesturing towards the camera. A woman in a red outfit is sitting on a couch behind him. They both seem to be reacting to something off - screen. The room has a fireplace, some paintings, candles, and potted plants.AUDIO: Someone is speaking, saying \"your hand to the screen right now and we shall cure it touch your hand to the screen right now.\" It seems like they're trying to get someone to interact with the screen for some reason.What do you think about that? Any thoughts or questions?"
+          "query": "Visually, there's a group of people in a room with light-colored walls and some decorative elements like paintings and plants. They're dressed formally, one person is gesturing animatedly while others seem to be reacting or listening. There s also furniture like chairs and a table with items on it.\n\nAudio-wise, someone is speaking, likely giving instructions or making an announcement, but without more details about the content, I can't say much else. It seems like they might be trying to get everyone's attention or lead them through something. What do you think could be happening in that scene?"
         },
         {
           "segment_index": 2,
           "time_range": "1122.0s - 1128.0s",
-          "query": "VISUAL: There's a man and a woman sitting on a couch. The man is wearing glasses, a suit with a yellow tie, and the woman has short hair and is dressed in red. They both have their hands raised in front of them, palms facing outward. In the background, there's a fireplace with candles on it, some books stacked up, and two vases with flowers.The room looks like a living room or a studio set, with light blue walls and curtains.On the wall above the fireplace, there's a framed picture.AUDIO: A woman is speaking angrily, saying \"you cursed you demon lupus be devilish no more.\" It seems like she's addressing someone or something named \"lupus.\".If you want to know more about this video or have other questions, feel free to ask!"
+          "query": "**Visual:** The video shows two people in a well-decorated room. One is wearing a red outfit and the other is in a dark suit with a yellow tie. They both have their hands raised, palms facing outward, as if gesturing or reacting to something. The room has light blue walls, a fireplace with candles on the mantel, a painting above it, and some potted plants. There's also a white couch and a table with a vase of flowers.\n\n**Audio:** The audio contains angry speech, with phrases like \"you cursed you demon lupus\" and \"the devil us no more.\" The tone is aggressive and confrontational."
         },
         {
           "segment_index": 3,
           "time_range": "1128.0s - 1134.0s",
-          "query": "VISUAL: There's a man and a woman sitting on a couch. The man is wearing glasses, a suit with a yellow tie, and he has his hands raised like he's explaining something. The woman is in a red outfit. They seem to be in a living room setting with a fireplace behind them, some books stacked nearby, and flowers on either side of the couch.AUDIO: You can hear someone speaking, saying \"even know that you had lupus it's a miracle.\" Then there's applause from an audience. What do you think about this scene?"
+          "query": "**Visual:** The video shows two people in a room. One is wearing a red outfit and the other is in a suit with a yellow tie. They both have their hands raised, palms facing outward. The room has light blue walls, a fireplace with a mantel, and some decorative items like a bowl and flowers. There are also some books on a shelf.\n\n**Audio:** There is applause and cheering in the background, along with a man speaking."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 321.4914219379425
+      "processing_time": 246.88895630836487
     },
     {
-      "comment_index": 3559,
+      "comment_index": 848,
+      "video_id": "7y1xJAVZxXg",
+      "comment": "5:33 the irony of the fact that Jesus told a parable of someone who literally hid his money/talents in the ground and was punished by his master🤣these man",
+      "language": "en",
+      "channel_name": "LastWeekTonight",
+      "category": "news",
+      "likes": 4.0,
+      "comment_timestamp": 333.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "324.0s - 330.0s",
+          "query": "Well, in the visual part, there's a man in a suit standing in front of a microphone. He seems to be speaking or presenting something. There are other people in the background, but they're not really the focus. The background has some blue lighting, which gives it a bit of a stage-like feel. In the audio part, there's a man speaking. He's saying something like \"you try to buy the house that's not enough money anyway you get to that phone and you put that seed in the ground and\". It's a bit hard to understand the full context from just this short clip. What do you think about this? Do you have any other questions?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "330.0s - 336.0s",
+          "query": "Sure! Here's a breakdown of the video segment:.Visually, the video shows a man in a suit and tie sitting at a desk, likely in a studio setting. There are multiple screens around him, one of which displays a cityscape at night. The man appears to be speaking or presenting, gesturing with his hands. The overall color scheme is dark with some bright elements from the screens.Audibly, there is a voice speaking, saying \"watch God work it out.\" The tone seems calm and reflective. There are no other distinct sounds or music in the audio."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "336.0s - 342.0s",
+          "query": "**Visual:** The video shows two men in suits against different backdrops. One man is gesturing with his hands while speaking, set against a cityscape at night. Another smaller inset image shows another man pointing forward.\n\n**Audio:** There's a voiceover discussing investments, specifically mentioning that burying money in the ground would be better than investing it elsewhere."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 289.2855224609375
+    },
+    {
+      "comment_index": 849,
       "video_id": "7y1xJAVZxXg",
       "comment": "15:00 starting to realize that the IRS might have made a stupid funny mistake",
       "language": "en",
@@ -290,24 +259,54 @@
         {
           "segment_index": 1,
           "time_range": "891.0s - 897.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands on it. He seems to be talking or presenting something. In the background, there's another smaller screen showing someone else also in a suit, looking like they're speaking too. The setting looks like a studio with cityscape visuals behind them.AUDIO: You can hear applause and some kind of speech going on. It's not clear who is speaking though."
+          "query": "**Visual:** The video shows two men in suits against different backdrops. One man is seated at a desk with a cityscape behind him, gesturing while speaking. Another inset image shows another man also in a suit, seemingly engaged in conversation or presenting something.\n\n**Audio:** There's applause heard during the first few seconds, followed by a male voice speaking. The speech seems to be part of a broadcast or presentation."
         },
         {
           "segment_index": 2,
           "time_range": "897.0s - 903.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands clasped. In the background, there's a cityscape with tall buildings lit up. On the left side of the screen, there's an inset image of another man in a suit making hand gestures. The words \"Our Lady of Perpetual Exemption\" appear on the screen.AUDIO: A man is speaking, and there's applause from an audience. It seems like he might be talking about something related to the church mentioned in the visual. So, what do you think about this? Any thoughts or questions?"
+          "query": "Visual: The video shows a man in a suit sitting at a desk, gesturing with his hands as he speaks. There's a cityscape in the background. A smaller inset image of another man in a suit appears in the upper left corner. Text on the screen reads \"Our Lady Perpetual Exemption.\"\n\nAudio: The man is speaking, likely delivering a monologue or commentary. There are no other distinct sounds or music."
         },
         {
           "segment_index": 3,
           "time_range": "903.0s - 909.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with his hands gesturing while talking. There's a cityscape background behind him. On the left side of the screen, there's an image with the words \"Our Lady of Perpetual Exemption\" on it. The man seems to be speaking directly to the camera.AUDIO: Someone is speaking, saying \"Was disturbingly easy to make sure we did this correctly. We had this actual tax lawyer.\" It sounds like they're explaining something related to a task or process that was done right. There's also applause heard in the background.If you have any other thoughts about this video or want to discuss more, feel free to let me know!"
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk, gesturing with his hands as he speaks. There's a graphic overlay on the left side of the screen with the text \"Our Lady Perpetual Exemption.\" The background depicts a cityscape at night with illuminated buildings. Another smaller image of a man in a suit is also visible on the left side of the screen.\n\n**Audio:** The audio includes a man speaking, and there's applause heard in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 269.14935660362244
+      "processing_time": 198.10177278518677
     },
     {
-      "comment_index": 3560,
+      "comment_index": 850,
+      "video_id": "7y1xJAVZxXg",
+      "comment": "Watching this on YouTube, so by touching my screen at 18:37 it went 2x playtime and made it so much funnier",
+      "language": "en",
+      "channel_name": "LastWeekTonight",
+      "category": "news",
+      "likes": 4.0,
+      "comment_timestamp": 1117.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1108.0s - 1114.0s",
+          "query": "**Visual:** The video shows two people sitting on a couch in a well-decorated room. The woman is wearing a red suit and the man is in a dark suit with a yellow tie. There's a fireplace in the background with candles on it, and some decorative items like vases and flowers around. The room has light-colored walls and a large framed picture above the fireplace.\n\n**Audio:** The audio includes a man speaking, and then a woman responding. The man seems to be asking a question, and the woman is responding. There's no background music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1114.0s - 1120.0s",
+          "query": "**Visual:** The video shows two people in a room. One is wearing a red outfit and sitting on a couch, while the other is in a suit and standing. There are some decorative elements like a painting on the wall, a vase with flowers, and a fireplace. The room has a cozy, formal feel with soft lighting.\n\n**Audio:** There's a man speaking in the audio. He seems to be talking about touching a screen to cure something, which is a bit strange and humorous."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1120.0s - 1126.0s",
+          "query": "Visually, there are two people in a room. One is wearing a red outfit and the other is in a dark suit with a yellow tie. They both have their hands raised in a gesture that looks like they're trying to stop something. The room has light blue walls, a fireplace with candles on the mantel, a painting above the fireplace, and some plants and vases around. The scene seems to be indoors, possibly in a living room or a similar space. There's also a white couch behind them.Audibly, there's a woman speaking angrily. She uses phrases like \"scream right now\" and \"curse you, curse you, demon, lupus, be devilish, no more.\" It sounds like she's expressing intense frustration or anger."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 329.9936189651489
+    },
+    {
+      "comment_index": 851,
       "video_id": "7y1xJAVZxXg",
       "comment": "4:44 If you even semi-believe Robert Tildan and James Payne Todd Coozte Henry Fernandez and The Copelands are \"Christians\" then you are as messed up as they are... devil criminals.  What a laughable comment.",
       "language": "en",
@@ -320,84 +319,54 @@
         {
           "segment_index": 1,
           "time_range": "275.0s - 281.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands gesturing while talking. Behind him is a cityscape backdrop. On the left side of the screen, there are three men in suits shown in a smaller picture. Then it changes to an image of two hands clasped together with \"CHURCH\" written below it.AUDIO: A male voice is speaking about planes, money, and the prosperity gospel. It seems like he's explaining something related to these topics.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a man sitting at a desk in a studio setting with a cityscape background. There's an inset image on the left side displaying three men dressed formally against a dark backdrop. The main scene has the man gesturing while speaking.\n\n**Audio:** A male voice is heard speaking about churches making lots of money partly because they preach something called \"the prosperity gospel.\""
         },
         {
           "segment_index": 2,
           "time_range": "281.0s - 287.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with his hands gesturing while talking. There's an image on the screen to his left showing two hands clasped together above the word \"CHURCH\". The background has a cityscape with buildings lit up at night.AUDIO: Someone is speaking about wealth being a sign of God's favor and donations leading to more wealth coming back. It seems like they're explaining some religious or spiritual beliefs related to money and generosity.If you want to talk more about this or have other questions, feel free to let me know!"
+          "query": "Visually, there's a man in a suit sitting at a desk with his hands clasped together. Behind him is a cityscape backdrop. On the left side of the screen, there's an image of a hand reaching upwards with the word \"CHURCH\" written below it.\n\nAudio-wise, someone is speaking about wealth being a sign of God's favor and how donations will result in wealth coming back to them."
         },
         {
           "segment_index": 3,
           "time_range": "287.0s - 293.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands gesturing while talking. Behind him is a cityscape backdrop. On the left side of the screen, there's an image of clasped hands with \"CHURCH\" written below it.AUDIO: A male voice is speaking about seed faith and donations being like seeds that grow into something else. It seems to be a discussion or commentary on religious or charitable giving.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk with his hands gesturing while speaking. There's an inset image on the left side displaying a hand reaching upwards towards the word \"CHURCH.\" In the background, there's a cityscape visible through large windows.\n\n**Audio:** A male voice is heard speaking about donations being like seeds that grow into something."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 278.5082447528839
+      "processing_time": 129.87218809127808
     },
     {
-      "comment_index": 3561,
+      "comment_index": 852,
       "video_id": "7y1xJAVZxXg",
-      "comment": "2:22 Pro tip...don't ride whitewater river rapids in a rubber raft with the word 'BURST' printed on the side...and don't go to church where the minister's last name is 'Dollar'.",
+      "comment": "14:08 Ok WOAH",
       "language": "en",
       "channel_name": "LastWeekTonight",
       "category": "news",
       "likes": 3.0,
-      "comment_timestamp": 142.0,
+      "comment_timestamp": 848.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "133.0s - 139.0s",
-          "query": "VISUAL: A man in a suit is speaking on stage with some hand gestures. He seems to be addressing an audience. The background looks like it's from a news broadcast or talk show setting.AUDIO: There's a male voice singing along with music playing in the background. It has a motivational or uplifting tone."
+          "time_range": "839.0s - 845.0s",
+          "query": "Visually, there's a man in a suit sitting at a desk with some books behind him. He seems to be talking directly to the camera. There are also some plants visible near the background.\n\nAudio-wise, it's just his voice speaking clearly without any other distinct sounds or music."
         },
         {
           "segment_index": 2,
-          "time_range": "139.0s - 145.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands gesturing while talking. In the background, there's a cityscape with tall buildings lit up. On the left side of the screen, there's an inset image of another man in a suit looking surprised or shocked.AUDIO: A male voice is speaking, saying \"you cannot stop me from dreaming it's not how you ask for sixty-five million dollars.\" It seems like he's making a point about something related to money and dreams.If you have any other thoughts or questions about this video, feel free to share!"
+          "time_range": "845.0s - 851.0s",
+          "query": "Visual: The video shows two men in suits sitting at desks with cityscape backgrounds behind them. One man is speaking while gesturing with his hands.\n\nAudio: There's a male voice speaking, likely delivering some kind of message or commentary."
         },
         {
           "segment_index": 3,
-          "time_range": "145.0s - 151.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands clasped. In the background, there's a cityscape. On the left side of the screen, there are two inset images. One shows a man in a suit looking shocked or surprised, and the other has a person in a costume that looks like a lion or some kind of animal character pointing at another person in casual clothes.AUDIO: A male voice is speaking, saying \"it's what you scream at your father when he tells you you'll never be a Broadway dancer I can do it dad.\" It seems to be a bit of an exasperated or determined tone.What do you think about the content? Do you have any ideas on why they might be talking like that?"
+          "time_range": "851.0s - 857.0s",
+          "query": "**Visual:** The video shows two men in suits. One is seated at a desk with papers scattered around him, gesturing while speaking. Behind him is a cityscape backdrop. A smaller inset screen displays another man in a suit against a red background.\n\n**Audio:** There's a male voice speaking, saying something about sending money over the last seven months."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 257.7006678581238
+      "processing_time": 138.58756732940674
     },
     {
-      "comment_index": 3562,
-      "video_id": "7y1xJAVZxXg",
-      "comment": "The same thing I always comment on stories like these:  John 20:47,  \"Beware of those who devour widows houses and for show make lengthy prayers...\"",
-      "language": "en",
-      "channel_name": "LastWeekTonight",
-      "category": "news",
-      "likes": 3.0,
-      "comment_timestamp": 1247.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "1238.0s - 1244.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "1244.0s - 1250.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "1250.0s - 1256.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.09193682670593262
-    },
-    {
-      "comment_index": 3563,
+      "comment_index": 853,
       "video_id": "7y1xJAVZxXg",
       "comment": "3:07 Greatest Moment Ever",
       "language": "en",
@@ -410,24 +379,24 @@
         {
           "segment_index": 1,
           "time_range": "178.0s - 184.0s",
-          "query": "VISUAL: A man in a suit is speaking on stage with a choir behind him. There's an acoustic guitar to his left. The audience is seated in front of him.AUDIO: Someone is speaking about buying something worth three times more than another item weeks later, mentioning \"cash\" twice. It seems like they're talking about financial decisions or investments.What do you think about that? Do you have any similar experiences?"
+          "query": "Visually, there's a man speaking on stage with an audience seated behind him. The setting seems formal, like a conference or lecture hall. There s also some text at the bottom that says \"The Instructions You Follow Determine The Future You Create.\"\n\nAudio-wise, it s just the man talking. He appears to be delivering a speech or presentation. No other distinct sounds stand out."
         },
         {
           "segment_index": 2,
           "time_range": "184.0s - 190.0s",
-          "query": "VISUAL: A man in a suit is speaking to an audience. He seems to be giving some kind of talk or presentation. The background shows other people who appear to be listening attentively.AUDIO: There's a voiceover saying \"be over my blessing folks I bought a jet cash I bought a bigger jet.\" It has a somewhat formal tone, like it could be from a news broadcast or a motivational speech.What do you think about the content? Do you have any ideas on what might be happening in that scene?"
+          "query": "**Visual:** The video shows a man in a suit and tie sitting at a desk, likely in a news studio. There's a cityscape backdrop behind him. Another smaller inset shows a different man, also in a suit, possibly in a different location. The main man is speaking and gesturing with his hands. The inset man appears to be reacting to what the main man is saying.\n\n**Audio:** The main audio features a man speaking, likely delivering a news report or commentary. There are also sounds of applause and laughter, suggesting a live audience or reaction from viewers."
         },
         {
           "segment_index": 3,
           "time_range": "190.0s - 196.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a cityscape background. He seems to be talking or presenting something. In an inset on the left side, there's another man in a suit looking serious. The inset changes to show a man in white standing near a pile of money and a private jet.AUDIO: A man is speaking, saying \"Cash, fuck the haters act happy for me that's not a sermon it's the first draft of a Rick Ross.\" It sounds like he might be making a joke or being sarcastic about something related to Rick Ross's music. What do you think about this?"
+          "query": "Visually, there's a man in a suit sitting at a desk, gesturing with his hands. In the background, there are multiple screens showing different scenes, like a cityscape and people. The colors are mostly dark with some bright spots from the screens. The movement is mainly the man's hand gestures and the changing scenes on the screens.Audibly, there's a man speaking, and it sounds like he's delivering a speech or monologue. The speech is clear and the man seems to be the main focus. There are no other distinct sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 240.79798531532288
+      "processing_time": 191.60611367225647
     },
     {
-      "comment_index": 3564,
+      "comment_index": 854,
       "video_id": "7y1xJAVZxXg",
       "comment": "19:56 \"Give us money, we want money\" 😂",
       "language": "en",
@@ -440,54 +409,84 @@
         {
           "segment_index": 1,
           "time_range": "1187.0s - 1193.0s",
-          "query": "VISUAL: A choir dressed in black robes with gold accents is singing enthusiastically behind two seated individuals on a talk show set. The two front figures, one in red and the other in dark attire, are clapping along to the music. There's a small table with flowers beside them. The background has a painting and some plants.AUDIO: Music plays throughout the clip, and there are also some words being spoken during it."
+          "query": "Visually, there's a choir in black robes with gold accents standing in the background. In the foreground, a man in a suit and a woman in a red outfit are seated on a couch, clapping. The setting seems to be a studio with a modern decor, including a coffee table with a vase of flowers. The choir is singing and clapping along with the man and woman. The colors are mainly black, gold, and red, with some green from the flowers. There's a phone number displayed on the screen.\n\nAudibly, there's music playing in the background, and the choir is singing. The man and woman are clapping along."
         },
         {
           "segment_index": 2,
           "time_range": "1193.0s - 1199.0s",
-          "query": "VISUAL: There's a choir dressed in black robes with gold accents singing behind two people sitting on chairs. The setting looks like a studio or stage area with some decorative elements like flowers and a table in front. The choir members seem to be clapping along while singing.AUDIO: You can hear applause and cheering from an audience, followed by someone speaking. It seems like there might be a performance or event happening that has just ended. What do you think about it?"
+          "query": "Visually, there's a group of people in black robes with gold accents, standing in a line. In the foreground, two individuals are seated on chairs, one in a red outfit and the other in a suit. The background has a light-colored wall with some decorative elements like a plant and a framed picture. The scene appears to be indoors, possibly a studio or a formal setting. There's a table in front of the seated individuals with a small object on it, and a white vase with flowers on a side table.\n\nAudibly, there's applause and cheering, suggesting an audience is present. There's also a voice speaking, but the content of the speech isn't clear from this short segment."
         },
         {
           "segment_index": 3,
           "time_range": "1199.0s - 1205.0s",
-          "query": "VISUAL: The video shows a static image with \"LAST WEEK TONIGHT WITH JOHN OLIVER\" written on it along with the HBO logo. There's no movement or change in the scene.AUDIO: You can hear applause in the background during these six seconds. It seems like an audience is applauding. What do you think about this show? Have you watched any episodes before?"
+          "query": "Visually, the video shows a static image with text. The text reads \"LAST WEEK TONIGHT with JOHN OLIVER\" in a bold, sans-serif font. Below the text, there's the HBO logo. The background is a light gray with a subtle gradient. There are no people or objects in motion.\n\nAudio-wise, there's applause heard in the background, suggesting an audience reaction."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 222.4635100364685
+      "processing_time": 335.72639989852905
     },
     {
-      "comment_index": 3565,
+      "comment_index": 855,
       "video_id": "7y1xJAVZxXg",
-      "comment": "BONNIE PARKER  7:20  shouldn't have to beg for money, she  and CLYDE BORROW can just go out and get it!",
+      "comment": "2:22 Pro tip...don't ride whitewater river rapids in a rubber raft with the word 'BURST' printed on the side...and don't go to church where the minister's last name is 'Dollar'.",
       "language": "en",
       "channel_name": "LastWeekTonight",
       "category": "news",
-      "likes": 2.0,
-      "comment_timestamp": 440.0,
+      "likes": 3.0,
+      "comment_timestamp": 142.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "431.0s - 437.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands clasped. He seems to be talking or presenting something. In the background, there's a cityscape with tall buildings lit up. On the left side of the screen, there's an inset showing another person who looks like they're listening intently.AUDIO: The main audio is someone speaking, saying \"At this point I think it's clear that seed faith is the most disgusting seed based concept since.\" It's just one person talking without any other sounds like music or sound effects. So, what do you think about this? Any thoughts on the content?"
+          "time_range": "133.0s - 139.0s",
+          "query": "Visually, there's a man in a suit standing on a stage or set with a blue backdrop. He seems to be speaking or presenting something. The setting looks like it could be for a talk show or news broadcast.\n\nAudio-wise, there's some kind of speech going on, possibly a monologue or dialogue. There might also be background music playing softly. It gives off an energetic vibe overall."
         },
         {
           "segment_index": 2,
-          "time_range": "437.0s - 443.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with his hands clasped. There's an inset image on the left side showing a jar filled with chia seeds. The background has a cityscape with buildings lit up at night.AUDIO: Someone is speaking, saying \"Whatever the f*ck chia seed pudding is.\" Then there's a pause before they continue with \"Bonnie Parker gave thousands of dollars to the.\" It seems like they're talking about something related to Bonnie Parker and chia seed pudding, but it cuts off. What do you think about that?"
+          "time_range": "139.0s - 145.0s",
+          "query": "**Visual:** The video shows a man in a suit and tie sitting at a desk, gesturing with his hands as he speaks. There's a smaller inset image of another man in a suit and tie, also speaking, in the top left corner. The background features a cityscape with buildings and a sunset or sunrise sky. The main man is seated, and the inset image is static.\n\n**Audio:** The main speaker is talking, and the speech is clear. There are no other sounds like music or sound effects."
         },
         {
           "segment_index": 3,
-          "time_range": "443.0s - 449.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands gesturing while talking. On the left side of him is an image of a woman with dark hair wearing a blue top. The background shows a cityscape at night with lit-up buildings.AUDIO: A male voice is speaking about someone going to the Copeland's Church because she believed it was her best chance of beating cancer. He also mentions that one might think it's crazy.So, what do you think about this? Do you have any other thoughts on the video?"
+          "time_range": "145.0s - 151.0s",
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk, likely in a news studio, with a cityscape background. There are inset images of other people, including one with a surprised expression and another in a superhero costume. The man at the desk is gesturing with his hands as he speaks.\n\n**Audio:** The audio features a man speaking, saying, \"It's what you scream at your father when he tells you you'll never be a Broadway dancer. I can do it, Dad.\" The tone suggests determination and defiance."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 258.63850021362305
+      "processing_time": 261.66970109939575
     },
     {
-      "comment_index": 3566,
+      "comment_index": 856,
+      "video_id": "7y1xJAVZxXg",
+      "comment": "The same thing I always comment on stories like these:  John 20:47,  \"Beware of those who devour widows houses and for show make lengthy prayers...\"",
+      "language": "en",
+      "channel_name": "LastWeekTonight",
+      "category": "news",
+      "likes": 3.0,
+      "comment_timestamp": 1247.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1238.0s - 1244.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1244.0s - 1250.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1250.0s - 1256.0s",
+          "query": "Inference error: 'video_fps'"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.06455063819885254
+    },
+    {
+      "comment_index": 857,
       "video_id": "7y1xJAVZxXg",
       "comment": "1:14 Man why didn’t Dr House just do this",
       "language": "en",
@@ -500,111 +499,111 @@
         {
           "segment_index": 1,
           "time_range": "65.0s - 71.0s",
-          "query": "VISUAL: A man is sitting at a desk with his hands gesturing while talking. There's an inset image on the left showing another man holding up a red cloth. The background has a cityscape with buildings lit up at night.AUDIO: Someone is speaking, saying \"He never really went away healing go into those knees arthritis go in the name of Jesus.\" It seems to be a religious or spiritual statement. What do you think about it?"
+          "query": "Visual: The video shows a man in a suit and tie sitting at a desk, gesturing with his hands. There's a cityscape in the background. Another man with white hair and glasses appears in a smaller inset, also gesturing. The overall color scheme is dark with some bright spots from the city lights.\n\nAudio: The man at the desk is speaking, and his voice is clear and confident. There are no other distinct sounds or music in the audio."
         },
         {
           "segment_index": 2,
           "time_range": "71.0s - 77.0s",
-          "query": "VISUAL: A man with white hair is holding up a red cloth. He's wearing a suit and tie. The background has some plants and a sign that says \"Worship Center.\" There's also text on the screen about calling for prayer and requesting something free.AUDIO: Someone is speaking, saying things like \"tumors go in the name of Jesus\" and \"that one calling with lupus you foul devil.\".If you have any other thoughts or questions about it, feel free to share!"
+          "query": "Visually, there's a man in a suit holding a red cloth. He seems to be speaking or chanting, and there's a background with some plants and a red object. The colors are mainly red, green, and white. The movement is mainly the man's hand with the cloth and his mouth as he speaks.\n\nAudio-wise, there's a man speaking, and the speech includes phrases like \"tumors go in the name of Jesus\" and \"that one calling with lupus you foul devil.\" There are no other distinct sounds or music."
         },
         {
           "segment_index": 3,
           "time_range": "77.0s - 83.0s",
-          "query": "VISUAL: There's an older man with white hair wearing a suit and tie. He's holding up a red cloth or piece of fabric in his right hand. The background has some plants and a wooden structure. There's also some text on the screen about calling for prayer and requesting something.AUDIO: Someone is speaking, saying \"you bow to the name of Jesus lupus you bow to the name of Jesus you\". It seems like they're repeating that phrase. What do you think about it?"
+          "query": "Visual: A man with gray hair is speaking while holding up a red cloth. He's wearing a suit and tie. The background has some plants or foliage.\n\nAudio: Someone is saying \"you bow to Jesus\" repeatedly. There doesn't seem to be any other significant sounds besides that speech."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 224.97990441322327
+      "processing_time": 197.00068283081055
     },
     {
-      "comment_index": 3567,
+      "comment_index": 858,
       "video_id": "7y1xJAVZxXg",
-      "comment": "6:14 this guy is more toxic to my credit score than the drinking water at Camp Lejeune. 12:24 Electrical Engineering 101. Polarity matters. And then, the truth sets in, and you become aware that 2 people can play the L.A.R.P. game..Reminds me of an inappropriate children's book whose title is \"Let's Start A Cult.\" The next books that could come after is \"Easy Bake Coven\", and \"Let's Sacrifice Toby\"",
+      "comment": "BONNIE PARKER  7:20  shouldn't have to beg for money, she  and CLYDE BORROW can just go out and get it!",
       "language": "en",
       "channel_name": "LastWeekTonight",
       "category": "news",
-      "likes": 1.0,
-      "comment_timestamp": 374.0,
+      "likes": 2.0,
+      "comment_timestamp": 440.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "365.0s - 371.0s",
-          "query": "VISUAL: A man in a suit is speaking on a TV screen. There's some text at the bottom with contact info. In the background, there seem to be two other people, one male and one female, standing behind him.AUDIO: The man is talking about using faith while sowing money, specifically mentioning $1000 on a credit card. There's also some music playing in the background.If you have any thoughts or questions about this analysis, feel free to share!"
+          "time_range": "431.0s - 437.0s",
+          "query": "**Visual:** The video shows a man sitting at a desk in a studio setting with a cityscape backdrop. He's wearing glasses, a suit, and tie. There's also an inset image of another person on his left side. The main scene has warm lighting.\n\n**Audio:** A male voice is speaking throughout the clip. It seems to be delivering some kind of commentary or news report."
         },
         {
           "segment_index": 2,
-          "time_range": "371.0s - 377.0s",
-          "query": "VISUAL: There's a man with dark hair and a beard wearing a suit and tie. He seems to be speaking or presenting something. The background is mostly blue with some darker areas. There are also two other people visible behind him, one male and one female, but they're not very clear.AUDIO: There's a voiceover saying \"as you use your faith\" twice, followed by music playing in the background. It's just that simple narration and then the music starts. What do you think about it?"
+          "time_range": "437.0s - 443.0s",
+          "query": "Visually, there's a man in a suit sitting at a desk, gesturing with his hands. There are images of a jar and a woman in the background. The setting seems to be a studio with a cityscape backdrop. The colors are mostly muted, with the city lights adding some brightness.\n\nAudio-wise, there's a man speaking, and it sounds like he's talking about something related to chia seed pudding and Bonnie Parker. There are no other distinct sounds or music."
         },
         {
           "segment_index": 3,
-          "time_range": "377.0s - 383.0s",
-          "query": "VISUAL: A man is speaking on a TV screen with a dark background. There's some text at the bottom about sowing a seed gift. In another scene, there's a man in glasses talking in front of a cityscape backdrop. He seems to be gesturing while speaking.AUDIO: Someone is speaking, saying \"God's gonna wipe out your credit card indebtedness.\" It's just that one line of speech without any other sounds like music or sound effects. What do you think about it?"
+          "time_range": "443.0s - 449.0s",
+          "query": "**Visual:** The video shows a man sitting at a desk with a cityscape background behind him. He's wearing glasses, a suit, and tie. There's also an inset image of another woman on his left side.\n\n**Audio:** A male voice is speaking, saying something about someone believing it was their best chance to beat cancer, and then mentioning that one might think \"well, that's crazy.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 254.93160128593445
+      "processing_time": 173.49517011642456
     },
     {
-      "comment_index": 3568,
+      "comment_index": 859,
       "video_id": "7y1xJAVZxXg",
-      "comment": "\"wealth is a sign of God's favor\" Let me tell you a little story about a camel and a pin...  (Matthew 19:23-24)",
+      "comment": "10:10 Religion💩 is a scam started when a con man met a gullible foolish person! All I 😒ever wanted was to have an abundance of wealth and health; and no one found out that I was the richest one in any group of people😔... I own nothing. Thank you, Justin Trudeau, for making that happen... For better financial funding and investment tools for your portfolio, you have #TDBank💳... 🌎💘💰",
       "language": "en",
       "channel_name": "LastWeekTonight",
       "category": "news",
       "likes": 1.0,
-      "comment_timestamp": 1163.0,
+      "comment_timestamp": 610.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "1154.0s - 1160.0s",
-          "query": "VISUAL: There's a man and a woman sitting on chairs in front of a fireplace with candles. The woman is wearing a red blazer and the man has glasses and a suit. They seem to be talking or presenting something. There s also some text at the bottom about a phone number that isn't available.AUDIO: I hear someone shouting \"His mouth playing it all over one duck one keep it together Wonder keep it together.\" It seems like there might be some kind of performance or act going on. What do you think about it?"
+          "time_range": "601.0s - 607.0s",
+          "query": "Visually, there's a man in a suit sitting at a desk. He's gesturing with his hands while talking. In the background, there's a cityscape at night with lit-up buildings. There's also a small inset image in the top left corner showing a rural scene with a house and some trees. The colors are mostly dark, with the city lights providing some contrast. The man seems to be moving his hands as he speaks, possibly emphasizing points.The audio is of a man speaking, likely the same man in the visual part. There are no other sounds like music or sound effects."
         },
         {
           "segment_index": 2,
-          "time_range": "1160.0s - 1166.0s",
-          "query": "VISUAL: There's a man and a woman sitting on chairs in front of a fireplace. The woman is wearing a red blazer over a white top, while the man has on a dark suit with a yellow sweater vest. They're both gesturing with their hands. There are candles on the table between them, and some books stacked to the side. The room looks like it could be a living room or studio set.AUDIO: Someone is speaking, saying \"Grace all this number so your seed and ye shall prosper.\" Then there's a short bit of music playing. What do you think about that?"
+          "time_range": "607.0s - 613.0s",
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk with a cityscape background behind him. There's also an inset image of another person in formal attire on the left side of the screen.\n\n**Audio:** A male voice is speaking, likely delivering some kind of commentary or news report."
         },
         {
           "segment_index": 3,
-          "time_range": "1166.0s - 1172.0s",
-          "query": "VISUAL: There's a man and a woman sitting on chairs facing each other in a room with a fireplace in the background. The woman is wearing a red blazer and the man has glasses and a yellow sweater under his suit jacket. They seem to be having a conversation. There are some candles on a table between them and there are stacks of books and vases with flowers around the room.AUDIO: I can hear music playing throughout the whole time. It seems like it might be a bit of a lively or upbeat tune. There's also some kind of singing or chanting that starts at about 1 second into the clip and continues until around 5 seconds. It's hard to make out the exact words though.What do you think about the scene? Does it remind you of anything?"
+          "time_range": "613.0s - 619.0s",
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk, gesturing with his hands as he speaks. Behind him, there's a cityscape at night with illuminated buildings. On the left side of the screen, there's a graphic with a hand and the word \"CHURCH.\" The background also includes a webpage with text and images, including a section labeled \"GAO.\"\n\n**Audio:** The man is speaking, likely delivering a news report or commentary. The speech is clear and professional."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 306.1909501552582
+      "processing_time": 203.26022696495056
     },
     {
-      "comment_index": 3569,
+      "comment_index": 860,
       "video_id": "7y1xJAVZxXg",
-      "comment": "18:36  Ah, what the hell puts hand on screen",
+      "comment": "To paraphrase Saint Luke (3:11)      \"He that has two jets, give one to him that has none\"",
       "language": "en",
       "channel_name": "LastWeekTonight",
       "category": "news",
       "likes": 1.0,
-      "comment_timestamp": 1116.0,
+      "comment_timestamp": 191.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "1107.0s - 1113.0s",
-          "query": "VISUAL: There's a man and a woman sitting on chairs in front of a fireplace with candles around it. The man is wearing glasses, a suit jacket over a yellow sweater, and a tie. He seems to be talking animatedly while gesturing with his hands. The woman is dressed in a red outfit and looks like she might be listening or reacting to him. There are some books stacked up behind them and a decorative bowl on the mantelpiece.AUDIO: A male voice is speaking, saying \"Let me talk to the brothers and sisters at home. Do you have debt?\". It sounds like he's addressing an audience, possibly on a TV show or something similar.What do you think about the scene? Any thoughts or questions?"
+          "time_range": "182.0s - 188.0s",
+          "query": "Visual: The video shows a man in a suit and tie speaking in front of a crowd. The background is dark, suggesting an indoor setting, possibly a conference or a formal event. The man appears to be addressing the audience, gesturing with his hands as he speaks. There are other people in the background, also dressed formally, indicating a professional or formal gathering.\n\nAudio: The audio includes a man speaking, likely the same man seen in the visual part. His speech seems to be the main focus, and there are no other distinct sounds or music in the background. The speech is clear and audible, and the man's tone suggests he might be delivering a speech or presentation."
         },
         {
           "segment_index": 2,
-          "time_range": "1113.0s - 1119.0s",
-          "query": "VISUAL: There's a man and a woman sitting on chairs in a room with light blue walls. The man is wearing glasses, a suit, and a yellow tie. He stands up and starts to move his hands around. The woman is dressed in a red suit and looks at him. Behind them, there's a fireplace with some candles on it and a painting above it. There are also some books stacked on one side and vases on another. The scene has a formal yet somewhat humorous feel.AUDIO: A male voice speaks in an excited tone. He says something about having lupus or a demon plague and then tells someone to touch their hand to the screen for a cure. It seems like he's trying to be dramatic or comedic. What do you think about this kind of humor?"
+          "time_range": "188.0s - 194.0s",
+          "query": "Visually, there's a man in a suit sitting at a desk, gesturing with his hands. In the background, there's a cityscape with buildings and lights. There's also a smaller inset image of another man in a suit, also gesturing. The colors are mostly dark with some bright spots from the city lights. The movement is mainly the gestures of the two men.The audio contains speech, likely from the man at the desk, and there are some sound effects, possibly laughter or applause."
         },
         {
           "segment_index": 3,
-          "time_range": "1119.0s - 1125.0s",
-          "query": "VISUAL: There's a man and a woman standing together. The woman is wearing a red suit and has her hands raised with fingers spread out. The man is in a dark suit with a yellow tie, also with his hands up like hers. They seem to be in some kind of room or studio setting. There are vases with flowers on either side of them, a fireplace behind them with candles on it, and a painting above the fireplace.AUDIO: Someone is speaking, saying \"Touch your hand to the screen right now\" followed by \"Curse you, curse you demon lupus, be devil us.\" It seems like they're trying to get someone to touch the screen and then cursing at something called \"demon lupus.\".If you have any other thoughts about this video or want to discuss more, feel free to let me know!"
+          "time_range": "194.0s - 200.0s",
+          "query": "Visually, there's a man in a suit sitting at a desk, gesturing with his hands. In the background, there's a cityscape with buildings and a plane. There are also some smaller images on the screen, like a man in a white shirt and another with a beard. The colors are mostly muted, with the city lights adding some brightness. The movement is mainly the man's gestures and the plane in the background.Audibly, there's a man speaking, and there are some laughter and applause sounds. The speech seems to be about a Rick Ross single, and there are some sound effects like applause."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 384.1630172729492
+      "processing_time": 260.97441601753235
     }
   ]
 }

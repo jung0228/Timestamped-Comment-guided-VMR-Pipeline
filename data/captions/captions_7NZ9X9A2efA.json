@@ -1,13 +1,12 @@
 {
   "video_id": "7NZ9X9A2efA",
   "total_comments": 20,
-  "successful_comments": 20,
-  "failed_comments": 0,
+  "successful_comments": 19,
+  "failed_comments": 1,
   "success_rate": "100.0%",
-  "processing_time": 4244.929822921753,
   "comments": [
     {
-      "comment_index": 3490,
+      "comment_index": 761,
       "video_id": "7NZ9X9A2efA",
       "comment": "6:18 that was one fast chicken",
       "language": "en",
@@ -20,24 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "369.0s - 375.0s",
-          "query": "VISUAL: A man is driving a car on an airport runway. He's wearing a helmet and a racing suit. There's another vehicle visible in front of him. The scene has a Top Gear.com watermark.AUDIO: Someone says \"as drag races go you will agree this is quite a good one\" with some background noise. It seems like they're commenting on the race. So, what do you think about it?"
+          "query": "Visual: The video shows a man driving a car. He's wearing a helmet and a dark jacket. The car's interior is visible, with a steering wheel and dashboard. The background seems to be a road or a track, and there are some trees and possibly a building in the distance. The colors are somewhat muted, giving it a slightly overcast or vintage look. The man is focused on driving, and there's a sense of speed as the car moves forward.\n\nAudio: There's a voiceover saying \"as drag races go you will agree this is quite a good one.\" The voice is clear and confident. There's also some background music that adds to the excitement of the scene."
         },
         {
           "segment_index": 2,
           "time_range": "375.0s - 381.0s",
-          "query": "VISUAL: There's a car driving on a road with grassy areas around it. Then there's an aerial view of a fighter jet taking off from a runway. The jet is black and white. There are also some small animals like rabbits near the runway.AUDIO: There's music playing throughout the whole clip. It seems to be instrumental music without any lyrics. What do you think about this video? Do you have any other videos you want me to analyze?"
+          "query": "Visual: A fighter jet is taking off from an airstrip. There's also a car parked nearby on the grass. The scene has some greenery around.The audio: There s background music playing throughout the clip."
         },
         {
           "segment_index": 3,
           "time_range": "381.0s - 387.0s",
-          "query": "VISUAL: A person wearing a helmet is seen inside an aircraft cockpit. Then there's a view of a sleek car with a jet-like design on its side. The car has a license plate \"HP-EB-520\". There's also a man in a high - visibility vest waving a flag while standing on a runway. The background shows a cloudy sky.AUDIO: There's music playing throughout the entire 6 seconds of the video. No specific speech or sound effects are heard other than the music. So, that's it for the analysis. What do you think about this video? Do you have any other questions related to it?"
+          "query": "Visually, there's a car driving on a road. The car seems to be moving at a decent speed. There's also a person in a yellow vest, possibly a worker or a security person, standing near the road. The background looks like a typical roadside scene with some greenery and a bit of sky visible. The colors are mostly muted, with the car being a light color and the vest being bright yellow for contrast. The movement is mainly the car driving and the person standing still or moving slightly.Audibly, there's music playing in the background. It's a bit hard to pinpoint the exact type of music, but it seems to be some kind of upbeat or energetic music. There are also some sound effects, like a whooshing sound, which might be related to the car's movement or some action happening in the scene."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 259.54197454452515
+      "processing_time": 267.5750107765198
     },
     {
-      "comment_index": 3491,
+      "comment_index": 762,
       "video_id": "7NZ9X9A2efA",
       "comment": "Rabbit on 6:19 is faster than a  Bugatti Veyron  and Euro Fighter",
       "language": "en",
@@ -50,24 +49,24 @@
         {
           "segment_index": 1,
           "time_range": "370.0s - 376.0s",
-          "query": "VISUAL: A man is driving a car. He's wearing a helmet and a black racing suit with white stripes. The steering wheel has a logo on it. The car seems to be moving at high speed. There's a TopGear.com watermark in the top left corner.AUDIO: There's a male voice speaking. It starts with \"places go\" and then says \"you will agree this is quite a good one.\" After that, there's some music playing in the background.What do you think about the video? Do you have any other questions?"
+          "query": "Visually, there's a person in a car, wearing a helmet and a dark outfit. They seem to be driving, with their hands on the steering wheel. The car's interior is visible, and the person looks focused. The background is a bit blurry, suggesting they're moving at a high speed. The colors are mostly muted, with the car's interior being a dark shade and the outside a grayish tone. There's a \"TopGear.com\" watermark in the top left corner.Audibly, there's a man speaking, likely the driver. He seems to be talking about something, but it's not clear what exactly. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 2,
           "time_range": "376.0s - 382.0s",
-          "query": "VISUAL: There's a fighter jet on a runway, then it takes off. A car is also present on the runway. The background has some grassy areas and buildings. The colors are mostly grayish from the runway and the jet, with some green from the grass.AUDIO: There's music playing throughout the video. No specific speech or sound effects are heard.If you have any other questions about the video or want to discuss something else, feel free to let me know!"
+          "query": "Visual: The video shows an aerial view of two fighter jets on a runway. There's also a car driving nearby. The scene has green grass around the runway and some buildings in the background. The overall color tone seems muted, giving it a somewhat somber or serious feel.\n\nAudio: The main audio is music playing throughout the entire clip. There are no distinct speech or sound effects heard."
         },
         {
           "segment_index": 3,
           "time_range": "382.0s - 388.0s",
-          "query": "VISUAL: There's an airplane on a runway at first, then it takes off. You can see its wheels leaving the ground. After that, there's a man in a yellow vest running across a field with a rabbit nearby. The background is mostly blurred, showing some greenery.AUDIO: There's music playing throughout the whole clip. No specific speech or sound effects are heard. It's just the music. So, what do you think about this video? Any thoughts?"
+          "query": "Visually, there's a car driving on a road. The car is moving forward. There's also a person in a high-visibility vest standing in a field, holding a flag. The flag has the Union Jack design. The background seems to be an open area with some greenery. The colors are mostly muted, with the car being a light color and the vest being bright yellow. The movement is mainly the car driving and the person standing still with the flag.The audio has a sound effect that resembles an explosion or a loud bang. There's also some background noise, possibly from the car or other vehicles."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 242.70553636550903
+      "processing_time": 242.50061559677124
     },
     {
-      "comment_index": 3492,
+      "comment_index": 763,
       "video_id": "7NZ9X9A2efA",
       "comment": "2:58 pause for a legendary moment",
       "language": "en",
@@ -80,24 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "169.0s - 175.0s",
-          "query": "VISUAL: The video shows a close - up view of a car's front end at night. You can see the headlights on, which are bright blue. There's also some kind of light reflection or glare in the background.AUDIO: There is a man speaking over the sound of a car engine revving. It seems like he might be talking about cars or racing. What do you think about it? Do you have any other thoughts on the video?"
+          "query": "Visually, it's a dark scene with a car, likely a high - end one, shown in low - light. The car's headlights are on, and there's a sense of speed and motion. The background is mostly dark, with some blurred elements suggesting movement.Audibly, there's a voiceover saying \"faced with the clear and present danger of the Eurofighter the Bugatti Veyron really is the car.\" The tone seems serious and somewhat urgent. There's also background music that adds to the dramatic feel."
         },
         {
           "segment_index": 2,
           "time_range": "175.0s - 181.0s",
-          "query": "VISUAL: There's a black car parked on a platform in a dark setting with some blue lighting. Next to it is a large aircraft, also lit up. The scene has a futuristic feel.AUDIO: There's a man speaking over background music. It seems like he might be talking about something related to the car or the aircraft. What do you think about this kind of setting?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.69 GiB. GPU 1 has a total capacity of 23.56 GiB of which 1.52 GiB is free. Including non-PyTorch memory, this process has 22.03 GiB memory in use. Of the allocated memory 17.11 GiB is allocated by PyTorch, and 4.60 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 3,
           "time_range": "181.0s - 187.0s",
-          "query": "VISUAL: There's an airplane on a runway at night. A car is parked nearby with its brake lights on. The lighting is dim, mostly blue - colored.The AUDIO: Someone is speaking, but it's not clear who or what they're saying. There's also some background music playing.What do you think about that? Do you have any other questions related to the video?"
+          "query": "Visually, there's a car in the foreground, and an airplane in the background. The car seems to be in motion, and the airplane is also moving, possibly flying. The lighting is dark, with some blue tones dominating the scene. There's a sense of speed and motion.\n\nAudio - wise, there's a voiceover that starts with \"TopGear.com\" and then continues with some speech that's a bit hard to make out clearly. There's also some background music playing, which adds to the overall atmosphere of the video."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 190.94989252090454
+      "processing_time": 277.72632336616516
     },
     {
-      "comment_index": 3493,
+      "comment_index": 764,
       "video_id": "7NZ9X9A2efA",
       "comment": "6:20 thug life rabbit",
       "language": "en",
@@ -110,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "371.0s - 377.0s",
-          "query": "VISUAL: A man is sitting inside a car, wearing a helmet and a black jacket with white stripes on the sleeves. He's holding the steering wheel with both hands. The car has a sleek design, and there's a logo visible on the door. Outside the car window, we can see some green grass and a small black car parked nearby.AUDIO: There's a male voice speaking, saying \"this is quite a good one.\" Then there's background music playing."
+          "query": "Visual: A person is sitting inside a car, wearing a helmet and some protective gear. They seem to be adjusting something on their lap or dashboard area. The interior of the car looks modern with dark upholstery.\n\nAudio: There's background music playing throughout the clip. No distinct speech or other sound effects can be heard clearly."
         },
         {
           "segment_index": 2,
           "time_range": "377.0s - 383.0s",
-          "query": "VISUAL: There's a car driving on a road with grassy areas around it. Then there's a fighter jet taking off from a runway. You can also see some rabbits near the runway.AUDIO: There's music playing throughout the whole time. It doesn't seem to be any specific speech or sound effects.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Visual: A fighter jet is taking off from an airfield runway. There's also a sports car parked nearby on the tarmac. The scene has some greenery around it. The sky looks overcast or cloudy. Audio: Music is playing throughout the clip."
         },
         {
           "segment_index": 3,
           "time_range": "383.0s - 389.0s",
-          "query": "VISUAL: There's an airplane on a runway with its landing gear down. It has a license plate \"WF-EB520\". Then it takes off, leaving behind a trail of smoke. The background is somewhat blurry, suggesting motion.AUDIO: There's some kind of music playing throughout the video. No specific speech or dialogue is heard.If you have any other questions about the video or want to discuss something else, feel free to let me know!"
+          "query": "Visually, there's a car driving on a road. The car is light-colored, maybe silver or white. It seems to be moving at a decent speed. The background is a bit blurry, suggesting motion. There's also a person in a yellow vest, possibly a worker or a security person, standing near the car. The scene looks like it could be in a rural or semi-rural area, with some greenery and a fence in the background. The lighting suggests it might be daytime, but the sky looks a bit overcast.Audibly, there's a sound effect that resembles an explosion or a loud bang. It's a sudden, intense noise that stands out against the relatively calm background of the car and the person."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 228.32499647140503
+      "processing_time": 219.38501715660095
     },
     {
-      "comment_index": 3494,
+      "comment_index": 765,
       "video_id": "7NZ9X9A2efA",
       "comment": "8:02  When you and your little brother run to the kitchen to get the last slice of pizza  edit: thank you for 100 likes, this is the most i’ve ever gotten🙂 Edit #2 THANK YOU FOR 230 LIKES  Plz subscribe  And watch my videos",
       "language": "en",
@@ -140,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "473.0s - 479.0s",
-          "query": "VISUAL: A car is driving on a runway. There's an aerial view showing the runway and surrounding area with fields and some buildings. The car appears to be moving at high speed.AUDIO: There's a man speaking over the sound of a car engine revving. It seems like he might be commenting on the car's performance or something related to it.So, what do you think about that? Any thoughts or questions?"
+          "query": "Visual: The video shows a car driving on a road with some buildings visible in the background. There's also an aerial view of a runway or airfield.\n\nAudio: You can hear engine sounds from the car and possibly some commentary or narration related to it."
         },
         {
           "segment_index": 2,
           "time_range": "479.0s - 485.0s",
-          "query": "VISUAL: A man is driving a car on a road. He's wearing a helmet and a dark jacket. The car seems to be moving at high speed. There's an airplane flying low over a field with some trees in the background.AUDIO: There's a man speaking, saying \"Car! See the plane!\" and then there's shouting. The overall tone suggests excitement or urgency.What do you think about this scene? Do you have any other videos you want me to analyze?"
+          "query": "Sure! So, for the visual part:.There's someone driving a car really fast on a track. You can see their hands gripping the steering wheel tightly. The background is mostly blurred because of how fast they're going, with some greenery visible outside the car window.For the audio part:.You hear the engine roaring loudly, which makes sense given how fast the car is moving. There s also some shouting from the driver, probably cheering themselves on or communicating with others.Anything else you want to know about it?"
         },
         {
           "segment_index": 3,
           "time_range": "485.0s - 491.0s",
-          "query": "VISUAL: There's an airplane flying low over a runway. A person in a yellow vest is on the ground near the runway. The sky has some clouds. There's also a jet engine sound effect playing.AUDIO: You can hear a jet engine sound throughout the clip. There's no speech or other distinct sounds. So, that's it for the analysis. What do you think about the video?"
+          "query": "**Visual:** The video shows a person wearing a high-visibility jacket standing on an airstrip under a cloudy sky. There's also a red traffic cone visible near the edge of the runway.\n\n**Audio:** You can hear shouting and the sound of an aircraft taking off or landing nearby."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 214.73178791999817
+      "processing_time": 127.99439859390259
     },
     {
-      "comment_index": 3495,
+      "comment_index": 766,
       "video_id": "7NZ9X9A2efA",
       "comment": "race starts at 6:25",
       "language": "en",
@@ -170,24 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "376.0s - 382.0s",
-          "query": "VISUAL: There's a fighter jet on a runway, then it takes off. A car is also present on the runway. The background has some grassy areas and buildings. The colors are mostly grayish from the runway and the jet, with some green from the grass.AUDIO: There's music playing throughout the video. No specific speech or sound effects are heard.If you have any other questions about the video or want to discuss something else, feel free to let me know!"
+          "query": "Visual: The video shows a fighter jet taking off from an airfield runway. There's also a car driving on the same runway near the jet. The background includes some greenery and buildings.\n\nAudio: Music is playing throughout the entire clip."
         },
         {
           "segment_index": 2,
           "time_range": "382.0s - 388.0s",
-          "query": "VISUAL: There's an airplane on a runway at first, then it takes off. You can see its wheels leaving the ground. After that, there's a man in a yellow vest running across a field with a rabbit nearby. The background is mostly blurred, showing some greenery.AUDIO: There's music playing throughout the whole clip. No specific speech or sound effects are heard. It's just the music. So, what do you think about this video? Any thoughts?"
+          "query": "Visual: The video shows a car driving on a road with some greenery around. There's also an airplane flying overhead. A person is seen running across a field holding a flag. The scene has a mix of urban and rural elements.\n\nAudio: There s no distinct speech or music. Instead, there are sound effects like the car engine revving up and the airplane taking off. It gives a sense of movement and action."
         },
         {
           "segment_index": 3,
           "time_range": "388.0s - 394.0s",
-          "query": "VISUAL: A jet is taking off on a runway. It's moving forward with flames coming out from its engines. There's also a car driving alongside it. The scene seems to be outdoors during daytime.AUDIO: You can hear an engine revving up and then accelerating. There's also some shouting or speaking in the background."
+          "query": "Visually, there's a car, likely a sports car, shown from different angles. It has a sleek design, with a shiny exterior. The car seems to be in motion, as indicated by the blurred background. There's also a person visible, possibly the driver, but they're not the main focus. The colors are mostly muted, with the car being the brightest element. The movement is fast, suggesting the car is driving at a high speed.\n\nAudio-wise, there's a sound effect that resembles an explosion or a loud bang. It's a short, intense noise that stands out. There's also a male voice speaking, but the words are unclear due to the loudness of the sound effect."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 193.95813393592834
+      "processing_time": 215.4701747894287
     },
     {
-      "comment_index": 3496,
+      "comment_index": 767,
       "video_id": "7NZ9X9A2efA",
       "comment": "The video starts at 6:07 .. Enjoy..",
       "language": "en",
@@ -200,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "358.0s - 364.0s",
-          "query": "VISUAL: There's a black sports car on an airstrip with a fighter jet in the background. The sky is cloudy. Then it cuts to inside the car where we see someone driving, wearing a helmet and racing suit. The driver grips the steering wheel tightly.AUDIO: Someone says \"full beans on the throttle\" twice, followed by \"this is it.\" There s also some music playing in the background. What do you think about that scene?"
+          "query": "Visual: The video shows a car driving on a runway with a fighter jet taking off in the background. There's also a person inside the car wearing a helmet and holding the steering wheel tightly.\n\nAudio: You can hear an excited voice saying \"Full beans on the throttle! This is it!\" along with some background music."
         },
         {
           "segment_index": 2,
           "time_range": "364.0s - 370.0s",
-          "query": "VISUAL: A black sports car is driving on a runway. There's a fighter jet taking off in the background. The scene has some trees and grass around the runway. The car has its brake lights on.AUDIO: There's a countdown from \"8\" to \"20 seconds\" with some background noise, like an engine or wind. Then there's a short clip of music playing. Oh, and there's also a male voice speaking briefly. It seems like it could be related to the countdown or something about the jet.What do you think about that? Any thoughts or questions?"
+          "query": "Visually, there's a black sports car on a track. It's moving at a high speed, and you can see the number \"6\" on the side of the track. The background has some greenery and a fence. The car is the main focus, and it's in motion throughout the clip. There are also some people visible in the background, but they're not the main focus. The colors are mostly muted, with the black car standing out against the lighter background. The movement is fast and dynamic, with the car speeding along the track.Audibly, there's a sound effect that starts around 1.92 seconds into the clip. It's a whooshing sound, like something is moving quickly past. There's also a male voice speaking, but the words are unclear. The overall sound is a bit muffled, like it's coming from a distance."
         },
         {
           "segment_index": 3,
           "time_range": "370.0s - 376.0s",
-          "query": "VISUAL: A man is driving a car. He's wearing a helmet and a black racing suit with white stripes. The steering wheel has a logo on it. The car seems to be moving at high speed. There's a TopGear.com watermark in the top left corner.AUDIO: There's a male voice speaking. It starts with \"places go\" and then says \"you will agree this is quite a good one.\" After that, there's some music playing in the background.What do you think about the video? Do you have any other questions?"
+          "query": "Visually, there's a person in a car, wearing a helmet and a dark outfit. They seem to be driving, with their hands on the steering wheel. The car's interior is visible, and the person looks focused. The background is a bit blurry, suggesting they're moving at a high speed. The colors are mostly muted, with the car's interior being a dark shade and the outside a grayish tone. There's a \"TopGear.com\" watermark in the top left corner.Audibly, there's a man speaking, likely the driver. He seems to be talking about something, but it's not clear what exactly. There are no other distinct sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 255.31767868995667
+      "processing_time": 193.69240951538086
     },
     {
-      "comment_index": 3497,
+      "comment_index": 768,
       "video_id": "7NZ9X9A2efA",
       "comment": "6:52 holy smokes that shot was freaking cool",
       "language": "en",
@@ -230,84 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "403.0s - 409.0s",
-          "query": "VISUAL: A fighter jet takes off from an airfield. There's also a car on the ground near the jet. The scene is outdoors with green grass and some buildings or hangars in the background.AUDIO: There's a man speaking, and there are sound effects that seem to be related to the takeoff of the jet. It could be engine noises or other mechanical sounds.If you have any thoughts about this analysis or want to discuss more about it, feel free to let me know!"
+          "query": "Visually, there's a person in a helmet, likely a pilot, sitting in a cockpit. Outside, there's a car driving on a road, and an airplane flying in the sky. The colors are mostly muted, with the green of the grass and the gray of the road and sky being prominent. The movement includes the car driving forward and the airplane flying overhead.Audibly, there's a man speaking, probably the pilot, and there are some sound effects, like the roar of the airplane engine. There's also ambient noise, like the wind and the road sounds."
         },
         {
           "segment_index": 2,
           "time_range": "409.0s - 415.0s",
-          "query": "VISUAL: A fighter jet takes off from an airfield. It's black with some markings on it. The jet ascends quickly into the sky. There are trees and fields around the airfield.AUDIO: There's a man speaking over the roar of the jet engine. You can also hear the wind rushing past."
+          "query": "Visual: The video shows a jet taking off from a runway. The jet is dark-colored and is seen moving quickly along the runway before lifting off. The background includes a grassy area and some buildings in the distance. The sky is clear and blue. There are also some people visible on the ground, likely airport staff or spectators. The scene is dynamic, with the jet's movement creating a sense of speed and excitement. Audio: There is a sound effect of an engine revving up, which is likely the sound of the jet's engine as it prepares for takeoff. There is also a male voice speaking, but the content of the speech is not clear from this short segment."
         },
         {
           "segment_index": 3,
           "time_range": "415.0s - 421.0s",
-          "query": "VISUAL: The video shows a speedometer with numbers from 0 to 1000, the needle pointing around 945. Then it cuts to a man driving a car, wearing a helmet and a black racing suit. He's gripping the steering wheel tightly.AUDIO: There is some kind of speech or narration happening throughout the video, but I can't make out the exact words. It seems like there might be background noise too.If you have any other questions about the video or want me to analyze more details, feel free to ask!"
+          "query": "Visual: The video shows a speedometer with numbers ranging from 0 to 1000, and a hand is seen turning the knob. There's also a person wearing a helmet and goggles, possibly in a cockpit or similar setting. The background seems to be a bit blurry, suggesting motion or a focus on the speedometer and the person.\n\nAudio: There's a sound effect that resembles a car engine revving up, and then a male voice speaks, saying \"so I'm fighting for the Germans in a battle against the.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 190.24414730072021
+      "processing_time": 296.6318302154541
     },
     {
-      "comment_index": 3498,
-      "video_id": "7NZ9X9A2efA",
-      "comment": "8:02 Sorry Bugatti .. but don't mess with air creatures",
-      "language": "en",
-      "channel_name": "TopGear",
-      "category": "entertainment",
-      "likes": 85.0,
-      "comment_timestamp": 482.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "473.0s - 479.0s",
-          "query": "VISUAL: A car is driving on a runway. There's an aerial view showing the runway and surrounding area with fields and some buildings. The car appears to be moving at high speed.AUDIO: There's a man speaking over the sound of a car engine revving. It seems like he might be commenting on the car's performance or something related to it.So, what do you think about that? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "479.0s - 485.0s",
-          "query": "VISUAL: A man is driving a car on a road. He's wearing a helmet and a dark jacket. The car seems to be moving at high speed. There's an airplane flying low over a field with some trees in the background.AUDIO: There's a man speaking, saying \"Car! See the plane!\" and then there's shouting. The overall tone suggests excitement or urgency.What do you think about this scene? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "485.0s - 491.0s",
-          "query": "VISUAL: There's an airplane flying low over a runway. A person in a yellow vest is on the ground near the runway. The sky has some clouds. There's also a jet engine sound effect playing.AUDIO: You can hear a jet engine sound throughout the clip. There's no speech or other distinct sounds. So, that's it for the analysis. What do you think about the video?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 203.89384412765503
-    },
-    {
-      "comment_index": 3499,
-      "video_id": "7NZ9X9A2efA",
-      "comment": "6:18 bunny: hold on wait let me get where i can see 6:24 okay im good now",
-      "language": "en",
-      "channel_name": "TopGear",
-      "category": "entertainment",
-      "likes": 80.0,
-      "comment_timestamp": 378.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "369.0s - 375.0s",
-          "query": "VISUAL: A man is driving a car on an airport runway. He's wearing a helmet and a racing suit. There's another vehicle visible in front of him. The scene has a Top Gear.com watermark.AUDIO: Someone says \"as drag races go you will agree this is quite a good one\" with some background noise. It seems like they're commenting on the race. So, what do you think about it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "375.0s - 381.0s",
-          "query": "VISUAL: There's a car driving on a road with grassy areas around it. Then there's an aerial view of a fighter jet taking off from a runway. The jet is black and white. There are also some small animals like rabbits near the runway.AUDIO: There's music playing throughout the whole clip. It seems to be instrumental music without any lyrics. What do you think about this video? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "381.0s - 387.0s",
-          "query": "VISUAL: A person wearing a helmet is seen inside an aircraft cockpit. Then there's a view of a sleek car with a jet-like design on its side. The car has a license plate \"HP-EB-520\". There's also a man in a high - visibility vest waving a flag while standing on a runway. The background shows a cloudy sky.AUDIO: There's music playing throughout the entire 6 seconds of the video. No specific speech or sound effects are heard other than the music. So, that's it for the analysis. What do you think about this video? Do you have any other questions related to it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 240.55577063560486
-    },
-    {
-      "comment_index": 3500,
+      "comment_index": 769,
       "video_id": "7NZ9X9A2efA",
       "comment": "If my mom tells me to go home at 12:30 and it's already 12:28",
       "language": "en",
@@ -320,24 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "741.0s - 747.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 2,
           "time_range": "747.0s - 753.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 3,
           "time_range": "753.0s - 759.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.09188055992126465
+      "processing_time": 0.004986286163330078
     },
     {
-      "comment_index": 3501,
+      "comment_index": 770,
       "video_id": "7NZ9X9A2efA",
       "comment": "Since the day this episode aired, the line at 3:03 , STILL, 10 years later, pops in my head randomly and makes me chuckle...  \"Maybe they're gonna tie them together or something..\" - Richard Hammond",
       "language": "en",
@@ -350,24 +289,24 @@
         {
           "segment_index": 1,
           "time_range": "174.0s - 180.0s",
-          "query": "VISUAL: The video shows a black car with its rear lights on, positioned next to a jet-like object that's also lit up. There's some kind of structure or platform beneath them. The lighting is dark overall, with blue and white lights highlighting the car and jet.AUDIO: There's a man speaking over music playing in the background. It seems like he might be talking about the car and the jet. What do you think about it?"
+          "query": "Visually, it seems like a dark, possibly nighttime scene. There's a car, likely a sports car given its sleek design, with its headlights on. The car is positioned in a way that suggests it might be in a showroom or a similar setting. The lighting is low, with some blueish tones, creating a dramatic effect. There are also some indistinct shapes in the background that could be other cars or equipment related to the car.\n\nAudio - There's a voiceover, but the words are unclear. It might be some kind of promotional or review commentary about the car. The tone seems to be enthusiastic, but the exact content is hard to make out."
         },
         {
           "segment_index": 2,
           "time_range": "180.0s - 186.0s",
-          "query": "VISUAL: There's a black car and a jet plane on a dark runway. The car is positioned below the jet. The lighting is dim with blue tones. The scene has a sense of anticipation.AUDIO: A man speaks over some background music. His words hint at an uncertain outcome related to Bugatti. It seems like he might be talking about something exciting or risky involving the car and the jet.If you want to know more about what could happen next in this scenario, feel free to ask!"
+          "query": "Visual: The video shows a car being towed by an airplane at night. The car is in the foreground, and the airplane is in the background. The lighting is dim, with some bright spots highlighting the car and parts of the airplane. There's a sense of motion as the car is being pulled along.\n\nAudio: There's a voiceover in the background, but the words are not clear enough to understand fully. The overall tone seems to be informative or explanatory. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "186.0s - 192.0s",
-          "query": "VISUAL: The video shows two Bugatti Veyrons at night. One is closer to the camera with its front grille and headlights visible. There's also a blue sports car parked further back. The scene has a dark background with some reflections on the ground.AUDIO: A man speaks over the video, saying \"concerned they've sent over not one but two Veyrons maybe they're gonna.\" It seems like he's talking about the cars being there.What do you think about these Veyrons? They're really something!"
+          "query": "Visually, there are two cars in a dark setting. One is a Bugatti Veyron with its headlights on, and the other is a blue sports car. The scene is dimly lit, with the cars being the main focus. The Bugatti's grille is illuminated, and the blue car's headlights are also on. There's a yellow line on the ground, possibly indicating a parking space or a boundary. The background is mostly dark, with some faint lights visible in the distance. The cars seem to be stationary, but there's a sense of anticipation or excitement in the scene.Audibly, there's a voiceover saying \"TopGear.com\" in a clear, confident tone. The voice is the only sound in the audio part."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 239.34338092803955
+      "processing_time": 270.09052300453186
     },
     {
-      "comment_index": 3502,
+      "comment_index": 771,
       "video_id": "7NZ9X9A2efA",
       "comment": "4:11 imagine if he said that in 2019",
       "language": "en",
@@ -380,54 +319,24 @@
         {
           "segment_index": 1,
           "time_range": "242.0s - 248.0s",
-          "query": "VISUAL: A man is sitting at a table with a toy car track laid out on it. He's holding a small toy airplane and appears to be interacting with the track. The background has various framed items on the wall, like certificates or awards. There's also a Union Jack flag partially visible under the track.AUDIO: Someone is speaking, but I can't make out the exact words from just these six seconds. It seems to be a normal conversation or narration. There are no distinct sound effects or music in this short clip.If you want me to analyze more about this video or have any other questions, feel free to let me know!"
+          "query": "**Visual:** The video shows a person sitting at a table with a model car on a miniature road. There are various framed pictures and plaques on the wall behind. The person is holding a small object, possibly a tool or part, and appears to be working on or examining the model car. The setting looks like a workshop or a hobby room.\n\n**Audio:** The audio includes a man speaking, but the content of his speech isn't clear from this short segment. There are no distinct sound effects or music."
         },
         {
           "segment_index": 2,
           "time_range": "248.0s - 254.0s",
-          "query": "VISUAL: A person is holding a piece of paper over a toy car on a track. The background has some shields or plaques on the wall. There's also a watch visible on someone's wrist.AUDIO: Someone is speaking, but it's not clear what they're saying exactly. It could be related to the content of the video, like about the toy car race or something else entirely.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Sure! Let's break it down.First, visually, there's someone cutting something with scissors. You can also see some shields hanging on the wall behind them.Then, for the audio, there's just background noise, nothing really distinct.So, that's about it! What do you think? Do you have any other questions or need more details?"
         },
         {
           "segment_index": 3,
           "time_range": "254.0s - 260.0s",
-          "query": "VISUAL: There's an airplane on a runway. It looks like it might be getting ready to take off or land. The sky is partly cloudy.AUDIO: There's some kind of narration going on, but I can't really make out the words clearly. It seems like there could be background music too.What do you think about that? Do you have any other thoughts on the video?"
+          "query": "Visual: The video shows a fighter jet on a runway with its cockpit visible through the canopy. There's also a man standing in front of a wall covered with various emblems or badges.\n\nAudio: You can hear an engine revving up, which is likely from the fighter jet, along with some background music that seems to be upbeat and energetic."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 218.10000586509705
+      "processing_time": 173.73966646194458
     },
     {
-      "comment_index": 3503,
-      "video_id": "7NZ9X9A2efA",
-      "comment": "6:18 plot  twist!!! the rabbit won!!!",
-      "language": "en",
-      "channel_name": "TopGear",
-      "category": "entertainment",
-      "likes": 25.0,
-      "comment_timestamp": 378.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "369.0s - 375.0s",
-          "query": "VISUAL: A man is driving a car on an airport runway. He's wearing a helmet and a racing suit. There's another vehicle visible in front of him. The scene has a Top Gear.com watermark.AUDIO: Someone says \"as drag races go you will agree this is quite a good one\" with some background noise. It seems like they're commenting on the race. So, what do you think about it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "375.0s - 381.0s",
-          "query": "VISUAL: There's a car driving on a road with grassy areas around it. Then there's an aerial view of a fighter jet taking off from a runway. The jet is black and white. There are also some small animals like rabbits near the runway.AUDIO: There's music playing throughout the whole clip. It seems to be instrumental music without any lyrics. What do you think about this video? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "381.0s - 387.0s",
-          "query": "VISUAL: A person wearing a helmet is seen inside an aircraft cockpit. Then there's a view of a sleek car with a jet-like design on its side. The car has a license plate \"HP-EB-520\". There's also a man in a high - visibility vest waving a flag while standing on a runway. The background shows a cloudy sky.AUDIO: There's music playing throughout the entire 6 seconds of the video. No specific speech or sound effects are heard other than the music. So, that's it for the analysis. What do you think about this video? Do you have any other questions related to it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 240.8785924911499
-    },
-    {
-      "comment_index": 3504,
+      "comment_index": 772,
       "video_id": "7NZ9X9A2efA",
       "comment": "8:20 is bloody beautiful man",
       "language": "en",
@@ -440,24 +349,54 @@
         {
           "segment_index": 1,
           "time_range": "491.0s - 497.0s",
-          "query": "VISUAL: There's an aerial view of two fighter jets flying in formation against a clear sky. Then it cuts to a car driving on a road with a grassy area beside it. The camera shows the driver from inside the car, who is wearing a helmet and goggles. He seems focused on driving.AUDIO: You can hear the roar of jet engines in the background during the first part when the jets are shown. In the second part, there's some kind of engine noise or possibly a radio communication while the car is driving. There's also a man speaking, saying \"I suspect I may get some abuse for this.\" It could be the driver talking about something related to his driving or the situation he's in.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visual: The video shows two airplanes flying in formation against a clear sky. There's also an aerial view of a road with a car driving on it.\n\nAudio: A man is speaking, saying \"I suspect I may get some abuse for this.\""
         },
         {
           "segment_index": 2,
           "time_range": "497.0s - 503.0s",
-          "query": "VISUAL: A blue sports car is driving on a road. Then there's a black fighter jet flying in the sky leaving a smoke trail.AUDIO: There's some music playing in the background."
+          "query": "Visually, there's a black sports car driving on a road with some greenery around it. The car looks sleek and fast - like a Bugatti Veyron. There's also an airplane flying overhead against a clear blue sky. It seems to be a military jet, leaving a trail behind it.Audibly, I can't really make out any specific speech or dialogue because the audio is silent. So, no speech or music to report.Anything else you noticed that you want me to comment on?"
         },
         {
           "segment_index": 3,
           "time_range": "503.0s - 509.0s",
-          "query": "VISUAL: There's a jet flying against a clear blue sky. It's doing some kind of aerial maneuver, leaving a white smoke trail behind it. The jet is dark-colored and has a sleek design.AUDIO: There's music playing throughout the whole time. No other specific sounds or speech are heard.If you want to talk more about this video or have any other questions, feel free to let me know!"
+          "query": "Visually, there's a jet flying in the sky. It's moving quickly, leaving a trail behind it. The sky is clear and blue. There are no other objects or people visible in the scene. The jet is the main focus, and it's flying from left to right. It's a sleek, modern-looking jet, probably a military or high-performance aircraft. The trail it leaves is a light color, contrasting with the blue sky. The jet's wings are angled slightly upward, suggesting it might be performing some kind of maneuver. The overall impression is one of speed and power.Audibly, there's music playing in the background. It's a soft, ambient type of music, not too loud or distracting. There are no other sounds like speech or sound effects. The music seems to be setting a calm or contemplative mood, which contrasts with the visual of the jet flying."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 212.3494131565094
+      "processing_time": 153.44521760940552
     },
     {
-      "comment_index": 3505,
+      "comment_index": 773,
+      "video_id": "7NZ9X9A2efA",
+      "comment": "Video starts at 6:30....",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 17.0,
+      "comment_timestamp": 390.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "381.0s - 387.0s",
+          "query": "Visually, there's a car driving on a road. The car seems to be moving at a decent speed. There's also a person in a yellow vest, possibly a worker or a security person, standing near the road. The background looks like a typical roadside scene with some greenery and a bit of sky visible. The colors are mostly muted, with the car being a light color and the vest being bright yellow for contrast. The movement is mainly the car driving and the person standing still or moving slightly.Audibly, there's music playing in the background. It's a bit hard to pinpoint the exact type of music, but it seems to be some kind of upbeat or energetic music. There are also some sound effects, like a whooshing sound, which might be related to the car's movement or some action happening in the scene."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "387.0s - 393.0s",
+          "query": "Visually, there's a close-up of a jet engine with flames coming out of it. It looks like it's part of an aircraft, probably during takeoff or landing. The engine is metallic and the flames are bright orange. The background is blurry, suggesting motion and speed. There are no people visible in this part.Audibly, there's a loud, continuous roar, which is the sound of the jet engine. It's a very intense and powerful sound, typical of aircraft engines. There's no speech or music in this segment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "393.0s - 399.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 3.83 GiB. GPU 1 has a total capacity of 23.56 GiB of which 3.49 GiB is free. Including non-PyTorch memory, this process has 20.06 GiB memory in use. Of the allocated memory 15.95 GiB is allocated by PyTorch, and 3.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 271.24207401275635
+    },
+    {
+      "comment_index": 774,
       "video_id": "7NZ9X9A2efA",
       "comment": "8:12 the pilot was mocking him with those rolls",
       "language": "en",
@@ -470,24 +409,24 @@
         {
           "segment_index": 1,
           "time_range": "483.0s - 489.0s",
-          "query": "VISUAL: A man in a racing suit is driving a car on a track. There's an airplane flying overhead. A person in a high - visibility vest waves a checkered flag near the track.AUDIO: There's shouting and engine revving sounds throughout the clip."
+          "query": "Visually, there's someone driving a car with their hands on the steering wheel. The driver is wearing a helmet and a dark outfit. Outside the car window, it looks like an open road or maybe a racetrack. There s also some kind of reflective vest visible outside the car. The sky seems cloudy.\n\nIn terms of audio, I can hear shouting from inside the car, probably coming from the driver. Then there s a loud explosion sound effect that follows right after."
         },
         {
           "segment_index": 2,
           "time_range": "489.0s - 495.0s",
-          "query": "VISUAL: There's an orange cone on the ground near a road. A man is standing next to it. In the sky, there are two fighter jets flying close together. One jet is doing a loop while the other follows closely behind. The scene then shifts to show a car driving down a long, straight road with white dashed lines. The background has some greenery and a large building or structure in the distance.AUDIO: You can hear a whooshing sound throughout the video. It gives off a sense of speed and movement, likely related to the jets flying. There's also a bit of a rumbling noise that might be from the jets' engines or something else in the environment.What do you think about the video? Do you have any other questions?"
+          "query": "Visually, there's an orange cone on the ground near a road with dashed white lines. The sky is partly cloudy. In the audio, I can hear a loud explosion or crash."
         },
         {
           "segment_index": 3,
           "time_range": "495.0s - 501.0s",
-          "query": "VISUAL: A blue sports car is driving on a road. There's a man inside wearing a helmet and a racing suit. The car has a sleek design with large wheels and a low profile. The background shows some greenery and a clear sky.AUDIO: Someone is speaking, saying \"suspect I may get some abuse for this.\" There's also music playing in the background.What do you think about it? Do you have any other questions related to this video?"
+          "query": "Visual: A sleek black sports car is speeding along a road. The driver appears focused on the road ahead. There's greenery visible alongside the road.\n\nAudio: Background music plays throughout the clip, adding to the sense of speed and excitement."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 224.1308891773224
+      "processing_time": 154.82966256141663
     },
     {
-      "comment_index": 3506,
+      "comment_index": 775,
       "video_id": "7NZ9X9A2efA",
       "comment": "Go to 6:27 for the race.",
       "language": "en",
@@ -500,24 +439,24 @@
         {
           "segment_index": 1,
           "time_range": "378.0s - 384.0s",
-          "query": "VISUAL: There's a fighter jet on a runway with some smoke coming from it. Then there's a blue sports car driving on the same runway. The background has grassy areas and buildings. The scene is outdoors during daytime.AUDIO: There's music playing throughout the video. No specific speech or sound effects are heard.If you have any other questions about the video or want to discuss something else, feel free to let me know!"
+          "query": "Visual: The video shows a fighter jet taking off from an airfield. There's also a car driving on a road nearby. The scene has some greenery around. The sky looks cloudy. Audio: Music is playing throughout the video."
         },
         {
           "segment_index": 2,
           "time_range": "384.0s - 390.0s",
-          "query": "VISUAL: There's a fighter jet taking off from a runway. You can see its engines glowing bright orange as it accelerates. The scene is set outdoors with some greenery around the runway.AUDIO: There's a loud engine roar throughout the clip, which is likely coming from the jet itself. No other distinct sounds or speech are heard.If you have any thoughts on this analysis or want to discuss more about the video, feel free to share!"
+          "query": "Visually, there's a man in a high-visibility vest holding a long pole. He seems to be outdoors, possibly in a field or open area. There's also a close-up shot of a jet engine with flames coming out of it, suggesting some kind of aircraft or aviation-related scene. The colors are mostly muted, with the high-visibility vest standing out against the more subdued background. The movement is mainly the man holding the pole and the jet engine showing the flames.The audio includes some sound effects, likely related to the jet engine or other machinery. There's also a brief moment of silence."
         },
         {
           "segment_index": 3,
           "time_range": "390.0s - 396.0s",
-          "query": "VISUAL: A car is driving on a road with a jet plane in the background. The car appears to be moving at high speed. There's also a speedometer graphic overlaid showing increasing speed. The scene seems to take place outdoors during daytime.AUDIO: There's an engine revving sound throughout the clip. No distinct speech or other sound effects are heard. It's just the engine noise and some background ambiance.If you have any thoughts about this analysis or want to discuss more about it, feel free to let me know!"
+          "query": "Visually, there's a car driving on a road with some greenery around. The car seems to be moving at a decent speed. There's also an airplane flying overhead. The sky looks clear.Anything else you noticed or want to ask about?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 218.5161612033844
+      "processing_time": 185.53146290779114
     },
     {
-      "comment_index": 3507,
+      "comment_index": 776,
       "video_id": "7NZ9X9A2efA",
       "comment": "7:01 \"so i'm fighting for the germans in a battle against the RAF\". do you though? the eurofighter is a joint build, which just so happens to inlcude germany...",
       "language": "en",
@@ -530,54 +469,24 @@
         {
           "segment_index": 1,
           "time_range": "412.0s - 418.0s",
-          "query": "VISUAL: A black sports car is driving on a road. Then it's shown flying through the air from an aerial view. The camera shows the cockpit with a pilot wearing a helmet. There's also a speedometer visible. The background includes fields and some buildings.AUDIO: There's a radio communication happening throughout the video. It seems like instructions or updates about the flight are being given."
+          "query": "Visually, it seems like there's a car driving on a road. The car is moving forward, and there are some buildings and possibly a bridge in the background. The colors are somewhat muted, and the movement is smooth, suggesting a steady drive. There's also a bit of a blur, which might indicate speed or a shaky camera.Audibly, there's a sound that could be a car engine revving up or a similar mechanical noise. It's a short, sharp sound, not continuous. There's also some background noise, but it's hard to make out clearly."
         },
         {
           "segment_index": 2,
           "time_range": "418.0s - 424.0s",
-          "query": "VISUAL: The video shows a speedometer with numbers from 0 to over 1000, then cuts to a man in a racing suit driving a car on a track. There's also a shot of a jet flying through the sky.AUDIO: A man is speaking about fighting for the Germans against the RAF. There's also some background noise like wind and possibly engine sounds.If you have any other questions or need more details, feel free to ask!"
+          "query": "Visual: The video shows a speedometer in the foreground, with numbers ranging from 0 to 1000. In the background, there's a person driving a car, wearing a helmet and a racing suit. The car is moving on a road, and there are trees and a cloudy sky visible. The scene seems to be set during the day. The colors are mostly muted, with the car and the driver being the main focus. The movement is mainly the car driving forward.\n\nAudio: There's a man speaking in the background, but the content of his speech isn't clear. There are also some sound effects, possibly related to the car's movement or the environment."
         },
         {
           "segment_index": 3,
           "time_range": "424.0s - 430.0s",
-          "query": "VISUAL: A car is driving on a road with fields and trees visible in the background. The camera then shows the interior of the car where someone is driving. There's also an aerial view of the car speeding over a landscape.AUDIO: There's some kind of commentary or narration happening throughout the video, along with tire squealing and engine revving sounds. It seems like there might be music playing too. What do you think about it?"
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short clip. There seems to be no clear visuals or audio described here. Maybe you could give me more details about it?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 202.99406957626343
+      "processing_time": 218.59458875656128
     },
     {
-      "comment_index": 3508,
-      "video_id": "7NZ9X9A2efA",
-      "comment": "6:18 There is a turkey!",
-      "language": "en",
-      "channel_name": "TopGear",
-      "category": "entertainment",
-      "likes": 13.0,
-      "comment_timestamp": 378.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "369.0s - 375.0s",
-          "query": "VISUAL: A man is driving a car on an airport runway. He's wearing a helmet and a racing suit. There's another vehicle visible in front of him. The scene has a Top Gear.com watermark.AUDIO: Someone says \"as drag races go you will agree this is quite a good one\" with some background noise. It seems like they're commenting on the race. So, what do you think about it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "375.0s - 381.0s",
-          "query": "VISUAL: There's a car driving on a road with grassy areas around it. Then there's an aerial view of a fighter jet taking off from a runway. The jet is black and white. There are also some small animals like rabbits near the runway.AUDIO: There's music playing throughout the whole clip. It seems to be instrumental music without any lyrics. What do you think about this video? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "381.0s - 387.0s",
-          "query": "VISUAL: A person wearing a helmet is seen inside an aircraft cockpit. Then there's a view of a sleek car with a jet-like design on its side. The car has a license plate \"HP-EB-520\". There's also a man in a high - visibility vest waving a flag while standing on a runway. The background shows a cloudy sky.AUDIO: There's music playing throughout the entire 6 seconds of the video. No specific speech or sound effects are heard other than the music. So, that's it for the analysis. What do you think about this video? Do you have any other questions related to it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 221.08525681495667
-    },
-    {
-      "comment_index": 3509,
+      "comment_index": 777,
       "video_id": "7NZ9X9A2efA",
       "comment": "\"I'm getting away! I can't believe i'm-\" eurofighter passes 6:42",
       "language": "en",
@@ -590,21 +499,111 @@
         {
           "segment_index": 1,
           "time_range": "393.0s - 399.0s",
-          "query": "VISUAL: A fighter jet is taking off from an airfield. It's on a runway surrounded by grassy areas. The jet has its afterburners on, leaving a trail of smoke. There's also a car visible in the background near the jet.AUDIO: There's a man shouting \"We're away!\" and then \"When they connect.\" The sound of the jet engine revving up can be heard throughout."
+          "query": "Sure! So, visually, there's someone driving a car on a road with trees around. There s also an airplane flying overhead. The scene looks like it might be set during daytime.Audience-wise, I can't really tell much from just these six seconds. But if there is any sound, it could be the car engine or maybe some background noise from the surroundings.What do you think about that? Do you have any other details to share?"
         },
         {
           "segment_index": 2,
           "time_range": "399.0s - 405.0s",
-          "query": "VISUAL: A fighter jet is taking off from an airfield. There's also a car on the ground nearby. The scene has a clear sky and some greenery around. The jet is moving fast, leaving a trail of smoke.AUDIO: There's a man speaking with excitement, saying \"I'm getting away\" twice. You can also hear the roar of the jet engine and wind noise. It seems like there might be some background music too.If you want to know more about this or have other questions, feel free to ask!"
+          "query": "Well, in the visual part, there's a car driving on a road. You can see the car's wheels turning and the road stretching out. There are some trees and a building in the background. The colors are mostly muted, like the gray of the road and the green of the trees. The movement is mainly the car moving forward.In the audio part, there's a man speaking. He seems to be talking about getting away, but it's a bit hard to understand clearly. There's also some background noise, like the sound of the car engine and maybe some wind. It's not very loud, but it's there.So, what do you think about this video? Do you have any other questions?"
         },
         {
           "segment_index": 3,
           "time_range": "405.0s - 411.0s",
-          "query": "VISUAL: A car is driving on a runway. There's an airplane taking off in the background. The driver looks excited. The scene has a cloudy sky and some greenery around. The car seems to be moving fast.AUDIO: There's a man speaking with excitement. You can also hear the roar of the airplane engine and the sound of tires skidding. It gives a sense of speed and action.What do you think about it? Do you have any other videos you want me to analyze?"
+          "query": "Visual: The video shows a car driving on a road. There's a plane flying in the sky above the road. The road seems to be in a rural area with some greenery around. The plane is relatively small in the frame compared to the car. The colors are somewhat muted, giving it a slightly old or vintage feel. The movement of the car is steady, and the plane is moving from left to right across the frame. There are no other significant objects or people visible in the video.\n\nAudio: The audio includes a man speaking, which seems to be part of a commentary or narration. There are also some sound effects, possibly related to the car or the plane, like revving or a whoosh sound. The overall tone of the audio is energetic and engaging."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 211.52626204490662
+      "processing_time": 218.36365175247192
+    },
+    {
+      "comment_index": 778,
+      "video_id": "7NZ9X9A2efA",
+      "comment": "3:01 is better",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 11.0,
+      "comment_timestamp": 181.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "172.0s - 178.0s",
+          "query": "Visually, the video shows a close-up of a car, likely a high-end one, with its headlights on. The car seems to be in a dark environment, possibly a showroom or a night setting. The headlights are bright and focused, creating a dramatic effect. There's a sense of sleekness and luxury about the car.\n\nAudio - The audio features a voiceover saying \"TopGear.com\" and then \"the Bugatti Veyron really is the car world's best shot at clinging to some honor.\" The voiceover is clear and professional, typical of a car review or promotional video."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "178.0s - 184.0s",
+          "query": "Visually: The scene shows a black car parked on a reflective surface at night. There's an airplane flying above it, casting light onto the car. The lighting is dim with blue tones dominating.\n\nAudio: The background has some kind of music playing, creating a somewhat mysterious or suspenseful atmosphere."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "184.0s - 190.0s",
+          "query": "Visually, the video shows a close-up of a car's wheel and part of its body, with a focus on the wheel's design and the car's sleek lines. The lighting is dark, creating a dramatic effect. There are also some blurred lights in the background, suggesting a nighttime or dimly lit setting. The colors are mainly dark with some reflective highlights on the car's surface. The movement is mainly the camera's focus on the car's details, with a slight pan to show more of the car's side.\n\nAudio - There's a voiceover saying \"in fact Bugatti is so concerned they've sent over not one but two\", but the rest of the audio is unclear. It seems like there might be some music or sound effects in the background, but they're not distinct enough to describe precisely."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 219.03437185287476
+    },
+    {
+      "comment_index": 779,
+      "video_id": "7NZ9X9A2efA",
+      "comment": "6:17 Duck: Omg! Run! Run away!",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 9.0,
+      "comment_timestamp": 377.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "368.0s - 374.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 7.84 GiB. GPU 1 has a total capacity of 23.56 GiB of which 91.00 MiB is free. Including non-PyTorch memory, this process has 23.46 GiB memory in use. Of the allocated memory 21.39 GiB is allocated by PyTorch, and 1.76 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "374.0s - 380.0s",
+          "query": "Visual: The video shows a fighter jet taking off from a runway. There are some cars and a person visible in the background. The jet is gray and has a sleek design. The runway is surrounded by grass and there are some buildings in the distance. The sky is clear and blue. The jet lifts off the ground and flies away. The person in the background is wearing a helmet and seems to be operating the jet. The cars are parked on the side of the runway. The overall scene is dynamic and exciting.\n\nAudio: There is music playing in the background throughout the video. There are no distinct speech or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "380.0s - 386.0s",
+          "query": "Visual: A man is running with a large flag, possibly a Union Jack, through a grassy field. There's also a car visible on a road in the background. The scene seems to be outdoors during daytime.\n\nAudio: Music is playing throughout the clip."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 240.69383263587952
+    },
+    {
+      "comment_index": 780,
+      "video_id": "7NZ9X9A2efA",
+      "comment": "4:08 trust me, YouTube has already had a field day 😂",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 7.0,
+      "comment_timestamp": 248.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "239.0s - 245.0s",
+          "query": "Sure! So, visually, there's someone holding a small toy car on a miniature road setup. The background has some framed pictures or awards on the wall. There s also another person in the scene, but they re not really doing much.Anything else you want to know about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "245.0s - 251.0s",
+          "query": "Oh, it sounds like a pretty interesting video! So, visually, there's someone sitting at a table, and they're holding a small object, maybe a toy car or something similar. There are a bunch of framed items on the wall behind them, which could be awards or certificates. And then, there's a hand reaching in from the right side of the frame, holding a long, thin object that looks like a feather or a piece of paper. The colors are mostly muted, with some darker tones and a bit of red from the framed items. The movement is mainly the hand reaching in and the person sitting still.Anything else you noticed or want to ask about?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "251.0s - 257.0s",
+          "query": "Visually, there's a person in a room with various emblems or badges on the wall behind them. The person seems to be interacting with something on a table, possibly a car model or a piece of equipment. The scene has a somewhat formal or official feel to it. The colors are muted, with earthy tones dominating the room. There's also a brief shot of a cockpit, suggesting a connection to aviation or racing.\n\nAudio - There's a voiceover that says \"The wisest last one to finish is a vegetarian. Simple as that.\" The tone is somewhat serious or matter - of - fact. There's also background music that plays throughout the video, adding to the overall atmosphere."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 194.95985460281372
     }
   ]
 }

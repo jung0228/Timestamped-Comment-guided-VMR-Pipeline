@@ -1,42 +1,12 @@
 {
   "video_id": "rFxu7NEoKC8",
   "total_comments": 20,
-  "successful_comments": 20,
-  "failed_comments": 0,
+  "successful_comments": 18,
+  "failed_comments": 2,
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 4262,
-      "video_id": "rFxu7NEoKC8",
-      "comment": "2:31 LOL WTF WAS THAT!",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 680.0,
-      "comment_timestamp": 151.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "142.0s - 148.0s",
-          "query": "VISUAL: The video shows an anatomical illustration of the adrenal glands with yellow highlights. There's also a real image of a fox walking on grass near a fence. The background is mostly plain for both parts.AUDIO: There's some kind of narration or explanation about hormones related to cold temperatures and the fight - or - flight response. It seems like it could be from a science documentary or educational program.If you want to talk more about this video or have other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "148.0s - 154.0s",
-          "query": "VISUAL: There's a cat looking at its reflection in a mirror. The cat seems curious or maybe a bit confused. The background is indoors with some furniture visible.AUDIO: Someone is speaking about how it helps animals appear larger when threatened. It might be related to why surprising and emotional things happen.So, what do you think about that? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "154.0s - 160.0s",
-          "query": "VISUAL: There's a woman singing into a microphone on stage. Then it cuts to two judges sitting at a table with microphones and drinks in front of them. The scene changes to an illustration of a pelvis with a highlighted coccyx area labeled \"coccyx tailbone.\".AUDIO: A female voice is speaking about emotional turns in music giving some people goosebumps and mentioning our tail at the end of our spine. It seems like there might be some background music too, but it's not clear from just these few seconds.What do you think about that? Do you have any other thoughts or questions related to this video?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 598.5500946044922
-    },
-    {
-      "comment_index": 4261,
+      "comment_index": 4153,
       "video_id": "rFxu7NEoKC8",
       "comment": "2:30 the best part of this video! That was unnecessary yet the best",
       "language": "en",
@@ -49,84 +19,84 @@
         {
           "segment_index": 1,
           "time_range": "141.0s - 147.0s",
-          "query": "VISUAL: There's a pigeon sitting on a rough stone wall at first. Then it switches to an illustration of the adrenal glands in the body, showing how they produce adrenaline. Finally, there's a fox walking on grass near a fence.AUDIO: The audio has someone speaking about adrenaline being involved in the body's response to cold temperatures and also part of the fight or flight response.If you want to talk more about this or have other questions, feel free to let me know."
+          "query": "I'm sorry, but I can't actually analyze a video segment as I don't have the capability to perceive visual or auditory inputs. However, based on your description of the video segment, it seems to show a diagram of the human body with a focus on the adrenal glands and their role in producing adrenaline. The audio likely includes a woman speaking about adrenaline and its role in the body's response to cold temperatures and fight-or-flight reactions."
         },
         {
           "segment_index": 2,
           "time_range": "147.0s - 153.0s",
-          "query": "VISUAL: There's an animal, maybe a fox or something similar, standing on grass near a fence. It has brown fur with some darker patches. Then it jumps up and down. Next, there's a cat looking at its reflection in a mirror. The cat is tabby - patterned and seems curious about itself in the mirror.AUDIO: There's no distinct speech or music. Just some background noise that could be from the environment where these animals are."
+          "query": "Sure! So, in the video, I see a cat looking at its reflection in a mirror. The cat seems curious, and it's standing on a surface that looks like it has some kind of pattern or texture. The background is a bit blurry, but it seems to be indoors, maybe a room with some furniture or objects around.In terms of audio, there's a voiceover that says something about the fight-or-flight response and how it helps some animals appear larger when threatened. It also mentions that this might be why animals do certain things.What do you think about this? Do you have any other questions or thoughts?"
         },
         {
           "segment_index": 3,
           "time_range": "153.0s - 159.0s",
-          "query": "VISUAL: There's a woman singing into a microphone on stage. She has long dark hair and is wearing a black outfit. In front of her are two judges sitting at a table with microphones. One judge is a man with short brown hair, wearing a dark shirt, and the other is a blonde woman in a red dress.AUDIO: The main thing heard is someone speaking about surprising and emotional turns in music giving some people goosebumps. Then there's a mention of \"our tail.\" It seems like it might be part of a larger conversation or commentary.If you have any thoughts on this or want to discuss more about it, feel free to share!"
+          "query": "Well, I can't actually watch videos directly here. But if you describe them to me, I'll be happy to analyze them for you! What do you think?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 612.2117140293121
+      "processing_time": 209.33548665046692
     },
     {
-      "comment_index": 4264,
+      "comment_index": 4154,
       "video_id": "rFxu7NEoKC8",
-      "comment": "A summary of the comments section: - \"Evolution is false/a lie/just a theory!\" - followed by dozens of calm through to apoplectic comments explaining how utterly wrong this statement is. - Some user called \"35oz 19g\" trolling like the trolliest troll ever then being surprised that they were flagged for trolling. - Poor cat @ 2:31  That's pretty much it...",
+      "comment": "2:31 LOL WTF WAS THAT!",
       "language": "en",
       "channel_name": "Vox",
       "category": "documentary",
-      "likes": 283.0,
+      "likes": 680.0,
       "comment_timestamp": 151.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
           "time_range": "142.0s - 148.0s",
-          "query": "VISUAL: The video shows an anatomical illustration of the adrenal glands with yellow highlights. There's also a real image of a fox walking on grass near a fence. The background is mostly plain for both parts.AUDIO: There's some kind of narration or explanation about hormones related to cold temperatures and the fight - or - flight response. It seems like it could be from a science documentary or educational program.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "I'm sorry, but I can't analyze the video segment you mentioned. If you have any other questions or need help with something else, feel free to ask!"
         },
         {
           "segment_index": 2,
           "time_range": "148.0s - 154.0s",
-          "query": "VISUAL: There's a cat looking at its reflection in a mirror. The cat seems curious or maybe a bit confused. The background is indoors with some furniture visible.AUDIO: Someone is speaking about how it helps animals appear larger when threatened. It might be related to why surprising and emotional things happen.So, what do you think about that? Do you have any other videos you want me to analyze?"
+          "query": "Well, visually, there's a cat looking at its reflection in a mirror. The cat seems to be curious about itself in the mirror. And then, suddenly, it jumps back! It looks startled or scared. There's also some kind of background noise that might be from other animals or just general room sounds. What do you think made the cat jump back like that?"
         },
         {
           "segment_index": 3,
           "time_range": "154.0s - 160.0s",
-          "query": "VISUAL: There's a woman singing into a microphone on stage. Then it cuts to two judges sitting at a table with microphones and drinks in front of them. The scene changes to an illustration of a pelvis with a highlighted coccyx area labeled \"coccyx tailbone.\".AUDIO: A female voice is speaking about emotional turns in music giving some people goosebumps and mentioning our tail at the end of our spine. It seems like there might be some background music too, but it's not clear from just these few seconds.What do you think about that? Do you have any other thoughts or questions related to this video?"
+          "query": "Well, I'm not sure if there's actually any video here to analyze. But generally speaking, for the visual part, it could be things like people on stage, maybe performers or judges, with different expressions and gestures. There might also be some props or decorations around them. For the audio part, it could be someone talking, singing, or making announcements. Maybe there are some background noises too.If you can share more details about the video, that would be great!"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 569.790958404541
+      "processing_time": 184.0947048664093
     },
     {
-      "comment_index": 4263,
+      "comment_index": 4155,
       "video_id": "rFxu7NEoKC8",
-      "comment": "Wow evolution doing its thing wow.. BUT IS THE KITTY FINE?! 2:31 :(",
+      "comment": "2:29 ... poor kitty",
       "language": "en",
       "channel_name": "Vox",
       "category": "documentary",
-      "likes": 441.0,
-      "comment_timestamp": 151.0,
+      "likes": 341.0,
+      "comment_timestamp": 149.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "142.0s - 148.0s",
-          "query": "VISUAL: The video shows an anatomical illustration of the adrenal glands with yellow highlights. There's also a real image of a fox walking on grass near a fence. The background is mostly plain for both parts.AUDIO: There's some kind of narration or explanation about hormones related to cold temperatures and the fight - or - flight response. It seems like it could be from a science documentary or educational program.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "time_range": "140.0s - 146.0s",
+          "query": "I'm sorry, I can't analyze videos directly. But if you describe the video to me, I'd be happy to help!"
         },
         {
           "segment_index": 2,
-          "time_range": "148.0s - 154.0s",
-          "query": "VISUAL: There's a cat looking at its reflection in a mirror. The cat seems curious or maybe a bit confused. The background is indoors with some furniture visible.AUDIO: Someone is speaking about how it helps animals appear larger when threatened. It might be related to why surprising and emotional things happen.So, what do you think about that? Do you have any other videos you want me to analyze?"
+          "time_range": "146.0s - 152.0s",
+          "query": "Oh, okay. So, in the video, there's this cat looking at its reflection in a mirror. The cat seems curious, kind of staring intently at the mirror. And then, there's a sound effect that plays, like a soft, kind of eerie noise. It's not really clear what it's supposed to represent, but it adds a bit of a mysterious vibe to the scene. What do you think about it?"
         },
         {
           "segment_index": 3,
-          "time_range": "154.0s - 160.0s",
-          "query": "VISUAL: There's a woman singing into a microphone on stage. Then it cuts to two judges sitting at a table with microphones and drinks in front of them. The scene changes to an illustration of a pelvis with a highlighted coccyx area labeled \"coccyx tailbone.\".AUDIO: A female voice is speaking about emotional turns in music giving some people goosebumps and mentioning our tail at the end of our spine. It seems like there might be some background music too, but it's not clear from just these few seconds.What do you think about that? Do you have any other thoughts or questions related to this video?"
+          "time_range": "152.0s - 158.0s",
+          "query": "Well, in the video, I see a woman with long dark hair singing into a microphone. She's wearing a black outfit. There are also two other people in the background, one with blonde hair and another with long blonde hair. They seem to be part of a performance or event. The background is dark with some lights, giving it a stage-like feel.As for the audio, there's music playing in the background. It's kind of upbeat and energetic. There are also some sound effects, like applause or cheering, which makes it seem like there are an audience present. It's not just the woman singing, there are other voices too, probably from the other performers or the audience."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 589.5485470294952
+      "processing_time": 204.3280234336853
     },
     {
-      "comment_index": 4266,
+      "comment_index": 4156,
       "video_id": "rFxu7NEoKC8",
       "comment": "3:17 \"Programmed to die.\"  Programmed by what or whom?",
       "language": "en",
@@ -139,114 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "188.0s - 194.0s",
-          "query": "VISUAL: There's an otter on some rocks at first. Then it shows two chimpanzees climbing up a tree trunk. After that, there's a black screen with a white image of a fetus in the center.AUDIO: There's no clear speech or music. Just some kind of background noise throughout.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Oh, it seems like there might be some confusion here. The image you've described doesn't match with the text about cells dying after birth. If you could clarify or provide more details about the image, I'd be happy to help further!"
         },
         {
           "segment_index": 2,
           "time_range": "194.0s - 200.0s",
-          "query": "VISUAL: The video shows a close - up of a scientific paper or document with text on it. There's an image of a fetus at the top. The camera then zooms into different sections of the text.AUDIO: A woman is speaking about how mutations can allow ancestral blueprints to prevail. It seems like she's explaining something related to genetics or evolution.If you want to know more about what was specifically said in the speech or have any other questions, feel free to ask!"
+          "query": "I'm sorry, but I can't analyze the video segment you mentioned. Could you please provide more details or clarify what you're asking?"
         },
         {
           "segment_index": 3,
           "time_range": "200.0s - 206.0s",
-          "query": "VISUAL: The video shows a page from a medical or scientific document with text about genetic throwbacks related to human tails. There's also an image on the right side depicting a baby lying down with a hand pointing at something on its body. The text is mostly black on a white background.AUDIO: There's some kind of narration or explanation playing over the visuals, but it's not clear what it says specifically. It seems like it might be related to the content on the page."
+          "query": "Visually, it looks like there's some kind of document or medical report with text on it. There s also an image that seems to show someone holding a baby. The audio is just background music without any specific lyrics or dialogue. What do you think about it?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 495.36103224754333
+      "processing_time": 138.28072023391724
     },
     {
-      "comment_index": 4265,
-      "video_id": "rFxu7NEoKC8",
-      "comment": "2:31 That mirror attacked the kitty😂 I think fight and flight response didn't work😂😂",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 165.0,
-      "comment_timestamp": 151.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "142.0s - 148.0s",
-          "query": "VISUAL: The video shows an anatomical illustration of the adrenal glands with yellow highlights. There's also a real image of a fox walking on grass near a fence. The background is mostly plain for both parts.AUDIO: There's some kind of narration or explanation about hormones related to cold temperatures and the fight - or - flight response. It seems like it could be from a science documentary or educational program.If you want to talk more about this video or have other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "148.0s - 154.0s",
-          "query": "VISUAL: There's a cat looking at its reflection in a mirror. The cat seems curious or maybe a bit confused. The background is indoors with some furniture visible.AUDIO: Someone is speaking about how it helps animals appear larger when threatened. It might be related to why surprising and emotional things happen.So, what do you think about that? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "154.0s - 160.0s",
-          "query": "VISUAL: There's a woman singing into a microphone on stage. Then it cuts to two judges sitting at a table with microphones and drinks in front of them. The scene changes to an illustration of a pelvis with a highlighted coccyx area labeled \"coccyx tailbone.\".AUDIO: A female voice is speaking about emotional turns in music giving some people goosebumps and mentioning our tail at the end of our spine. It seems like there might be some background music too, but it's not clear from just these few seconds.What do you think about that? Do you have any other thoughts or questions related to this video?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 551.7806403636932
-    },
-    {
-      "comment_index": 4267,
-      "video_id": "rFxu7NEoKC8",
-      "comment": "2:29 broke my heart",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 88.0,
-      "comment_timestamp": 149.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "140.0s - 146.0s",
-          "query": "VISUAL: There's a pigeon sitting on a stone wall. The stones look rough and uneven. The pigeon is mostly gray with some black markings on its wings and tail. It doesn't seem to be moving much.AUDIO: Someone is speaking about adrenaline being involved in the body's response to cold temperatures. The tone seems calm and informative.If you have any other thoughts or questions about it, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "146.0s - 152.0s",
-          "query": "VISUAL: There's a fox standing on grass near a fence. Then it looks at its reflection in a mirror. The fox has brown fur with some black markings. The mirror is framed purple. The background seems to be an outdoor area with some greenery.AUDIO: A woman is speaking about adrenaline being part of the fight or flight response. She mentions how it helps animals appear larger when threatened and makes them more alert.So, what do you think about that? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "152.0s - 158.0s",
-          "query": "VISUAL: There's a cat walking on a surface near a glass door with pink frames. Then it jumps onto another cat that's lying down. The cats seem to be interacting in some way.AUDIO: There's no distinct audio described here.So, what do you think about these cats? Have you seen similar interactions before?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 474.68469858169556
-    },
-    {
-      "comment_index": 4268,
-      "video_id": "rFxu7NEoKC8",
-      "comment": "2:29 when the mirror is falling cat : oh no mirror : gives a body slam IT'S AN KO!",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 61.0,
-      "comment_timestamp": 149.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "140.0s - 146.0s",
-          "query": "VISUAL: There's a pigeon sitting on a stone wall. The stones look rough and uneven. The pigeon is mostly gray with some black markings on its wings and tail. It doesn't seem to be moving much.AUDIO: Someone is speaking about adrenaline being involved in the body's response to cold temperatures. The tone seems calm and informative.If you have any other thoughts or questions about it, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "146.0s - 152.0s",
-          "query": "VISUAL: There's a fox standing on grass near a fence. Then it looks at its reflection in a mirror. The fox has brown fur with some black markings. The mirror is framed purple. The background seems to be an outdoor area with some greenery.AUDIO: A woman is speaking about adrenaline being part of the fight or flight response. She mentions how it helps animals appear larger when threatened and makes them more alert.So, what do you think about that? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "152.0s - 158.0s",
-          "query": "VISUAL: There's a cat walking on a surface near a glass door with pink frames. Then it jumps onto another cat that's lying down. The cats seem to be interacting in some way.AUDIO: There's no distinct audio described here.So, what do you think about these cats? Have you seen similar interactions before?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 493.85394740104675
-    },
-    {
-      "comment_index": 4269,
+      "comment_index": 4157,
       "video_id": "rFxu7NEoKC8",
       "comment": "No it starts @ 3:56 thank ME later",
       "language": "en",
@@ -259,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "227.0s - 233.0s",
-          "query": "VISUAL: There's a baby being held up by an adult. The baby is reaching out with its arms. In the background, there's a map and some text about \"Observatory\". There's also a picture of a ship on water with people around it.AUDIO: Someone is speaking, saying something like \"and you can see that their inner monkey can support their entire weight.\".If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a split-screen. On the left, there's a map with various lines and labels, possibly indicating geographical or navigational information. On the right, there's a close-up of a baby sleeping peacefully, with its arms raised. The overall color tone is yellowish.\n\n**Audio:** There is background music playing throughout the video."
         },
         {
           "segment_index": 2,
           "time_range": "233.0s - 239.0s",
-          "query": "VISUAL:"
+          "query": "Visual: The video shows a yellow-tinted image. There are some objects and people, but they're not clearly defined due to the yellow tint. It seems like there might be a person in the foreground, but it's hard to tell for sure. The background is also difficult to make out because of the yellow tint. There's a \"Subscribe\" button visible in the top right corner.\n\nAudio: There's music playing in the background during this 6-second segment."
         },
         {
           "segment_index": 3,
           "time_range": "239.0s - 245.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 113.5283465385437
+      "processing_time": 176.31144952774048
     },
     {
-      "comment_index": 4270,
+      "comment_index": 4158,
       "video_id": "rFxu7NEoKC8",
       "comment": "0:34 how italians fap 👌",
       "language": "en",
@@ -289,24 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "25.0s - 31.0s",
-          "query": "VISUAL: The video shows two hands on a flat surface. There's some kind of logo or design elements around them. The background is dark at first, then it changes to white when the hands appear.AUDIO: There's music playing throughout the whole time. No specific speech or sound effects are heard. It's just continuous music.If you have any other questions about the video or want to discuss something else, feel free to let me know!"
+          "query": "Visually, there's a black screen with some colorful geometric shapes and letters floating around. Then it cuts to two hands on a white surface. The audio has background music playing throughout. What do you think about that?"
         },
         {
           "segment_index": 2,
           "time_range": "31.0s - 37.0s",
-          "query": "VISUAL: The video shows two hands against a white background. One hand has a ring on the pinky finger. The person is wearing a black sleeve on one arm and a striped shirt with a beige sweater over it on the other. The hands move slightly, like they're gesturing or adjusting something.AUDIO: There's some kind of narration or explanation being given, but I can't make out the exact words from just listening to the audio. It seems to be related to the visual content though.If you want me to analyze more about this video or have any other questions, feel free to let me know!"
+          "query": "Visually, there's someone with their hands on a white surface. Their wrists have a raised band in the middle. The person is wearing different colored sleeves - one black and one light-colored.The audio seems to be completely silent. What do you think about that?"
         },
         {
           "segment_index": 3,
           "time_range": "37.0s - 43.0s",
-          "query": "VISUAL: Two hands are shown against a white background. One hand has \"present\" written on it with an arrow pointing to the thumb, while the other has \"absent\" with an arrow pointing to where the thumb should be. The hands move slightly, showing different positions.AUDIO: There's some kind of narration or explanation about a vestigial muscle in the forearm related to a tendon connecting to the palmaris longus muscle. It's not very clear though.If you have any more questions about this or want to discuss something else, feel free to let me know."
+          "query": "Visually, there are two people standing in front of a whiteboard. Their hands are raised, palms facing the board. On the board, there are words written: \"present\" on one side and \"absent\" on the other. The person on the left has dark hair and is wearing a black sleeve, while the person on the right has lighter hair and is wearing a light-colored sleeve with buttons. The background is plain and white, and there's a faint shadow of the people on the board.\n\nAudio: There is no distinct speech, music, or sound effects. It's mostly silence."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 541.9901671409607
+      "processing_time": 125.4030179977417
     },
     {
-      "comment_index": 4271,
+      "comment_index": 4159,
       "video_id": "rFxu7NEoKC8",
       "comment": "1:45 So that’s why I feel my ear twitch but not really move when there’s a sudden sound....",
       "language": "en",
@@ -319,54 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "96.0s - 102.0s",
-          "query": "VISUAL: A person is sitting at a table with their back to the camera. There's a whiteboard on the wall behind them with some writing on it. The person seems to be wearing something that has an electrode attached near their ear. The room looks like an office or study area.AUDIO: There's a woman speaking over background music. She mentions a study where researchers recorded a spike of activity in the ear muscle cells in response to a sudden sound.If you have any other thoughts about this video or want to discuss more, feel free to let me know."
+          "query": "Visually, there's a person sitting at a desk, facing away from the camera. They're in front of a whiteboard with some writing on it. The room seems to be a simple office or study space. There's not much movement from the person, just sitting still.\n\nIn terms of audio, there's a sudden, sharp sound effect that plays. It's like a drill or some kind of tool being used. There's no speech or music in the background."
         },
         {
           "segment_index": 2,
           "time_range": "102.0s - 108.0s",
-          "query": "VISUAL: A person is sitting at a desk with their back to us. There's a whiteboard on the wall behind them. The person seems to be focused on something. The room looks like an office or study area.AUDIO: Someone is speaking about not being able to move the ear enough for detection but still being able to guess the location of a sound based on results. It sounds like they're explaining some kind of scientific or technical concept.If you have any other thoughts or questions about it, feel free to share!"
+          "query": "I'm sorry, I can't actually analyze videos directly. But if you describe the video to me, I'd be happy to help!"
         },
         {
           "segment_index": 3,
           "time_range": "108.0s - 114.0s",
-          "query": "VISUAL: A person is sitting at a desk with their back to us. There's a whiteboard behind them with some writing on it. The person seems to be listening to something. Then there's an overlay of a graph showing EMG amplitude over time for left and right auricularis posterior muscles.AUDIO: There's a sound effect that resembles a speaker playing from the left side of the subject. It's like a low hum or vibration. No other distinct sounds are heard.Does that help? If you have any more questions about the video, feel free to ask!"
+          "query": "Visually, there's a person sitting at a desk, facing away from the camera. They're in front of a whiteboard. There's also a graph on the screen showing EMG amplitude percentages over time, with lines for \"Left\" and \"Right\" sides. The background is plain, mostly white or light gray. There's a small icon in the bottom left corner that looks like a camera or a similar device.Audibly, there's a sound effect that resembles a bell or a similar ringing noise. It's a short, sharp sound. There's also a woman speaking, but the content of her speech isn't clear from this description."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 603.0425686836243
+      "processing_time": 195.26100420951843
     },
     {
-      "comment_index": 4273,
-      "video_id": "rFxu7NEoKC8",
-      "comment": "FAKE - the Qu'ran says in surah 4:34 that its OK to beat your wife. So Islam is truth and peace and not this shit. Allahu Akbar!",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 19.0,
-      "comment_timestamp": 274.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "265.0s - 271.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "271.0s - 277.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "277.0s - 283.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.10028672218322754
-    },
-    {
-      "comment_index": 4272,
+      "comment_index": 4160,
       "video_id": "rFxu7NEoKC8",
       "comment": "1:33 - Am I misunderstanding, or does this mean that not everyone can FEEL that movement? For me, if there's a sound, I sometimes feel my ear being pulled in the muscle, it doesn't even have to be sudden.",
       "language": "en",
@@ -379,54 +229,114 @@
         {
           "segment_index": 1,
           "time_range": "84.0s - 90.0s",
-          "query": "VISUAL: There's an animal, like a moose or elk, standing among some dry bushes and trees. It has brown fur and is looking around. Then it turns its head towards the camera. After that, there's a cat with light eyes and dark fur on a wooden floor. The cat looks at something off - screen and then turns to face the camera.AUDIO: There's no clear speech or music in the audio. Just some background noise, maybe from the animals or the environment they're in.If you have any other thoughts about this video or want to discuss more, feel free to let me know!"
+          "query": "Well, I'm not sure if there's actually any content to analyze here. It seems like it might be an empty or non-existent video segment. So, I can't really describe what's visually happening or what's being heard. Hmm. Maybe check again? Let me know if there's something else you want to talk about!"
         },
         {
           "segment_index": 2,
           "time_range": "90.0s - 96.0s",
-          "query": "VISUAL: There's a person sitting at a table reading a book. The background seems to be indoors with some shelves holding items like pens. The lighting is relatively dim.AUDIO: Someone is speaking about nocturnal mammals and humans having remnants of an adaptation that can still be detected with electrodes. It's just speech without any other sound effects or music.If you have any thoughts on this or want to discuss more about it, feel free to let me know."
+          "query": "Visual: A person is sitting with their back to the camera, reading a book. They have short hair and are wearing a dark-colored shirt. The background shows a whiteboard on the wall behind them.\n\nAudio: There's no distinct speech or music heard. Just some faint ambient noise that could be from an air conditioner or something similar."
         },
         {
           "segment_index": 3,
           "time_range": "96.0s - 102.0s",
-          "query": "VISUAL: A person is sitting at a table with their back to the camera. There's a whiteboard on the wall behind them with some writing on it. The person seems to be wearing something that has an electrode attached near their ear. The room looks like an office or study area.AUDIO: There's a woman speaking over background music. She mentions a study where researchers recorded a spike of activity in the ear muscle cells in response to a sudden sound.If you have any other thoughts about this video or want to discuss more, feel free to let me know."
+          "query": "Visually, there's a person sitting at a desk, facing away from the camera. They're in front of a whiteboard with some writing on it. The room seems to be a simple office or study space. There's not much movement from the person, just sitting still.\n\nIn terms of audio, there's a sudden, sharp sound effect that plays. It's like a drill or some kind of tool being used. There's no speech or music in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 471.3549828529358
+      "processing_time": 180.3727149963379
     },
     {
-      "comment_index": 4274,
+      "comment_index": 4161,
       "video_id": "rFxu7NEoKC8",
-      "comment": "2:30 RIP Cat",
+      "comment": "+abacada seesyou @3:25",
       "language": "en",
       "channel_name": "Vox",
       "category": "documentary",
-      "likes": 16.0,
-      "comment_timestamp": 150.0,
+      "likes": 19.0,
+      "comment_timestamp": 205.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "141.0s - 147.0s",
-          "query": "VISUAL: There's a pigeon sitting on a rough stone wall at first. Then it switches to an illustration of the adrenal glands in the body, showing how they produce adrenaline. Finally, there's a fox walking on grass near a fence.AUDIO: The audio has someone speaking about adrenaline being involved in the body's response to cold temperatures and also part of the fight or flight response.If you want to talk more about this or have other questions, feel free to let me know."
+          "time_range": "196.0s - 202.0s",
+          "query": "**Visual:** The video shows a close-up of a scientific paper or document. The text is in English and discusses genetic throwbacks in newborns. There are highlighted sections in yellow, possibly indicating important points or keywords. The camera focuses on different parts of the text, zooming in and out slightly.\n\n**Audio:** There is a voiceover in the background, but the content of the speech is not provided in the description. The voiceover seems to be explaining or narrating the content of the document shown in the video."
         },
         {
           "segment_index": 2,
-          "time_range": "147.0s - 153.0s",
-          "query": "VISUAL: There's an animal, maybe a fox or something similar, standing on grass near a fence. It has brown fur with some darker patches. Then it jumps up and down. Next, there's a cat looking at its reflection in a mirror. The cat is tabby - patterned and seems curious about itself in the mirror.AUDIO: There's no distinct speech or music. Just some background noise that could be from the environment where these animals are."
+          "time_range": "202.0s - 208.0s",
+          "query": "Visually, there's an image of a medical document with text about a patient. It includes details like age, symptoms, and some medical findings. There s also a photo of a baby being fed.\n\nAudio-wise, it seems to be a voiceover or narration, possibly explaining something related to the content on screen. The tone is informative."
         },
         {
           "segment_index": 3,
-          "time_range": "153.0s - 159.0s",
-          "query": "VISUAL: There's a woman singing into a microphone on stage. She has long dark hair and is wearing a black outfit. In front of her are two judges sitting at a table with microphones. One judge is a man with short brown hair, wearing a dark shirt, and the other is a blonde woman in a red dress.AUDIO: The main thing heard is someone speaking about surprising and emotional turns in music giving some people goosebumps. Then there's a mention of \"our tail.\" It seems like it might be part of a larger conversation or commentary.If you have any thoughts on this or want to discuss more about it, feel free to share!"
+          "time_range": "208.0s - 214.0s",
+          "query": "Visual: The video shows two sections side by side. On the left, there's an image with some green shapes resembling trees or leaves on a white background. There are also some texts like \"VIDEO BY JOSS FONG\", \"THANKS\", etc., scattered around. On the right, there's a woman speaking directly to the camera against a plain wall.\n\nAudio: The main audio is someone talking about reflexes in infants up until they're about six months old. No other distinct sounds are heard."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 624.2492413520813
+      "processing_time": 233.86799931526184
     },
     {
-      "comment_index": 4275,
+      "comment_index": 4162,
+      "video_id": "rFxu7NEoKC8",
+      "comment": "FAKE - the Qu'ran says in surah 4:34 that its OK to beat your wife. So Islam is truth and peace and not this shit. Allahu Akbar!",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 19.0,
+      "comment_timestamp": 274.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "265.0s - 271.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "271.0s - 277.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "277.0s - 283.0s",
+          "query": "Inference error: 'video_fps'"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.006704807281494141
+    },
+    {
+      "comment_index": 4163,
+      "video_id": "rFxu7NEoKC8",
+      "comment": "1:28 looks like my pet cat",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 18.0,
+      "comment_timestamp": 88.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "79.0s - 85.0s",
+          "query": "Visually, the video shows a close - up of a person's head from behind. The person has their hair pulled back. There's a diagram of the ear labeled with parts like \"Auricularis anterior, \" \"Auricularis superior, \" and \"Auricularis posterior.\" The background seems to be an indoor setting, possibly a classroom or medical environment. The colors are mostly neutral, with the diagram in yellow and black on a white background. There's no significant movement in the video, just the still image of the person and the ear diagram.Audibly, there's a voiceover saying, \"Outer ear we can't get much movement out of these muscles especially compared to some of our mammal relatives.\" The voice is clear and informative, likely explaining something about the ear's anatomy."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "85.0s - 91.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze here. The text doesn't seem to describe anything that would be visible or audible in a video. So, um, it's hard for me to give a proper analysis based on just this text. Maybe you could share more details about the video? That way, I can help better."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "91.0s - 97.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.33 GiB. GPU 1 has a total capacity of 23.56 GiB of which 2.31 GiB is free. Including non-PyTorch memory, this process has 21.24 GiB memory in use. Of the allocated memory 16.72 GiB is allocated by PyTorch, and 4.20 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 221.9572365283966
+    },
+    {
+      "comment_index": 4164,
       "video_id": "rFxu7NEoKC8",
       "comment": "0:39 italians discovered this",
       "language": "en",
@@ -439,24 +349,24 @@
         {
           "segment_index": 1,
           "time_range": "30.0s - 36.0s",
-          "query": "VISUAL: The video shows two hands on a white surface. One hand has a ring on one finger. The person is wearing a black sleeve on one arm and a striped shirt with a beige sweater over it. They move their hands slightly up and down, pushing their thumb against their pinky. AUDIO: There's some kind of narration or explanation being given during these six seconds. It seems to be related to what the hands are doing, like describing how to do something with your hands. So, what do you think about this? Do you have any other videos for me to analyze?"
+          "query": "Visually, the video shows two hands reaching out towards a white surface. The hands belong to different people, one wearing a black sleeve and the other a light-colored sleeve with some pattern. The hands move closer to the surface, and then the person with the black sleeve pushes their thumb against their pinky while tipping their hand slightly up. There's a raised band visible in the middle of the hand doing this action. The background is plain white, and there are no other objects or people in the frame. The lighting is even, and there are no shadows or other details that stand out."
         },
         {
           "segment_index": 2,
           "time_range": "36.0s - 42.0s",
-          "query": "VISUAL: Two hands are shown against a white background. One hand has \"present\" written on it with an arrow pointing to the wrist area, while the other has \"absent\" with an arrow pointing to the same wrist area. The hands move slightly up and down. There's also some text about a vestigial muscle in the forearm and its connection to the palmaris longus tendon. AUDIO: A woman is speaking about a vestigial muscle in the forearm and how it connects to the palmaris longus tendon. She mentions something about the wrist. So, what do you think about this? Do you have any questions or thoughts?"
+          "query": "Visually, there are two people standing in front of a whiteboard. Their backs are to the camera. One person is wearing a black top, and the other is in a light-colored, possibly denim-like top. They have their hands raised, palms facing the whiteboard. On the whiteboard, there are two words written: \"present\" and \"absent\", each pointing to a hand. The \"present\" word is pointing to the hand of the person in the black top, and \"absent\" is pointing to the hand of the other person. The background is plain and there's no other significant detail.\n\nAudio: There's a voiceover saying something about a vestigial muscle in the forearm that connects to the palmaris longus tendon. The voice is calm and informative."
         },
         {
           "segment_index": 3,
           "time_range": "42.0s - 48.0s",
-          "query": "VISUAL: The video shows an anatomical illustration of an arm with muscles labeled. There's also a person holding up their hands against a white background. One hand is labeled \"present\" and the other \"absent.\" The scene focuses on the arm and its muscles.AUDIO: A woman speaks about a muscle that around ten to fifteen percent of people lack on one or both arms. She mentions it's a small muscle. It seems like she might be explaining something related to anatomy or genetics.If you have any more questions about this or want to discuss something else, feel free to let me know!"
+          "query": "I'm sorry, I can't analyze videos directly. But if you describe the video to me, I'd be happy to help!"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 533.5176322460175
+      "processing_time": 185.06293892860413
     },
     {
-      "comment_index": 4276,
+      "comment_index": 4165,
       "video_id": "rFxu7NEoKC8",
       "comment": "Ecclesiastes 3:18-21 (MEV) 18 Then I thought in my heart: Regarding the account of sons of men, God is making clear to them to show that they are but animals. 19 For what befalls the sons of men befalls animals; as one dies, so dies the other. There is one breath for all of them; there is no advantage for man any more than animals, for all is vanity.20 All go to one place: All are from the dust and all return to dust. 21 Who knows whether the spirit of man goes upward and the spirit of animals goes down to the earth?  Bible disagrees with you.",
       "language": "en",
@@ -469,84 +379,24 @@
         {
           "segment_index": 1,
           "time_range": "189.0s - 195.0s",
-          "query": "VISUAL: There's an otter on some rocks at first. Then it shows a baby chimpanzee in black and white, floating against a dark background.AUDIO: A woman is speaking about how cells in the tail of humans and other apes are programmed to die a few weeks after they appear.If you have any thoughts or questions about this, feel free to share!"
+          "query": "Well, I'm not sure if there's actually any content to analyze from that image. It just shows a black screen with some white text on it. There aren't really any objects or people visible, so for the visual part, I'd say \"nothing much\". And since it's just a black screen, there's no sound either.So, yeah, not much going on here! What do you think? Do you have another image or something else you want me to look at?"
         },
         {
           "segment_index": 2,
           "time_range": "195.0s - 201.0s",
-          "query": "VISUAL: The video shows a close - up of a scientific paper or document with text on it. There's an image of a newborn baby at the top left corner. The text is about a rare genetic condition related to a tail in humans.AUDIO: A woman speaks over the visuals, saying \"Very rarely though a mutation allows the ancestral blueprint to prevail and a human baby.\" It seems like she might be narrating or explaining something related to the content shown.What do you think about this? Do you have any other questions regarding the video?"
+          "query": "Visual: The video shows a close-up view of a document with highlighted text. It appears to be an academic paper or research article discussing genetic throwbacks related to human tails.\n\nAudio: There is no distinct audio present other than the background noise from the camera capturing the scene."
         },
         {
           "segment_index": 3,
           "time_range": "201.0s - 207.0s",
-          "query": "VISUAL: The video shows a page from a medical document with some text and an image of a baby being held. The text is about a case study related to pregnancy and birth. There's also a picture of a baby with a tail. The background seems like it could be a table or desk where the paper is placed.AUDIO: There's no clear speech or dialogue in the audio. It just has some kind of music playing in the background."
+          "query": "Visually, there's an image of a medical document or report with some highlighted sections. It seems to be related to pregnancy and childbirth details. There s also a photo of a baby being held up, looking happy.\n\nAudio-wise, it starts with some background music that fades out quickly. Then, someone speaks, saying \"the most adorable.\" The tone is positive and cheerful."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 355.2362916469574
+      "processing_time": 122.51096320152283
     },
     {
-      "comment_index": 4277,
-      "video_id": "rFxu7NEoKC8",
-      "comment": "2:29 I JUST SPIT OUT MY SPAGHETTI OH MY GOD",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 15.0,
-      "comment_timestamp": 149.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "140.0s - 146.0s",
-          "query": "VISUAL: There's a pigeon sitting on a stone wall. The stones look rough and uneven. The pigeon is mostly gray with some black markings on its wings and tail. It doesn't seem to be moving much.AUDIO: Someone is speaking about adrenaline being involved in the body's response to cold temperatures. The tone seems calm and informative.If you have any other thoughts or questions about it, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "146.0s - 152.0s",
-          "query": "VISUAL: There's a fox standing on grass near a fence. Then it looks at its reflection in a mirror. The fox has brown fur with some black markings. The mirror is framed purple. The background seems to be an outdoor area with some greenery.AUDIO: A woman is speaking about adrenaline being part of the fight or flight response. She mentions how it helps animals appear larger when threatened and makes them more alert.So, what do you think about that? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "152.0s - 158.0s",
-          "query": "VISUAL: There's a cat walking on a surface near a glass door with pink frames. Then it jumps onto another cat that's lying down. The cats seem to be interacting in some way.AUDIO: There's no distinct audio described here.So, what do you think about these cats? Have you seen similar interactions before?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 451.7950758934021
-    },
-    {
-      "comment_index": 4278,
-      "video_id": "rFxu7NEoKC8",
-      "comment": "ThatOneDarcee everything post 3:25 isn't worth watching and shouldn't be considered part of the video. It's just advertisement and credits.",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 14.0,
-      "comment_timestamp": 205.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "196.0s - 202.0s",
-          "query": "VISUAL: The video shows a close - up of a scientific paper about newborns with tails. There's an image of a baby lying down on the right side of the page. The text is mostly black on a white background.AUDIO: A woman speaks over the visuals, saying \"A mutation allows the ancestral blueprint to prevail and a human baby will be born with a.\" It seems like she might be explaining something related to the content of the paper. What do you think about this? Do you have any other questions regarding it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "202.0s - 208.0s",
-          "query": "VISUAL: The video shows a page from a medical document with some text about a case study on a baby with a vestigial tail. There's also an image of a newborn baby lying down, with its small tail circled. Then it cuts to a woman talking in front of a screen that has \"Subscribe\" written on it.AUDIO: There is no distinct speech or music heard in the audio. It seems like there might be some background noise or static, but nothing clear enough to identify.Anything else you noticed in the video?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "208.0s - 214.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a gray top. She seems to be speaking or presenting something. In the background, there are some trees drawn on the wall and a man standing behind a podium labeled \"Senator Vermont.\" The setting looks like an indoor space, possibly a studio or office.AUDIO: A female voice is speaking about the palmar grasp reflex in infants up until six months old. It's just her talking without any other sounds like music or sound effects. So, that's it for the analysis. What do you think about this? Do you have any other questions related to this?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 592.629688501358
-    },
-    {
-      "comment_index": 4279,
+      "comment_index": 4166,
       "video_id": "rFxu7NEoKC8",
       "comment": "David H 1 Corinthians 6:19",
       "language": "en",
@@ -559,24 +409,24 @@
         {
           "segment_index": 1,
           "time_range": "370.0s - 376.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 2,
           "time_range": "376.0s - 382.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 3,
           "time_range": "382.0s - 388.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.10093474388122559
+      "processing_time": 0.005103349685668945
     },
     {
-      "comment_index": 4280,
+      "comment_index": 4167,
       "video_id": "rFxu7NEoKC8",
       "comment": "\"The reason they say that the earth is flat in the Bible is because they thought it was! The people at the time all thought the earth was flat all of them...\"  # Eratosthenes of Alexandria (d. 194 BC) is credited with being the first person in history to measure the Earth's circumference. Ancient Greeks since the time of Eratosthenes already knew the Earth was NOT flat.   \"Of course if the earth stopped that would cause problems but God can stop those problems...\"  # Really? How do you know that?  Here's my favorite passage from the bible: \"Judges 1:19 The LORD was with the men of Judah. They took possession of the hill country, but they were unable to drive the people from the plains, because they had chariots fitted with iron.\" So, if the \"omnipotent\" god can not overcome \"chariots of iron\", what makes you think he can stop those problems?",
       "language": "en",
@@ -589,21 +439,171 @@
         {
           "segment_index": 1,
           "time_range": "70.0s - 76.0s",
-          "query": "VISUAL: The video shows a graph comparing the Palmaris Longus muscle length to tendon length across different primates like lemurs, New World primates, Old World primates, apes, and humans. There are also images of these primates next to their respective data points on the graph.AUDIO: A woman is speaking about chimps, gorillas, and other apes not doing much scrambling through trees. She mentions that it's not just one left over.If you have any more questions or want to discuss something else related to this, feel free to let me know!"
+          "query": "Visually, the video shows a street scene. There are people walking on the sidewalk, and a bus is visible in the background. The lighting suggests it might be early morning or late afternoon, with long shadows cast on the ground. The people are dressed in casual clothing, and the overall scene has a calm, everyday feel.\n\nAudio-wise, there's a voiceover that says, \"in chimps gorillas and other apes that.\" The voice is clear and steady, but the context of the rest of the speech isn't provided in this short segment."
         },
         {
           "segment_index": 2,
           "time_range": "76.0s - 82.0s",
-          "query": "VISUAL: The video shows an anatomical illustration of a head from the side view. It highlights three muscles around the ear labeled \"Auricularis anterior\", \"Auricularis superior\", and \"Auricularis posterior\". The muscles are colored differently for emphasis.AUDIO: There's a voiceover explaining something about these muscles related to movement. No other sounds or music are present.If you have any more questions about this or want to discuss something else, feel free to let me know!"
+          "query": "I'm sorry, but I can't analyze the video segment you mentioned."
         },
         {
           "segment_index": 3,
           "time_range": "82.0s - 88.0s",
-          "query": "VISUAL: There's a moose standing among some dry bushes and trees. It seems to be looking around. Then there's a cat sitting still, its fur is light brown with darker markings on its face and ears. The background for both animals looks like an outdoor setting.AUDIO: There's no clear speech or music in the audio. Just some kind of ambient noise that might be from nature, like rustling leaves or birds chirping.What do you think about these descriptions? Do you have any other questions related to the video?"
+          "query": "Well, in the visual part, it seems like there's a moose in a natural setting, maybe a forest or a field. It's just standing there, looking around. And then there's a cat, also in a similar environment, but it's looking in a different direction. Oh, and there's a person in the background, but they're not really doing anything special. The colors are mostly earthy tones, like browns and greens.As for the audio, there's no speech or music. Just some ambient sounds, like the rustling of leaves or maybe some distant animal noises. It's pretty quiet overall.What do you think about this? Do you have any other questions?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 331.30856251716614
+      "processing_time": 268.8179659843445
+    },
+    {
+      "comment_index": 4168,
+      "video_id": "rFxu7NEoKC8",
+      "comment": "2:32 you made my day!!",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 13.0,
+      "comment_timestamp": 152.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "143.0s - 149.0s",
+          "query": "Oh, it seems like there's been some confusion here. The image you've provided is actually an anatomical diagram showing the adrenal glands and their function related to adrenaline production, not a video with any visual or audio content. So, I can't really describe what happens visually or audibly in the video based on that image. If you have another image or if you meant something else, feel free to clarify!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "149.0s - 155.0s",
+          "query": "Well, in the visual part, there's a cat looking at its reflection in a mirror. The cat seems to be curious or maybe a bit startled. The mirror is framed in purple. In the audio part, there's a woman singing into a microphone. It sounds like she's performing on a stage with some lights in the background. What do you think about this video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "155.0s - 161.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short clip. There seems to be no visible action or objects, just a blank screen. And for the audio, it could be anything - maybe someone talking about something else entirely? But without more details, it's really hard to say for sure. What do you think might have been shown in those six seconds?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 250.2953429222107
+    },
+    {
+      "comment_index": 4169,
+      "video_id": "rFxu7NEoKC8",
+      "comment": "the baby on 3:21 is a Saiyan.",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 12.0,
+      "comment_timestamp": 201.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "192.0s - 198.0s",
+          "query": "Sorry, I can't analyze videos directly. But if you describe the content to me, I'd be happy to help!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "198.0s - 204.0s",
+          "query": "**Visual:** The video shows a close-up of a document with text on it. There's also an image of a baby being held up to its mother's face.\n\n**Audio:** Someone is speaking about genetic storage and evolution, mentioning that many paleontologists believe bones disappear during evolution due to genetic blueprint changes. They discuss how most species carry genes for tails that can \"switch off\" and not express them as fully formed structures."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "204.0s - 210.0s",
+          "query": "**Visual:** The video shows a woman speaking directly to the camera. She appears to be in an indoor setting with some objects like a plant visible behind her.\n\n**Audio:** There is no distinct dialogue or speech audible during these six seconds. Instead, there seems to be background music playing throughout."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 93.99594354629517
+    },
+    {
+      "comment_index": 4170,
+      "video_id": "rFxu7NEoKC8",
+      "comment": "3:04 The alligator embryo looks the cutest.",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 12.0,
+      "comment_timestamp": 184.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "175.0s - 181.0s",
+          "query": "I'm sorry, I can't analyze videos directly. But if you describe the video to me, I'd be happy to help!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "181.0s - 187.0s",
+          "query": "I'm sorry, I can't view videos directly. But if you describe the content to me, I'd be happy to help analyze it!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "187.0s - 193.0s",
+          "query": "Well, I don't actually have access to videos directly. But if we're talking about a typical scenario where someone is describing a video like that, here's how it might go:.For the visual part, they'd probably say something like \"There's an otter walking on some rocks.\" And for the audio part, they might mention there's no specific sound described.So, do you want me to make up a similar description based on your own imagination?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 79.79155397415161
+    },
+    {
+      "comment_index": 4171,
+      "video_id": "rFxu7NEoKC8",
+      "comment": "propaganda of opinions (not fact/proof). it ONLY makes sense in the framework of evolution (by natural selection), you say? hahahahaha  the wrist tendon is proof, cause tree dwellers have them?  lol so a car evolved from a skateboard, cause they both have wheels then? this video is calling man, an ape (@1:11)  hmm, imagine that... we can make all kinds of faces, but those ears man.... those ears!!! lol are you kidding me? #reaching  wow! a study showed that SOUND stimulated the EAR! hahaha strange... maybe i should get grant money for a study on how smells stimulate the nose! #comonson  goosebumps! oh my goodness! imagine the largest organ we have reacting to outside stimuli !! i suppose this indicator, important for survival mind you, is just some evolutionary characteristic... are you kidding me?! I'm getting the feeling that you people literally think that human beings would be helpless if it weren't for animals' alleged contribution to our current form...  the tail bone serves as an anchor for some muscles (yes, correct), but is also the remainder of blah blah blah from our ape ancestors... #facepalm #smh #EvidenceOverOpinion   the embryo scam was refuted (shortly after it was introduced by haeckel) in jena in the 1800s. I'm unsubscribing after this lol wow!  grasping at things with your hands and feet is a leftover evolutionary quality? what about blinking, you forgot that... or breathing, smiling, eating, etc. etc. etc.  this chick is beautiful, its just too bad she aint that bright...  #JesusSaves",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 12.0,
+      "comment_timestamp": 71.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "62.0s - 68.0s",
+          "query": "I'm sorry, I can't actually analyze videos directly. But if you describe the video to me, I'd be happy to help!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "68.0s - 74.0s",
+          "query": "Sorry, I can't analyze videos directly. But if you describe the content to me, I'd be happy to help!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "74.0s - 80.0s",
+          "query": "I'm sorry, but I can't analyze a video segment without actually seeing or hearing it. Could you please provide more details or upload the video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 124.40716457366943
+    },
+    {
+      "comment_index": 4172,
+      "video_id": "rFxu7NEoKC8",
+      "comment": "Everyone stop arguing and watch the clip of the cat 2:27",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 11.0,
+      "comment_timestamp": 147.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "138.0s - 144.0s",
+          "query": "Well, in the video, visually, there's a pigeon sitting on a stone wall. The pigeon is gray with some white and black markings. The wall is made of large, rough stones. There's not much movement from the pigeon, it just seems to be perched there. In the audio, there's a woman speaking. She's talking about adrenaline and how it's involved in the body's response to certain situations. She mentions seeing a puffy pigeon on a cold day, which is a bit of a strange comparison, but it seems to be part of her explanation. What do you think about that? Do you have any other thoughts on the video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "144.0s - 150.0s",
+          "query": "Oh, okay! So here's what I noticed:.Visually, there s an animal walking on grass near a fence. It looks like it might be a fox or something similar. The background is mostly green with some brownish tones from the grass and fence.Audibly, hmm. there doesn t seem to be any distinct speech or music. Just maybe some faint natural sounds? What do you think about that?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "150.0s - 156.0s",
+          "query": "Well, I'm not sure if there's actually any video here to analyze. But generally speaking, for describing a video visually, you'd look at things like how many people are in it, what they're doing, where they are, and what objects or scenery are around them. For example, if there were three people singing on stage with microphones, that would be something to note.For the audio part, you'd listen for things like whether there's music playing, if someone is talking, or if there are any special sound effects. If there was a song being sung along with some background music, that would be important details.So, can you tell me more about this video? Maybe we can figure out what to write!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 193.00099730491638
     }
   ]
 }

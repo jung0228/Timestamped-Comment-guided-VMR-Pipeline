@@ -6,7 +6,7 @@
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 3772,
+      "comment_index": 4553,
       "video_id": "stRtOHjh6lY",
       "comment": "6:40  Matt Damon: \"This is the Most Fun I've Ever Had on a Talk Show\"",
       "language": "en",
@@ -19,24 +19,54 @@
         {
           "segment_index": 1,
           "time_range": "391.0s - 397.0s",
-          "query": "VISUAL: There's a man in a dark suit sitting on a red chair with a star behind him. He seems to be talking or reacting to something. Then there's another man in a gray jacket who appears to be laughing or speaking animatedly.AUDIO: Someone is saying \"hi\" and then expressing admiration for Matt Damon in the fourth. It sounds like they're on some kind of talk show or interview setting.What do you think about it? Do you have any other thoughts or questions related to this video?"
+          "query": "**Visual:** A man is sitting on a red chair with a star behind him. He's wearing a suit and tie. There are some colorful shapes moving around in the background.\n\n**Audio:** Someone is speaking about Matt Damon being amazing in \"The Fourth.\" The speaker seems enthusiastic."
         },
         {
           "segment_index": 2,
           "time_range": "397.0s - 403.0s",
-          "query": "VISUAL: There's a man in a suit sitting on a stage with a bright orange background featuring purple shapes. He seems to be talking or reacting to something. Another person is partially visible behind him.AUDIO: You can hear applause and some kind of jingle or music playing in the background. The man also says \"By the way this is the best time I've ever had on.\" What do you think about it?"
+          "query": "Visually, there's a man in a dark suit sitting in front of a backdrop with purple and orange horizontal lines. He seems to be on a talk show or similar setting. There's also a brief moment where a hand touches his shoulder. The scene is well-lit, and the colors are vibrant.\n\nAudibly, there's laughter and applause, suggesting a light-hearted or entertaining moment. There's also a bit of speech, likely from the man in the suit, but it's not fully clear what he's saying."
         },
         {
           "segment_index": 3,
           "time_range": "403.0s - 409.0s",
-          "query": "VISUAL: There's a man in a gray suit sitting on a stage with an orange background having purple shapes. He seems to be talking or reacting to something. Then there's another scene where two men are sitting together, one in a red jacket and the other in a brown jacket. They're both looking at something off - screen. The background is dark with some lights and shapes.AUDIO: You can hear applause and some kind of music playing in the background. It gives a lively feel to the talk show setting. So, what do you think about this talk show?"
+          "query": "Visually, there are multiple people on a stage with a colorful backdrop. The colors are mainly purple and orange, with some white and yellow elements. The people seem to be engaged in some kind of performance or presentation, with one person in the foreground appearing to speak or gesture. The background has a star-like design and some abstract shapes.\n\nAudibly, there's a lot of applause and cheering, suggesting an enthusiastic audience. There's also some speech, likely from the person in the foreground, but it's difficult to make out the exact words due to the crowd noise."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 232.91477727890015
+      "processing_time": 216.62121295928955
     },
     {
-      "comment_index": 3773,
+      "comment_index": 4554,
+      "video_id": "stRtOHjh6lY",
+      "comment": "4:32 internal damon dialogue: \"i feel like such a maroon\"",
+      "language": "en",
+      "channel_name": "OfficialGrahamNorton",
+      "category": "variety show",
+      "likes": 25.0,
+      "comment_timestamp": 272.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "263.0s - 269.0s",
+          "query": "Visually, there are three men sitting on a stage. They're dressed in suits, and the background has a mix of orange and purple hues with some abstract shapes. One of the men is leaning back in his chair, looking relaxed. There are glasses on the table in front of them. The scene seems to be part of a talk show or a similar setting.\n\nAudibly, there's laughter from the audience, indicating that something amusing has happened or is being said."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "269.0s - 275.0s",
+          "query": "Visually, there's a man in a suit sitting in front of a bright orange and purple background. He seems to be talking or reacting to something. There are also some other people in the background, but they're not the main focus. The colors are really vivid, with the orange and purple standing out.The audio has a man speaking, and there's laughter and applause in the background. It sounds like a lively, possibly entertainment-related setting."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "275.0s - 281.0s",
+          "query": "Well, in the video, there's a man in a suit. He's standing in front of a background with orange and purple shapes. He seems to be talking or presenting something. There's no music or sound effects, just his speech. What do you think he might be talking about?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 277.10935950279236
+    },
+    {
+      "comment_index": 4555,
       "video_id": "stRtOHjh6lY",
       "comment": "6:41 Yet his most dearest wish is to be seating in a guess chair in jimmy kimmel show and not get run out of time.   Yeah, I know its a joke-feud but thats the vibe I get after watching several youtube vid.",
       "language": "en",
@@ -49,24 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "392.0s - 398.0s",
-          "query": "VISUAL: There's a man in a suit sitting on a red chair with his hand near his face. Then it cuts to another man in a dark suit talking while holding something in his hand. The background has purple lights and shapes.AUDIO: Someone is speaking about Matt Damon being amazing in \"The Fourth Form.\".If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's someone sitting on a red chair with a star behind them. They're wearing a suit and seem to be talking or reacting to something. The background has some purple elements. In terms of audio, it seems like there s a conversation going on, possibly with laughter involved. What do you think about that?"
         },
         {
           "segment_index": 2,
           "time_range": "398.0s - 404.0s",
-          "query": "VISUAL: There's a man in a dark suit sitting on a stage with an orange background that has purple shapes. He seems to be talking or reacting to something. Another person is partially visible behind him, wearing a hat and a brown jacket.AUDIO: You can hear applause and some cheering from an audience, along with a man speaking. It sounds like he's saying \"By the way this is the best time I've ever had on the talk show.\" What do you think about it?"
+          "query": "Visually, there's a man in a dark suit sitting in front of a background with horizontal purple and orange stripes. He seems to be on a talk show set. There's applause and cheering in the audio, suggesting a positive and lively atmosphere."
         },
         {
           "segment_index": 3,
           "time_range": "404.0s - 410.0s",
-          "query": "VISUAL: There's a man sitting on a chair in an orange room with some purple accents. He seems to be talking or reacting to something. Then there's another scene where two men are sitting together, one is wearing a hat and they both look like they're engaged in conversation. The background has a star - shaped logo on a screen. There's also a woman in a red dress standing up, possibly dancing or moving around. The overall setting looks like a talk show or interview setup.AUDIO: You can hear applause from the audience throughout the clip. There's no distinct speech or music that stands out. It just seems like a typical reaction during a live event. So, what do you think about this kind of setting? Do you often watch shows like this?"
+          "query": "Visually, there are three people sitting on a red couch. The background has a purple and orange color scheme with some circular and rectangular shapes. One person is wearing a dark suit, another has long blonde hair and is wearing a red outfit, and the third is in a brown outfit with a hat. They seem to be engaged in a conversation or an interview. There's also a small round object on the right side of the frame. The scene appears to be indoors, possibly a studio or a set for a talk show or interview show.\n\nIn terms of audio, there's applause heard in the background, suggesting that the people on the couch might be responding to something positive or receiving praise."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 275.7514383792877
+      "processing_time": 259.49081015586853
     },
     {
-      "comment_index": 3774,
+      "comment_index": 4556,
       "video_id": "stRtOHjh6lY",
       "comment": "4:20 I´ve never even seen this color, and now I see it on three men at once.  This left me in stitches.",
       "language": "en",
@@ -79,54 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "251.0s - 257.0s",
-          "query": "VISUAL: There's a group of men on a talk show set. One man is standing up, talking into a microphone while others sit around him. The set has bright orange and purple lighting with some decorative elements like flowers and glasses on tables. The men are dressed formally.AUDIO: You can hear laughter from an audience, then someone says \"beautifully done nicely seamless no one'll notice thanks for setting\" in a calm tone.What do you think about the scene? Do you have any other questions related to it?"
+          "query": "**Visual:** The video shows three men sitting on a stage. They are dressed formally, with one wearing a red blazer and patterned shirt, another in a dark suit, and the third in a brown jacket. The background is colorful with purple and orange hues, and there are some decorative elements like flowers and a star-shaped logo. The men appear to be engaged in conversation, with one gesturing while speaking.\n\n**Audio:** There is laughter heard in the audio, suggesting a light-hearted or humorous moment during the conversation."
         },
         {
           "segment_index": 2,
           "time_range": "257.0s - 263.0s",
-          "query": "VISUAL: There are three men sitting on red chairs against an orange background with purple shapes. They're dressed formally, two in suits and one in a hat. One man is talking while gesturing, another is listening intently, and the third seems to be laughing or reacting. There's a table in front of them with glasses of water and wine.On the wall behind them, there's a logo that says \"the graham norton show\" with a star symbol.AUDIO: The main audio is someone speaking about sending a memo to everyone except themselves, which they find odd and weird. There's also laughter from the other two men in response to this statement.So, what do you think about this scene? Any thoughts or questions?"
+          "query": "**Visual:** The video shows three men sitting on a red couch in what appears to be a talk show setting. They are dressed formally, with two in suits and one in a more casual outfit. The background is orange with some purple accents, and there are glasses of water on the table in front of them. One man is speaking while the others listen attentively.\n\n**Audio:** There is a conversation happening among the men. The speaker seems to be making a point or telling a story, and the others react with nods and laughter. The tone is light-hearted and conversational."
         },
         {
           "segment_index": 3,
           "time_range": "263.0s - 269.0s",
-          "query": "VISUAL: There's a man in a gray suit sitting on a red couch against an orange background with purple shapes. He seems to be talking or reacting to something. Then it cuts to three men sitting together on the same red couch. One is wearing a dark suit, another has a hat and a patterned shirt, and the third is also in a dark suit. They're all looking at each other and seem engaged in conversation. The scene then shifts back to just the man in the gray suit, who continues his interaction. The background remains consistent throughout.AUDIO: There's laughter heard during the entire clip. It starts when the first man is speaking and continues until the end of the six seconds."
+          "query": "Visually, there are three men sitting on a stage. They're dressed in suits, and the background has a mix of orange and purple hues with some abstract shapes. One of the men is leaning back in his chair, looking relaxed. There are glasses on the table in front of them. The scene seems to be part of a talk show or a similar setting.\n\nAudibly, there's laughter from the audience, indicating that something amusing has happened or is being said."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 321.973317861557
+      "processing_time": 307.36471343040466
     },
     {
-      "comment_index": 3775,
-      "video_id": "stRtOHjh6lY",
-      "comment": "Anyone notice that the title of the video isn't actually what Matt says at 6:40?",
-      "language": "en",
-      "channel_name": "OfficialGrahamNorton",
-      "category": "variety show",
-      "likes": 12.0,
-      "comment_timestamp": 400.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "391.0s - 397.0s",
-          "query": "VISUAL: There's a man in a dark suit sitting on a red chair with a star behind him. He seems to be talking or reacting to something. Then there's another man in a gray jacket who appears to be laughing or speaking animatedly.AUDIO: Someone is saying \"hi\" and then expressing admiration for Matt Damon in the fourth. It sounds like they're on some kind of talk show or interview setting.What do you think about it? Do you have any other thoughts or questions related to this video?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "397.0s - 403.0s",
-          "query": "VISUAL: There's a man in a suit sitting on a stage with a bright orange background featuring purple shapes. He seems to be talking or reacting to something. Another person is partially visible behind him.AUDIO: You can hear applause and some kind of jingle or music playing in the background. The man also says \"By the way this is the best time I've ever had on.\" What do you think about it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "403.0s - 409.0s",
-          "query": "VISUAL: There's a man in a gray suit sitting on a stage with an orange background having purple shapes. He seems to be talking or reacting to something. Then there's another scene where two men are sitting together, one in a red jacket and the other in a brown jacket. They're both looking at something off - screen. The background is dark with some lights and shapes.AUDIO: You can hear applause and some kind of music playing in the background. It gives a lively feel to the talk show setting. So, what do you think about this talk show?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 234.24544048309326
-    },
-    {
-      "comment_index": 3776,
+      "comment_index": 4557,
       "video_id": "stRtOHjh6lY",
       "comment": "The gentleman @0:19 must be Bri'ish. He downed half of glass of wine and looked around like he just stole Crown Jewels and on top of that speeded by 2 mph while getting away.",
       "language": "en",
@@ -139,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "10.0s - 16.0s",
-          "query": "VISUAL: There are three men sitting on red chairs around a round table with drinks. They're all wearing suits or semi-formal clothes. One man is raising his drink high while the others look at him. The background has an orange wall with purple lights. There's also a TV screen showing a star logo.AUDIO: You can hear clapping and cheering from an audience. It seems like they're reacting to something funny or exciting that happened during the video. So, what do you think about it?"
+          "query": "Visually, there are three men sitting on a red couch in a studio setting. The man in the middle is wearing a hat and a suit, and he's holding a microphone. The other two men are also dressed formally. There are some drinks on the table in front of them. The background has a colorful, patterned design. The scene seems to be part of a talk show or interview.\n\nAudibly, there's applause and cheering from an unseen audience."
         },
         {
           "segment_index": 2,
           "time_range": "16.0s - 22.0s",
-          "query": "VISUAL: There's a group of men sitting on a talk show set. They're dressed formally, like suits. One man is speaking while others listen or react. The set has bright colors, mainly orange and purple. There's a table with some fruits and glasses on it.AUDIO: You can hear applause from an audience throughout the clip. There's also a bit of speech from one of the men on the show. It seems to be a lively moment during the show. So, what do you think about this kind of talk show?"
+          "query": "Visually, there's a group of men sitting on chairs around a table with some fruits and drinks. The background has colorful lighting, mainly orange and purple hues. One man is speaking directly to the camera while others seem engaged in conversation or listening. There s also applause heard from an unseen audience."
         },
         {
           "segment_index": 3,
           "time_range": "22.0s - 28.0s",
-          "query": "VISUAL: There's a group of men sitting on red chairs in a studio setting with an orange and purple background. One man is holding a microphone and gesturing while talking. The others are listening or reacting. There's a round table in front of them with some fruits and glasses.AUDIO: You can hear applause and cheering from an audience, along with some male speech. It seems like they're responding to something said during the conversation. What do you think about it?"
+          "query": "**Visual:** The video shows four men sitting on red chairs arranged around a round table with a red surface. They're dressed formally, wearing suits or similar attire. One man is gesturing with his hand while speaking, and another appears to be laughing. The background has an orange hue with some purple lighting accents.\n\n**Audio:** There's applause from an unseen audience, followed by someone saying \"Wow.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 246.1818344593048
+      "processing_time": 132.66900086402893
     },
     {
-      "comment_index": 3777,
+      "comment_index": 4558,
       "video_id": "stRtOHjh6lY",
       "comment": "1:17 Bill Murray laughing. He clearly knows the scenario well. In his own life",
       "language": "en",
@@ -169,54 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "68.0s - 74.0s",
-          "query": "VISUAL: There's a man in a gray suit talking on stage with an orange background having purple shapes. Then another man in a brown hat and suit appears next to him. They're both sitting on red chairs.AUDIO: Someone is speaking about starting a show together, but there seems to be some kind of problem. It's just speech without any other sounds like music or sound effects. So, what do you think might be going wrong?"
+          "query": "Visually, there are two men sitting on a red couch. One is wearing a gray suit and the other a brown suit with a black hat. The background is orange with purple horizontal lines. The man in the gray suit is talking and gesturing with his hands. The man in the brown suit is listening and looking at him.\n\nAudio-wise, there's a man speaking, and it sounds like he's talking about a problem related to starting a show together."
         },
         {
           "segment_index": 2,
           "time_range": "74.0s - 80.0s",
-          "query": "VISUAL: There are two men sitting on a red couch against an orange background with purple shapes. One man is wearing a gray suit and black shirt, while the other has a brown hat, brown jacket, and green shirt. The man in the gray suit seems to be talking and gesturing with his hands.AUDIO: A male voice is speaking, saying \"And I came to bed one night and she said 'I've just watched six of them.' And she was like all.\" It's a bit hard to understand fully due to some background noise.If you have any more questions about this or want to discuss something else related to it, feel free to let me know!"
+          "query": "**Visual:** The video shows two men sitting on a red couch against a background with orange and purple rectangular shapes. One man is wearing a gray suit and the other is in a brown suit with a black hat. They seem to be engaged in a conversation. The camera focuses on the man in the gray suit as he speaks.\n\n**Audio:** There's a man speaking, and at one point, there's laughter from an unseen source."
         },
         {
           "segment_index": 3,
           "time_range": "80.0s - 86.0s",
-          "query": "VISUAL: There are three men sitting on red couches against an orange background with purple shapes. One man is wearing a gray suit, another has a black hat and dark clothes, and the third is in a brown suit. They seem to be having a conversation. The man in the middle covers his mouth while laughing. There's a table in front of them with glasses on it.AUDIO: A male voice says \"I'll tell you I'll tell you what happened\" twice, followed by laughter. It seems like they're sharing some funny story or joke.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Visually, there are three men sitting on a red couch. They're dressed in suits, and the background has a bright orange color with some purple accents. There are glasses on the table in front of them. One of the men is laughing, and another seems to be talking or reacting to something. The third man is looking at the other two.\n\nIn terms of audio, there's laughter and some speech. It sounds like they're having a light-hearted conversation or a funny moment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 287.88320302963257
+      "processing_time": 309.5086884498596
     },
     {
-      "comment_index": 3778,
-      "video_id": "stRtOHjh6lY",
-      "comment": "Have you noticed the title of the video isn't actually what Matt says?  Read the title then go to 6:40",
-      "language": "en",
-      "channel_name": "OfficialGrahamNorton",
-      "category": "variety show",
-      "likes": 7.0,
-      "comment_timestamp": 400.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "391.0s - 397.0s",
-          "query": "VISUAL: There's a man in a dark suit sitting on a red chair with a star behind him. He seems to be talking or reacting to something. Then there's another man in a gray jacket who appears to be laughing or speaking animatedly.AUDIO: Someone is saying \"hi\" and then expressing admiration for Matt Damon in the fourth. It sounds like they're on some kind of talk show or interview setting.What do you think about it? Do you have any other thoughts or questions related to this video?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "397.0s - 403.0s",
-          "query": "VISUAL: There's a man in a suit sitting on a stage with a bright orange background featuring purple shapes. He seems to be talking or reacting to something. Another person is partially visible behind him.AUDIO: You can hear applause and some kind of jingle or music playing in the background. The man also says \"By the way this is the best time I've ever had on.\" What do you think about it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "403.0s - 409.0s",
-          "query": "VISUAL: There's a man in a gray suit sitting on a stage with an orange background having purple shapes. He seems to be talking or reacting to something. Then there's another scene where two men are sitting together, one in a red jacket and the other in a brown jacket. They're both looking at something off - screen. The background is dark with some lights and shapes.AUDIO: You can hear applause and some kind of music playing in the background. It gives a lively feel to the talk show setting. So, what do you think about this talk show?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 230.78986167907715
-    },
-    {
-      "comment_index": 3779,
+      "comment_index": 4559,
       "video_id": "stRtOHjh6lY",
       "comment": "At 1:37, the way he says \"time\" sounds almost mid-Atlantic or Southern to my ears.",
       "language": "en",
@@ -229,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "88.0s - 94.0s",
-          "query": "VISUAL: There are two men sitting on a red couch against an orange background with purple shapes cut out. One man is wearing a gray suit and has short brown hair. The other is in a maroon suit with a black hat and has white hair. They seem to be laughing or reacting to something. The camera zooms in on the man in the gray suit.AUDIO: Someone is speaking, saying \"she didn't want to go back and so she's done the whole thing and I'm and I'm on my own.\" It seems like they're talking about someone not wanting to return to a situation and being left alone because of it.So, what do you think about this scene? Do you have any ideas about why they might be laughing?"
+          "query": "**Visual:** The video shows two men sitting on a red couch against an orange background with purple rectangular shapes. One man is wearing a gray suit and the other is in a brown suit with a black hat. They seem to be engaged in a conversation, with the man in the gray suit gesturing with his hands. The setting looks like a talk show or interview setup.\n\n**Audio:** There is a man speaking, likely the host or interviewer, and he seems to be laughing or reacting to something. The speech is in English, and the tone suggests a light-hearted or humorous conversation."
         },
         {
           "segment_index": 2,
           "time_range": "94.0s - 100.0s",
-          "query": "VISUAL: There's a man in a suit sitting on a red couch with two other men. One is wearing a hat and the other has a tie. They're all looking at something off - screen. The background has an orange wall with purple shapes cut out of it.AUDIO: A male voice is speaking, saying \"So I will watch down that because I love you but uh I'm gonna have to find time somehow.\" It seems like he's talking about watching someone or something closely for some reason.If you want to talk more about this video or anything else, feel free to let me know!"
+          "query": "Visually, there are three men sitting on a red couch. They're dressed in suits, one with a hat. The background has a pattern of orange and purple circles. There are glasses on the table in front of them. The men seem to be engaged in conversation, with one of them laughing. The setting looks like a talk show or a similar program.\n\nAudio-wise, there's a man speaking. He says, \"I will watch down that because I love you but I'm gonna have to find time somehow.\" The tone seems light-hearted, and there's no background music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "100.0s - 106.0s",
-          "query": "VISUAL: There's a man with gray hair and a beard sitting on a chair, talking animatedly while gesturing with his hands. He's wearing a brown suit. In front of him is a red table with some fruits on it. Behind him, there are three other people sitting on a couch - two men and one woman. The background has an orange wall with purple lights and a TV screen showing \"The Graham Norton Show\" logo.AUDIO: A male voice is speaking excitedly about Damon being here, mentioning that certain parts of the audience are very excited too. It seems like he's talking to the audience or someone off - camera.If you have any more questions about the video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Visually, there are four people sitting in a studio setting. They're on a stage with a purple and orange color scheme. There are chairs, a table with some items on it, and a screen in the background. The people are dressed formally, and they seem to be engaged in a conversation or discussion. The lighting is bright, highlighting the stage area.\n\nAudibly, there's a man speaking. He seems to be talking about something with excitement, mentioning \"David\" and expressing that the audience is very excited too. There are no other distinct sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 350.7517421245575
+      "processing_time": 265.5546381473541
     },
     {
-      "comment_index": 3780,
+      "comment_index": 4560,
       "video_id": "stRtOHjh6lY",
       "comment": "3:26 Jessica Chastain's reaction is gold.",
       "language": "en",
@@ -259,24 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "197.0s - 203.0s",
-          "query": "VISUAL: There's a man and a woman sitting on a red couch. The background has an orange wall with purple lights. They both have drinks in their hands. The man is wearing a suit and tie, while the woman is in a blue dress. They seem to be laughing or reacting to something.The AUDIO: You can hear laughter throughout the clip. It seems like there might be some kind of funny conversation going on between them.What do you think about it? Do you want to know more about the context?"
+          "query": "**Visual:** The video shows two people sitting on a stage. One is a man in a suit, and the other is a woman in a blue dress. They appear to be on a talk show set, with a screen in the background displaying text. The man is gesturing with his hand, and the woman is looking at him. The background has a pattern of purple and orange shapes.\n\n**Audio:** There is laughter and applause from an unseen audience, followed by a man speaking."
         },
         {
           "segment_index": 2,
           "time_range": "203.0s - 209.0s",
-          "query": "VISUAL: There's a group of four people sitting on red couches in a studio setting with colorful lighting. One person is wearing a suit and tie, another has long hair and is dressed casually. They seem to be engaged in conversation.AUDIO: Someone is speaking, but it's not clear who or what they're saying. It could be a host or guest talking about something related to Matt Damon. The tone seems casual and conversational.What do you think about that? Do you have any other thoughts on the video?"
+          "query": "Oh, that's a bit of a strange video!Visually, there's a man in a suit sitting in a room with a purple and orange glow. There are other people in the background, but they're not really the focus. The man seems to be talking or reacting to something.Audibly, there's a voice saying something about using a ponytail to steer, which is really odd. It's like a mix of a normal conversation and this really weird statement. It's hard to tell if it's part of a joke or something serious.What do you think about it?"
         },
         {
           "segment_index": 3,
           "time_range": "209.0s - 215.0s",
-          "query": "VISUAL: There's a man in a suit sitting on a red couch with a glass in his hand. A woman in a blue dress is next to him, laughing and covering her face. The background has an orange wall with purple shapes. The scene seems like it could be from a talk show.AUDIO: You can hear laughter throughout the clip. It starts at around 1 second and continues until about 5 seconds. There's also some applause towards the end, starting at about 4.75 seconds and lasting for a bit longer than the laughter.Does that help? Let me know if you want me to clarify anything!"
+          "query": "Visually, there are two people sitting on a red couch. One is wearing a suit and tie, and the other is in a blue dress. They seem to be on a talk show set, with a colorful, patterned background. The person in the blue dress is laughing and covering her face with her hand. The person in the suit is looking at her with a smile.\n\nAudibly, there's laughter and applause in the background, suggesting an audience. There's also a voiceover saying something, but it's not clear what it is."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 263.51887345314026
+      "processing_time": 304.14018082618713
     },
     {
-      "comment_index": 3781,
+      "comment_index": 4561,
       "video_id": "stRtOHjh6lY",
       "comment": "Ya know, at 5:49 she's stroking the inside of her arm...  She's totally turned on by Matt.",
       "language": "en",
@@ -289,24 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "340.0s - 346.0s",
-          "query": "VISUAL: There's a man in a suit sitting against an orange background with purple shapes. He seems to be talking or reacting to something.AUDIO: Someone is speaking about kids, a main cafeteria, and a media cafeteria which is small. It's just speech without any other sounds like music or sound effects.If you have more questions about it or want to discuss something else related, feel free to let me know."
+          "query": "Well, in the visual part, there's a man in a suit and tie. He seems to be talking or presenting something. The background is orange with some purple shapes. In the audio part, it's just the man speaking. There's no music or sound effects. It's just his voice. What do you think about this?"
         },
         {
           "segment_index": 2,
           "time_range": "346.0s - 352.0s",
-          "query": "VISUAL: There's a man in a suit sitting on a red couch against an orange background with purple shapes. He seems to be talking or reacting to something. Then there's also a woman in a blue dress sitting next to him, laughing and looking at him.AUDIO: The main thing heard is someone speaking about meeting for a business lunch at a media cafeteria. There's also some laughter from the woman. What do you think about it?"
+          "query": "**Visual:** The video shows a man in a suit sitting on a red couch. He's talking and gesturing with his hands. There are colorful, abstract shapes in the background, mainly in shades of purple and orange. The setting seems to be a studio or a stage.\n\n**Audio:** The audio includes a man speaking, likely in a conversation or interview. There's also laughter heard in the background, suggesting a light-hearted or humorous tone."
         },
         {
           "segment_index": 3,
           "time_range": "352.0s - 358.0s",
-          "query": "VISUAL: There's a man in a suit sitting on a red couch against an orange background with purple shapes. He seems to be talking or reacting to something. Then it cuts to a wider shot showing three people seated around a table in a studio setting. The room has a modern look with colorful lighting and decor. One person is speaking while others listen.AUDIO: Someone is talking about having business lunch today at noon and then getting their teeth cleaned. There's also laughter heard in the background. What do you think about that?"
+          "query": "**Visual:** The video shows a man in a suit sitting on a stage with a bright orange and purple background. There are some abstract shapes and lights around. The man seems to be talking or reacting to something. The setting looks like a talk show or a similar event.\n\n**Audio:** There's laughter and conversation happening in the background. The man in the suit is speaking, and it sounds like he's responding to someone else."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 222.52862691879272
+      "processing_time": 265.15267610549927
     },
     {
-      "comment_index": 3782,
+      "comment_index": 4562,
       "video_id": "stRtOHjh6lY",
       "comment": "3:34 Bro was going red",
       "language": "en",
@@ -319,24 +289,24 @@
         {
           "segment_index": 1,
           "time_range": "205.0s - 211.0s",
-          "query": "VISUAL: There's a group of four people sitting on red chairs around a table with some fruit on it. The background has a purple and orange color scheme with some lights. One person is holding a glass of wine.AUDIO: Someone is speaking, saying \"Matt Damon I will use your ponytail to steer while you dine upon my lady sandwich ok.\".If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Oh, it seems like there's been some confusion here. The image you've described looks like a tweet or message from someone named Paige to Matt Damon. It says something about using his ponytail to steer while he eats her lady sandwich. But I can't actually analyze an audio clip since I don't have that information. If you want me to help with anything else related to this, just let me know!"
         },
         {
           "segment_index": 2,
           "time_range": "211.0s - 217.0s",
-          "query": "VISUAL: There's a man in a suit sitting on a red couch with a glass of drink in his hand. A woman in a blue dress is also on the couch, laughing and covering her face at first. Then she sits up straighter. The background has an orange wall with purple shapes cut out of it.AUDIO: You can hear laughter throughout the entire clip. It seems like there might be some applause mixed in too. What do you think about that?"
+          "query": "Visually, there's a man in a suit sitting on a red couch with a woman beside him. The background has orange and purple rectangular shapes. The man is holding something small in his hand.\n\nIn terms of audio, laughter can be heard throughout the clip."
         },
         {
           "segment_index": 3,
           "time_range": "217.0s - 223.0s",
-          "query": "VISUAL: There's a group of four people sitting on a talk show set. They're chatting around a red table with some fruit on it. The background has bright lights and a star - shaped logo. One person is wearing a suit and tie, another in a brown suit, a woman in a blue dress, and an older man in black. The camera zooms in on the man in the suit and tie who seems to be speaking. Then there's a quick cut to two shirtless men fighting in a ring.AUDIO: You can hear applause and laughter from the audience during the conversation. There's also a voiceover that says something about a new Bourne film image being released. What do you think about the fight scene?"
+          "query": "Oh, I'm sorry! But I can't actually analyze or describe images from videos that haven't been uploaded here yet. If you could upload the image or share more details about it, I'd be happy to help with any questions or observations you have!"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 248.75679755210876
+      "processing_time": 159.49061059951782
     },
     {
-      "comment_index": 3783,
+      "comment_index": 4563,
       "video_id": "stRtOHjh6lY",
       "comment": "0:55 I swear  If someone gets offended by this and try to ruin his career it’s just a joke everybody nowadays is just sensitive",
       "language": "en",
@@ -349,24 +319,24 @@
         {
           "segment_index": 1,
           "time_range": "46.0s - 52.0s",
-          "query": "VISUAL: There's a man in a suit sitting on a red couch with a woman in a blue dress next to him. They're both holding wine glasses. The background has an orange wall with purple shapes. Then there's another person in a brown suit laughing while sitting on a chair. There's also a table behind them with some items like a star-shaped object and bottles.AUDIO: A woman is speaking about being shocked at something related to penises having problems. It seems like she's talking about a situation that was really surprising to her.So, what do you think about this? Do you have any other thoughts or questions?"
+          "query": "Visually, there are two people sitting on a red couch. One is wearing a blue dress and holding a glass, while the other is in a suit. The background has a pattern of purple shapes on an orange backdrop. There are also some objects like a bottle and a vase on a table.\n\nIn terms of audio, there's a woman speaking, and she seems to be expressing shock or disbelief."
         },
         {
           "segment_index": 2,
           "time_range": "52.0s - 58.0s",
-          "query": "VISUAL: There's a man in a black suit sitting on a red couch with a glass in his hand. Next to him is a woman in a blue dress holding a wine glass too. They're both talking and gesturing. The background has an orange color with purple shapes. It looks like they're on some kind of talk show set.AUDIO: A female voice is speaking. She seems to be saying something about going on a show and showing embarrassing things. It's not clear if she's talking directly to someone or just thinking out loud.If you want to know more about this video or have other questions, feel free to ask!"
+          "query": "Visually, there's a man in a suit sitting on one side and a woman in a blue dress standing on the other. They seem to be having some kind of interaction or conversation. The background has these purple horizontal lines that move around. There's also another person partially visible behind them, wearing something red. The scene looks like it might be from a talk show or interview setting.Audibly, someone is speaking, probably introducing or commenting on what's happening between the two main figures. It seems like they're discussing something related to the people shown."
         },
         {
           "segment_index": 3,
           "time_range": "58.0s - 64.0s",
-          "query": "VISUAL: There's a man in a suit sitting on a red couch with a woman in a blue dress next to him. They seem to be laughing together. Then it cuts to two men in suits also on a red couch, one is talking while the other listens. The background has an orange wall with purple lights. There's a table between them with some fruits and glasses.AUDIO: You can hear laughter from the first scene where the man and woman are. In the second scene, there's a conversation going on between the two men. It seems like they're having a light-hearted chat. What do you think about the video?"
+          "query": "Visual: The video shows two people sitting on a red couch. One is wearing a black suit and tie, and the other is in a blue dress. They seem to be in a studio setting with a bright orange background featuring horizontal purple lines. There are also some other people visible in the background, possibly part of a talk show or similar program. The two main people are laughing and talking.\n\nAudio: The audio includes laughter and conversation. There's also a brief moment where someone says \"no\" in a neutral tone."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 319.7742238044739
+      "processing_time": 251.04118394851685
     },
     {
-      "comment_index": 3784,
+      "comment_index": 4564,
       "video_id": "stRtOHjh6lY",
       "comment": "@5:35 i always thought ben was older than matt.. wtf",
       "language": "en",
@@ -379,24 +349,24 @@
         {
           "segment_index": 1,
           "time_range": "326.0s - 332.0s",
-          "query": "VISUAL: There's a man in a suit sitting on a red couch against an orange background with purple lights. He looks down at first.Then it cuts to three people on a talk show set. One guy is in a brown suit talking, another guy in a black suit is listening, and a woman in a blue dress is also present.AUDIO: Someone is speaking about having lunches related to acting or business. It seems like they're discussing these lunches in some detail.So, what do you think about these lunches? Do you have any similar experiences?"
+          "query": "Visual: The video shows a man in a suit sitting in a studio setting. There are other people in the background, some seated and some standing. The background has a red and purple color scheme with some abstract shapes. The man in the suit is talking and gesturing with his hands. There are also some objects on the table in front of him, like a microphone and a glass of water.\n\nAudio: The audio is of a man speaking. He seems to be having a conversation or giving a talk. The speech is clear and there are no other distinct sounds or music in the background."
         },
         {
           "segment_index": 2,
           "time_range": "332.0s - 338.0s",
-          "query": "VISUAL: There's a man and a woman sitting on red couches against an orange background with purple shapes. The man is wearing a black suit and tie, while the woman has short hair and is in a blue dress. They seem to be having a conversation.AUDIO: Someone is talking about being 14 years old and mentioning two cafeterias. It seems like they're recalling some past experiences related to school or youth. So, what do you think about that? Do you have any similar memories?"
+          "query": "**Visual:** The video shows two people sitting on a red couch. The background is orange with purple rectangular shapes. One person is wearing a black suit and tie, while the other is in a blue dress. They seem to be engaged in a conversation.\n\n**Audio:** There is a man speaking. He says, \"This lunch is and you were like 14 yes I was 16 and he was 14 and and we would and we would there were two cafes.\""
         },
         {
           "segment_index": 3,
           "time_range": "338.0s - 344.0s",
-          "query": "VISUAL: There's a man in a suit sitting against an orange background with purple shapes. He seems to be talking or reacting to something.AUDIO: Someone is speaking about going to a big high school with 3000 kids, mentioning a main cafeteria and a media center. It's just speech without any other sounds like music or sound effects.If you have any more questions about it or want to discuss something else related, feel free to let me know!"
+          "query": "**Visual:** The video shows a man dressed formally in a suit and tie against an orange background with purple oval shapes scattered around.\n\n**Audio:** There is male speech throughout the clip."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 254.0208613872528
+      "processing_time": 175.42377352714539
     },
     {
-      "comment_index": 3785,
+      "comment_index": 4565,
       "video_id": "stRtOHjh6lY",
       "comment": "3:35 Matt Damon's blushing is as good as real one! What an actor!",
       "language": "en",
@@ -409,174 +379,24 @@
         {
           "segment_index": 1,
           "time_range": "206.0s - 212.0s",
-          "query": "VISUAL: There's a purple background with some sparkles. A white box appears with text that says \"Paige Matt Damon I will use your ponytail to steer while you dine upon my lady sandwich ok\". Then it cuts to two people on a red couch. One is holding a drink and the other is covering their face with their hands.AUDIO: Someone is speaking, saying \"Matt Damon I will use your ponytail to steer while you dine upon my lady sandwich\". There's also applause heard at the end.If you have any thoughts or questions about this, feel free to share!"
+          "query": "**Visual:** The video shows a text message displayed on a screen. The message reads, \"Paige, Matt Damon I will use your ponytail to steer while you dine upon my lady sandwich ok.\" The background is a purple, starry pattern. There are no other visible objects or people in the frame.\n\n**Audio:** The audio consists of a voice saying, \"Matt Damon I will use your ponytail to steer while you dine upon my lady sandwich ok.\" The voice is clear and seems to be speaking directly to the camera. There are no other sounds or music in the audio."
         },
         {
           "segment_index": 2,
           "time_range": "212.0s - 218.0s",
-          "query": "VISUAL: There's a man in a suit sitting on a red couch with a glass of wine. Next to him is a woman in a blue dress also holding a drink. They seem to be laughing together. The background has an orange wall with purple shapes. Then it cuts to a close - up of the man smiling widely. Finally, we see four people sitting around a table on a stage set, chatting and laughing. The stage has a modern design with colorful lighting.AUDIO: You can hear laughter throughout the video. It starts when they're on the couch, continues during the close - up of the man, and then again when they're at the table. There's no distinct speech or music heard."
+          "query": "Visually, there are two people sitting on a red couch. One is wearing a black suit and tie, and the other is in a blue dress. The background has orange and purple lighting with some rectangular shapes. The person in the blue dress seems to be laughing or reacting to something, while the person in the suit looks more composed. There's also a brief glimpse of another person in the background, possibly a host or another guest.\n\nAudibly, there's laughter and applause, suggesting a light-hearted or entertaining moment in a talk show or similar setting."
         },
         {
           "segment_index": 3,
           "time_range": "218.0s - 224.0s",
-          "query": "VISUAL: There's a group of four people sitting on a stage with a colorful backdrop. They seem to be having a conversation. One person is holding a clapperboard. The setting looks like a talk show or interview setup.AUDIO: Someone is speaking, probably the host, and there's laughter from an audience member. It seems like they're discussing something related to a movie or film production. What do you think about it?"
+          "query": "Visually, there's a man in a suit sitting on a stage with some other people around him. The background has orange and purple hues with circular patterns. There s also a TV screen showing something related to \"The Graham Norton Show.\" The scene seems like it could be from a talk show or interview setting.\n\nAudio - wise, I can't really make out any specific words or phrases clearly enough to describe them accurately. It might just be some general conversation or background noise typical for such settings."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 273.1325373649597
+      "processing_time": 285.3594832420349
     },
     {
-      "comment_index": 3786,
-      "video_id": "stRtOHjh6lY",
-      "comment": "It's at 4:20",
-      "language": "en",
-      "channel_name": "OfficialGrahamNorton",
-      "category": "variety show",
-      "likes": 3.0,
-      "comment_timestamp": 260.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "251.0s - 257.0s",
-          "query": "VISUAL: There's a group of men on a talk show set. One man is standing up, talking into a microphone while others sit around him. The set has bright orange and purple lighting with some decorative elements like flowers and glasses on tables. The men are dressed formally.AUDIO: You can hear laughter from an audience, then someone says \"beautifully done nicely seamless no one'll notice thanks for setting\" in a calm tone.What do you think about the scene? Do you have any other questions related to it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "257.0s - 263.0s",
-          "query": "VISUAL: There are three men sitting on red chairs against an orange background with purple shapes. They're dressed formally, two in suits and one in a hat. One man is talking while gesturing, another is listening intently, and the third seems to be laughing or reacting. There's a table in front of them with glasses of water and wine.On the wall behind them, there's a logo that says \"the graham norton show\" with a star symbol.AUDIO: The main audio is someone speaking about sending a memo to everyone except themselves, which they find odd and weird. There's also laughter from the other two men in response to this statement.So, what do you think about this scene? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "263.0s - 269.0s",
-          "query": "VISUAL: There's a man in a gray suit sitting on a red couch against an orange background with purple shapes. He seems to be talking or reacting to something. Then it cuts to three men sitting together on the same red couch. One is wearing a dark suit, another has a hat and a patterned shirt, and the third is also in a dark suit. They're all looking at each other and seem engaged in conversation. The scene then shifts back to just the man in the gray suit, who continues his interaction. The background remains consistent throughout.AUDIO: There's laughter heard during the entire clip. It starts when the first man is speaking and continues until the end of the six seconds."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 327.9168713092804
-    },
-    {
-      "comment_index": 3787,
-      "video_id": "stRtOHjh6lY",
-      "comment": " [USER]  lol compare the title under the video with what Matt says at 6:40",
-      "language": "en",
-      "channel_name": "OfficialGrahamNorton",
-      "category": "variety show",
-      "likes": 3.0,
-      "comment_timestamp": 400.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "391.0s - 397.0s",
-          "query": "VISUAL: There's a man in a dark suit sitting on a red chair with a star behind him. He seems to be talking or reacting to something. Then there's another man in a gray jacket who appears to be laughing or speaking animatedly.AUDIO: Someone is saying \"hi\" and then expressing admiration for Matt Damon in the fourth. It sounds like they're on some kind of talk show or interview setting.What do you think about it? Do you have any other thoughts or questions related to this video?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "397.0s - 403.0s",
-          "query": "VISUAL: There's a man in a suit sitting on a stage with a bright orange background featuring purple shapes. He seems to be talking or reacting to something. Another person is partially visible behind him.AUDIO: You can hear applause and some kind of jingle or music playing in the background. The man also says \"By the way this is the best time I've ever had on.\" What do you think about it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "403.0s - 409.0s",
-          "query": "VISUAL: There's a man in a gray suit sitting on a stage with an orange background having purple shapes. He seems to be talking or reacting to something. Then there's another scene where two men are sitting together, one in a red jacket and the other in a brown jacket. They're both looking at something off - screen. The background is dark with some lights and shapes.AUDIO: You can hear applause and some kind of music playing in the background. It gives a lively feel to the talk show setting. So, what do you think about this talk show?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 231.7891137599945
-    },
-    {
-      "comment_index": 3788,
-      "video_id": "stRtOHjh6lY",
-      "comment": "The video title says that too but if you go to 6:40, you'll hear what Matt REALLY says.",
-      "language": "en",
-      "channel_name": "OfficialGrahamNorton",
-      "category": "variety show",
-      "likes": 3.0,
-      "comment_timestamp": 400.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "391.0s - 397.0s",
-          "query": "VISUAL: There's a man in a dark suit sitting on a red chair with a star behind him. He seems to be talking or reacting to something. Then there's another man in a gray jacket who appears to be laughing or speaking animatedly.AUDIO: Someone is saying \"hi\" and then expressing admiration for Matt Damon in the fourth. It sounds like they're on some kind of talk show or interview setting.What do you think about it? Do you have any other thoughts or questions related to this video?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "397.0s - 403.0s",
-          "query": "VISUAL: There's a man in a suit sitting on a stage with a bright orange background featuring purple shapes. He seems to be talking or reacting to something. Another person is partially visible behind him.AUDIO: You can hear applause and some kind of jingle or music playing in the background. The man also says \"By the way this is the best time I've ever had on.\" What do you think about it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "403.0s - 409.0s",
-          "query": "VISUAL: There's a man in a gray suit sitting on a stage with an orange background having purple shapes. He seems to be talking or reacting to something. Then there's another scene where two men are sitting together, one in a red jacket and the other in a brown jacket. They're both looking at something off - screen. The background is dark with some lights and shapes.AUDIO: You can hear applause and some kind of music playing in the background. It gives a lively feel to the talk show setting. So, what do you think about this talk show?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 251.5993583202362
-    },
-    {
-      "comment_index": 3789,
-      "video_id": "stRtOHjh6lY",
-      "comment": "0:36 my god she’s gorgeous 😍",
-      "language": "en",
-      "channel_name": "OfficialGrahamNorton",
-      "category": "variety show",
-      "likes": 3.0,
-      "comment_timestamp": 36.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "27.0s - 33.0s",
-          "query": "VISUAL: There are three men sitting on red chairs against an orange background with purple shapes. They're dressed formally, two in suits and one in a suit with a hat. One man is clapping his hands. The scene has a bright, colorful look.AUDIO: You can hear laughter and applause throughout the clip. There's also some speech that says \"ginger ale is crazy.\" It seems like it might be from a talk show or similar setting. So, what do you think about this? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "33.0s - 39.0s",
-          "query": "VISUAL: There's a woman with red hair wearing a blue dress sitting on a red couch. She seems to be talking or reacting to something. In the background, there are two men also seated on the same couch. The backdrop has an orange color with purple rectangular shapes. The scene looks like it could be from a talk show.AUDIO: You can hear laughter throughout the clip. It starts around 1 second into the video and continues until about 5 seconds. There might be some speech too, but it's not clear enough to transcribe precisely.What do you think about that? Do you have any other thoughts or questions related to the video?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "39.0s - 45.0s",
-          "query": "VISUAL: There's a group of four people on a talk show set. One person is sitting separately with legs crossed, holding papers. The others are seated together on red couches. They're all dressed formally. In front of them is a round table with some fruits and drinks. The background has an orange wall with purple lights.The AUDIO: A woman is speaking about an episode that's all about penises. It seems like she's talking to someone off - camera. There's also laughter from the audience at the end.What do you think about the topic? Do you have any other thoughts or questions related to this?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 301.2134132385254
-    },
-    {
-      "comment_index": 3790,
-      "video_id": "stRtOHjh6lY",
-      "comment": "6:19 Matt Damon's conscience kicking in.",
-      "language": "en",
-      "channel_name": "OfficialGrahamNorton",
-      "category": "variety show",
-      "likes": 3.0,
-      "comment_timestamp": 379.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "370.0s - 376.0s",
-          "query": "VISUAL: There's a group of people sitting on red chairs in a studio with an orange background having purple stripes. They seem to be chatting or doing some kind of talk show thing. One person is gesturing while talking.AUDIO: I can't really tell much from just these six seconds. It might be some kind of conversation going on, but it's hard to say for sure without more context.What do you think about the scene?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "376.0s - 382.0s",
-          "query": "VISUAL: There's a man in a maroon blazer sitting on a chair with his legs crossed. He has one hand resting on an armrest. In front of him is a small TV screen showing a woman in a gray top sitting on a red chair against a star background. The setting seems like a talk show or interview setup with colorful lighting and decor. Then there's another scene where two men are talking to each other, one wearing a hat and the other in a suit. They seem to be having a conversation in a studio-like environment.AUDIO: You can hear some kind of speech or dialogue happening throughout the video. It starts with \"flips yeah okay\" followed by applause, then more speech and laughter, ending with more applause. It gives off the vibe of a live talk show or similar event. So, what do you think about it? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "382.0s - 388.0s",
-          "query": "VISUAL: There's a group of people on a stage with an orange background having purple shapes. They're dressed formally, like suits and ties. One person is wearing a hat. The camera moves around them as they talk and laugh.AUDIO: You can hear applause and laughter throughout the clip. There's also some speech that seems to be related to \"the Milgram experiment.\" It's not clear who's speaking though.If you want to know more about what might be happening in the video or have any other questions, feel free to ask!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 291.9558370113373
-    },
-    {
-      "comment_index": 3791,
+      "comment_index": 4566,
       "video_id": "stRtOHjh6lY",
       "comment": "6:37 I’m sorry, but I can’t help but wonder if our fellow British friends will ever understand the importance of a good pair of socks under their clothes. Cheers from Italy.",
       "language": "en",
@@ -589,21 +409,201 @@
         {
           "segment_index": 1,
           "time_range": "388.0s - 394.0s",
-          "query": "VISUAL: There's a man sitting on a red chair with a star behind him. He's wearing a suit and tie. The background is dark purple. There's also a TV screen showing another person in a suit. Two other people are visible in the foreground, one in a black jacket and jeans, and the other in a colorful outfit.AUDIO: You can hear laughter throughout the clip. It seems like there might be some kind of conversation or interaction happening. What do you think about it?"
+          "query": "**Visual:** The video shows a man sitting in a red chair with a star design on the backrest. He's wearing a dark suit and tie. There's a TV screen in the background displaying a person in a suit, and some decorative items like flowers and a lamp are visible. The setting seems to be a studio or a stage with purple lighting.\n\n**Audio:** The audio includes a conversation between two people. One person says \"Hi, hi, hi, I'm here from West Sussex.\" The other responds with \"Hi, I just like to say that I.\""
         },
         {
           "segment_index": 2,
           "time_range": "394.0s - 400.0s",
-          "query": "VISUAL: There's a man in a suit sitting on a red chair against a dark background with a star design. Then it cuts to another man in a black suit talking on stage with an orange backdrop having purple lights. He seems to be laughing or reacting to something.AUDIO: A male voice is speaking, saying \"I think Matt Damon is really amazing in the fourth form.\" There's also applause heard at the end of his statement.What do you think about the video? Do you have any other thoughts or questions?"
+          "query": "Visually, there are two men in suits, one with reddish-brown hair and the other with dark hair. They seem to be on a stage or set with a colorful background featuring horizontal purple and orange stripes. The man with reddish-brown hair is holding a microphone and appears to be speaking or presenting, while the other man is smiling and looking towards him. There's also a red object, possibly a prop or part of the set, in the foreground.\n\nIn terms of audio, there's a man speaking, likely the reddish-brown-haired man, and there's laughter and applause from an unseen audience."
         },
         {
           "segment_index": 3,
           "time_range": "400.0s - 406.0s",
-          "query": "VISUAL: There's a man with short brown hair wearing a gray suit jacket over a black shirt. He seems to be on a talk show set with an orange background featuring purple shapes. Another person is partially visible behind him. The scene has a lively feel.AUDIO: You can hear applause and some speech, which might be from the host or other guests on the show. It gives off a positive vibe like something good is happening. So, what do you think about it?"
+          "query": "Visually, there's a man in a suit sitting in front of a colorful background with purple and orange hues. He seems to be on a talk show set. There's also a brief glimpse of a star-shaped object and a purple circle. The man is talking and smiling, and there's applause in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 243.46732783317566
+      "processing_time": 300.84073853492737
+    },
+    {
+      "comment_index": 4567,
+      "video_id": "stRtOHjh6lY",
+      "comment": "6:19 Matt Damon's conscience kicking in.",
+      "language": "en",
+      "channel_name": "OfficialGrahamNorton",
+      "category": "variety show",
+      "likes": 3.0,
+      "comment_timestamp": 379.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "370.0s - 376.0s",
+          "query": "Sure! So, in the video, there are two people sitting side by side. One is wearing a gray suit and the other is in a red and black outfit. They seem to be engaged in a conversation or some kind of interaction. The background has a bright orange color with some purple shapes. As for the audio, it sounds like there's some kind of dialogue happening, but it's not clear what they're saying exactly. There's no music or sound effects, just the voices. What do you think about this?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "376.0s - 382.0s",
+          "query": "Visual: The video shows a man and a woman sitting together. The man is wearing a dark suit and the woman has long blonde hair and is dressed in a colorful outfit. They appear to be in a studio setting with a red and purple background. There are some objects like a table with a glass and a decorative item on it. The man seems to be speaking or reacting to something, while the woman is looking at him.\n\nAudio: There is speech from the man and woman, likely a conversation or interview. There are also some sound effects, possibly laughter or applause from an audience, indicating a live show or talk show setting."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "382.0s - 388.0s",
+          "query": "Visually, there are several people sitting together in what seems to be a studio setting. They're dressed formally, with some wearing suits and ties. The background has a warm, orange hue with some purple accents. The people appear to be engaged in conversation or an interview, with one person gesturing while speaking. There's also a flag visible in the background, possibly indicating a specific country or organization.\n\nIn terms of audio, there's laughter and applause heard, suggesting a light-hearted or entertaining moment during the conversation."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 293.5279281139374
+    },
+    {
+      "comment_index": 4568,
+      "video_id": "stRtOHjh6lY",
+      "comment": "0:36 my god she’s gorgeous 😍",
+      "language": "en",
+      "channel_name": "OfficialGrahamNorton",
+      "category": "variety show",
+      "likes": 3.0,
+      "comment_timestamp": 36.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "27.0s - 33.0s",
+          "query": "**Visual:** The video shows three men sitting on red chairs against an orange background with purple accents. They're dressed formally, wearing suits or jackets. One man is holding something small in his hand while talking. There's a table in front of them with glasses on it.\n\n**Audio:** Someone says \"Ginger ale is crazy.\" followed by laughter."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "33.0s - 39.0s",
+          "query": "Visually, there are two people sitting on a red couch. One is wearing a blue dress and the other is in a suit. The background has a pattern of purple and orange shapes. The woman in the blue dress is talking and gesturing with her hands. The man in the suit is listening and smiling. There's also laughter and applause in the audio."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "39.0s - 45.0s",
+          "query": "Visually, there's a group of people sitting on red chairs around a round table with some fruits and drinks on it. The background has an orange wall with purple rectangular shapes. One person is wearing a blue dress and seems to be talking or reacting.\n\nAudio-wise, someone says \"I saw is all about penises.\" There s also laughter heard after that statement."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 197.54277300834656
+    },
+    {
+      "comment_index": 4569,
+      "video_id": "stRtOHjh6lY",
+      "comment": "@ 3:22 ~> Graham says \"Who Knows What this Means..😳..\". Um, Sweetie,...🫢🫣... I'd Bet Most Of Us KNOW What She Meant 😜",
+      "language": "en",
+      "channel_name": "OfficialGrahamNorton",
+      "category": "variety show",
+      "likes": 2.0,
+      "comment_timestamp": 202.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "193.0s - 199.0s",
+          "query": "**Visual:** The video shows a text message displayed on a screen. The message reads, \"Matt Damon has a ponytail and if he ever puts it in a top knot I think my ovaries might explode.\" The background of the screen is a purple gradient with sparkles. There are no other visible objects or people in the frame.\n\n**Audio:** The audio includes laughter and applause, suggesting a humorous or entertaining context."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "199.0s - 205.0s",
+          "query": "**Visual:** The video shows a man in a suit sitting in a studio setting. There are other people in the background, some seated and some standing. The studio has a modern look with a mix of orange and purple lighting. The man in the suit appears to be speaking or reacting to something, and there's a computer monitor visible behind him.\n\n**Audio:** The audio includes laughter and speech. The laughter seems to be a reaction to something said or done, and the speech is likely part of a conversation or monologue."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "205.0s - 211.0s",
+          "query": "Oh, it seems like there's been some confusion here. The image you've described looks like a tweet or message from someone named Paige to Matt Damon. It says something about using his ponytail to steer while he eats her lady sandwich. But I can't actually analyze an audio clip since I don't have that information. If you want me to help with anything else related to this, just let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 197.96035361289978
+    },
+    {
+      "comment_index": 4570,
+      "video_id": "stRtOHjh6lY",
+      "comment": "6:24 \"This is literally like the Mildrum experiment\" - Matt Damon, on the Graham Norton Show, a really long long time ago. Also, I wonder if Matt is blonde with blue eyes or if he's just always just this sweet charming act. What a wonderful guy, I send him 10,000 apple sized applauses.",
+      "language": "en",
+      "channel_name": "OfficialGrahamNorton",
+      "category": "variety show",
+      "likes": 2.0,
+      "comment_timestamp": 384.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "375.0s - 381.0s",
+          "query": "Visually, there are two people sitting on a stage. One is wearing a gray suit and the other is in a red and black outfit. They seem to be engaged in a conversation or some kind of interaction. The background has a bright orange color with some purple accents. There are also some objects like a table with a vase of flowers and a small TV screen showing a person's face.\n\nIn terms of audio, there's speech from the people on stage, and at the end, there's applause from an unseen audience."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "381.0s - 387.0s",
+          "query": "Visually, there are three people sitting together. One is wearing a hat and a dark jacket, another is in a suit, and the third is in a patterned outfit. They seem to be engaged in a conversation or an interview. The background has a bright orange color with some purple accents. There are also some objects like a monitor and a table with a glass of water on it. The scene appears to be indoors, possibly in a studio or a similar setting.\n\nIn terms of audio, there's laughter and applause heard, suggesting a light-hearted or entertaining moment during the conversation."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "387.0s - 393.0s",
+          "query": "Visual: The video shows two men sitting on chairs against an orange background with some abstract shapes. One man is wearing a dark suit and tie, while the other has reddish hair and wears a colorful outfit. There's also a TV screen showing someone talking.\n\nAudio: People are chatting and laughing in the background."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 264.9667727947235
+    },
+    {
+      "comment_index": 4571,
+      "video_id": "stRtOHjh6lY",
+      "comment": "5:10 -- say what you will about his other roles, Matt Damon plays a very aggressive molar :)",
+      "language": "en",
+      "channel_name": "OfficialGrahamNorton",
+      "category": "variety show",
+      "likes": 2.0,
+      "comment_timestamp": 310.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "301.0s - 307.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.86 GiB is free. Including non-PyTorch memory, this process has 15.69 GiB memory in use. Of the allocated memory 13.60 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "307.0s - 313.0s",
+          "query": "Visual: The video shows a person dressed in a snowman costume. The costume includes a large white body, a black carrot nose, and a bow tie. The person is standing still, looking directly at the camera. The background is dark, possibly a night scene, with some faint lights or stars visible.\n\nAudio: There is a male voice speaking, saying \"dedication you're taking it really seriously that was I was full on I mean I was.\" The tone seems to be somewhat serious or intense."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "313.0s - 319.0s",
+          "query": "Visually, there's someone wearing a white outfit with a bow tie, standing against a dark background. Then it cuts to another person in a suit sitting on a stage-like setting with an orange backdrop featuring purple shapes. The person in the suit is talking and laughing.\n\nAudio-wise, there s some speech from the suited person, laughter, and possibly applause or other crowd noises in the background."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 265.73689365386963
+    },
+    {
+      "comment_index": 4572,
+      "video_id": "stRtOHjh6lY",
+      "comment": "5:50 oh matt...",
+      "language": "en",
+      "channel_name": "OfficialGrahamNorton",
+      "category": "variety show",
+      "likes": 2.0,
+      "comment_timestamp": 350.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "341.0s - 347.0s",
+          "query": "Visually, there's a man in a suit sitting in front of a background with orange and purple shapes. He seems to be talking or reacting to something. There aren't any other people or objects in the frame. The colors are mainly orange and purple, with the man's suit being black and white. There's no significant movement apart from the man's slight head movements and mouth movements as he speaks.Audibly, there's a man speaking. The speech is clear and seems to be in English. There are no other sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "347.0s - 353.0s",
+          "query": "**Visual:** The video shows two people sitting on a red couch. The person on the left is wearing a dark suit with a white shirt and tie, and the person on the right is in a blue dress. The background has a pattern of orange and purple horizontal bars. There's also a glimpse of another person in a brown suit with a red tie, partially visible.\n\n**Audio:** The audio includes speech, likely from the people on the couch, and some laughter."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "353.0s - 359.0s",
+          "query": "Sure! So, visually, there's someone in a suit sitting on a stage with an orange background that has purple shapes. There are also some other people around, like one person sitting at a desk with a computer.There's applause heard in the audio.Anything else you want to know about it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 199.69342947006226
     }
   ]
 }

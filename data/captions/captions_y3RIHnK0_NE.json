@@ -2,41 +2,11 @@
   "video_id": "y3RIHnK0_NE",
   "total_comments": 20,
   "successful_comments": 20,
-  "failed_comments": 14,
+  "failed_comments": 0,
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 4402,
-      "video_id": "y3RIHnK0_NE",
-      "comment": "1:52  \"Yo lemme hit this T-Pose real quick\"",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 297.0,
-      "comment_timestamp": 112.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "103.0s - 109.0s",
-          "query": "VISUAL: There's a man aiming a gun at a robot in an outdoor setting with dry grass and hills in the background. The man is wearing a helmet and holding the gun firmly. The robot has a humanoid shape and is also holding a gun. It seems to be reacting to the man's aim.AUDIO: There's some kind of electronic beeping or humming noise throughout the video. No clear speech or other distinct sounds are heard.If you have any thoughts on this or want to discuss more about it, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "109.0s - 115.0s",
-          "query": "VISUAL: There's a robot and a person in a desert-like area with some hills in the background. The person is holding a gun and seems to be shooting at the robot. The robot is moving around, trying to dodge or counterattack. There are also other people standing nearby, watching the scene.AUDIO: You can hear gunfire and explosions throughout the clip. It gives off an intense, action - filled vibe.What do you think about this kind of scenario? Do you find it interesting?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "115.0s - 121.0s",
-          "query": "VISUAL: There's a robot with a black and metallic body standing on sandy ground. In the background, there are some people wearing dark shirts and light pants, and they seem to be interacting or observing something. The setting looks like an outdoor area with hills and some vehicles parked around. There's also a blue portable toilet nearby.AUDIO: You can hear some kind of electronic beeping and humming throughout the clip. It gives off a techy vibe. What do you think about it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 249.37319993972778
-    },
-    {
-      "comment_index": 4401,
+      "comment_index": 5551,
       "video_id": "y3RIHnK0_NE",
       "comment": "2:38 BRO Pathfinder a SAVAGE",
       "language": "en",
@@ -49,24 +19,54 @@
         {
           "segment_index": 1,
           "time_range": "149.0s - 155.0s",
-          "query": "VISUAL: There's a robot with four legs standing on some orange poles. It has a black body with some yellow and white markings. Two people wearing orange jumpsuits and black hoods are standing nearby. The background looks like an outdoor area with dry grass and a fence.AUDIO: There's a loud, high-pitched buzzing or whirring noise throughout the clip. No speech is heard.If you have any other questions about the video or need more details, feel free to ask!"
+          "query": "Visual: The video shows two people dressed in orange jumpsuits with hoods over their heads standing near a fenced area. There's also a robot-like figure nearby. The background appears to be an outdoor setting with some dry vegetation.\n\nAudio: You can hear a series of electronic beeps and clicks throughout the clip."
         },
         {
           "segment_index": 2,
           "time_range": "155.0s - 161.0s",
-          "query": "VISUAL: There's a robot with a long arm pointing at two people dressed in orange jumpsuits with black hoods over their heads. They're standing on some kind of sandy or dirt ground near a fence. The robot seems to be moving its arm towards one of the people. The scene looks like it might be an outdoor area, maybe a test field.AUDIO: You can hear some electronic beeping and then a loud explosion. It gives off a sense of something being tested or demonstrated. What do you think about this? Do you have any other thoughts on the video?"
+          "query": "Visual: The video shows two people dressed in orange jumpsuits with hoods over their heads standing near a fenced area. There's some kind of machinery or equipment nearby. The background looks like an outdoor desert-like environment.\n\nAudio: You can hear a beep followed by a loud explosion."
         },
         {
           "segment_index": 3,
           "time_range": "161.0s - 167.0s",
-          "query": "VISUAL: There's a robot in an outdoor setting with some people around it. One person is in orange jumpsuit-like attire, another is in casual clothes holding a toy gun. The robot has a humanoid shape and seems to be interacting with the people. The background shows a fenced area and dry ground.AUDIO: You can hear some kind of impact sounds throughout the clip, like banging or thumping. There's also a bit of shouting or yelling in there too.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Visually, there are two people sitting in chairs outdoors, one wearing an orange jumpsuit and the other in a dark shirt and pants. A large, mechanical-looking robot is standing in front of them. The robot has a humanoid shape with a head, arms, and legs. The background shows a sandy, desert-like area with some greenery. The robot seems to be interacting with the people, possibly holding something in its hand. The overall scene has a somewhat surreal and tense atmosphere.\n\nAudibly, there are loud, abrupt banging sounds that start around the 2.5-second mark. These banging sounds are quite intense and seem to be coming from the robot. There's also a brief moment of shouting or yelling, possibly from one of the people in the chairs. The overall audio gives a sense of urgency or alarm."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 256.0644693374634
+      "processing_time": 184.9906041622162
     },
     {
-      "comment_index": 4403,
+      "comment_index": 5552,
+      "video_id": "y3RIHnK0_NE",
+      "comment": "1:52  \"Yo lemme hit this T-Pose real quick\"",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 297.0,
+      "comment_timestamp": 112.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "103.0s - 109.0s",
+          "query": "Visually, there's a man and a robot facing each other in a desert-like environment. The man is holding a gun and seems to be in a combat stance, while the robot is also armed. The background has dry, brownish hills and a clear blue sky. The man is wearing a light-colored shirt and dark pants, and the robot has a metallic, boxy appearance with visible joints and limbs. There's a lot of dust being kicked up around them as they move.\n\nIn terms of audio, there are some electronic beeps and a low, rumbling sound that could be from machinery or the robot's systems. There's also a brief moment where a voice can be heard, but it's too muffled to make out any words."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "109.0s - 115.0s",
+          "query": "Visual: The scene shows an outdoor desert-like environment with mountains in the background. There's a robot holding a gun, aiming at someone. A person is running away from the robot. Another person seems to be reacting to the situation.\n\nAudio: You can hear gunfire and explosions, which create a tense atmosphere."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "115.0s - 121.0s",
+          "query": "Visually, there's a robot in the foreground, looking like it's interacting with some people in the background. The people seem to be observing or maybe operating the robot. The setting looks like an outdoor area with some hills and a blue portable toilet nearby. There are also some vehicles parked in the distance. The colors are mostly earthy tones, with the blue toilet and the robot's metallic parts standing out. The movement is mainly the robot's actions and the people's slight movements as they interact with it.\n\nIn terms of audio, there are some sound effects that seem to be related to the robot's actions, like beeps and possibly some mechanical noises. There's also a brief moment of speech, but it's not clear what's being said."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 235.43571019172668
+    },
+    {
+      "comment_index": 5553,
       "video_id": "y3RIHnK0_NE",
       "comment": "1:56 we're absolutely fucked.  It learned how to T-pose",
       "language": "en",
@@ -79,24 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "107.0s - 113.0s",
-          "query": "VISUAL: There's a robot and a person in a desert-like area. The robot is holding a gun and pointing it at the person. The person seems to be reacting to the robot's actions. Then there's another scene where two people are standing near some equipment on a table. One of them is holding a gun too.AUDIO: You can hear gunfire and some kind of electronic beeping or humming noise. It gives off an intense, action - like vibe.If you have any thoughts about this or want to discuss more, feel free to share!"
+          "query": "Visually, there's a man in a beige shirt and brown pants standing in a desert-like area with dry, brownish hills in the background. He's holding a gun and pointing it at a black, boxy robot. The robot has a mechanical arm and is also holding a gun. The scene seems tense, like a standoff. There's a white table in the middle of the area with some objects on it, but it's not clear what they are. The colors are mostly earthy tones, with the brown of the hills and the beige of the man's shirt standing out. The movement is mainly the man and the robot facing each other, with the man pointing his gun and the robot's arm slightly raised.\n\nIn terms of audio, there are some electronic beeps and a loud explosion sound. The beeps might be from some kind of device or machinery, and the explosion could be part of the standoff or something happening in the environment."
         },
         {
           "segment_index": 2,
           "time_range": "113.0s - 119.0s",
-          "query": "VISUAL: There's a robot with a humanoid shape standing on sandy ground. It has a black body with some visible wiring or mechanical components. In the background, there are a few people wearing dark shirts and shorts. They seem to be observing the robot. There are also some vehicles parked further back near a small building. The sky is clear and blue, suggesting it's daytime. The scene looks like an outdoor area, possibly a desert or a dry plain.AUDIO: I can't really tell much from just these six seconds. There might be some background noise or faint sounds that aren't clearly audible. But without more context, it's hard to say for sure.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Visually, there's a robot in the foreground, seemingly interacting with people in the background. The setting looks like an outdoor area with mountains in the distance. There are also some vehicles and structures around. The people seem to be observing or working with the robot. The colors are mostly natural tones, like browns and greens from the landscape, and the robot has a metallic look.\n\nIn terms of audio, there's a loud explosion sound that dominates the clip. It's a very intense and sudden noise, likely indicating some kind of dramatic event or action in the video."
         },
         {
           "segment_index": 3,
           "time_range": "119.0s - 125.0s",
-          "query": "VISUAL: There's a robot running on a dirt path. It has a mechanical appearance with joints that move smoothly. In front of it, there are two people standing behind a fence. One person is wearing a blue shirt and black pants, while the other is in a patterned shirt and dark pants. They both have their arms raised. The background shows some dry grassy hills and a few parked cars near a building. There's also a blue portable toilet nearby.AUDIO: You can hear a beep followed by gunshots. Then there's more gunshots and a man speaking. The speech seems to be in English, but I can't make out the exact words.What do you think about this scene? Any thoughts or questions?"
+          "query": "**Visual:** The video shows two people in a desert-like environment. One person is running towards a blue portable toilet, while the other is chasing them. There's a white vehicle parked in the background. The ground is sandy, and there are some bushes and a hill in the distance. The people are dressed casually, and the scene seems to be outdoors during the day.\n\n**Audio:** There are footsteps, a beep, and a gunshot. The footsteps suggest someone is running, the beep could be a signal or device, and the gunshot implies a sudden, violent event."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 343.2117862701416
+      "processing_time": 286.71655559539795
     },
     {
-      "comment_index": 4404,
+      "comment_index": 5554,
       "video_id": "y3RIHnK0_NE",
       "comment": "2:46 shadow has late/early reaction. 😂",
       "language": "en",
@@ -109,54 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "157.0s - 163.0s",
-          "query": "VISUAL: There's a robot with a black cage-like structure on its back standing between two people dressed in orange jumpsuits with hoods over their heads. The background shows a fenced area with some dry grass. A man in a blue shirt and cap walks into the frame from the right side.AUDIO: You can hear gunshots and some kind of electronic beeping or whirring noise. It seems like there might also be some shouting or yelling in the distance.What do you think about this scene? Any thoughts or questions?"
+          "query": "Visually, there are two people in orange jumpsuits, one of them is bending over. There's also a large, black, mechanical-looking object. The background seems to be a dry, possibly desert-like area with some fencing. The colors are mostly muted, with the orange jumpsuits standing out against the brownish background. The movement is mainly the bending person and the mechanical object, which appears to be moving or adjusting.\n\nIn terms of audio, there are sound effects that start with a beep, followed by gunshots, and then a loud explosion. There's also a shout after the explosion."
         },
         {
           "segment_index": 2,
           "time_range": "163.0s - 169.0s",
-          "query": "VISUAL: There's a robot standing between two men sitting on chairs outdoors. The robot has a humanoid shape with mechanical limbs. One man is holding a toy gun and aiming it at the robot while the other man looks up at the robot. The background shows a dry, sandy area with some greenery in the distance.AUDIO: You can hear gunshots and shouting in the background. It seems like there might be some kind of conflict or action happening. What do you think about this scene?"
+          "query": "**Visual:** The video shows two people sitting in chairs outdoors, facing a large robot. The robot is standing in front of them, holding a weapon. The setting appears to be a desert-like area with some greenery in the background. The people seem to be observing or interacting with the robot. The robot moves slightly, and there's a sense of tension in the scene.\n\n**Audio:** There are no distinct speech or music in this segment. The main audio is the sound of a gunshot, which is quite loud and abrupt, followed by some ambient noises like rustling and possibly some mechanical sounds from the robot."
         },
         {
           "segment_index": 3,
           "time_range": "169.0s - 175.0s",
-          "query": "VISUAL: There's a robot standing between two men sitting on chairs outdoors. The robot has a humanoid shape with mechanical limbs. One man is holding an accordion while the other holds a drink can. They seem to be interacting with the robot. The background shows a dry, hilly landscape with some greenery.The AUDIO: There's music playing throughout the entire 6 seconds of the video. No specific speech or sound effects are heard apart from the music. So, that's it for the analysis. What do you think about this video? Do you have any other questions related to it?"
+          "query": "**Visual:** The scene shows two people sitting on chairs outdoors in a desert-like environment with some greenery around. They seem to be interacting with a large robot that has a humanoid shape. One person is holding something up near their face while looking at the robot, and the other is gesturing towards it. There's also someone walking in the background.\n\n**Audio:** The audio includes some electronic beeping or buzzing noises throughout the clip."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 247.5290150642395
+      "processing_time": 210.80036616325378
     },
     {
-      "comment_index": 4406,
-      "video_id": "y3RIHnK0_NE",
-      "comment": "3:36 this clip was the funniest of all time",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 260.0,
-      "comment_timestamp": 216.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "207.0s - 213.0s",
-          "query": "VISUAL: There's a robot with a gun in a desert-like area. Some people are around it, one seems to be running away from the robot. There's also another robotic dog nearby. The scene has dry grass and hills in the background.AUDIO: I hear some kind of mechanical or electronic noise throughout the clip. It could be related to the robots or other machinery in the scene.If you have any thoughts on this or want to discuss more about it, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "213.0s - 219.0s",
-          "query": "VISUAL: There's an outdoor scene with some people running around. The background has dry grass and hills. One person is wearing a backpack. They seem to be in a hurry or fleeing from something.AUDIO: I can hear gunshots and some kind of animal noises like rooster crows. It gives off a tense vibe. What do you think about it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "219.0s - 225.0s",
-          "query": "VISUAL: The video shows an aerial view of a dirt road winding through a hilly area with dry grass and some green bushes. There's no visible movement or people on the road.AUDIO: I hear some beeping, possibly from a device like a walkie - talkie, and then a car engine starting up. It seems to be a bit noisy overall.What do you think about it? Do you have any other observations?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 183.62305688858032
-    },
-    {
-      "comment_index": 4405,
+      "comment_index": 5555,
       "video_id": "y3RIHnK0_NE",
       "comment": "3:41 I recognise a half-life sound effect when I hear one.",
       "language": "en",
@@ -169,24 +139,54 @@
         {
           "segment_index": 1,
           "time_range": "212.0s - 218.0s",
-          "query": "VISUAL: There's an outdoor scene with some people running around. One person is wearing a yellow outfit that looks like a robot or exoskeleton. The background has dry, hilly terrain. There's also smoke or dust being kicked up as they run.AUDIO: I can hear gunshots and some kind of screeching or howling noise. It seems pretty intense.What do you think about it? Do you have any other videos to analyze?"
+          "query": "Visually, there are people running in a desert-like environment with mountains in the background. The ground is sandy and there are some bushes scattered around. The people seem to be in a hurry, possibly fleeing from something. The sky is clear and blue, indicating it's daytime. There's a structure with a roof on the right side of the frame, partially visible.\n\nIn terms of audio, there are loud explosions and screams. The explosions are quite intense and seem to be happening in quick succession. The screams are likely from the people in the video, adding to the sense of urgency and danger."
         },
         {
           "segment_index": 2,
           "time_range": "218.0s - 224.0s",
-          "query": "VISUAL: The video shows an aerial view of a hilly area with dry grass and some green bushes. There's a dirt road winding through it. No people or animals are visible.AUDIO: I hear beeping, like from a device, and then a car engine starting up. There's also some background chatter that seems to be coming from a radio or similar communication device.If you have any other thoughts about the video or want to discuss something else related to it, feel free to let me know!"
+          "query": "**Visual:** The video shows an aerial view of a hilly landscape with dry vegetation. There's a dirt road winding through it. Some trees and bushes are scattered around.\n\n**Audio:** There is some background noise that seems like distant chatter or conversation, along with a faint siren sound."
         },
         {
           "segment_index": 3,
           "time_range": "224.0s - 230.0s",
-          "query": "VISUAL: The video shows an aerial view of a hilly landscape with dry grass and some scattered trees. There's a dirt path winding through it. The terrain looks uneven and there are shadows cast on the ground from the hills.AUDIO: I can hear a radio communication in the background throughout the whole clip. It seems like someone is talking over the radio, but the words aren't clear enough to understand fully.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a landscape with dry, brownish terrain and some sparse vegetation. There are no visible people or animals. The scene appears to be a natural, possibly arid environment. The colors are muted, dominated by browns and greens.\n\n**Audio:** The audio includes a sound effect that resembles a car engine starting or accelerating, along with some background noise that could be wind or other environmental sounds. There is no clear speech or music in the audio."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 222.19366025924683
+      "processing_time": 219.5989909172058
     },
     {
-      "comment_index": 4407,
+      "comment_index": 5556,
+      "video_id": "y3RIHnK0_NE",
+      "comment": "3:36 this clip was the funniest of all time",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 260.0,
+      "comment_timestamp": 216.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "207.0s - 213.0s",
+          "query": "Visually, there are people in a desert-like environment. Some are running, and there's a yellow object on the ground. The scene seems chaotic with dust and debris. The people are wearing different colored clothes, and the terrain is dry and sandy. There's also a large explosion in the background, creating a lot of smoke and dust. The overall color palette is dominated by earthy tones like brown and beige, with the yellow object standing out. The movement is fast-paced, with people running and the explosion adding to the sense of urgency and danger.\n\nAudio-wise, there are sound effects of explosions and possibly some shouting or yelling. The sound effects are loud and intense, contributing to the chaotic atmosphere. There's also a bit of background noise, likely from the wind and the desert environment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "213.0s - 219.0s",
+          "query": "Visual: The video shows a group of people running on a dusty, possibly desert-like terrain. There are mountains in the background. The people seem to be in a hurry or fleeing from something. The ground is dry and there's a lot of dust being kicked up as they run. The colors are mostly earthy tones - browns and yellows. The movement is fast and chaotic, with the people scattering and running in different directions.\n\nAudio: There's a loud explosion sound that dominates the audio. It's a very intense and sudden noise. After the explosion, there are some sounds of things crashing and possibly people screaming or shouting, but it's hard to make out clearly due to the explosion's loudness."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "219.0s - 225.0s",
+          "query": "**Visual:** The video shows an aerial view of a landscape with dry, brownish terrain and some green patches, possibly trees or shrubs. There's a winding dirt road cutting through the scene. The overall color palette is muted, dominated by earthy tones.\n\n**Audio:** The audio includes a series of beeps, likely from a device or machine, followed by a male voice speaking. The speech is unclear, but it seems to be in a language that might be Arabic or a similar language. There are also some background sounds that could be natural or environmental noises."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 241.46031165122986
+    },
+    {
+      "comment_index": 5557,
       "video_id": "y3RIHnK0_NE",
       "comment": "2:24 shadow of the actual guy",
       "language": "en",
@@ -199,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "135.0s - 141.0s",
-          "query": "VISUAL: There's a robot with a gun in front of two people wearing helmets. The robot is moving towards them. The background has some greenery and a fence. The people seem to be holding something up in their hands.AUDIO: You can hear a loud, continuous machine gun firing sound throughout the clip. It's quite intense. What do you think about it?"
+          "query": "Visual: The video shows two people standing behind a chain-link fence. One person is holding up their hands, possibly surrendering or signaling something. There's also some kind of machinery or equipment near them. The background seems to be an outdoor area with dry grass.\n\nAudio: You can hear gunshots and explosions in the audio, which create a tense and chaotic atmosphere."
         },
         {
           "segment_index": 2,
           "time_range": "141.0s - 147.0s",
-          "query": "VISUAL: There's a robot with a gun-like attachment moving forward. In front of it, there are two people standing still with their arms raised. The background has some fencing and a wall. The scene seems to be outdoors.AUDIO: There's a continuous sound effect that resembles gunfire or some mechanical noise throughout the 6 seconds. It gives an intense feeling to the video.What do you think about this analysis? Do you have any other observations?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 5.80 GiB. GPU 1 has a total capacity of 23.56 GiB of which 4.72 GiB is free. Including non-PyTorch memory, this process has 18.83 GiB memory in use. Of the allocated memory 12.84 GiB is allocated by PyTorch, and 5.68 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 3,
           "time_range": "147.0s - 153.0s",
-          "query": "VISUAL: There's a robot with a large gun-like attachment moving around. It has a black body with some yellow markings. In the background, there are two people in orange jumpsuits standing near a fence. The ground is sandy or dusty. There are also some orange poles and a white barrel nearby.AUDIO: You can hear a high-pitched whirring noise throughout the clip. There's no clear speech or music. It seems like it might be from a machine or device.What do you think about this scene? Do you have any other questions related to it?"
+          "query": "Visually, there are people in orange jumpsuits, some standing and others moving around. There's also a large, mechanical-looking structure with pipes and cables. The background seems to be an outdoor, possibly industrial or construction site, with some fencing and equipment. The colors are mostly muted, with the orange jumpsuits standing out against the duller surroundings. The movement is mostly of the people in the orange jumpsuits, some walking, some gesturing.\n\nAudibly, there are sounds of machinery or equipment operating, like a drill or some kind of mechanical tool. There's also a brief, high-pitched squeal or beep."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 223.26643538475037
+      "processing_time": 210.41985702514648
     },
     {
-      "comment_index": 4408,
+      "comment_index": 5558,
       "video_id": "y3RIHnK0_NE",
       "comment": "3:23 shot on iphone 6 😂",
       "language": "en",
@@ -229,24 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "194.0s - 200.0s",
-          "query": "VISUAL: There's a robot with a humanoid shape walking on a sandy ground. It has a backpack - like structure on its back. A man is holding onto it while it walks. In the background, there are some hills covered with dry grass. Another person stands nearby watching. Then, the robot starts to walk away from the man. The robot also has four-legged animals following it.AUDIO: You can hear some kind of mechanical noise throughout the video. There are no distinct speech or music heard.Anything else you want to know about the video?"
+          "query": "**Visual:** The video shows a group of people in a desert-like environment. They are dressed in dark clothing and appear to be engaged in some kind of activity. There are mountains in the background, and the ground is sandy and dry. One person is holding a long object, possibly a stick or a tool. The group seems to be moving around, possibly interacting with each other or with the environment.\n\n**Audio:** There are sounds of movement, like footsteps crunching on gravel or sand. There's also some kind of impact sound, like a thud or a bang. The overall sound is somewhat chaotic, suggesting some kind of action or activity is taking place."
         },
         {
           "segment_index": 2,
           "time_range": "200.0s - 206.0s",
-          "query": "VISUAL: There's a robot with a gun-like attachment on its arm standing on a dirt ground. It has a humanoid shape but is clearly mechanical. Next to it, there's another smaller, four-legged robot that looks like a dog. Three men are around them, one holding a stick. The background shows dry, hilly terrain under a clear sky.AUDIO: You can hear some kind of electronic beeping or humming throughout the clip. There's also a single word \"whoop\" spoken at the end."
+          "query": "Inference error: CUDA out of memory. Tried to allocate 3.96 GiB. GPU 1 has a total capacity of 23.56 GiB of which 3.21 GiB is free. Including non-PyTorch memory, this process has 20.34 GiB memory in use. Of the allocated memory 16.12 GiB is allocated by PyTorch, and 3.91 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 3,
           "time_range": "206.0s - 212.0s",
-          "query": "VISUAL: There's a robot with a gun in its hand. It's walking on a sandy ground. Two men are also present, one is holding a stick and the other is standing nearby. In the background, there's a yellow quadrupedal robot. The scene has a desert-like setting with mountains in the distance.AUDIO: You can hear some kind of impact sounds throughout the 6 seconds. There's no clear speech or music. It seems like the impact sounds might be related to the robots' movements or actions.If you have any thoughts about this analysis or want to discuss more about it, feel free to let me know."
+          "query": "**Visual:** The video shows a desert-like environment with a few people and a robot. The people are dressed in dark clothing and seem to be interacting with the robot. The robot has a yellow and black color scheme and appears to be moving or performing some actions. The background has sandy terrain and some sparse vegetation. The lighting suggests it's daytime.\n\n**Audio:** There are no distinct speech or music in the audio. The main sounds are the noises made by the robot, which could be mechanical or electronic sounds, and some ambient desert noises like wind or distant animal sounds."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 285.22462725639343
+      "processing_time": 298.88815784454346
     },
     {
-      "comment_index": 4409,
+      "comment_index": 5559,
       "video_id": "y3RIHnK0_NE",
       "comment": "Put subtitles for 1:47 \"Oh my god I cannot shoot those eyes uwu\" LMAO",
       "language": "en",
@@ -259,24 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "98.0s - 104.0s",
-          "query": "VISUAL: There's a robot in a desert-like environment with some hills in the background. A person is aiming a gun at the robot. The robot seems to be reacting to being shot at.AUDIO: You can hear gunshots throughout the clip. It's quite intense. What do you think about it?"
+          "query": "Visually, there are two people in the video. One is holding a gun and aiming it, while the other is also holding a gun and seems to be in a defensive or ready position. The background shows a desert-like landscape with some hills. The people are wearing dark clothing and masks. There's a lot of dust and debris around, suggesting some kind of action or conflict is happening.\n\nIn terms of audio, there are gunshots, which are quite loud and clear. There's also a sound effect that resembles a machine gun firing rapidly. The overall sound is intense and chaotic, adding to the sense of action in the video."
         },
         {
           "segment_index": 2,
           "time_range": "104.0s - 110.0s",
-          "query": "VISUAL: There's a man aiming a gun at a robot in an outdoor setting with dry grass and hills in the background. The man is wearing protective gear like a helmet and ear protection. He then lowers his gun and looks around. The robot has a humanoid shape and is also holding a gun.The AUDIO: You can hear gunfire and some kind of electronic beeping or humming noise throughout the clip.What do you think about this scene? Do you have any other videos to analyze?"
+          "query": "Visually, there are two figures in a desert-like environment. One is a person in a brown shirt and dark pants, holding a gun and aiming it forward. The other is a humanoid robot, also aiming a gun. The robot has a metallic, black and gray appearance. The ground is sandy, and there are some dry bushes and hills in the background. The sky is clear and blue.\n\nIn terms of audio, there are sound effects of gunshots and what sounds like glass shattering. There's also a brief moment of music playing in the background."
         },
         {
           "segment_index": 3,
           "time_range": "110.0s - 116.0s",
-          "query": "VISUAL: There's a robot in an outdoor setting with some people around it. The robot seems to be interacting with one person who is holding something like a gun. There are also other people standing nearby, observing. The background has dry grassy hills and a few parked cars.AUDIO: You can hear gunfire and explosions throughout the clip. It gives off a tense or action - filled vibe. What do you think about this scene?"
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short time frame. There might be nothing much going on visually or audibly within those six seconds. But hey, if you've got more details about these segments, feel free to share!"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 181.57367610931396
+      "processing_time": 290.96627593040466
     },
     {
-      "comment_index": 4410,
+      "comment_index": 5560,
       "video_id": "y3RIHnK0_NE",
       "comment": "Bae: \"Come over.\" Me: \"I can't. My car is broken.\" Bae: \"My parents aren't home.\" Me: 3:39",
       "language": "en",
@@ -289,24 +289,24 @@
         {
           "segment_index": 1,
           "time_range": "210.0s - 216.0s",
-          "query": "VISUAL: There's a robot with four legs walking on sandy ground. Some people are running around it. The background has dry grassy hills. There's smoke or dust near one person. One person is holding something that looks like a gun.AUDIO: I hear some kind of electronic beeping and then gunshots. It seems like there might be some sort of conflict going on.What do you think about this scene? Do you have any other thoughts or questions?"
+          "query": "Visually, there are people running in a desert-like environment with mountains in the background. The ground is sandy and there are some bushes. The people seem to be in a hurry, possibly fleeing from something. There's a lot of dust being kicked up as they run. The colors are mostly earthy tones - browns, tans, and greens. The movement is fast and chaotic, with the people scattering in different directions.Audibly, there are loud explosions and shouts. The explosions are quite intense and seem to be happening in quick succession. The shouts are probably from the people in the video, adding to the sense of urgency and panic. There's also some ambient noise, like the wind and the rustling of the bushes."
         },
         {
           "segment_index": 2,
           "time_range": "216.0s - 222.0s",
-          "query": "VISUAL: There's a group of people running on a dirt path in a hilly area with dry grass and some bushes. The sky is clear. One person seems to be leading while others follow closely.AUDIO: There's a phone dialing sound throughout the clip. It starts off slow and then gets faster towards the end.What do you think about it? Do you have any other observations or questions?"
+          "query": "Visual: The video shows two people running on a dirt path surrounded by dry grass and hills. There's also an aerial view of a hilly area with some greenery.\n\nAudio: You can hear beeping, possibly from a device or machinery, along with some indistinct voices in the background."
         },
         {
           "segment_index": 3,
           "time_range": "222.0s - 228.0s",
-          "query": "VISUAL: The video shows an aerial view of a dirt road winding through a hilly landscape with dry grass and some green bushes. There's no visible movement on the road or any other objects. The terrain is uneven and covered mostly in brownish - yellow vegetation.AUDIO: There's a radio communication happening throughout the clip. It seems like someone is talking over a radio, possibly giving instructions or reporting something. The tone is urgent, like there might be an emergency situation. What do you think about it? Do you have any ideas why they're communicating like that?"
+          "query": "Visual: The video shows an aerial view of a dry, hilly landscape with sparse vegetation. There's a dirt road winding through it. The terrain looks rugged and arid.\n\nAudio: There is some background noise that could be wind or distant traffic, along with faint voices speaking in the distance. It seems like there might be a radio communication happening too."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 247.54422092437744
+      "processing_time": 164.49216294288635
     },
     {
-      "comment_index": 4411,
+      "comment_index": 5561,
       "video_id": "y3RIHnK0_NE",
       "comment": "0:39 (Robot voice) \"Why! Why was I programmed to feel pain?\"",
       "language": "en",
@@ -319,24 +319,24 @@
         {
           "segment_index": 1,
           "time_range": "30.0s - 36.0s",
-          "query": "VISUAL: There's a robot with a backpack-like structure on its back. It's walking towards a man who is holding a hockey stick. The man is wearing a blue shirt, beige pants, and a cap. He seems to be preparing to hit something. In the background, there are some targets set up on stands. The ground looks like sand or dirt, and there are hills behind it.AUDIO: You can hear some kind of impact sounds throughout the video. There's also a bit of music playing in the background at one point."
+          "query": "Visually, there's a robot and a person in a desert-like environment. The robot is moving around, and the person seems to be interacting with it, maybe operating it or observing it. There are some equipment stands and other objects in the background. The colors are mostly earthy tones, like browns and beiges, with the robot having darker, more metallic colors. The movement is mainly the robot's and the person's actions within this setting.\n\nIn terms of audio, there are some impact sounds, like banging or clashing noises. There's also a loud bang that seems to be a gunshot or something similar. The overall sound is quite chaotic and intense."
         },
         {
           "segment_index": 2,
           "time_range": "36.0s - 42.0s",
-          "query": "VISUAL: There's a robot walking on sandy ground. It has a black box-like structure on its back. A man is standing nearby, holding something that looks like a long object. The background shows some dry grassy hills and metal frames with targets or objects hanging from them.AUDIO: You can hear some kind of electronic beeping and then a loud bang, like an explosion or gunshot. There's also a bit of background noise throughout.What do you think about this? Do you have any other videos to analyze?"
+          "query": "Visually, there's a robot in a desert-like environment. It's moving around, and there are some metal structures and a table in the background. The robot seems to be interacting with something on the table. The colors are mostly earthy tones, like browns and beiges, with the robot having darker, metallic parts. There's also a person in the background, but they're not the main focus.Audibly, there are some sound effects, like a whooshing noise and a loud bang. There's also a bit of speech, but it's not clear what's being said."
         },
         {
           "segment_index": 3,
           "time_range": "42.0s - 48.0s",
-          "query": "VISUAL: There's a robot on sandy ground with some equipment around it. It seems to be doing something like falling or being pushed over. Then it stands up. A man wearing a cap and gloves is standing nearby, looking at the robot. The background has dry grassy hills.AUDIO: You can hear some kind of mechanical noises, like gears turning, and then there's a loud bang that sounds like glass shattering. What do you think about this?"
+          "query": "Visually, there's a robot in a sandy area with some equipment around it. A person is standing nearby, observing the robot. The robot seems to be moving or interacting with something. The scene looks like it's outdoors, with a dry, possibly desert-like landscape in the background. The colors are mostly earthy tones, like browns and beiges.\n\nIn terms of audio, there are some beeping and clicking sounds, which could be related to the robot's operations. There's also a loud bang, which might be a part of the robot's actions or a reaction to something it did."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 236.1950216293335
+      "processing_time": 249.27935409545898
     },
     {
-      "comment_index": 4412,
+      "comment_index": 5562,
       "video_id": "y3RIHnK0_NE",
       "comment": "1:51 me when I'm finally finished with my homework",
       "language": "en",
@@ -349,84 +349,54 @@
         {
           "segment_index": 1,
           "time_range": "102.0s - 108.0s",
-          "query": "VISUAL: There's a man and a robot facing off with guns drawn. The man is on the left, aiming his rifle at the robot. The robot is on the right, also aiming its gun back. They're both in some kind of desert or dry area with hills in the background.AUDIO: You can hear gunfire and glass shattering. It seems like there might be some kind of battle going on between them.What do you think about that scene?"
+          "query": "Visually, there are two figures, one human and one robot, both aiming guns at each other in a desert-like environment with dry grass and hills in the background. The human figure is dressed in dark clothing and the robot has a metallic, angular appearance. The scene is tense, with the two figures seemingly about to engage in a confrontation.\n\nAudibly, there's a loud explosion followed by a series of beeps and electronic noises, which could be from the guns or some kind of device."
         },
         {
           "segment_index": 2,
           "time_range": "108.0s - 114.0s",
-          "query": "VISUAL: There's a man in military gear holding a gun, facing a robot. The robot has a humanoid shape with mechanical limbs. They seem to be in an open area with dry grass and hills in the background. Then there's another scene where the same man is running away from the robot which is chasing him. There are some people watching them in the distance.AUDIO: You can hear gunfire, explosions, and some kind of electronic beeping or humming throughout the video. It gives off a very intense and chaotic vibe.If you have any other thoughts about this video or want to discuss it further, feel free to let me know!"
+          "query": "Visually, there are two people in a desert-like environment. One is holding a gun and pointing it at the other. The person being pointed at is also holding a gun. There's some kind of structure or object in the middle of them. The colors are mostly earthy tones, like browns and tans, typical of a desert. The movement is mainly the two people standing and pointing guns at each other.\n\nIn terms of audio, there are gunshots, which are loud and sharp. There's also a sound effect that resembles a bell ringing. The overall sound is quite intense and chaotic."
         },
         {
           "segment_index": 3,
           "time_range": "114.0s - 120.0s",
-          "query": "VISUAL: There's a robot in the foreground with its arms raised. In the background, there are three people standing on sandy ground near some vehicles and tents. The scene is outdoors, likely in a desert area with mountains in the distance. One person seems to be holding something up in front of their face.AUDIO: There are some sound effects that could be related to machinery or technology, like clicks and beeps. It doesn't seem to be any clear speech or music.If you have more questions about this video or anything else, feel free to let me know!"
+          "query": "Visually, there's a robot in a desert-like environment. It seems to be interacting with some people who are standing around it. The robot has a somewhat humanoid shape but is clearly mechanical. The people are dressed casually, and there are some vehicles and tents in the background. The colors are mostly earthy tones, like browns and beiges, with the robot having darker metallic parts. The movement is mainly the robot's actions and the people's slight movements as they observe or interact with it.\n\nIn terms of audio, there are some sound effects that seem to be related to the robot's actions. It could be things like mechanical noises or possibly some kind of energy discharge. There's also a bit of ambient noise, like wind or distant chatter, but it's not very prominent."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 273.0530250072479
+      "processing_time": 280.4839496612549
     },
     {
-      "comment_index": 4413,
+      "comment_index": 5563,
       "video_id": "y3RIHnK0_NE",
-      "comment": ":\"I fear no man\" :\"but that thing 1:56\" :\"it scares me\"",
+      "comment": "1:57 T-pose?... LMFAOO.",
       "language": "en",
       "channel_name": "Corridor",
       "category": "making",
-      "likes": 135.0,
-      "comment_timestamp": 116.0,
+      "likes": 147.0,
+      "comment_timestamp": 117.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "107.0s - 113.0s",
-          "query": "VISUAL: There's a robot and a person in a desert-like area. The robot is holding a gun and pointing it at the person. The person seems to be reacting to the robot's actions. Then there's another scene where two people are standing near some equipment on a table. One of them is holding a gun too.AUDIO: You can hear gunfire and some kind of electronic beeping or humming noise. It gives off an intense, action - like vibe.If you have any thoughts about this or want to discuss more, feel free to share!"
+          "time_range": "108.0s - 114.0s",
+          "query": "Visually, there are two people in a desert-like environment. One is holding a gun and pointing it at the other. The person being pointed at is also holding a gun. There's some kind of structure or object in the middle of them. The colors are mostly earthy tones, like browns and tans, typical of a desert. The movement is mainly the two people standing and pointing guns at each other.\n\nIn terms of audio, there are gunshots, which are loud and sharp. There's also a sound effect that resembles a bell ringing. The overall sound is quite intense and chaotic."
         },
         {
           "segment_index": 2,
-          "time_range": "113.0s - 119.0s",
-          "query": "VISUAL: There's a robot with a humanoid shape standing on sandy ground. It has a black body with some visible wiring or mechanical components. In the background, there are a few people wearing dark shirts and shorts. They seem to be observing the robot. There are also some vehicles parked further back near a small building. The sky is clear and blue, suggesting it's daytime. The scene looks like an outdoor area, possibly a desert or a dry plain.AUDIO: I can't really tell much from just these six seconds. There might be some background noise or faint sounds that aren't clearly audible. But without more context, it's hard to say for sure.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
+          "time_range": "114.0s - 120.0s",
+          "query": "Visually, there's a robot in a desert-like environment. It seems to be interacting with some people who are standing around it. The robot has a somewhat humanoid shape but is clearly mechanical. The people are dressed casually, and there are some vehicles and tents in the background. The colors are mostly earthy tones, like browns and beiges, with the robot having darker metallic parts. The movement is mainly the robot's actions and the people's slight movements as they observe or interact with it.\n\nIn terms of audio, there are some sound effects that seem to be related to the robot's actions. It could be things like mechanical noises or possibly some kind of energy discharge. There's also a bit of ambient noise, like wind or distant chatter, but it's not very prominent."
         },
         {
           "segment_index": 3,
-          "time_range": "119.0s - 125.0s",
-          "query": "VISUAL: There's a robot running on a dirt path. It has a mechanical appearance with joints that move smoothly. In front of it, there are two people standing behind a fence. One person is wearing a blue shirt and black pants, while the other is in a patterned shirt and dark pants. They both have their arms raised. The background shows some dry grassy hills and a few parked cars near a building. There's also a blue portable toilet nearby.AUDIO: You can hear a beep followed by gunshots. Then there's more gunshots and a man speaking. The speech seems to be in English, but I can't make out the exact words.What do you think about this scene? Any thoughts or questions?"
+          "time_range": "120.0s - 126.0s",
+          "query": "Visually, there are people in a sandy area, possibly a beach or a desert-like place. There are some structures in the background, like a blue portable toilet. One person seems to be running or moving quickly, and another is standing still with their arms raised. The overall scene looks a bit chaotic with a lot of movement.\n\nIn terms of audio, there's a beep sound, followed by some kind of impact or crash sound. It's not clear what the beep is for or what caused the crash."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 322.0978639125824
+      "processing_time": 280.93732810020447
     },
     {
-      "comment_index": 4414,
-      "video_id": "y3RIHnK0_NE",
-      "comment": "3:41 You gotta love that Half-Life 2 Horn",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 122.0,
-      "comment_timestamp": 221.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "212.0s - 218.0s",
-          "query": "VISUAL: There's an outdoor scene with some people running around. One person is wearing a yellow outfit that looks like a robot or exoskeleton. The background has dry, hilly terrain. There's also smoke or dust being kicked up as they run.AUDIO: I can hear gunshots and some kind of screeching or howling noise. It seems pretty intense.What do you think about it? Do you have any other videos to analyze?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "218.0s - 224.0s",
-          "query": "VISUAL: The video shows an aerial view of a hilly area with dry grass and some green bushes. There's a dirt road winding through it. No people or animals are visible.AUDIO: I hear beeping, like from a device, and then a car engine starting up. There's also some background chatter that seems to be coming from a radio or similar communication device.If you have any other thoughts about the video or want to discuss something else related to it, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "224.0s - 230.0s",
-          "query": "VISUAL: The video shows an aerial view of a hilly landscape with dry grass and some scattered trees. There's a dirt path winding through it. The terrain looks uneven and there are shadows cast on the ground from the hills.AUDIO: I can hear a radio communication in the background throughout the whole clip. It seems like someone is talking over the radio, but the words aren't clear enough to understand fully.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 231.50874638557434
-    },
-    {
-      "comment_index": 4415,
+      "comment_index": 5564,
       "video_id": "y3RIHnK0_NE",
       "comment": "Idk how but at 3:27 he suddenly got feelings and took revenge 😂😂😂😂😂😂",
       "language": "en",
@@ -439,54 +409,24 @@
         {
           "segment_index": 1,
           "time_range": "198.0s - 204.0s",
-          "query": "VISUAL: There's a robot with a gun-like attachment on its arm. It's standing on a sandy ground near some mountains. A yellow quadrupedal robot is also there. Three men in military - like attire are observing them. One man bends down to pick something up from the ground.AUDIO: You can hear some kind of mechanical noises, like beeps or whirs, throughout the clip. There's no clear speech or music. The background has some wind sounds too.If you have any other thoughts about this video or want to discuss it further, feel free to let me know!"
+          "query": "Visual: The video shows a robot with a humanoid shape interacting with a small yellow table outdoors. There are several people around observing it. The background has dry, hilly terrain under a clear sky.\n\nAudio: You can hear some kind of mechanical or electronic beeping noises throughout the clip."
         },
         {
           "segment_index": 2,
           "time_range": "204.0s - 210.0s",
-          "query": "VISUAL: There's a robot with a gun-like attachment on its back. It's standing on a sandy ground with some dry grass and hills in the background. A few people are around it, one holding something that looks like a stick or tool. The robot seems to be moving or interacting with the people.AUDIO: You can hear some kind of electronic beeping and a thumping sound throughout the clip. There's also a short burst of shouting at the end."
+          "query": "Visually, there are three people in a desert-like environment with mountains in the background. One person is wearing a blue shirt and beige pants, another is in a dark shirt and pants, and the third is in a dark shirt and pants with a cap. A yellow robotic dog is also present. The person in the blue shirt is interacting with the robotic dog, and the other two people seem to be observing or assisting. The scene has a dry, sandy ground and a clear sky.\n\nIn terms of audio, there are sounds of impact, possibly from the robotic dog's movements or interactions with the people, and some kind of electronic beeping or alert. There's also a shout or yell heard at one point."
         },
         {
           "segment_index": 3,
           "time_range": "210.0s - 216.0s",
-          "query": "VISUAL: There's a robot with four legs walking on sandy ground. Some people are running around it. The background has dry grassy hills. There's smoke or dust near one person. One person is holding something that looks like a gun.AUDIO: I hear some kind of electronic beeping and then gunshots. It seems like there might be some sort of conflict going on.What do you think about this scene? Do you have any other thoughts or questions?"
+          "query": "Visually, there are people running in a desert-like environment with mountains in the background. The ground is sandy and there are some bushes. The people seem to be in a hurry, possibly fleeing from something. There's a lot of dust being kicked up as they run. The colors are mostly earthy tones - browns, tans, and greens. The movement is fast and chaotic, with the people scattering in different directions.Audibly, there are loud explosions and shouts. The explosions are quite intense and seem to be happening in quick succession. The shouts are probably from the people in the video, adding to the sense of urgency and panic. There's also some ambient noise, like the wind and the rustling of the bushes."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 240.82310819625854
+      "processing_time": 225.58255243301392
     },
     {
-      "comment_index": 4416,
-      "video_id": "y3RIHnK0_NE",
-      "comment": "3:27 “Shot on IPhone6” - by Linda. H",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 112.0,
-      "comment_timestamp": 207.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "198.0s - 204.0s",
-          "query": "VISUAL: There's a robot with a gun-like attachment on its arm. It's standing on a sandy ground near some mountains. A yellow quadrupedal robot is also there. Three men in military - like attire are observing them. One man bends down to pick something up from the ground.AUDIO: You can hear some kind of mechanical noises, like beeps or whirs, throughout the clip. There's no clear speech or music. The background has some wind sounds too.If you have any other thoughts about this video or want to discuss it further, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "204.0s - 210.0s",
-          "query": "VISUAL: There's a robot with a gun-like attachment on its back. It's standing on a sandy ground with some dry grass and hills in the background. A few people are around it, one holding something that looks like a stick or tool. The robot seems to be moving or interacting with the people.AUDIO: You can hear some kind of electronic beeping and a thumping sound throughout the clip. There's also a short burst of shouting at the end."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "210.0s - 216.0s",
-          "query": "VISUAL: There's a robot with four legs walking on sandy ground. Some people are running around it. The background has dry grassy hills. There's smoke or dust near one person. One person is holding something that looks like a gun.AUDIO: I hear some kind of electronic beeping and then gunshots. It seems like there might be some sort of conflict going on.What do you think about this scene? Do you have any other thoughts or questions?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 247.13984656333923
-    },
-    {
-      "comment_index": 4417,
+      "comment_index": 5565,
       "video_id": "y3RIHnK0_NE",
       "comment": "1:06 tasked failed successfully",
       "language": "en",
@@ -499,24 +439,24 @@
         {
           "segment_index": 1,
           "time_range": "57.0s - 63.0s",
-          "query": "VISUAL: There's a robot in a desert-like area with dry grass around. It has a humanoid shape and is wearing some kind of protective gear. The robot is interacting with a wooden structure that seems to be a target stand. It appears to be shooting at targets on it.AUDIO: You can hear gunshots throughout the clip. There's also some background noise, like wind or rustling leaves, which gives an outdoor feel to the scene.If you have any other thoughts about the video or want to discuss more details, feel free to let me know!"
+          "query": "**Visual:** The video shows a robot in a desert-like environment. There's a man standing near a structure that looks like a shooting range. The robot is moving and appears to be interacting with the structure. The background has dry, brownish vegetation.\n\n**Audio:** There are no distinct speech or music. The main audio is the sound of gunshots, which seem to be coming from the robot or something it's interacting with."
         },
         {
           "segment_index": 2,
           "time_range": "63.0s - 69.0s",
-          "query": "VISUAL: There's a robot on wheels with some kind of mechanical arm or device attached to it. It's in an outdoor area that looks like a desert or dry land. A person is standing nearby, wearing protective gear like a helmet and gloves. The robot moves forward and then falls over onto its side. There are also some targets set up in the background.AUDIO: You can hear gunshots throughout the entire 6 seconds. There's no speech or other distinct sound effects. It just seems to be the sound of gunfire. So, what do you think about this? Any thoughts or questions?"
+          "query": "Visually, there are two people in military-style uniforms. One is holding a gun and aiming it, while the other is standing nearby. The setting appears to be an outdoor area with dry, sandy terrain and some bushes. There are also some black rectangular objects in the background that might be targets or equipment. The movement is mainly focused on the person with the gun, who seems to be preparing to shoot.\n\nIn terms of audio, there are sounds of gunshots, which are quite loud and clear. There's also a brief moment of music playing in the background."
         },
         {
           "segment_index": 3,
           "time_range": "69.0s - 75.0s",
-          "query": "VISUAL: There's an outdoor scene with two men. One is in a dark shirt and cap, and the other has on a light-colored shirt and cap. They're near some equipment like barrels and targets. The man in the light shirt seems to be operating or interacting with a robotic device that moves around. The background shows dry grass and dirt. AUDIO: You can hear some kind of mechanical noise throughout, along with some indistinct shouting or yelling. It gives off a tense vibe. What do you think about it?"
+          "query": "**Visual:** The video shows two people in an outdoor setting, possibly a shooting range. One person is holding a rifle and appears to be aiming or shooting at targets. The other person is moving around, possibly reacting to the shooting. There are targets set up on stands in the background. The ground is sandy, and there are some bushes and a large white barrel in the scene. The overall color palette is earthy, with browns and greens dominating.\n\n**Audio:** There are sounds of gunshots, which are loud and clear. There's also a brief moment of applause, suggesting that the shooting might be part of a demonstration or competition. The background seems relatively quiet apart from these sounds."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 293.5106792449951
+      "processing_time": 271.05473041534424
     },
     {
-      "comment_index": 4418,
+      "comment_index": 5566,
       "video_id": "y3RIHnK0_NE",
       "comment": "3:02 even robots like “Animals” More than humans",
       "language": "en",
@@ -529,24 +469,24 @@
         {
           "segment_index": 1,
           "time_range": "173.0s - 179.0s",
-          "query": "VISUAL: There's a robot standing between two men sitting on chairs outdoors. The robot has a humanoid shape with a head, arms, and legs. One man is holding a toy gun while the other holds a water bottle. Another person walks into the scene from the left side carrying a wooden box. The background shows a dry, hilly landscape.AUDIO: You can hear some kind of mechanical or electronic humming throughout the clip. There's also a short burst of music towards the end."
+          "query": "Visually, there are people in a desert-like environment. Some are sitting in chairs, and others are standing or walking. There's a large robot in the scene. The colors are mostly earthy tones, like browns and greens. The movement includes people walking and interacting with the robot.\n\nIn terms of audio, there's a sound effect that resembles a gunshot or some kind of loud bang."
         },
         {
           "segment_index": 2,
           "time_range": "179.0s - 185.0s",
-          "query": "VISUAL: There's a robot and some people outdoors on a dirt path with hills in the background. The robot is black and has a humanoid shape. One person is pushing a large box towards it. Another person is holding a rifle. Then, the robot kicks the box, which causes a small yellow robotic dog to pop out from inside the box. The people seem surprised and step back.AUDIO: You can hear footsteps, some kind of impact sounds, and then a series of beeps or electronic noises. It seems like there might be some sort of device being used or activated. What do you think about this scene?"
+          "query": "Visually, there are people in military-style uniforms. They seem to be interacting with a small, yellow, robotic-looking quadruped. The setting appears to be an outdoor area with sandy terrain and some greenery in the background. The people are moving around, possibly testing or demonstrating the robot's capabilities. The colors are mostly muted earth tones, with the yellow of the robot standing out. There's a sense of activity and focus on the robot and the people's actions.Audibly, there are footsteps and some kind of mechanical or electronic beeping or whirring noises. There's also a brief moment of what sounds like a dog barking. The overall sound is somewhat chaotic, suggesting a busy or active environment."
         },
         {
           "segment_index": 3,
           "time_range": "185.0s - 191.0s",
-          "query": "VISUAL: There's a robot holding a gun on the left side. It seems to be moving or adjusting its position. On the right, there's a yellow quadrupedal robot walking. Three men are standing around them, observing. The background is an outdoor desert-like area with dry grass and hills. The ground looks sandy and dusty.AUDIO: There are some electronic beeps and clicks throughout the 6 seconds. No clear speech or music can be heard. What do you think about these robots? Do you find them interesting?"
+          "query": "Visually, there are several people in a desert-like environment. They seem to be interacting with a small, yellow, robotic dog. The terrain is dry and sandy, with some sparse vegetation and hills in the background. The people are dressed in casual outdoor clothing, and one person is holding a device that might be related to the robot. The robot is moving around, and the people are observing it.\n\nIn terms of audio, there are some electronic beeps and a low hum, possibly from the robot or some other device. There's also a brief moment of a high-pitched squeal, which could be a reaction to the robot's movement or an alert sound."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 275.4786231517792
+      "processing_time": 299.2081813812256
     },
     {
-      "comment_index": 4419,
+      "comment_index": 5567,
       "video_id": "y3RIHnK0_NE",
       "comment": "3:33 Honestly thought he was gonna leap away like Hulk did in his movies",
       "language": "en",
@@ -559,24 +499,24 @@
         {
           "segment_index": 1,
           "time_range": "204.0s - 210.0s",
-          "query": "VISUAL: There's a robot with a gun-like attachment on its back. It's standing on a sandy ground with some dry grass and hills in the background. A few people are around it, one holding something that looks like a stick or tool. The robot seems to be moving or interacting with the people.AUDIO: You can hear some kind of electronic beeping and a thumping sound throughout the clip. There's also a short burst of shouting at the end."
+          "query": "Visually, there are three people in a desert-like environment with mountains in the background. One person is wearing a blue shirt and beige pants, another is in a dark shirt and pants, and the third is in a dark shirt and pants with a cap. A yellow robotic dog is also present. The person in the blue shirt is interacting with the robotic dog, and the other two people seem to be observing or assisting. The scene has a dry, sandy ground and a clear sky.\n\nIn terms of audio, there are sounds of impact, possibly from the robotic dog's movements or interactions with the people, and some kind of electronic beeping or alert. There's also a shout or yell heard at one point."
         },
         {
           "segment_index": 2,
           "time_range": "210.0s - 216.0s",
-          "query": "VISUAL: There's a robot with four legs walking on sandy ground. Some people are running around it. The background has dry grassy hills. There's smoke or dust near one person. One person is holding something that looks like a gun.AUDIO: I hear some kind of electronic beeping and then gunshots. It seems like there might be some sort of conflict going on.What do you think about this scene? Do you have any other thoughts or questions?"
+          "query": "Visually, there are people running in a desert-like environment with mountains in the background. The ground is sandy and there are some bushes. The people seem to be in a hurry, possibly fleeing from something. There's a lot of dust being kicked up as they run. The colors are mostly earthy tones - browns, tans, and greens. The movement is fast and chaotic, with the people scattering in different directions.Audibly, there are loud explosions and shouts. The explosions are quite intense and seem to be happening in quick succession. The shouts are probably from the people in the video, adding to the sense of urgency and panic. There's also some ambient noise, like the wind and the rustling of the bushes."
         },
         {
           "segment_index": 3,
           "time_range": "216.0s - 222.0s",
-          "query": "VISUAL: There's a group of people running on a dirt path in a hilly area with dry grass and some bushes. The sky is clear. One person seems to be leading while others follow closely.AUDIO: There's a phone dialing sound throughout the clip. It starts off slow and then gets faster towards the end.What do you think about it? Do you have any other observations or questions?"
+          "query": "Visual: The video shows two people running on a dirt path surrounded by dry grass and hills. There's also an aerial view of a hilly area with some greenery.\n\nAudio: You can hear beeping, possibly from a device or machinery, along with some indistinct voices in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 204.65390872955322
+      "processing_time": 223.91594743728638
     },
     {
-      "comment_index": 4420,
+      "comment_index": 5568,
       "video_id": "y3RIHnK0_NE",
       "comment": "3:25 When robots fight back",
       "language": "en",
@@ -589,21 +529,81 @@
         {
           "segment_index": 1,
           "time_range": "196.0s - 202.0s",
-          "query": "VISUAL: There's a robot with a gun on its back walking towards some people. A small four-legged robot is also there. The background has dry hills and a clear sky. The people seem to be observing the robots.AUDIO: You can hear some kind of mechanical or electronic noise throughout the clip. It doesn't seem like any specific speech or music is present.If you have any other thoughts about this video or want to discuss it further, feel free to let me know!"
+          "query": "Visually, there are several people in a desert-like environment. Some are standing and others are moving around. There's a yellow object, possibly a piece of equipment or a vehicle, on the ground. The terrain is dry and sandy with some sparse vegetation. The people are dressed in dark clothing, and one person seems to be interacting with the yellow object.\n\nIn terms of audio, there are sounds of movement, like footsteps and possibly some impact sounds. There's also a voice shouting or yelling in the background."
         },
         {
           "segment_index": 2,
           "time_range": "202.0s - 208.0s",
-          "query": "VISUAL: There's a robot with a gun-like attachment on its back. It's standing on two legs like a bipedal machine. Next to it is another smaller, yellow quadruped robot. Three men are around them. One man is holding a stick or tool near the bipedal robot. The background shows a dry, hilly landscape under a clear sky.AUDIO: There are some beeping and whirring sounds throughout the clip. No distinct speech or music can be heard."
+          "query": "Visually, there are four people in a desert-like environment. One person is interacting with a small, yellow, four-legged robot. The other three people are standing around, observing. The terrain is dry and sandy, with some sparse vegetation and mountains in the background. The sky is clear and blue.\n\nIn terms of audio, there are beeping sounds, some kind of impact noises, and a brief shout."
         },
         {
           "segment_index": 3,
           "time_range": "208.0s - 214.0s",
-          "query": "VISUAL: There's a robot with a gun walking on a sandy ground. A man is running away from it. Another person is also seen running. The background has some dry grassy hills and mountains. There's a yellow quadrupedal robot nearby.AUDIO: You can hear gunshots throughout the clip. It seems like there might be some shouting or yelling too. What do you think about this scene?"
+          "query": "Visually, there are people in a desert-like environment. Some are running, and there's a lot of dust and debris flying around. There are also some objects that look like they could be weapons or equipment. The colors are mostly earthy tones, like browns and yellows, with the dust adding a lot of beige and white. The movement is fast-paced, with people and objects in constant motion.\n\nIn terms of audio, there are sounds of explosions, gunshots, and shouting. The explosions are loud and seem to be happening in quick succession. The gunshots are sharp and distinct. The shouting is chaotic, adding to the sense of urgency and danger. There's also some background noise, like the wind and the dust."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 216.8731586933136
+      "processing_time": 238.01973962783813
+    },
+    {
+      "comment_index": 5569,
+      "video_id": "y3RIHnK0_NE",
+      "comment": "1:18 to 1:58: just constant abuse from its makers while constantly and then just flips the table and T-poses for dominance, perfect. Even the test team seems shocked by what happened.",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 89.0,
+      "comment_timestamp": 118.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "109.0s - 115.0s",
+          "query": "Visual: The scene shows an outdoor desert-like environment with mountains in the background. There's a robot holding a gun, aiming at someone. A person is running away from the robot. Another person seems to be reacting to the situation.\n\nAudio: You can hear gunfire and explosions, which create a tense atmosphere."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "115.0s - 121.0s",
+          "query": "Visually, there's a robot in the foreground, looking like it's interacting with some people in the background. The people seem to be observing or maybe operating the robot. The setting looks like an outdoor area with some hills and a blue portable toilet nearby. There are also some vehicles parked in the distance. The colors are mostly earthy tones, with the blue toilet and the robot's metallic parts standing out. The movement is mainly the robot's actions and the people's slight movements as they interact with it.\n\nIn terms of audio, there are some sound effects that seem to be related to the robot's actions, like beeps and possibly some mechanical noises. There's also a brief moment of speech, but it's not clear what's being said."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "121.0s - 127.0s",
+          "query": "Visually, there's a robot running towards a group of people. The people seem to be reacting to the robot's approach. The setting looks like an outdoor area with some greenery and a fence in the background. The robot is black and has a somewhat humanoid shape, but it's clearly mechanical. The people are standing close together, and one of them has their arms raised, possibly in surprise or alarm. The colors are mostly muted, with the green of the plants and the grayish tones of the robot and the people's clothing standing out.\n\nIn terms of audio, there's a lot of heavy breathing, which could be from the robot or the people. Then, there are some gunshots, which are quite loud and abrupt. There's also a bit of a beep or a signal sound, but it's not clear what it's from. The overall sound is quite tense and chaotic."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 213.5763771533966
+    },
+    {
+      "comment_index": 5570,
+      "video_id": "y3RIHnK0_NE",
+      "comment": "1:04 me trying to act cool",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 77.0,
+      "comment_timestamp": 64.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "55.0s - 61.0s",
+          "query": "Visual: The video shows two robots interacting with some kind of structure or equipment outdoors. One robot seems to be moving around while the other is stationary near the structure. There's dry grass and dirt on the ground, suggesting an outdoor setting.\n\nAudio: You can hear gunshots and metal clanging noises throughout the clip. It gives off a tense or action-packed vibe."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "61.0s - 67.0s",
+          "query": "Visually, there's a man in a military uniform standing in a desert-like environment. He's holding a large, complex machine gun-like device. The background has dry, brownish terrain. There are also some black rectangular objects on stands in the background. The man seems to be preparing or adjusting the device. The colors are mostly muted, with the brown of the ground and the dark gray of the device and the man's uniform. The movement is mainly the man's slight adjustments to the device and his stance.\n\nIn terms of audio, there are some mechanical sounds, like gears turning and a click. Then, there's a loud bang, which could be a gunshot or some other loud noise. There's also a brief moment of music playing in the background."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "67.0s - 73.0s",
+          "query": "**Visual:** The video shows two people in a desert-like environment. One person is wearing a dark shirt and beige pants, and the other is in a light-colored outfit. There are some large white barrels and black targets on stands. The person in the dark shirt is moving around, possibly setting up or adjusting something. The other person seems to be observing or assisting. The ground is sandy and there are some dry bushes in the background. The overall scene gives off a training or practice vibe.\n\n**Audio:** There are no distinct speech or music in the audio. The main sounds are the impact sounds, like a gunshot or a loud bang, and some ambient noises that could be from the environment or equipment."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 312.99741101264954
     }
   ]
 }

@@ -4,10 +4,9 @@
   "successful_comments": 20,
   "failed_comments": 0,
   "success_rate": "100.0%",
-  "processing_time": 5409.575917959213,
   "comments": [
     {
-      "comment_index": 3790,
+      "comment_index": 2581,
       "video_id": "I7g08nwEmyY",
       "comment": "4:59 Netflix startup sound",
       "language": "en",
@@ -20,24 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "290.0s - 296.0s",
-          "query": "VISUAL: There's a man with long hair wearing a dark jacket and jeans. He's standing outside near a structure that looks like it has a brick facade and a window. He seems to be looking at something inside through the window. In the background, there's another person sitting on a chair. The setting appears to be outdoors, possibly in a field or open area.AUDIO: I can hear someone saying \"brave\" twice during these six seconds. It's not clear who is speaking or why they're saying it. There doesn't seem to be any other significant sounds besides this speech. So, what do you think about this scene? Do you have any ideas about what might be happening?"
+          "query": "Visually, there's a man in a dark jacket and hat standing in front of a brick wall with a window. He seems to be looking at something inside the window. The background shows a grassy area and a cloudy sky. There's also a ladder leaning against the wall. The colors are mostly muted, with the brick wall being a reddish-brown and the grass a dull green. The man's movements are slow and deliberate as he looks into the window.\n\nIn terms of audio, there's a man speaking, but the words are unclear. There's also a sound of someone breathing heavily, which could be the same man. The overall sound is quiet, with no other distinct noises."
         },
         {
           "segment_index": 2,
           "time_range": "296.0s - 302.0s",
-          "query": "VISUAL: There's a man in jeans and a dark jacket moving a large piece of furniture outside near a trailer. Another person is sitting on a chair watching him. The scene takes place in an open grassy area with some trees in the distance. The sky looks cloudy.AUDIO: A man is speaking, saying \"nope nope\" twice, then \"my one-man job this.\" There's also some background noise like wind and possibly some other faint sounds. What do you think about it?"
+          "query": "Well, I'm not sure if there's actually any content to analyze here. The prompt doesn't seem to contain a valid video segment for me to describe visually or audibly. If you have another video segment that you'd like analyzed, feel free to share it!"
         },
         {
           "segment_index": 3,
           "time_range": "302.0s - 308.0s",
-          "query": "VISUAL: A man is carrying a large piece of wood near a small wooden structure on grassy ground. There's another person sitting inside the structure. Then it cuts to a close - up of an older man with gray hair looking off into the distance. After that, there's a white car driving past him. The background shows some vehicles parked in the distance under a cloudy sky.AUDIO: There's a male voice speaking throughout the video. It seems like he's talking about something related to \"flats\" and mentions someone named Jeremy joining them. The tone is somewhat serious or matter - of - fact.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "Well, in the visual part, there's a man walking in a grassy area. He's carrying a large piece of wood. The sky looks a bit cloudy. There are some buildings and a car in the background. In the audio part, there's a man speaking. He seems to be talking about something related to a block of flats and mentions someone named Jeremy. It sounds like he's explaining or narrating something. So, what do you think about this video?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 317.09619641304016
+      "processing_time": 249.55249977111816
     },
     {
-      "comment_index": 3791,
+      "comment_index": 2582,
       "video_id": "I7g08nwEmyY",
       "comment": "5:58 “He might eat… a free range egg.”  Dying of laughter",
       "language": "en",
@@ -50,24 +49,24 @@
         {
           "segment_index": 1,
           "time_range": "349.0s - 355.0s",
-          "query": "VISUAL: Two men wearing winter hats sit at a table with wine glasses and a bottle on it. They seem to be having a conversation while looking at something on the table. The background shows a window with a view of water and land outside.AUDIO: There's some speech going on, but I can't really make out the words clearly from just this short clip.What do you think about the scene? Do you have any other questions related to it?"
+          "query": "Visually, there are two people sitting at a table. They're wearing winter hats and coats, suggesting a cold environment. There's a bottle of wine, glasses, and some papers on the table. The background shows a snowy or icy landscape through the windows. The people seem to be engaged in some activity, possibly reading or discussing something. The colors are muted, with lots of whites and grays from the snow and the people's clothing, and some darker tones from the table and the bottle.\n\nAudio - There's a man speaking. His voice is clear and he seems to be talking about something related to \"pea puree tartar sauce\" and \"real chip down block beer.\" The tone is casual, like he's explaining or describing something."
         },
         {
           "segment_index": 2,
           "time_range": "355.0s - 361.0s",
-          "query": "VISUAL: Two men wearing hats with yellow and black patterns sit at a table. One's in an orange jacket, the other in a brown one. There's a bottle on the table along with some glasses. They seem to be looking at something together. The background shows a window with a view outside.AUDIO: A man is speaking about someone not eating fish and possibly eating free - range eggs. It seems like he's having a conversation or explaining something. What do you think they might be discussing?"
+          "query": "**Visual:** Two men sit at a table with large windows showing an outdoor scene. One wears an orange jacket and yellow hat, while the other has on a brown jacket and black-yellow hat. There's a bottle of wine, glasses, and some papers on the table.\n\n**Audio:** A man speaks about fish, mentioning that someone doesn't eat fish but might eat a free-range egg."
         },
         {
           "segment_index": 3,
           "time_range": "361.0s - 367.0s",
-          "query": "VISUAL: The video shows some branches with white flowers at first. Then it cuts to an outdoor scene with a small building surrounded by grass and cardboard pieces on the ground. There's also a person standing near bookshelves inside a room.AUDIO: You can hear wind blowing and some music playing in the background. It seems like there might be some speech too, but it's not very clear.What do you think about the video? Do you have any other questions?"
+          "query": "Visually, the video shows a person in a dark outfit walking on a rooftop. There are some plants and a fence in the foreground. The sky is dark, suggesting it might be evening or night. The person seems to be moving purposefully, possibly carrying something in their hand. The overall scene has a somewhat mysterious and tense atmosphere.\n\nAudio - There's music playing in the background, which adds to the mysterious and tense mood of the scene."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 219.49978232383728
+      "processing_time": 253.27996444702148
     },
     {
-      "comment_index": 3792,
+      "comment_index": 2583,
       "video_id": "I7g08nwEmyY",
       "comment": "4:18 The most british thing I've ever heard",
       "language": "en",
@@ -80,24 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "249.0s - 255.0s",
-          "query": "VISUAL: A red car is driving on a road with some grassy areas and buildings nearby. There's also a sign that says \"FAMILIES ONLY\" among other rules about bookings and speed limits for children. Inside the car, there's someone driving and holding something in their hands.AUDIO: Someone is speaking, saying \"ignore my distress signal oh yeah looks suitable holiday destination.\" It seems like they're commenting on the place shown in the video.What do you think about the place? Does it seem like a good holiday spot to you?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.48 GiB. GPU 1 has a total capacity of 23.56 GiB of which 2.00 GiB is free. Including non-PyTorch memory, this process has 21.55 GiB memory in use. Of the allocated memory 16.83 GiB is allocated by PyTorch, and 4.41 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 2,
           "time_range": "255.0s - 261.0s",
-          "query": "VISUAL: A man is driving a car on a road with other vehicles like a truck and a caravan visible. He then stops his red car, opens the hood, and looks under it. There's another person in an orange jacket standing nearby, also looking at the engine.AUDIO: Someone says \"I think so\" followed by \"holy moly.\" It seems to be a casual conversation or reaction. What do you think about this scene?"
+          "query": "Visually, there's a red car driving on a road. There are other vehicles like a truck and a caravan nearby. A person in an orange jacket is standing by the red car, seemingly looking at it. The background shows some greenery and a cloudy sky. The scene seems to be outdoors, possibly in a rural area.Audibly, there's a man speaking, but the content of his speech isn't clear from the provided information. There are also some sound effects, like a door slamming or something similar."
         },
         {
           "segment_index": 3,
           "time_range": "261.0s - 267.0s",
-          "query": "VISUAL: The video shows a close - up view of an engine compartment with various components like hoses, a large tire - shaped object, and other mechanical parts. There's also a person wearing red clothing partially visible on the right side.AUDIO: A man is speaking, saying \"holy what manner of terrible thing has happened under my bonnet it's.\" It seems to be a bit of a dramatic or surprised tone.What do you think about that? Any thoughts on why he might be reacting like that?"
+          "query": "Well, I can't really tell much from just that one second of video. There's not enough to describe visually or audibly clearly. Maybe if there was more time? What do you think happened under your bonnet?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 246.06419396400452
+      "processing_time": 357.7224471569061
     },
     {
-      "comment_index": 3793,
+      "comment_index": 2584,
       "video_id": "I7g08nwEmyY",
       "comment": "Everyone is talking about May's laugh but Jeremy's cackle at 2:58 is absolutely priceless.",
       "language": "en",
@@ -110,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "169.0s - 175.0s",
-          "query": "VISUAL: A person is at a gas station pumping fuel into their car. There's a sign on the pump showing the price and amount of fuel dispensed. In another scene, someone is inside a vehicle, possibly a truck or van, handling some equipment or supplies. The interior looks a bit cluttered with rolled-up items.AUDIO: There's background music playing throughout the video. No distinct speech or sound effects can be heard."
+          "query": "Visually, there's a person in an orange jacket standing at a gas pump. They seem to be in the process of refueling a car. The gas pump display is visible, showing the amount of fuel dispensed. In the background, there's a truck parked. The scene appears to be at a gas station. The colors are mostly muted, with the orange jacket standing out against the more neutral tones of the surroundings. There's some movement as the person interacts with the gas pump and the car.\n\nAudio-wise, there's a voiceover saying \"fueling was underway.\" The voice is clear and seems to be providing information about the refueling process. There's also some background music playing, which is relatively soft and doesn't overpower the voiceover."
         },
         {
           "segment_index": 2,
           "time_range": "175.0s - 181.0s",
-          "query": "VISUAL: A person is working on a boat, using some tools like a hammer or similar object to fix something on it. The scene seems to be outdoors near a road with vehicles passing by.AUDIO: There's laughter and music playing in the background. It gives off a light-hearted vibe. What do you think about the combination of these elements?"
+          "query": "**Visual:** The scene shows someone with curly hair wearing a dark jacket. They seem to be interacting with something on a surface that looks like it could be inside a vehicle or some kind of enclosed space. There's also an orange van visible outside through a window.\n\n**Audio:** The audio includes laughter and some indistinct background noise. It seems like there might be a conversation happening just out of frame."
         },
         {
           "segment_index": 3,
           "time_range": "181.0s - 187.0s",
-          "query": "VISUAL: There's a man in an orange jacket standing near a white vehicle. He seems to be interacting with someone whose back is facing the camera. In the background, there are some trucks parked on a road with trees around. The scene looks like it might be at a parking area or a roadside stop.AUDIO: A male voice is speaking, saying \"that's an all new I've never seen a lockable fuel filler cap where you need to sort.\" It sounds like he's talking about something related to vehicles, probably commenting on a feature of the car or truck. So, what do you think about that? Any thoughts on the video?"
+          "query": "Visually, there's an orange-jacketed man standing on a road with vehicles like trucks around him. He seems to be talking or reacting to something. There s also someone in a blue jacket partially visible from behind. The background has trees and some buildings. The scene looks like it might be near a parking lot or industrial area.Audibly, there s laughter heard at one point, which could indicate that the orange-jacketed man is having a light-hearted conversation or reacting to a funny situation."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 215.99487566947937
+      "processing_time": 216.9250931739807
     },
     {
-      "comment_index": 3794,
+      "comment_index": 2585,
       "video_id": "I7g08nwEmyY",
       "comment": "7:37 6 years old when they hear something in the dark  Edit: Thanks for the likes 4 years ago lol",
       "language": "en",
@@ -140,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "448.0s - 454.0s",
-          "query": "VISUAL: There's a person inside a small room or space, holding something up to their face. The room has some kind of metallic walls. Outside, there's a white car parked near a tall building at night. The building is lit up with lights on it.AUDIO: Someone is speaking, saying \"no\" twice, then \"step\". It seems like they're trying to stop someone or something from doing something. There's also some background noise that could be wind or other environmental sounds.What do you think about this scene? Do you have any ideas about what might be happening?"
+          "query": "Well, I can't really analyze that video since it's not available to me. But if you describe it to me or give some details about what happens in those six seconds, I'd be happy to help break it down for you! So, go ahead and tell me more about it."
         },
         {
           "segment_index": 2,
           "time_range": "454.0s - 460.0s",
-          "query": "VISUAL: There's a white car parked near a small building at night. A man with long hair is lying on his back on a bed or something similar, looking up. The scene seems dark overall.AUDIO: There's some kind of mechanical noise throughout, like gears turning or something. And there's also a voice saying \"Oh could be worse.\" What do you think about it?"
+          "query": "Well, I can't really tell much from just that short clip. There's not enough to describe visually or audibly clearly. Maybe there was something interesting going on? Let me know if you want to share more details!"
         },
         {
           "segment_index": 3,
           "time_range": "460.0s - 466.0s",
-          "query": "VISUAL: The video shows a dark scene with some stairs visible at first. Then it cuts to a person in a plaid shirt who seems to be falling or being pushed down. There's also a dog in the background that looks startled.AUDIO: You can hear some kind of impact sound followed by a man shouting \"Oh God!\" in a panicked tone.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Well, I can't actually watch videos directly here. But if you describe it to me, I'll be happy to help analyze it! What do you see? And what's happening in the audio?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 245.69626545906067
+      "processing_time": 135.65187287330627
     },
     {
-      "comment_index": 3795,
+      "comment_index": 2586,
       "video_id": "I7g08nwEmyY",
       "comment": "2:39 that hydraulic suspension sounded sweet! 😂",
       "language": "en",
@@ -170,24 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "150.0s - 156.0s",
-          "query": "VISUAL: There's a white car with an unusual structure on top, like a small building or tower. It's parked at a gas station. A person is standing near it. The background shows other cars and some trees.AUDIO: Someone is speaking, saying \"No what seriously you're gonna hit it yeah that's quite close yeah but unlike your\". It seems to be a conversation about something related to the car or its movement.What do you think about this video? Do you have any ideas about what might happen next?"
+          "query": "Visually, there's a white car parked in front of a building with a red roof. The building has a modern design with large windows. There are some trees and other vehicles in the background. A person is walking near the car, and another person is standing by the building. The scene seems to be in an urban or suburban area.\n\nIn terms of audio, there's a conversation happening. One person is saying something like \"No, what seriously you're gonna hit it\" and another responds with \"Yeah, that's quite close.\" The tone suggests some urgency or concern."
         },
         {
           "segment_index": 2,
           "time_range": "156.0s - 162.0s",
-          "query": "VISUAL: There's an older man in an orange jacket sitting inside a car. The camera then shows a close - up of one of the car's wheels on the ground. Outside the car, there are some people standing around. The scene seems to be set outdoors, possibly in a parking lot or similar area.AUDIO: You can hear someone speaking, saying \"two cars ready\" twice. There's also a squeaking sound that occurs between these two instances of the spoken words.If you have any other thoughts about this video or want to discuss it further, feel free to let me know!"
+          "query": "Visually, there's a person in an orange jacket sitting in a car, looking out the window. The car's interior is visible, and outside, there are some trees and a building in the background. The person seems to be waiting or observing something. There's also a close-up shot of a car tire, which looks like it might be in a garage or some kind of indoor space. The tire has a classic design with a metal rim.The audio includes a man speaking, and then there's a sound effect that resembles a car tire squealing or skidding. It gives the impression of a car possibly coming to a sudden stop or starting to move quickly."
         },
         {
           "segment_index": 3,
           "time_range": "162.0s - 168.0s",
-          "query": "VISUAL: The video shows a white car with a spinning tire at first. Then it cuts to two men walking towards the car near a gas station. There's also a building with a red roof and some trees around. The car is parked under a sheltered area of the gas station.AUDIO: You can hear someone saying \"Oh yes\" twice, which seems like an expression of excitement or approval. There's also some background noise that could be from the gas station environment.If you have any other thoughts about the video or want to discuss more details, feel free to let me know."
+          "query": "Visually, the video shows a white car parked in a lot. There are some buildings in the background, and a person is walking near the car. The scene seems to be in an urban or suburban area. The colors are mostly muted, with the white of the car standing out against the more subdued surroundings. There's a sense of stillness, with not much movement except for the person walking.\n\nIn terms of audio, there's a sound effect that starts around 2.5 seconds into the video. It's a kind of whoosh or swoosh sound, which might be used to indicate something moving quickly or to add a dramatic effect. There's also some background noise, like the hum of a city or a car engine, but it's not very prominent."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 285.26196575164795
+      "processing_time": 239.90358757972717
     },
     {
-      "comment_index": 3796,
+      "comment_index": 2587,
       "video_id": "I7g08nwEmyY",
       "comment": "4:52 Richard's little, \"I'm brave!\" is the cutest thing I've seen in a while. 😂",
       "language": "en",
@@ -200,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "283.0s - 289.0s",
-          "query": "VISUAL: There's a man sitting on a chair outside near a small trailer with a brick-like exterior. He's wearing a brown jacket and blue jeans. Another person is seen inside the trailer, moving around. The scene takes place in an open grassy area under a cloudy sky.AUDIO: You can hear some kind of grunting or moaning from the man sitting outside. There's also a sound effect that seems like something being hit or knocked over. It ends with a short piece of music playing. What do you think about it?"
+          "query": "**Visual:** The video shows a man in a green jacket and brown pants standing in a grassy field. He's holding a white object, possibly a piece of paper or a small book, and appears to be looking at it. In the background, there's a brick building with a window and a green door. A person is sitting on the ground near the building. There's also a truck parked nearby. The sky is cloudy, suggesting an overcast day.\n\n**Audio:** The audio includes a man speaking, followed by a sound effect that resembles a sheep bleating."
         },
         {
           "segment_index": 2,
           "time_range": "289.0s - 295.0s",
-          "query": "VISUAL: There's a man with long hair wearing a dark jacket and jeans. He's standing outside near a brick structure that looks like it might be part of a house or some kind of installation. The background shows an open field and a cloudy sky. There's also a vehicle parked nearby.AUDIO: You can hear someone saying \"brave\" twice in a somewhat sad tone. It seems to be a voiceover or narration related to the scene.What do you think about this? Do you have any other questions regarding the video?"
+          "query": "Visually, there's a man standing in front of a brick wall with a window. He's wearing a dark jacket and jeans. He seems to be looking at something inside the window, possibly a display or a painting. The background shows a grassy area and a cloudy sky. There's also a vehicle, maybe a truck, parked nearby. The colors are mostly muted, with the brown of the brick wall and the green of the grass being the most prominent.\n\nIn terms of audio, there's a man speaking. His voice sounds a bit strained or tired, and he seems to be saying something like \"Oh brave.\""
         },
         {
           "segment_index": 3,
           "time_range": "295.0s - 301.0s",
-          "query": "VISUAL: There's a man moving a large piece of furniture outside near a small house or trailer on a grassy field. Another person is sitting on a chair nearby watching him. The sky looks cloudy.AUDIO: A man is speaking, saying \"some help nope I'll need to make one man job this.\" It seems like he's talking about not needing assistance with his task. What do you think about it?"
+          "query": "Visually, there are two people in a grassy area. One person is sitting on a chair, and the other is near a large, open vehicle or trailer. The person near the vehicle seems to be interacting with it, possibly opening or closing a door. The background shows a cloudy sky and some distant hills. The colors are mostly muted greens and grays, typical of an overcast day. There's a sense of movement as the person near the vehicle is actively engaged with it, while the other person is relatively still.\n\nIn terms of audio, there's a man speaking. His voice is clear and seems to be giving some kind of instruction or explanation. There are no other distinct sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 228.85616445541382
+      "processing_time": 356.47127509117126
     },
     {
-      "comment_index": 3797,
+      "comment_index": 2588,
       "video_id": "I7g08nwEmyY",
       "comment": "7:07 James's laugh got me dying.",
       "language": "en",
@@ -230,24 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "418.0s - 424.0s",
-          "query": "VISUAL: There's someone wearing an orange jacket with reflective stripes on the back. They're walking through a narrow corridor or hallway that seems to be inside some kind of structure. The walls look dark and there's a bit of light coming from outside, maybe a window or opening. The person is moving forward, their back facing the camera.AUDIO: You can hear a man speaking. He says \"ancestral portrait just a minute.\" It sounds like he might be talking about something related to family history or heritage. There doesn't seem to be any other significant sounds besides his voice.If you have any thoughts or questions about this, feel free to share!"
+          "query": "Visually, there's a person in a red jacket walking through a dimly lit corridor. The walls are dark, and there's a light source at the end of the corridor. The person seems to be moving towards the light. There's also a small, rectangular object on the wall to the right of the person, which looks like a control panel or some kind of device. The overall color scheme is dark with some red from the jacket and a bit of light from the end of the corridor.Audibly, there's a man speaking in English. He says, \"ancestral portrait yes I have a great uncle um great uncle just a minute.\" The speech is clear and the man seems to be in a normal, conversational tone."
         },
         {
           "segment_index": 2,
           "time_range": "424.0s - 430.0s",
-          "query": "VISUAL: A group of people dressed in red outfits with green hats are walking through a dark tunnel or corridor. There's a large painting of a man in formal attire sitting on a chair in an ornate frame. The scene has a somewhat eerie atmosphere due to the dim lighting.AUDIO: Someone is speaking, saying \"This is great only yourself yeah with the very.\" It seems like they're talking about something related to individuality or uniqueness."
+          "query": "**Visual:** The video shows a group of people in a dimly lit room. They are wearing red outfits and seem to be moving around, possibly dancing or engaging in some kind of activity. There's a large, ornate painting on the wall, which is the focal point of the scene. The room has a somewhat mysterious or dramatic atmosphere due to the lighting and the people's movements.\n\n**Audio:** The audio includes a voice speaking, but the content of the speech is not clear from the provided information. There are no distinct sound effects or music that can be identified."
         },
         {
           "segment_index": 3,
           "time_range": "430.0s - 436.0s",
-          "query": "VISUAL: There's a man in an orange jacket and blue jeans standing in a room with brick walls and a green floor. He seems to be looking at something on the wall or ceiling. The room has some kind of metal structure or paneling on one side.AUDIO: It's just a simple \"Oh\" sound. No other speech or music is heard.What do you think about that? Any thoughts or questions?"
+          "query": "Well, I can't really analyze that short clip for sure. But if it's like most videos, visually there might be some kind of scene with people doing something - maybe working or interacting? And then there could be some background noise or music playing. What do you think was happening in that clip?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 232.86214756965637
+      "processing_time": 232.72390270233154
     },
     {
-      "comment_index": 3798,
+      "comment_index": 2589,
       "video_id": "I7g08nwEmyY",
       "comment": "At 4:50 him saying “I’m brave...” made me take back everything I thought about the car and want to go help him.",
       "language": "en",
@@ -260,24 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "281.0s - 287.0s",
-          "query": "VISUAL: There's a man sitting on a chair outside near a small house-like structure with a brick facade. Another person is setting up or adjusting something next to it. The background shows an open field under a cloudy sky. The man on the chair has long hair and is wearing a brown jacket and jeans. He takes a sip from a glass bottle. The other person is bending over, working on the setup.AUDIO: You can hear some kind of mechanical noise throughout the clip, like a motor running or something being moved around. There's also a bit of a \"moo\" sound towards the end, which might be from a cow or similar animal.If you have any thoughts about this or want to discuss more, feel free to let me know!"
+          "query": "**Visual:** The video shows a man in a green jacket and brown pants standing in a grassy field. He's holding a large, rectangular object that looks like a piece of furniture or a box. There's a brick building in the background with a window that has curtains. Another person is visible in the distance, walking towards the man. The sky is overcast, giving a grayish tone to the scene.\n\n**Audio:** There's a man speaking, but the content of his speech isn't clear from the provided information. There are also some generic impact sounds, like something being tapped or hit, and a brief moment of a mooing sound, possibly from a cow."
         },
         {
           "segment_index": 2,
           "time_range": "287.0s - 293.0s",
-          "query": "VISUAL: There's a man standing outside near a small brick structure that looks like it might be a tiny house or some kind of outdoor setup. He seems to be arranging yellow flowers on a windowsill. The ground is grassy, and there's a vehicle nearby. The sky appears overcast.AUDIO: You can hear someone breathing heavily throughout the clip. It gives off an intense or exertion - filled vibe. What do you think about this scene?"
+          "query": "Visually, there's a man standing in front of a small, brick structure that looks like a tiny house or a shed. He's wearing a dark jacket and jeans. The background shows a grassy field with some trees in the distance. The sky is overcast. There's also a green vehicle partially visible behind the man. The man seems to be interacting with something inside the structure, maybe opening or closing a door or window. There's a small window on the structure with a curtain or covering that has a pattern on it. The ground is covered in grass, and there are some yellow flowers near the structure. The overall scene gives off a rural or countryside vibe."
         },
         {
           "segment_index": 3,
           "time_range": "293.0s - 299.0s",
-          "query": "VISUAL: There's a man in a gray jacket and jeans standing outside near a brick structure that looks like it might be part of a trailer or some kind of mobile home. He's holding up a large piece of glass or something similar. In the background, there's another person sitting on a chair, watching him. The ground is grassy and there's an open sky above with clouds. The brick structure has a window and some yellow flowers around it.AUDIO: Someone says \"brave\" twice, then \"nope\" once, followed by \"my job this.\" It seems to be a conversation between two people, though only one voice is heard clearly.So, what do you think about this scene? Any thoughts or questions?"
+          "query": "Visually, there's a man in a dark jacket and jeans working on a brick wall. He seems to be using some tools, maybe for construction or repair. There's also a woman sitting on a green chair in the background, and a small trailer or shed with an open door. The ground is grassy, and the sky is cloudy. The colors are mostly muted, with the green of the grass and chair standing out a bit. The movement is mainly the man working on the wall and the woman sitting still.The audio has a man speaking, but it's hard to make out what he's saying clearly. There are no other distinct sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 353.5943195819855
+      "processing_time": 313.6821081638336
     },
     {
-      "comment_index": 3799,
+      "comment_index": 2590,
       "video_id": "I7g08nwEmyY",
       "comment": "7:06 May's laugh killed me",
       "language": "en",
@@ -290,24 +289,24 @@
         {
           "segment_index": 1,
           "time_range": "417.0s - 423.0s",
-          "query": "VISUAL: There's someone wearing an orange jacket walking through a dimly lit area with a corrugated metal ceiling. The person seems to be moving towards something or somewhere. The walls look like they're made of some kind of fabric or material that's not very bright.AUDIO: I can't really make out any specific words from the audio. It just sounds like there might be some background noise or faint voices, but it's hard to tell for sure.What do you think about the scene? Do you have any other details you noticed?"
+          "query": "Visual: The video shows someone wearing an orange jacket walking through a dimly lit area with a metallic ceiling. There's also a yellow object on a surface nearby.\n\nAudio: There is some background noise, possibly from machinery or ventilation systems, but no distinct speech or music can be heard clearly."
         },
         {
           "segment_index": 2,
           "time_range": "423.0s - 429.0s",
-          "query": "VISUAL: There's a group of people walking through a dimly lit area with a blue ceiling. They're wearing red jackets and hats. One person is holding an umbrella. Then it cuts to a portrait of a man in a suit sitting on a chair, framed in an ornate gold frame.AUDIO: You can hear some kind of speech or conversation going on, but it's not clear what they're saying. There's also background noise that might be from the environment where the video was shot.If you have any other thoughts about the video or want to discuss more details, feel free to let me know!"
+          "query": "Visually, there are people in a dimly lit room. Some are wearing red jackets. There's a large framed portrait of a man in a suit sitting in a chair. The room has a dark, somewhat mysterious atmosphere. The movement seems slow and deliberate, like people are quietly moving around or observing something.Audibly, there's a man speaking. His voice is clear and seems to be in a calm, neutral tone. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "429.0s - 435.0s",
-          "query": "VISUAL: There's a man in an orange jacket with a yellow hard hat walking through a dimly lit room that looks like it might be under construction or renovation. The walls have exposed brickwork and there's some kind of metal sheeting on one wall. The floor is covered with green carpeting. There's also a door visible in the background.AUDIO: Someone is speaking about a \"very lengthy tour\" being over and then mentioning it was time to get some sleep. It seems like they're talking about the end of a long journey or event. What do you think about the scene?"
+          "query": "Visual: The video shows a person in an orange jacket and a yellow hat walking through a dimly lit room. There's a large framed portrait on the wall, and the room has a green carpet. The person seems to be moving purposefully, possibly exploring or searching for something. The lighting is low, creating a somewhat eerie atmosphere.\n\nAudio: There's a man speaking in the background, but the content of his speech isn't clear from this short segment. The overall sound is quiet, with no other distinct noises or music."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 275.790335893631
+      "processing_time": 204.08800148963928
     },
     {
-      "comment_index": 3800,
+      "comment_index": 2591,
       "video_id": "I7g08nwEmyY",
       "comment": "0:27 is one of the funniest moments in television history",
       "language": "en",
@@ -320,24 +319,24 @@
         {
           "segment_index": 1,
           "time_range": "18.0s - 24.0s",
-          "query": "VISUAL: There's a man driving a car on a highway. He's wearing an orange jacket and blue jeans. The road has multiple lanes with other cars around him. There's also a bridge overpass visible in the background.AUDIO: I can't really tell what's being said or if there's any specific sound effect or music playing. It seems like just regular traffic noise.If you have any more questions about it or want to discuss something else related, feel free to let me know!"
+          "query": "Well, in the visual part, there's a guy in an orange jacket driving a car. He's got his hands on the steering wheel, and you can see the car's interior, like the dashboard and the windshield. There are other cars around him on the road, and it looks like he's in a traffic situation. The colors are mainly the orange of his jacket, the grey of the car interior, and the various colors of the other cars.In the audio part, there's a man speaking. He seems to be talking about something, but it's not clear what exactly. There's also some background noise, like the sound of the car engine and maybe some other traffic noise. It's not very clear what the speech is about, but it's definitely a man talking."
         },
         {
           "segment_index": 2,
           "time_range": "24.0s - 30.0s",
-          "query": "VISUAL: A man in an orange jacket is driving a car on a highway. He's holding the steering wheel with one hand and talking. There are other cars around him, like a white sedan and a green truck. The road has multiple lanes and there are trees and barriers along it.AUDIO: There's a male voice speaking, saying \"you wouldn't like to go in hammond's because that's stupid.\" There's also some background noise from the moving vehicle and possibly wind."
+          "query": "Visual: The video shows a man driving a car. He's wearing an orange jacket and is focused on the road. There are other cars visible on the road, including a white one. The background seems to be a highway with some greenery on the sides. The car's interior, like the steering wheel and dashboard, is also visible. The colors are mostly muted, with the orange jacket standing out against the gray of the car and the road. The movement is mainly the car driving forward on the highway.\n\nAudio: There's a man speaking in the car. His voice is clear and he seems to be talking about something related to \"Hammond's\" and \"stupid.\" The speech is the main audio element, and there are no other distinct sound effects or music."
         },
         {
           "segment_index": 3,
           "time_range": "30.0s - 36.0s",
-          "query": "VISUAL: There's a large truck with \"PATTIE MOORES TRANSPORT\" written on it driving down a road next to a white car. The truck is green and white, and the car has a license plate that says \"F938 HMY\". Inside the car, there's a man wearing a blue striped shirt and jeans, holding his head while driving. He looks stressed or frustrated. There's also a red bag in the back seat.AUDIO: I can hear some kind of horn honking in the background, along with some indistinct shouting or yelling. It seems like there might be some sort of commotion or urgency going on.What do you think about this scene? Do you have any other thoughts or questions?"
+          "query": "Visual: The video shows a green truck with \"PATTI MORGES\" written on it driving on a road. There's also a white car next to it. Inside the truck, a person is driving, and they seem to be adjusting their hair. The background has some trees and a cloudy sky. The scene is in daylight.\n\nAudio: There's a sound effect that resembles a car horn honking, and then a man laughs."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 284.22532892227173
+      "processing_time": 355.51944756507874
     },
     {
-      "comment_index": 3801,
+      "comment_index": 2592,
       "video_id": "I7g08nwEmyY",
       "comment": "We missed out on the greatest TV moment of all time at 6:32 lmao if Clarkson would’ve went completely through that wall it would’ve been biblical",
       "language": "en",
@@ -350,24 +349,24 @@
         {
           "segment_index": 1,
           "time_range": "383.0s - 389.0s",
-          "query": "VISUAL: Two men wearing red jackets and yellow hats walk towards an open door at night. They seem to be entering or inspecting something inside. The scene is dark with some light coming from outside the building.AUDIO: There's a man speaking, saying \"is this his motor home I don't believe that that is outrageous.\" It seems like he's expressing disbelief about something related to a motor home. There's also background music playing throughout the clip.What do you think they might be talking about?"
+          "query": "Visually, there are two people walking in a dark area. One is wearing a red jacket and the other a brown one. They seem to be moving away from the camera. The background is mostly dark, but there's a bit of light that makes out a white picket fence and some greenery. The scene looks like it might be in a yard or a park at night.Audibly, there's a man speaking. He seems to be expressing disbelief or shock, saying something like \"is this his motor home? I don't believe that, that is outrageous.\" The tone of his voice suggests he's surprised or maybe even a bit angry."
         },
         {
           "segment_index": 2,
           "time_range": "389.0s - 395.0s",
-          "query": "VISUAL: The video shows two men entering a small room or space that looks like it might be underground or in some kind of shelter. One man is wearing an orange jacket and the other is in a grayish-brown jacket. They seem to be exploring or inspecting the place. There's a bed-like structure inside the room. The walls look rough and unfinished, with exposed bricks and a corrugated metal ceiling.AUDIO: A male voice can be heard speaking throughout the clip. He says \"dude come in this is the bed forms a sense yeah sorry.\" It seems like he's explaining something about the room they're in. There are no other distinct sounds besides his speech.So, what do you think about this scene? Any thoughts on why they might be there?"
+          "query": "Visually, there are two people in an enclosed space, possibly a room or a small area with brick walls. One person is wearing a red jacket and jeans, and the other is in a gray hoodie and pants. They seem to be interacting with each other, maybe moving around or gesturing. There are some objects in the background, but it's hard to make out exactly what they are. The lighting is somewhat dim, giving the scene a somewhat dark and enclosed feel.\n\nIn terms of audio, there's a man speaking. He seems to be talking to the other person, and his voice is clear. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "395.0s - 401.0s",
-          "query": "VISUAL: There's a man in a red jacket walking through a dimly lit space that looks like an old building or warehouse. He seems to be exploring it. The place has wooden beams on the ceiling and some shelves or structures around.AUDIO: A male voice is speaking. It starts with \"Sorry I'll give you a quick quiz round if you like\" and then says something about a library. The tone is casual and friendly.What do you think about this scene? Do you have any other questions related to it?"
+          "query": "Well, in the visual part, it looks like there are some people in a dimly lit room. There are some shelves and what seems to be a bookcase. The people are wearing jackets, so it might be a bit chilly in there. And there's a bit of movement, like someone walking or shifting around. Oh, and there's a light source, probably a flashlight, that's being used by one of the people.In the audio part, there's a man speaking. He says, \"Sorry, I'll give you a quick quiz round if you like.\" It's just his voice, no other sounds really stand out.So, what do you think about this? Do you have any other questions or thoughts?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 319.77543592453003
+      "processing_time": 261.2721629142761
     },
     {
-      "comment_index": 3802,
+      "comment_index": 2593,
       "video_id": "I7g08nwEmyY",
       "comment": "0:20 to 0:35 is legitimately the most perfect 15 seconds in television history. Miss these guys.",
       "language": "en",
@@ -380,24 +379,24 @@
         {
           "segment_index": 1,
           "time_range": "26.0s - 32.0s",
-          "query": "VISUAL: There's a man in an orange jacket driving a car on a road. He seems to be talking or reacting to something. Outside the car, there's a large truck with \"PATT MORES TRANSPORT\" written on it, and another smaller white car next to him. The background shows some greenery and a bridge.The scene changes from inside the car to outside, showing the vehicles on the road.AUDIO: You can hear someone saying \"stupid\" twice, once at around 1 second and again at about 5 seconds. There's also some music playing in the background throughout the whole clip.What do you think about this video? Do you have any other questions?"
+          "query": "Visual: A man in an orange jacket is driving a car on a road with trees visible through the windshield. There's also a large truck labeled \"PATT MORES TRANSPORT\" passing by on the opposite side of the road.\n\nAudio: The sound of a car engine running can be heard throughout the clip."
         },
         {
           "segment_index": 2,
           "time_range": "32.0s - 38.0s",
-          "query": "VISUAL: A man is driving a car on a road with other vehicles around him. He's wearing an orange jacket and seems to be talking or reacting to something. There's a large truck labeled \"Patterson Transport\" visible too.AUDIO: There's some kind of speech happening, possibly from the driver or someone else in the car. It could also be a radio broadcast or something similar.What do you think about it? Do you have any other thoughts or questions related to this video?"
+          "query": "Visual: The video shows a man driving a car. He's wearing a blue jacket and has his hand on his head. There are other cars and a large truck visible on the road. The scene seems to be on a highway or busy road. The colors are mostly muted, with the road and vehicles in shades of gray and black, and the man's jacket is a bright blue.\n\nAudio: There's a man speaking in the audio, but the content of what he says isn't clear from the provided information. There are also some sound effects, possibly indicating movement or actions related to the driving."
         },
         {
           "segment_index": 3,
           "time_range": "38.0s - 44.0s",
-          "query": "VISUAL: A man is driving a car on a highway. He's holding a walkie - talkie in one hand while steering with the other. There are cars passing by outside the window. The interior of the car has beige seats and dashboard. The man looks like he's having fun.AUDIO: Someone is speaking, saying \"The biggest entertainment I've had on a road journey in my whole life it's absolutely hilarious.\".If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's a person driving a car. They're wearing a blue and white striped sweater and jeans. The car's interior is beige, and you can see the steering wheel, dashboard, and side mirror. There's also a red bag in the passenger seat. The background shows a road with other vehicles passing by. The driver seems to be holding something in their left hand, possibly a phone or a small object, while driving with their right hand on the steering wheel. The scene is set during the day, and the road looks like it's in a rural or less crowded area.Audibly, there's a man speaking. His voice is clear and he seems to be talking about something related to a road journey, mentioning it's the \"biggest entertainment\" he's had in his whole life. The tone suggests he's quite enthusiastic or amused. There are no other distinct sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 273.00913858413696
+      "processing_time": 221.58279752731323
     },
     {
-      "comment_index": 3803,
+      "comment_index": 2594,
       "video_id": "I7g08nwEmyY",
       "comment": "4:27 it's actually had diarrhea is what it is! I laughed so much at this.",
       "language": "en",
@@ -410,24 +409,24 @@
         {
           "segment_index": 1,
           "time_range": "258.0s - 264.0s",
-          "query": "VISUAL: A man in an orange jacket is standing next to a white car with its hood open on a road. The engine compartment is visible, showing various components like hoses and a large tire-like object inside. The background has some greenery and a building.AUDIO: There's a male voice saying \"holy moly\" twice, followed by \"what manner of terrible.\" It seems like he's reacting to something unexpected or shocking related to the car's engine.What do you think about that? Any thoughts or questions?"
+          "query": "Visually, there's a man in an orange jacket standing next to a white car with its hood open. The car seems to be parked on a road with some greenery in the background. The man appears to be looking at or working on the engine. The colors are mostly muted, with the orange jacket standing out against the white car and the green background. There's some movement as the man seems to be adjusting or inspecting something in the engine area.\n\nIn terms of audio, there's a man speaking, and he says \"Oh, holy moly.\" It sounds like he's reacting to something surprising or shocking. There's no music or other sound effects, just the man's voice and a bit of ambient noise from the surroundings."
         },
         {
           "segment_index": 2,
           "time_range": "264.0s - 270.0s",
-          "query": "VISUAL: The video shows a close - up of an engine with various pipes and components visible. Then it cuts to a man in an orange jacket looking under the hood of a white car. He seems to be inspecting or working on something inside the engine compartment.AUDIO: There's a male voice speaking in English about something happening \"under my bonnet\" and mentioning diarrhea in a somewhat humorous way.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "Oh, it seems like there's been some confusion here. The image shows a man in an orange jacket looking under the hood of a white car with its engine exposed. There aren't any visible signs of diarrhea or anything related to that in the video. It looks more like a typical scene of someone checking their car's engine. If you have any other questions about the video, feel free to ask!"
         },
         {
           "segment_index": 3,
           "time_range": "270.0s - 276.0s",
-          "query": "VISUAL: A man is sitting on a chair outdoors with his legs crossed. He's holding something in his hands. There's a sign that says \"South Winds\" in red letters against a dark background. The sky looks cloudy. In another scene, someone is getting into a vehicle, possibly a truck or van, from inside. The interior of the vehicle has some visible details like the steering wheel and dashboard.AUDIO: There's a male voice speaking over music playing in the background. It seems to be a narration or commentary related to the video content.If you have any other thoughts about this video or want to discuss it further, feel free to let me know!"
+          "query": "Visual: The video shows a person sitting inside a vehicle, possibly a golf cart or similar small vehicle. There's some greenery visible outside through the windows. The person seems to be wearing casual clothing.\n\nAudio: There is background music playing throughout the clip. No distinct speech or other specific sounds can be identified from this short segment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 293.65390491485596
+      "processing_time": 190.6911792755127
     },
     {
-      "comment_index": 3804,
+      "comment_index": 2595,
       "video_id": "I7g08nwEmyY",
       "comment": "0:28 Me when my mum's driving next to a lorry on the motorway and it starts indicating to come into our lane",
       "language": "en",
@@ -440,24 +439,24 @@
         {
           "segment_index": 1,
           "time_range": "19.0s - 25.0s",
-          "query": "VISUAL: A man in an orange jacket is driving a car on a road with other vehicles around him. He's holding the steering wheel with one hand and gesturing with the other. The interior of the car is visible, including the dashboard and side mirror. There's some greenery outside the window.AUDIO: Someone is speaking, saying \"she's very pretty she just liked it she wouldn't like to go.\" It seems like a casual conversation or commentary. What do you think about the scene?"
+          "query": "Visual: A man in an orange jacket is driving a car. He's holding the steering wheel with one hand and gesturing with the other. There are other cars visible on the road behind him. The interior of the car, like the dashboard and seats, is also visible. The scene seems to be on a highway or busy road.\n\nAudio: There's a man speaking in the background, but the content of what he's saying isn't clear from the provided information."
         },
         {
           "segment_index": 2,
           "time_range": "25.0s - 31.0s",
-          "query": "VISUAL: A man in an orange jacket is driving a car on a road with trees visible through the windows. There's also a large green truck labeled \"PATTIMORES TRANSPORT\" passing by on the opposite lane.AUDIO: Someone says \"and hammond's because that's stupid.\" Then there's some shouting and whooping. What do you think about it?"
+          "query": "**Visual:** A man in an orange jacket is driving a car on a road with other vehicles passing by. The background shows trees and some buildings.\n\n**Audio:** There's no distinct speech or music heard. However, there seems to be some kind of impact sound effect towards the end."
         },
         {
           "segment_index": 3,
           "time_range": "31.0s - 37.0s",
-          "query": "VISUAL: A large truck with \"PATT MORES TRANSPORT\" written on it is driving down a road next to a white car. The scene then cuts to inside the white car where an older man wearing a blue striped sweater is driving. He has his hand on his forehead and looks distressed. There's a red bag in the passenger seat.AUDIO: There's some kind of engine noise throughout the video, like from the vehicles. Then there's a short burst of laughter at around 3 seconds into the clip. It seems like someone is laughing at something funny or embarrassing that just happened.What do you think about the video? Do you have any other questions?"
+          "query": "Visual: The video shows a truck and a car driving on a road. The truck is large, with a green and white color scheme, and has \"Fyra\" written on it. The car is smaller, and there's a person inside it, wearing a blue and white striped shirt. The background includes trees and a road sign. The scene seems to be during the day, with natural light.\n\nAudio: There's a sound effect that resembles a car horn honking, and then a male voice says \"Oh.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 267.84690713882446
+      "processing_time": 202.5572328567505
     },
     {
-      "comment_index": 3805,
+      "comment_index": 2596,
       "video_id": "I7g08nwEmyY",
       "comment": "5:07 10 points to anyone who can spot the production team running away",
       "language": "en",
@@ -470,54 +469,24 @@
         {
           "segment_index": 1,
           "time_range": "298.0s - 304.0s",
-          "query": "VISUAL: There's a man in jeans and a dark jacket moving around a small wooden structure on grass. He's carrying a large piece of wood or board. A woman with long hair is sitting on a chair nearby. The background shows an open field under a cloudy sky. There's also a small building or shed next to where he's working.AUDIO: You can hear some kind of impact sounds, like banging or thumping, throughout the clip. It seems like there might be some sort of work being done that involves hitting things. There's no clear speech or music in the audio.If you have any other thoughts about the video or want to discuss it further, feel free to let me know!"
+          "query": "**Visual:** The video shows a person in a grassy outdoor area. They are carrying a large, rectangular object, possibly a piece of furniture or a large board, with both hands. The object has a patterned surface. In the background, there's a structure that looks like a small shed or a trailer with a glass front. The sky is overcast, suggesting cloudy weather. The person is wearing casual clothing, including jeans and a jacket.\n\n**Audio:** There is no distinct speech or music in the audio. The only sound is a generic impact sound, which could be related to the person moving the object."
         },
         {
           "segment_index": 2,
           "time_range": "304.0s - 310.0s",
-          "query": "VISUAL: There's a man with gray hair wearing a red jacket standing outside on grassy land. In front of him is a white car with some kind of object inside it. Another person is sitting in a chair nearby, looking towards the car. There's also a brick structure next to them.AUDIO: Someone says \"going again jeremy eventually joined us\" and then \"this is gripping.\" It seems like there might be some sort of event or situation unfolding that's getting attention. What do you think about it?"
+          "query": "Well, in the video, there's a man with curly hair, wearing a black jacket with a red hood. He seems to be looking at something in the distance. There are also some other people around, like a woman sitting on the ground and a man standing nearby. The background looks like an open field with some buildings and a cloudy sky. As for the audio, there's a man speaking, but it's not clear what he's saying exactly. There's also some kind of sound effect that might be related to the man's actions or the environment. What do you think about this video?"
         },
         {
           "segment_index": 3,
           "time_range": "310.0s - 316.0s",
-          "query": "VISUAL: There's a man standing outside near a small brick structure with a door. He seems to be talking or shouting while gesturing. Another person is sitting on the ground nearby. The background shows an open field with some vehicles and cloudy sky.AUDIO: Someone is speaking, saying \"what all you doing in Hammond's head\". It's just one line of dialogue without any other sounds like music or sound effects. So, that's it for the analysis. What do you think about this scene?"
+          "query": "Visual: A man is standing outside near a brick structure with a door that has a gold finish. He's wearing jeans and a jacket. There s another person partially visible behind him, also dressed casually. The background shows an open field with some vehicles parked at a distance.\n\nAudio: Someone is speaking, but it's not clear who or what they're saying due to the short duration."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 273.2163996696472
+      "processing_time": 222.60421991348267
     },
     {
-      "comment_index": 3806,
-      "video_id": "I7g08nwEmyY",
-      "comment": "0:19 - 0:35 is possibly the greatest ever top gear moment",
-      "language": "en",
-      "channel_name": "TopGear",
-      "category": "entertainment",
-      "likes": 254.0,
-      "comment_timestamp": 19.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "10.0s - 16.0s",
-          "query": "VISUAL: A man is driving a vehicle on a road. He's wearing a black jacket and blue jeans. There are other cars around him, like a white car directly in front. The scene seems to be during daytime with some greenery visible outside the window.AUDIO: There's a male voice speaking over background music. The speech includes phrases like \"that's on full I can't feel it at all\" and \"in the leaning tower.\" It gives an impression of someone talking about something related to feeling or perception, possibly in relation to the leaning tower mentioned. So, what do you think about this video? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "16.0s - 22.0s",
-          "query": "VISUAL: There's a white car driving under an overpass on a road with other vehicles around it. The driver is wearing an orange jacket and blue jeans. He seems to be looking at something outside the car window.AUDIO: Someone is speaking about a Citroen, mentioning that they were starting to relax a bit and commenting on how pretty it is. It sounds like there might be some background noise too.If you have any thoughts or questions about this analysis, feel free to share!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "22.0s - 28.0s",
-          "query": "VISUAL: A man is driving a car on a road with other vehicles around him. He's wearing an orange jacket and blue jeans. The interior of the car has a steering wheel, dashboard, and some papers or items on the passenger seat. There are trees and a guardrail visible outside the window.AUDIO: Someone is speaking, saying \"see just like it you wouldn't like to go in hammond's because that's stupid.\" It seems like they're talking about something related to going into a place called Hammond's, which they think is not good. So, what do you think about this? Do you have any similar experiences?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 280.5529956817627
-    },
-    {
-      "comment_index": 3807,
+      "comment_index": 2597,
       "video_id": "I7g08nwEmyY",
       "comment": "3:04 it‘s very secure 😅😅👌",
       "language": "en",
@@ -530,54 +499,24 @@
         {
           "segment_index": 1,
           "time_range": "175.0s - 181.0s",
-          "query": "VISUAL: A person is working on a boat, using some tools like a hammer or similar object to fix something on it. The scene seems to be outdoors near a road with vehicles passing by.AUDIO: There's laughter and music playing in the background. It gives off a light-hearted vibe. What do you think about the combination of these elements?"
+          "query": "**Visual:** The scene shows someone with curly hair wearing a dark jacket. They seem to be interacting with something on a surface that looks like it could be inside a vehicle or some kind of enclosed space. There's also an orange van visible outside through a window.\n\n**Audio:** The audio includes laughter and some indistinct background noise. It seems like there might be a conversation happening just out of frame."
         },
         {
           "segment_index": 2,
           "time_range": "181.0s - 187.0s",
-          "query": "VISUAL: There's a man in an orange jacket standing near a white vehicle. He seems to be interacting with someone whose back is facing the camera. In the background, there are some trucks parked on a road with trees around. The scene looks like it might be at a parking area or a roadside stop.AUDIO: A male voice is speaking, saying \"that's an all new I've never seen a lockable fuel filler cap where you need to sort.\" It sounds like he's talking about something related to vehicles, probably commenting on a feature of the car or truck. So, what do you think about that? Any thoughts on the video?"
+          "query": "Visual: The video shows a man in an orange jacket standing on a road. There are other vehicles like a white truck and a red car in the background. Trees are visible further back. The man seems to be interacting with something or someone, but it's not clear exactly what. The scene looks like it's in a parking lot or a roadside area. The colors are mostly muted, with the orange jacket standing out against the more subdued background colors. The movement is mainly from the man and the vehicles in the background, suggesting some kind of activity or interaction is taking place.Audio: There's a man speaking in the audio. He says, \"that's an all new I've never seen a lockable fuel filler cap where you need to sort.\" The speech is clear and seems to be the main focus of the audio. There are no other distinct sounds or music in the background."
         },
         {
           "segment_index": 3,
           "time_range": "187.0s - 193.0s",
-          "query": "VISUAL: There's a man in an orange jacket standing near a car on a road. Then it shows a sign for \"Newcott Chef\" with \"Simply Better\" written below it. After that, there's a highway scene with cars driving under signs pointing to places like Dawlish, Exeter, Sidmouth, Exmouth, Plymouth, Okehampton, and Torquay. The sky looks cloudy.AUDIO: Someone is speaking about refueling being secure and then mentions heading on their way. There's also some background music playing.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "Visual: The video shows a highway scene. There are road signs indicating directions to places like Dawlish, Exeter, Plymouth, and Torquay. A red car is driving on the highway. The sky appears cloudy. There are also some trees and a white fence visible in the background. The overall color scheme is dominated by the gray of the road and sky, with pops of color from the road signs and the red car. The movement is mainly from the car on the highway and the camera panning across the scene.\n\nAudio: The audio includes a male voice speaking, saying \"it's very secure.\" There's also background music playing throughout the video."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 232.44873642921448
+      "processing_time": 209.24152207374573
     },
     {
-      "comment_index": 3808,
-      "video_id": "I7g08nwEmyY",
-      "comment": "0:17- Jeremy was immediately punished by god for his lustful behaviour...",
-      "language": "en",
-      "channel_name": "TopGear",
-      "category": "entertainment",
-      "likes": 215.0,
-      "comment_timestamp": 17.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "8.0s - 14.0s",
-          "query": "VISUAL: A man is driving a vehicle on a road. He's wearing a black jacket and blue jeans. The interior of the car has a simple design with a steering wheel, dashboard, and side mirror visible. There's another person sitting behind him, partially visible. The background shows a road with some greenery and other cars passing by.AUDIO: There's a male voice speaking over the sound of a running engine. The speech seems to be about something being \"on full\" and not feeling it at all. It also includes some music playing in the background."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "14.0s - 20.0s",
-          "query": "VISUAL: There's a white truck with a large advertisement on its side driving on a highway under an overpass. Several cars are also visible on the road. The scene is outdoors, likely during daytime. The truck has some greenery on it. There's a man in an orange jacket inside one of the cars, holding the steering wheel and looking ahead.AUDIO: There's background music playing throughout the clip. No specific speech or sound effects can be heard clearly from this short segment.If you have any other questions about the video or need more details, feel free to ask!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "20.0s - 26.0s",
-          "query": "VISUAL: A man in an orange jacket is driving a car on a road with other cars around him. He's holding the steering wheel with one hand and gesturing with the other while talking. The interior of the car is visible, including the dashboard and side mirror. There's some greenery outside the window.AUDIO: Someone is speaking about someone being \"very pretty\" and mentioning \"Hammond's.\" It seems like they're having a conversation or making a comment. There are no distinct music or sound effects, just the voice and background noise from inside the car.If you have any more questions about the video or want to discuss it further, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 312.3887240886688
-    },
-    {
-      "comment_index": 3809,
+      "comment_index": 2598,
       "video_id": "I7g08nwEmyY",
       "comment": "Me at 3am trying to sleep the mosquito in my ear: 3:17",
       "language": "en",
@@ -590,21 +529,81 @@
         {
           "segment_index": 1,
           "time_range": "188.0s - 194.0s",
-          "query": "VISUAL: There's a sign for \"Newcott Chef\" with \"Simply Better\" written on it. It also says \"Open 7 Till Late\" and mentions teas and grills. Then there's a highway scene with cars driving under signs pointing to places like Dawlish, Exeter, Sidmouth, Exmouth, Plymouth, Okehampton, and Torquay. A red car is seen driving along the road.AUDIO: The audio has some music playing throughout. There's also a voice saying \"Kill refueling over we headed on our way.\" What do you think about that? Any thoughts or questions?"
+          "query": "Sure! So, here's a quick breakdown:.Visually, there s a highway scene with cars driving on it. You can see road signs pointing to places like Dawlish, Exeter A379, Sidmouth, Exmouth A376, Plymouth M5, and Teignmouth. There s also a red car in view, and some greenery around. The sky looks cloudy.Audibly, there s background music playing throughout, along with some spoken words that seem to be about refueling and heading somewhere.Anything else you want to know?"
         },
         {
           "segment_index": 2,
           "time_range": "194.0s - 200.0s",
-          "query": "VISUAL: A man in an orange jacket is driving a car on a road with trees and grass visible through the windows. The camera then shows a white van driving down a road lined with greenery and some cars behind it.AUDIO: There's a male voice speaking over background music. It seems like he might be narrating or commenting on something related to the driving scene. What do you think about this video? Any thoughts or questions?"
+          "query": "Visual: A man in an orange jacket is driving a car. The car is on a road with trees and a cloudy sky in the background. There's a white van driving ahead of the car. The road has a curve and there are some signs and a building visible in the distance. The man is holding the steering wheel with both hands and looking straight ahead. The colors are mostly muted, with the orange jacket standing out against the gray sky and green trees. The movement is the car and the van moving forward on the road.\n\nAudio: There's a man speaking in the background, but the words are not clear. There's also some background music playing, which is soft and instrumental."
         },
         {
           "segment_index": 3,
           "time_range": "200.0s - 206.0s",
-          "query": "VISUAL: There's a white car driving on a road with a large rectangular object attached to its back. The road has some other cars around it too. Trees line both sides of the road. The sky looks overcast.AUDIO: There's a man speaking, saying \"we finally reach Cornwall.\" And there's also background music playing throughout the clip.If you have any thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows cars driving on a road with trees and some buildings visible in the background. There's also a person sitting inside one of the vehicles.\n\n**Audio:** Music is playing throughout the video."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 228.0849289894104
+      "processing_time": 157.13142251968384
+    },
+    {
+      "comment_index": 2599,
+      "video_id": "I7g08nwEmyY",
+      "comment": "0:17- Jeremy was immediately punished by god for his lustful behaviour...",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 215.0,
+      "comment_timestamp": 17.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "8.0s - 14.0s",
+          "query": "Well, in the visual part, there's a man driving a vehicle. He's wearing a black jacket and blue jeans. The vehicle seems to be moving on a road, and you can see the road and some greenery outside the windows. There's also a white bucket in the back seat. In the audio part, there's a man speaking, but it's not clear what he's saying. There's also some background noise, like the sound of the vehicle's engine and maybe some wind. So, what do you think about this video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "14.0s - 20.0s",
+          "query": "Visual: The video shows a highway scene with multiple cars driving. There are trees and a bridge in the background. The cars are moving forward, and the overall scene looks like a typical busy road. The colors are mostly muted, with the cars being different shades of gray and blue, and the trees being green. The movement is smooth, indicating normal traffic flow.\n\nAudio: There is a male voice speaking in the background, but the content of the speech is not clear from the provided information. The audio also includes some background music, which seems to be instrumental."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "20.0s - 26.0s",
+          "query": "Visually, there's a person in an orange jacket driving a car. You can see the steering wheel, dashboard, and part of the windshield. There are other cars on the road, and some greenery outside. The driver seems to be focused on the road. The car's interior is mostly dark-colored.Audibly, there's a man speaking, but the content of what he says isn't clear from this short segment. There are no distinct sound effects or music."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 258.6619312763214
+    },
+    {
+      "comment_index": 2600,
+      "video_id": "I7g08nwEmyY",
+      "comment": "0:18   She really is cute though!!!  I'm feeling lonely,  so i'm gonna put a tower on my car as well!!!",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 209.0,
+      "comment_timestamp": 18.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "9.0s - 15.0s",
+          "query": "Well, in the visual part, there's a man driving a car. He's wearing a black jacket and blue jeans. The car seems to be moving on a road, and there are other cars visible in the background. The colors are mostly muted, like the gray of the road and the blue of the sky. The movement is mainly the car's motion and the passing of other vehicles.In the audio part, there's a man speaking. He's saying something like \"that's on full I can't feel it at all.\" There's also some music playing in the background. It's a bit hard to make out the exact details of the music though.So, what do you think about this video? Do you have any other questions?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "15.0s - 21.0s",
+          "query": "Well, in the visual part, there are cars driving on a road. You can see the road, some trees on the sides, and a bridge overhead. The cars are moving forward, and there's a bit of a blur because of their speed. The colors are mostly the usual road gray, the green of the trees, and the colors of the cars.In the audio part, there's a man speaking. He seems to be talking about something related to the \"leaning tower of Citroen\", but it's not clear what exactly. There's also some background music playing, which gives a bit of a relaxed or casual feel to the scene."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "21.0s - 27.0s",
+          "query": "Visually, there's a person in an orange jacket driving a car. You can see the car's interior, like the steering wheel and dashboard. There are other cars on the road outside. The driver seems to be talking or reacting to something. The colors are mostly the orange of the jacket, the gray of the car interior, and the various colors of the other cars outside. The movement is mainly the car driving forward and the driver's head turning a bit.Now, for the audio. There's a man speaking, and he seems to be talking about something related to \"Hammond's\" in a somewhat dismissive way. The speech is clear and the man's tone suggests he's not too fond of the place or whatever it's associated with."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 273.3188714981079
     }
   ]
 }

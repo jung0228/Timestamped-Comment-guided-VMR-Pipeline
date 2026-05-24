@@ -1,0 +1,609 @@
+{
+  "video_id": "IiJAq53knwc",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 18589,
+      "video_id": "IiJAq53knwc",
+      "comment": "14:09 Lol, I've seen that look many times before. But this is an awesome video, Marie Curie would be proud",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 1500.0,
+      "comment_timestamp": 849.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "840.0s - 846.0s",
+          "query": "**Visual:** The video shows two people in a cluttered room filled with various items like bicycles, boxes, and equipment. One person is wearing a purple hoodie and seems to be talking or reacting while gesturing towards another hand that's reaching out from outside the frame.\n\n**Audio:** There s some background noise, possibly from the room itself. Then there s a voice saying \"I don t know if it do you want to X-ray my hand.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "846.0s - 852.0s",
+          "query": "Visually, there's someone wearing a purple hoodie with some designs on it. They're standing in a room that looks like a workshop or garage, with various items around - like bicycles hanging up, boxes, and other tools. The person is gesturing with their hands while talking. There's also another person partially visible in front of them, reaching out towards them.\n\nIn terms of audio, I can hear a woman speaking, saying \"yeah\" at one point. Then there's background music playing throughout most of the clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "852.0s - 858.0s",
+          "query": "Visually, there's someone wearing gloves interacting with some kind of machine or device on a table. There are also bottles and other items around. The person seems to be pressing buttons or adjusting something on the machine. The scene is dimly lit, mostly dark except for where the light hits the objects and hands.\n\nIn terms of audio, it's just the sound of the person speaking, saying \"you're gonna flick that switch up.\" No other distinct sounds like music or background noise are present."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 223.62603187561035
+    },
+    {
+      "comment_index": 18590,
+      "video_id": "IiJAq53knwc",
+      "comment": "His wife's look of \"why did I marry this dipshit\" is pure gold. So funny 07:33",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 353.0,
+      "comment_timestamp": 453.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "444.0s - 450.0s",
+          "query": "Visual: There's an electronic device on a wooden table with wires connected to it. A person is interacting with some equipment nearby. The background shows shelves filled with various items like tools and containers.\n\nAudio: Music is playing throughout the clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "450.0s - 456.0s",
+          "query": "Visually, there's a man sitting at a table with various objects around him, including tools and equipment. He appears to be working on something electronic or mechanical.\n\nAudio-wise, I can't really tell what specific sounds are being made since it's only six seconds long and doesn't specify any particular noises. It could just be background noise from his work environment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "456.0s - 462.0s",
+          "query": "**Visual:** The video shows a person standing in what looks like a garage or workshop. There's a bicycle hanging on the wall behind them. The person is wearing a striped shirt and seems to be talking while gesturing with their hands. The background has some tools and equipment scattered around.\n\n**Audio:** Someone is speaking, likely explaining something related to x-rays since that's mentioned in the caption. The tone suggests they might be instructing or describing how to make x-rays."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 181.24377036094666
+    },
+    {
+      "comment_index": 18591,
+      "video_id": "IiJAq53knwc",
+      "comment": "7:10 I love how he says he's using the lead shielding to protect his most valuable assets and then proceeds to completely expose his head",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 318.0,
+      "comment_timestamp": 430.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "421.0s - 427.0s",
+          "query": "**Visual:** The video shows someone working in a workshop or garage setting. There's a table with various tools and equipment on it, like a power supply unit, cables, and some small devices. The person is wearing shorts and appears to be handling wires and connecting them to something. The background has shelves filled with more tools and supplies.\n\n**Audio:** Someone is speaking, saying \"directly counter is going in my belt we're gonna turn the small power.\" It seems like they might be explaining or narrating their actions while working."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "427.0s - 433.0s",
+          "query": "**Visual:** The video shows someone working on an electrical setup in a workshop or garage-like environment. There's a wooden table with various tools and equipment around. On the table is a device connected to wires, possibly for testing or experimenting with electricity. The person is adjusting something on the device while looking at it closely.\n\n**Audio:** A man speaks throughout the clip, saying things like \"current all the way down\" and \"turning the high voltage on.\" He also mentions increasing the current slowly. There are no other distinct sounds besides his voice."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "433.0s - 439.0s",
+          "query": "Visually, there's an electronic device with wires connected to it on a table. A person is interacting with the device using their hands. The background shows some shelves or cabinets.\n\nIn terms of audio, I don't detect any distinct speech, music, or sound effects. It seems relatively quiet apart from the possible mechanical noises associated with the device itself."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 347.4337887763977
+    },
+    {
+      "comment_index": 18592,
+      "video_id": "IiJAq53knwc",
+      "comment": "13:10 by the way, this isn't static. It's actual x rays hitting the sensor in the camera. It's visualized radiation. pretty cool :)",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 258.0,
+      "comment_timestamp": 790.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "781.0s - 787.0s",
+          "query": "Visually, there's someone with short hair and facial hair standing in front of some charts or diagrams on a wall. The camera then focuses on a Sony camera screen showing an image of a room with warm lighting. There aren't any other objects clearly visible in the scene. There doesn't seem to be much movement from the person either. In terms of audio, it appears to be completely silent throughout those six seconds. What do you think about that? Do you have any other observations?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "787.0s - 793.0s",
+          "query": "Visual: The video shows a close-up view of a Sony camera's LCD screen. On the screen, there seems to be an image with some sort of static or interference, possibly resembling x-rays. The camera itself has various buttons and controls visible around the screen.\n\nAudio: There is no distinct speech or dialogue heard during these six seconds. Instead, there is background music playing throughout the clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "793.0s - 799.0s",
+          "query": "Visual: A man with short hair and a beard is smiling at the camera. He's wearing a white shirt. The background looks like an indoor space, possibly a garage or workshop, with some equipment visible.\n\nAudio: There's a cheerful piece of music playing throughout the video."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 201.74510431289673
+    },
+    {
+      "comment_index": 18593,
+      "video_id": "IiJAq53knwc",
+      "comment": "5:35 it's shocking you after you walk away and touch ground because you'd charged yourself up to 60 kV after dangling your microphone into the EHT field !",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 93.0,
+      "comment_timestamp": 335.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "326.0s - 332.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short clip. There seems to be no clear visual or audio details provided for me to describe. Maybe you could give me more information about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "332.0s - 338.0s",
+          "query": "**Visual:** The video shows someone working on an electronic setup with various wires and components. There's a power supply unit visible, along with some other equipment like a small motor or similar device. The person seems to be adjusting or testing something related to electronics.\n\n**Audio:** A man is speaking, explaining that they need two power supplies because up until now, they haven't actually been making any x-rays. His tone suggests he might be instructing or narrating the process."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "338.0s - 344.0s",
+          "query": "**Visual:** A person is working with an electronic setup on a wooden table. There's a power supply unit connected to some wires and components. The background shows shelves with various items.\n\n**Audio:** Someone is speaking about needing a regular power supply without high voltage for their task."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 117.91169214248657
+    },
+    {
+      "comment_index": 18594,
+      "video_id": "IiJAq53knwc",
+      "comment": "15:49 I’ve never seen Caretaker this awake and happy lol",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 78.0,
+      "comment_timestamp": 949.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "940.0s - 946.0s",
+          "query": "**Visual:** The video shows a man standing in a kitchen. He's wearing a black T-shirt with a graphic design on it. There are white cabinets and a microwave visible behind him. The man is talking and gesturing with his hands.\n\n**Audio:** Someone is speaking, likely the same person in the video. The speech seems to be casual conversation or explanation about cooking, mentioning \"Chelsea\" who apparently doesn't know how to cook."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "946.0s - 952.0s",
+          "query": "Visual: The video shows two people standing close together indoors. One person is wearing a black shirt with colorful graphics on it, while the other has long blonde hair and is wearing a dark floral top. They both appear to be smiling and looking at something or someone off-camera.\n\nAudio: There's no distinct speech or music audible in the audio portion of the video. It seems like there might have been some background noise initially, but then it fades out."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "952.0s - 958.0s",
+          "query": "Visually, there's a man with short brown hair and a beard standing in a kitchen. He's wearing a black t-shirt with some colorful design on it. There's also a woman next to him who has blonde hair and is smiling. The kitchen has white cabinets, a microwave, and other typical kitchen items like a toaster and a plant. The man seems to be talking or reacting to something, making gestures with his hands.\n\nIn terms of audio, I can hear someone speaking, probably the same man from the visuals. It sounds like he might be explaining or commenting on something related to the video content."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 265.4706726074219
+    },
+    {
+      "comment_index": 18595,
+      "video_id": "IiJAq53knwc",
+      "comment": "7:40 that transition made me think that you were going to say “we made x-rays in the garage so my wife doesn’t want to me live in the house anymore” 😂",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 60.0,
+      "comment_timestamp": 460.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "451.0s - 457.0s",
+          "query": "Visual: There's a man holding up an electronic device with a screen displaying some readings. The background looks like a workshop or garage filled with various tools and equipment. You can also spot a cat sitting on something in the back.\n\nAudio: A man is speaking, saying \"The Geiger counter is very angry with us. This is a good thing.\" There's no other significant sound effect or music in the audio."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "457.0s - 463.0s",
+          "query": "**Visual:** The video shows two different scenes. In one scene, there's a woman standing indoors with bicycles hanging on the wall behind her. She has blonde hair tied back and is wearing a striped shirt. There are some objects around like a lamp and possibly tools or equipment. In another scene, it looks like someone is sitting inside a car at night, smiling.\n\n**Audio:** Someone says \"x-rays we made x-rays let's celebrate with an ice cream.\" It seems to be a casual conversation about having fun after getting x-rays done."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "463.0s - 469.0s",
+          "query": "Visual: A man with dark hair and facial hair is sitting inside a car at night. The interior of the car is visible, including the seats and windows. There's some light coming from outside, possibly streetlights or other vehicles.\n\nAudio: Someone is speaking, saying \"back up in about 10 minutes.\" It seems to be a calm tone."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 200.81225872039795
+    },
+    {
+      "comment_index": 18596,
+      "video_id": "IiJAq53knwc",
+      "comment": "14:26 mic and cam just \"randomly\" died Hmmm...",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 11.0,
+      "comment_timestamp": 866.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "857.0s - 863.0s",
+          "query": "Visually, there's someone in a dimly lit room interacting with some kind of machinery or device labeled \"SPELLMAN\". The person seems to be pressing buttons on it. There's also a bottle visible in the background. The overall color scheme is dark.\n\nIn terms of audio, I can hear a voice saying something like \"you're gonna flick that switch on\" followed by \"got it\", then \"like a pro\". There's also some music playing softly in the background."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "863.0s - 869.0s",
+          "query": "Well, I'm not sure if there's anything specific to describe visually or audibly from just these six seconds. But generally speaking, for visuals, it could be things like different objects in a room, maybe some movement of people or animals, and colors that stand out. For audio, it might be someone talking, background noise, or even music playing. Since you mentioned an X - ray, it seems like there was probably something medical going on in those few seconds. What do you think? Did you notice anything interesting in those six seconds?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "869.0s - 875.0s",
+          "query": "Well, I'm not sure if there's actually anything to analyze here. The image is really blurry and unclear. So, it's hard to describe what's going on visually or audibly.Anyway, if you have any other questions or need help with something else, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 203.20536637306213
+    },
+    {
+      "comment_index": 18597,
+      "video_id": "IiJAq53knwc",
+      "comment": "1:35 I dunno why him tossing the dirt and then deflecting it before it hits the ground is so impressive.",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 8.0,
+      "comment_timestamp": 95.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "86.0s - 92.0s",
+          "query": "**Visual:** A man is sitting at a table or desk in a workshop-like setting. He has short brown hair and a beard, wearing a black t-shirt with a white design on it. Behind him, there's a wooden shelf filled with various items like tools, containers, and electronic equipment labeled \"SPELLMAN.\" The background also includes some red objects.\n\n**Audio:** The man speaks directly to the camera, saying something about paying for debt and not being able to build his own medical equipment right now due to unspecified reasons. There are no other audible sounds besides his speech."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "92.0s - 98.0s",
+          "query": "**Visual:** The video shows someone digging with a shovel in an outdoor setting. There's greenery like bushes and trees around, along with patio furniture such as chairs and a grill. The person is wearing shorts and a dark shirt.\n\n**Audio:** The audio includes some background noise that seems to be related to the digging activity, possibly the sound of dirt being moved or tools clanking together. There might also be faint music playing in the distance."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "98.0s - 104.0s",
+          "query": "Visually, there's someone digging with a shovel in a garden area. There are plants, chairs, and some outdoor furniture around. The person is wearing shorts and a t-shirt. In the background, there seems to be a fire pit or grill. The scene looks like it's set in a backyard.\n\nAudibly, there's music playing throughout most of the clip. At one point, someone says \"huh?\" which might indicate surprise or confusion."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 205.9989743232727
+    },
+    {
+      "comment_index": 18598,
+      "video_id": "IiJAq53knwc",
+      "comment": "3:48",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 7.0,
+      "comment_timestamp": 228.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "219.0s - 225.0s",
+          "query": "Visually, there's someone wearing gloves working on some kind of equipment or machinery on a wooden table. There are various tools and objects around like a yellow hose, a canister, and some papers. The person seems to be manipulating something with their hands, possibly assembling or repairing it. The background looks like a workshop or garage filled with more tools and items.\n\nAudio - There s no distinct speech or music. Instead, I hear some generic mechanical noises that might come from the equipment being worked on. It could also be the sound of tools being used. Overall, it gives off an industrial vibe."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "225.0s - 231.0s",
+          "query": "Visual: A man is sitting at a table with various objects around him like a fire extinguisher, a skeleton model, and some electronic equipment labeled \"SPELLMAN\". He's wearing a black shirt and has facial hair. There seems to be movement from his hands interacting with something on the table.\n\nAudio: The main thing heard is someone speaking, saying \"Now I know you're thinking William you're not nearly responsible or smart enough to be playing with high-volt\". It's just one person talking without any other background noises or music."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "231.0s - 237.0s",
+          "query": "Visually, there's a man with facial hair standing near some equipment labeled \"SPELLMAN.\" There s also a skeleton model on display behind him. The background includes various items like a fire extinguisher, a yellow sign, and other objects that seem to be in a workshop or lab setting.\n\nIn terms of audio, someone is speaking about having health insurance and expressing a strong will to do science."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 274.22286653518677
+    },
+    {
+      "comment_index": 18599,
+      "video_id": "IiJAq53knwc",
+      "comment": "13:12 I let the camera travel into the xray at Atlanta Airport once and the TSA joked around “Does the camera like our xray?” And got an even much more intense static noise.",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 5.0,
+      "comment_timestamp": 792.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "783.0s - 789.0s",
+          "query": "Well, I'm not sure if there's actually any video on the screen or just static. But visually, it seems like there might be some kind of circuitry wrapped around something that looks like a battery. It could be a close-up shot of an electronic device or something similar. There doesn't seem to be much movement or action going on. As for the audio, hmm, I can't really tell anything from this short clip. Maybe there was some background noise or a faint whisper? What do you think about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "789.0s - 795.0s",
+          "query": "Visual: The video shows a close-up view of a camera's LCD screen displaying static noise. There is also some text on the screen that says \"x-rays cause the static.\" In another scene, there's a man with facial hair smiling.\n\nAudio: Music plays throughout most of the clip, starting from around 1 second into the video until about 5 seconds. There is no clear dialogue or spoken words during these segments."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "795.0s - 801.0s",
+          "query": "I'm sorry, I can't analyze that video since it's not provided here. But if you describe it to me or share more details about it, I'd be happy to help!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 164.15321564674377
+    },
+    {
+      "comment_index": 18600,
+      "video_id": "IiJAq53knwc",
+      "comment": "14:03 didn’t know you had hitchhiker’s thumb",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 3.0,
+      "comment_timestamp": 843.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "834.0s - 840.0s",
+          "query": "Visually, there's someone wearing a tie-dye hoodie standing in a cluttered room with various items like boxes, tools, and a bicycle hanging on the wall. The person is smiling and pointing at something off-screen. There's also another person visible in the background near some equipment. The scene seems to be indoors, possibly a garage or workshop.\n\nAudibly, there's English speech saying \"you're so good at English.\" Then it says \"okay what do you want x-ray.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "840.0s - 846.0s",
+          "query": "**Visual:** The video shows two people in a cluttered room filled with various items like bicycles, boxes, and equipment. One person is wearing a purple hoodie and seems to be talking or reacting while gesturing towards another hand that's reaching out from outside the frame.\n\n**Audio:** There s some background noise, possibly from the room itself. Then there s a voice saying \"I don t know if it do you want to X-ray my hand.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "846.0s - 852.0s",
+          "query": "Visually, there's someone wearing a purple hoodie with some designs on it. They're standing in a room that looks like a workshop or garage, with various items around - like bicycles hanging up, boxes, and other tools. The person is gesturing with their hands while talking. There's also another person partially visible in front of them, reaching out towards them.\n\nIn terms of audio, I can hear a woman speaking, saying \"yeah\" at one point. Then there's background music playing throughout most of the clip."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 235.7975161075592
+    },
+    {
+      "comment_index": 18601,
+      "video_id": "IiJAq53knwc",
+      "comment": "15:00 in the vid he even calls an urgent care and the receptionist gives him like $200 on the lower end for the x ray lol. You can't just say things with absolutely zero reason or evidence.",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 3.0,
+      "comment_timestamp": 900.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "891.0s - 897.0s",
+          "query": "**Visual:** A man is sitting on a stool in a workshop-like setting filled with various tools and equipment. He's holding a phone and looking at it intently while talking. There s a sign that says \"Real X Ray machine\" next to him.\n\n**Audio:** Someone is speaking about an initial visit with a doctor and mentions x-rays being more than just something else."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "897.0s - 903.0s",
+          "query": "Visually, there's a man sitting in a workshop-like setting with various tools and items around him. He's holding a phone and looking at it while talking. There s also a sign that says \"Real X Ray\" on a table next to him. The background has shelves filled with different objects.\n\nAudio-wise, he is speaking about something related to $70 each, possibly referring to an item or service. There doesn t seem to be any other significant sound effects or music in the clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "903.0s - 909.0s",
+          "query": "**Visual:** A man is sitting on a stool in a workshop-like setting filled with various tools and equipment. He's holding a small device, possibly a phone or camera, and appears to be interacting with it while looking at the camera. There's a sign next to him that says \"Real X Ray machine.\" The background has shelves stocked with items like spray cans, boxes, and other miscellaneous objects.\n\n**Audio:** Someone is speaking, saying something about prices, mentioning \"$50 maybe $300\" and then trailing off with \"maybe or could be higher I just can't really.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 209.55656147003174
+    },
+    {
+      "comment_index": 18602,
+      "video_id": "IiJAq53knwc",
+      "comment": "Early from Australia where it’s ironically 11:30 pm",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 2.0,
+      "comment_timestamp": 690.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "681.0s - 687.0s",
+          "query": "Visual: The video shows a close-up of a sign with some scribbles on it. Then there's a quick pan to a man who looks surprised or shocked. He has facial hair and is wearing glasses. There's also a tripod visible in the background.\n\nAudio: A voice says \"and finally a little\" during the video."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "687.0s - 693.0s",
+          "query": "Visually, there's a man with dark hair and facial hair standing indoors. He seems to be talking or reacting to something. There's also a sign that says \"WARNING PROTECTED BY GUARD DOGS\" with an image of a dog on it. The background looks like some kind of workshop or garage with various items hanging around. The lighting is somewhat dim, giving off a slightly industrial vibe.Audibly, I can't really make out any specific words from his speech because he's talking too quickly for me to transcribe accurately. But there might be some background noise typical of a busy indoor space."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "693.0s - 699.0s",
+          "query": "Visually, there's a person sitting on a stool in a workshop-like setting with various tools and equipment around. There's also a sign that says \"GUARD DOGS\" with an image of a dog. The person is interacting with some kind of device or machine.\n\nAudio-wise, someone is speaking about guard dogs, mentioning they're ferocious and suggesting turning something on to check if it works."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 222.95469284057617
+    },
+    {
+      "comment_index": 18603,
+      "video_id": "IiJAq53knwc",
+      "comment": "4:48",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 2.0,
+      "comment_timestamp": 288.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "279.0s - 285.0s",
+          "query": "Sure! So, visually, there's someone working on something that looks like an electrical or mechanical device with wires and components. The person is using tools to manipulate it. There s also a wooden table nearby with some items on it, including a white circular object and other small things. In terms of audio, I can hear some kind of tapping or clacking noises, which might be related to the work being done. There s no clear speech or music, just those tapping sounds.Anything else you want to know about the video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "285.0s - 291.0s",
+          "query": "Visual: The video shows a close-up of some kind of electronic device with wires on a wooden surface. There's also a man standing in front of a large dollar sign logo, wearing a black shirt.\n\nAudio: A voice is heard saying \"it's not right either welcome to the world of high voltage where everything's.\" It seems like an introduction or explanation about something related to high voltage technology."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "291.0s - 297.0s",
+          "query": "Oh, okay. So, visually, there's someone with facial hair talking to the camera. In the background, it looks like some kind of workshop or garage - stuff like tools and equipment are visible. Then, there s another scene showing a close-up of an object on a wooden surface. It seems to be some sort of mechanical thing with wires and components.Now for the audio. There s just one person speaking clearly throughout. No other sounds stand out.What do you think about that? Any specific details you noticed?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 227.04256105422974
+    },
+    {
+      "comment_index": 18604,
+      "video_id": "IiJAq53knwc",
+      "comment": "7:08 bros protecting is best asset",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 1.0,
+      "comment_timestamp": 428.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "419.0s - 425.0s",
+          "query": "**Visual:** The video shows a person standing in a workshop or garage-like setting. There's a table with various items on it, including a power supply unit, some tools, and other equipment. The person is wearing shorts and appears to be interacting with something on the table. The background has shelves filled with more tools and supplies.\n\n**Audio:** The audio includes someone speaking, likely explaining or narrating something related to the scene. There are no distinct sound effects or music."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "425.0s - 431.0s",
+          "query": "**Visual:** The scene is set in a workshop or garage with various tools and equipment visible on shelves and workbenches. A person wearing shorts and a t-shirt is interacting with an electrical setup on a wooden table. There's a device that looks like a power supply unit, wires connected to it, and some other small components. The person seems to be adjusting or testing something related to electricity.\n\n**Audio:** Someone is speaking, likely explaining or narrating what they're doing. They mention turning \"the small power\" on and adjusting the current all the way down while also mentioning turning high voltage on. This suggests they might be conducting an experiment or demonstration involving electrical circuits."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "431.0s - 437.0s",
+          "query": "Visually, there's a person working on some equipment in a workshop-like setting with various tools and items around. There s a device labeled \"GMC-300E Plus\" that seems to be measuring something, connected to wires. The background has shelves filled with different objects like containers, cables, and other gear. The scene is indoors, likely a workspace or lab.\n\nIn terms of audio, it starts with some kind of mechanical noise, maybe from machinery running in the background. Then, there s a voice speaking, though I can t make out the words clearly. It could be instructions or commentary related to the work being done."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 273.2363142967224
+    },
+    {
+      "comment_index": 18605,
+      "video_id": "IiJAq53knwc",
+      "comment": "14:05",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 1.0,
+      "comment_timestamp": 845.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "836.0s - 842.0s",
+          "query": "Visual: There's someone wearing a tie-dye hoodie standing in a room with various items around, like a bicycle hanging on the wall, some boxes, and other stuff scattered about. The person seems to be talking or interacting with something off-camera.\n\nAudio: I can't really make out any specific words from the audio since it's just described as \"some English.\" But there might be background noise typical for an indoor setting."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "842.0s - 848.0s",
+          "query": "**Visual:** The video shows two people in a cluttered room filled with various items like bicycles, boxes, and equipment. One person is wearing a purple hoodie and seems to be talking or reacting while gesturing with their hands. There's another hand reaching out towards them.\n\n**Audio:** Someone is speaking, saying \"I don't know if it is.\" It sounds like they're questioning something."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "848.0s - 854.0s",
+          "query": "Visual: The video shows someone wearing a purple hoodie with a white design on it. There's also some kind of machinery or equipment visible behind them.\n\nAudio: I can hear a person speaking, saying \"all right so you know to do no yeah you\". Then there's background music playing."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 172.44524002075195
+    },
+    {
+      "comment_index": 18606,
+      "video_id": "IiJAq53knwc",
+      "comment": "15:41",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 1.0,
+      "comment_timestamp": 941.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "932.0s - 938.0s",
+          "query": "Visually, there's a man sitting at a table with various items around him like tools, a yellow container, and some colorful decorations on the wall behind. He seems to be talking or explaining something while gesturing with his hands. There s also a sign that says \"Real X-Ray\" on the table in front of him.\n\nAudio - wise, it sounds like he's speaking clearly, probably giving instructions or sharing information about finding broken bones in an x-ray. The background is mostly quiet except for his voice."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "938.0s - 944.0s",
+          "query": "Visually, there's a man standing in a kitchen with white cabinets and a black microwave. He has short brown hair and is wearing a black t-shirt featuring flame designs. He seems to be talking or explaining something while gesturing with his hands. The background shows typical kitchen elements like countertops and some utensils.\n\nIn terms of audio, it appears to be someone speaking, likely the same man from the visuals. There doesn't seem to be any other distinct sounds or music playing. It looks like he might be giving instructions or sharing information about cooking, given the setting."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "944.0s - 950.0s",
+          "query": "**Visual:** The video shows two people standing in a kitchen. One person is wearing a black shirt with a colorful design on it. There's a microwave visible in the background along with some cabinets. The other person has blonde hair.\n\n**Audio:** Someone is speaking, but without more details about their words or tone, I can't give much more information."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 223.01625609397888
+    },
+    {
+      "comment_index": 18607,
+      "video_id": "IiJAq53knwc",
+      "comment": "11:01 “the iron dome is in place” really hits different nowadays",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 1.0,
+      "comment_timestamp": 661.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "652.0s - 658.0s",
+          "query": "**Visual:** The video shows shelves filled with boxes labeled \"A & A PRO\" against a white background. There's also a person partially visible on the left side.\n\n**Audio:** Someone is speaking, saying, \"those are the only ones they tell you about in school or the coolest.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "658.0s - 664.0s",
+          "query": "Visual: The video shows a large black cylindrical object on a wooden surface with some wires around it. There's also a white light shining down from above. In the background, there are shelves filled with boxes labeled \"A+PRO\" containing various items like tools and equipment.\n\nAudio: Someone is speaking about scientists dying without anyone talking about safety. They mention something called \"Iron Dome.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "664.0s - 670.0s",
+          "query": "Well, I'm not sure if there's an X-ray machine or anything like that in the video. But visually, it seems to be some kind of workshop or storage area. There are various items around, like boxes, tools, and maybe some equipment. It looks pretty cluttered. As for the audio, there doesn't seem to be any distinct sounds from the video itself. Just general background noise, probably from the environment where the video was shot. What do you think? Do you have any other ideas about what might be going on in the video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 172.32838368415833
+    },
+    {
+      "comment_index": 18608,
+      "video_id": "IiJAq53knwc",
+      "comment": "6:28 i can taste the radiation",
+      "language": "en",
+      "channel_name": "williamosman",
+      "category": "making",
+      "likes": 1.0,
+      "comment_timestamp": 388.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "379.0s - 385.0s",
+          "query": "**Visual:** The video shows a close-up view of someone's hand holding a red probe connected to an electronic device with wires. There's also another piece of equipment on a wooden surface nearby.\n\n**Audio:** Someone is speaking, saying \"I'm an idiot I had the probe hooked onto the piece of wire insulation and not.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "385.0s - 391.0s",
+          "query": "Sure! So, visually, there's some kind of electronic device with wires connected to it on a wooden surface. You can see someone's hand holding a red wire near it. There s also a piece of paper nearby. The device seems to have a glowing element inside.As for the audio, there s just background noise, like a faint hum or something, no distinct speech or music.What do you think about that? Any other details you noticed?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "391.0s - 397.0s",
+          "query": "**Visual:** The video shows an electronic device with wires connected to it on a wooden surface. There's some kind of tube-like component glowing inside the device. It looks like someone is working on or demonstrating something related to electronics.\n\n**Audio:** Someone says \"Oh that's cool\" followed by \"Oh that's awesome.\" Then they say \"Alright I'm gonna turn it off now.\" There are no other significant sounds besides these words."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 215.37415599822998
+    }
+  ]
+}

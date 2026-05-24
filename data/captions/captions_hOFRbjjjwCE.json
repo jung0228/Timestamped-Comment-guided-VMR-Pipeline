@@ -1,12 +1,72 @@
 {
   "video_id": "hOFRbjjjwCE",
   "total_comments": 20,
-  "successful_comments": 20,
-  "failed_comments": 0,
+  "successful_comments": 17,
+  "failed_comments": 3,
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 3261,
+      "comment_index": 2501,
+      "video_id": "hOFRbjjjwCE",
+      "comment": "Qatar = Cutter???? WTF 1:49",
+      "language": "en",
+      "channel_name": "RealLifeLore",
+      "category": "documentary",
+      "likes": 245.0,
+      "comment_timestamp": 109.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "100.0s - 106.0s",
+          "query": "Visual: The video shows an illustration of a space station with red solar panels extending from its sides. There's also a Chinese flag on the right side of the screen. The background is dark blue, representing outer space.\n\nAudio: A voice speaks about China planning to construct their first space station."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "106.0s - 112.0s",
+          "query": "**Visual:** The video shows a map highlighting Qatar with a red box. The map is blue with white lines indicating geographical boundaries. The year \"2022\" is displayed in the bottom left corner.\n\n**Audio:** There is a male voice speaking in English. The speech mentions that the FIFA World Cup will be hosted again in Qatar and that the Winter Olympics will also be hosted in Qatar."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "112.0s - 118.0s",
+          "query": "**Visual:** The video shows two iconic cartoon characters standing in front of a castle-like structure with blue rooftops. One character is wearing a red dress with white polka dots and has a red bow on her head, while the other is dressed in black with red pants and a yellow bow tie. They appear to be posing together.\n\n**Audio:** There is no audible speech or sound effects in the provided segment; it's purely visual."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 170.2715072631836
+    },
+    {
+      "comment_index": 2502,
+      "video_id": "hOFRbjjjwCE",
+      "comment": "Except 1:22",
+      "language": "en",
+      "channel_name": "RealLifeLore",
+      "category": "documentary",
+      "likes": 244.0,
+      "comment_timestamp": 82.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "73.0s - 79.0s",
+          "query": "Visually, there's an image of a cityscape at night with lots of lights from buildings and cars on the roads. Then it shows a tall skyscraper labeled \"Jeddah Tower\" against a daytime sky. The audio has someone speaking about Jeddah Tower being completed in Saudi Arabia and becoming the new tallest structure. There aren't any specific sounds or music mentioned."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "79.0s - 85.0s",
+          "query": "Visual: The video shows an image of a tall tower labeled \"Jeddah Tower.\" There's also a map highlighting Tokyo with a red dot indicating its location.\n\nAudio: Someone is speaking about the Summer Olympics being held in Tokyo in 2020."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "85.0s - 91.0s",
+          "query": "Visually, there's a space hotel depicted. It's a large, cylindrical structure with a moon in the background. The hotel has a metallic look with some orange and blue accents. There are solar panels extending from it. The Earth is visible below, showing clouds and blue oceans. The scene is set in space, with stars in the background. There are no people or actions shown in the video. The colors are mainly metallic gray, orange, blue, and the black of space. The movement is mainly the camera showing the space hotel from different angles."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 151.56850266456604
+    },
+    {
+      "comment_index": 2503,
       "video_id": "hOFRbjjjwCE",
       "comment": "0:21 understatement of the decade",
       "language": "en",
@@ -19,24 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "12.0s - 18.0s",
-          "query": "VISUAL: There's a car driving on a road with trees and fields on either side. The sky is clear and blue. There's also a windmill silhouette against a pinkish - orange gradient background. The Storyblocks logo is visible too.AUDIO: A man speaks about predicting the future. It seems like he might be talking about something related to the video content or the artistic project mentioned at the start.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Visual: The video shows a car driving down a road with trees on both sides. There's also a windmill silhouette against a colorful sky in the background. The scene has a mix of greenery and open space.\n\nAudio: A man is speaking throughout the video. It seems like he might be narrating or explaining something related to the visuals."
         },
         {
           "segment_index": 2,
           "time_range": "18.0s - 24.0s",
-          "query": "VISUAL: A blue car is driving on a road with trees and fields on either side. The sky is clear and blue. Then it cuts to an indoor scene where there's a man standing in a room covered in graffiti. He's holding something up to his face, like he might be taking a picture or looking through binoculars.AUDIO: There's some kind of narration or speech going on throughout the video. It seems to be about business and unexpected events changing things. But I can't really make out all the words clearly.What do you think about these two contrasting scenes?"
+          "query": "Well, in the video, visually, there's a car driving down a road. The road seems to be in a rural area with some trees and fields around. The car is moving forward, and the scenery is changing as it goes. There's also a person standing in an abandoned building, holding something up to their face, maybe taking a picture or looking through a device. The building looks really old and run - down, with graffiti on the walls and debris on the floor. As for the audio, there's a man speaking. He's talking about a very difficult business and how unanticipated events can always change things. It's a pretty serious tone. So, what do you think about this video?"
         },
         {
           "segment_index": 3,
           "time_range": "24.0s - 30.0s",
-          "query": "VISUAL: There's a man standing in an abandoned building with graffiti on the walls. He's wearing a green jacket and black pants. He takes off his helmet and looks around. The room is dimly lit, with some light coming through small windows.AUDIO: There's a voiceover saying \"Thought would happen but we're still free to make our best educated guesses with the means that are available to us.\" It's a calm, reflective tone.What do you think about the scene? Do you have any other thoughts or questions?"
+          "query": "Sure! So, visually, there's an abandoned building with graffiti all over the walls. A person is walking through it, looking around. The scene has a lot of debris on the floor.The audio seems to be just background noise, maybe some faint echoes or distant sounds from outside.What do you think about that? Do you have any other questions related to the video?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 251.31325769424438
+      "processing_time": 196.58589458465576
     },
     {
-      "comment_index": 3262,
+      "comment_index": 2504,
       "video_id": "hOFRbjjjwCE",
       "comment": "0:17 wtf happened to the car?",
       "language": "en",
@@ -49,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "8.0s - 14.0s",
-          "query": "VISUAL: There's a silhouette of a windmill against a colorful sky that transitions from pink to orange. The Storyblocks logo is also visible, with its yellow circle and black \"S\" design.AUDIO: A voice says something about downloading photos, illustrations, vectors for videos or artistic projects. It seems like an ad or promotional message.If you want to know more about this kind of content or have other questions, feel free to ask!"
+          "query": "Visual: The video shows a silhouette of a windmill against a gradient background that transitions from pink to orange. There's a yellow circle with a stylized \"S\" in the center, and the word \"Storyblocks\" is written below it. The windmill appears to be stationary, and there's no visible movement or action within the frame. The colors are vibrant, with the warm tones of the background contrasting with the dark silhouette of the windmill. Audio: The audio consists of a voiceover explaining that Storyblocks offers the ability to download photos, illustrations, vectors, and more for use in videos or artistic projects. The voiceover is clear and informative, providing details about the services offered by Storyblocks."
         },
         {
           "segment_index": 2,
           "time_range": "14.0s - 20.0s",
-          "query": "VISUAL: There's a car driving on a road surrounded by trees and fields. The sky is clear and blue. The car appears to be moving at a steady pace.AUDIO: A man is speaking about predicting the future being difficult. It seems like he might be talking about something related to the video content. What do you think about that?"
+          "query": "Visual: A car is driving down a road with trees on both sides. The sky is clear blue. There's some text at the bottom that says \"Storyblocks\".Audio: Someone is speaking about predicting the future being difficult. It seems to be a voiceover or narration."
         },
         {
           "segment_index": 3,
           "time_range": "20.0s - 26.0s",
-          "query": "VISUAL: There's a blue car driving on a road with trees and fields around. Then it cuts to an abandoned building with graffiti all over the walls. A person is standing there, putting on a gas mask.AUDIO: The audio has some kind of narration or speech about being involved in unanticipated events changing our thoughts but still having freedom.What do you think about these two contrasting scenes?"
+          "query": "Visually, there's a man standing in an abandoned building with graffiti on the walls. He's wearing a light-colored jacket and dark pants, and he seems to be adjusting something on his head. The building looks run-down, with broken windows and debris scattered around. The overall color scheme is muted, with lots of grays and browns.\n\nIn terms of audio, there's a voiceover that says, \"Be involved in unanticipated events can always change what we thought would happen but we're still free.\" The voice is calm and measured, and there are no other sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 188.38773441314697
+      "processing_time": 189.59698820114136
     },
     {
-      "comment_index": 3263,
+      "comment_index": 2505,
       "video_id": "hOFRbjjjwCE",
       "comment": "See you future March 09, 2019 Saturday 12:45 pm",
       "language": "en",
@@ -79,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "756.0s - 762.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 2,
           "time_range": "762.0s - 768.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 3,
           "time_range": "768.0s - 774.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.0965123176574707
+      "processing_time": 0.004898548126220703
     },
     {
-      "comment_index": 3264,
+      "comment_index": 2506,
       "video_id": "hOFRbjjjwCE",
       "comment": "May 13, 2019 9:35pm (Pacific Coast Time or whatever) I shall find this time capsule.",
       "language": "en",
@@ -109,24 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "566.0s - 572.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 2,
           "time_range": "572.0s - 578.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 3,
           "time_range": "578.0s - 584.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.09704375267028809
+      "processing_time": 0.004005908966064453
     },
     {
-      "comment_index": 3265,
+      "comment_index": 2507,
       "video_id": "hOFRbjjjwCE",
       "comment": "5:29 for me as a petrol head this is pure cringe combined with fear of death. weird feeling...",
       "language": "en",
@@ -139,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "320.0s - 326.0s",
-          "query": "VISUAL: The video shows an image of Earth with a focus on the Arctic region covered in ice. There's also some text at the top about a journey at 15% speed of light over 20 - 30 years to reach a mysterious planet in 2037. The year \"2036\" is displayed in the bottom left corner.AUDIO: A man speaks about seeing the first summer without ice on this mysterious planet in 2037. It seems like he's discussing climate change or something related to the planet's environment.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, the video shows a globe with a focus on the Arctic region. There are some text elements like \"20-30 Year Journey at 15% speed of light (C)\" and \"2037\". The globe seems to be rotating slowly, and there are some other objects like a sun and a balloon-like shape in the background. The colors are mainly blue, white, and green, representing the Earth's surface and the sky.The audio is mostly speech, which seems to be explaining something related to the visual content. There are no distinct sound effects or music."
         },
         {
           "segment_index": 2,
           "time_range": "326.0s - 332.0s",
-          "query": "VISUAL: The video shows an image of Earth from space with ice in the Arctic region. Then it cuts to a scene of the Arc de Triomphe in Paris, France, with cars passing by. There's also some text on the screen indicating dates like \"Aug 25, 2017\" and \"2037\". AUDIO: A man is speaking about the melting ice in the Arctic and mentioning that by 2040, France will have banned the sale of all gasoline vehicles. He seems to be discussing environmental issues related to climate change.If you want to talk more about this or have other questions, feel free to let me know!"
+          "query": "**Visual:** The video shows two contrasting images side by side. On the left is an image of Earth from space with visible ice caps, suggesting climate change impacts. On the right is a scene of the Arc de Triomphe in Paris, France, with cars passing by on the street.\n\n**Audio:** There's no distinct audio mentioned here, so I can't describe any spoken words or other sounds."
         },
         {
           "segment_index": 3,
           "time_range": "332.0s - 338.0s",
-          "query": "VISUAL: The video shows an image of the Arc de Triomphe in Paris at first. Then it transitions to a cartoonish globe with \"World Population\" written above it. The year \"2042\" is displayed on both sides of the globe. There's also some text about diesel vehicles in the country in 2042 and the world population reaching something in that year.AUDIO: There's a man speaking throughout the video. He seems to be talking about diesel vehicles in the country in 2042 and the world population reaching a certain number in that year.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's a large arch structure, likely the Arc de Triomphe in Paris, with some cars passing by in front of it. The sky is cloudy. There's also a graphic of a globe with text about the world population in 2042. The globe is mostly blue with some green areas and has a dotted pattern. The text is in white and blue. The globe is set against a starry night sky background. There are no people visible in the video."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 310.48642325401306
+      "processing_time": 214.5665431022644
     },
     {
-      "comment_index": 3266,
+      "comment_index": 2508,
       "video_id": "hOFRbjjjwCE",
       "comment": "5:46 Rip western civilization.",
       "language": "en",
@@ -169,24 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "337.0s - 343.0s",
-          "query": "VISUAL: There's an animated globe with \"World Population\" written above it. The year \"2042\" is shown on the left side. Then there's a man in a red shirt looking at something off - screen. He has short brown hair and a slight smile.AUDIO: A male voice speaks about the world population reaching nine billion and mentions Americans of European ancestry becoming a minority. It seems to be a narration or explanation related to demographics.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows an animated depiction of Earth with a population count of \"9 Billion!\" written above it. There's also a person wearing a red shirt standing in front of some greenery.\n\n**Audio:** A voice is heard saying something about reaching nine billion people while mentioning Americans of European ancestry becoming a majority."
         },
         {
           "segment_index": 2,
           "time_range": "343.0s - 349.0s",
-          "query": "VISUAL: There's a man with short brown hair wearing a red shirt. He has a slight smile on his face. The background is blurred greenery.AUDIO: Someone is speaking about a minority group inside the United States for the first time this year. It seems to be a news report or something similar.If you have any other thoughts or questions about it, feel free to share!"
+          "query": "Well, in the video, there's a guy in a red shirt standing outside. He's got short hair and is smiling. The background is all blurry with greenery, so it looks like he's in a park or something. There's also a number \"2042\" on the left side of the screen. In the audio, there's a voice speaking, but I can't really make out what it's saying. It's just a bunch of words that don't seem to form a clear sentence. So, what do you think about this video?"
         },
         {
           "segment_index": 3,
           "time_range": "349.0s - 355.0s",
-          "query": "VISUAL: There's an image of a person in a suit on a pink background. The words \"Net Worth $1,000,000,000\" appear above them. Then it changes to just the name \"J.R.R. Tolkien\" with the year \"2044\" below it.AUDIO: Someone is speaking about the advent of the world's first trillionaire and mentions J.R.R. Tolkien's works in 2044.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visual: The video shows a pink background with a black silhouette of a person in a suit. Above the figure, the text \"Net Worth $1,000,000,000,000\" is displayed. Below the figure, the text \"2042\" is shown. The scene is static with no movement.\n\nAudio: There is a male voice speaking in English. The speech content is about the advent of the world's first trillionaire in 2044 and mentions the works of J.R.R. Tolkien."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 231.29694151878357
+      "processing_time": 197.14831519126892
     },
     {
-      "comment_index": 3267,
+      "comment_index": 2509,
       "video_id": "hOFRbjjjwCE",
       "comment": "1:47 “The FIFA World Cup will be once again hosted in C U T T E R. “",
       "language": "en",
@@ -199,24 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "98.0s - 104.0s",
-          "query": "VISUAL: There's an astronaut floating outside a space station against a backdrop of Earth and stars. The astronaut is wearing a white spacesuit with a helmet. The space station has solar panels extending from it. There's also an Indian flag in the corner of one frame.AUDIO: A man is speaking about China's plans for a manned space mission in 2021 and constructing their first space station in 2022. It seems like he might be narrating or reporting on these events.If you want to know more about space missions or have any other questions related to this, feel free to ask!"
+          "query": "Visual: The video shows an astronaut floating outside a space station against a backdrop of Earth and stars. There's also a flag visible on the right side.\n\nAudio: A male voice is speaking about China's plans for manned space missions in 2021 and 2022."
         },
         {
           "segment_index": 2,
           "time_range": "104.0s - 110.0s",
-          "query": "VISUAL: There's an image of a space station with red solar panels against a starry background. The year \"2022\" is shown on the left side. Then it transitions to a map highlighting Qatar with an arrow pointing to it and the words \"FIFA World Cup Qatar.\" AUDIO: Someone says \"very own space station in addition the FIFA World Cup will be hosted once again in Qatar.\" It's just speech without any other sounds like music or sound effects. What do you think about these events?"
+          "query": "Visual: The video shows an image of a satellite with red solar panels against a starry space background. There's also a map highlighting Qatar on a blue background.\n\nAudio: Someone is speaking about the FIFA World Cup being hosted again in Qatar."
         },
         {
           "segment_index": 3,
           "time_range": "110.0s - 116.0s",
-          "query": "VISUAL: The video starts with a map showing China in blue, with some areas highlighted in red. Then it shows \"Winter Olympics\" and \"Beijing\" on the map. After that, there's an image of Mickey Mouse and Minnie Mouse standing in front of a castle-like structure. They're both smiling and looking at the camera.AUDIO: There's a man speaking about the Winter Olympics being hosted in Beijing, China in 2023. He also mentions something about copyrights on early images related to the event.If you have any other questions or want to discuss more about this video, feel free to let me know!"
+          "query": "**Visual:** The video shows two iconic cartoon characters standing in front of a castle-like structure with spires. One character is wearing a red dress with white polka dots and has a bow on her head, while the other is dressed in black with red pants and gloves. They appear to be posing together.\n\n**Audio:** There's no distinct dialogue or music heard in this short clip. It seems like there might have been some background noise or sound effects that aren't clearly identifiable from just these six seconds."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 290.52813696861267
+      "processing_time": 139.7612156867981
     },
     {
-      "comment_index": 3268,
+      "comment_index": 2510,
       "video_id": "hOFRbjjjwCE",
       "comment": "0:22 “Unanticipated events can always change what we thought would happen.”  SHOWS A GUY WITH A MASK   Disturbing how he predicted the future 🤯🤯",
       "language": "en",
@@ -229,24 +289,24 @@
         {
           "segment_index": 1,
           "time_range": "13.0s - 19.0s",
-          "query": "VISUAL: There's a car driving on a road surrounded by trees and fields. The sky is clear and blue. There's also a windmill silhouette against a pinkish-orange background with the Storyblocks logo. AUDIO: Someone is speaking about predicting the future being difficult. It seems to be a calm voice. What do you think about that? Do you have any ideas for an artistic project related to it?"
+          "query": "Visual: The video shows a car driving down a straight road surrounded by greenery on both sides. There's a windmill silhouette against a colorful sky in the background.\n\nAudio: Someone is speaking about predicting the future being difficult."
         },
         {
           "segment_index": 2,
           "time_range": "19.0s - 25.0s",
-          "query": "VISUAL: There's a blue car driving on a road with trees and fields around. Then it cuts to an abandoned building with graffiti all over the walls. A person is standing there, holding something up to their face.AUDIO: There's some kind of narration or speech about business being difficult and unexpected events changing things. It doesn't seem like there's any music or sound effects.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Well, in the visual part, there's a car driving on a road. The road is surrounded by trees and some buildings in the background. The car looks like it's moving at a steady pace. In the audio part, there's no clear speech or music. It's just the sound of the car's engine and maybe some distant ambient noises. So, what do you think about this video?"
         },
         {
           "segment_index": 3,
           "time_range": "25.0s - 31.0s",
-          "query": "VISUAL: There's a man standing in an abandoned building with graffiti on the walls. He takes off his helmet and looks around. The scene is dimly lit, giving it a somewhat eerie feel.AUDIO: A voice is speaking over some background noise. It seems to be delivering a message or narration. What do you think about the setting? Does it seem like something from a movie or a real place?"
+          "query": "Well, I'm not sure if there's actually any content to analyze here. The text seems like it might be some kind of instruction or prompt rather than describing an actual video segment. So, I can't really give you a proper analysis based on that. But if you have another video segment for me to look at, feel free to share!"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 203.43802165985107
+      "processing_time": 223.4225468635559
     },
     {
-      "comment_index": 3269,
+      "comment_index": 2511,
       "video_id": "hOFRbjjjwCE",
       "comment": "1:10 \"2020 will be quite eventful\" Well he was right 😂",
       "language": "en",
@@ -259,54 +319,24 @@
         {
           "segment_index": 1,
           "time_range": "61.0s - 67.0s",
-          "query": "VISUAL: There's an image of a large, hexagonal structure that looks like a telescope or satellite dish. It has a golden color with some black elements. The year \"2018\" is visible on it.AUDIO: Someone is speaking about the UK leaving the EU and the FISA court in 2019. The tone seems to be informative. So, what do you think about these events?"
+          "query": "Visual: The video shows an animated map of Europe with different countries highlighted in various colors. There's also some text on the screen that says \"2019\". Audio: Someone is speaking about the United Kingdom officially leaving the European Union in 2019."
         },
         {
           "segment_index": 2,
           "time_range": "67.0s - 73.0s",
-          "query": "VISUAL: The video shows a map with France highlighted in red and labeled \"FIFA Women's Cup\" for 2019. Then it transitions to a nighttime cityscape scene with traffic on a highway, buildings lit up, and the year \"2020\" displayed at the bottom left.AUDIO: There is a male voice speaking about the Women's World Cup being held in France next year, 2020, and predicting that 2020 will probably be quite something."
+          "query": "**Visual:** The video shows a map highlighting France with \"FIFA Women's Cup\" written on it. It then transitions to a nighttime cityscape with illuminated buildings and busy streets filled with light trails from moving vehicles.\n\n**Audio:** There is no distinct audio mentioned other than the text appearing on the screen which says \"the women's cup will be held in france the next year in 2020.\""
         },
         {
           "segment_index": 3,
           "time_range": "73.0s - 79.0s",
-          "query": "VISUAL: The video shows a cityscape at night with tall buildings lit up. There's a highway with light trails from moving cars. Then it transitions to an image of the Jeddah Tower in Saudi Arabia, which is very tall and modern - looking. It stands out against the sky with other buildings around it.AUDIO: There's some kind of narration or announcement about the Jeddah Tower being scheduled for completion and becoming the new tallest structure. No specific music or sound effects are mentioned.So, what do you think about the Jeddah Tower? Do you know much about it?"
+          "query": "Visually, the video shows a cityscape at night. There are tall buildings with lights on, and a busy road with cars moving, leaving light trails. The sky is dark, and the overall scene has a modern, urban feel. There are no people visible in the video. The colors are mostly dark with bright spots from the lights of the buildings and cars. The movement is mainly from the cars on the road.Audience: There is no audio in this video segment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 224.972314119339
+      "processing_time": 156.3802616596222
     },
     {
-      "comment_index": 3270,
-      "video_id": "hOFRbjjjwCE",
-      "comment": "0:21  \"unanticipated events\" shows person wearing gas mask",
-      "language": "en",
-      "channel_name": "RealLifeLore",
-      "category": "documentary",
-      "likes": 80.0,
-      "comment_timestamp": 21.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "12.0s - 18.0s",
-          "query": "VISUAL: There's a car driving on a road with trees and fields on either side. The sky is clear and blue. There's also a windmill silhouette against a pinkish - orange gradient background. The Storyblocks logo is visible too.AUDIO: A man speaks about predicting the future. It seems like he might be talking about something related to the video content or the artistic project mentioned at the start.If you want to talk more about this video or have other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "18.0s - 24.0s",
-          "query": "VISUAL: A blue car is driving on a road with trees and fields on either side. The sky is clear and blue. Then it cuts to an indoor scene where there's a man standing in a room covered in graffiti. He's holding something up to his face, like he might be taking a picture or looking through binoculars.AUDIO: There's some kind of narration or speech going on throughout the video. It seems to be about business and unexpected events changing things. But I can't really make out all the words clearly.What do you think about these two contrasting scenes?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "24.0s - 30.0s",
-          "query": "VISUAL: There's a man standing in an abandoned building with graffiti on the walls. He's wearing a green jacket and black pants. He takes off his helmet and looks around. The room is dimly lit, with some light coming through small windows.AUDIO: There's a voiceover saying \"Thought would happen but we're still free to make our best educated guesses with the means that are available to us.\" It's a calm, reflective tone.What do you think about the scene? Do you have any other thoughts or questions?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 275.93451476097107
-    },
-    {
-      "comment_index": 3271,
+      "comment_index": 2512,
       "video_id": "hOFRbjjjwCE",
       "comment": "0:40 - 2018: New Caledonia voted to remain part of France in 2018, 2020, and 2021, though the 2021 referendum had historically low turnout, barely more than half of the turnout of 2020. Despite this, a referendum on New Caledonia's status in France has been scheduled for 2023. Bougainville's referenda was held, not in 2018 but in 19, returning an overwhelming vote in favor of independence. An agreement between Bougainville and Papua New Guinea was reached would have Bougainville gain independence by 2027. FIFA 2018 was held in Russia and won by France. The JWST was delayed multiple times and was deployed in late 2021.  1:01 - 2019: Britain's exit from the EU was postponed a couple times and Britain eventually left in early 2020. FIFA 2019 was held in France and was won by America.  1:10 - 2020: \"Quite eventful.\" Jidda Tower has been indefinitely delayed due to labor shortages relating to the 2017 purge. The tallest structure remains the Burj Khalifa. The Tokyo 2020 Olympics were delayed until 2021 due to the COVID-19 pandemic. Bigelow Aerospace laid off all their employees in 2020 and all projects were indefinitely delayed.  1:33 - 2021: India's maiden human space flight has been delayed to 2024.  1:39 - 2022: As of Oct 2022, the Tiangong space station is still under construction. FIFA 2022 is still scheduled as planned. The 2022 Beijing Olympics went forward as scheduled, and Norway won the most gold and overall medals.  2:00 - 2024: Completion of the Fehmarn Belt fixed link has been delayed to mid-2029.  2:35 - 2025: Britain's phase out of coal has been brought up to 2024.  2:52 - 2026: Most recent date given by Musk has a crewed mission arriving in 2029. Closest thing I can find about a NASA asteroid mission is the Asteroid Redirect Robotic Mission which would have a robot collect a boulder from an asteroid and have astronauts explore that smaller boulder, which was cancelled in 2017. Completion of the Sagrada Familia has been delayed until after 2026.  3:24 - 2027: See 2026 re: SpaceX mission to Mars.  3:58 - 2029: Portion of the rail connecting Bakersfield to Los Angeles has been delayed until 2033.  4:11 - 2030s: Chinese human lunar mission has been given a more specific date of 2030.  4:37 - 2031: Russia doesn't have a more specific date than 2030s.  5:34 - 2042: Current UN population projections put the 9bn mark in 2037. Current US Census projections expect non-Hispanic White Americans to be a minority in 2045. Apparently Elon Musk has been projected to become the first trillionaire in 2024, though I'm not sure if these projections take into account the fall of Tesla stock & his buying of Twitter.  Anything else I didn't comment on either seem to still be correct predictions, or have such incredibly variable projections from different experts that I didn't feel it would be appropriate for me to give a definitive answer.",
       "language": "en",
@@ -319,54 +349,24 @@
         {
           "segment_index": 1,
           "time_range": "146.0s - 152.0s",
-          "query": "VISUAL: There's a map showing a red line that represents the Fehmarn Belt Fixed Link. It's marked with \"Fehmarn Belt Fixed Link\" at the top. The year \"2024\" is displayed on the bottom left.AUDIO: Someone is speaking about the completion of the Fehmarn Belt Fixed Link which will create a direct rail and highway link between North Germany and Denmark.If you have any other thoughts or questions about this, feel free to share!"
+          "query": "**Visual:** The video shows a map with a red line labeled \"Fehmarn Belt Fixed Link\" across it. The year \"2024\" is displayed at the bottom left corner.\n\n**Audio:** There's no audible speech or sound effects; only background music can be heard."
         },
         {
           "segment_index": 2,
           "time_range": "152.0s - 158.0s",
-          "query": "VISUAL: The video shows a map with \"Fehmarn Belt Fixed Link\" written at the top. There's an orange line on the map connecting two points. Then it transitions to a large dome - like structure against a clear sky. It looks modern and metallic.AUDIO: There is some kind of narration or explanation about something related to Germany and Copenhagen in Denmark in 2025, mentioning the Giant Magellan Telescope. But I can't really tell if there's any specific emotion or tone in the speech from just these few seconds.What do you think about this? Do you have any other questions regarding the video?"
+          "query": "Visually, the video shows a large, futuristic-looking dome structure in a desert-like environment. There are some mountains in the background. The sky is clear and blue. The structure has a geometric pattern on its surface. There are no people visible in the video. The overall color scheme is dominated by blues, browns, and metallic tones from the structure. There's a sense of stillness and vastness in the scene. The camera seems to be panning around the structure slowly, giving a full view of it. The video also includes text overlays like \"Fehmarn Belt Fixed Link\" and \"Copenhagen\" with a year \"2024\" at the bottom left corner."
         },
         {
           "segment_index": 3,
           "time_range": "158.0s - 164.0s",
-          "query": "VISUAL: There's a large dome - like structure made up of geometric panels. It looks modern and is set against a clear sky with some clouds. The ground around it seems to be sandy or desert - like.AUDIO: Someone is speaking about an observatory being completed in 2025. They mention that it will be the largest in the world at that time and have ten times more power than something else, probably referring to another observatory.So, what do you think about this new observatory? Do you find it exciting?"
+          "query": "**Visual:** The video shows a large, futuristic-looking observatory structure with a metallic, dome-shaped design. It's set against a clear blue sky. There are no visible people or other objects around it.\n\n**Audio:** No distinct audio elements like speech, music, or sound effects can be discerned from this short clip."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 250.51769471168518
+      "processing_time": 152.43230748176575
     },
     {
-      "comment_index": 3272,
-      "video_id": "hOFRbjjjwCE",
-      "comment": "Did you just say \"cutter\" as Qatar 😂 I thought it was Ca Tar or Ce Tar 1:49",
-      "language": "en",
-      "channel_name": "RealLifeLore",
-      "category": "documentary",
-      "likes": 70.0,
-      "comment_timestamp": 109.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "100.0s - 106.0s",
-          "query": "VISUAL: The video shows a space station with red solar panels against a starry night sky background. There's also a Chinese flag on the right side of the frame.AUDIO: Someone is speaking about China's plan to construct its first space station in 2022. It seems like they're explaining something related to the space station project.If you want to know more about this or have other questions, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "106.0s - 112.0s",
-          "query": "VISUAL: The video shows a map with an arrow pointing to Qatar for the FIFA World Cup in 2022. Then it shifts to another map showing Beijing for the Winter Olympics in 2022.AUDIO: There's some kind of narration or explanation about these events being hosted in Qatar and Beijing respectively. It seems like there might be background music too, but I can't really tell much from just that short clip.What do you think about hosting these big events?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "112.0s - 118.0s",
-          "query": "VISUAL: The video shows a map with \"Winter Olympics Beijing\" written on it, followed by Mickey Mouse and Minnie Mouse standing in front of a castle-like structure. They're both dressed in their classic outfits.MICROPHONE: There's some narration about Beijing China in 2023 and that the copyrights on the earliest Mickey Mouse cartoons will expire. It's just plain speech without any music or sound effects.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 219.7213752269745
-    },
-    {
-      "comment_index": 3273,
+      "comment_index": 2513,
       "video_id": "hOFRbjjjwCE",
       "comment": "1:03 2019: UK will leave the EU. 2020: UK is still in the EU (Left 31st Jan)",
       "language": "en",
@@ -379,24 +379,24 @@
         {
           "segment_index": 1,
           "time_range": "54.0s - 60.0s",
-          "query": "VISUAL: The video shows some kind of large, complex machinery or structure being worked on inside a building. There's a person in white protective gear standing near it. It looks like they're inspecting or operating something. The structure has hexagonal panels that seem to be unfolding or moving.AUDIO: A man is speaking about NASA deploying the James Webb Space Telescope which will be more powerful than the Hubble telescope. He doesn't say much else.If you want to know more about the James Webb Space Telescope or have other questions related to this, feel free to ask!"
+          "query": "Visually, the video shows a close - up of a large, complex structure that looks like a satellite or a piece of space equipment. It has a geometric, angular design with a golden - yellow color. There are some black and red elements too. The camera seems to be moving around it, giving different angles of the object. There are no people or other objects in the scene. The background is dark, which makes the structure stand out more. The overall impression is that it's something related to space technology.Audibly, there's a voiceover in the background. The voice is calm and informative, talking about NASA deploying the James Webb Space Telescope. The tone is professional and educational. There are no other sounds like music or sound effects."
         },
         {
           "segment_index": 2,
           "time_range": "60.0s - 66.0s",
-          "query": "VISUAL: The video shows an image of a large, golden structure that looks like a space telescope or satellite. It has hexagonal panels. Then there's a map of Europe with some countries highlighted in different colors. There's also a green arrow pointing towards the UK on the map.AUDIO: Someone is speaking about the Hubble Space Telescope and mentions that in 2019, the United Kingdom will officially leave the European Union.If you have any other questions about this or want to discuss more, feel free to let me know."
+          "query": "Visual: The video shows a map of Europe with different countries highlighted in various colors. There's an arrow pointing from the UK to the rest of Europe. The year \"2019\" is displayed at the bottom left corner.\n\nAudio: A man is speaking about the UK officially leaving the European Union in 2019."
         },
         {
           "segment_index": 3,
           "time_range": "66.0s - 72.0s",
-          "query": "VISUAL: The video shows a map with France highlighted in red. There's also a highway at night with light trails from cars moving fast. The year \"2019\" is displayed on the left side.AUDIO: A man speaks about the FIFA Women's World Cup being held in France next year, 2020. He says it will probably be held there. What do you think about the FIFA Women's World Cup?"
+          "query": "**Visual:** The video shows a map highlighting France in red, with the text \"FIFA Women's Cup\" and \"2019\" visible. It then transitions to a nighttime cityscape with illuminated buildings and streets, suggesting a bustling urban environment.\n\n**Audio:** There is a male voice speaking in English, saying, \"and the FIFA Women's World Cup will be held in France the next year in 2020.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 267.77734375
+      "processing_time": 285.7447395324707
     },
     {
-      "comment_index": 3274,
+      "comment_index": 2514,
       "video_id": "hOFRbjjjwCE",
       "comment": "6:08 Detroit become human",
       "language": "en",
@@ -409,24 +409,24 @@
         {
           "segment_index": 1,
           "time_range": "359.0s - 365.0s",
-          "query": "VISUAL: The video shows two book covers side - by - side on a pink background. One is \"The Lord of the Rings\" with a dark cover featuring gold lettering, and the other is \"The Hobbit\" with an illustration of mountains, trees, and a red sun. There's also binary code scrolling across the screen, and the number \"2045\" appears at the bottom left corner.AUDIO: Someone is speaking about the estimated year of the technological singularity being 2045 according to the futurist Ray Kurzweil.If you have any thoughts or questions about this, feel free to share!"
+          "query": "Visually, the video shows a background filled with binary code in green. There are two book covers displayed prominently. One is for \"The Lord of the Rings\" and the other for \"The Hobbit\", both with the author's name, J.R.R. Tolkien, above them. The words \"Public Domain\" are also visible. The year \"2045\" is shown at the bottom left corner. There's no movement or action in the video, just a static display of these elements.Audibly, there is a voiceover saying \"Public Domain 2045 is the estimated year of the technological singularity.\""
         },
         {
           "segment_index": 2,
           "time_range": "365.0s - 371.0s",
-          "query": "VISUAL: There's a man with glasses on the right side of the screen against a background filled with green binary code. The year \"2045\" is displayed in large white numbers at the bottom left corner. Then there's an animation of binary code lines shooting outwards from a central bright light source.AUDIO: A male voice speaks about Ray Kurzweil predicting that artificial intelligence might surpass humans in some aspects this year. It's just his voice talking without any other sound effects or music. So, what do you think about this prediction?"
+          "query": "**Visual:** The video shows a background filled with green binary code numbers. There's a bright light source in the center, creating a tunnel-like effect. The numbers seem to be moving or pulsating. In the bottom right corner, there's a small, static image of a man with glasses and a beard.\n\n**Audio:** The audio features a male voice speaking. The speech is in English and seems to be discussing something related to the year 2045 and artificial intelligence."
         },
         {
           "segment_index": 3,
           "time_range": "371.0s - 377.0s",
-          "query": "VISUAL: There's a large shark head coming out of a building at night. The building has some signs on it, like one that says \"Candy\" and another with an arrow pointing left. The scene is dark except for the shark head which is lit up.AUDIO: There's no clear speech or music in the audio. Just some kind of background noise, maybe from the environment around the building.So, what do you think about this? Do you have any other videos to analyze?"
+          "query": "**Visual:** The video shows a large shark sculpture with its mouth open, seemingly emerging from or breaking through the side of a building at night. There's a red neon sign above it that says \"WELCOME\" and some green signage below the shark. The background is dark, emphasizing the shark and the signs.\n\n**Audio:** No distinct audio elements can be identified apart from the possible ambient noise of the environment around the building."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 270.1846182346344
+      "processing_time": 229.31976914405823
     },
     {
-      "comment_index": 3275,
+      "comment_index": 2515,
       "video_id": "hOFRbjjjwCE",
       "comment": "5:40 White Genocide succeeds",
       "language": "en",
@@ -439,24 +439,24 @@
         {
           "segment_index": 1,
           "time_range": "331.0s - 337.0s",
-          "query": "VISUAL: The video shows a large stone archway with cars passing through it. There's also an image of Earth from space with \"World Population\" written above it.AUDIO: Someone is speaking about the phase-out of gasoline and diesel vehicles in the country in 2042 and mentions that the world population will be 8 billion by then.If you have any other questions or want to discuss more about this topic, feel free to let me know!"
+          "query": "Visual: The video shows the Arc de Triomphe in Paris, France. It's a large, iconic monument with detailed carvings. There are cars passing by in front of it. The sky is cloudy, giving a somewhat overcast look. The scene is in a city setting with other buildings visible in the background.\n\nAudio: There's a voiceover in the audio. It starts with \"2040\" and then says \"World Population: 2042.\" The voice is clear and seems to be providing some kind of information or narration."
         },
         {
           "segment_index": 2,
           "time_range": "337.0s - 343.0s",
-          "query": "VISUAL: There's an animated globe with \"World Population\" written above it. The year \"2042\" is shown on the left side. Then there's a man in a red shirt looking at something off - screen. He has short brown hair and a slight smile.AUDIO: A male voice speaks about the world population reaching nine billion and mentions Americans of European ancestry becoming a minority. It seems to be a narration or explanation related to demographics.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows an animated depiction of Earth with a population count of \"9 Billion!\" written above it. There's also a person wearing a red shirt standing in front of some greenery.\n\n**Audio:** A voice is heard saying something about reaching nine billion people while mentioning Americans of European ancestry becoming a majority."
         },
         {
           "segment_index": 3,
           "time_range": "343.0s - 349.0s",
-          "query": "VISUAL: There's a man with short brown hair wearing a red shirt. He has a slight smile on his face. The background is blurred greenery.AUDIO: Someone is speaking about a minority group inside the United States for the first time this year. It seems to be a news report or something similar.If you have any other thoughts or questions about it, feel free to share!"
+          "query": "Visually, there's a man wearing a red shirt standing outdoors with trees in the background. The number \"2042\" is visible on his shirt. Then it transitions to an illustration of a person in a suit against a pink background.\n\nAudio-wise, I can't really tell much from just these six seconds since no specific audio details were provided."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 209.8716857433319
+      "processing_time": 136.22325229644775
     },
     {
-      "comment_index": 3276,
+      "comment_index": 2516,
       "video_id": "hOFRbjjjwCE",
       "comment": "1:56 Update: Today, it happened. The Steamboat Willie Mickey Mouse right now is public domain, which means you can use the character whatever you want without getting copyrighted by Disney.",
       "language": "en",
@@ -469,54 +469,24 @@
         {
           "segment_index": 1,
           "time_range": "107.0s - 113.0s",
-          "query": "VISUAL: The video shows a map with an arrow pointing to Qatar for the FIFA World Cup in 2022. Then it shifts to another map highlighting Beijing for the Winter Olympics in 2022.AUDIO: There's a voiceover saying \"FIFA World Cup will be hosted once again in Qatar and the Winter Olympics will be hosted in Beijing China.\".If you have any other questions about this or want to discuss more about these events, feel free to let me know!"
+          "query": "**Visual:** The video shows a map highlighting Qatar with a red box around it, indicating the location of the FIFA World Cup. The map is blue with white lines representing geographical features. The text \"FIFA World Cup Qatar\" is written on the map. Below the map, the year \"2022\" is displayed in white text. The map then transitions to show Beijing, China, with a red dot marking the location of the Winter Olympics, and the text \"Winter Olympics Beijing\" appears.\n\n**Audio:** There is a voiceover in English saying, \"FIFA World Cup will be hosted once again in Qatar and the Winter Olympics will be hosted in Beijing China.\""
         },
         {
           "segment_index": 2,
           "time_range": "113.0s - 119.0s",
-          "query": "VISUAL: There's Mickey Mouse and Minnie Mouse standing together in front of a castle-like structure. They're both smiling and looking at the camera. The background is clear and shows some mountains in the distance.AUDIO: A man is speaking about copyright expiring on early Mickey Mouse cartoons in 2023 under current US law.If you have any other thoughts or questions about this, feel free to let me know!"
+          "query": "Visually, there's Mickey Mouse and Minnie Mouse standing together with a castle-like structure in the background. They're both dressed in their classic outfits - Mickey in his red shorts and yellow bow tie, and Minnie in her polka-dotted dress. The scene seems to be set outdoors during daytime.\n\nIn terms of audio, it appears to be a voiceover discussing copyright expiration for early Mickey Mouse cartoons under current laws. There aren't any other distinct sounds or music noted."
         },
         {
           "segment_index": 3,
           "time_range": "119.0s - 125.0s",
-          "query": "VISUAL: The video shows two cartoon characters standing in front of a castle-like structure. One character is wearing a red dress with white polka dots and has a bow on her head, while the other is dressed in black with a yellow bow tie. They seem to be posing for a picture. Then it cuts to some people in white suits working on a large rocket. Finally, there's a shot of the rocket launching into the sky.AUDIO: There's no clear speech or music in the audio. Just some background noise that might be from the rocket launch or the work environment. It could also be just general ambient noise.If you have any more questions about this or want to discuss something else related to videos, feel free to let me know!"
+          "query": "Visual: The video shows workers in white suits handling large cylindrical objects that appear to be rocket components. There's a structure resembling a launch pad or assembly area in the background. The scene is set outdoors under clear skies.\n\nAudio: No distinct speech, music, or sound effects can be heard. Just general ambient noise typical of an industrial setting."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 263.1726644039154
+      "processing_time": 163.58608984947205
     },
     {
-      "comment_index": 3277,
-      "video_id": "hOFRbjjjwCE",
-      "comment": "1:49 - The way he said Qatar.",
-      "language": "en",
-      "channel_name": "RealLifeLore",
-      "category": "documentary",
-      "likes": 30.0,
-      "comment_timestamp": 109.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "100.0s - 106.0s",
-          "query": "VISUAL: The video shows a space station with red solar panels against a starry night sky background. There's also a Chinese flag on the right side of the frame.AUDIO: Someone is speaking about China's plan to construct its first space station in 2022. It seems like they're explaining something related to the space station project.If you want to know more about this or have other questions, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "106.0s - 112.0s",
-          "query": "VISUAL: The video shows a map with an arrow pointing to Qatar for the FIFA World Cup in 2022. Then it shifts to another map showing Beijing for the Winter Olympics in 2022.AUDIO: There's some kind of narration or explanation about these events being hosted in Qatar and Beijing respectively. It seems like there might be background music too, but I can't really tell much from just that short clip.What do you think about hosting these big events?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "112.0s - 118.0s",
-          "query": "VISUAL: The video shows a map with \"Winter Olympics Beijing\" written on it, followed by Mickey Mouse and Minnie Mouse standing in front of a castle-like structure. They're both dressed in their classic outfits.MICROPHONE: There's some narration about Beijing China in 2023 and that the copyrights on the earliest Mickey Mouse cartoons will expire. It's just plain speech without any music or sound effects.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 228.25052666664124
-    },
-    {
-      "comment_index": 3278,
+      "comment_index": 2517,
       "video_id": "hOFRbjjjwCE",
       "comment": "1:43 are they gonna have tech support on that shuttle?",
       "language": "en",
@@ -529,24 +499,24 @@
         {
           "segment_index": 1,
           "time_range": "94.0s - 100.0s",
-          "query": "VISUAL: There's an astronaut floating outside a space station. The astronaut is wearing a white spacesuit with a helmet. You can see Earth below them. There's also a flag of India on the right side of the frame.AUDIO: Someone is speaking about India's first manned space mission expected to launch in 2021. It seems like they're talking about the fall of something related to this mission. Well, that's all I got from this short clip. What do you think about it?"
+          "query": "Visual: An astronaut is floating outside a space station against the backdrop of Earth and stars. The astronaut appears to be performing some task or maneuvering around. There's also an Indian flag visible on the right side.\n\nAudio: A male voice speaks about India launching its first manned space mission in 2021."
         },
         {
           "segment_index": 2,
           "time_range": "100.0s - 106.0s",
-          "query": "VISUAL: The video shows a space station with red solar panels against a starry night sky background. There's also a Chinese flag on the right side of the frame.AUDIO: Someone is speaking about China's plan to construct its first space station in 2022. It seems like they're explaining something related to the space station project.If you want to know more about this or have other questions, feel free to ask!"
+          "query": "Visual: The video shows an illustration of a space station with red solar panels extending from its sides. There's also a Chinese flag on the right side of the screen. The background is dark blue, representing outer space.\n\nAudio: A voice speaks about China planning to construct their first space station."
         },
         {
           "segment_index": 3,
           "time_range": "106.0s - 112.0s",
-          "query": "VISUAL: The video shows a map with an arrow pointing to Qatar for the FIFA World Cup in 2022. Then it shifts to another map showing Beijing for the Winter Olympics in 2022.AUDIO: There's some kind of narration or explanation about these events being hosted in Qatar and Beijing respectively. It seems like there might be background music too, but I can't really tell much from just that short clip.What do you think about hosting these big events?"
+          "query": "**Visual:** The video shows a map highlighting Qatar with an arrow pointing to it, indicating its location. The year \"2022\" is displayed prominently at the bottom left corner.\n\n**Audio:** There's a voiceover explaining that the FIFA World Cup will be hosted again in Qatar and mentioning something about the Winter Olympics being hosted elsewhere."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 210.00850224494934
+      "processing_time": 133.90913891792297
     },
     {
-      "comment_index": 3279,
+      "comment_index": 2518,
       "video_id": "hOFRbjjjwCE",
       "comment": "Proverbs 16:9 The mind of man plans his way, But the Lord directs his steps. Proverbs 19:21 Many plans are in a man’s heart, But the counsel of the Lord will stand.  The only thing that should concern us in the future is our salvation. The Bible tells us about heaven and hell. About God's love and our repentance of sin.   Philippians 2:10,11 so that at the name of Jesus every knee will bow, of those who are in heaven and on earth and under the earth, and that every tongue will confess that Jesus Christ is Lord, to the glory of God the Father.  Isaiah 45:23 I have sworn by myself, the word is gone out of my mouth in righteousness, and shall not return, That unto me every knee shall bow, every tongue shall swear.  Romans 14:11 For it is written, As I live, saith the Lord, every knee shall bow to me, and every tongue shall confess to God.  Revelation 22:1-5 And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.  2 In the midst of the street of it, and on either side of the river, was there the tree of life, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of the nations.  3 And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and his servants shall serve him:  4 And they shall see his face; and his name shall be in their foreheads.  5 And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever.",
       "language": "en",
@@ -559,24 +529,54 @@
         {
           "segment_index": 1,
           "time_range": "842.0s - 848.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 2,
           "time_range": "848.0s - 854.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 3,
           "time_range": "854.0s - 860.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+          "query": "Inference error: 'video_fps'"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.09991240501403809
+      "processing_time": 0.004334926605224609
     },
     {
-      "comment_index": 3280,
+      "comment_index": 2519,
+      "video_id": "hOFRbjjjwCE",
+      "comment": "In 2:04 i thought i heard \"space sex\"",
+      "language": "en",
+      "channel_name": "RealLifeLore",
+      "category": "documentary",
+      "likes": 27.0,
+      "comment_timestamp": 124.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "115.0s - 121.0s",
+          "query": "**Visual:** The video shows two iconic cartoon characters, Mickey Mouse and Minnie Mouse, standing in front of a castle. Mickey is on the right, wearing his classic red shorts and yellow bow tie, while Minnie is on the left, dressed in her red polka-dot dress with a matching bow. They appear to be posing for a photo. The castle in the background has multiple towers and spires, with a blue and white color scheme. The year \"2023\" is visible in the bottom left corner of the frame.\n\n**Audio:** There is a voiceover discussing copyright expiration for Mickey Mouse cartoons under current U.S. copyright law. The speaker mentions that the earliest Mickey Mouse cartoons will expire in 2024."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "121.0s - 127.0s",
+          "query": "Visual: The video shows a rocket being prepared for launch. There are people in white suits working on the rocket, adjusting and securing different parts. The rocket is large, white, and has a conical top. The background appears to be an industrial or launch facility setting. The rocket is then launched into the sky, leaving a trail of smoke and fire behind it. The sky is clear and blue during the launch.\n\nAudio: There is a male voice speaking in the background. The speech is in English and seems to be providing commentary or narration about the rocket launch. The tone of the voice is informative."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "127.0s - 133.0s",
+          "query": "Visual: The video shows a rocket launching. It's white with some markings, and there's a bright flame and smoke at the base as it ascends. The sky is a bit hazy. There are no people visible in the video. Audio: There's a voiceover in the background, but the content of the speech isn't clear from this short segment."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 294.28026008605957
+    },
+    {
+      "comment_index": 2520,
       "video_id": "hOFRbjjjwCE",
       "comment": "1:48 did he just say \"cutter\"?",
       "language": "en",
@@ -589,21 +589,21 @@
         {
           "segment_index": 1,
           "time_range": "99.0s - 105.0s",
-          "query": "VISUAL: The video shows an astronaut floating outside a space station against a backdrop of Earth and stars. There's also a red and yellow satellite with solar panels depicted in front of a Chinese flag. The year \"2021\" is visible at one point.The AUDIO: A man speaks about China's plans for constructing their first space station in 2022. He mentions \"and the following year in 2022.\" It seems like he might be talking about the timeline for these space projects.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's a white teddy bear floating in space. It has a black nose and eyes. The background is dark, representing space, with some stars visible. There's also a red and yellow satellite with solar panels, and a Chinese flag in the upper right corner. The year \"2022\" is shown in the bottom left corner. The teddy bear seems to be moving slightly, as if floating or drifting. The satellite is also moving, possibly orbiting.The audio is a male voice speaking in English. He says, \"and the following year in 2022 China plans on constructing their first very own space.\""
         },
         {
           "segment_index": 2,
           "time_range": "105.0s - 111.0s",
-          "query": "VISUAL: There's an image of a space station with red solar panels against a dark background. Then it transitions to a map highlighting Qatar in red with \"FIFA World Cup\" written next to it and an arrow pointing there. The year \"2022\" is also shown on the left side.AUDIO: A man is speaking about the FIFA World Cup being hosted again in Qatar and something else related to the Olympics. He seems to be explaining or narrating these events.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a map highlighting Qatar with a red box. There are satellite-like structures on the map, possibly representing communication or technology. The year \"2022\" is displayed in the bottom left corner. The map is blue with white lines indicating geographical features.\n\n**Audio:** There is a male voice speaking in English. The speech mentions that the FIFA World Cup will be hosted in Qatar again."
         },
         {
           "segment_index": 3,
           "time_range": "111.0s - 117.0s",
-          "query": "VISUAL: The video starts with a blue map showing China, highlighting Beijing for the Winter Olympics in 2022. Then it cuts to Mickey Mouse and Minnie Mouse standing in front of a castle-like structure, likely Disneyland or Disney World, with \"2023\" displayed on the left side.AUDIO: There's some kind of narration or announcement about the Winter Olympics being hosted in Beijing, China in 2023, followed by information about the copyrights on the earliest Mickey Mouse cartoons. It seems like there might be background music too, but I can't really tell from just these few seconds.What do you think about the video? Do you have any other questions related to it?"
+          "query": "**Visual:** The video shows a map of China with \"Winter Olympics Beijing\" written on it. Then, it transitions to Mickey and Minnie Mouse standing in front of a castle, likely from Disneyland or Disney World. Mickey is wearing his classic red shorts and yellow shoes, while Minnie is in her iconic polka-dotted dress. The background is a clear blue sky.\n\n**Audio:** There is a voiceover saying, \"Beijing China in 2023 the copyrights on the earliest Mickey Mouse cartoon.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 310.11224269866943
+      "processing_time": 209.97678422927856
     }
   ]
 }

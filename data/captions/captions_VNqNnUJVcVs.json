@@ -4,190 +4,9 @@
   "successful_comments": 20,
   "failed_comments": 0,
   "success_rate": "100.0%",
-  "processing_time": 6447.8338849544525,
   "comments": [
     {
-      "comment_index": 3956,
-      "video_id": "VNqNnUJVcVs",
-      "comment": "3:18 Michael, you can say that the Earth is thicc, it’s ok",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 90.0,
-      "comment_timestamp": 198.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "189.0s - 195.0s",
-          "query": "VISUAL: A man with glasses is sitting on a couch, talking and gesturing with his hands. The background shows some shelves with objects on them.AUDIO: There's a male voice speaking about \"Flat-Earther\" becoming synonymous with \"anti-science.\" It seems like he's explaining something related to these terms.What do you think about the topic? Do you have any other thoughts or questions regarding it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "195.0s - 201.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "201.0s - 207.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 74.50238752365112
-    },
-    {
-      "comment_index": 3954,
-      "video_id": "VNqNnUJVcVs",
-      "comment": "No one: Hitler at the end of WW2: 7:54",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 163.0,
-      "comment_timestamp": 474.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "465.0s - 471.0s",
-          "query": "VISUAL: There's an orange circle labeled \"Earth\" on a blue background. A green bar with the word \"muons\" is also present. The Earth rotates slowly. AUDIO: Someone is speaking about something being much shorter from their perspective than it appears to us. It seems like they're explaining a scientific concept related to muons and Earth. What do you think about that? Do you have any other questions regarding this?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "471.0s - 477.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "477.0s - 483.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 79.376784324646
-    },
-    {
-      "comment_index": 3951,
-      "video_id": "VNqNnUJVcVs",
-      "comment": "7:53 Hitler when he found out he was out of milk for cereal.",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 817.0,
-      "comment_timestamp": 473.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "464.0s - 470.0s",
-          "query": "VISUAL: There's an orange circle labeled \"Earth\" on a blue background. A green bar with the word \"muons\" is also present. The Earth seems to be moving or rotating slightly.AUDIO: Someone is speaking about how something appears shorter from their perspective compared to others' perception. It's just one person talking without any other sounds like music or sound effects. So, what do you think about muons? Do you know much about them?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "470.0s - 476.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "476.0s - 482.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 79.82422733306885
-    },
-    {
-      "comment_index": 3952,
-      "video_id": "VNqNnUJVcVs",
-      "comment": "8:12 Conclusion: Flat Earthers are going at 99.99999999991% the speed of light",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 505.0,
-      "comment_timestamp": 492.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "483.0s - 489.0s",
-          "query": "VISUAL: There's a long thin object on the left side against a black background. On the right side, there's a small white sphere. The scene doesn't change much throughout the 6 seconds.AUDIO: A man is speaking over some music. He says \"thick in the direction you traveled so earth is flat to them.\" What do you think about that? Do you have any other thoughts or questions related to it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "489.0s - 495.0s",
-          "query": "VISUAL: The video shows five Earths side - by - side against a black background. Each Earth has a velocity value written below it, ranging from V = 0 to V = 0.999999999991C. The first four Earths show increasing rotation speed, while the fifth one is mostly white with some blue patches, indicating extreme high speed.The AUDIO: There's a male voice speaking over music. He says \"But round to us it is ball shaped to some observers and flat.\" It seems like he might be explaining something related to the visuals, possibly about how different observers perceive the shape of an object based on its motion or distance. So, what do you think about this explanation? Do you have any other thoughts on the video?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "495.0s - 501.0s",
-          "query": "VISUAL: The video shows a series of Earths at different velocities relative to light speed, from V = 0 to almost V = c. Then it transitions to a rotating brain model against a black background.AUDIO: There's a voiceover saying \"To others there doesn't appear to be a single most correctest in all circumstances.\" It has a somewhat serious tone. What do you think about that statement?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 500.0066294670105
-    },
-    {
-      "comment_index": 3957,
-      "video_id": "VNqNnUJVcVs",
-      "comment": "7:00 *Soviet anthem starts playing*",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 76.0,
-      "comment_timestamp": 420.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "411.0s - 417.0s",
-          "query": "VISUAL: The video shows an image comparing Aristotle's proofs that the Earth is a globe with Voliva's refutations. There are illustrations like a ship disappearing over the horizon to prove the Earth's curvature, and a shadow during an eclipse. Then it transitions to a computer - generated scene of a satellite in space, emitting green beams.\n\nAUDIO: A man speaks about how science rejects theories if better ones fit more evidence. He seems to be explaining something related to scientific theory acceptance. So, what do you think about these kinds of scientific discussions?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "417.0s - 423.0s",
-          "query": "VISUAL: There's an image of a satellite with green laser beams shooting out from it. The satellite has blue panels on its sides. It seems to be floating against a dark background.AUDIO: A man is speaking about observations and mentions something about an \"egotistical obsession\" with them. He uses some strong language like \"our observations\" and \"egotistical obsession.\".If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "423.0s - 429.0s",
-          "query": "VISUAL: The video starts with large white letters spelling \"OUR\" on a black background. Then it shows a white circle that expands into an image of Earth from space, with a small white dot to its right. The scene is set against a dark backdrop.AUDIO: There's a male voice speaking throughout the video. He says something about a cosmic ray particle using scientific methods and concluding things. It seems like he's explaining or narrating something related to science.Does that help? If you have any other questions about the video, feel free to ask!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 484.2622101306915
-    },
-    {
-      "comment_index": 3955,
-      "video_id": "VNqNnUJVcVs",
-      "comment": "Mein füherer, the communist have arrived to kill us  Hitler: 7:54",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 113.0,
-      "comment_timestamp": 474.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "465.0s - 471.0s",
-          "query": "VISUAL: There's an orange circle labeled \"Earth\" on a blue background. A green bar with the word \"muons\" is also present. The Earth rotates slowly. AUDIO: Someone is speaking about something being much shorter from their perspective than it appears to us. It seems like they're explaining a scientific concept related to muons and Earth. What do you think about that? Do you have any other questions regarding this?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "471.0s - 477.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "477.0s - 483.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 92.53892683982849
-    },
-    {
-      "comment_index": 3950,
+      "comment_index": 5107,
       "video_id": "VNqNnUJVcVs",
       "comment": "3:18 Imagine if Michael, with a completely straight face, looking dead at the camera, said \" Like your mother\"",
       "language": "en",
@@ -200,54 +19,174 @@
         {
           "segment_index": 1,
           "time_range": "189.0s - 195.0s",
-          "query": "VISUAL: A man with glasses is sitting on a couch, talking and gesturing with his hands. The background shows some shelves with objects on them.AUDIO: There's a male voice speaking about \"Flat-Earther\" becoming synonymous with \"anti-science.\" It seems like he's explaining something related to these terms.What do you think about the topic? Do you have any other thoughts or questions regarding it?"
+          "query": "Visually, there's a man sitting on a couch with his hands gesturing while talking. The background seems to be indoors, possibly a living room or office space. There aren't any other significant objects visible.\n\nIn terms of audio, it's just the man speaking without any noticeable music, sound effects, or ambient noises. He appears to be explaining something."
         },
         {
           "segment_index": 2,
           "time_range": "195.0s - 201.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "query": "Visually, there's a man sitting on a brown leather couch. He's wearing glasses and a blue shirt. He's talking and using his hands to gesture while speaking. The background shows a green wall and some shelves with decorative items. There's also a small orange object on the couch next to him. The lighting is warm and the overall setting looks like an indoor living room or office space."
         },
         {
           "segment_index": 3,
           "time_range": "201.0s - 207.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "query": "Visually, the video shows a satellite view of a large body of water, likely an ocean or sea. There are landmasses visible, including a long bridge spanning across the water. The bridge appears to be a significant structure, possibly a major transportation link. The colors are mainly shades of blue for the water and various greens and browns for the land.\n\nIn terms of audio, there is a male voice speaking. The speech seems to be in English and is discussing something related to the bridge, mentioning Staten Island and Brooklyn. The tone of the speech is informative, possibly explaining the design or significance of the bridge."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 73.01416397094727
+      "processing_time": 229.81443095207214
     },
     {
-      "comment_index": 3953,
+      "comment_index": 5108,
       "video_id": "VNqNnUJVcVs",
-      "comment": "nobody: an unrelated german political figure: 7:53",
+      "comment": "7:53 Hitler when he found out he was out of milk for cereal.",
       "language": "en",
       "channel_name": "Vsauce",
       "category": "knowledge",
-      "likes": 217.0,
+      "likes": 817.0,
       "comment_timestamp": 473.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
           "time_range": "464.0s - 470.0s",
-          "query": "VISUAL: There's an orange circle labeled \"Earth\" on a blue background. A green bar with the word \"muons\" is also present. The Earth seems to be moving or rotating slightly.AUDIO: Someone is speaking about how something appears shorter from their perspective compared to others' perception. It's just one person talking without any other sounds like music or sound effects. So, what do you think about muons? Do you know much about them?"
+          "query": "Visually, there's an orange circle labeled \"Earth\" on a blue background. A green bar with the word \"muons\" is also present against the same blue backdrop. The scene seems to be focused on these elements without much movement or change.\n\nIn terms of audio, it appears to be silent throughout the six seconds. There's no speech, music, sound effects, or any other audible elements."
         },
         {
           "segment_index": 2,
           "time_range": "470.0s - 476.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "query": "Visually, there's an image with \"muons\" written on it. Then, large numbers appear - \"99.999999\". The background is dark blue. There aren't any people or moving objects shown. It seems to be focused on displaying these numbers and words."
         },
         {
           "segment_index": 3,
           "time_range": "476.0s - 482.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "query": "Visually, the video shows a black background with white numbers and a percentage symbol. The numbers are large and prominent, and the percentage symbol is smaller. There's also a small white dot moving around on the screen. The overall look is simple and somewhat abstract.\n\nAudio-wise, there's a voice speaking. The speech is clear and seems to be explaining something, possibly related to the visuals. There's no music or other sound effects, just the voice."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 84.35240507125854
+      "processing_time": 215.19885969161987
     },
     {
-      "comment_index": 3958,
+      "comment_index": 5109,
+      "video_id": "VNqNnUJVcVs",
+      "comment": "When someone ask Hitler if he likes jews : 7:54",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 787.0,
+      "comment_timestamp": 474.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "465.0s - 471.0s",
+          "query": "Visually, there's an image showing \"muons\" on one side and \"Earth\" on the other. The Earth is depicted with a grayish color and some small dots around it. There s no movement or action happening in the scene.\n\nAudio - wise, I can t really tell much because there isn't any spoken dialogue or background noise mentioned. It seems like just the visual elements without accompanying audio."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "471.0s - 477.0s",
+          "query": "Visual: The video shows a black background with white numbers appearing one after another. The first number is \"9\", followed by more digits like \".99\" and then \"99.99\". There's also a small white dot on the left side.\n\nAudio: No distinct audio elements can be heard apart from the sound of the numbers being displayed."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "477.0s - 483.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.75 GiB is free. Including non-PyTorch memory, this process has 15.79 GiB memory in use. Of the allocated memory 13.70 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 159.51484417915344
+    },
+    {
+      "comment_index": 5110,
+      "video_id": "VNqNnUJVcVs",
+      "comment": "8:12 Conclusion: Flat Earthers are going at 99.99999999991% the speed of light",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 505.0,
+      "comment_timestamp": 492.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "483.0s - 489.0s",
+          "query": "**Visual:** The video shows two white dots on a black background. One dot is larger and positioned to the left, while the other is smaller and to the right.\n\n**Audio:** There's no audible content in the audio portion of this video segment. It's completely silent."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "489.0s - 495.0s",
+          "query": "Visual: The video shows five Earths at different speeds labeled with velocities from zero to just under the speed of light. Each Earth is depicted differently based on its velocity - from normal size and shape at rest to being elongated or even appearing as a line when moving very fast.\n\nAudio: There's no discernible audio in this segment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "495.0s - 501.0s",
+          "query": "Visually, there's an image of a brain with four smaller Earth-like globes on it. Each globe has a different \"V\" value written below it - V = 0, V = 0.3C, V = 0.6C, and V = 0.9C. The background is dark.\n\nAudio-wise, I can't really tell much from just that short clip. There doesn't seem to be any distinct speech or music playing. It might be silent or very quiet. What do you think about these observations? Do you have any other thoughts or questions related to this video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 120.51920533180237
+    },
+    {
+      "comment_index": 5111,
+      "video_id": "VNqNnUJVcVs",
+      "comment": "7:00 *Soviet anthem starts playing*",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 76.0,
+      "comment_timestamp": 420.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "411.0s - 417.0s",
+          "query": "**Visual:** The video shows an image with text about Aristotle's proofs that the Earth is a globe and Voliva's refutations. There are diagrams illustrating concepts like the disappearance of a ship over the horizon, the curved shadow during eclipses, and the visibility of the sun and moon during eclipses.\n\n**Audio:** There is no audible speech or sound effects in the provided information."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "417.0s - 423.0s",
+          "query": "Visually, it seems like there's a satellite or some kind of space - related object with a green beam coming out of it. The background is dark, probably representing space. There are also some blue - colored rectangular shapes around it. The movement is mainly the beam shooting out from the object.Audibly, there's a male voice speaking. The speech is in English and seems to be about observations and an \"egotistical obsession\" with them."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "423.0s - 429.0s",
+          "query": "Visually, the video shows a black background with a white circle in the center. There are no other objects, people, or actions visible. The colors are mainly black and white. There's no movement in the video.\n\nAudio-wise, there's a male voice speaking. The speech is in English and seems to be explaining something related to a cosmic ray particle and a scientific method. There are no other sounds like music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 213.0794711112976
+    },
+    {
+      "comment_index": 5112,
+      "video_id": "VNqNnUJVcVs",
+      "comment": "07:54*",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 66.0,
+      "comment_timestamp": 474.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "465.0s - 471.0s",
+          "query": "**Visual:** The video shows a simple graphic. There's a green bar labeled \"muons\" on the left side, and a large orange circle labeled \"Earth\" on the right. The background is a gradient of blue shades. There's no movement or action in the video.\n\n**Audio:** The audio consists of a male voice speaking. The speech is in English and says, \"is from their perspective much much shorter than it appears to us.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "471.0s - 477.0s",
+          "query": "Visually, there's a white circle in the center of a black background. Then, large white numbers \"99\" appear on the right side of the screen. There are no people or other objects in the video. The movement is just the appearance of the numbers. The color scheme is mainly black and white. There's no sound in the audio part."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "477.0s - 483.0s",
+          "query": "Visually, there's a black background with white numbers scattered across it. There's also a small white dot near the bottom center. The scene doesn't seem to have any movement or action.\n\nAudio-wise, I can't really tell much from just these six seconds. It seems like there might be some kind of sound effect or music playing, but it's too short to confirm for sure."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 234.7846713066101
+    },
+    {
+      "comment_index": 5113,
       "video_id": "VNqNnUJVcVs",
       "comment": "Nobody:  Literally no one:  The history channel at 3AM: 2:13",
       "language": "en",
@@ -260,84 +199,54 @@
         {
           "segment_index": 1,
           "time_range": "124.0s - 130.0s",
-          "query": "VISUAL: There's a man with glasses and a beard. He seems to be talking or explaining something while holding an orange object. The background looks like some kind of room with windows and lights.AUDIO: It's just his voice speaking, no other sounds like music or sound effects. He's probably explaining something related to gravity and outer space based on the subtitles.What do you think about that? Do you have any other questions regarding the video?"
+          "query": "Oh, I'm sorry! But it seems like there's been an error with your message. The text you've provided doesn't seem to be related to any specific video or audio content that I can analyze for you. Could you please clarify or provide more details about the video or audio you're referring to? That way, I'll be able to assist you better."
         },
         {
           "segment_index": 2,
           "time_range": "130.0s - 136.0s",
-          "query": "VISUAL: There's a man with glasses and a beard looking directly at the camera. He seems to be talking or reacting to something. The background shows some kind of room with shelves and various items on them.AUDIO: A male voice is speaking. It sounds like he's saying \"miles in diameter is round or so we've been told.\" It has an explanatory tone.What do you think about it? Do you have any other questions related to this video?"
+          "query": "Well, I can't actually watch videos directly here, so I'll just describe based on your words. In the visual part, there's someone with glasses and a beard standing in front of some mirrors that have lights around them. The person seems to be talking or reacting to something. There might be other objects like shelves or furniture in the background too. As for the audio, it sounds like there's some kind of speech going on, maybe explaining something about miles or distance. It could also be a bit of a dramatic tone given how the person is reacting. What do you think? Do you want me to guess more details from these descriptions?"
         },
         {
           "segment_index": 3,
           "time_range": "136.0s - 142.0s",
-          "query": "VISUAL: There's a man with glasses and a beard talking directly to the camera. He seems to be in some kind of room or studio, there are lights around him and some objects like a red bag visible in the background.AUDIO: The man is speaking about gravity not being real and the Earth being flat, which is quite an unusual topic for discussion. It doesn't seem like there's any music or other sound effects, just his voice.If you have any thoughts on these topics or want to discuss more about it, feel free to share!"
+          "query": "Visually, there's a man with glasses and a beard in a room with some kind of equipment or machinery in the background. He seems to be speaking or reacting to something. The room has a somewhat industrial or technical feel to it, with lights around the edges of the windows or mirrors.\n\nIn terms of audio, there's a voice speaking, but the content of the speech isn't clear from this short segment. There are no distinct sound effects or music."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 443.95084857940674
+      "processing_time": 185.02779340744019
     },
     {
-      "comment_index": 3959,
+      "comment_index": 5114,
       "video_id": "VNqNnUJVcVs",
-      "comment": "All the German flat-earthers watching this video be like 7:54",
+      "comment": " @EmailBacon  8:44",
       "language": "en",
       "channel_name": "Vsauce",
       "category": "knowledge",
       "likes": 48.0,
-      "comment_timestamp": 474.0,
+      "comment_timestamp": 524.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "465.0s - 471.0s",
-          "query": "VISUAL: There's an orange circle labeled \"Earth\" on a blue background. A green bar with the word \"muons\" is also present. The Earth rotates slowly. AUDIO: Someone is speaking about something being much shorter from their perspective than it appears to us. It seems like they're explaining a scientific concept related to muons and Earth. What do you think about that? Do you have any other questions regarding this?"
+          "time_range": "515.0s - 521.0s",
+          "query": "Well, I'm not sure if there's anything specific to describe visually or audibly from just that short clip. It seems like it might be a bit too short for me to give a proper analysis. But hey, feel free to share more details so we can have a better conversation about it!"
         },
         {
           "segment_index": 2,
-          "time_range": "471.0s - 477.0s",
-          "query": "VISUAL: There's a white circle on a black background that starts to spin. Then some numbers appear next to it, getting bigger and more numerous.AUDIO: A man is speaking about being a cosmic ray proton traveling at a really fast speed. He uses scientific terms like \"cosmic ray\" and \"proton.\".If you have any other thoughts or questions about this video, feel free to share!"
+          "time_range": "521.0s - 527.0s",
+          "query": "Visual: The video shows a close-up view of a crossword puzzle with numbers on it. Then there's a man wearing glasses and a beard sitting indoors, talking to the camera.\n\nAudio: There is male speech from the man who appears to be explaining or discussing something related to the crossword puzzle shown earlier."
         },
         {
           "segment_index": 3,
-          "time_range": "477.0s - 483.0s",
-          "query": "VISUAL: There's a black background with white numbers \"99.999999999991%\" displayed prominently at first. Then it fades out and two small white dots appear on either side of a vertical line that seems to be moving towards the center.AUDIO: A man is speaking about something related to speed and distance, specifically mentioning \"one percent the speed of light\" and how Earth would appear at such a speed. The tone is informative. What do you think he might be explaining?"
+          "time_range": "527.0s - 533.0s",
+          "query": "**Visual:** A man with glasses and a beard is sitting in a chair. He's wearing a dark shirt. There's a clock and some books on a table behind him. The background is a plain wall. He seems to be talking and gesturing with his hands.\n\n**Audio:** The man is speaking, but the content of his speech isn't clear from this short segment. There are no other distinct sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 485.86272859573364
+      "processing_time": 218.43988251686096
     },
     {
-      "comment_index": 3962,
-      "video_id": "VNqNnUJVcVs",
-      "comment": "Video title: \"Is earth actually flat?\" . 0:14 \"Of course its globe\" . Flat earthers left the chat 😅",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 39.0,
-      "comment_timestamp": 14.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "5.0s - 11.0s",
-          "query": "VISUAL: A man with glasses and a beard is talking. Then there's a photo of two people standing under a \"Kansas\" sign on the side of a road. The background shows an open field and some buildings.AUDIO: There's just one person speaking throughout the video. It seems to be a man based on his voice. He's talking about Kansas being flatter than a pancake. What do you think about that?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "11.0s - 17.0s",
-          "query": "VISUAL: The video shows a page with scientific content about Kansas and pancakes. There's an image of a person working on a computer, some graphs, and a map highlighting Kansas. Then it transitions to a globe spinning against a black background.AUDIO: A man is speaking throughout the video. He says \"flatter than a pancake\" at one point and then corrects himself, saying \"Of course the earth is not flat. The earth is round.\""
-        },
-        {
-          "segment_index": 3,
-          "time_range": "17.0s - 23.0s",
-          "query": "VISUAL: The video shows an old-style illustration of ships sailing on a flat earth with dragons at its edges. There are question marks around it.AUDIO: A man is speaking about travelers falling off the edge if the earth was flat. He seems to be questioning whether this idea is right or wrong.So, what do you think about this? Do you have any other questions related to this?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 365.1535611152649
-    },
-    {
-      "comment_index": 3960,
+      "comment_index": 5115,
       "video_id": "VNqNnUJVcVs",
       "comment": "I love how Michael put a tinfoil hat on his head when he started talking about the evidence of a round earth being fabricated 5:53",
       "language": "en",
@@ -350,54 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "344.0s - 350.0s",
-          "query": "VISUAL: There's an image of Earth from space at first, showing continents and oceans clearly. Then it cuts to a man sitting on a couch, talking and gesturing with his hands.AUDIO: A male voice is speaking throughout, likely explaining something related to the visuals. There are no other distinct sounds like music or background noise.If you want to know more about what he might be saying or have any other questions, feel free to ask!"
+          "query": "Well, visually, there's someone sitting on a couch, talking animatedly with their hands moving around. The background has some clocks on shelves and a mirror. There's also an image of Earth from space shown at one point. As for the audio, it's just that person speaking, no other sounds like music or anything else. So, yeah, that's about it! What do you think? Do you have any other questions about the video?"
         },
         {
           "segment_index": 2,
           "time_range": "350.0s - 356.0s",
-          "query": "VISUAL: A man with glasses is sitting on a couch. He's wearing a dark shirt. There's a pillow behind him and some decorative items on a shelf in the background. The room has green walls.AUDIO: Someone is speaking about space exploration being a hoax. It seems to be a serious tone. What do you think about that?"
+          "query": "Well, I'm not sure if there's anything specific to describe here. It seems like it might be an empty space or just a blank area without any real content. So, for both the visual and audio descriptions, there really isn't much going on.Anything else you want to know about?"
         },
         {
           "segment_index": 3,
           "time_range": "356.0s - 362.0s",
-          "query": "VISUAL: There's a man sitting on a couch wearing glasses and a foil hat. He seems to be talking or reacting to something. The background shows a living room with some furniture and decor.AUDIO: A male voice is speaking about \"Big Globe\" and mentions space agencies, airlines, and globe manufacturers. It sounds like he might be discussing some conspiracy theories related to these entities.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visual: A man is sitting on a brown leather couch. He's wearing glasses and has a silver foil hat on his head. He's gesturing with his hands while speaking. The background shows a room with a green wall, a white column, and some furniture. There's also a large \"BIG GLOBE\" text overlaid on the image. The man seems to be talking about something related to \"BIG GLOBE\" and other topics like space agencies, airlines, and global manufacturers. The scene is indoors, and the lighting is relatively bright.\n\nAudio: The man is speaking, and his voice is clear. He's discussing topics like \"BIG GLOBE\", space agencies, airlines, and global manufacturers. There are no other sounds or music in the audio."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 372.08570885658264
+      "processing_time": 192.07149696350098
     },
     {
-      "comment_index": 3963,
-      "video_id": "VNqNnUJVcVs",
-      "comment": "5:22 Well, in the model of the flat Earth which one is currently in use, a lunar eclipse wouldn't be possible, because it occurs when Earth covers the Sun. In the model, it could never happen, because both and the Sun and the moon are above Earth.",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 38.0,
-      "comment_timestamp": 322.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "313.0s - 319.0s",
-          "query": "VISUAL: The video shows a webpage with an article titled \"TOP 10 REASONS Why We Know the Earth is Round\" Debunked. There's a picture on the left side that looks like a drawing or diagram related to the topic. The author is listed as Tausami, Head Editor and Flat Earth Editor.AUDIO: A man speaks about evidence for the Earth being round, mentioning circumnavigation. He seems to be addressing flat earth theorists who question scientific evidence. What do you think about these kinds of debates?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "319.0s - 325.0s",
-          "query": "VISUAL: The video shows an Earth from space with a red line indicating its path around the moon during a lunar eclipse. Then it transitions to show the moon partially covered in shadow, which is the round shadow cast by the Earth on the moon during the eclipse.AUDIO: There's no distinct speech or music in the audio. Just some background noise that could be ambient sounds related to the video content.If you have any other questions about this video or anything else, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "325.0s - 331.0s",
-          "query": "VISUAL: The video shows an image of Earth from space with a grid overlay on it. There's also a crescent moon visible to the left side. A yellow circle appears over the Earth towards the end.AUDIO: Someone is speaking about eclipses being made by a flat disk, time zones caused by a spotlight sun, and other related concepts.If you have any thoughts or questions about this analysis, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 394.7089021205902
-    },
-    {
-      "comment_index": 3961,
+      "comment_index": 5116,
       "video_id": "VNqNnUJVcVs",
       "comment": "6:23 thank you, even 9 years later I forget that ragebait and trolls could be behind this. I appreciate your inquisitive and confrontational approach",
       "language": "en",
@@ -410,24 +289,54 @@
         {
           "segment_index": 1,
           "time_range": "374.0s - 380.0s",
-          "query": "VISUAL: The video shows an old map at first, then it transitions to a logo with a flat Earth centered on the North Pole. There's also a globe-like shape with continents and stars around it. The colors mainly include blue for water areas and green for land areas.AUDIO: There is no specific speech or music mentioned in the audio part. It seems like there might be some background noise or ambient sounds that aren't clearly described.If you have any other questions about the video or need more details, feel free to ask!"
+          "query": "I'm sorry, but I can't analyze the video segment you mentioned. I don't have access to the video content. If you can provide more details or describe the video, I'd be happy to help!"
         },
         {
           "segment_index": 2,
           "time_range": "380.0s - 386.0s",
-          "query": "VISUAL: There's an image of a world map with a grid pattern on it. Then, it transitions to show the United Nations logo. After that, there's a man sitting on a couch, wearing glasses and a gray shirt, looking at something off - screen.AUDIO: Someone is speaking, saying \"So happens to be the projection used by the United Nations. Are these people for real?\" The tone seems somewhat skeptical or questioning.If you have any other thoughts about this video or want to discuss more, feel free to let me know!"
+          "query": "Visually, there's a circular globe-like image at the start, showing parts of the world in blue and green. Then, a man with glasses and a beard appears, sitting on a couch, talking directly to the camera. He's wearing a dark shirt and the background seems to be an indoor room with some furniture and decor.\n\nIn terms of audio, there's a man speaking, but no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "386.0s - 392.0s",
-          "query": "VISUAL: A man with glasses is sitting on a brown leather couch. He's wearing a dark shirt and has a watch on his left wrist. The background shows some shelves with items like clocks and an orange. There's also a green wall behind him.AUDIO: Someone is speaking, saying \"Probably not most of them but this is the crux of Poe's Law.\".If you want to talk more about this or have other questions, feel free to let me know!"
+          "query": "**Visual:** A man with glasses and a beard is sitting on a brown leather couch. He's wearing a dark blue shirt and has a microphone clipped to his shirt. He's gesturing with his hands while speaking. The background shows a green wall and a mirror reflecting part of the room. There are some objects on a shelf in the background, but they're not clearly visible.\n\n**Audio:** The man is speaking, and his voice is clear and audible. There are no other sounds or music in the audio."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 402.77776646614075
+      "processing_time": 281.58392453193665
     },
     {
-      "comment_index": 3964,
+      "comment_index": 5117,
+      "video_id": "VNqNnUJVcVs",
+      "comment": "Video title: \"Is earth actually flat?\" . 0:14 \"Of course its globe\" . Flat earthers left the chat 😅",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 39.0,
+      "comment_timestamp": 14.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "5.0s - 11.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short clip. There seems to be no visible action or scene described here. And for the audio, it doesn't say anything about what was heard either. So, hmm, I can't really give much detail on those aspects. Maybe you could try describing more?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "11.0s - 17.0s",
+          "query": "**Visual:** The video shows a globe spinning against a dark background. The continents are visible, with a focus on the Americas and parts of Europe and Africa. The globe rotates slowly, giving a sense of movement and the Earth's spherical shape.\n\n**Audio:** There is a voiceover that says, \"flatter than a pancake of course the earth is not flat the earth is round.\" The tone is informative and slightly humorous."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "17.0s - 23.0s",
+          "query": "Visually, there's an old-fashioned illustration showing ships on water with waves. There are also some question marks floating around it. The colors seem muted, like sepia tones. It looks like a still image rather than something moving.\n\nAudio - wise, I can't really tell much because it's just six seconds long. But if there was any sound, it might be related to the theme of the image, maybe some ocean or sailing noises. What do you think?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 168.86874127388
+    },
+    {
+      "comment_index": 5118,
       "video_id": "VNqNnUJVcVs",
       "comment": "4:14 someone needs to go back in time and deal with this guy",
       "language": "en",
@@ -440,84 +349,54 @@
         {
           "segment_index": 1,
           "time_range": "245.0s - 251.0s",
-          "query": "VISUAL: A man with glasses is sitting on a leather couch, talking and gesturing with his hands. There's an orange on a table behind him. The background has some shelves with objects on them.AUDIO: Someone is speaking about Wilbur Glenn Bolivar in 1906. It seems like they're discussing something related to him. So, what do you think about this? Do you know anything else about Wilbur Glenn Bolivar?"
+          "query": "Visually, there's a man sitting on a brown leather couch. He's wearing glasses and a dark blue shirt. The background shows a green wall and some shelves with items on them. There's also a black and white photo of a man in a suit shown briefly. The man on the couch seems to be talking or reacting to something, but it's not clear what exactly. There's also a small orange object on the couch near him. The lighting is relatively dim, creating a somewhat subdued atmosphere. There's no clear indication of any specific actions or movements from the man or other objects in the scene. The overall color palette is muted, with browns, greens, and blacks dominating."
         },
         {
           "segment_index": 2,
           "time_range": "251.0s - 257.0s",
-          "query": "VISUAL: There's an old black - and - white photo of a man sitting on a chair. He looks formal, wearing a suit with a bow tie. The background is dark and blurry.AUDIO: A male voice speaks about someone becoming head of a religious sect that ran a city. It seems to be a narration or explanation related to the image. So, what do you think about this? Do you have any other questions regarding it?"
+          "query": "I'm sorry, I can't analyze videos directly. But if you describe the video to me, I'd be happy to help! What do you see?"
         },
         {
           "segment_index": 3,
           "time_range": "257.0s - 263.0s",
-          "query": "VISUAL: There's an old black - and - white photo of a man in formal attire sitting on a chair. He looks serious and is looking straight at the camera.AUDIO: A male voice is speaking about someone named Voliva who believed the Earth was flat and invented something related to it.What do you think about that? Do you know anything else about Voliva or his beliefs?"
+          "query": "Sorry, I can't analyze that video for you because it's not available to me at the moment. If you could describe it or share more details about it, I'd be happy to help!"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 341.38069701194763
+      "processing_time": 133.33695650100708
     },
     {
-      "comment_index": 3965,
+      "comment_index": 5119,
       "video_id": "VNqNnUJVcVs",
-      "comment": "4:19 there's an egg in the backround",
+      "comment": "5:22 Well, in the model of the flat Earth which one is currently in use, a lunar eclipse wouldn't be possible, because it occurs when Earth covers the Sun. In the model, it could never happen, because both and the Sun and the moon are above Earth.",
       "language": "en",
       "channel_name": "Vsauce",
       "category": "knowledge",
-      "likes": 36.0,
-      "comment_timestamp": 259.0,
+      "likes": 38.0,
+      "comment_timestamp": 322.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "250.0s - 256.0s",
-          "query": "VISUAL: There's an old black - and - white photo of a man sitting on a chair. He looks formal, wearing a suit with a bow tie. The background is dark, making him stand out.AUDIO: A male voice speaks about Glenn Vollabe becoming head of a religious sect that ran something. It seems like he's explaining or narrating some historical context.If you want to know more about this person or the sect, feel free to ask me."
+          "time_range": "313.0s - 319.0s",
+          "query": "Visual: The video shows a webpage with an article titled \"TOP 10 REASONS Why We Know the Earth is Round.\" There's also some text about other planets being round too. A red circle highlights certain words like \"Earth\" and \"round.\"\n\nAudio: Someone is speaking, saying things like \"Other planets are round according to Flat Earth Theory, the Earth and other planets are the same type of celestial body. To put it another way, which one will take off to, the Earth is different.\""
         },
         {
           "segment_index": 2,
-          "time_range": "256.0s - 262.0s",
-          "query": "VISUAL: There's an old black - and - white photo of a man sitting on a chair. He looks formal, wearing a suit with a bow tie. Then it cuts to a modern scene where a guy is talking directly to the camera from a living room. He has glasses and a beard, and there's a couch behind him.AUDIO: The audio starts with some kind of narration or explanation about the city of Zion, Illinois and someone named Vavva believing the Earth was flat. It ends with a short pause or silence. So, what do you think about this? Do you have any other questions related to this?"
+          "time_range": "319.0s - 325.0s",
+          "query": "Well, in the video, visually, it shows a view of Earth from space. You can see the blue oceans and the white and brown landmasses. There's also a red line that seems to be a path or orbit around the Earth. In the audio, there's some kind of narration or explanation, but it's not very clear what it's saying. It's just a bit of a mumble. So, that's about it. What do you think about it?"
         },
         {
           "segment_index": 3,
-          "time_range": "262.0s - 268.0s",
-          "query": "VISUAL: A man is sitting on a couch, talking directly to the camera. He's wearing glasses and has short hair. The background shows some shelves with books or objects on them.AUDIO: There's a male voice speaking about someone enforcing flat earth teachings in schools in Zion. It seems like he's explaining something related to this topic.What do you think about these kinds of teachings?"
+          "time_range": "325.0s - 331.0s",
+          "query": "Well, visually, it looks like there's an image of Earth from space with some grid lines on it. There's also something that seems to be moving around the Earth, maybe representing the moon or another celestial body. And then there's a yellow circle that appears next to the Earth. Hmm. As for the audio, I can't really tell much because it's just described as \"a spotlight sun.\" So, not much information there. What do you think about these observations? Do you have any other thoughts or questions?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 373.11678743362427
+      "processing_time": 153.49584555625916
     },
     {
-      "comment_index": 3967,
-      "video_id": "VNqNnUJVcVs",
-      "comment": "Me every school morning: 0:45",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 35.0,
-      "comment_timestamp": 45.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "36.0s - 42.0s",
-          "query": "VISUAL: There's an animated globe on display. It rotates slowly, showing different continents like Europe, Asia, Africa, and Australia. The globe has green lines or markers around it.AUDIO: A man is speaking about gravity on a disk earth. He mentions that moving toward the edge would cause slight skewing and greater pushing force.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "42.0s - 48.0s",
-          "query": "VISUAL: The video shows a rotating globe with green lines on it. Then it cuts to an animated city scene at night with buildings and roads. There's also a colorful figure walking along the road.AUDIO: A man is speaking about something related to an angle and mentions his friend Nick from Yeti Dynamics. He says \"greater and greater angle back toward the center\" and then talks about how Nick put together a great thing. It seems like he might be explaining some kind of concept or project.If you want to talk more about this video or have other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "48.0s - 54.0s",
-          "query": "VISUAL: There's an animated figure running on a road between buildings at night. The sky is dark with stars. The buildings look like typical city structures, but they're not to scale compared to the person. The person has different colored body parts - blue head, pink arms, green legs, etc. They keep running forward.AUDIO: There's no distinct speech or music in the audio. Just some background noise that could be from the animation itself, like the sound of the running figure or the environment around it.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 393.5319712162018
-    },
-    {
-      "comment_index": 3966,
+      "comment_index": 5120,
       "video_id": "VNqNnUJVcVs",
       "comment": "At 0:45, we get to understand why flat earthers don't believe in gravity. LoL.",
       "language": "en",
@@ -530,54 +409,54 @@
         {
           "segment_index": 1,
           "time_range": "36.0s - 42.0s",
-          "query": "VISUAL: There's an animated globe on display. It rotates slowly, showing different continents like Europe, Asia, Africa, and Australia. The globe has green lines or markers around it.AUDIO: A man is speaking about gravity on a disk earth. He mentions that moving toward the edge would cause slight skewing and greater pushing force.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, the video shows a rotating globe. It's a 3D model of the Earth, with continents and oceans clearly visible. The colors are mainly blue for the oceans and various shades of green and brown for the landmasses. The globe rotates slowly, giving a sense of movement. There are no people or other objects in the video, just the Earth model against a black background.Audibly, there is a man speaking. His voice is clear and he seems to be explaining something, possibly related to the globe. There are no other sounds like music or sound effects."
         },
         {
           "segment_index": 2,
           "time_range": "42.0s - 48.0s",
-          "query": "VISUAL: The video shows a rotating globe with green lines on it. Then it cuts to an animated city scene at night with buildings and roads. There's also a colorful figure walking along the road.AUDIO: A man is speaking about something related to an angle and mentions his friend Nick from Yeti Dynamics. He says \"greater and greater angle back toward the center\" and then talks about how Nick put together a great thing. It seems like he might be explaining some kind of concept or project.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Visually, the video shows a 3D model of Earth from space, with a focus on North America. There are buildings and roads depicted on the surface. The camera then zooms in closer to the ground, showing a more detailed view of a cityscape with buildings and streets. The colors are mainly dark blues and greens for the Earth, with the city having lighter colors like beige and gray for the buildings and roads. There's no visible movement of people or objects in the city scene, just the static 3D models. The camera movement is smooth, starting with a wide shot of the Earth and then gradually moving closer to the city."
         },
         {
           "segment_index": 3,
           "time_range": "48.0s - 54.0s",
-          "query": "VISUAL: There's an animated figure running on a road between buildings at night. The sky is dark with stars. The buildings look like typical city structures, but they're not to scale compared to the person. The person has different colored body parts - blue head, pink arms, green legs, etc. They keep running forward.AUDIO: There's no distinct speech or music in the audio. Just some background noise that could be from the animation itself, like the sound of the running figure or the environment around it.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Visually, there's a colorful, stylized figure running on a road. The background shows a cityscape with tall buildings, some of which have lights on. The sky is dark, suggesting it's nighttime. The figure is in bright colors like pink, blue, and yellow, and it's moving quickly along the road. The buildings are various shades of gray and white, and there are some green areas that might be parks or fields. The overall scene has a somewhat surreal, computer - generated look.Audience: There's no clear audio in this segment, so there's nothing to describe in terms of speech, music, sound effects, or ambient sounds. It's just the visual part of the video."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 452.4330108165741
+      "processing_time": 310.24586486816406
     },
     {
-      "comment_index": 3969,
+      "comment_index": 5121,
       "video_id": "VNqNnUJVcVs",
-      "comment": "0:35  Flatearthers: BuT gRaViTY ls A hoAx",
+      "comment": "4:19 there's an egg in the backround",
       "language": "en",
       "channel_name": "Vsauce",
       "category": "knowledge",
-      "likes": 31.0,
-      "comment_timestamp": 35.0,
+      "likes": 36.0,
+      "comment_timestamp": 259.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "26.0s - 32.0s",
-          "query": "VISUAL: A man with glasses and a beard is holding an onion up to his face. He then puts down the onion and picks up a white plate. The background shows some shelves with various items on them.AUDIO: There's a male voice speaking throughout the video. It seems like he's explaining something related to density and shape, possibly about the onion and plate shown. There are no other distinct sounds or music in the audio.If you have any more questions about this video or anything else, feel free to let me know!"
+          "time_range": "250.0s - 256.0s",
+          "query": "I'm sorry, I can't analyze that video for you. But if you want to talk about it or have any other questions, feel free to let me know!"
         },
         {
           "segment_index": 2,
-          "time_range": "32.0s - 38.0s",
-          "query": "VISUAL: A man with glasses and a beard is holding up a white plate. He seems to be talking or explaining something. The background looks like an indoor setting, maybe a kitchen or dining area.AUDIO: There's a male voice speaking about gravity and thickness related to living in different areas. It's a bit hard to understand all the details from just these few seconds.What do you think about that? Do you have any other videos you want me to analyze?"
+          "time_range": "256.0s - 262.0s",
+          "query": "I'm sorry, but I can't analyze the video segment you mentioned. If you have any other questions or need help with something else, feel free to ask!"
         },
         {
           "segment_index": 3,
-          "time_range": "38.0s - 44.0s",
-          "query": "VISUAL: There's an animated globe on a flat surface. It rotates slowly, showing different continents like Asia, Europe, Africa, etc. The globe is dark blue with landmasses in green and brown. There are some green lines or arrows around it.AUDIO: A man is speaking about a \"disk earth\" and how it would skew towards the sun. He uses technical terms related to astronomy or physics.If you have any other thoughts or questions about this, feel free to let me know."
+          "time_range": "262.0s - 268.0s",
+          "query": "I'm sorry, I can't analyze videos directly. But if you describe the video to me, I'd be happy to help!"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 460.24728870391846
+      "processing_time": 121.54899549484253
     },
     {
-      "comment_index": 3968,
+      "comment_index": 5122,
       "video_id": "VNqNnUJVcVs",
       "comment": "2:22 - english is a funny language: wrongololong",
       "language": "en",
@@ -590,21 +469,141 @@
         {
           "segment_index": 1,
           "time_range": "133.0s - 139.0s",
-          "query": "VISUAL: There's a man with glasses and a beard looking directly at the camera. He seems to be talking or reacting to something. The background shows some kind of room with cabinets and a window. It looks like an indoor setting.AUDIO: A male voice is speaking. The words \"Or so we've been told\" can be heard clearly. There are no other distinct sounds or music in the audio.What do you think about this? Do you have any other questions related to it?"
+          "query": "Visually, there's a man with glasses and a beard in a room with some kind of equipment or machinery in the background. He seems to be speaking or reacting to something. The room has a somewhat industrial or technical feel to it, with various objects and possibly some lighting or screens.\n\nIn terms of audio, there's a man speaking. The speech includes phrases like \"or so we've been told\" and \"what if gravity isn't real, what if the earth.\" It sounds like he might be questioning or exploring some scientific or philosophical concepts."
         },
         {
           "segment_index": 2,
           "time_range": "139.0s - 145.0s",
-          "query": "VISUAL: A man with glasses and a beard is talking directly to the camera. He seems to be making some facial expressions while speaking. The background looks like an indoor setting, maybe a room or studio, with some equipment visible.AUDIO: There's a voiceover saying \"is in fact flat and science has been wrong all along it's a misconception.\" It's just one person speaking without any other sounds or music. So, what do you think about this? Do you have any thoughts on the content?"
+          "query": "**Visual:** The video shows a man with glasses and a beard standing indoors. He's wearing a dark shirt. There are some objects like shelves or cabinets behind him.\n\n**Audio:** A voice is speaking, saying \"flat and science has been wrong all along it's a misconception.\""
         },
         {
           "segment_index": 3,
           "time_range": "145.0s - 151.0s",
-          "query": "VISUAL: There's an image of Christopher Columbus with his name written below it. The background is dark with a globe-like shape behind him. Then there's a man sitting on a couch, talking and gesturing with his hands.AUDIO: A male voice is speaking about Christopher Columbus discovering that the Earth is round. It seems to be some kind of narration or explanation. So, what do you think about this? Do you have any other questions related to this?"
+          "query": "Visual: The video shows a man sitting on a couch, gesturing with his hands while speaking. There's a portrait of Christopher Columbus in the background, along with some decorative items on a shelf. The room has a green wall and a brown couch. The man is wearing glasses and a dark shirt. The overall lighting is warm and the scene appears to be indoors.\n\nAudio: The audio features a male voice speaking. The speech is clear and seems to be discussing Christopher Columbus. There are no other noticeable sound effects or music in the audio."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 487.3836681842804
+      "processing_time": 193.92772436141968
+    },
+    {
+      "comment_index": 5123,
+      "video_id": "VNqNnUJVcVs",
+      "comment": "0:35  Flatearthers: BuT gRaViTY ls A hoAx",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 31.0,
+      "comment_timestamp": 35.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "26.0s - 32.0s",
+          "query": "Well, I'm not sure if there's anything specific to describe about the visual or audio here. It seems like it might be missing some details? If you could give me more information or clarify what you're looking for, that would be great!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "32.0s - 38.0s",
+          "query": "Well, visually, there's a guy with glasses and a beard holding up a white plate. Then it cuts to an animated globe spinning against a black background. Hmm. As for the audio, I can't really tell much because it doesn't say anything.Does that help? If you have any other questions about the video or need more details, just let me know!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "38.0s - 44.0s",
+          "query": "Visually, there's a rotating globe-like object. It's dark blue with some landmasses in lighter colors. There are also some green dots on it. The object is rotating slowly, and it seems to be slightly tilted. There aren't any people or other objects in the video. The background is black, which makes the globe-like object stand out clearly.Audibly, there's a man speaking. The speech is in English, but I can't make out the exact words. There are no other sounds like music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 202.81634044647217
+    },
+    {
+      "comment_index": 5124,
+      "video_id": "VNqNnUJVcVs",
+      "comment": "4:44 why does Australia look like that? I live here... it really does not look like that... wtf bruh.",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 31.0,
+      "comment_timestamp": 284.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "275.0s - 281.0s",
+          "query": "Visually, the video shows a circular, stylized map of the world. It has a red and white color scheme, with a central area that seems to represent the Earth. There are some clouds and a sun depicted in the upper left corner. The map is divided into sections, possibly representing different continents or regions.\n\nIn terms of audio, there is a male voice speaking. The speech is in English and discusses the distance between the Sun and Earth, mentioning that it's only a few thousand miles away, not 93 million miles."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "281.0s - 287.0s",
+          "query": "Visually, the video shows a circular map with a red and white color scheme. There are some lines and labels on it, but it's not very clear what they represent. The background is dark, and there are some clouds or smoke-like shapes around the map. There are no people or other objects in the video.\n\nIn terms of audio, there's a man speaking. He says, \"He also believed that the Sun was only 32 miles across, not 860, 000.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "287.0s - 293.0s",
+          "query": "Oh, I'm sorry, but there's no information about any video here for me to analyze. Could you please upload or describe the video so that I can help?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 249.72204637527466
+    },
+    {
+      "comment_index": 5125,
+      "video_id": "VNqNnUJVcVs",
+      "comment": "6:46 does anyone else think that picture how it looks like a bird",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 29.0,
+      "comment_timestamp": 406.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "397.0s - 403.0s",
+          "query": "**Visual:** The video shows a collection of screenshots of web pages scattered on a wooden surface. The web pages appear to be related to the Flat Earth Society, with visible titles and text snippets. The background is a light brown wooden texture, and the web pages are in various colors like white, blue, and gray.\n\n**Audio:** There is a male voice speaking in English. The speech is clear and the tone seems to be informative or explanatory. The content of the speech is not fully transcribed here, but it appears to be discussing something related to the visuals, possibly about the Flat Earth Society or similar topics."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "403.0s - 409.0s",
+          "query": "**Visual:** The video shows a black-and-white image of a flat earth map labeled \"THE FLAT EARTH MAP REAL WORLD.\" It includes various geographical features like continents and oceans depicted on a circular layout.\n\n**Audio:** There is a voiceover saying, \"flat theories are predominantly ad hoc explanations excuses made up on.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "409.0s - 415.0s",
+          "query": "I'm sorry, I can't actually analyze videos directly. But if you describe the content to me, I'd be happy to help!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 236.6686429977417
+    },
+    {
+      "comment_index": 5126,
+      "video_id": "VNqNnUJVcVs",
+      "comment": "dear flat earther you really need this 8:17",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 28.0,
+      "comment_timestamp": 497.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "488.0s - 494.0s",
+          "query": "Well, in the visual part, it looks like there are some kind of spherical objects, maybe planets or something similar, lined up in a row. They seem to be getting closer to the camera as the video progresses. The background is black, which makes the spheres stand out. There's also a vertical line that moves along with the spheres, kind of like a guide or something.In the audio part, there's a man speaking. He seems to be talking about something related to the spheres, maybe explaining their movement or some other aspect. The speech is clear and easy to understand.What do you think about this video? Do you have any other questions?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "494.0s - 500.0s",
+          "query": "Well, I'm not sure if there's anything specific to describe about the video based on just these two frames. There doesn't seem to be much going on visually or audibly from what you've shown me. Maybe you could give me more details?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "500.0s - 506.0s",
+          "query": "Visual: A man with glasses and a beard is sitting in front of a camera. He's wearing a dark shirt and there are some books and a clock on a table behind him. The background is a plain wall. The man is talking and gesturing with his hands. The lighting is dim, creating a somewhat dramatic effect. There's a black and white image of a brain in the background.\n\nAudio: The man is speaking, and the words \"CROSSWORD PUZZLE\" are prominently displayed in white text over the image of the brain. The speech seems to be related to the crossword puzzle theme."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 392.08518052101135
     }
   ]
 }

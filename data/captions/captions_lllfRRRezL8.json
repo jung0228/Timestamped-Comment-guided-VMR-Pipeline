@@ -1,0 +1,99 @@
+{
+  "video_id": "lllfRRRezL8",
+  "total_comments": 3,
+  "successful_comments": 3,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 20460,
+      "video_id": "lllfRRRezL8",
+      "comment": "0:40 When I offer someone a bite of my food to try it and they decline…",
+      "language": "en",
+      "channel_name": "SkySports",
+      "category": "sports",
+      "likes": 8.0,
+      "comment_timestamp": 40.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "31.0s - 37.0s",
+          "query": "**Visual:** The video shows two shirtless men standing on a stage or platform with a crowd behind them. One man is wearing striped shorts and has tattoos on his back. There's also a man in a red shirt holding a microphone near one of the shirtless men. Several other people are visible in the background, some taking photos or videos.\n\n**Audio:** A voice is speaking, saying \"this is an immense fight a huge fight for your career.\" The tone suggests excitement or anticipation about the upcoming event."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "37.0s - 43.0s",
+          "query": "**Visual:** The video shows a group of men standing together on a stage or platform. One man is shirtless with tattoos visible on his back. Another man in a red shirt appears to be speaking into a microphone while gesturing towards the shirtless man. There are other individuals around them, some holding phones up, possibly taking pictures or recording. The background has logos and text that seem related to an event.\n\n**Audio:** A male voice is speaking, saying \"fight for the sport.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "43.0s - 49.0s",
+          "query": "**Visual:** The video shows two shirtless men standing close to each other at what appears to be a weigh-in or pre-fight event for UFC. One man has tattoos on his back and arms, while the other is bald with a serious expression. There are several people around them, including someone taking photos or videos with a phone. The background includes some text that seems related to UFC events.\n\n**Audio:** A voice can be heard saying something like \"that if you disrespect the person's kindness and take it as a.\" It's unclear who is speaking or what they're fully saying due to the short duration."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 234.2932665348053
+    },
+    {
+      "comment_index": 20461,
+      "video_id": "lllfRRRezL8",
+      "comment": "1:39 that girl is HOT damn",
+      "language": "en",
+      "channel_name": "SkySports",
+      "category": "sports",
+      "likes": 2.0,
+      "comment_timestamp": 99.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "90.0s - 96.0s",
+          "query": "**Visual:** The video shows a group of people on stage or at an event. There's a shirtless man with tattoos standing prominently, being interviewed by someone holding a microphone labeled \"BODYARMOR Sports Drink.\" Other individuals, including women in bikinis, are also present. The setting seems to be related to sports or fitness.\n\n**Audio:** Someone is speaking, saying something like \"I wanna give a shout out to a young fighter from Lafayette Louisiana, Peyton Murphy keep fighting.\" It sounds motivational and supportive."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "96.0s - 102.0s",
+          "query": "Visual: The video shows two shirtless men with tattoos standing on a stage or platform. One is wearing a black cap and flexing his muscles while being interviewed by someone holding a microphone labeled \"BODYARMOR Sports Drink.\" There are other people around them, including women in athletic wear. The background has logos like UFC and BODYARMOR Sports Drink.\n\nAudio: A man speaks into the microphone, saying something like \"you're the real fighter good luck to you\" followed by \"tomorrow sir Dustin Poirier ladies and gentlemen.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "102.0s - 108.0s",
+          "query": "Visually, there's a group of people on stage at what seems to be a UFC event. There are men and women dressed casually or in sportswear. Some are holding cameras, capturing the moment. The background has \"UFC\" logos and other related branding. One man is shirtless, raising his arms in celebration. Others around him look happy and engaged.\n\nAudibly, someone is speaking, thanking everyone for coming out. There's applause from an unseen crowd, indicating approval or excitement."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 240.21056604385376
+    },
+    {
+      "comment_index": 20462,
+      "video_id": "lllfRRRezL8",
+      "comment": "Matthew 23:12 it is written.. Its time to humble you down my son...",
+      "language": "en",
+      "channel_name": "SkySports",
+      "category": "sports",
+      "likes": 1.0,
+      "comment_timestamp": 1392.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1383.0s - 1389.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1389.0s - 1395.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1395.0s - 1401.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.006018877029418945
+    }
+  ]
+}

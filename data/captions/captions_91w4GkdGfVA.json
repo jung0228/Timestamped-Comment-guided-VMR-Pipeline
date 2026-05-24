@@ -1,0 +1,129 @@
+{
+  "video_id": "91w4GkdGfVA",
+  "total_comments": 4,
+  "successful_comments": 4,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 14366,
+      "video_id": "91w4GkdGfVA",
+      "comment": "You can tell it by his face at 4:49",
+      "language": "en",
+      "channel_name": "baldandbankrupt",
+      "category": "travel",
+      "likes": 15.0,
+      "comment_timestamp": 289.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "280.0s - 286.0s",
+          "query": "Visual: The video shows a busy street scene with various shops on one side and parked cars along the other. There's a man wearing sunglasses and a white shirt with blue patterns standing near the center. He seems to be waving or gesturing towards the camera. In the background, there are trees providing some shade.\n\nAudio: Someone is speaking, likely addressing an audience directly. It sounds like they're concluding something, saying \"that's the end of it\" and then mentioning \"fit me leg a jball.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "286.0s - 292.0s",
+          "query": "Visual: A man wearing sunglasses and a patterned shirt is seen on a busy street. There are cars, buildings with signs, and some greenery like trees visible. The scene appears to be during daytime.\n\nAudio: Someone says \"key until next time guys thanks for joining me.\" It's a casual, friendly tone."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "292.0s - 298.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 123.64817690849304
+    },
+    {
+      "comment_index": 14367,
+      "video_id": "91w4GkdGfVA",
+      "comment": "1:46",
+      "language": "en",
+      "channel_name": "baldandbankrupt",
+      "category": "travel",
+      "likes": 1.0,
+      "comment_timestamp": 106.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "97.0s - 103.0s",
+          "query": "Visually, there's a man walking down a busy street. He's wearing sunglasses and a light-colored shirt with a pattern on it. The background shows various shops and buildings, some with signs that seem to be in different languages. There are also other pedestrians around him.\n\nIn terms of audio, someone is speaking, but I can't make out the exact words from just these six seconds. It seems like they might be talking about something related to the man or the scene, given their tone and the context."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "103.0s - 109.0s",
+          "query": "**Visual:** The video shows an outdoor scene with lush greenery on both sides of a pathway. There's a building partially visible through the trees. A man wearing sunglasses and a patterned shirt is walking along the path. He seems to be talking or interacting with someone off-camera.\n\n**Audio:** Someone is speaking in English, asking if there's someone behind them and if they're still here."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "109.0s - 115.0s",
+          "query": "**Visual:** The video shows a busy street scene with several motorcycles parked along the side. There's a man wearing sunglasses and a white shirt with a pattern standing on the sidewalk. Another person is partially visible to his left. In the background, there are buildings, some trees, and more vehicles moving around.\n\n**Audio:** Someone is speaking, but it's difficult to make out specific words due to the background noise. There are also some distant sounds that could be traffic or other city noises."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 252.90677189826965
+    },
+    {
+      "comment_index": 14368,
+      "video_id": "91w4GkdGfVA",
+      "comment": "2:24",
+      "language": "en",
+      "channel_name": "baldandbankrupt",
+      "category": "travel",
+      "likes": 0.0,
+      "comment_timestamp": 144.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "135.0s - 141.0s",
+          "query": "Visual: The video shows an entrance to \"Court View\" with a signboard above it. There's some decorative architecture around the entrance. People can be seen walking near the building. The scene appears to be set on a busy street.\n\nAudio: Traffic noise is prominent throughout the clip, including car horns honking. Some voices are heard speaking, likely pedestrians or drivers."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "141.0s - 147.0s",
+          "query": "Visual: The scene shows an urban street setting with buildings, vehicles like cars and motorcycles, and pedestrians. There's a person wearing a red shirt and orange vest standing on the sidewalk. Another individual is partially visible in the foreground.\n\nAudio: Someone is speaking, saying \"I DON'T HAVE 100 RUPEES WHAT'S YOUR NAME?\" in English."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "147.0s - 153.0s",
+          "query": "**Visual:** The video shows a busy street scene with various people walking around. There's a man wearing an orange vest and red turban standing out among others. A truck labeled \"SAGUN\" is parked nearby. Buildings line the street, some with visible signage.\n\n**Audio:** Someone is speaking, saying something like \"GIVE ME 100 RUPEES!\" It seems to be a demand or request."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 206.64306640625
+    },
+    {
+      "comment_index": 14369,
+      "video_id": "91w4GkdGfVA",
+      "comment": "1:45",
+      "language": "en",
+      "channel_name": "baldandbankrupt",
+      "category": "travel",
+      "likes": 0.0,
+      "comment_timestamp": 105.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "96.0s - 102.0s",
+          "query": "Visual: The video shows a man walking down a busy street. He's wearing sunglasses, a white shirt with blue floral patterns, and a white cap. There are various shops and signs around him, including some that look like they sell food or drinks. People can be seen in the background going about their day.\n\nAudio: The main audio is someone speaking, saying \"yes\" at one point. There's also laughter heard towards the end. Ambient city noises, like traffic and chatter from pedestrians, fill the background."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "102.0s - 108.0s",
+          "query": "Oh， it seems like there's been some confusion here. I'm sorry， but I can't actually analyze or describe videos since I don't have that capability. However， if you could tell me more about what you're looking for specifically， such as details about objects， people， or any particular elements in the video， I'd be happy to help based on your description. What else would you like to know？"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "108.0s - 114.0s",
+          "query": "**Visual:** The scene shows an outdoor urban setting with buildings, parked motorcycles, and trees lining the street. There's a man wearing sunglasses and a patterned shirt walking towards the camera. Another person in orange is partially visible on the left side.\n\n**Audio:** Someone is speaking, likely talking to the person filming or someone nearby. It seems like casual conversation without any background music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 172.64723587036133
+    }
+  ]
+}

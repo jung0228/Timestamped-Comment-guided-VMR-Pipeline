@@ -1,0 +1,609 @@
+{
+  "video_id": "7yDmGnA8Hw0",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 10950,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": "1. You run across with lab assistant: 2:00 2. You run back: 3:00 3. The Professor and Janitor run across: 13:00 4. Lab assistant runs back: 15:00 5. You and lab assistant run across: 17:00",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 286.0,
+      "comment_timestamp": 780.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "771.0s - 777.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "777.0s - 783.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "783.0s - 789.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.028798818588256836
+    },
+    {
+      "comment_index": 10951,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": "3:27 I died of laughter because of the animation of the zombies falling",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 145.0,
+      "comment_timestamp": 207.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "198.0s - 204.0s",
+          "query": "Visually, there's an animated scene with two characters crossing a bridge at night. One character has curly hair and is wearing white clothes, while the other is blue with long ears and also dressed in white. The background shows a dark sky and some mountains. There s a clock on the right side showing time passing.As for the audio, it seems to be silent during these six seconds. So, no speech or music can be heard.What do you think about this kind of animation?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "204.0s - 210.0s",
+          "query": "**Visual:** The scene shows four characters walking on a narrow rope bridge at night. The sky is dark with some clouds visible. There's a large moon shining brightly behind them. The bridge seems to be over a deep gorge or chasm. One character is wearing white clothes, another has blue hair, one is in red overalls, and the last one looks like a skeleton. The time \"17:00\" is displayed prominently in red on the right side.\n\n**Audio:** No specific dialogue or speech can be heard. However, there might be some ambient nighttime sounds like wind rustling through trees or distant animal noises, though it's not clear from just these few seconds."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "210.0s - 216.0s",
+          "query": "Visual: The video shows two animated characters. One has an afro hairstyle and is wearing a white lab coat while holding scissors. The other character is blue with long hair and also dressed in a white lab coat. They seem to be interacting near some kind of object that resembles a bottle or container.\n\nAudio: There's no distinct speech or dialogue heard during these six seconds. Instead, there's background music playing throughout."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 225.836669921875
+    },
+    {
+      "comment_index": 10952,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": "2:58 UMM, EXCUSE ME, YA PROBABLY SHOULDN’T HAVE MADE THE ZOMBIES AT ALL",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 135.0,
+      "comment_timestamp": 178.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "169.0s - 175.0s",
+          "query": "Sure! So, visually, there's an animated scene with two characters walking on a bridge at night. One character is wearing orange overalls and has curly hair, while the other looks like a ghostly figure. The background is dark blue, and there s a clock showing \"8:08\" in white. There s also some kind of structure or building visible in the distance.Audibly, it seems pretty quiet—no distinct sounds that stand out.What do you think about these observations? Do you have any specific questions or thoughts?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "175.0s - 181.0s",
+          "query": "Visually, there's an animated scene with two stick - like characters on a bridge at night. One is blue and holding a flashlight, while the other is orange. There are clouds around them, and it looks spooky. The background is dark blue, suggesting nighttime. The bridge seems to be made of wood or metal.\n\nAudio - wise, I can't really tell much about the audio since no specific details were given for that part. So, I'm not sure if there's any speech, music, or sound effects. It could just be silence. What do you think? Do you have more information about the audio?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "181.0s - 187.0s",
+          "query": "Visually, there's a dark blue night sky with some clouds. In the foreground, two silhouetted figures stand on opposite sides of a narrow bridge over a chasm. The bridge is lit up, creating a stark contrast against the dark background. The text \"4 MINUTES LEFT\" appears prominently above them. The scene has a sense of urgency due to the time constraint.\n\nAudibly, there s no distinct speech or dialogue. Instead, it seems like soft, melancholic music plays throughout the clip, adding to the tense atmosphere created by the visual elements."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 306.81322741508484
+    },
+    {
+      "comment_index": 10953,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": "Lol! The professor at 0:53😂",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 119.0,
+      "comment_timestamp": 53.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "44.0s - 50.0s",
+          "query": "Visually, there are three cartoon characters standing side by side against a dark background. The character on the left is blue with long hair, labeled \"2 MINUTES\". The middle one has curly brown hair and is labeled \"1 MINUTE\". The third character, on the right, is light blue with a round head and is labeled \"5 MINUTES\". They all seem to be pointing upwards.\n\nIn terms of audio, it's just plain speech without any music or sound effects. It mentions something about a janitor being slower and needing five minutes."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "50.0s - 56.0s",
+          "query": "Visually, there are four cartoon characters standing on a flat surface against a dark background. Each character has different features like hair color and clothing, and they have numbers above them indicating time durations - \"2 MINUTES\", \"1 MINUTE\", \"5 MINUTES\", and \"10 MINUTES\". The characters seem to be interacting with each other or reacting to something off-screen.\n\nAudio-wise, there's some kind of narration or dialogue going on, but it's not clear from just these six seconds. There might also be some background music playing softly."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "56.0s - 62.0s",
+          "query": "Visually, there's an animated character that looks like a stick figure with a cloud for hair. It has a sad face and is holding a stick. The background seems dark, maybe night time. There are some drawings on the ground, including a triangle labeled \"4 MINUTES\" and other shapes.Next, in terms of audio, it starts with some kind of sound effect or music playing softly in the beginning. Then someone says something about zombies catching up to you in just over seventeen minutes."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 284.4291441440582
+    },
+    {
+      "comment_index": 10954,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": "the fastest picks up the slowest and runs with him across the bridge which should be about 2:30 mins. the fastest returns. 3:30 mins picks up the second slowest. 6 mins. returns again. 7 mins. runs across with the second faster 10 mins.   does that one counts?  P.S when I say picks up, I mean litterly picks up the guy and runs with him. because of the weight, I add 1:30 mins for each time.",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 108.0,
+      "comment_timestamp": 90.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "81.0s - 87.0s",
+          "query": "Well, I'm not sure if there's actually an escape plan for everyone in time. But from what I can tell, it seems like we're looking at some kind of abstract or surreal scene. There might be some figures or shapes that could represent different entities or concepts related to time. And then, there's probably some sort of sound effect or music playing in the background to enhance the mood. What do you think about it? Do you have any other ideas on how they could escape in time?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "87.0s - 93.0s",
+          "query": "Visually, there's an animated scene with three characters walking on a bridge at night. The background is dark blue, suggesting it s nighttime. One character holds a lantern, which gives off light. The bridge looks like a simple wooden structure.\n\nAudio - There seems to be no distinct audio elements mentioned here. It could just be the sound of footsteps or other ambient noises from the animation."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "93.0s - 99.0s",
+          "query": "Visually, there's an animated scene with three characters walking on a bridge at night. The sky is dark blue, and there are some clouds. One character has green hair and glasses, another has curly black hair, and the third one seems to be holding lanterns. They're all moving forward on the bridge. There's also a silhouette of someone walking across a tightrope over a chasm in the background.Audibly, it's mostly silent except for some faint ambient nighttime sounds like wind or distant noises. What do you think about this kind of animation?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 218.28937530517578
+    },
+    {
+      "comment_index": 10955,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": "1:57 *you can't befreind the zombeis* me who would do that.",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 108.0,
+      "comment_timestamp": 117.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "108.0s - 114.0s",
+          "query": "Sure! So, visually, there's an animated scene with a character on a bridge. The background is dark blue, and the bridge has wooden planks. There s also some kind of rope or line involved. As for the audio, it seems like there might be some dialogue happening, but I can t really make out specific words.What do you think about that?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "114.0s - 120.0s",
+          "query": "Oh, I see! So, visually, there's an animated character with curly hair standing on a bridge. The background is dark blue, which gives it kind of a spooky vibe. There s also some text that pops up saying \"Pause the video now if you want to figure it out for yourself!\".As for the audio, hmm, it seems like there might be some sort of narration or dialogue going on, but without actually hearing it, I can't really say for sure.Anything else you noticed? Let me know!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "120.0s - 126.0s",
+          "query": "Visual: The screen is black with white text saying \"Pause the video now if you want to figure it out for yourself!\". Then it changes to another black screen with \"Answer in:\" followed by a countdown from 3 to 1.\n\nAudio: There's no distinct sound effect or music heard during these frames. Just the voiceover saying the instructions."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 184.65149760246277
+    },
+    {
+      "comment_index": 10956,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": "I'm sure a lot of people must have already commented so but the solution in the video is not the only one. It also works if the Lab Assistant (instead of the Internship student) comes back with the lantern (I'm referring to this part of the solution: 2:37 )",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 87.0,
+      "comment_timestamp": 157.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "148.0s - 154.0s",
+          "query": "Visually, there's an animated scene with two characters on a bridge at night. One character is holding a lantern. The background has dark blue tones and some white shapes that might be mountains or cliffs. There are also other figures in the distance, possibly on another bridge or platform. The overall color scheme is quite muted, mainly blues and whites.\n\nIn terms of audio, I can't really tell much from just these six seconds. There doesn't seem to be any distinct speech or music playing. It could be silent for all we know based on this short clip. What do you think about it? Do you have any other thoughts or questions regarding this video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "154.0s - 160.0s",
+          "query": "**Visual:** The video shows two animated characters crossing a bridge over a dark abyss. One character is blue with long hair, and the other has darker skin and an afro hairstyle. They both carry lanterns. As they cross, the time displayed on the screen changes from \"1:58\" to \"2:09\". The background is dark, emphasizing the bridge and the characters.\n\n**Audio:** There's no distinct dialogue or speech heard. Instead, there's soft, ambient music playing throughout the scene."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "160.0s - 166.0s",
+          "query": "Visually, there's an animated scene with two characters on a bridge at night. One character is holding a lantern. The background has mountains and a clock showing time passing. There s also another character walking towards them from the left side.\n\nAudio - There seems to be some kind of narration or dialogue happening, but it's not clear enough to transcribe precisely. It might be related to the characters' actions or the situation they're in."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 242.338125705719
+    },
+    {
+      "comment_index": 10957,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": "As mentioned at 0:52, the professor is holding on to the ropes so --> he doesn't need lights. When he is on the other side he can shout.",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 73.0,
+      "comment_timestamp": 52.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "43.0s - 49.0s",
+          "query": "Sure! So, visually, there's an animated scene with different characters standing against a dark background. You can see labels above them showing how long it takes for each character to do something—like \"1 minute\" or \"5 minutes.\" The characters have distinct appearances, like one is blue with long hair and another has curly hair.The audio seems pretty quiet, maybe just some faint background noise? What do you think about that?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "49.0s - 55.0s",
+          "query": "Sure! Let's break it down into two parts:.Visual: The video shows four cartoon characters standing on a road at night. Each character has different colored hair and clothing, with labels indicating how long they've been waiting - \"2 MINUTES\", \"1 MINUTE\", \"5 MINUTES\", and \"10 MINUTES\". They all look surprised or confused.Audio: There is no specific dialogue mentioned here, so I can't describe any spoken words. However, there might be some background music playing to set the scene for their wait."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "55.0s - 61.0s",
+          "query": "Visually, there's an animated character that looks like a cloud with legs and arms. It has a sad face and is holding a stick. There are also some drawings on the ground showing numbers and shapes. The background is dark blue, kind of like night time.The audio seems to be just plain sound without any specific words or music. It might be some sort of ambient noise related to the setting, maybe wind or something similar.What do you think about it? Do you have any other questions regarding this video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 334.3344657421112
+    },
+    {
+      "comment_index": 10958,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": "3:28 The zombies turned out to be one massive monster!",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 46.0,
+      "comment_timestamp": 208.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "199.0s - 205.0s",
+          "query": "Oh, okay! So, visually, there's an animated scene with two characters crossing a bridge over a gorge. One character is blue with long hair, and the other has curly hair and wears a white coat. The background shows a dark blue sky and some mountains. There s also a clock on the right side showing \"15:08\". As for the audio, it seems like there might be some kind of narration or dialogue happening, but I can t really make out specific words from just that short clip.What do you think about it? Any thoughts or questions?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "205.0s - 211.0s",
+          "query": "Visually, there's an animated scene with two characters on opposite cliffs separated by a bridge made of ropes. One character is holding scissors and cutting the ropes just before they fall off the cliff. The background shows a dark sky with clouds and a bright moon. There are also some trees at the base of the cliffs.The audio seems to be silent during these six seconds. So, no specific sounds or music can be heard.Does that help? If you have any other questions about it, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "211.0s - 217.0s",
+          "query": "Well, I'm not seeing any actual video here to analyze. But if we're just talking about what's described in your message, it seems like there might be some kind of title card or credits screen with names for narration, music, animation, etc. And then there's a short bit of music playing at the end. What do you think? Do you have more details about the video itself that could help me give a better analysis?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 215.15351247787476
+    },
+    {
+      "comment_index": 10959,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": "LOL his face at 1:55",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 35.0,
+      "comment_timestamp": 115.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "106.0s - 112.0s",
+          "query": "Visually, there's an animated scene with two characters on a bridge at night. One character has red eyes and is wearing black, while the other has blue eyes and is dressed in white. They seem to be facing off or interacting in some way. The background is dark blue, suggesting it s nighttime.The audio doesn t really have any distinct sounds that stand out from the visuals. It seems pretty quiet overall.What do you think about the animation style?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "112.0s - 118.0s",
+          "query": "Visually, there's an animated character with curly hair, wearing glasses and a white coat, standing on a bridge. The background is dark blue. There are also some red zombie-like figures appearing from behind the bridge. The scene seems to be set at night or in a dark environment.\n\nAudio-wise, it looks like there might be some kind of narration or dialogue happening, but I can't really make out any specific words just from this short clip. It could be a voiceover explaining something about the situation or characters."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "118.0s - 124.0s",
+          "query": "Visual: The video shows white text on a black background. It says \"Pause the video now if you want to figure it out for yourself!\" followed by \"Answer in: 2\". There's no movement or other objects visible.\n\nAudio: No specific audio is described here. Just the text mentioned visually."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 171.53773188591003
+    },
+    {
+      "comment_index": 10960,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": "3:13 y would the girl go back to save the boy when the boy could just run a minute on his own ???",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 22.0,
+      "comment_timestamp": 193.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "184.0s - 190.0s",
+          "query": "**Visual:** The video shows an animated scene with two characters on a bridge over a dark chasm. One character is standing on the left side of the bridge, while another is further along towards the right end. There's a red arrow pointing downwards from above, indicating danger or a warning. The background is dark blue, suggesting it might be nighttime.\n\n**Audio:** There doesn't seem to be any distinct audio elements like speech, music, or sound effects that can be clearly identified within these six seconds. It appears to be mostly silent."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "190.0s - 196.0s",
+          "query": "Sure! So, visually, there's a dark scene with two figures on a rickety bridge over cliffs. The sky is really dark, almost black, with some clouds moving quickly. One figure has a lantern, which gives off a bit of light. There s also a clock showing \"13:01\" at the top right corner. As for the audio, it seems pretty quiet—no clear speech or music, just that faint sound from the lantern.Does that help? Let me know if you want to dive deeper into any part!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "196.0s - 202.0s",
+          "query": "Visually, there's an animated scene with two characters on a snowy mountain. One has curly hair and is wearing white clothes, while the other is blue with long ears and also dressed in white. They seem to be running towards something or someone off-screen. The background shows a dark blue sky and a wooden fence. There s also a clock showing time passing quickly.\n\nAudio - There isn t any specific dialogue or music mentioned here. Just the sound of their footsteps and maybe some wind noise from the movement."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 208.8124349117279
+    },
+    {
+      "comment_index": 10961,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": "0:57 I THOUGHT THE CATCH HERE WAS , THE PROFESSOR SAID YOU HAVE TO CROSS THE BRIDGE OVER 17 MINUTES , NOT UNDER 17 MINUTES , SO I THOUGH THAT WAS THE TRICK",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 17.0,
+      "comment_timestamp": 57.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "48.0s - 54.0s",
+          "query": "**Visual:** The video shows four cartoon characters standing side by side against a dark background. Each character has a label above them indicating how long they need to do something - \"2 minutes\", \"1 minute\", \"5 minutes\", and \"10 minutes\". They all have distinct appearances like different hair styles and clothing.\n\n**Audio:** There is no discernible dialogue or sound effects in this short clip. It's just the visual with the labels showing time durations."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "54.0s - 60.0s",
+          "query": "Visually, there are four cartoonish characters. One has long black hair and is wearing a white shirt with blue pants. Another has an afro hairstyle and is dressed in a white lab coat over blue pants. A third character has curly hair and is in red overalls. The fourth one looks like a stick figure with a cloud-shaped head, holding a stick. There's also some text on the ground that says \"MINUTES\" followed by numbers and symbols. The background seems to be dark, possibly night time.The audio doesn't seem to have any distinct sounds or speech. It might just be silent or very quiet. What do you think about these observations? Do you notice anything else in the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "60.0s - 66.0s",
+          "query": "Sure! So, in just minutes, you only have that much time to get everything done. It seems like there's not enough time for all tasks or activities. Maybe you could prioritize some things first? What do you think about it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 135.09541940689087
+    },
+    {
+      "comment_index": 10962,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": "2:32 \"Hurry up b8tch\"",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 15.0,
+      "comment_timestamp": 152.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "143.0s - 149.0s",
+          "query": "Visually, there's an animated scene with two blue figures standing on platforms, one with long hair and the other with curly hair. There are also some black silhouettes in the background. The setting seems to be indoors or in a dimly lit area. The movement is mainly from these characters' gestures.\n\nAudio-wise, it starts with a countdown \"0:01\" followed by some kind of sound effect that could be a beep or a click. Then, there's a voiceover saying something like \"you and the lab assistant.\" It ends with more of that clicking/beeping sound."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "149.0s - 155.0s",
+          "query": "Sure! So, visually, there's an animated scene with two characters on a bridge at night. One character has blue hair and is holding lanterns, while the other has curly black hair. The background is dark with some light coming from behind them. There s also a timer showing time passing quickly.As for the audio, it seems like there might be some kind of narration or dialogue happening, but I can t really make out the exact words because they re too fast to understand clearly.What do you think about that? Any thoughts or questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "155.0s - 161.0s",
+          "query": "Visually: The scene shows two characters on a bridge at night. One character is holding a lantern. There's also a clock visible showing time passing. The background is dark blue, suggesting it's nighttime.The audio: There seems to be some kind of narration or dialogue happening, possibly related to the characters' actions with the lantern. It could be instructions or commentary about their situation."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 256.31605076789856
+    },
+    {
+      "comment_index": 10963,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": "1:50 makes me want to set this up as a DnD encounter and see if they do any of those things",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 15.0,
+      "comment_timestamp": 110.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "101.0s - 107.0s",
+          "query": "Well, visually, there's an animated scene with four characters on a bridge. They seem to be in some sort of danger situation. The background is dark blue, which gives it a bit of a spooky feel. There's also a light source that illuminates them from behind.As for the audio, I can't really tell much because it seems like there might not be any distinct sounds or speech in those six seconds. It could just be silent or have very faint noises.If you want me to analyze more about this video, feel free to give me another clip!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "107.0s - 113.0s",
+          "query": "Well, visually, there's an animated scene with two characters on a bridge at night. One character has curly hair and is wearing a black outfit, while the other one seems to be in white or light-colored clothes. They're both standing still on the bridge. The background is dark blue, which gives it that nighttime vibe.The audio? Hmm, I can't really tell much from just these six seconds. There doesn't seem to be any distinct speech, music, or sound effects. It might be completely silent.What do you think about this? Do you have any other thoughts or questions related to the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "113.0s - 119.0s",
+          "query": "Visually, there's an animated character with dark hair and glasses standing on a bridge at night. The background is dark blue, suggesting it s nighttime. There s also another figure in red with glowing eyes appearing from behind the first character. The scene has a spooky vibe.\n\nAudio - wise, I can t really tell much because it s just described as \"silence.\" So, not much to say about that part. What do you think about the visual?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 163.3691852092743
+    },
+    {
+      "comment_index": 10964,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": "Actually, even if it took you a second to solve the problem, you're dead cause you don't have 17 minutes you only have 16:59",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 14.0,
+      "comment_timestamp": 1019.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1010.0s - 1016.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1016.0s - 1022.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1022.0s - 1028.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.004397153854370117
+    },
+    {
+      "comment_index": 10965,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": "Simpler Solution: Professor and Janitor walk across, 10:00 You run across to get the lantern, 11:00 You run back, 12:00 You run back across with the girl, 14:00",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 11.0,
+      "comment_timestamp": 840.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "831.0s - 837.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "837.0s - 843.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "843.0s - 849.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.004670858383178711
+    },
+    {
+      "comment_index": 10966,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": " @kouckz3856   sory, but in this case you're wrong, the video at 2:07 is the same situation, you and the lab assisstant go, but you only count the slower time that is the lab assistant, you don't add the two times, otherwise no solution would the workable.",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 10.0,
+      "comment_timestamp": 127.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "118.0s - 124.0s",
+          "query": "Visual: The video shows white text on a black background. It says \"Pause the video now if you want to figure it out for yourself!\" followed by \"Answer in: 2\". There's no movement or other objects visible.\n\nAudio: No specific audio is described here. Just the text mentioned visually."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "124.0s - 130.0s",
+          "query": "Sure! So, visually, there's an animated character running on a dark background. There s also a clock with a red second hand ticking. The scene is pretty simple, just these two main elements. For the audio, it seems like there might be some kind of narration or explanation happening, but I can t really tell much from that short clip.What do you think about it?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "130.0s - 136.0s",
+          "query": "Well, visually, there's an animated character with curly hair and big eyes. It seems to be reaching out or doing something with its arm. Then it turns into silhouettes standing on platforms against a dark background. There are four of them, all looking different.The audio has some kind of narration or explanation going on. But without more details, I can't really say much about the specific words or tone.What do you think about these observations? Do they match what you saw?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 193.75496220588684
+    },
+    {
+      "comment_index": 10967,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": "i think you the slowers 3 of them should hide behind those small ice mountains in the 0:33 and the faster should drive the zombies by putting the majority of there clothes and the light  in the other side the drive them to the other side of the bridge then come back before the zombies catch him because they are a bit slower than a human and hide with the others  since the wind is coming from the right side to the left (due to the clouds moouvment) the zombies don't going to be able to detect the smell of the 4 people hiding they going to smell just the cloths guiding them also as it's dark they don't going to be able to see them and as they going to reach the position of the bridge around 17min to 22min to reach the bridge they going fall which gives the other people enough time before they freeze to reach to lab. hhhhh what do you think?",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 9.0,
+      "comment_timestamp": 33.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "24.0s - 30.0s",
+          "query": "Well, let's break it down. Visually, there are these cartoonish figures that look like zombies or something. They're all black with red accents on their faces and clothes. There's also a person standing in front of them wearing white and blue. And then there's another figure to the right who looks kind of like a plant or a tree with a face. The background is dark, so it gives off a spooky vibe. Oh, and they seem to be moving towards the person in white.Now for the audio - hmm, I can't really tell much about the audio from just this short clip. It might be some sort of eerie music playing in the background, but I'm not sure.What do you think? Do you have any other thoughts or questions about this video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "30.0s - 36.0s",
+          "query": "Visually, there's an animated scene with four characters standing on platforms against a dark background. One character has long black hair, another is bald with a white shirt, one has blue skin and orange overalls, and the last looks like a cloud with a face. The scene then shifts to a mountainous landscape at night, where two small figures are walking along a narrow bridge between jagged peaks. The sky is dark and cloudy.\n\nAudio - There seems to be no distinct audio mentioned here, just the visual elements described above."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "36.0s - 42.0s",
+          "query": "Visually, there's an animated scene with a rope bridge over a dark gorge. The bridge is lit up brightly against the dark background. On either side of the gorge are jagged mountain peaks. There are also some dark clouds floating around. In terms of movement, it seems like someone might be crossing or about to cross the bridge.\n\nAudio-wise, I can't really tell much from just these six seconds. It could be that there's no dialogue or music playing at all during this short clip."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 305.5321931838989
+    },
+    {
+      "comment_index": 10968,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": "You can't do that since the bridge can only hold 2 people max since it's an old and weak bridge 1:09 but i see your point just carrying the professor and janitor so you can run faster and eventually reach the bridge in just 4 minutes",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 9.0,
+      "comment_timestamp": 69.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "60.0s - 66.0s",
+          "query": "Sure! So, in just minutes, you only have that much time to get everything done. It seems like there's not enough time for all tasks or activities. Maybe you could prioritize some things first? What do you think about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "66.0s - 72.0s",
+          "query": "Well, visually, there's an animated character with curly hair holding a knife. Then we see three characters walking on a bridge at night. The background is dark blue. In terms of audio, it seems like there might be some kind of narration or dialogue going on, but I can't really tell from just these six seconds. What do you think about that? Do you have any other thoughts on the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "72.0s - 78.0s",
+          "query": "Well, visually, there's an animated scene with two characters. One has curly black hair and is wearing white clothes, while the other one is blueish-green and seems to be holding something. There's also another character who looks like a tree or plant. The background is dark, almost like it's nighttime. And then there's that old lantern that they're using to light up the area. Oh, and there's a bridge-like structure above them too.As for the audio, I can't really tell much from just these six seconds. It might be some kind of ambient noise related to the dark setting, maybe a faint whispering or something? But honestly, not sure.What do you think about this? Do you have any other thoughts on the video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 225.85630297660828
+    },
+    {
+      "comment_index": 10969,
+      "video_id": "7yDmGnA8Hw0",
+      "comment": "3:35 huh. i didn't know people can't walk with their eyes closed",
+      "language": "en",
+      "channel_name": "TEDEd",
+      "category": "knowledge",
+      "likes": 8.0,
+      "comment_timestamp": 215.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "206.0s - 212.0s",
+          "query": "**Visual:** The video shows an animated scene with two characters on opposite cliffs separated by a narrow bridge at night. One character is holding scissors near the bridge while the other stands on the far cliff. There's also a clock showing \"17:00\" in red above them.\n\n**Audio:** No specific audio details provided for this segment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "212.0s - 218.0s",
+          "query": "Visual: The video shows two animated characters against a plain background. One character has curly hair and is wearing a white shirt with black pants, holding scissors. The other character is blue with long hair and also dressed in white.\n\nAudio: There's no distinct speech or dialogue heard during these six seconds. Instead, there seems to be some kind of music playing softly in the background."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "218.0s - 224.0s",
+          "query": "**Visual:** The video shows a white background with various texts displayed prominently. There's a large \"TED Ed\" logo at the top, followed by smaller texts like \"Lessons Worth Sharing,\" \"Narration by Alex Gendler,\" \"Music by WORKSHOP OF CHINESE MUSIC,\" and more. At the bottom, there are options to \"Nominate an Educator,\" \"Recommend an Animator,\" and \"Submit a Lesson.\" The overall design is clean and minimalistic.\n\n**Audio:** The audio features a soft, ambient instrumental piece playing throughout the entire clip. It has a calm and soothing quality without any distinct lyrics or dialogue."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 294.2867991924286
+    }
+  ]
+}

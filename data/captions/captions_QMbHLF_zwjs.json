@@ -4,10 +4,9 @@
   "successful_comments": 20,
   "failed_comments": 0,
   "success_rate": "100.0%",
-  "processing_time": 7821.710016965866,
   "comments": [
     {
-      "comment_index": 3850,
+      "comment_index": 3973,
       "video_id": "QMbHLF_zwjs",
       "comment": "@1:08  when he said, \"Our approach was sort of a sytematicological sequence...\" my bullshit detector went off.",
       "language": "en",
@@ -20,174 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "59.0s - 65.0s",
-          "query": "VISUAL: There's a person on a boat with a shark in a blue container. The water is visible around them. The person seems to be handling or moving the shark. The scene looks like it might be near a body of water.AUDIO: I can't really tell much from just these six seconds. It could be some kind of narration or explanation about the situation, but there isn't enough information to say for sure.If you want, we could try analyzing more of the video together?"
+          "query": "Visually, there's a person in a blue shirt standing on a boat. The boat is on water, and the water looks calm. The person seems to be holding something, maybe a rope or a piece of equipment. The background is mostly water, with some ripples visible. There are also some colorful icons floating around, like a hand, a light bulb, and a gear. The overall color scheme is dark with bright accents from the icons. There's also a word \"OBSERVATORY\" in the middle of the icons, which is in white and stands out against the dark background. The movement is mainly the person on the boat and the ripples in the water. The icons are just floating around without much movement. The scene gives off a calm and somewhat mysterious vibe, like it's part of a larger story or concept."
         },
         {
           "segment_index": 2,
           "time_range": "65.0s - 71.0s",
-          "query": "VISUAL: There's an image of a shark on a white background. It looks like it might be a drawing or a photo with some artistic touch. The shark is facing left. There's also a graph line that seems to represent data, maybe related to the shark or something else.AUDIO: Someone is speaking about their approach being systematic and logical. It's just one person talking without any other sounds like music or sound effects. What do you think they were discussing?"
+          "query": "Visual: The video shows an airplane flying against a clear sky. There's also some text on the screen that reads \"Vox Observatory\" and other information about Jon Hoech being the director of husbandry operations at Monterey Bay Aquarium.\n\nAudio: A calm background music is playing throughout the video."
         },
         {
           "segment_index": 3,
           "time_range": "71.0s - 77.0s",
-          "query": "VISUAL: There's an underwater scene with a large shark swimming. A person is also visible underwater near the shark. The water looks blue and clear.AUDIO: Someone is speaking about things leading up to success at the Monterey Bay Aquarium, mentioning designing a tank. It seems like they're explaining something related to the aquarium's operations or history.If you have any other thoughts or questions about it, feel free to share!"
+          "query": "Visual: The video shows a large shark swimming underwater. There's also a person in the water, possibly a diver, near the shark. The water is a deep blue color, and the shark moves gracefully through it. The scene is focused on the shark and the diver's interaction.\n\nAudio: The audio features a man speaking. He seems to be explaining something, but the specific words are not clear from this short segment. There are no other distinct sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 418.89031195640564
+      "processing_time": 214.32525300979614
     },
     {
-      "comment_index": 3855,
-      "video_id": "QMbHLF_zwjs",
-      "comment": "2:30 phineas and ferb actually taught me that.",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 15.0,
-      "comment_timestamp": 150.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "141.0s - 147.0s",
-          "query": "I'm sorry, I can't actually watch videos or analyze them directly. But if you describe the video to me, I'd be happy to help with your analysis! So, go ahead and tell me about it."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "147.0s - 153.0s",
-          "query": "I'm sorry, I can't actually watch videos or analyze them directly. But if you describe the video to me, I'd be happy to help with your analysis! So, go ahead and tell me about it."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "153.0s - 159.0s",
-          "query": "I'm sorry, I can't actually analyze videos or audio segments like that. But if you describe them to me, I'd be happy to help! What do you see in the video? And what's in the audio?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 156.57890820503235
-    },
-    {
-      "comment_index": 3856,
-      "video_id": "QMbHLF_zwjs",
-      "comment": "What kind of animal is shown being confronted by a shark at the 4:51 mark in the video??",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 11.0,
-      "comment_timestamp": 291.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "282.0s - 288.0s",
-          "query": "VISUAL: There's a large shark swimming in an aquarium tank with blue water. People are watching it from outside the tank, some holding up phones to take pictures or videos.AUDIO: A man is speaking about introducing the general public to a live white shark, mentioning that it took a huge, carefully planned system.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "288.0s - 294.0s",
-          "query": "VISUAL: There's an underwater scene with a large shark swimming among other fish. The water is deep blue. The shark moves gracefully through the water.AUDIO: A woman speaks over some background music. She says something about keeping a white truck alive and how the sharks didn't quite fit somewhere. It seems like she might be talking about an aquarium or similar place where these animals are kept.If you have any thoughts on this or want to discuss more about it, feel free to share!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "294.0s - 300.0s",
-          "query": "VISUAL: The video shows an underwater scene with a large shark swimming. There's also some text on screen about a great white shark exhibit at an aquarium.AUDIO: Someone is speaking, but it's not clear what they're saying exactly. It could be related to the shark or something else entirely.If you have any other thoughts or questions about this, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 392.1382505893707
-    },
-    {
-      "comment_index": 3852,
-      "video_id": "QMbHLF_zwjs",
-      "comment": "Skip to 5:18. You're welcome.",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 34.0,
-      "comment_timestamp": 318.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "309.0s - 315.0s",
-          "query": "VISUAL: A great white shark is swimming in an aquarium tank with blue water. There's also some other fish visible in the background.AUDIO: There's a woman speaking in English over the video. The words \"it was dead\" can be heard clearly at two different times during the short clip.If you have any more questions about it or want to discuss something else related, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "315.0s - 321.0s",
-          "query": "VISUAL: There's a shark swimming in an aquarium with blue water. Then it turns around and swims away. After that, there's a woman talking against a red background.AUDIO: The woman is speaking. There's no other sound except for her voice. So, what do you think about this resource? Do you have any questions or thoughts on it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "321.0s - 327.0s",
-          "query": "VISUAL: There's a woman with dark hair wearing a black sleeveless top against a red background. She seems to be talking or presenting something.AUDIO: The main thing heard is someone speaking about the Biodiversity Heritage Library, mentioning it's made up of museums and libraries agreeing on something. There's no other distinct sound like music or sound effects. So, what do you think about this library?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 324.91418862342834
-    },
-    {
-      "comment_index": 3854,
-      "video_id": "QMbHLF_zwjs",
-      "comment": "LPS Harley Quinn it says why at 4:10",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 15.0,
-      "comment_timestamp": 250.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "241.0s - 247.0s",
-          "query": "VISUAL: There's a large whale shark swimming in an aquarium tank. A scuba diver is nearby, observing it. People on land are watching through glass, some taking pictures.AUDIO: Someone is speaking about whale sharks and pelagic sharks, mentioning their ability to swim long distances if they have enough space in a tank. It seems like there might be background music or other ambient sounds too.If you want to talk more about this video or anything else related, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "247.0s - 253.0s",
-          "query": "VISUAL: There's a map showing the route of a tagged great white shark off California. The map has a yellow line tracing the shark's path, with red dots marking its locations. California is labeled on the right side, and Los Angeles and San Diego are also marked. The Gulf of California is shown at the bottom right.AUDIO: A woman speaks about how sharks like to avoid obstructions and change directions freely. She mentions that faster moving sharks have certain preferences. It seems she might be talking about the behavior of these sharks based on their tagging data.If you want to know more about great white sharks or anything else related, feel free to ask!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "253.0s - 259.0s",
-          "query": "VISUAL: There's a shark swimming in clear blue water. It moves gracefully through the water. Then we see two people on a boat, one holding a blue net or something similar, and they seem to be interacting with the shark. The scene is set outdoors during daytime.AUDIO: There's some kind of narration or explanation about sharks having trouble with walls when put in a tank. It's not very clear though.What do you think about these sharks? Do you have any other questions related to them?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 539.0216121673584
-    },
-    {
-      "comment_index": 3857,
-      "video_id": "QMbHLF_zwjs",
-      "comment": "3:23  \"We actually snuck in...\" Its sneaked, not snuck.",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 9.0,
-      "comment_timestamp": 203.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "194.0s - 200.0s",
-          "query": "VISUAL: There's a shark swimming in an aquarium tank with a blue background. People are watching it from outside the tank. Some are taking pictures or videos.AUDIO: A woman is speaking about the Monterey Bay Aquarium succeeding at something no one else could do, but it took a toll on the sharks.If you want to talk more about this video or have other questions, feel free to let me know."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "200.0s - 206.0s",
-          "query": "VISUAL: The video shows a close - up of an article from SFGATE about a white shark at an aquarium. There's some text highlighted in yellow that says \"That led to a 4-inch scrape. The aquarium's first white shark sustained a similar wound.\" Then it cuts to a picture of a shark with red lines overlaid on its body, possibly indicating movement or data collection. The name Sean Van Sommeran is shown along with \"Pelagic Shark Research Foundation.\".AUDIO: A woman speaks over the visuals. She mentions visible sores on the shark from bumping into tank sides and something about sneaking in with \"foot tar.\" It seems like she might be talking about research or observations related to the shark. What do you think about sharks? Have you seen any interesting ones?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "206.0s - 212.0s",
-          "query": "VISUAL: There's an image of a shark with some kind of graph or data visualization overlaid on it. The background is light-colored. The shark looks like it might be swimming. There's also some text at the bottom that says \"Sean Van Sommeran\" and \"Pelagic Shark Research Foundation.\".AUDIO: Someone is speaking about taking pictures of sharks as they were beginning to attract something. It seems like there's a bit of a pause between the words. What do you think about the research being done?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 473.62039399147034
-    },
-    {
-      "comment_index": 3851,
+      "comment_index": 3974,
       "video_id": "QMbHLF_zwjs",
       "comment": "4:56 “ we can’t seem to stop trying though “ translation: it’s fun to violate natural laws",
       "language": "en",
@@ -200,24 +49,84 @@
         {
           "segment_index": 1,
           "time_range": "287.0s - 293.0s",
-          "query": "VISUAL: There's a white shark swimming underwater. It has a streamlined body with a pointed nose and large pectoral fins. The water is deep blue and there are some other fish around it. The shark moves gracefully through the water.AUDIO: A woman is speaking about a carefully planned system to keep a white shark alive, mentioning that even then, the sharks didn't quite fit there.If you have any thoughts or questions about this, feel free to share!"
+          "query": "Well, I'm not sure if there's any actual content to analyze from that short clip. There seems to be no clear visual or audio details provided for me to describe. Maybe you could give me more information about it?"
         },
         {
           "segment_index": 2,
           "time_range": "293.0s - 299.0s",
-          "query": "VISUAL: There's an underwater scene with a large fish swimming around. It looks like it could be a shark or something similar. The water is dark blue and there are some other small fish or creatures in the background.AUDIO: There's a woman speaking over the video. She seems to be talking about trying to do something related to great white sharks earlier this year.If you want to know more about this kind of thing, feel free to ask me!"
+          "query": "Visual: The video shows an underwater scene with a large shark swimming. There's also some text overlay on the screen.\n\nAudio: There is background music playing throughout the video."
         },
         {
           "segment_index": 3,
           "time_range": "299.0s - 305.0s",
-          "query": "VISUAL: A large shark is swimming in an aquarium tank filled with blue water. There's also some smaller fish visible around it.AUDIO: Someone is speaking, but I can't make out the exact words from just these few seconds. It seems to be a calm voice though.If you want me to analyze more about this or have other questions, feel free to ask!"
+          "query": "Visual: The video shows a large shark swimming in an aquarium. The shark is light gray with a white underbelly. It moves gracefully through the water, its fins and tail clearly visible. The background is a typical aquarium setting with blue water and some artificial structures.\n\nAudio: There is a woman speaking in the background. Her voice is calm and informative, likely providing details about the shark or the aquarium. The audio quality is clear, and there are no other significant sound effects or music."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 334.64747166633606
+      "processing_time": 170.44878101348877
     },
     {
-      "comment_index": 3853,
+      "comment_index": 3975,
+      "video_id": "QMbHLF_zwjs",
+      "comment": "Skip to 5:18. You're welcome.",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 34.0,
+      "comment_timestamp": 318.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "309.0s - 315.0s",
+          "query": "Visual: The video shows a large shark swimming underwater in an aquarium setting. There's another fish visible nearby. The water is blue and clear.\n\nAudio: There's no distinct speech or dialogue. Instead, there's background music playing throughout the clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "315.0s - 321.0s",
+          "query": "Visually, there's a shark swimming in blue water. The shark is the main focus, and it's moving smoothly through the water. There are no other objects or people in the scene. The color is mainly blue, which gives a sense of the underwater environment. The movement is fluid and natural, typical of a shark's swimming style. There's also a red background with some text on it, but it's not part of the underwater scene. The text seems to be related to a video or some kind of media production, but it's not relevant to the shark's movement or the underwater setting."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "321.0s - 327.0s",
+          "query": "**Visual:** A woman with dark hair is sitting against a red background. She's wearing a sleeveless black top and appears to be speaking or presenting something.\n\n**Audio:** There is no distinct dialogue or music audible in this short clip. The only sound seems to be the woman's voice, though it's not clear if she's talking or just breathing."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 200.1157877445221
+    },
+    {
+      "comment_index": 3976,
+      "video_id": "QMbHLF_zwjs",
+      "comment": "4:50 Best Moment Ever",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 29.0,
+      "comment_timestamp": 290.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "281.0s - 287.0s",
+          "query": "Visual: The video shows a large white shark swimming underwater. There's also someone visible on land taking pictures or videos with their phone. The water is deep blue.\n\nAudio: No distinct speech, music, or sound effects can be heard. Just the general ambiance of an aquarium setting."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "287.0s - 293.0s",
+          "query": "Well, I'm not sure if there's any actual content to analyze from that short clip. There seems to be no clear visual or audio details provided for me to describe. Maybe you could give me more information about it?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "293.0s - 299.0s",
+          "query": "Visual: The video shows an underwater scene with a large shark swimming. There's also some text overlay on the screen.\n\nAudio: There is background music playing throughout the video."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 143.68617057800293
+    },
+    {
+      "comment_index": 3977,
       "video_id": "QMbHLF_zwjs",
       "comment": "The video seems to answer your question indirectly (3:35). They bludgeoned themselves to death against the tank walls. At least the zoo made some money.",
       "language": "en",
@@ -230,54 +139,144 @@
         {
           "segment_index": 1,
           "time_range": "206.0s - 212.0s",
-          "query": "VISUAL: There's an image of a shark with some kind of graph or data visualization overlaid on it. The background is light-colored. The shark looks like it might be swimming. There's also some text at the bottom that says \"Sean Van Sommeran\" and \"Pelagic Shark Research Foundation.\".AUDIO: Someone is speaking about taking pictures of sharks as they were beginning to attract something. It seems like there's a bit of a pause between the words. What do you think about the research being done?"
+          "query": "Visually, there's a shark swimming against a light-colored background. The shark is moving smoothly through the water.\n\nAudio-wise, it seems like there might be some kind of narration or explanation about sharks, possibly related to research or conservation efforts. There could also be some ambient ocean sounds mixed in with the voiceover."
         },
         {
           "segment_index": 2,
           "time_range": "212.0s - 218.0s",
-          "query": "VISUAL: There's a close - up shot of a shark underwater. The shark has its mouth open, showing its teeth. It seems to be swimming towards the camera.AUDIO: Someone is speaking, but it's hard to make out what they're saying clearly. It might be some kind of narration or explanation related to the shark. What do you think about that?"
+          "query": "Visual: A close-up shot of a shark underwater is shown. The shark's face is prominent, with its teeth visible. It seems to be swimming towards the camera.\n\nAudio: There s some kind of scraping or scratching sound throughout the entire clip. It doesn t seem like there s any clear speech or music playing. Just that constant noise. What do you think it could be?"
         },
         {
           "segment_index": 3,
           "time_range": "218.0s - 224.0s",
-          "query": "VISUAL: There's an image of a shark with some kind of graph or data line above it. The name \"Sean Van Sommeran\" and \"Pelagic Shark Research Foundation\" is displayed below the shark. Then there's an illustration showing different types of sharks swimming at various depths in the ocean, like littoral, pelagic, and benthic areas.AUDIO: Someone is speaking about flowers that would be kept for visitors. It seems to be related to aquariums historically keeping certain things for visitors."
+          "query": "Visual: The video shows an underwater scene with sharks swimming. There's also some text on screen that reads \"Sean Van Sommeran Pelagic Shark Research Foundation.\" The background is mostly blue, representing water.\n\nAudio: A man speaks over the video, though his words aren't fully clear from just these six seconds. It seems like he might be explaining something related to the research foundation mentioned in the visuals."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 370.9604651927948
+      "processing_time": 143.98475003242493
     },
     {
-      "comment_index": 3858,
+      "comment_index": 3978,
       "video_id": "QMbHLF_zwjs",
-      "comment": "Recommendations: exist    Me at 2:30am: I don’t need sleep, I need answers",
+      "comment": "2:30 phineas and ferb actually taught me that.",
       "language": "en",
       "channel_name": "Vox",
       "category": "documentary",
-      "likes": 8.0,
+      "likes": 15.0,
       "comment_timestamp": 150.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
           "time_range": "141.0s - 147.0s",
-          "query": "VISUAL: There's an underwater scene with a shark and a yellow fish. The shark is grayish - blue and has its mouth open. The yellow fish is near it, also with its mouth open. They seem to be interacting. The background shows some coral or rocks. The water looks clear.AUDIO: A woman is speaking about how most sharks pump water through their mouths, but white sharks and a few other species don't do that.If you have any thoughts on this or want to discuss more about sharks, feel free to share!"
+          "query": "Well, visually, it looks like there's an underwater scene with some marine life. There seems to be a shark and maybe something else that could be a fish or another creature. The colors are mostly muted blues and greens typical for underwater shots. And there's movement, probably from the shark and whatever other thing is there.Audience-wise, hmm, I can't really tell much about the audio since it doesn't say anything specific.Does that help? If you have more questions or need further details, feel free to ask!"
         },
         {
           "segment_index": 2,
           "time_range": "147.0s - 153.0s",
-          "query": "VISUAL: A shark is swimming in an aquarium with other fish around it. The water looks clear and blue. There's some text on the screen that says \"ram ventilation.\".AUDIO: Someone is speaking about how sharks breathe by moving forward through the water with their mouths open. It seems to be explaining something related to the shark's breathing process.If you want to know more about sharks or have any other questions, feel free to ask!"
+          "query": "Well, in the video, I see a shark swimming in the water. It's got its mouth open, and there are some smaller fish around it. The water looks a bit murky, and the shark seems to be moving steadily forward. As for the audio, there's a voiceover saying something about how sharks breathe by moving forward with their mouths open. It's just the voiceover, no music or other sounds. So, what do you think about this? Do you have any other questions?"
         },
         {
           "segment_index": 3,
           "time_range": "153.0s - 159.0s",
-          "query": "VISUAL: A fish is swimming in clear blue water. Then, a net appears around it. After that, there's a truck with a large tank on its flatbed driving along a road. There are some buildings and trees visible in the background.AUDIO: Someone is speaking about white sharks weakening when caught in a net and needing a custom transport tank for them.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visual: A shark is caught in a net underwater. Then it's shown on a truck being transported to an aquarium. There's also some kind of large cylindrical tank visible.\n\nAudio: Someone is speaking about sharks getting caught in nets and needing custom-built transport tanks for them. The tone seems somewhat informative."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 378.37620091438293
+      "processing_time": 190.5490882396698
     },
     {
-      "comment_index": 3861,
+      "comment_index": 3979,
+      "video_id": "QMbHLF_zwjs",
+      "comment": "LPS Harley Quinn it says why at 4:10",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 15.0,
+      "comment_timestamp": 250.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "241.0s - 247.0s",
+          "query": "**Visual:** The video shows a large whale shark swimming in a tank. There are also scuba divers in the water, observing the shark. The tank is filled with blue water, and there are some people in the foreground, possibly watching from outside the tank. The whale shark moves gracefully through the water.\n\n**Audio:** There is no distinct speech or music in the audio. The only sound is the ambient noise of the water and possibly some faint background chatter."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "247.0s - 253.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.87 GiB is free. Including non-PyTorch memory, this process has 15.68 GiB memory in use. Of the allocated memory 13.59 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "253.0s - 259.0s",
+          "query": "Well, in the video, I see a man in a blue shirt and shorts. He's reaching into a tank, and there's a shark in there. The tank is blue, and the water looks clear. The man seems to be interacting with the shark, maybe feeding it or just checking on it.As for the audio, there's some music playing in the background. It's kind of a soft, ambient type of music. There's also a woman speaking, but I can't really make out what she's saying clearly.What do you think about the video? Do you have any other questions?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 307.4517319202423
+    },
+    {
+      "comment_index": 3980,
+      "video_id": "QMbHLF_zwjs",
+      "comment": "What kind of animal is shown being confronted by a shark at the 4:51 mark in the video??",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 11.0,
+      "comment_timestamp": 291.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "282.0s - 288.0s",
+          "query": "Visual: There's a white shark swimming in a large, blue water tank. You can see some people in the background, likely visitors, and they seem to be observing the shark. The shark moves gracefully through the water. The water is a deep blue color, and the tank is well-lit.\n\nAudio: There's a voiceover in the background, but it's not clear what the voiceover is saying. It could be some kind of narration or explanation about the shark or the aquarium."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "288.0s - 294.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short clip. There seems to be no clear visuals or audio described here. Maybe you could give me more details about it?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "294.0s - 300.0s",
+          "query": "Visually, the video shows a large, dark blue underwater scene. There are some indistinct shapes that could be marine life or equipment. The water is murky, making it hard to see clearly. There's a sense of movement, but it's not very clear what's moving.\n\nAudio-wise, there's a woman speaking. She seems to be talking about something related to a shark, mentioning an \"eleven and a half foot great white shark\" and that it was taken to an aquarium. The tone is informative."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 204.85696601867676
+    },
+    {
+      "comment_index": 3981,
+      "video_id": "QMbHLF_zwjs",
+      "comment": "3:23  \"We actually snuck in...\" Its sneaked, not snuck.",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 9.0,
+      "comment_timestamp": 203.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "194.0s - 200.0s",
+          "query": "Well, from what I can tell:.Visually, there's an aquarium scene with a shark swimming around. You can also see some silhouettes of people watching it. The water looks blue and clear.Audibly, there seems to be some kind of narration or explanation about the shark, maybe something like \"Monterey Bay Aquarium\" and \"shark going after 137 days in captivity.\" It gives off a calm, informative vibe.If you want to know more about sharks or aquariums, feel free to ask!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "200.0s - 206.0s",
+          "query": "**Visual:** The video shows a close-up shot of a white shark swimming in an aquarium tank. The shark appears to be moving around within the tank.\n\n**Audio:** There is no discernible dialogue or sound effects in the provided audio segment; it's essentially silent."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "206.0s - 212.0s",
+          "query": "Visual: The video shows a close-up shot of a shark swimming against a plain background. There's also some kind of red wave-like pattern moving across the screen.\n\nAudio: Someone is speaking, but it's not clear what they're saying due to the short duration."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 153.99031114578247
+    },
+    {
+      "comment_index": 3982,
       "video_id": "QMbHLF_zwjs",
       "comment": "4:27 They’re not sure why!!?!?!?!? Yeah sure!!! It was already dying when they released it.",
       "language": "en",
@@ -290,84 +289,54 @@
         {
           "segment_index": 1,
           "time_range": "258.0s - 264.0s",
-          "query": "VISUAL: There's a man and a woman on a boat. They're handling a large fish that's on a blue mat. The water is visible around them.AUDIO: There's some kind of narration or explanation playing over the visuals. It seems to be about something related to Monterey Bay Aquarium and a white shark from 2011.If you want to know more about what they might be discussing specifically, feel free to ask!"
+          "query": "Visual: Two people are on a boat. One person is wearing a dark jacket and beige shorts, while the other has on a blue shirt and darker pants. They seem to be handling something on the boat, possibly fishing gear or equipment related to marine research. The water around them looks calm.\n\nAudio: There's no distinct speech or music in the audio. Just some faint background noise that could be from the boat engine or natural ocean sounds."
         },
         {
           "segment_index": 2,
           "time_range": "264.0s - 270.0s",
-          "query": "VISUAL: Two people on a boat are seen helping a shark onto a blue mat. The shark is then released into the water. The water looks calm and there's some foggy weather. There's also a motorboat visible in the background.AUDIO: No distinct speech or music can be heard. Just the natural sounds of the ocean and possibly some faint ambient noises from the boat. So, what do you think about this? Any thoughts or questions?"
+          "query": "Visual: The video shows two men on a boat near water. One man is leaning over the side, possibly interacting with something in the water. There's also some kind of blue structure or equipment visible.\n\nAudio: No distinct speech, music, or sound effects can be heard. Just general background noise from the environment."
         },
         {
           "segment_index": 3,
           "time_range": "270.0s - 276.0s",
-          "query": "VISUAL: The video shows a large body of water with some ripples on its surface. There's a bit of fog or mist in the background. You can see a shark surfacing briefly, creating a splash. Then it goes back underwater. There's also a small part of a boat visible at the edge of the frame.AUDIO: There is a woman speaking over the sound of the water and the shark surfacing. She says something about not being sure why they haven't tried to bring in another great white shark since then.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Well, visually, it looks like there's some kind of water body with ripples on its surface. There might be something small floating or moving around in the water. As for the audio, I can't really tell much from just these six seconds. It seems pretty quiet, maybe just the natural sounds of the water? What do you think about it?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 461.2357702255249
+      "processing_time": 132.85435509681702
     },
     {
-      "comment_index": 3863,
+      "comment_index": 3983,
       "video_id": "QMbHLF_zwjs",
-      "comment": "4:50 \"Just one bite?\" \"No\" \"ok :(\"",
+      "comment": " @Rachel-fi4sc  the video mentions that the 6th great white held by the Monterey Bay Aquarium died soon after release (many possible reasons), but there’s no mention of the other 5 having issues after release. Watch from 2:55 to 4:40.",
       "language": "en",
       "channel_name": "Vox",
       "category": "documentary",
-      "likes": 5.0,
-      "comment_timestamp": 290.0,
+      "likes": 6.0,
+      "comment_timestamp": 280.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "281.0s - 287.0s",
-          "query": "VISUAL: There's an underwater scene with a large shark swimming. People on land are taking pictures or videos of it. The water is blue and clear.AUDIO: Someone is speaking about introducing the general public to a live white shark. It seems like they're talking about a significant achievement related to that goal.What do you think about showing sharks to the public?"
+          "time_range": "271.0s - 277.0s",
+          "query": "Well, in the visual part, it looks like there's a large body of water, probably an ocean or a sea. There are some ripples on the surface, and it seems a bit foggy or misty. There's also a bit of a splash or disturbance in the water. As for the audio, there's a woman speaking, and it sounds like she's talking about something related to the Monterey Bay Aquarium. She mentions something about not trying to bring in another great white shark since then. So, what do you think about this? Do you have any other questions?"
         },
         {
           "segment_index": 2,
-          "time_range": "287.0s - 293.0s",
-          "query": "VISUAL: There's a white shark swimming underwater. It has a streamlined body with a pointed nose and large pectoral fins. The water is deep blue and there are some other fish around it. The shark moves gracefully through the water.AUDIO: A woman is speaking about a carefully planned system to keep a white shark alive, mentioning that even then, the sharks didn't quite fit there.If you have any thoughts or questions about this, feel free to share!"
+          "time_range": "277.0s - 283.0s",
+          "query": "Visually, there's a close-up shot of a shark swimming in water. The shark is the main focus, and it's moving smoothly through the water. The water looks clear and blue. There are also some text overlays on the screen, mentioning \"Jon Hoech, director of husbandry operations, Monterey Bay Aquarium.\"\n\nAudio-wise, there's a voice speaking. The speech is clear and seems to be about a resource-intensive program and accomplishing a goal related to it. The tone is informative."
         },
         {
           "segment_index": 3,
-          "time_range": "293.0s - 299.0s",
-          "query": "VISUAL: There's an underwater scene with a large fish swimming around. It looks like it could be a shark or something similar. The water is dark blue and there are some other small fish or creatures in the background.AUDIO: There's a woman speaking over the video. She seems to be talking about trying to do something related to great white sharks earlier this year.If you want to know more about this kind of thing, feel free to ask me!"
+          "time_range": "283.0s - 289.0s",
+          "query": "Visual: A white shark is swimming underwater. There's also someone holding up a phone to record it. The water looks deep blue. Audio: Just some background noise from the aquarium, no distinct speech or music. What do you think about sharks?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 361.2357006072998
+      "processing_time": 242.67930030822754
     },
     {
-      "comment_index": 3862,
-      "video_id": "QMbHLF_zwjs",
-      "comment": "I got confused at first then I lightly tapped the video screen, it showed that there was still like 4:00 minutes left. So I kept watching",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 5.0,
-      "comment_timestamp": 240.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "231.0s - 237.0s",
-          "query": "VISUAL: The video shows an underwater scene with different types of sharks swimming at various depths. There's a label \"pelagic\" above some sharks near the surface and \"benthic\" below others closer to the ocean floor. The sharks vary in size and color.The AUDIO: A woman is speaking about aquariums wanting to bring in bigger, more pelagic sharks that spend time in open water. It seems like she's explaining something related to marine life or aquarium displays.If you have any other thoughts on this or want to discuss more about it, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "237.0s - 243.0s",
-          "query": "VISUAL: The video shows an underwater scene with two sharks. One is smaller and light-colored, while the other is larger and darker. There's also a scuba diver next to a huge whale shark in an aquarium setting. People on land are taking pictures of the whale shark. The water is clear blue.AUDIO: A woman speaks about pelagic sharks roaming the open ocean and mentions that they've been able to exhibit the largest shark in the world, the whale shark, if they have enough space.If you want to talk more about sharks or anything else related, feel free to ask!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "243.0s - 249.0s",
-          "query": "VISUAL: There's an underwater scene with a large whale shark swimming near a scuba diver. The water is clear blue. People on land are watching and taking pictures.AUDIO: A woman is speaking about pelagic sharks being used to long-distance swimming without obstructions. It seems like she might be explaining something related to marine life or research.If you want to talk more about this video or have other questions, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 488.5419297218323
-    },
-    {
-      "comment_index": 3859,
+      "comment_index": 3984,
       "video_id": "QMbHLF_zwjs",
       "comment": "0:11  “The worlds biggest predatory fish”  Whale sharks: Sad worlds biggest predatory fish noises",
       "language": "en",
@@ -380,54 +349,84 @@
         {
           "segment_index": 1,
           "time_range": "2.0s - 8.0s",
-          "query": "VISUAL: The video shows silhouettes of several people standing against a blue background. Then it transitions to an underwater scene with a zebra shark swimming. There's also some text on screen identifying the shark species.AUDIO: A woman is speaking about different types of sharks that can be seen in aquariums. She mentions nurse sharks, zebra sharks, reef sharks, and sand tiger sharks.If you have any other questions or want to discuss more about this video, feel free to let me know!"
+          "query": "Well, in the visual part, it seems like there are some silhouettes of people standing in a line. And then there's a zebra shark swimming in the water. The colors are mostly dark because of the silhouettes, but the water looks a bit blueish. The movement is mainly the shark swimming.The audio part is just a woman speaking. There's no music or sound effects, just her voice. What do you think about this video?"
         },
         {
           "segment_index": 2,
           "time_range": "8.0s - 14.0s",
-          "query": "VISUAL: There's an image of a sand tiger shark at first. Then it switches to a newspaper article about a great white shark drawing crowds to an aquarium. The article has yellow highlighted text saying \"Record crowds turn out to see great white shark.\".AUDIO: A woman is speaking throughout the video. She seems to be talking about sharks and aquariums. It's not clear if she's reading from the article or just talking about it.Anything else you noticed in the video that you want to discuss?"
+          "query": "**Visual:** The video shows a newspaper clipping with bold yellow text that reads \"Record crowds turn out to see great white shark.\" Below it is an article snippet mentioning \"sand tiger shark\" among other details about aquariums and sharks.\n\n**Audio:** There's no distinct audio mentioned here, just the text on the screen."
         },
         {
           "segment_index": 3,
           "time_range": "14.0s - 20.0s",
-          "query": "VISUAL: A large white shark is swimming in an aquarium tank. There's also a person visible near the tank, possibly observing or interacting with it.AUDIO: No distinct audio events can be heard in these 6 seconds. It seems like there might not be any spoken words or background noise during this short clip.If you have more questions about this or want to discuss something else related to sharks or aquariums, feel free to let me know!"
+          "query": "**Visual:** The video shows a close-up shot of a white shark swimming in water. There's also some text visible on the screen that seems to be related to marine life or aquariums.\n\n**Audio:** No distinct audio is heard apart from the background noise of water movement and possibly some faint ambient sounds like water splashing."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 422.04341292381287
+      "processing_time": 205.80143237113953
     },
     {
-      "comment_index": 3865,
+      "comment_index": 3985,
       "video_id": "QMbHLF_zwjs",
-      "comment": "(0:38) But aren't we all, in a way, in the process of dying?",
+      "comment": "0:44  it looks sad :(",
       "language": "en",
       "channel_name": "Vox",
       "category": "documentary",
-      "likes": 3.0,
-      "comment_timestamp": 38.0,
+      "likes": 5.0,
+      "comment_timestamp": 44.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "29.0s - 35.0s",
-          "query": "VISUAL: The video shows a newspaper article about a great white shark that died after 16 days in captivity at Steinhart Aquarium. There's also an image of a diver urging the shark to keep swimming. Then it cuts to a blue screen with \"Steinhart Aquarium Captivity Report\" written on it.AUDIO: A woman is speaking, saying something like \"longest one lasted was just 16 days a 1984 report by the Stein art aquarium put it this way.\" It seems she might be quoting from or summarizing the report shown in the video.If you have any other thoughts or questions about this video, feel free to share!"
+          "time_range": "35.0s - 41.0s",
+          "query": "Visually, there's just text on a black background. The text is white with some words highlighted in different colors like blue and orange.\n\nAudio-wise, it's mostly speech. There doesn't seem to be any other sounds or music playing."
         },
         {
           "segment_index": 2,
-          "time_range": "35.0s - 41.0s",
-          "query": "VISUAL: There's just some text on a black background. It says something about captive sharks dying. No objects or people moving around.AUDIO: There's a voice speaking over some music. The speaker is talking about captive sharks dying, like I said before.If you want to talk more about this or have other questions, feel free to let me know!"
+          "time_range": "41.0s - 47.0s",
+          "query": "Visually, there's a diagram of a shark in a transport and rehabilitation chamber. The shark is shown in a harness, and there's a yellow line indicating some kind of connection or process. The chamber has various components like a filter and a water source. The background is black, and the text is in different colors, like blue and yellow, highlighting certain parts of the diagram. There's also a small image of a shark in a tank at the bottom of the diagram, with a label that says \"Figure 1.\".Audio-wise, there's a voiceover saying, \"In most cases it could be said that all these captive sharks were merely in the process of dying, with some taking longer than others.\" The voice is calm and informative."
         },
         {
           "segment_index": 3,
-          "time_range": "41.0s - 47.0s",
-          "query": "VISUAL: There's a black background with white text at first. Then it shows a diagram labeled \"Figure 1\" of a shark transport and rehabilitation chamber. The shark is inside a box - like structure with some equipment around it.AUDIO: There's a woman speaking over the visuals. She seems to be explaining something related to captive sharks and their condition. It sounds like she might be discussing the state of captive sharks and how they're treated. What do you think about that? Do you have any other questions regarding this?"
+          "time_range": "47.0s - 53.0s",
+          "query": "Visual: The video shows an aerial view of a coastal town with houses and buildings near the water. There's also a diagram of a shark transport and rehabilitation chamber.\n\nAudio: Someone is speaking about keeping sharks alive at the Monterey Bay Aquarium until 2004."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 324.47629284858704
+      "processing_time": 177.0566656589508
     },
     {
-      "comment_index": 3864,
+      "comment_index": 3986,
+      "video_id": "QMbHLF_zwjs",
+      "comment": "I got confused at first then I lightly tapped the video screen, it showed that there was still like 4:00 minutes left. So I kept watching",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 5.0,
+      "comment_timestamp": 240.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "231.0s - 237.0s",
+          "query": "Visually, the video shows a cross - section of the ocean with different layers labeled. There are various sharks depicted in the pelagic and benthic zones. The pelagic sharks are swimming in the upper part of the ocean, while the benthic sharks are near the ocean floor. The colors are mainly shades of blue, representing the water, and the sharks are in different colors like gray and white. The movement is mainly the sharks swimming in their respective zones.\n\nAudio - wise, there's a woman speaking. She's talking about aquariums wanting to bring in bigger, more pelagic sharks in recent decades."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "237.0s - 243.0s",
+          "query": "Visual: The video shows a large whale shark swimming underwater. There's also a scuba diver nearby. People on land are watching and taking pictures. The water is blue, and there are some other fish around too. The scene has a calm and serene vibe.Audio: There s no distinct speech or music in the audio. Just the natural sounds of the ocean, like water movement and maybe some distant animal noises. It s mostly just the sound of the environment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "243.0s - 249.0s",
+          "query": "**Visual:** The video shows a map highlighting the tagging locations of great white sharks off the coast of California. The map includes labels for California, Los Angeles, San Diego, and the Gulf of California. There are colored lines on the map, possibly indicating the sharks' movement routes. The background is a deep blue, representing the ocean.\n\n**Audio:** There is a voiceover in the audio, discussing the tagging of great white sharks and their long-distance swimming capabilities. The speaker mentions that these sharks are accustomed to swimming long distances without obstructions."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 239.27137804031372
+    },
+    {
+      "comment_index": 3987,
       "video_id": "QMbHLF_zwjs",
       "comment": "I was genuinely interested in this video UNTIL 4:55. Refers to Wall Street Journal. Lol, see ya Vox.  edit - didn't realize this video was made last july, before the WSJ fake news - YouTube drama. sorry Vox. not sorry WSJ ",
       "language": "en",
@@ -440,144 +439,54 @@
         {
           "segment_index": 1,
           "time_range": "286.0s - 292.0s",
-          "query": "VISUAL: There's a large white shark swimming in an aquarium. It has its mouth open at one point. There are also some other fish around it. The water is blue and clear.AUDIO: A woman is speaking about keeping a white shark alive with a huge, carefully planned system. She mentions that even then, the sharks didn't quite make it.If you have any thoughts or questions about this, feel free to share!"
+          "query": "Well, I'm not sure if there's any actual video here for me to analyze. But generally speaking, if it were a video about keeping a white shark alive, visually you might see the shark swimming in an aquarium or some kind of controlled environment. It could be surrounded by other fish or marine life. The water would probably look clear and blue. In terms of movement, the shark would be moving gracefully through the water.As for the audio, without hearing anything specific, I can't really say much. Maybe there'd be some background noise from the aquarium like water flowing or people talking.If you have more details about the video, feel free to share!"
         },
         {
           "segment_index": 2,
           "time_range": "292.0s - 298.0s",
-          "query": "VISUAL: There's an underwater scene with a large fish swimming around. The water is dark blue. There are also some smaller fish visible in the background.AUDIO: Someone is speaking, but it's not clear what they're saying. It seems to be a continuous speech without any distinct pauses or changes in tone.What do you think about the video? Do you have any other questions related to it?"
+          "query": "Visually, the video shows a large shark swimming in the dark blue water. There are some small particles or debris floating around. The shark moves gracefully, its fins and tail propelling it forward. The lighting is dim, creating a mysterious underwater atmosphere.\n\nAudio-wise, there's a voiceover in the background. The speaker seems to be discussing something related to the video, but the exact content isn't clear from just this short segment. The tone is somewhat serious or informative."
         },
         {
           "segment_index": 3,
           "time_range": "298.0s - 304.0s",
-          "query": "VISUAL: The video shows an adult great white shark swimming underwater. It has its mouth slightly open. There's also some text on the screen about a rare exhibit at a Japan Aquarium.AUDIO: Someone is speaking, but it's not clear what they're saying. There might be background noise too.If you want to know more about the shark or the exhibit, feel free to ask!"
+          "query": "Visual: The video shows an adult great white shark swimming underwater. It has its mouth slightly open, revealing some teeth. There's also a person visible near the shark, possibly observing or interacting with it.\n\nAudio: There is no distinct speech or dialogue in the audio. Instead, there seems to be background music playing throughout the short clip."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 357.7262454032898
+      "processing_time": 189.2446792125702
     },
     {
-      "comment_index": 3860,
+      "comment_index": 3988,
       "video_id": "QMbHLF_zwjs",
-      "comment": " [USER]  the video mentions that the 6th great white held by the Monterey Bay Aquarium died soon after release (many possible reasons), but there’s no mention of the other 5 having issues after release. Watch from 2:55 to 4:40.",
+      "comment": "0:04, nurse sharks, okay.",
       "language": "en",
       "channel_name": "Vox",
       "category": "documentary",
-      "likes": 6.0,
-      "comment_timestamp": 175.0,
+      "likes": 4.0,
+      "comment_timestamp": 4.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "166.0s - 172.0s",
-          "query": "VISUAL: A group of people are handling a large blue container filled with water. They seem to be moving it carefully. There's also some equipment visible around them. The scene looks like it might be at an aquarium or similar place.AUDIO: Someone is speaking about systems needed for transport that took roughly nine to eleven hours. It seems like they're explaining something related to the transport process.If you have any other thoughts or questions about the video, feel free to share!"
+          "time_range": "0.0s - 1.0s",
+          "query": "Inference error: nframes should in interval [2, 1], but got 0."
         },
         {
           "segment_index": 2,
-          "time_range": "172.0s - 178.0s",
-          "query": "VISUAL: There's a group of silhouetted figures standing against a blue background. A shark is swimming above them. The figures seem to be watching the shark.AUDIO: There's some kind of narration or explanation about aquarium attendance increasing while a shark was on display for six and a half months. It mentions that after that time, they decided to release the shark.So, what do you think about this? Do you have any other videos you want me to analyze?"
+          "time_range": "1.0s - 7.0s",
+          "query": "**Visual:** The video shows a group of silhouetted figures standing in a line against a blue background. There's a large shadowy shape looming over them. Then, it cuts to a close - up of a zebra shark swimming in water. The shark has a distinctive pattern of black and white stripes.\n\n**Audio:** There's no clear speech or music in the audio. The only sound is the gentle, continuous sound of water, which might be from the aquarium where the shark is swimming."
         },
         {
           "segment_index": 3,
-          "time_range": "178.0s - 184.0s",
-          "query": "VISUAL: The video shows a large shark swimming underwater. It's moving through clear blue water with some bubbles around it. There are also other fish visible in the background.AUDIO: There is no distinct audio mentioned for this analysis."
+          "time_range": "7.0s - 13.0s",
+          "query": "Well, in the video, I see a picture of a shark. It's a sand tiger shark, and it's swimming in the water. The shark looks pretty big and has a sort of grayish color with some darker spots on it. There's also some text in the video that says \"sand tiger shark.\".As for the audio, there's just some background noise, like the sound of water and maybe some faint voices or other ambient sounds. There's no clear speech or music that I can hear.Anything else you want to know about this video?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 268.12128353118896
+      "processing_time": 251.979749917984
     },
     {
-      "comment_index": 3867,
-      "video_id": "QMbHLF_zwjs",
-      "comment": "*At (2:13)...Sharks are **NOT* fish!** True enough, they have gill-structures similar to 'fish' and they are aquatic, but that's where it all ends**",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 3.0,
-      "comment_timestamp": 133.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "124.0s - 130.0s",
-          "query": "VISUAL: There's an underwater scene with a shark swimming near the bottom. The water is murky, and there seems to be some kind of net or structure on the ocean floor. The shark moves gracefully through the water.AUDIO: A woman is speaking about monitoring the shark before moving it into a transport tank for travel from Southern California. She mentions feeding behavior.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "130.0s - 136.0s",
-          "query": "VISUAL: The video shows a map highlighting California with a red dot on it. Then there's an image of two sharks swimming against a blue background. One shark has its mouth open, showing teeth. There's also a close - up of some stripes on one of the sharks.AUDIO: Someone is speaking about sharks being born in California and going to an aquarium. They mention that sharks need something, but don't specify what. It seems like they're talking about the life cycle or care of sharks.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "136.0s - 142.0s",
-          "query": "VISUAL: There's an illustration of a shark with its mouth open, showing sharp teeth. The shark has a red circle on it highlighting some lines. Then there's a real - life underwater scene where a green fish is swimming near a large gray shark. The background looks like an ocean floor with some coral or rocks.AUDIO: I can't really tell what's being said in the audio since no specific words were mentioned. It might be some kind of narration or explanation related to sharks, but that's just speculation.If you have any other questions about this video or want to discuss something else, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 503.0113275051117
-    },
-    {
-      "comment_index": 3869,
-      "video_id": "QMbHLF_zwjs",
-      "comment": "[USER] the shark died shortly after being released. It’s revealed at about 4:27. It was literally in the same sentence as they said the shark was being monitored  Did YOU watch the video?? Or just cut out in the middle of a sentence?",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 3.0,
-      "comment_timestamp": 267.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "258.0s - 264.0s",
-          "query": "VISUAL: There's a man and a woman on a boat. They're handling a large fish that's on a blue mat. The water is visible around them.AUDIO: There's some kind of narration or explanation playing over the visuals. It seems to be about something related to Monterey Bay Aquarium and a white shark from 2011.If you want to know more about what they might be discussing specifically, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "264.0s - 270.0s",
-          "query": "VISUAL: Two people on a boat are seen helping a shark onto a blue mat. The shark is then released into the water. The water looks calm and there's some foggy weather. There's also a motorboat visible in the background.AUDIO: No distinct speech or music can be heard. Just the natural sounds of the ocean and possibly some faint ambient noises from the boat. So, what do you think about this? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "270.0s - 276.0s",
-          "query": "VISUAL: The video shows a large body of water with some ripples on its surface. There's a bit of fog or mist in the background. You can see a shark surfacing briefly, creating a splash. Then it goes back underwater. There's also a small part of a boat visible at the edge of the frame.AUDIO: There is a woman speaking over the sound of the water and the shark surfacing. She says something about not being sure why they haven't tried to bring in another great white shark since then.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 410.2074820995331
-    },
-    {
-      "comment_index": 3866,
-      "video_id": "QMbHLF_zwjs",
-      "comment": "1:08 - Okay, explanation complete. I'm out.",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 3.0,
-      "comment_timestamp": 68.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "59.0s - 65.0s",
-          "query": "VISUAL: There's a person on a boat with a shark in a blue container. The water is visible around them. The person seems to be handling or moving the shark. The scene looks like it might be near a body of water.AUDIO: I can't really tell much from just these six seconds. It could be some kind of narration or explanation about the situation, but there isn't enough information to say for sure.If you want, we could try analyzing more of the video together?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "65.0s - 71.0s",
-          "query": "VISUAL: There's an image of a shark on a white background. It looks like it might be a drawing or a photo with some artistic touch. The shark is facing left. There's also a graph line that seems to represent data, maybe related to the shark or something else.AUDIO: Someone is speaking about their approach being systematic and logical. It's just one person talking without any other sounds like music or sound effects. What do you think they were discussing?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "71.0s - 77.0s",
-          "query": "VISUAL: There's an underwater scene with a large shark swimming. A person is also visible underwater near the shark. The water looks blue and clear.AUDIO: Someone is speaking about things leading up to success at the Monterey Bay Aquarium, mentioning designing a tank. It seems like they're explaining something related to the aquarium's operations or history.If you have any other thoughts or questions about it, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 413.6975977420807
-    },
-    {
-      "comment_index": 3868,
+      "comment_index": 3989,
       "video_id": "QMbHLF_zwjs",
       "comment": "2:20 shark hanging out with it's Eal friend",
       "language": "en",
@@ -590,21 +499,111 @@
         {
           "segment_index": 1,
           "time_range": "131.0s - 137.0s",
-          "query": "VISUAL: The video shows a map highlighting California with a red dot near Malibu. Then it transitions to an image of a shark underwater. There's also a close - up on the shark's gills.AUDIO: Someone is speaking about sharks needing water continuously. It seems like they're explaining something related to sharks' biology.If you want to know more about sharks or have any other questions, feel free to ask!"
+          "query": "Visually, there's an image of California on a map with \"Malibu\" labeled near it. Then, a shark is shown swimming against a blue background. There s also a red circle with white stripes inside it. The shark has its mouth open, showing teeth.The audio seems to be some kind of narration or explanation about sharks needing water continuously, like all fish do. It mentions something about aquariums too. But I can't really tell if there's any other specific sound effect or music involved.What do you think about the video? Do you have any questions related to it?"
         },
         {
           "segment_index": 2,
           "time_range": "137.0s - 143.0s",
-          "query": "VISUAL: There's an illustration of a shark with its mouth open, showing its teeth. The gills area is highlighted in red. Then it cuts to an underwater scene where a yellow fish is near a gray shark. The yellow fish has its mouth open wide, and there's a label pointing at it saying \"buccal pumping.\".AUDIO: A woman is speaking about how water passes through sharks' gills for oxygen and that most species can pump water into their mouths to get oxygen. It seems like she's explaining something scientific.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Well, visually, there's a shark shown. It has its mouth open with some teeth visible. There's also an inset showing something that looks like red and white stripes. In terms of movement, it seems like the shark is moving around in water. The background is blue, probably representing the ocean.As for the audio, I can't really say much because it doesn't mention any specific sounds or speech. So, yeah, just those two main things - the shark and the striped thing in the inset. What do you think about it? Do you have any other questions related to this?"
         },
         {
           "segment_index": 3,
           "time_range": "143.0s - 149.0s",
-          "query": "VISUAL: There's an underwater scene with a shark swimming near some coral. The shark has its mouth open, showing buccal pumping. The water is clear enough to see the details of the shark and the coral.AUDIO: A woman is speaking about white sharks and other species not breathing in a certain way. It seems like she might be explaining something related to marine biology or shark behavior.If you have any thoughts on this or want to discuss more about it, feel free to share!"
+          "query": "Visually, there's an underwater scene with a shark. The shark is swimming near some coral or rock formations. There's also a label pointing to something on the shark that says \"buccal pumping.\" The overall color scheme has shades of blue and orange from the lighting.Audibly, it seems like someone is speaking about sharks not breathing through their mouths for ventilation. It's just speech without any other distinct sounds. So, what do you think about sharks? Do you have any interesting facts about them?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 417.8643307685852
+      "processing_time": 136.12965488433838
+    },
+    {
+      "comment_index": 3990,
+      "video_id": "QMbHLF_zwjs",
+      "comment": "(0:38) But aren't we all, in a way, in the process of dying?",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 3.0,
+      "comment_timestamp": 38.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "29.0s - 35.0s",
+          "query": "**Visual:** The video shows a newspaper clipping with the headline \"Great white shark dies after 16 days in captivity.\" There are other text excerpts and images related to the story, but the main focus is on the headline. The background is dark, and the text is in white and blue.\n\n**Audio:** There is a voiceover that says, \"longest one lasted was just 16 days a 1984 report by the Steinhardt Aquarium put it this way.\" The voiceover is clear and in English."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "35.0s - 41.0s",
+          "query": "Visually, there's just text on a black background. The text is white with some words highlighted in different colors like blue and orange.\n\nAudio-wise, it's mostly speech. There doesn't seem to be any other sounds or music playing."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "41.0s - 47.0s",
+          "query": "Visually, there's a diagram of a shark in a transport and rehabilitation chamber. The shark is shown in a harness, and there's a yellow line indicating some kind of connection or process. The chamber has various components like a filter and a water source. The background is black, and the text is in different colors, like blue and yellow, highlighting certain parts of the diagram. There's also a small image of a shark in a tank at the bottom of the diagram, with a label that says \"Figure 1.\".Audio-wise, there's a voiceover saying, \"In most cases it could be said that all these captive sharks were merely in the process of dying, with some taking longer than others.\" The voice is calm and informative."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 175.8715374469757
+    },
+    {
+      "comment_index": 3991,
+      "video_id": "QMbHLF_zwjs",
+      "comment": "Lol I wish they'd snuck in a human outline at 1:45.",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 3.0,
+      "comment_timestamp": 105.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "96.0s - 102.0s",
+          "query": "Well, in the video, visually, there's a shark in an aquarium. It's swimming around in the water. There are also some people around, probably looking at the shark. The water is clear and blue, and the shark is moving smoothly through it. As for the audio, there's a woman speaking. She seems to be talking about something related to the shark, maybe its age or something like that. It's a bit hard to make out exactly what she's saying though. What do you think about the video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "102.0s - 108.0s",
+          "query": "Well, in the video, I see some red fish swimming in the water. There are also some blue sea creatures, like a whale and a seal, in the background. The colors are mainly red and blue, and the movement is mainly the fish swimming and the sea creatures being still or moving slowly.The audio is just some background music. There's no speech or sound effects. It's a pretty simple audio part. So, what do you think about this video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "108.0s - 114.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short clip. There seems to be no visible objects or actions happening, so for the visual part, it's pretty much empty. And since there's no audio provided either, there's nothing to describe about the audio too. Maybe there was an error with the video? Let me know if you have another one!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 200.82769012451172
+    },
+    {
+      "comment_index": 3992,
+      "video_id": "QMbHLF_zwjs",
+      "comment": "*At (2:13)...Sharks are **NOT* fish!** True enough, they have gill-structures similar to 'fish' and they are aquatic, but that's where it all ends**",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 3.0,
+      "comment_timestamp": 133.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "124.0s - 130.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze here. The text seems to be a bit jumbled up and doesn't really form a coherent description of either the visual or audio aspects of a video. Maybe you could clarify what the video is about? That way, I can give you a proper analysis."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "130.0s - 136.0s",
+          "query": "Visual: The video shows a map highlighting California with a red dot indicating Malibu. Then, it transitions to a close-up of a shark with its mouth open, showing its teeth. The shark is blue with white underbelly and has a red circle around its mouth area. The background is blue, likely representing water. There's no visible movement of the shark in the close - up shot. The map is static, just showing the location of Malibu in California. Audio: There's a woman speaking in English. She says \"California where the sharks were born up\" and then \"to the aquarium sharks like all fish need to.\" The speech is clear and the tone seems informative."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "136.0s - 142.0s",
+          "query": "Well, I'm not sure if there's any actual video here for me to analyze. But based on your description about sharks having gills to get oxygen and most species being able to open and close their mouths, it seems like that could be relevant information from the video. Maybe there were some shots of sharks swimming around or something? If you can share more details about the video, that would be great! So, do you have any other questions or thoughts about this?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 193.96915364265442
     }
   ]
 }

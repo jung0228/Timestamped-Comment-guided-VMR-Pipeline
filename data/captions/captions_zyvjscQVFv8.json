@@ -1,0 +1,31 @@
+{
+  "video_id": "zyvjscQVFv8",
+  "total_comments": 2,
+  "successful_comments": 0,
+  "failed_comments": 2,
+  "success_rate": "0.0%",
+  "comments": [
+    {
+      "comment_index": 17908,
+      "video_id": "zyvjscQVFv8",
+      "comment": "0:19 what's the video?",
+      "language": "en",
+      "channel_name": "AthleanX",
+      "category": "fitness",
+      "likes": 0.0,
+      "error": "Video file not found: zyvjscQVFv8",
+      "analysis_type": "failed"
+    },
+    {
+      "comment_index": 17909,
+      "video_id": "zyvjscQVFv8",
+      "comment": "What's the name of the video at 0:33?",
+      "language": "en",
+      "channel_name": "AthleanX",
+      "category": "fitness",
+      "likes": 0.0,
+      "error": "Video file not found: zyvjscQVFv8",
+      "analysis_type": "failed"
+    }
+  ]
+}

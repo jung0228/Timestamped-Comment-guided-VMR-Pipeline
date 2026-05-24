@@ -1,0 +1,609 @@
+{
+  "video_id": "vvOI3dQ5a30",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 11510,
+      "video_id": "vvOI3dQ5a30",
+      "comment": "0:35 I love how innocently the toddler reveals her sibling is still in her mother’s belly",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 86.0,
+      "comment_timestamp": 35.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "26.0s - 32.0s",
+          "query": "Visual: The video shows a black background with white text that says \"Mummy's breathing is she?\" followed by \"Yes\" in yellow. There s also an orange dotted line at the bottom.\n\nAudio: Someone is speaking on the phone, saying things like \"Alright my lovely Bear with me a second\" and \"Stay on the phone I'm not going to hang up.\" It seems like they re trying to reassure someone over the call."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "32.0s - 38.0s",
+          "query": "Visual: The video shows black backgrounds with yellow text appearing on it. There's also an orange sound wave-like pattern at the bottom.\n\nAudio: Someone is speaking, saying \"So how's old the baby?\" followed by \"It's in mummy's tummy.\" Then they say \"The baby's in mummy's tummy, ok sweetie...\" and finally \"It's in mummy's tummy.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "38.0s - 44.0s",
+          "query": "Visually, there's just black background with some white text on it. There aren't any objects or people moving around. It looks like a simple screen with text.Audibly, someone is speaking. The speech seems to be in English and is about a baby being inside mommy's tummy. There are no other sounds besides that speech."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 181.36112546920776
+    },
+    {
+      "comment_index": 11511,
+      "video_id": "vvOI3dQ5a30",
+      "comment": "Just A Man of Culture 03:36 am to be specific.",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 11.0,
+      "comment_timestamp": 216.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "207.0s - 213.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "213.0s - 219.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "219.0s - 225.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.009797334671020508
+    },
+    {
+      "comment_index": 11512,
+      "video_id": "vvOI3dQ5a30",
+      "comment": "3:42 here xD",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 6.0,
+      "comment_timestamp": 222.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "213.0s - 219.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "219.0s - 225.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "225.0s - 231.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.004571676254272461
+    },
+    {
+      "comment_index": 11513,
+      "video_id": "vvOI3dQ5a30",
+      "comment": "0:54 broke my heart. “She is going back to sleep now”.",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 4.0,
+      "comment_timestamp": 54.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "45.0s - 51.0s",
+          "query": "Visual: The video shows a black background with white text that says \"Is she hurt anywhere else?\" followed by \"No\" in yellow. There's also an orange sound wave at the bottom.\n\nAudio: Someone is speaking, asking if someone named \"she\" is hurt anywhere else, and then saying \"No.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "51.0s - 57.0s",
+          "query": "Visual: The video shows a black background with yellow text appearing on it. There's also an orange sound wave pattern at the bottom.\n\nAudio: Someone is speaking, saying \"She's gone back to sleep now.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "57.0s - 63.0s",
+          "query": "Visual: The video shows black background with white text saying \"Emma the ambulance is coming, I'm going to stay on the phone with you\" at first. Then it changes to another screen with orange sound waves moving horizontally across a dark background.\n\nAudio: There's someone speaking over the sound waves. They say something like \"I want you to watch your mummy and make sure that mummy's breathing.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 150.99798846244812
+    },
+    {
+      "comment_index": 11514,
+      "video_id": "vvOI3dQ5a30",
+      "comment": "0:55 How did she know her name is Emma? She never asked her name",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 2.0,
+      "comment_timestamp": 55.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "46.0s - 52.0s",
+          "query": "Visual: The video shows black backgrounds with white and yellow text appearing on it. There's also an orange sound wave at the bottom.\n\nAudio: Someone is speaking, asking questions like \"No?\" and \"Has mummy got her eyes open? Is she talking to you?\" It seems like they're trying to communicate or check if someone is there."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "52.0s - 58.0s",
+          "query": "Visual: The video shows a black background with yellow text appearing on it. There's also an orange sound wave at the bottom.\n\nAudio: Someone is speaking over the video, saying things like \"She's gone back to sleep now\" and \"The ambulance is coming.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "58.0s - 64.0s",
+          "query": "Visually, there's just black background with white text saying \"Emma the ambulance is coming, I'm going to stay on the phone with you.\" There aren't any objects or people visible.\n\nAudio-wise, it's someone speaking, likely a woman based on the voice tone. The speech includes phrases like \"I want you to watch your mummy\" and \"make sure that mummy's breathing okay.\" It seems to be a conversation about staying with a mother during an ambulance arrival."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 165.08903217315674
+    },
+    {
+      "comment_index": 11515,
+      "video_id": "vvOI3dQ5a30",
+      "comment": "0:56 the translator missed typing \"my love\" from the chat. an indication of how hard it is to follow a British speaker...",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 2.0,
+      "comment_timestamp": 56.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "47.0s - 53.0s",
+          "query": "Visual: The video shows a black background with white and yellow text appearing sequentially. There's also an orange sound wave at the bottom.\n\nAudio: Someone is speaking, asking questions like \"Has mummy got her eyes open?\" and \"Is she talking to you?\". Then they say \"She's going back to sleep now.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "53.0s - 59.0s",
+          "query": "Visual: The video shows a black background with yellow text appearing on it. There's also an orange sound wave at the bottom.\n\nAudio: Someone is speaking over the phone about someone going back to sleep and mentioning that an ambulance is coming while they'll stay on the phone."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "59.0s - 65.0s",
+          "query": "I'm sorry, I can't watch videos or analyze them directly. However, if you describe the video to me, I'd be happy to help!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 111.40727305412292
+    },
+    {
+      "comment_index": 11516,
+      "video_id": "vvOI3dQ5a30",
+      "comment": "@0:37 “Oh honey, this is just what women do when abortion is illegal.”",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 2.0,
+      "comment_timestamp": 37.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "28.0s - 34.0s",
+          "query": "Visual: The video shows a black background with white text saying \"Alright my lovely... Bear with me a second\" at first. Then it changes to another line that says \"Stay on the phone. I'm not going to hang up the phone, ok?\" There's also an orange sound wave graphic at the bottom.\n\nAudio: Someone is speaking, saying phrases like \"Alright my lovely... Bear with me a second\", \"Stay on the phone. I'm not going to hang up the phone, ok?\". It seems like they're reassuring someone over the phone."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "34.0s - 40.0s",
+          "query": "Visual: The video shows a black background with yellow text that says \"So how's old the baby?\" followed by \"It's in mummy's tummy.\" There is also an orange sound wave at the bottom.\n\nAudio: Someone is speaking, saying \"The baby's in mummy's tummy, ok sweetie...\" and then \"The baby's in mummy's tummy, ok sweetie...\" again."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "40.0s - 46.0s",
+          "query": "Visual: The video shows a black background with white text that reads \"Do you know where mummy is hurt, apart from her head?\" There's also an orange sound wave at the bottom.\n\nAudio: Someone is speaking the question in the text, asking if anyone knows where mommy is hurt besides her head."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 187.71955919265747
+    },
+    {
+      "comment_index": 11517,
+      "video_id": "vvOI3dQ5a30",
+      "comment": "0:06 her voice legit changed the way she talked to the kid and Awh bless the child, she managed to explain so nicely",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 2.0,
+      "comment_timestamp": 6.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "0.0s - 3.0s",
+          "query": "Visual: The video shows a black background with yellow text that reads \"Ambulance Service, tell me what's happened...\" followed by \"Mummy fall down the stairs.\" There is also an orange sound wave graphic at the bottom.\n\nAudio: Someone is speaking, saying \"Ambulance Service, tell me what's happened...\" and then \"Mummy fall down the stairs.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "3.0s - 9.0s",
+          "query": "Visual: The video shows black backgrounds with yellow text appearing on it. There's also an orange sound wave-like pattern at the bottom.\n\nAudio: Someone is speaking, saying \"Your mummy fell down the stairs?\" followed by \"And she's got a baby.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "9.0s - 15.0s",
+          "query": "Visually, it's mostly black with some orange elements like lines or dots. There s no clear scene or objects moving around. The audio has someone speaking, saying \"Did mummy and the baby fall down the stairs at the same time?\" followed by \"Yes.\" It seems to be a conversation between two people. What do you think about that?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 157.24677777290344
+    },
+    {
+      "comment_index": 11518,
+      "video_id": "vvOI3dQ5a30",
+      "comment": "0:08 “And she’s got a baby”  HER MOM HAS DABABY LESSS GOOoOOOooOooOoOoO",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 1.0,
+      "comment_timestamp": 8.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "0.0s - 5.0s",
+          "query": "Visual: The video shows a black background with yellow text that reads \"Ambulance Service, tell me what's happened...\" followed by \"Mummy fall down the stairs.\" There is also an orange sound wave graphic at the bottom.\n\nAudio: Someone is speaking, saying \"Ambulance Service, tell me what's happened...\" and then \"Mummy fall down the stairs.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "5.0s - 11.0s",
+          "query": "Visual: The video shows black backgrounds with yellow text appearing on it. There's also an orange sound wave-like pattern at the bottom.\n\nAudio: Someone is speaking, saying \"Your mummy fell down the stairs?\" followed by \"And she's got a baby.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "11.0s - 17.0s",
+          "query": "Visually, it's mostly black with some orange elements like lines or dots. There s no clear scene or objects moving around. The audio has someone speaking, saying \"Did mummy and the baby fall down the stairs at the same time?\" followed by \"Yes.\" It seems to be a conversation between two people. What do you think about that?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 140.95021748542786
+    },
+    {
+      "comment_index": 11519,
+      "video_id": "vvOI3dQ5a30",
+      "comment": "It's 1:15 am lol",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 1.0,
+      "comment_timestamp": 75.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "66.0s - 72.0s",
+          "query": "Visually, there's just some black background with white and yellow text on it. The text says \"Do you know what that means?\" and then \"Yeah\" below it. There aren't any objects or people moving around.\n\nIn terms of audio, I can only hear someone saying \"Yeah\". There's no other speech, music, or sound effects. It seems like a simple response to something asked about understanding something. What do you think was being discussed?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "72.0s - 78.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "78.0s - 84.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 71.44862031936646
+    },
+    {
+      "comment_index": 11520,
+      "video_id": "vvOI3dQ5a30",
+      "comment": "I am watching it at 4:06am.",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 1.0,
+      "comment_timestamp": 246.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "237.0s - 243.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "243.0s - 249.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "249.0s - 255.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.021588563919067383
+    },
+    {
+      "comment_index": 11521,
+      "video_id": "vvOI3dQ5a30",
+      "comment": "3:30 in the afternoon... But oddly 3:30... Weird ai business....",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 1.0,
+      "comment_timestamp": 210.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "201.0s - 207.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "207.0s - 213.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "213.0s - 219.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.03942537307739258
+    },
+    {
+      "comment_index": 11522,
+      "video_id": "vvOI3dQ5a30",
+      "comment": " @ame3056   feel bad for u but u are not alone i just had breakfast at 1:42 pm",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 1.0,
+      "comment_timestamp": 102.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "93.0s - 99.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "99.0s - 105.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "105.0s - 111.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.004537820816040039
+    },
+    {
+      "comment_index": 11523,
+      "video_id": "vvOI3dQ5a30",
+      "comment": "I know this doesn't have anything to do with the video, but I would like to share these questions and this message with as many people as possible.   1. What do you think happens to someone after they die? 2. Do you think there is an afterlife?  3. If heaven exists, how do you get there?  4. Would you be good enough to get into heaven?   Here are a few questions to see if you are a good person:    1. How many lies have you told in your whole life?  2. Have you ever stolen?  3. Have you ever used God's name in vain? 4. Jesus said that \"whoever looks at a woman to lust for her has already committed adultery with her in his heart\" (Matthew 5:28). Have you ever looked with lust?  5. If you have broken any of these commandments, would you be innocent or guilty on Judgment Day?  6. Would you go to Heaven or Hell?   The Bible says that \"all liars shall have their part in the lake which burns with fire and brimstone\" (Revelation 21:8) and \"Those who indulge in sexual sin, or who worship idols, or commit adultery, or are male prostitutes, or practice homosexuality, or are thieves, or greedy people, or drunkards, or are abusive, or cheat people — none of these will inherit the Kingdom of God\" (1 Corinthians 6:9-10). So, if you are guilty of any of the ten commandments, then you are in trouble when Judgment Day comes! Do you know what God did for guilty sinners so that we wouldn't have to go to Hell?    2,000 years ago, God became a human being, Jesus of Nazareth, who suffered and died on the cross for our sins and rose from the dead on the third day, defeating death. The punishment that we deserve for breaking God's law, Jesus took in our place. He paid the fine that we could never pay so that God can legally set us free by forgiving our sins. He is just, by punishing evil through Jesus’ death on the cross, while being rich in mercy towards us.    What you have to do is repent, or confess and forsake your sins, and trust alone in Jesus Christ. Don't trust your own goodness, because, as Jesus said, “No one is good — except God alone” (Mark 10:18). Trust alone in the savior. The moment you do that, God will forgive every sin you have ever committed and grant you eternal life, and He will give you a new heart with new desires, so that you will love to do what is right. You will be born again. But you must repent and trust in Jesus.    When are you going to do that?   Here is a short Christian movie on this subject and depression: https://www.youtube.com/watch?v=fcqxzXMRGoc",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 1.0,
+      "comment_timestamp": 328.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "319.0s - 325.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "325.0s - 331.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "331.0s - 337.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.004708528518676758
+    },
+    {
+      "comment_index": 11524,
+      "video_id": "vvOI3dQ5a30",
+      "comment": "0:40 fuck the worst pronounciation of English👈",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 1.0,
+      "comment_timestamp": 40.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "31.0s - 37.0s",
+          "query": "Visual: The video shows a black background with white text that says \"Stay on the phone. I'm not going to hang up the phone, ok?\" There's also some orange sound wave-like pattern at the bottom.\n\nAudio: Someone is speaking, saying things like \"So how's old the baby?\" and \"It's in mummy's tummy.\" It seems to be a conversation about a baby being inside someone's stomach."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "37.0s - 43.0s",
+          "query": "Visual: The video shows a black background with white text that says \"The baby's in mummy's tummy, ok sweetie...\" followed by \"It's in mummy's tummy.\" There is also an orange sound wave at the bottom.\n\nAudio: Someone is speaking, saying \"Do you know where mummy's head?\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "43.0s - 49.0s",
+          "query": "Visual: The video shows a black background with white text that says \"Do you know where mummy is hurt, apart from her head?\" followed by \"No\" in yellow. There's also an orange sound wave at the bottom.\n\nAudio: Someone is speaking, asking if the person knows where mommy is hurt other than her head, and then saying \"No.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 136.61649751663208
+    },
+    {
+      "comment_index": 11525,
+      "video_id": "vvOI3dQ5a30",
+      "comment": "Its 4:26 AM here lol",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 1.0,
+      "comment_timestamp": 266.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "257.0s - 263.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "263.0s - 269.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "269.0s - 275.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.006909847259521484
+    },
+    {
+      "comment_index": 11526,
+      "video_id": "vvOI3dQ5a30",
+      "comment": "HOW TO BE SAVED  (How to KNOW you are saved and not just hope you are)   THE BAD NEWS All men have sinned and are in need of a Savior (Rom 3:23 \"For all have sinned, and come short of the glory of God\" ; Rev 21:8 \"But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all LIARS, shall have their part in the lake which burneth with fire and brimstone: which is the second death.  No man can come to God by his own good works and righteousness. (Isaiah 64:6 \"But we are all as an unclean thing, and all our righteousnesses are as filthy rags;\"                                                                                                                                  THE GOOD NEWS 1 Timothy 1:15 tells us \"This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners.\"  How does Jesus save a sinner? From the beginning of the bible to the end, God has only forgiven sins through a BLOOD SACRIFICE, because he is a Holy God he can't forgive sins any other way, Heb 9:22 tells us, \"...without shedding of blood is no remission.\" when Adam sinned, God had to kill a lamb in Adam's place as a substitue, In the Law of Moses, a Blood Sacrifice was demanded for the forgiviness of sins.  Jesus came to die for the sins of the whole world, he came to be OUR Blood Sacrifice, OUR substittue, he came to bear OUR sins on the cross, in OUR place. John 1:29 \"...Behold the Lamb of God, which taketh away the sin of the world.\" What must you do to be saved?  YOU MUST REPENT; You must change from unbelief to belief.  admit you are guilty, that you cannot do anything to save or help save yourself, and that you need Jesus Christ as your savior.  Titus 3:5 \"Not by works of righteousness which we have done. but according to his mercy he saved us,\" Romans 3:28 \"Therefore we conclude that a man is justified by faith without the deeds of the law.\"  Romans 4:5 \"But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness.\"  YOU MUST TRUST; placing your complete faith in what Jesus Christ already did to save you; John 1:12 \"But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:.\" Salvation comes by believing in WHAT Jesus did for you, 1 Cor. 15:1-4 tells us \"Moreover, brethren, I declare unto you the GOSPEL which I preached unto you, which also ye have received, and wherein ye stand; 2 By which also ye are SAVED, if ye keep in memory what I preached unto you, unless ye have believed in vain. 3 For I delivered unto you first of all that which I also received, HOW that Christ died for OUR SINS according to the scriptures; 4 And that he was buried, and that he rose again the third day according to the scriptures:\" All you have to do to be saved, and on your way to heaven is place your TRUST in the shed Blood of Jesus Christ and nothing else, as sufficient for your salvation, (Rom 3:25 \"Whom God hath set forth to be a PROPITIATION through FAITH IN HIS BLOOD, to declare his righteousness for the remission of sins that are past, through the forbearance of God;\") (Propitiation means the act of appeasing wrath, Jesus took your place on the cross.) Will you accept Jesus Christ as your savior by simple faith, simply trusting in his shed Blood for sufficient to save your soul from hell? The last sentence is all you must do to be saved, and that is FAITH, not works, TRUSTING in what someone else did for you is the only thing that is not a work. Please watch Robert Breaker's video titled \"HOW TO GET SAVED\"  If you have received Jesus Christ, by faith in his Blood, you now have eternal life and on your way to heaven! I John 5:11 \"And this is the record, that God hath given to us eternal life, and this life is in his Son.\" John 10:27-28 \"My sheep hear my voice, and I know them, and they follow me: And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand.\" If you got saved because of this message please let me know! You can copy and send this message to others!",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 1.0,
+      "comment_timestamp": 203.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "194.0s - 200.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "200.0s - 206.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "206.0s - 212.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.004272937774658203
+    },
+    {
+      "comment_index": 11527,
+      "video_id": "vvOI3dQ5a30",
+      "comment": "0:14 Kid's mind: *I mean mom has her baby in her tummy so ofcourse, duh!*",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 1.0,
+      "comment_timestamp": 14.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "5.0s - 11.0s",
+          "query": "**Visual:** The video shows a black background with yellow text appearing sequentially. It reads \"Your mummy fell down the stairs?\" followed by \"Mummy fall down the stairs\" and then \"And she's got a baby.\" There are no visible objects or people moving.\n\n**Audio:** The audio consists of someone speaking, saying \"Sorry has she got a baby?\" in a somewhat hesitant tone."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "11.0s - 17.0s",
+          "query": "Visual: The video shows black background with white and yellow text. There's also an orange sound wave at the bottom.\n\nAudio: Someone is speaking, saying \"Did mummy and the baby fall down the stairs at the same time?\" and then \"Yes.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "17.0s - 23.0s",
+          "query": "Sure! So, for the visual part, it looks like there's some kind of text or graphic on screen with an orange wave-like pattern at the bottom. The background is mostly dark. For the audio, I can hear someone speaking, probably asking if they can go up to their mummy. It seems like a child might be involved.What do you think about that?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 154.69868922233582
+    },
+    {
+      "comment_index": 11528,
+      "video_id": "vvOI3dQ5a30",
+      "comment": "0:46  why does that sound like a peppa pig character",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 1.0,
+      "comment_timestamp": 46.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "37.0s - 43.0s",
+          "query": "Visual: The video shows a black background with white text that says \"The baby's in mummy's tummy, ok sweetie...\" followed by \"It's in mummy's tummy.\" There is also an orange sound wave at the bottom.\n\nAudio: Someone is speaking, saying \"Do you know where mummy's head?\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "43.0s - 49.0s",
+          "query": "Visual: The video shows a black background with white text that says \"Do you know where mummy is hurt, apart from her head?\" followed by \"No\" in yellow. There's also an orange sound wave at the bottom.\n\nAudio: Someone is speaking, asking if the person knows where mommy is hurt other than her head, and then saying \"No.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "49.0s - 55.0s",
+          "query": "Visually, there's just black background with some yellow text on it. The text is asking questions like \"Ok, has mummy got her eyes open? Is she talking to you?\" and then says \"She's going back to sleep now.\"\n\nAudio-wise, I can't really tell much about the audio since it seems to be focused mainly on the text displayed visually. There might be some faint background noise or something, but not enough to clearly identify specific sounds."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 192.26441478729248
+    },
+    {
+      "comment_index": 11529,
+      "video_id": "vvOI3dQ5a30",
+      "comment": "0:36   mm, you can hear for a brief moment how the mother being pregnant alerts the Woman",
+      "language": "en",
+      "channel_name": "BBCNews",
+      "category": "news",
+      "likes": 1.0,
+      "comment_timestamp": 36.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "27.0s - 33.0s",
+          "query": "Visual: The video shows a black background with white and yellow text appearing on it. There's also an orange sound wave at the bottom.\n\nAudio: Someone is speaking over the phone, saying \"Mummy's breathing is she?\" and then \"Bear with me a second.\" They continue talking about staying on the phone without hanging up."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "33.0s - 39.0s",
+          "query": "Visual: The video shows a black background with white and yellow text appearing on it. There's also an orange sound wave at the bottom.\n\nAudio: Someone is speaking, saying \"So how's old the baby?\" followed by \"It's in mummy's tummy.\" Then they say \"The baby's in mommy's tummy, ok sweetie...\" and finally just \"mummy's tummy\"."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "39.0s - 45.0s",
+          "query": "Well, I'm not sure if there's anything specific to describe visually here. It seems like it might be just some text on a black background with an orange line at the bottom. As for the audio, it looks like someone is speaking, saying \"The baby's in mummy's tummy, ok sweetie...\" and then asking about where mommy hurts apart from her head. So, that's all I can really say based on these few seconds. What do you think? Do you have any other details or questions about this?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 194.50807094573975
+    }
+  ]
+}

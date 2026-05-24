@@ -6,7 +6,7 @@
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 3991,
+      "comment_index": 2061,
       "video_id": "FsXc3FcWi3g",
       "comment": "13:44 Indonesia and Malaysia are like brothers in real life, sometimes they fight but they really love each other",
       "language": "en",
@@ -19,24 +19,84 @@
         {
           "segment_index": 1,
           "time_range": "815.0s - 821.0s",
-          "query": "VISUAL: The video shows two animated figures with eyes on them. One looks like Australia, with an orange color and a shape resembling the country's landmass. The other is Indonesia, green in color and shaped like its own landmass. They're shaking hands against a dark background with a red cross symbol between them.AUDIO: There's some speech about Australia giving aid to Indonesia after catastrophe incidents, mentioning some controversies involving immigration. It seems to be a factual statement rather than dialogue from characters in the video.If you have any more questions or want to discuss this further, feel free to let me know!"
+          "query": "Well, in the visual part, it seems like there are some cartoonish characters. There's a red cross, and then there are these characters with big eyes and different colors. One looks like a brownish-orange color, and the other is green. They seem to be interacting in some way, maybe shaking hands or something. The background is dark, which makes the characters stand out more.In the audio part, there's some speech. It's talking about Australia giving aid to Indonesia, especially after some catastrophic incidents. There are also some mentions of controversies involving immigration. But it's not clear if the speech is related to the visuals or not.So, what do you think about this video? Do you have any other thoughts or questions?"
         },
         {
           "segment_index": 2,
           "time_range": "821.0s - 827.0s",
-          "query": "VISUAL: There's a map with Australia and Malaysia highlighted. The map has eyes on it. Then there's a man in a white shirt talking against a black background. He gestures while speaking.AUDIO: A male voice is speaking about Australians abroad sharing close ties despite attacks, comparing Indonesia and Malaysia to Colombia. It seems like he's explaining something related to international relations or security.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Visual: The video shows a map of Australia with eyes drawn on it. Then it cuts to a man in a white shirt standing against a black background. There are flags of Malaysia and Indonesia displayed on either side of him. He seems to be speaking or singing, with his hands raised. The overall color scheme is dark with pops of red, white, and blue from the flags.\n\nAudio: The audio contains a voice speaking, but the content of the speech isn't clear from this short segment. There are no distinct sound effects or music."
         },
         {
           "segment_index": 3,
           "time_range": "827.0s - 833.0s",
-          "query": "VISUAL: There's a man in a white t - shirt standing against a black background. He has short dark hair and is gesturing with his hands while speaking. To his left, there are two flags displayed side by side. One flag is red and white, and the other is blue, red, and white with a crescent moon and star in the center.AUDIO: The man is talking about Malaysia and Venezuela having a strange love - hate relationship. It seems like he's explaining something related to these countries. There's no music or sound effects, just his voice. So, what do you think about their relationship?"
+          "query": "Well, in the video, there's a man in a white shirt. He's standing against a black background. There are two flags in the upper left corner - one is the flag of Malaysia and the other is the flag of Indonesia. The man seems to be talking or explaining something, and he's using hand gestures. He's moving his hands up and down, kind of like he's emphasizing points.As for the audio, it's just the man speaking. There's no music or sound effects. It's just his voice, and he's talking about Malaysia and Indonesia, comparing them to twins separated at birth. He's talking about their strange love-hate relationship.So, what do you think about this? Do you have any other questions about the video?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 302.2413647174835
+      "processing_time": 233.59309673309326
     },
     {
-      "comment_index": 3992,
+      "comment_index": 2062,
+      "video_id": "FsXc3FcWi3g",
+      "comment": "12:21 \"B.J Habibie\"     Rest in peace eyang B.J Habibie :\")",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 670.0,
+      "comment_timestamp": 741.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "732.0s - 738.0s",
+          "query": "Visually, there's a person in a white shirt standing against a black background. The person seems to be talking or presenting something. There are also some text captions appearing on the screen, like \"Indonesian Longhouses\" and \"Toraja people.\" The overall scene is quite simple, with a focus on the person and the text. There's no other significant movement or objects in the frame."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "738.0s - 744.0s",
+          "query": "Visual: The video shows a black-and-white photo of a man wearing a traditional hat. Then it transitions to a color image of another man with glasses, standing against a grid-like background.\n\nAudio: There is no distinct audio mentioned here, so I can't describe any specific sounds or speech."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "744.0s - 750.0s",
+          "query": "Visual: The video shows a man in a suit standing in front of a red background with some text on it. Then it cuts to a woman in a red dress singing into a microphone on a stage with a blue background. There are also some people in the background, but they're not the focus. The colors are mainly red and blue, and the movement is mainly the woman singing and the camera switching between the two scenes.\n\nAudio: There's a man speaking in the beginning, and then the woman starts singing. The singing is the main audio focus."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 198.32070064544678
+    },
+    {
+      "comment_index": 2063,
+      "video_id": "FsXc3FcWi3g",
+      "comment": "4:24 Teman Mini Indonesia Indah :v",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 428.0,
+      "comment_timestamp": 264.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "255.0s - 261.0s",
+          "query": "Well, in the visual part, there's this really interesting scene. It looks like a cave entrance, and it's got these amazing stone carvings all around it. There are some statues that seem to be part of the cave's architecture. And then, there are these two people standing in front of it. They're kind of looking at the camera, and they seem to be posing for a picture. The colors are mostly earthy tones, like browns and grays, which gives it a really ancient and mysterious feel. There's not much movement, just the two people standing there.The audio part is pretty simple. There's just some background music playing. It's not too loud, but it adds a bit of a mood to the scene. There's no speech or any other sound effects. It's just the music that you can hear.Anything else you want to know about this video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "261.0s - 267.0s",
+          "query": "**Visual:** The video shows an aerial view of a park with a circular layout. There are various structures, including a large dome-shaped building in the center. The park is surrounded by greenery, and there are pathways and smaller buildings scattered around. The colors are vibrant, with lots of green from the trees and plants, and the buildings have a mix of earthy tones and bright colors.\n\n**Audio:** The audio features a person speaking in English. They mention \"Taman Mini Indonesia Indah\" and describe it as a park with replicas of famous Indonesian sites. The speech is clear and informative."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "267.0s - 273.0s",
+          "query": "Visually, there's a man in a white shirt standing in front of a black background. He's gesturing with his hands. In the top left corner, there's a picture of a white building with a red roof and some cars parked in front of it. The building looks like it has a Dutch colonial style. There's also a small window in the top right corner of the video, showing a bit of the room where the man is. The colors are mainly white, black, and red. The movement is mainly the man's hand gestures and the slight movement of the cars in the picture.The audio is just the man speaking. There's no music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 284.32318353652954
+    },
+    {
+      "comment_index": 2064,
       "video_id": "FsXc3FcWi3g",
       "comment": "7:32 i know this is from Indonesia this is Indonesia national food  uhh (Im from Japan 🇯🇵)",
       "language": "en",
@@ -49,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "443.0s - 449.0s",
-          "query": "VISUAL: There's a man in a white shirt talking against a black background. Then it cuts to some food items like palm oil, cloves, cinnamon, nutmeg, and other spices on a table with green leaves. The scene is bright and colorful.AUDIO: A male voice is speaking about Indonesia being a top producer of certain products. It's clear and informative.If you want to know more about these products or have any other questions related to this, feel free to ask!"
+          "query": "Well, in the visual part, there's a guy in a white shirt. He seems to be talking or presenting something. There are also some images of food items like pasta and what looks like a bowl of soup. The background is mostly dark, which makes the food stand out.In the audio part, there's a voice speaking. The speech is in English and it's about Indonesia being a top producer of palm oil, cloves, cinnamon, nutmeg, and other things. It's just the voice, no music or sound effects. It's a pretty straightforward description. So, what do you think about this? Do you have any other questions?"
         },
         {
           "segment_index": 2,
           "time_range": "449.0s - 455.0s",
-          "query": "VISUAL: There's a man in a white shirt standing against a black background. He seems to be talking or presenting something. In the top left corner, there's an inset showing a variety of colorful dishes on plates. The main part shows different food items like coconuts and some kind of meat dish with sauce and garnishes.AUDIO: A male voice is speaking about national dishes including rendang, satay, and gado - gado. It sounds like he might be explaining these dishes in detail.If you want to know more about any specific part of the video, feel free to ask!"
+          "query": "Visually, the video shows a close - up of a bowl of soup with a spoon in it. There are some green leaves on top of the soup. The background is slightly blurred, but you can see some other food items, like what looks like a piece of bread or a cracker. The colors are warm and earthy, with the green of the leaves standing out against the lighter colors of the soup and background. There's a sense of stillness, with no movement from the objects or people in the frame. The lighting is soft, giving the scene a cozy, homey feel.Audibly, there is a voice speaking in a language that sounds like it could be Indonesian or a related language. The speaker is saying something about \"coconut\" and \"vanilla\" and mentions \"national dishes\" like \"rendang\" and \"satay.\" The tone is neutral, just stating facts without much emotion."
         },
         {
           "segment_index": 3,
           "time_range": "455.0s - 461.0s",
-          "query": "VISUAL: The video shows various Malaysian dishes. There's a bowl with a yellowish soup or curry, some vegetables like tomatoes and green leaves, and a fried fish on a banana leaf. There are also rolls filled with ingredients, a plate with a fried egg over rice mixed with shrimp and other veggies, and a large mound of food surrounded by smaller dishes. The colors are vibrant, with lots of greens, reds, yellows, and browns.AUDIO: I can't really tell what's being said in the audio since it's not provided. But there might be background music playing to complement the visuals.If you want to know more about these dishes or have any other questions related to this, feel free to ask!"
+          "query": "Visually, the video shows a close-up of a colorful dish. There are various ingredients like vegetables, meat, and possibly some spices. The colors are vibrant, with greens, reds, and yellows standing out. The dish seems to be in a bowl or plate, and there's a flag of Malaysia in the background. The movement is mainly the camera focusing on the dish, giving a detailed view of its contents.Audibly, there's a voice speaking in a language that sounds like it could be related to Malaysia, possibly describing the dish. The speech is clear and the tone seems informative."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 278.1559844017029
+      "processing_time": 307.3224425315857
     },
     {
-      "comment_index": 3993,
+      "comment_index": 2065,
       "video_id": "FsXc3FcWi3g",
       "comment": "From 🇯🇵 to 🇮🇩, with love!  10:17 My heart hurts ... I'm full of feelings of \"sorry\" 14:11 I was happy to hear.  (I wish the video had Japanese subtitles, and I wish I could understand English properly!)",
       "language": "en",
@@ -79,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "842.0s - 848.0s",
-          "query": "VISUAL: The video shows a man standing against a black background with two flags on his left side - one red and white horizontal flag and another red circle on white flag. There's also an emoji of a smiling face with big eyes at the top right corner. The man is wearing a white t-shirt and has short dark hair. He seems to be talking or presenting something while gesturing with his hands.AUDIO: There's a male voice speaking throughout the video. It starts with \"it's like they're totally brothers\" and continues with some more words about Indonesia and Japan being friends. There are no other distinct sounds like music or sound effects."
+          "query": "**Visual:** The video shows two flags - one red and white with a blue star, likely Indonesia's flag, and another red circle on white, which is Japan's flag. There's also an image of a frog with big eyes. A person wearing a white shirt appears to be talking or presenting something.\n\n**Audio:** Someone is speaking about how Indonesians often consider Japan as their best friend, finding it amusing."
         },
         {
           "segment_index": 2,
           "time_range": "848.0s - 854.0s",
-          "query": "VISUAL: There's a man in a white shirt standing against a black background. To his left, there are two flags - one red and white horizontal stripe flag on top, and below it, a Japanese flag with a red circle on white. Then, an animated map appears showing some islands with eyes and bags on them.AUDIO: A male voice is speaking about Japan's past during World War II and how they've moved on today, mentioning that Japan makes up the largest export partner. So, what do you think about this? Do you have any other thoughts or questions related to this?"
+          "query": "Oh, I see what you're asking. So, in the video, there's this guy in a white shirt. He's standing there, and there are two flags on the left side of him. One is red and white, and the other is red with a white circle in the middle. Then, in the background, there's a map of Japan with eyes on it. The eyes are white with black pupils, and they seem to be looking at something.Now, for the audio part. There's a voice talking about Japan's past actions during World War II and how they've moved on. The voice is calm and informative.Anything else you want to know about this video?"
         },
         {
           "segment_index": 3,
           "time_range": "854.0s - 860.0s",
-          "query": "VISUAL: The video shows an animated map with eyes on it. There's also a couple holding hands on the map. Then there's a man standing against a black background with a red and white flag to his left.AUDIO: A male voice is speaking throughout the video. It seems like he's talking about Indonesia and tourism. He mentions tourists flocking year - round and something about building up for over half a century. And at the end, he says \"in conclusion\" before mentioning Indonesia's people.So, what do you think about this? Do you have any other questions related to the video?"
+          "query": "Well, in the visual part, there's a map of Indonesia with some cartoonish eyes and a heart on it. And then there's a man in a white shirt standing in front of a red and white flag. He seems to be talking or presenting something. In the audio part, there's a man speaking. He's talking about tourists flocking in year - round and how two things have been building each other up for over half a century. He also mentions something about Indonesia's people. So, what do you think about this? Do you have any other questions?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 307.48726058006287
+      "processing_time": 244.32857537269592
     },
     {
-      "comment_index": 3994,
+      "comment_index": 2066,
       "video_id": "FsXc3FcWi3g",
       "comment": "5:33 fun fact: today we  got a earthquake",
       "language": "en",
@@ -109,24 +169,174 @@
         {
           "segment_index": 1,
           "time_range": "324.0s - 330.0s",
-          "query": "VISUAL: There's a man in a white t - shirt standing against a black background. He seems to be talking or presenting something. In the top left corner, there's an inset image showing a cracked road with some greenery on either side and a person walking in the distance.AUDIO: The main audio is someone speaking about earthquakes, mentioning that there are about four a day, ranging from small ones to noticeable ones on the Richter scale. There are no other distinct sounds like music or sound effects. So, it's just the speech. What do you think about earthquakes? Do you live in an area prone to them?"
+          "query": "Well, in the video, there's a guy in a white shirt. He's standing in front of a black background and he's talking and gesturing with his hands. There's also a small inset picture in the top left corner showing a cracked road. The road looks like it's in a rural area with some greenery around it.As for the audio, it's just the guy talking. There's no music or sound effects or anything else. It's just his voice. So, what do you think about this video?"
         },
         {
           "segment_index": 2,
           "time_range": "330.0s - 336.0s",
-          "query": "VISUAL: There's a man in a white shirt talking against a black background. In the top left corner, there's an inset image showing a cracked road. Then it changes to show a flag with blue, white, and red sections, and finally a volcano erupting with smoke and lava. The man is gesturing while speaking.AUDIO: Someone is speaking about volcanoes being unpredictable and impressive. It seems like they're discussing the potential danger or awe of volcanic eruptions.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's a man in a white shirt standing in front of a black background. He seems to be talking or presenting something. There are also some images shown, like a cracked road and a volcano erupting. The man is gesturing with his hands while speaking. The overall color scheme is dark with the white shirt and the bright images contrasting against the black background. There's also a small inset image of a cracked road in the upper left corner of the screen."
         },
         {
           "segment_index": 3,
           "time_range": "336.0s - 342.0s",
-          "query": "VISUAL: There's a man in a white t - shirt standing against a black background. He seems to be talking or presenting something. In the top left corner, there's an image of a volcano erupting with smoke and lava. The man is gesturing with his hands while speaking.AUDIO: A male voice is speaking about something related to climate and minerals near the equator. It's just him talking without any other sounds like music or sound effects.So, what do you think about this? Do you have any other videos for me to analyze?"
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short description. It doesn't seem like it gives enough information about either the visual or the audio aspects of the video. Hmm. Maybe you could give me more details? That way, I can help you better!"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 279.2568473815918
+      "processing_time": 212.82958960533142
     },
     {
-      "comment_index": 3995,
+      "comment_index": 2067,
+      "video_id": "FsXc3FcWi3g",
+      "comment": "10:09 Jika saja pelajaran Sejarah bisa sederhana seperti itu. 😂  If only history lessons in Indonesia can be THAT simple.😂",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 231.0,
+      "comment_timestamp": 609.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "600.0s - 606.0s",
+          "query": "**Visual:** The video shows a man in a white t-shirt standing against a black background. There's a small inset image in the top left corner showing a group of people, possibly in a school or office setting. The man appears to be speaking or presenting, using hand gestures. Text on the screen provides translations of words like \"Dutch,\" \"Indonesian,\" \"Kantoor/Kantor\" and \"Doctor/Dokter.\"\n\n**Audio:** The audio includes a male voice speaking, likely explaining or narrating something related to the visual content. The speech is in English, and it seems to be providing context or information about the words and images shown."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "606.0s - 612.0s",
+          "query": "Visual: A man in a white shirt is standing against a dark background. He's gesturing with his hands as if explaining something. There are some words on the screen, like \"Dutch / B. Indonesian\" and \"Wortel - Wortel (Carrot)\". The background seems plain, with no other objects or scenery.\n\nAudio: The man is speaking, likely explaining something related to the words on the screen. There are no other sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "612.0s - 618.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short description. It doesn't seem like it gives enough information about either the visuals or the audio. Maybe you could give me more details?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 205.33479380607605
+    },
+    {
+      "comment_index": 2068,
+      "video_id": "FsXc3FcWi3g",
+      "comment": "12:19 \"gada majah.\"😂",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 193.0,
+      "comment_timestamp": 739.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "730.0s - 736.0s",
+          "query": "**Visual:** The video shows a group of people gathered around a figure that appears to be a mummified body. They are dressed in traditional clothing, with some wearing hats and others in brightly colored garments. The setting seems to be outdoors, possibly in a rural area. There are trees and a thatched-roof structure in the background. The people are interacting with the mummified body, touching and examining it. The colors are mostly earthy tones, with pops of red and blue from the clothing.\n\n**Audio:** The audio includes a voiceover that says, \"Indonesian Longhouses.\" There are no other distinct sounds or music in the audio."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "736.0s - 742.0s",
+          "query": "Visually, there's a man wearing a white shirt against a dark background. Then it switches to a black and white photo of a person with \"Sukarno\" written below. After that, we see a statue of someone in traditional attire outdoors. The audio has some speech throughout, but no specific details about its content can be given here."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "742.0s - 748.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short time frame. There might be no visible objects or people moving around, just maybe some static images or something. And for the audio? Hmm, it could be complete silence since we don't have enough information about what was said or played. What do you think? Did you notice anything different when watching it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 187.37262988090515
+    },
+    {
+      "comment_index": 2069,
+      "video_id": "FsXc3FcWi3g",
+      "comment": "11:32 noh bule yg belum tentu muslim aja heran kok pakaian muslimah ceweknya bisa begitu 😂😂  \"kok bisa mereka begitu?\" katanya *keheranan mungkin di tempat dia gk ada yg berpakaian begitu kalau muslimah",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 184.0,
+      "comment_timestamp": 692.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "683.0s - 689.0s",
+          "query": "Visually, there's a man in a white shirt standing in front of a black background. He seems to be talking and gesturing with his hands. There are also some images in the background, one of which shows a crowd of people, possibly celebrating Eid Al-Fitr. The other image shows a person, likely related to the celebration. The overall scene looks like it's about Eid Al-Fitr.\n\nAudio - There's a man speaking in the audio. He's talking about Eid Al-Fitr and mentions something about the night before it. He also talks about youth gathering and reciting takbeer in neighborhoods."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "689.0s - 695.0s",
+          "query": "Well, I can't actually watch videos directly here. But if you describe them to me, I'll be happy to analyze them for you! So, go ahead and tell me about what's happening in those six seconds."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "695.0s - 701.0s",
+          "query": "Well, I'm not sure if there's actually any audio or visual content to analyze here. It seems like it might be an empty response. Maybe you could double - check the details? If you have more information about the video, feel free to share!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 176.62108516693115
+    },
+    {
+      "comment_index": 2070,
+      "video_id": "FsXc3FcWi3g",
+      "comment": "11:47 bahkan orang luar pun cringe melihat kita",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 167.0,
+      "comment_timestamp": 707.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "698.0s - 704.0s",
+          "query": "Visual: There's a man in a white t - shirt talking and gesturing. In the background, there are images of people riding motorcycles. There's also an image of a pair of blue jeans. The overall scene seems to be indoors with a dark background. The man is the main focus, and the images in the background are smaller and not the main focus. The colors are mainly white, blue, and the dark background color. The movement is mainly the man talking and gesturing, and the images in the background are static.\n\nAudio: The main audio is a man speaking. There are no other distinct sounds like music or sound effects. The speech is the only audible part."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "704.0s - 710.0s",
+          "query": "Well, in the visual part, there's a guy in a white t-shirt. He seems to be talking or reacting to something. And there's also a picture of a pair of pants in the top left corner. The background is all black, which makes the guy and the pants picture really stand out.In the audio part, it's just the guy talking. There's no music or sound effects or anything else. It's just his voice.So, what do you think about this video? Do you have any other questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "710.0s - 716.0s",
+          "query": "Visual: The video shows a man in a white shirt talking and gesturing. There's also a smaller inset image of a crowd in red. Then it cuts to a woman in traditional Minangkabau clothing, performing a candle dance. She's wearing a colorful headdress and holding candles. The background has a decorative, possibly temple-like design.\n\nAudio: The man is speaking, likely explaining something. There's no music or sound effects, just his speech."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 284.7246136665344
+    },
+    {
+      "comment_index": 2071,
+      "video_id": "FsXc3FcWi3g",
+      "comment": "10:21 Soo bakso.... Ting ting ting",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 139.0,
+      "comment_timestamp": 621.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "612.0s - 618.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short description. It doesn't seem like it gives enough information about either the visuals or the audio. Maybe you could give me more details?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "618.0s - 624.0s",
+          "query": "Well, I'm sorry, but it seems there's been some confusion here. The image you've described doesn't match up with the text that was given to me. It looks like we might have mixed things up. Could you please clarify or give me more details? That way, I can help you better."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "624.0s - 630.0s",
+          "query": "Visual: The video shows a collage of images. There are pictures of people protesting, holding signs, and some scenes of destruction or chaos. There's also an image of a passport with \"Indonesia\" written on it. The background is mostly dark, and the images are arranged in a somewhat chaotic, overlapping manner. The colors are varied, with reds, blues, and greens being prominent in some of the protest images. The movement is mostly static, with the images just being shown in a collage format.\n\nAudio: The audio consists of a voice speaking in English. The speaker says, \"Sorry but this will take too long to explain.\" The tone is somewhat apologetic and resigned. There are no other sounds or music in the audio."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 225.41720056533813
+    },
+    {
+      "comment_index": 2072,
       "video_id": "FsXc3FcWi3g",
       "comment": "the correct is \"TAMAN MINI\"  not  \"TEMAN MINI\" as written here : 4:22 TAMAN MINI means  \"SMALL PARK/GARDEN\" - TEMAN MINI means \"SMALL FRIEND\"",
       "language": "en",
@@ -139,24 +349,24 @@
         {
           "segment_index": 1,
           "time_range": "253.0s - 259.0s",
-          "query": "VISUAL: The video shows a temple with intricate carvings and statues. There's also a pagoda with multiple tiers and red decorations around it. The background has trees and some buildings. The camera seems to be panning across these structures.AUDIO: There is no distinct audio mentioned here. It could just be the ambient noise from the surroundings like wind or distant chatter.If you have any other questions about the video or need more details, feel free to ask!"
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short time frame. There might be some text or images popping up quickly, but without more details it's hard to say for sure. Maybe you could give me a bit more context about what was shown? That way I can help you better!"
         },
         {
           "segment_index": 2,
           "time_range": "259.0s - 265.0s",
-          "query": "VISUAL: The video shows a person holding a blackened mummy - like object with a headpiece on it. Then there's an aerial view of Teman Mini Indonesia Indah park, showing its layout with buildings, greenery, and a central circular area with a red design.AUDIO: There is some narration about the villages of Aikim and Jiwika in Papua or the Teman Mini Indonesia Indah park. It seems to be explaining something related to these places.If you want to know more about these places or have other questions, feel free to ask!"
+          "query": "**Visual:** The video shows an aerial view of a park with various miniature buildings representing different Indonesian landmarks. There's a large circular structure in the center surrounded by smaller structures. The area is landscaped with greenery and pathways.\n\n**Audio:** Someone is speaking about visiting the Taman Mini Indonesia Indah park to see the mini villages of Aikim and Jiwika."
         },
         {
           "segment_index": 3,
           "time_range": "265.0s - 271.0s",
-          "query": "VISUAL: The video shows a large, intricately carved gate with statues and detailed carvings. There's also a building behind it that looks like a traditional Indonesian structure. In another scene, there's a man in a white shirt talking against a black background. He has his hands outstretched while speaking. There's an inset image of a white building with red domes in the upper left corner.AUDIO: The audio includes someone speaking about replicas of famous sites in Indonesia, mentioning Dutch colonial style buildings and ancient temples. There are no distinct sound effects or music."
+          "query": "Visual: The video shows a man in a white shirt standing against a black background. There's also a small inset image of a large, white, colonial-style building with multiple domes and a car parked in front of it. The main part of the video seems to be focused on the man, who is gesturing with his hands while speaking. The background is plain black, which makes the man and the inset image stand out clearly. The colors are mainly white, black, and the natural colors of the building in the inset. There's no visible movement of objects or people in the main part of the video, just the man's gestures.\n\nAudio: The audio consists of a man speaking. There are no other sounds like music, sound effects, or ambient noises. The speech is the only audible element."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 277.4667465686798
+      "processing_time": 198.70369911193848
     },
     {
-      "comment_index": 3996,
+      "comment_index": 2073,
       "video_id": "FsXc3FcWi3g",
       "comment": "10:20  Barby : \"The Suharto Years\" The subtitle : \"Oh no....\"  Suharto's Intel : \"So you choosen death\"",
       "language": "en",
@@ -169,24 +379,24 @@
         {
           "segment_index": 1,
           "time_range": "611.0s - 617.0s",
-          "query": "VISUAL: The video shows different historical scenes. There's an ancient temple with multiple spires against a blue sky. Then it transitions to a large building with columns and a crowd inside. Next is a painting - like scene of a group of people outside a building, some kneeling. Finally, there's a black and white photo of soldiers on a ship with a flag.The colors are mainly earthy tones for the buildings and temples, bright blues for the sky, and muted colors for the paintings and photos. Movements include the camera panning across the temple and zooming into the building interior, then showing still images of the painting and photo.AUDIO: There's no distinct speech or music in the audio. Just the sound of the video playing, which includes the background noise from the scenes shown. It's mostly silent except for that. So, what do you think about these historical scenes? Do you have any other questions related to them?"
+          "query": "Visually, the video shows a large building with a classical architectural style, like columns and a dome. There are also some people in the foreground, possibly tourists or visitors, and a mountainous landscape in the background. The colors are somewhat muted, giving it an old or historical feel. The movement is mainly the people walking around and looking at the building.The audio has a man speaking, but the content of what he's saying isn't clear from this short segment. There are no distinct sound effects or music."
         },
         {
           "segment_index": 2,
           "time_range": "617.0s - 623.0s",
-          "query": "VISUAL: The video shows a black - and - white photo of Japanese soldiers on a ship with their flag. Then it transitions to a collage of images including a Time magazine cover featuring two men, protests with banners like \"FREE EAST TIMOR NOW\" and \"REFERENDUM FOR WEST PAPUA\", and some violent scenes with fire and destruction. There's also a man in military uniform holding a flag.AUDIO: There is no distinct audio mentioned in your description. So I can't really describe any specific sounds or speech.If you have more details about the audio or other aspects of the video that weren't covered here, feel free to share!"
+          "query": "Visual: The video shows a collage of images related to Indonesia's history. There are pictures of soldiers with Japanese flags, crowds protesting, and political figures like Suharto. It seems to depict various events from different periods.\n\nAudio: There is some kind of narration or explanation playing over the visuals, but it's difficult to make out clearly due to the short duration mentioned."
         },
         {
           "segment_index": 3,
           "time_range": "623.0s - 629.0s",
-          "query": "VISUAL: The video shows a collage of images related to protests and political events. There's a burning barricade with people around it, a group holding a \"FREE EAST TIMOR NOW\" sign, another with a \"REFERENDUM FOR WEST PAPUA\" banner, and some people in military uniforms. There's also an image of a passport from Indonesia. The background has a marble texture.AUDIO: There is no distinct audio mentioned in your description. So I can't really describe any specific sounds or speech.If you have more details about the audio that weren't included here, feel free to share!"
+          "query": "Sorry, I can't analyze videos directly. But if you describe them to me, I'd be happy to help!"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 412.81785583496094
+      "processing_time": 186.66706252098083
     },
     {
-      "comment_index": 3997,
+      "comment_index": 2074,
       "video_id": "FsXc3FcWi3g",
       "comment": "13:55 Indonesia & malaysia be like : love hate (i hate u, i love u). Indonesia & japan be like : love each other 😂🤣 damnn its true. What kind of love is this? 😂",
       "language": "en",
@@ -199,54 +409,24 @@
         {
           "segment_index": 1,
           "time_range": "826.0s - 832.0s",
-          "query": "VISUAL: There's a man in a white V - neck shirt standing against a black background. He has short dark hair and is wearing earphones. His hands are moving as if he's explaining something. In the top left corner, there are two flags side by side. One flag is red and white with a blue square in the center containing a yellow crescent moon and star. The other flag is also red and white with horizontal stripes.On AUDIO: A male voice is speaking. It seems to be talking about Colombia and Venezuela being like twins separated at birth and having a strange love for Southeast Asia. What do you think about that comparison?"
+          "query": "Well, in the video, there's a man in a white shirt. He's standing in front of a black background. There are two flags on the left side of him. One is the flag of Malaysia, and the other is the flag of Indonesia. The man is talking and making some hand gestures. He seems to be explaining something about these two countries. The flags are clearly visible and are the main objects in the scene. There's no music or sound effects in the audio. It's just the man's speech. So, what do you think about this? Do you have any other questions?"
         },
         {
           "segment_index": 2,
           "time_range": "832.0s - 838.0s",
-          "query": "VISUAL: There's a man in a white shirt against a black background. He seems to be talking or reacting with his hands up. Then it cuts to an animated map with eyes on it. The map has a sad face emoji above it.AUDIO: There's some kind of narration or speech going on, but I can't really make out the words clearly.What do you think about these two different perspectives?"
+          "query": "Visually, there's a map of Southeast Asia with some cartoonish elements. There are three crescent moons, one with a speech bubble containing a yellow emoji. The colors are mainly dark blue for the background and green for the landmasses. There's some movement in the form of the crescent moons and the speech bubble.\n\nAudio - There's a male voice speaking in English. The speech is about a conflict between Malays and Indonesians regarding culture and language."
         },
         {
           "segment_index": 3,
           "time_range": "838.0s - 844.0s",
-          "query": "VISUAL: The video shows an animated scene with a map-like background. There are large eyes on the map, some with angry faces in speech bubbles. Then two figures appear, one wearing a flag - like outfit and the other in red. They seem to be interacting. The colors are mainly dark for the background and bright for the characters and flags.AUDIO: There's no clear audio described here, just the mention that there is \"grateful for all their help during war times\" which seems to be a voiceover or narration related to the visuals. It doesn't specify if it's music or something else.If you have any more questions about this or want to discuss further, feel free to let me know!"
+          "query": "Visually, the video shows a map with various symbols on it. There are speech bubbles with different facial expressions, like a smiling face and a sad face. There are also flags, including the Japanese flag. The map seems to be of a region, possibly Southeast Asia. The symbols and flags are moving around on the map, giving a sense of interaction or connection between the different elements. The colors are mostly muted, with the map being dark and the symbols and flags standing out against it. The movement is smooth and continuous, suggesting a flow of some kind, like a journey or a connection between the different parts of the map.Audibly, there is a voice speaking in a calm and measured tone. The speech is in English and seems to be expressing gratitude and a sense of brotherhood among people. The voice is clear and the background is relatively quiet, allowing the speech to be the main focus."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 281.4230434894562
+      "processing_time": 303.4971168041229
     },
     {
-      "comment_index": 3998,
-      "video_id": "FsXc3FcWi3g",
-      "comment": "I know if this was 3 years ago, but still— As an Indonesian, I want to say somethin'  10:55 Well, both are correct from my guessing, but I don't really know because people don't really into the topic xD  11:10 Yes, not all Masjid have the same structure, some may even have similarities with Hindu temples, but if you ask me, some Masjid that have similarities to Hindu temples are because during the reign of the sultan in ancient times, Islam existed, Masjid were like that in the past, so some Masjid was not from people who get the inspiration from Hindu temples, they were pure build like that from the past, but still not all of them have such a same structure.  11:30 In Indonesia, NOT all Muslim women wear such clothes, those who are Muslim really respect manners, and it is very obligatory to cover what they call aurat, all body parts such as knees or arms must be covered, you know. Young people today, indeed most of them are still young and also selfish, but let me say once again, not all Muslim women are like that, and fortunately there are still many who have awareness in the style of dress as Muslim women, so only a little like that.  11:47 ( Explanation, again x) ) Not every Muslim women in Indonesia like that, even though they don't wear clothes like those in other places, here although they are different, most of them pay attention to being fashionable, even so they still cover what they call aurat, so as your answer from me :  \" Hmmm ... NO \" Back to the explanation I gave earlier  So just that I guess 😂😂 Thank you so much for your Geography/Explanation about our Country. The others was correct and perfect, and not wrong... And i like your Long-Short explanation tho, that was really good tbh 😂😂👌 Once again, let me gift my Big Thanks to you, really.. Thank you for your hard work, me and the others from my country really appreciate that, stay safe and stay healthy, gb（๑⌒▽⌒๑）",
-      "language": "en",
-      "channel_name": "GeographyNow",
-      "category": "culture",
-      "likes": 106.0,
-      "comment_timestamp": 690.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "681.0s - 687.0s",
-          "query": "VISUAL: There's a man in a white shirt talking against a black background. In an inset picture on the left side, there are people gathered around a casket with a photo frame on it. Then another inset shows a group of women holding torches at night. The main scene is just the man talking.AUDIO: A male voice is speaking about anniversaries and the night before Eid Al-Fitr when youth might gather and go around. It seems to be some kind of narration or explanation.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "687.0s - 693.0s",
-          "query": "VISUAL: There's a man in a white V - neck shirt standing against a black background. He seems to be talking or presenting something. In the top left corner, there's an inset image showing a group of people celebrating Eid Al - Fitr at night. They're holding torches and smiling. Then it changes to another inset image of a woman wearing a headscarf, an orange top, and jeans, standing outdoors.AUDIO: The main audio is someone speaking about Middle Eastern neighborhoods reciting takbeer, mentioning that modesty customs are pretty loose. There are no other distinct sounds like music or sound effects.What do you think about these observations? Do you have any other thoughts on the video?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "693.0s - 699.0s",
-          "query": "VISUAL: There's a man in a white V - neck shirt talking against a black background. In the top left corner, there are two images changing. First is a woman wearing a headscarf, an orange top with some design on it, and blue jeans. Then it changes to a group of people riding motorcycles, one motorcycle is red. The man seems to be gesturing while speaking.AUDIO: A male voice is speaking about Muslim women not all wearing hijabs and those who do might wear branded t - shirts along with it. It's just his speech without any other sounds like music or sound effects.If you have any thoughts or questions about this analysis, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 313.67268681526184
-    },
-    {
-      "comment_index": 3999,
+      "comment_index": 2075,
       "video_id": "FsXc3FcWi3g",
       "comment": "6:06 Komodo Dragon is the largest LIZARD on earth, not reptile. Saltwater Crocodile is the largest reptile on earth.",
       "language": "en",
@@ -259,24 +439,54 @@
         {
           "segment_index": 1,
           "time_range": "357.0s - 363.0s",
-          "query": "VISUAL: There's a man in a white shirt standing against a black background. He seems to be talking or presenting something. In the top left corner, there are images of flowers labeled \"Rafflesia arnoldii\" and \"Titan Arum\". The man is gesturing with his hands.AUDIO: A male voice is speaking about the Rafflesia arnoldii and Titan Arum being the largest flowers in the world that smell like rotting corpses and are over 180 centimeters tall.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's a man in a white shirt standing against a black background. He's gesturing with his hands while talking. In the top left corner, there's an image of a large flower labeled \"Titan Arum.\" The flower is orange and red with a dark center. The man seems to be explaining something about the flower.\n\nAudio-wise, the man is speaking, likely about the Titan Arum. There are no other sounds like music or sound effects."
         },
         {
           "segment_index": 2,
           "time_range": "363.0s - 369.0s",
-          "query": "VISUAL: There's a man in a white shirt talking against a black background. On the left side, there are images of different animals changing rapidly - first a bat, then a lizard. The number \">180\" is also visible next to these images.AUDIO: A male voice is speaking throughout the clip. It seems like he's explaining something about mammals and reptiles. He mentions that somewhere has the highest concentration of mammals globally, but its national animal is actually a reptile.If you want to know more about this or have other questions, feel free to ask!"
+          "query": "Well, in the video, visually, there's a man in a white shirt standing against a black background. There's also a picture of a bat hanging upside down in a green leafy area. The man seems to be talking and gesturing with his hands. In the audio, there's a man speaking, but the speech is in Chinese. He's talking about something related to animals, mentioning \"180\" and \"mammals\" and \"reptiles\". So, it seems like he's discussing some facts about animals. What do you think he might be talking about specifically?"
         },
         {
           "segment_index": 3,
           "time_range": "369.0s - 375.0s",
-          "query": "VISUAL: There's a man in a white shirt talking against a black background. In the top left corner, there's an image of a Komodo dragon on grass. Then it changes to a map showing Komodo Island and Labuan Bajo with red arrows pointing from Komodo Island to those places.AUDIO: The man is speaking about the Komodo dragon, mentioning its length and where they can be found. There are no other sounds like music or sound effects. So, that's my analysis. What do you think? Do you have any other questions about the video?"
+          "query": "Visually, there's a man in a white shirt talking and gesturing. There's also an image of a Komodo dragon in the top left corner. The background is mostly dark. The Komodo dragon image shows the dragon on grass, with some red arrows pointing towards different areas on a map labeled \"Komodo Dragon.\".Audio: The man is speaking, and the speech is about the Komodo dragon being the largest in the world, about 3 meters long, and found on Komodo Island."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 286.83912777900696
+      "processing_time": 291.00625133514404
     },
     {
-      "comment_index": 4000,
+      "comment_index": 2076,
+      "video_id": "FsXc3FcWi3g",
+      "comment": "I know if this was 3 years ago, but still— As an Indonesian, I want to say somethin'  10:55 Well, both are correct from my guessing, but I don't really know because people don't really into the topic xD  11:10 Yes, not all Masjid have the same structure, some may even have similarities with Hindu temples, but if you ask me, some Masjid that have similarities to Hindu temples are because during the reign of the sultan in ancient times, Islam existed, Masjid were like that in the past, so some Masjid was not from people who get the inspiration from Hindu temples, they were pure build like that from the past, but still not all of them have such a same structure.  11:30 In Indonesia, NOT all Muslim women wear such clothes, those who are Muslim really respect manners, and it is very obligatory to cover what they call aurat, all body parts such as knees or arms must be covered, you know. Young people today, indeed most of them are still young and also selfish, but let me say once again, not all Muslim women are like that, and fortunately there are still many who have awareness in the style of dress as Muslim women, so only a little like that.  11:47 ( Explanation, again x) ) Not every Muslim women in Indonesia like that, even though they don't wear clothes like those in other places, here although they are different, most of them pay attention to being fashionable, even so they still cover what they call aurat, so as your answer from me :  \" Hmmm ... NO \" Back to the explanation I gave earlier  So just that I guess 😂😂 Thank you so much for your Geography/Explanation about our Country. The others was correct and perfect, and not wrong... And i like your Long-Short explanation tho, that was really good tbh 😂😂👌 Once again, let me gift my Big Thanks to you, really.. Thank you for your hard work, me and the others from my country really appreciate that, stay safe and stay healthy, gb（๑⌒▽⌒๑）",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 106.0,
+      "comment_timestamp": 690.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "681.0s - 687.0s",
+          "query": "Well, in the visual part, there's a man in a white shirt standing in front of a black background. He seems to be talking and gesturing with his hands. There are also some pictures in the video, like one with people sitting around a table and another with a crowd of people. The colors are mainly white, black, and the colors from the pictures which are more varied.In the audio part, there's a man speaking. He's talking about things like \"Eid Al-Fitr\" and mentioning numbers like \"500th day\" and \"night before Eid Al-Fitr\". There's no music or sound effects, just his speech. So, what do you think about this video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "687.0s - 693.0s",
+          "query": "Visually, there's a man in a white shirt standing against a dark background. He seems to be talking and gesturing with his hands. There are also some small images in the corners of the screen, one showing a group of people, possibly celebrating, and another showing a woman in an orange top and jeans. The overall scene is simple, with the focus mainly on the man.\n\nIn terms of audio, the man is speaking, but the content of his speech isn't clear from this short segment. There's no background music or sound effects, just his voice."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "693.0s - 699.0s",
+          "query": "Visual: There's a man in a white shirt talking against a black background. Inset images show women wearing headscarves and casual clothes like jeans and branded t - shirts. Some are riding motorcycles.\n\nAudio: The main speaker is talking, likely explaining something related to the visuals. There might be some background noise or music, but it's not very clear from just these few seconds."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 221.6506540775299
+    },
+    {
+      "comment_index": 2077,
       "video_id": "FsXc3FcWi3g",
       "comment": "7:39 i think Malaysia is jealous of Indonesia's food Edit: this is a joke OK, I'm not telling that every single Malaysian is Jealous or IDK..",
       "language": "en",
@@ -289,24 +499,24 @@
         {
           "segment_index": 1,
           "time_range": "450.0s - 456.0s",
-          "query": "VISUAL: There's a man in a white shirt standing against a black background. He seems to be talking or presenting something. In the top left corner, there's an inset showing various dishes on plates. The main part shows different Indonesian dishes like rendang, satay, gado - gado, lontong, ketupat, and nasi goreng. The dishes look colorful with different ingredients and sauces.AUDIO: A male voice is speaking about some national dishes including rendang, satay, gado - gado, lontong, ketupat, and nasi goreng. It's just his speech without any other sound effects or music. So, that's it! What do you think about these dishes? Do you want to know more about them?"
+          "query": "Visually, there's a man in a white shirt standing in front of a black background. He seems to be talking or presenting something. There are also images of food, like rendang and satay, shown on the screen. The food looks colorful and appetizing, with different textures and ingredients.The audio has a man speaking, likely explaining or introducing the food. There are no other distinct sounds or music in the audio."
         },
         {
           "segment_index": 2,
           "time_range": "456.0s - 462.0s",
-          "query": "VISUAL: The video shows various Malaysian dishes like ketupat, ikan bakar, pempek, tumpeng, lemang, and nasi goreng. There's a man in a white shirt talking about them.AUDIO: There is no specific audio mentioned in your description. So I can't really describe any sound effects or speech from an actual audio source.If you have more details about the audio or want to discuss something else related to this video, feel free to let me know!"
+          "query": "Visual: The video shows various dishes with different types of food like fish, vegetables, and fried items. There's also an image of Malaysia's flag. Audio: Someone is speaking about \"Papeda\" and \"Nasi Goreng\", mentioning that Nasi Goreng is a national dish."
         },
         {
           "segment_index": 3,
           "time_range": "462.0s - 468.0s",
-          "query": "VISUAL: There's a man in a white V - neck shirt against a black background. He seems to be talking or explaining something. In the top left corner, there's an image of a dish with fried rice, vegetables like red peppers, and a sunny - side - up egg on top. There's also a Malaysian flag briefly appearing in the upper left corner.AUDIO: The man is speaking about nasi goreng, which he says has no exact recipe and can be mixed up in various ways. Malaysia might have its own version of it.If you want to know more about nasi goreng or other related topics, feel free to ask!"
+          "query": "Visually, there's a man in a white shirt standing against a black background. He's gesturing with his hands while talking. In the top left corner, there's an image of a dish with a fried egg on top, some vegetables, and a lime wedge. There's also a Malaysian flag in the bottom left corner.\n\nAudio-wise, the man is speaking about fried rice, mentioning that it has no exact recipe and you can mix it up and do whatever you want with it. He also mentions Malaysia."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 297.8292429447174
+      "processing_time": 221.8288378715515
     },
     {
-      "comment_index": 4001,
+      "comment_index": 2078,
       "video_id": "FsXc3FcWi3g",
       "comment": "wohooooo love Indonesia 🇮🇩 😄 its “DenPasar” dude 1:41",
       "language": "en",
@@ -319,54 +529,24 @@
         {
           "segment_index": 1,
           "time_range": "92.0s - 98.0s",
-          "query": "VISUAL: The video shows a large statue with a fish-like figure at night. There's also an aerial view of Bandung city lit up at dusk. Then it cuts to Medan airport during the day, showing planes on the tarmac.AUDIO: Someone is speaking about the locations of Surabaya, Bandung, and Medan in relation to Java Island and Sumatra. They mention Jakarta Soekarno Hatta International Airport too.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "Visual: The video shows a nighttime cityscape with illuminated buildings and streets. There's also an image of Bandung written over it. Then there's a transition to an aerial view of Jakarta Soekarno - Hatta International Airport at night, with planes visible on the tarmac.\n\nAudio: Someone is speaking about Jakarta and Medan being located on Java Island, while mentioning that Medan is actually on Sumatra."
         },
         {
           "segment_index": 2,
           "time_range": "98.0s - 104.0s",
-          "query": "VISUAL: The video shows an aerial view of an airport with runways surrounded by water. There's also a close - up shot of an airplane on the tarmac at another airport. The buildings have red roofs. The scene changes to show a man in a white shirt against a black background.AUDIO: Someone is speaking throughout the video. It seems like they're talking about different airports in Indonesia. There are no other distinct sounds or music. So, what do you think about these airports? Do you want to know more about any specific one?"
+          "query": "Visual: The video shows an aerial view of an airport with runways, terminals, and surrounding greenery. There's also water visible around the airport area.\n\nAudio: Someone is speaking about \"Largest AIRPORTS\" and mentions \"Bali Ngurah Rai international\" and \"Surabaya Juanda International.\""
         },
         {
           "segment_index": 3,
           "time_range": "104.0s - 110.0s",
-          "query": "VISUAL: A man in a white V - neck shirt is standing against a black background. He's gesturing with his hands while speaking. There are two images on either side of him showing islands in the ocean. One has a small island surrounded by calm water, and the other shows a larger group of islands near a coral reef.AUDIO: The man is talking about Indonesia having arguments over how many islands it has. It seems like he's explaining something related to geography or politics. There's no music or sound effects, just his voice. So, what do you think about this? Do you have any ideas on why there might be such arguments?"
+          "query": "Visually, there's a man in a white shirt standing in front of a black background. On either side of him are two small images, one showing a beach scene with a boat and the other showing a coral reef. The man is gesturing with his hands as he speaks. There's also a blue globe icon with the number \"13,500\" next to it.\n\nIn terms of audio, the man is speaking, but the content of his speech isn't clear from this description. There's no music or sound effects, just his voice."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 266.11158871650696
+      "processing_time": 195.6286494731903
     },
     {
-      "comment_index": 4002,
-      "video_id": "FsXc3FcWi3g",
-      "comment": "11:32 Welcome to indonesia and one more thing, if there is a girl in tight clothes riding a motorbike in three, they are called 'cabe-cabean' or in english \"chilies\" 😂",
-      "language": "en",
-      "channel_name": "GeographyNow",
-      "category": "culture",
-      "likes": 99.0,
-      "comment_timestamp": 692.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "683.0s - 689.0s",
-          "query": "VISUAL: There's a man in a white shirt talking against a black background. In the top left corner, there's an inset image showing a group of people at night, some holding torches. They seem to be celebrating Eid Al-Fitr.AUDIO: The main audio is someone speaking about the night before Eid Al-Fitr when youth gather and recite takbeer around neighborhoods. There are no other distinct sounds like music or sound effects. So, it seems like just the spoken words.If you want to know more about Eid Al-Fitr traditions or have any other questions related to this, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "689.0s - 695.0s",
-          "query": "VISUAL: There's a man in a white V - neck shirt standing against a black background. He seems to be talking or explaining something while gesturing with his hands. In the top left corner, there's an inset image of a woman wearing a headscarf, an orange top, and blue jeans. She has her hand on her hip.AUDIO: The main audio is someone speaking about Middle Eastern clothing modesty customs being loose and not all Muslim women wearing hijabs. There are no other noticeable sounds like music or sound effects.So, what do you think about these findings? Do you have any other questions related to this?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "695.0s - 701.0s",
-          "query": "VISUAL: There's a man in a white V - neck shirt talking against a black background. In the top left corner, there's an inset image showing several people on motorcycles. The main scene is static while the inset shows some movement as if the motorcyclists are riding.AUDIO: A male voice is speaking about complementing traditional clothing with Western styles like branded t - shirts and jeans. It seems to be a casual conversation or explanation.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 291.3922700881958
-    },
-    {
-      "comment_index": 4003,
+      "comment_index": 2079,
       "video_id": "FsXc3FcWi3g",
       "comment": "1:06 East Timor my main nationality",
       "language": "en",
@@ -379,24 +559,24 @@
         {
           "segment_index": 1,
           "time_range": "57.0s - 63.0s",
-          "query": "VISUAL: There's a map showing Indonesia and its surrounding areas like the Pacific Ocean and Indian Ocean. It also mentions \"Malay Archipelago\" and \"Indonesian Archipelago.\" Then there's a man in a white shirt pointing at himself against a black background. He seems to be talking or explaining something.AUDIO: The audio has some speech about \"Nusantara\" and \"Malay Archipelago\" related to Indonesia. There might be some music or sound effects in the background too.What do you think about these two parts? Do you have any other questions regarding the video?"
+          "query": "**Visual:** The video shows a map highlighting Indonesia and its surrounding regions. The map is detailed, with clear labels for Indonesia, the Malay Archipelago, and the Pacific and Indian Oceans. The colors are primarily blues and greens, typical for ocean and land maps.\n\n**Audio:** There is a voiceover in the audio, speaking in English. The speaker mentions \"Indonesia\" and \"Malay Archipelago\" in a neutral tone, likely providing geographical information."
         },
         {
           "segment_index": 2,
           "time_range": "63.0s - 69.0s",
-          "query": "VISUAL: There's a map showing Indonesia surrounded by the Pacific Ocean on one side and the Indian Ocean on another. The map highlights that Indonesia has land borders with three countries: East Timor, Papua New Guinea, and Malaysia. It also shows Borneo, which is the biggest island in Indonesia.AUDIO: A person is speaking about these facts related to Indonesia's geography. They mention the three countries it shares land borders with and point out Borneo as the largest island in the country.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visual: The video shows a map highlighting Indonesia with its neighboring countries like East Timor, Papua New Guinea, and Malaysia. It also points out Borneo on the map.\n\nAudio: There is no distinct sound or speech heard in this short clip."
         },
         {
           "segment_index": 3,
           "time_range": "69.0s - 75.0s",
-          "query": "VISUAL: The video shows a map highlighting Indonesia, Malaysia, and Kalimantan. There's also an inset showing Cyprus on another map. A man in a white shirt is standing against a black background.AUDIO: Someone is speaking about Kalimantan being one of the world's only two triple split nation islands, along with Cyprus. They mention that technically, if certain things are included, it could be different. So, what do you think about these facts? Do you know any other interesting geographical facts?"
+          "query": "Well, in the visual part, it looks like there's a map showing some countries in Southeast Asia. You can see Indonesia, Malaysia, and Kalimantan on it. There's also a small inset map highlighting Malaysia. The colors are mainly blues and greens, typical for maps, and there's some text on the map too.In the audio part, there's a voice speaking. The voice is talking about Kalimantan and mentions that it's one of the world's only two triple split nation islands, along with Cyprus. It's a pretty interesting fact!So, what do you think about this? Do you have any other questions about the video?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 275.0499494075775
+      "processing_time": 246.38845229148865
     },
     {
-      "comment_index": 4004,
+      "comment_index": 2080,
       "video_id": "FsXc3FcWi3g",
       "comment": "13:53 actually Indonesia accusing Malaysia steal Indonesia Culture but I'm as suku melayu Sumatra, i always feel Malaysian as our family because we are same ethnicity😁",
       "language": "en",
@@ -409,201 +589,21 @@
         {
           "segment_index": 1,
           "time_range": "824.0s - 830.0s",
-          "query": "VISUAL: There's a man in a white t - shirt standing against a black background. He has his hands outstretched to the sides. In the top left corner, there are two flags, one for Indonesia and one for Malaysia.AUDIO: A male voice is speaking about how Indonesia and Malaysia are like Colombia and Venezuela in Southeast Asia, comparing them to twins. What do you think about that comparison?"
+          "query": "Visually, there's a man in a white shirt standing against a dark background. He's gesturing with his hands. To his left, there are two flags, one of Indonesia and one of Malaysia. The flags are red, white, and blue with a crescent moon and star on the Indonesian flag and a red stripe on the Malaysian flag. The man seems to be talking or explaining something, possibly about the flags or the countries they represent. There's no other significant movement or objects in the scene."
         },
         {
           "segment_index": 2,
           "time_range": "830.0s - 836.0s",
-          "query": "VISUAL: There's a man in a white shirt standing against a black background. He seems to be talking or explaining something. Next to him is an image of the Malaysian flag. Then it cuts to an animated map with eyes on different parts of Southeast Asia, like Indonesia and Malaysia. The eyes seem to be looking at each other.AUDIO: A male voice is speaking throughout the video. It's likely discussing the relationship between Malays and Indonesians regarding culture and language. There are no other distinct sounds like music or sound effects.So, what do you think about this analysis? Do you have any other thoughts or questions related to the video?"
+          "query": "Well, in the visual part, there's a guy in a white shirt. He seems to be doing some kind of action, like waving his hands or something. And then there's a Malaysian flag in the background. Oh, and there's also a map of Southeast Asia with some cartoonish eyes and a speech bubble. The colors are mainly dark, with the Malaysian flag being red, white, and blue.The audio part is just the guy speaking. He's talking about how Malaysians and Indonesians have a strange love-hate relationship and that Malaysians accuse Indonesians of stealing their culture and language. It's just his voice, no music or sound effects.What do you think about this? Do you have any other questions?"
         },
         {
           "segment_index": 3,
           "time_range": "836.0s - 842.0s",
-          "query": "VISUAL: The video shows a map with eyes on it. There's an angry face emoji in a speech bubble. Then two figures appear, one wearing a flag - like outfit and the other just a simple figure. They seem to be having some kind of interaction.AUDIO: There is no distinct audio mentioned in your description. So I can't really describe any specific sounds or speech.If you have more details about the audio or want me to analyze something else from the video, feel free to let me know!"
+          "query": "Visually, the video shows a map of Indonesia with some cartoonish eyes and speech bubbles. The eyes seem to be looking at the map, and the speech bubbles contain some text. There's also a small figure in a red outfit standing on the map. The colors are mostly dark, with the map being a muted green and the eyes and figure being brighter. The movement is mainly the eyes and the figure, with the eyes blinking and the figure standing still.The audio is just a single word, \"Indonesians, \" spoken in a neutral tone. There are no other sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 263.7853047847748
-    },
-    {
-      "comment_index": 4005,
-      "video_id": "FsXc3FcWi3g",
-      "comment": "10:19 at that moment it is written Independence from Dutch. But actually we gained the independence by OURSELVES without being given.",
-      "language": "en",
-      "channel_name": "GeographyNow",
-      "category": "culture",
-      "likes": 78.0,
-      "comment_timestamp": 619.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "610.0s - 616.0s",
-          "query": "VISUAL: The video shows a man in a white shirt talking with his hands outstretched against a black background. Then it cuts to an image of a large building with columns and a dome, lit up at night. Next is a painting depicting a historical scene with many people dressed in old - fashioned clothing, some on horseback, gathered around a building with flags. Finally, there's another painting showing a group of people in traditional attire sitting outside a building with a flagpole.AUDIO: There's a male voice speaking about Hindu kingdoms, Buddhist kingdoms, Islamic kingdoms, Portuguese arrival, and Dutch influx. No other sounds like music or sound effects are present.If you have any more questions about this video or anything else, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "616.0s - 622.0s",
-          "query": "VISUAL: The video shows a black - and - white photo of Japanese soldiers on a ship with their flag. Then it cuts to a collage of images including protests, a burning vehicle, and political figures. There's also some text about WWII Japan and Indonesia. AUDIO: A man is speaking about Japan coming in for a couple of years and decimating a huge chunk of the population, mentioning the Independence Republic and Suharto years. He also says something controversial. So, what do you think about these events? Do you want to know more about any specific part?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "622.0s - 628.0s",
-          "query": "VISUAL: The video shows a collage of images related to protests and political situations. There's an image with people holding signs that say \"FREE EAST TIMOR\" and \"INDONESIA OUT OF EAST TIMOR NOW\". Another part has people protesting with banners like \"REFERENDUM FOR WEST PAPUA\". There's also an image of a burning barricade and some people fighting. Then there's a scene inside a parliament or legislative building with many empty seats. Finally, it shows a group of people wearing red and holding Indonesian flags.AUDIO: There is no distinct audio mentioned in your description. So I can't really describe any specific sounds from the audio.If you have more details about the audio or want me to analyze something else, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 433.10269236564636
-    },
-    {
-      "comment_index": 4006,
-      "video_id": "FsXc3FcWi3g",
-      "comment": "6:58 \"Remember guys mother nature is beautiful, but if she wants she can kill you\", then Covid-19 was born",
-      "language": "en",
-      "channel_name": "GeographyNow",
-      "category": "culture",
-      "likes": 69.0,
-      "comment_timestamp": 418.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "409.0s - 415.0s",
-          "query": "VISUAL: There's a man in a white shirt talking against a black background. He gestures with his hands while speaking. On the left side of him, there's an image that changes from a diagram of a brain to a map showing Lake Malawi and Toba. The map has labels like \"Lake Malawi\" and \"Toba\" along with some measurements.AUDIO: A male voice is speaking about a volcanic eruption on Earth that caused a worldwide volcanic winter. The speech is clear and informative.If you want to know more about this topic or have other questions related to it, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "415.0s - 421.0s",
-          "query": "VISUAL: There's a man in a white V - neck shirt standing against a black background. He seems to be talking and gesturing with his hands. In the top left corner, there's a map showing Lake Malawi and Toba, with a dashed line indicating a distance of 730 km. The map also has a scale of 1000 km.AUDIO: A male voice is speaking about ashes from an explosion reaching as far as Malawi in East Africa. He mentions Mother Nature being beautiful but warns that she can be dangerous too.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "421.0s - 427.0s",
-          "query": "VISUAL: There's a man wearing a white V - neck shirt standing against a black background. He has his hands clasped together. In the top left corner, there's an image labeled \"Grasberg\" showing a large open - pit mine with a cloudy sky above it.AUDIO: A male voice is speaking about something dangerous near Puncak Jaya related to Grasberg, which is described as the largest gold and copper mine in the world. It also mentions Mount Ijen. So, what do you think about these places? Do you want to know more about them?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 285.3451225757599
-    },
-    {
-      "comment_index": 4007,
-      "video_id": "FsXc3FcWi3g",
-      "comment": "4:21 It should be \"Taman\" not \"teman\" . Teman : Friend Taman : Park 😊",
-      "language": "en",
-      "channel_name": "GeographyNow",
-      "category": "culture",
-      "likes": 67.0,
-      "comment_timestamp": 261.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "252.0s - 258.0s",
-          "query": "VISUAL: The video shows various landmarks. There's a bridge over a river with lush greenery around it. Then there's an ornate temple entrance with detailed carvings and statues. Next is a tall pagoda surrounded by trees and red lanterns. Finally, there's a building that looks like a temple or shrine with a traditional design.AUDIO: There's no clear audio described here. It seems to be just the visuals without any spoken words or music. So, I'd say there's nothing to describe in terms of audio.If you have any other questions about the video or want to discuss something else related to it, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "258.0s - 264.0s",
-          "query": "VISUAL: There's an aerial view of a park with a large circular building at its center. The park has greenery around it and some pathways. There's also a smaller structure near the main one.AUDIO: Someone is speaking about Sibu, the smoked mummy villages of Aikim and Jiwika in Papua, or mentioning Taman Mini Indonesia Indah park. It seems like they're giving travel suggestions. So, what do you think about these places?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "264.0s - 270.0s",
-          "query": "VISUAL: The video shows an aerial view of a park with various buildings that look like famous Indonesian sites. There's also a large building with intricate carvings up close. People can be seen walking around. The colors are mainly earthy tones with some green from plants.AUDIO: A man is speaking about the park having replicas of famous Indonesian sites and mentioning Dutch colonial style buildings. He seems to be explaining something related to the park. So, what do you think about this park? Have you ever been there?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 279.34674620628357
-    },
-    {
-      "comment_index": 4008,
-      "video_id": "FsXc3FcWi3g",
-      "comment": "13:31 not all Muslims in Indonesia dress so tightly like that😊🥺",
-      "language": "en",
-      "channel_name": "GeographyNow",
-      "category": "culture",
-      "likes": 57.0,
-      "comment_timestamp": 811.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "802.0s - 808.0s",
-          "query": "VISUAL: The video shows two animated maps with eyes on them. They look like they're shaking hands. Then it zooms in on two other animated maps that also have eyes and are shaking hands. There's a world map in the background.AUDIO: There is some kind of narration or explanation about the Netherlands' ties to Indonesia during Cold War times, mentioning post - colonial bitterness. It seems to be in English.If you want to talk more about this video or anything else related, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "808.0s - 814.0s",
-          "query": "VISUAL: There's an animated map with two cartoonish figures on it. One figure is on the left side of the map, and the other is on the right. The numbers \"1980411\" to \"1994629\" appear below them. The background shows a world map with some red markings.AUDIO: Someone is speaking about the number of Indonesians living in the Netherlands. They mention that there are around 1.9 million, which makes the Dutch have the second largest Indonesian population outside Indonesia after Malaysia.So, what do you think about this? Do you want to know more about the situation in the Netherlands or Indonesia?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "814.0s - 820.0s",
-          "query": "VISUAL: There's an animated map with two figures on it. One figure is red and the other white. Then there's a big red cross symbol appearing. After that, a cartoonish hand shaking takes place. The background seems to be a world map. The colors are mainly green for land areas on the map, blue for water, and red for the cross and some figures.AUDIO: There's no distinct speech or music in the audio. Just some kind of sound effect during the hand - shaking action. It could be like a \"whoosh\" or something similar.If you have any more questions about this or want to discuss further, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 313.0687618255615
-    },
-    {
-      "comment_index": 4009,
-      "video_id": "FsXc3FcWi3g",
-      "comment": "9:02 when he says \"Bahasa Indonesia\" it's very satisfying....",
-      "language": "en",
-      "channel_name": "GeographyNow",
-      "category": "culture",
-      "likes": 45.0,
-      "comment_timestamp": 542.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "533.0s - 539.0s",
-          "query": "VISUAL: There's a man in a white shirt holding some money and a plug. He seems to be talking about something related to Type C plugs and driving on the left side of the road. There's also an image of a power outlet with a plug next to him.AUDIO: The man is speaking, probably explaining things about Type C plugs and driving on the left side of the road. It sounds like he might be giving some kind of instruction or information.If you want to talk more about this video or have other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "539.0s - 545.0s",
-          "query": "VISUAL: There's a man wearing a white t - shirt standing against a black background. He has short dark hair and is making hand gestures while speaking. To his left, there's an Indonesian flag with red and white stripes. The word \"Bahasa Indonesia\" appears below the flag.AUDIO: A male voice is speaking about how Bahasa Indonesia unites all Indonesians. It seems to be explaining something related to the national language of Indonesia.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "545.0s - 551.0s",
-          "query": "VISUAL: There's a man wearing a white V - neck shirt against a black background. He seems to be doing some hand gestures while talking. The Indonesian flag is shown on the left side with \"Bahasa Indonesia\" written below it.AUDIO: A male voice is speaking about Bahasa Indonesia being like a lingua franca for many in Indonesia because it's the world's largest archipelago. It's just him talking without any other sounds or music. So, what do you think about that? Do you have any more questions related to this?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 267.48783779144287
-    },
-    {
-      "comment_index": 4010,
-      "video_id": "FsXc3FcWi3g",
-      "comment": "11:41 Sorry, That's only some Muslims who don't understand the Qur'an.",
-      "language": "en",
-      "channel_name": "GeographyNow",
-      "category": "culture",
-      "likes": 45.0,
-      "comment_timestamp": 701.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "692.0s - 698.0s",
-          "query": "VISUAL: There's a man in a white t - shirt talking against a black background. In the top left corner, there's an inset image of a woman wearing a headscarf, orange top, and jeans. Then it changes to show a group of people on motorcycles, some wearing helmets, in a busy street scene.AUDIO: The man is speaking about Muslim women's customs regarding hijabs and how they might combine traditional with Western clothing.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "698.0s - 704.0s",
-          "query": "VISUAL: There's a man in a white V - neck shirt talking against a black background. In the top left corner, there's an inset image showing a group of people on motorcycles. Then it changes to show a woman wearing blue pants and high heels.The AUDIO: A male voice is speaking about branded t - shirts with skin - tight sleeves and jeans, and also mentions seeing a hijab - wearing woman with shorts in Indonesia.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "704.0s - 710.0s",
-          "query": "VISUAL: There's a man wearing a white V - neck T - shirt against a black background. In the top left corner, there's an inset image showing someone in blue capri pants and beige shoes. The man is talking and gesturing with his hands.AUDIO: A male voice is speaking about sleeves and capri pants exposing calves, expressing surprise that such things can be done now, and mentioning how culture affects it.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 256.04934549331665
+      "processing_time": 298.5740165710449
     }
   ]
 }

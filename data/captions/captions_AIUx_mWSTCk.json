@@ -1,0 +1,609 @@
+{
+  "video_id": "AIUx_mWSTCk",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 14499,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "1:07 Rosie finally talked, and Sophia interrupted her",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 904.0,
+      "comment_timestamp": 67.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "58.0s - 64.0s",
+          "query": "**Visual:** The scene shows three young girls dressed in pink tutus sitting on red chairs. They're wearing tiaras. There's an adult woman in a light-colored blazer also seated among them. The background has a tropical vibe with palm trees visible through large windows. A table between them holds white mugs and a vase with flowers. The setting looks like a talk show studio.\n\n**Audio:** The woman speaks to the girls, saying something along the lines of \"exactly all right.\" Then she asks one of the girls if she's going to sing. The girls respond with laughter."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "64.0s - 70.0s",
+          "query": "**Visual:** The video shows two young girls sitting on red chairs. They're wearing white dresses with pink tutus and tiaras. One girl has blonde hair while the other has brown hair. There's an \"ellen\" logo visible at the bottom left corner.\n\n**Audio:** Someone is speaking, saying something like \"that Rosie oh you have a multi-colored one too.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "70.0s - 76.0s",
+          "query": "**Visual:** The scene shows two young girls sitting on red chairs wearing tiaras and pink dresses with ruffles. They're seated across from an adult woman who is also dressed formally. There's a table between them with some items like mugs and flowers. The background has plants and a window showing greenery outside.\n\n**Audio:** The audio includes laughter and conversation among the people present."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 220.65519189834595
+    },
+    {
+      "comment_index": 14500,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "To be nice to Rosie the best part is 4:17",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 282.0,
+      "comment_timestamp": 257.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "248.0s - 254.0s",
+          "query": "**Visual:** The video shows two young girls dressed in pink outfits with tiaras on stage, holding microphones. A man in a gray suit is leaning towards them, seemingly interacting or interviewing them. There's also an image of Ellen DeGeneres sitting on a couch, smiling, with \"ellen\" written beside her.\n\n**Audio:** You can hear applause from an audience in the background."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "254.0s - 260.0s",
+          "query": "Inference error: nframes should in interval [2, 1], but got 0."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "260.0s - 266.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 74.04258894920349
+    },
+    {
+      "comment_index": 14501,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "She told Rosie to not sing! Sophia:dont sing.(1:45) Rosie:... I SUPPORT ROSIE AND ROSIE'S MIC WERENT ON!😡",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 248.0,
+      "comment_timestamp": 105.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "96.0s - 102.0s",
+          "query": "Visually, there are three young girls on a stage. They're wearing pink dresses with white tops underneath. One girl has long dark hair, another has blonde hair, and the third's hair isn't clearly visible. They seem to be performing or dancing together. The background shows some large screens displaying blue images, possibly nature scenes like trees and water. There are also plants on stands near the screens. The floor is wooden.The audio includes applause from an audience, suggesting they're watching the performance."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "102.0s - 108.0s",
+          "query": "Visually, there are two young girls on a stage. They're wearing pink dresses with white accents and tiaras. One girl has long brown hair while the other's hair is blonde. They seem to be dancing or moving around energetically. The background looks like it could be a set for a show, with some blue lighting effects. There s also an \"ellen\" logo visible at the bottom left corner of the screen.Audibly, I can hear applause from an audience, which suggests that they might have just finished performing or are about to start. There's no distinct speech or music heard apart from the applause."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "108.0s - 114.0s",
+          "query": "Visually, there are two young girls on stage wearing pink dresses with white accents and tiaras. They're holding microphones and appear to be singing or performing together. The background is dark with some pink lighting creating a spotlight effect.\n\nAudibly, it seems like they're singing along to a song that starts with \"There's a starting my heart reaching.\" It has a melodic tune accompanying their voices."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 267.9391014575958
+    },
+    {
+      "comment_index": 14502,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "Sophia is so rude to Rosie like she didn't even let her sing and she interrupted Rosie @ 1:00 and it the camera barely even looks at poor Rosie. Oohh it made me mad!👿",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 136.0,
+      "comment_timestamp": 60.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "51.0s - 57.0s",
+          "query": "Sure! So, visually, there are two young girls sitting on a red couch. They're both wearing pink dresses with fluffy skirts and tiaras. One girl has blonde hair, while the other has darker brown hair. The background shows some plants and a bit of a stage setup, like a TV show set. There's also an \"ellen\" logo visible.The audio? Well, it starts with someone saying something, then there s laughter from others. It seems like they re reacting to whatever was said.Does that help? Let me know if you want more details!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "57.0s - 63.0s",
+          "query": "**Visual:** The video shows three individuals seated on red chairs around a small table with a brown cloth draped over it. There's a vase of white flowers and two mugs on the table. One person is wearing a light-colored suit jacket, while the other two appear to be children dressed in pink outfits. The background features large windows showing an outdoor scene with trees and mountains under a blue sky.\n\n**Audio:** Someone is speaking, saying \"exactly all right and what are you gonna sing for us.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "63.0s - 69.0s",
+          "query": "Visually, there are two young girls sitting on red chairs wearing tiaras and pink dresses with white tops. They seem to be in a studio setting with some plants and furniture around. The scene looks like it could be from a talk show or similar program.\n\nAudibly, I can't really make out any specific words or phrases clearly enough to describe accurately within those six seconds. It might just be background noise or very faint whispers."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 221.80772590637207
+    },
+    {
+      "comment_index": 14503,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "3:47 rosie's microphone was turned off",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 94.0,
+      "comment_timestamp": 227.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "218.0s - 224.0s",
+          "query": "Visually, there are two young girls on stage wearing pink dresses with tiaras. They're holding microphones and appear to be singing or performing together. The background is dark with some colorful lighting effects.\n\nAudibly, it seems like they might be singing along with music playing in the background. There's also applause from an unseen audience."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "224.0s - 230.0s",
+          "query": "Visually, there are two young girls on stage wearing tiaras and pink dresses with white lace details. They're singing into microphones while performing. The background is dark with some purple lighting effects. There's also an \"ellen\" logo visible at the bottom left corner of the screen.\n\nAudibly, it seems like they're singing along to a song or performance. There might be some applause from an audience towards the end."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "230.0s - 236.0s",
+          "query": "Visually, there are two young girls on stage wearing pink dresses with tiaras, holding microphones. They seem to be performing or singing together. The background is dark with some purple lighting effects. There's also an \"ellen\" logo visible at the bottom left corner of the screen.\n\nAudibly, it seems like someone is speaking or singing, possibly introducing or commenting on the performance. There might be applause from an audience too."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 196.02465748786926
+    },
+    {
+      "comment_index": 14504,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "4:04 Anyone notice how Ellen said to Sophia “I love you so so much “ and to Rosie she just  said “ I like you so much “ 🥺",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 40.0,
+      "comment_timestamp": 244.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "235.0s - 241.0s",
+          "query": "Visually, there are two young girls on stage wearing pink dresses with white accents and tiaras. They're holding microphones and appear to be singing or speaking into them. The background has a purple hue with some light patterns. There's also an \"ellen\" logo visible at the bottom left corner.\n\nIn terms of audio, I can't really tell much about it from just these six seconds since no specific details were provided for that aspect. But typically, if it was a performance like this, you'd expect to hear music playing along with their voices."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "241.0s - 247.0s",
+          "query": "Visually, there's an audience clapping enthusiastically. On stage, two young girls in pink dresses with tiaras are dancing, and a man in a suit is also dancing with them. The background has blue lighting. There's applause from the crowd throughout the clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "247.0s - 253.0s",
+          "query": "Visually, there's an image of a woman sitting on a couch with a cup in her hand. She has short blonde hair and is wearing a black suit. There s also some kind of equipment or furniture around her, like a director's chair. The background seems to be indoors, maybe a studio or office setting.\n\nIn terms of audio, I can't really tell much because it's just a very short clip without any clear speech, music, or sound effects that stand out. It might be silent for all we know.Anything else you noticed about the video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 234.83691835403442
+    },
+    {
+      "comment_index": 14505,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "1:17-1:23",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 34.0,
+      "comment_timestamp": 80.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "71.0s - 77.0s",
+          "query": "Visually, there are two young girls sitting on red chairs wearing pink dresses with tiaras. They seem to be on some kind of talk show set, with a table between them having flowers and mugs. The background has plants and a globe-like object. There's also an adult woman standing nearby.\n\nAudibly, someone is speaking, possibly asking questions or making comments related to the girls' appearance or something they're discussing. It seems like a light-hearted conversation."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "77.0s - 83.0s",
+          "query": "Visually, there are two young girls wearing pink dresses and tiaras sitting on red chairs. They seem to be interacting with someone off-camera, possibly Ellen DeGeneres, who is also present in the scene. The setting looks like an indoor studio with plants and decorative elements visible in the background. There s a table between them with some items on it.\n\nIn terms of audio, laughter can be heard throughout the clip, suggesting that something amusing or entertaining has occurred during their interaction."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "83.0s - 89.0s",
+          "query": "Visually, there's a talk show set with red chairs. Two young girls in pink tutus sit on one side, while an adult sits across from them. The background has palm trees and a \"Hollywood\" sign. There are mugs and flowers on the table between them. The adult seems to be talking or interviewing the girls.\n\nAudibly, it starts with some laughter, then someone says something like \"All right.\" After that, there s more laughter, followed by a child speaking, saying \"rolling in a deep fryer down.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 355.84253311157227
+    },
+    {
+      "comment_index": 14506,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "3:59 that evil laugh",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 28.0,
+      "comment_timestamp": 239.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "230.0s - 236.0s",
+          "query": "Visually, there are two young girls on stage wearing pink dresses with tiaras, holding microphones. They seem to be performing or singing together. The background is dark with some purple lighting effects. There's also an \"ellen\" logo visible at the bottom left corner of the screen.\n\nAudibly, it seems like someone is speaking or singing, possibly introducing or commenting on the performance. There might be applause from an audience too."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "236.0s - 242.0s",
+          "query": "Visually, there are two young girls on stage wearing pink dresses with white accents and tiaras. They're holding microphones and appear to be singing or speaking. The background has a pinkish-purple hue with some patterns. There's an audience visible below them, clapping and cheering. The scene seems lively and cheerful.\n\nAudibly, there is applause from the crowd throughout most of the clip. At one point, someone shouts \"Ellen\" loudly, which could indicate they're reacting to something related to Ellen DeGeneres' show."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "242.0s - 248.0s",
+          "query": "Sure! So, visually, there's an audience clapping and cheering. In the foreground, two young girls in pink dresses with tiaras are on stage. One girl is holding a microphone. A man in a suit is also on stage, interacting with them. The background has some blue lighting and a screen.Anything else you want to know about it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 226.26316833496094
+    },
+    {
+      "comment_index": 14507,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "1:17 ROSIE MADE A GOAT SOUND? AM I THE ONLY ONE WHO NOTICED? xd",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 27.0,
+      "comment_timestamp": 77.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "68.0s - 74.0s",
+          "query": "**Visual:** The video shows two young girls sitting on red chairs wearing tiaras and fluffy pink dresses. They're engaged in conversation with an adult woman who is also seated. The setting appears to be a talk show studio, indicated by the \"ellen\" logo visible on the table between them. There's some greenery and plants in the background.\n\n**Audio:** The main audio features dialogue from the girls and the woman. The girls seem excited or animated while speaking, possibly sharing stories or experiences. The woman responds calmly, likely asking questions or engaging in conversation. There are no significant sound effects or music playing during these six seconds."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "74.0s - 80.0s",
+          "query": "Visually, there are two young girls sitting on red chairs wearing pink dresses with tiaras. They seem to be engaged in conversation or an interview setting. The background has some plants and a table with items like mugs and flowers. There s also someone else present, possibly interviewing them.\n\nIn terms of audio, I can hear laughter from the audience, along with some speech that seems to be part of the interaction between Ellen and the girls. It feels like a light-hearted moment during her show."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "80.0s - 86.0s",
+          "query": "**Visual:** The video shows two young girls sitting on red chairs wearing tiaras and pink dresses with ruffles. They seem to be on a talk show set, with a woman in a gray blazer also seated nearby. There's a table between them with some items like mugs and flowers. The background has plants and a blue-lit area.\n\n**Audio:** Someone is speaking, likely asking one of the girls about singing something for the audience today."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 276.14184617996216
+    },
+    {
+      "comment_index": 14508,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "2:45 F*** shouldn't have worn headphones",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 20.0,
+      "comment_timestamp": 165.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "156.0s - 162.0s",
+          "query": "Visually, there are two young girls on stage wearing pink dresses with tiaras. They're holding microphones and appear to be singing or performing together. The background has a pinkish-purple hue with some abstract designs. There's also an \"ellen\" logo visible at the bottom left corner.\n\nAudibly, it seems like they're singing along to a song, though I can't make out specific lyrics from just these six seconds. There might be some instrumental music playing too."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "162.0s - 168.0s",
+          "query": "Visually, there are two young girls on stage wearing pink dresses with white accents and tiaras. They're holding microphones and appear to be singing or performing together. The background is dark with some purple lighting effects.\n\nAudibly, it seems like they're singing along to a song, possibly a pop tune given their attire and the setting. There's also applause from an unseen audience towards the end."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "168.0s - 174.0s",
+          "query": "Visually, there are two young girls on stage wearing tiaras and pink dresses with white accents. They're holding microphones and appear to be singing or performing together. The background is dark with bright purple lighting creating circular patterns.\n\nAudibly, it's a musical performance with the girls singing into their microphones. There's also applause from an unseen audience towards the end."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 206.5656123161316
+    },
+    {
+      "comment_index": 14509,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "Sophia Grace is way too hyper and annoying. And she always talks for Rosie. She always says \"OUR favorite color is pink\" she makes decisions for her, and talks loud so Rosie can't talk. What if Rosie's favorite color isn't pink? The only reason she is famous is because she is \"sassy\" and she supposedly \"loves\"  Nicki Minaj so much. She can't even sing, she just tries to steal the show. Listen to her. 3:39. She basically screams it. It is pretty annoying if you ask me. And don't go reply hate messages to me. I am an American and I have a right to opinion.",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 14.0,
+      "comment_timestamp": 219.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "210.0s - 216.0s",
+          "query": "**Visual:** The video shows two young girls on stage wearing pink dresses with tiaras. They're holding microphones and appear to be singing or performing together. The background has bright pink lighting and patterns.\n\n**Audio:** There's music playing throughout the clip, likely instrumental or backing for their performance. No specific lyrics can be heard from the provided information."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "216.0s - 222.0s",
+          "query": "Visually, there are two young girls on stage wearing pink dresses with fluffy skirts and tiaras. They're singing into microphones while dancing energetically. The background has large screens displaying colorful patterns, mainly pinks and purples. There's also some text visible at the bottom left corner saying \"ellen\".\n\nAudibly, it seems like they're performing a song together. You can hear their voices clearly over the music playing in the background. It gives off an upbeat vibe overall."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "222.0s - 228.0s",
+          "query": "Visually, there are two young girls on stage wearing pink dresses with white accents and tiaras. They're holding microphones and appear to be singing or performing together. The background is dark with some purple lighting effects. There's also an \"ellen\" logo visible at the bottom left corner.\n\nAudibly, it seems like they're singing along with music playing in the background. You can hear applause from an audience towards the end of the clip."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 230.3741898536682
+    },
+    {
+      "comment_index": 14510,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "You get like 4:15 of your time to see a 8 years old singing ACAPELLA and totally singing better than half of current pop artists",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 13.0,
+      "comment_timestamp": 255.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "246.0s - 252.0s",
+          "query": "Visually, there's an adult male in a gray suit interacting with two young girls dressed in pink dresses and tiaras on a stage-like setting. The background has blue lighting elements. There s also some equipment like cameras visible. The scene seems to be from \"The Ellen DeGeneres Show\" based on the logo.\n\nAudibly, there is cheering and applause throughout the clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "252.0s - 258.0s",
+          "query": "Well, I don't actually have access to videos directly. But if we're just talking about describing something based on your words here:.For the visual part, it seems like there's someone sitting down, maybe reading or holding something. There might be some kind of equipment around too, like cameras or tripods. And the background looks like an indoor setting with some wooden elements.The audio part is tricky without hearing anything. If there was any sound, it could've been from the person speaking, some music playing softly, or even just the ambient noise of the room.So, that's how I'd describe it based on what you've given me. What else can I help you with?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "258.0s - 264.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 147.39425563812256
+    },
+    {
+      "comment_index": 14511,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "at 1:43 Sophia says to Rosie \"don't sing\"",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 12.0,
+      "comment_timestamp": 103.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "94.0s - 100.0s",
+          "query": "Visually, there are young girls in pink dresses with tiaras dancing on a stage. The background has large screens showing blue patterns or images. There's also some greenery like plants visible.The audio includes applause from an audience. It seems to be a cheerful event, maybe a performance or celebration. What do you think about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "100.0s - 106.0s",
+          "query": "Visually, there are two young girls on a stage. They're wearing pink dresses with white accents and tiaras. One girl has long blonde hair while the other's hair isn't clearly visible. They seem to be dancing or moving around energetically. The background is dark with some blue lighting effects. There are also some large screens showing abstract patterns.\n\nAudibly, there's applause from an audience, suggesting they're watching the performance."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "106.0s - 112.0s",
+          "query": "Visually, there are two young girls on a stage. They're wearing pink dresses with white tops and tiaras. One girl is holding a microphone and appears to be singing or speaking into it while the other stands beside her. The background has a purple hue with some light patterns. There's also a \"ellen\" logo visible at the bottom left corner.\n\nAudibly, someone is speaking, though I can't make out the exact words due to the short duration. It seems like they might be introducing or commenting on the performance."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 216.6540424823761
+    },
+    {
+      "comment_index": 14512,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "2:42 She changed keys lol",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 10.0,
+      "comment_timestamp": 162.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "153.0s - 159.0s",
+          "query": "Visually, there's a young girl on stage wearing a tiara and a pink dress with white accents. She has a microphone in her hand and is singing or speaking into it. The background features some purple floral patterns and the word \"ellen\" is visible at the bottom left corner.\n\nAudibly, she seems to be singing or speaking, though I can't make out the exact words from just these six seconds. There might also be some soft music playing in the background."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "159.0s - 165.0s",
+          "query": "Sure! So, visually, there are two young girls on stage wearing pink dresses with tiaras. They're holding microphones and seem to be singing or performing. The background has bright pink lighting and some kind of patterned backdrop. There's also an audience visible, with hands raised in excitement.Audience-wise, it s mostly focused on their performance. You can hear them singing, and there might be some clapping from the audience too.Anything else you want to know about the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "165.0s - 171.0s",
+          "query": "Visually, there are two young girls on stage wearing tiaras and pink dresses. They're singing into microphones with their arms raised energetically. The background is dark with some purple lighting effects. There's also an \"ellen\" logo visible at the bottom left corner.Audibly, it seems like they're performing a song or a musical number. There might be some cheering from an audience too. What do you think about their performance?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 225.9218451976776
+    },
+    {
+      "comment_index": 14513,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "1:56 “And it’s bringing me out H T E  D A R K  F”",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 9.0,
+      "comment_timestamp": 116.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "107.0s - 113.0s",
+          "query": "Visually, there are two young girls on stage wearing pink dresses with white accents and tiaras. They're holding microphones and appear to be singing or performing together. The background is dark with some purple lighting.\n\nAudibly, it seems like they're singing along to a song that starts with \"There's fire starting in my heart.\" It could also be a spoken line from someone else in the performance."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "113.0s - 119.0s",
+          "query": "Visually, there's a young girl on stage wearing a tiara and holding a microphone. She seems to be singing or speaking into it. The background has large screens with pinkish-purple visuals that look like abstract patterns or flowers. There are also some other children visible in the scene, possibly dancing or moving around.\n\nAudibly, someone is singing or speaking, likely the same girl who is on stage. It could be a song or a speech. There might be some music playing softly in the background too."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "119.0s - 125.0s",
+          "query": "Visually, there are two young girls on stage wearing pink dresses with tiaras. They're singing into microphones while dancing energetically. The background has large screens showing purple floral patterns. There's also some text that says \"ellen\" at the bottom left corner.\n\nAudibly, it seems like they're singing a song together. There might be some clapping or cheering from an audience too. It gives off a lively performance vibe. What do you think about their performance?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 239.42481541633606
+    },
+    {
+      "comment_index": 14514,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "1:19 was my favorite part lol rosie",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 8.0,
+      "comment_timestamp": 79.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "70.0s - 76.0s",
+          "query": "**Visual:** The scene shows two young girls sitting on red chairs wearing tiaras and pink dresses with ruffles. They're seated across from an adult woman who is also dressed formally. There's a table between them with some items like mugs and flowers. The background has plants and a window showing greenery outside.\n\n**Audio:** The audio includes laughter and conversation among the people present."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "76.0s - 82.0s",
+          "query": "Visually, there's an indoor scene with three women sitting on red chairs around a small table. They're wearing tiaras and pink outfits, suggesting some kind of themed event or celebration. The background has plants and decorative elements like a globe model.\n\nIn terms of audio, laughter is heard throughout the clip, indicating that something amusing was said or happened during their interaction. There doesn't seem to be any specific dialogue captured in these few seconds."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "82.0s - 88.0s",
+          "query": "Visually, there's an older woman sitting on a red chair with two young girls beside her. They're all wearing tiaras. The background has plants and some decorative items like vases. There s also a table between them with mugs and flowers.On the audio side, someone is speaking, asking about singing something today. It seems to be a conversation or interview setting. What do you think they might sing?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 235.55090618133545
+    },
+    {
+      "comment_index": 14515,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "Tell me why we cant hear a damn thing Rosie is saying. DID THEY REALLY TURN OFF HER MIC. I only say this because at 2:30 she taps on tge mic and it makes a minor sound but usually when you tap on a mic like that, it makes a loud ringing sound...weird..",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 8.0,
+      "comment_timestamp": 150.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "141.0s - 147.0s",
+          "query": "Visually, there are two young girls on stage wearing tiaras and white dresses with lace details. They're holding microphones and appear to be singing or speaking into them. The background is dark with some colorful lights, mainly purple and pink hues. There's also an \"ellen\" logo visible at the bottom left corner.\n\nAudibly, it seems like they might be singing along with music playing in the background. There could also be some clapping from an audience, suggesting applause for their performance."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "147.0s - 153.0s",
+          "query": "Visually, there are two young girls on stage wearing pink dresses with white accents and tiaras. They're holding microphones and appear to be singing or performing together. The background has large screens displaying colorful floral patterns mainly in shades of purple and pink. There's also some lighting that gives off a vibrant feel.\n\nAudibly, it seems like they might be singing along with music playing in the background. It could also just be their voices without any additional musical accompaniment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "153.0s - 159.0s",
+          "query": "Visually, there's a young girl on stage wearing a tiara and a pink dress with white accents. She has a microphone in her hand and is singing or speaking into it. The background features some purple floral patterns and the word \"ellen\" is visible at the bottom left corner.\n\nAudibly, she seems to be singing or speaking, though I can't make out the exact words from just these six seconds. There might also be some soft music playing in the background."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 229.3632369041443
+    },
+    {
+      "comment_index": 14516,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "Pause the video at 4:00",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 7.0,
+      "comment_timestamp": 240.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "231.0s - 237.0s",
+          "query": "Visually, there are two young girls on stage wearing pink dresses with white accents and tiaras. They're holding microphones and appear to be singing or performing together. The background is dark with some purple lighting.\n\nAudibly, it seems like they might be singing along with music playing softly in the background. There's also applause heard at the end, suggesting an audience present."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "237.0s - 243.0s",
+          "query": "Visually, there are two young girls on stage wearing pink dresses with tiaras, holding microphones. They seem to be performing or speaking. The background has a purple patterned screen. There's also an audience visible, some clapping and cheering.\n\nAudibly, I can hear applause from the crowd, which suggests they're enjoying whatever is happening on stage. There might be some light-hearted laughter too."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "243.0s - 249.0s",
+          "query": "Visually, there's an adult male in a gray suit dancing with two young girls on stage. The girls wear pink dresses and tiaras, holding microphones. They seem to be having fun, moving energetically. The background is dark with some blue lighting effects. There s also applause from an unseen audience.\n\nAudibly, there's cheering and clapping from the crowd throughout the clip."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 182.65822553634644
+    },
+    {
+      "comment_index": 14517,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "3:17 that double chin tho 😂",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 6.0,
+      "comment_timestamp": 197.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "188.0s - 194.0s",
+          "query": "Visually, there are two young girls on stage wearing tiaras and white dresses with pink skirts. They're holding microphones and singing together. The background is dark with bright purple lights creating a spotlight effect. There's also some kind of patterned backdrop behind them.\n\nAudibly, it seems like they're singing along to a song or performing a duet. There might be some clapping from an audience too, indicating applause for their performance."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "194.0s - 200.0s",
+          "query": "Visually, there are two young girls on stage wearing pink dresses with white tops and tiaras. They're holding microphones and seem to be singing or performing together. The background has a pinkish-purple hue with some abstract patterns. There's also an \"ellen\" logo visible at the bottom left corner.\n\nAudibly, it seems like they might be singing along with music playing in the background. It could also just be their voices without any additional music. What do you think about their performance?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "200.0s - 206.0s",
+          "query": "**Visual:** The video shows two young girls on stage wearing tiaras and pink dresses with white accents. They're holding microphones and appear to be singing or performing together. The background features large vertical panels with a purple and pink floral design. There's also an \"ellen\" logo visible at the bottom left corner.\n\n**Audio:** The audio includes children singing, likely performing a song. There are no other distinct sound effects or ambient noises detected."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 215.92603516578674
+    },
+    {
+      "comment_index": 14518,
+      "video_id": "AIUx_mWSTCk",
+      "comment": "My favorite part is 4:16",
+      "language": "en",
+      "channel_name": "TheEllenShow",
+      "category": "entertainment",
+      "likes": 5.0,
+      "comment_timestamp": 256.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "247.0s - 253.0s",
+          "query": "Visually, there's an image of a woman sitting on a couch with a cup in her hand. She has short blonde hair and is wearing a black suit. There s also some kind of equipment or furniture around her, like a director's chair. The background seems to be indoors, maybe a studio or office setting.\n\nIn terms of audio, I can't really tell much because it's just a very short clip without any clear speech, music, or sound effects that stand out. It might be silent for all we know.Anything else you noticed about the video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "253.0s - 259.0s",
+          "query": "Visually, there's a woman sitting on a couch wearing a black suit. She has short blonde hair and is smiling while holding a mug. There s some kind of equipment or furniture around her, like a director's chair and possibly filming gear. The background seems to be an indoor setting with wooden panels.\n\nIn terms of audio, it looks like there might be some sort of announcement or information being given about when something is available in your town at ellentv.com. But without more context from the actual audio, that's all I can say. What do you think? Do you have any other details about the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "259.0s - 265.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 196.11206436157227
+    }
+  ]
+}

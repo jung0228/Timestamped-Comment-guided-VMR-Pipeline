@@ -1,0 +1,609 @@
+{
+  "video_id": "k_GM1JA608Y",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 20340,
+      "video_id": "k_GM1JA608Y",
+      "comment": "5:48 - Proof you can game on a Macbook",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 5900.0,
+      "comment_timestamp": 348.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "339.0s - 345.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 5.71 GiB is free. Including non-PyTorch memory, this process has 17.84 GiB memory in use. Of the allocated memory 16.78 GiB is allocated by PyTorch, and 763.31 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "345.0s - 351.0s",
+          "query": "**Visual:** The video shows a person sitting on a couch with a laptop in front of them. There's a bar graph overlayed on the image behind the person, displaying different scores for various devices like Desktop GTX 1080 SLI, Predator 21X GTX 1080 SLI, Alienware 17 GTX 1080, and Razer Blade GTX 1080. The person is wearing a gray hoodie over a blue shirt and seems to be interacting with the laptop.\n\n**Audio:** The audio includes someone speaking, saying \"Alright let's put this thing to the test.\" There doesn't seem to be any background music or other distinct sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "351.0s - 357.0s",
+          "query": "Visual: The scene shows someone sitting on a gray couch with headphones around their neck. They're using a laptop that has \"Predator\" written on it. There's also a coffee table next to them. In front of the person is a first-person view from a video game, which seems to be an action or shooter game set in a futuristic environment.\n\nAudio: I can't really tell much about the audio since there isn't any spoken dialogue or distinct sound effects mentioned. It might just be background noise related to the game being played."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 542.984237909317
+    },
+    {
+      "comment_index": 20341,
+      "video_id": "k_GM1JA608Y",
+      "comment": "5:50 I guess when you have a $9000 laptop a MacBook just becomes a mousepad",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 4400.0,
+      "comment_timestamp": 350.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "341.0s - 347.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 5.99 GiB is free. Including non-PyTorch memory, this process has 17.56 GiB memory in use. Of the allocated memory 16.78 GiB is allocated by PyTorch, and 475.54 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "347.0s - 353.0s",
+          "query": "**Visual:** A person is sitting on a gray couch with a laptop in front of them. The room has large windows showing a cityscape outside. There's also a black tray-like object on the left side of the couch.\n\n**Audio:** Someone is speaking about testing something related to frame rate, saying it's \"amazing.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "353.0s - 359.0s",
+          "query": "Visually, it looks like a first-person shooter game scene with a character holding a weapon, aiming at an enemy. There's some kind of futuristic or sci-fi setting around, with structures that seem high-tech. The colors are mainly dark blues and greens, giving off a cool vibe. You can also spot some other characters or enemies in the background, possibly engaged in combat.\n\nIn terms of audio, there's probably gunfire or weapon sounds, along with some background music to enhance the action-packed atmosphere. There might be some dialogue from the player or other characters too."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 423.68868255615234
+    },
+    {
+      "comment_index": 20342,
+      "video_id": "k_GM1JA608Y",
+      "comment": "5:46 his so rich he uses a MacBook as a mousepad lol",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 1700.0,
+      "comment_timestamp": 346.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "337.0s - 343.0s",
+          "query": "**Visual:** The video shows a bar chart titled \"FIRE STRIKE GRAPHICS - 1080P.\" It compares graphics performance across different setups or devices, with bars labeled for Desktop GTX 1080 SLI, Desktop GTX 1080, Predator 21X GTX 1080 SLI, Alienware 17 GTX 1080, and Razer Blade GTX 1060. Each bar represents a score, with Desktop GTX 1080 SLI having the highest score at 35912.\n\n**Audio:** A person is speaking about comparing something to see how it performs against others, mentioning that it behaves like a \"crazy powerful desktop\" and noting its impressive performance."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "343.0s - 349.0s",
+          "query": "**Visual:** The video shows a bar chart titled \"FIRE STRIKE GRAPHICS - 1080P\" with different graphics card models listed on the x-axis and their respective scores on the y-axis. The background is dark blue. Below the chart, there's an image of someone sitting on a couch holding a laptop.\n\n**Audio:** There is male speech saying, \"seeing how much power it has alright I want to play some games let's put this thing to the test.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "349.0s - 355.0s",
+          "query": "Sure! So, visually, there's someone sitting on a couch with a laptop open in front of them. The room has big windows showing a cityscape outside. There s also some kind of gaming setup or equipment nearby. In terms of audio, it seems like there might be some background noise from the city, maybe traffic or other urban sounds. And then, there s definitely dialogue happening, likely about something exciting or impressive related to the game being played.What do you think? Any specific details you re curious about?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 386.13359689712524
+    },
+    {
+      "comment_index": 20343,
+      "video_id": "k_GM1JA608Y",
+      "comment": "5:47 finally someone used the mac for the purpose it was made for.",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 614.0,
+      "comment_timestamp": 347.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "338.0s - 344.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 5.92 GiB is free. Including non-PyTorch memory, this process has 17.63 GiB memory in use. Of the allocated memory 16.78 GiB is allocated by PyTorch, and 552.58 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "344.0s - 350.0s",
+          "query": "**Visual:** The scene shows a person sitting on a couch with a laptop open in front of them. There's a bar chart visible behind the person that compares different graphics cards' performance scores for \"Fire Strike Graphics - 1080P.\" The background includes large windows showing an urban skyline.\n\n**Audio:** A man speaks, saying, \"Alright I want to play some games let's put this thing to the test.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "350.0s - 356.0s",
+          "query": "Sure! So, for the visual part:.There's someone sitting on a couch with a laptop open in front of them. The room has big windows showing a cityscape outside. The person is wearing headphones around their neck and seems to be playing a game on the laptop.For the audio part:.I can't really tell much about it since there isn't any specific information given.Does that help? Let me know if you want more details or have other questions!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 428.9008662700653
+    },
+    {
+      "comment_index": 20344,
+      "video_id": "k_GM1JA608Y",
+      "comment": "5:49 he's so rich he uses a Macbook as a mouse pad . Savage😅",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 416.0,
+      "comment_timestamp": 349.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "340.0s - 346.0s",
+          "query": "**Visual:** The video shows a bar chart titled \"FIRE STRIKE GRAPHICS - 1080P.\" It compares graphics performance scores for different setups or devices, including Desktop GTX 1080 SLI, Desktop GTX 1080, Predator 21X GTX 1080 SLI, Alienware 17 GTX 1080, and Razer Blade GTX 1080. Each setup has a corresponding vertical bar indicating its score.\n\n**Audio:** Someone is speaking about how powerful something is, expressing amazement with phrases like \"performs like crazy\" and \"insane how much horsepower this thing has.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "346.0s - 352.0s",
+          "query": "**Visual:** A person is sitting on a gray couch with a large window behind them showing a cityscape. They're wearing headphones around their neck and have a black Acer Predator laptop open in front of them. The room has modern decor, including a gray rug and a small table next to the couch.\n\n**Audio:** There's someone speaking about wanting to play games online and mentioning that the frame rate on something is \"freaking amazing.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "352.0s - 358.0s",
+          "query": "Visual: The video shows a first-person view from a video game. There's a character holding a weapon, possibly a gun or a similar firearm. The environment looks like an indoor setting with some machinery and structures around. The lighting is somewhat dim, giving it a tense atmosphere.\n\nAudio: There's no distinct speech or dialogue heard. Instead, there are sound effects that seem to be related to the game mechanics, like footsteps or weapon reloading noises. The background has a faint, ambient noise, maybe from other players or game elements."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 285.7489342689514
+    },
+    {
+      "comment_index": 20345,
+      "video_id": "k_GM1JA608Y",
+      "comment": "4:04 He switched the keys to spell D2D and ASS lul",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 251.0,
+      "comment_timestamp": 244.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "235.0s - 241.0s",
+          "query": "Visual: The video shows a close-up view of a laptop screen displaying a snowy mountain scene with a cable car. Below the screen is a keyboard with some keys highlighted in blue.\n\nAudio: There's someone speaking about games being good on the device shown in the video. They also mention something about it being for one of three hundred people who get it."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "241.0s - 247.0s",
+          "query": "Visually, there's a close-up shot of a keyboard with some keys highlighted in blue. The camera moves around it slightly. There aren't any people or other objects visible. The colors mainly consist of black for most of the keys and blue for those that stand out. The movement is just the camera panning over the keyboard.\n\nIn terms of audio, someone is speaking. It seems to be a calm voice, possibly explaining something about the keyboard. There's no background music or sound effects, just the clear speech."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "247.0s - 253.0s",
+          "query": "Visual: The video shows someone typing on a keyboard with \"PREDATOR\" written on it. There's also a monitor displaying some text like \"CONQUER NEW WORLDS\". The person is using their fingers to type.\n\nAudio: Someone is speaking about an eye-tracking feature they've never used before."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 148.3369436264038
+    },
+    {
+      "comment_index": 20346,
+      "video_id": "k_GM1JA608Y",
+      "comment": "0:57 this is so heavy, (hardly  moves it), ah huh hah, uah.... 1:11, moves it without problem while talking...",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 130.0,
+      "comment_timestamp": 64.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "55.0s - 61.0s",
+          "query": "**Visual:** A man is sitting on a gray couch in a room with large windows letting in natural light. He's wearing a dark cardigan over a blue shirt and pink pants. He picks up a black laptop from his lap and examines it closely.\n\n**Audio:** There's no distinct speech or music audible. The only sound seems to be some faint background noise, possibly from an air conditioner or fan."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "61.0s - 67.0s",
+          "query": "**Visual:** A man is sitting on a gray couch with a laptop on his lap. He's wearing a blue shirt under a gray hoodie and red pants. There are large windows behind him showing some buildings outside. The room looks modern and bright.\n\n**Audio:** The man says something like \"Okay, this is surprisingly heavy. I knew it would be heavy, but this is heavier than I thought it would be.\" It seems to be just his voice speaking clearly without any other background noises or music."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "67.0s - 73.0s",
+          "query": "Visually, there's a man sitting on a gray couch in a room with large windows letting in natural light. He's wearing a dark jacket over a blue shirt and red pants. He's holding some clothes in his hands. The background shows an urban view through the windows. There's also a glass table or surface visible to the left side of him.Audibly, he speaks, saying \"Okay.\" Then there's a short pause before he says something else that starts with \"Oh.\" After that, he mentions putting something aside for two seconds."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 252.23818063735962
+    },
+    {
+      "comment_index": 20347,
+      "video_id": "k_GM1JA608Y",
+      "comment": "4:33 ''I mean it's only 9000 dollars''    ....",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 35.0,
+      "comment_timestamp": 273.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "264.0s - 270.0s",
+          "query": "**Visual:** The video shows hands interacting with a laptop screen that has \"PREDATOR\" written on it. There's an image on the screen with the words \"CONQUER NEW WORLDS.\" The hands seem to be adjusting or touching something near the screen.\n\n**Audio:** There is some background noise, possibly from a room setting, along with a voice saying, \"Okay we're going in I'm curious to see what's inside this thing.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "270.0s - 276.0s",
+          "query": "Sure! So, visually, there's someone sitting at a desk with a laptop. They're wearing a dark jacket over a blue shirt and have a beard. The background looks like an office or study area with some shelves and papers around. There s also another person visible through a glass partition, but they re not really interacting much with the main person.Action-wise, the main guy is typing on his keyboard while talking. He seems to be focused on something on the screen. The other person in the background is just standing there, looking down at something.Does that help? Let me know if you want more details!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "276.0s - 282.0s",
+          "query": "**Visual:** The video shows someone opening up a laptop, specifically a Predator brand one. You can see their hands lifting the keyboard to expose the internal components like the hard drive and other circuitry inside.\n\n**Audio:** There's no distinct dialogue or music in the audio. Just some background noise that could be from the environment where the video was filmed, possibly a bit of static or ambient room noise."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 206.11223793029785
+    },
+    {
+      "comment_index": 20348,
+      "video_id": "k_GM1JA608Y",
+      "comment": "4:38 thats what she said",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 31.0,
+      "comment_timestamp": 278.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "269.0s - 275.0s",
+          "query": "**Visual:** The video shows someone handling a laptop with \"PREDATOR\" written on it. There's also an image on the laptop screen that says \"CONQUER NEW WORLDS.\" A person is sitting on a couch nearby.\n\n**Audio:** Someone is speaking, saying something like \"I might give him this too much pressure I mean it's only nine thousand dollars.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "275.0s - 281.0s",
+          "query": "Visual: The video shows someone working on a laptop. You can see their hands manipulating components inside the laptop case. There's also a screwdriver lying nearby.\n\nAudio: There is some background noise, possibly from the person speaking or other activities happening around them. No distinct music or sound effects stand out."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "281.0s - 287.0s",
+          "query": "Visual: The video shows someone's hands interacting with a laptop. They're removing or adjusting components inside the laptop case. There's also a screwdriver visible on the surface near the laptop.\n\nAudio: A man is speaking throughout the video. His voice seems to be explaining something related to the laptop repair or maintenance process."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 178.60058856010437
+    },
+    {
+      "comment_index": 20349,
+      "video_id": "k_GM1JA608Y",
+      "comment": "0:24 Its a lootbox!",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 30.0,
+      "comment_timestamp": 24.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "15.0s - 21.0s",
+          "query": "**Visual:** A man is unboxing a large cardboard box labeled \"Predator\" in a modern living room with big windows showing a cityscape outside. There's a gray sectional sofa nearby.\n\n**Audio:** The man speaks while opening the box, but no other distinct sounds or music are heard."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "21.0s - 27.0s",
+          "query": "**Visual:** The video shows a person unpacking a large box labeled \"PREDATOR\" in a modern living room with big windows overlooking a cityscape. There's a gray sectional sofa nearby. The person is wearing casual clothes.\n\n**Audio:** Background music plays throughout the short clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "27.0s - 33.0s",
+          "query": "**Visual:** The video shows a man in a modern living room with large windows overlooking a cityscape. He's moving around, interacting with various objects like boxes and furniture. There s a gray sectional sofa, a carpeted floor, and some cardboard boxes scattered about.\n\n**Audio:** The background has upbeat music playing throughout the short clip. No specific speech or dialogue is heard during these six seconds."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 162.23088002204895
+    },
+    {
+      "comment_index": 20350,
+      "video_id": "k_GM1JA608Y",
+      "comment": "Making faces and sounds...too heavy and at very next moment keeps it with ease at 1:11",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 19.0,
+      "comment_timestamp": 71.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "62.0s - 68.0s",
+          "query": "**Visual:** A person is sitting on a gray couch with large windows behind them letting in natural light. They're wearing a dark shirt under a gray cardigan and red pants. The person is holding an open laptop on their lap.\n\n**Audio:** There's a man speaking. He says something like \"this is heavy\" and then adds that it's heavier than he thought it would be."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "68.0s - 74.0s",
+          "query": "Visually, there's a man sitting on a gray couch with large windows behind him showing some buildings outside. He has short dark hair and is wearing a blue shirt under a gray hoodie and red pants. He's holding something black that looks like a laptop or tablet. He seems to be talking while gesturing with his hands. There's also a black bag on the couch next to him. The room appears modern and bright due to the natural light coming through the windows.Audibly, he speaks for about two seconds before saying \"now I'm gonna put this aside for just.\" It sounds like he might be explaining something or giving instructions."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "74.0s - 80.0s",
+          "query": "Visual: A person is interacting with an open black case that has foam inserts. The case seems to be designed for storing items securely. There's also another person sitting on a couch nearby.\n\nAudio: Someone is speaking, but without more details about their words or tone, it's hard to give a precise description."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 214.0721879005432
+    },
+    {
+      "comment_index": 20351,
+      "video_id": "k_GM1JA608Y",
+      "comment": "1:10  looks like a lamborghini from behind",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 16.0,
+      "comment_timestamp": 70.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "61.0s - 67.0s",
+          "query": "**Visual:** A man is sitting on a gray couch with a laptop on his lap. He's wearing a blue shirt under a gray hoodie and red pants. There are large windows behind him showing some buildings outside. The room looks modern and bright.\n\n**Audio:** The man says something like \"Okay, this is surprisingly heavy. I knew it would be heavy, but this is heavier than I thought it would be.\" It seems to be just his voice speaking clearly without any other background noises or music."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "67.0s - 73.0s",
+          "query": "Visually, there's a man sitting on a gray couch in a room with large windows letting in natural light. He's wearing a dark jacket over a blue shirt and red pants. He's holding some clothes in his hands. The background shows an urban view through the windows. There's also a glass table or surface visible to the left side of him.Audibly, he speaks, saying \"Okay.\" Then there's a short pause before he says something else that starts with \"Oh.\" After that, he mentions putting something aside for two seconds."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "73.0s - 79.0s",
+          "query": "Visual: A person is sitting on a couch with their legs crossed. They're wearing a dark jacket over a blue shirt and red pants. Their hands are gesturing while they talk. There's also an open black case with foam inserts visible.\n\nAudio: Someone is speaking, but it's not clear what they're saying due to the short duration."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 235.12459301948547
+    },
+    {
+      "comment_index": 20352,
+      "video_id": "k_GM1JA608Y",
+      "comment": "4:34  Him: It’s only 9 thousand dollars  Me: ...",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 15.0,
+      "comment_timestamp": 274.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "265.0s - 271.0s",
+          "query": "**Visual:** The video shows someone interacting with a laptop. Their hands are visible, one holding a stylus or similar tool while the other is on the keyboard. The laptop screen displays an image related to gaming or technology, with text that says \"CONQUER NEW WORLDS.\" The overall color scheme is dark, typical for gaming laptops.\n\n**Audio:** There's a male voice speaking in English. He seems to be explaining something about the laptop, possibly its features or how it works. His tone suggests he might be demonstrating or reviewing the device."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "271.0s - 277.0s",
+          "query": "Visual: A person is sitting on a couch with a laptop open in front of them. The laptop screen displays an image related to gaming or technology. There's also another device next to the laptop.\n\nAudio: Someone is speaking, saying \"I'm too much I mean it's only nine thousand dollars.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "277.0s - 283.0s",
+          "query": "Visual: The video shows someone taking apart a laptop. You can see their hands working on it, pulling out components like the hard drive. There's also a screwdriver lying nearby.\n\nAudio: There is some background noise, probably from the person speaking or moving around while they're working on the laptop. No distinct music or sound effects stand out."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 223.24189114570618
+    },
+    {
+      "comment_index": 20353,
+      "video_id": "k_GM1JA608Y",
+      "comment": "4:03 A S S / D2D 5:49 Macbooks as mousepad  Dave's humour. 😂",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 13.0,
+      "comment_timestamp": 296.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "287.0s - 293.0s",
+          "query": "Visually, there's an open laptop showing its internal components like RAM slots and Wi-Fi card. A man is sitting on a couch, holding something small in his hands, possibly related to the laptop. The background has large windows with some buildings visible outside.\n\nAudio-wise, it seems like someone is speaking about accessing the laptop's internal parts easily for tasks like replacing the Wi-Fi card or upgrading RAM. There might be some soft ambient noise from the room."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "293.0s - 299.0s",
+          "query": "Visually, there's someone sitting on a couch with some electronic components or devices around them. The background has large windows letting in light. There aren't any other distinct objects or actions clearly visible.\n\nIn terms of audio, it seems like there might be some kind of narration or explanation going on, possibly related to the electronics shown. But without more details from the actual audio content, I can't say for sure if there's music or just plain speech."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "299.0s - 305.0s",
+          "query": "**Visual:** The video shows a close-up of two black AC adapters placed on a tufted gray surface. A hand reaches into the frame to touch one of the adapters.\n\n**Audio:** There is no discernible dialogue or music in the audio portion of the video. The only sound seems to be the subtle noise of the hand touching the adapter."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 180.9621365070343
+    },
+    {
+      "comment_index": 20354,
+      "video_id": "k_GM1JA608Y",
+      "comment": "Lol good observation. 05:49",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 9.0,
+      "comment_timestamp": 349.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "340.0s - 346.0s",
+          "query": "**Visual:** The video shows a bar chart titled \"FIRE STRIKE GRAPHICS - 1080P.\" It compares graphics performance scores for different setups or devices, including Desktop GTX 1080 SLI, Desktop GTX 1080, Predator 21X GTX 1080 SLI, Alienware 17 GTX 1080, and Razer Blade GTX 1080. Each setup has a corresponding vertical bar indicating its score.\n\n**Audio:** Someone is speaking about how powerful something is, expressing amazement with phrases like \"performs like crazy\" and \"insane how much horsepower this thing has.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "346.0s - 352.0s",
+          "query": "**Visual:** A person is sitting on a gray couch with a large window behind them showing a cityscape. They're wearing headphones around their neck and have a black Acer Predator laptop open in front of them. The room has modern decor, including a gray rug and a small table next to the couch.\n\n**Audio:** There's someone speaking about wanting to play games online and mentioning that the frame rate on something is \"freaking amazing.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "352.0s - 358.0s",
+          "query": "Visual: The video shows a first-person view from a video game. There's a character holding a weapon, possibly a gun or a similar firearm. The environment looks like an indoor setting with some machinery and structures around. The lighting is somewhat dim, giving it a tense atmosphere.\n\nAudio: There's no distinct speech or dialogue heard. Instead, there are sound effects that seem to be related to the game mechanics, like footsteps or weapon reloading noises. The background has a faint, ambient noise, maybe from other players or game elements."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 364.58427143096924
+    },
+    {
+      "comment_index": 20355,
+      "video_id": "k_GM1JA608Y",
+      "comment": "@amashaziz2212  First, the facts as they stand: RTX 3080 vs SLI-1080 (Respectively) CUDA Cores: 8704 (8.6) > 5120 (6.1) Boost Clock 1.7GHz ~= 1.7GHz (like ~50MHz difference) Memory: 10GB < 16GB Mem-Type: 6X vs 5 (GDDR) Mem-Bus: 320-bit > 256-bit Mem-Bandwidth: 760.3GB/s > 320GB/s So, where the 3080 lacks the memory size, it makes up for in sheer number of CUDA cores and updated memory standards, though it does use about as much power (350w < 360w). oh and since we seem to be including theoreticals (mentioning dual gtx-1080's being faster in games if devs could just make them faster sounds theoretical enough to me) we'll just include them here too (admittedly i have no idea what these mean can some engineer explain what these do.) Pixel rate: 164.2GP/s < 221.8GP/s Texture rate: 465.1GTexels/s vs 554.6GTexels/s FP16 (half)  performance: 29.77TFLOPS (1:1) > 273.6GFLOPS (1:64) FP32 (float) performance: 30TFLOPS > 17TFLOPS (rounded to nearest whole number) FP64 (full) performance: 465.1 GFLOPS (1:64) < 554.6GFLOPS (1:32) ngl theoreticals kinda weird out here with these ratios anyway so we've identified the theoretical maximums of the competitors  and yeah theoretically (and literally) speaking the 3080 makes a single 1080 look antique so it could probably still make quick work of dual 1080's right?  https://m.youtube.com/watch?v=IQNzMpavV90 wellllllllllll and yes the cards aren't founders edition shutup im tired its 5 in the morning and im letting the coffee wear off a dual 1080 setup would THEORETICALLY win or lose by 2-4 frames in accordance with this videos evidence buuuut realistically in the games that would work with sli you'd probably only get like a 20-30% boost while the 3080 cranks double so its a bruh moment  oh and for the \"gaming isnt the only thing\" yeah true but did we forget that the 3080 is a *second* generation ray-tracing card? oop yeah thats just a slight detail that already gives it a major advantage. (Somewhat) Disregarding that though, techgage made an article comparing the 3080 to multiple different graphics cards, and even the gtx 1080 ti often had trouble even getting half the score, not leaving much leeway for even a theoretically perfect SLI-1080 setup (aka it wouldn't have matched/beaten in most scenarios) https://techgage.com/article/nvidia-geforce-rtx-3080-rendering-performance/ Also, this arguments topic is frustratingly volatile. First its if a set of dual-1080's would be considered slow by todays standards (lets be real though, who's buying dual 1080's, in 2021, no less?) then its if a pair of laptop 1080's would be THEORETICALLY faster than a laptop RTX 3080 (I didnt cover laptop 3080 because it varies from product to product, and im tired.) which, realistically, it doesn't matter when laptops RTX 3080 exists to begin with (they're just better to use, no questions asked.) then its no longer specified (are we comparing laptop gpus or desktop ones?) THEN we go to the Ti's! (granted the laptop in this video had ti's, but then WHY WERE YOU JUST TALKING ABOUT NON-TI VARIANTS?) also this reply section wreaks of sweaty, narcissistic and toxic 7 year olds who came from 2010. get your head out of the clouds damnit.   there. end of argument. now nobody has any reason to continue it. oh wait thats right more sources https://www.techpowerup.com/gpu-specs/geforce-gtx-1080.c2839 https://www.techpowerup.com/gpu-specs/geforce-rtx-3080.c3621 also used nvidia spec sheets but they didnt give as much info       k im tired gn",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 7.0,
+      "comment_timestamp": 113.33333333333333,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "104.3s - 110.3s",
+          "query": "Visual: A man is sitting on a couch in a room with large windows. He's wearing a gray hoodie and red pants. There's a black case open in front of him, and he seems to be handling something inside it. The background shows some modern furniture and buildings outside the window.\n\nAudio: The main thing heard is the man speaking, saying \"so cool\" at one point. There doesn't seem to be any other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "110.3s - 116.3s",
+          "query": "**Visual:** A person is seen handling some black electronic devices or gadgets inside an open case with foam inserts designed to hold them securely. The background shows a modern interior space with large windows letting in natural light.\n\n**Audio:** Someone is speaking, saying \"maybe for like that's pretty cool I should take this stuff out because we're gonna plug it up.\" The tone seems casual and excited about the items being handled."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "116.3s - 122.3s",
+          "query": "Visual: There's someone sitting on a couch, looking at something in their hands. Then there's another person reaching into an open suitcase with foam padding inside. The setting seems to be indoors, possibly in a living room or office space.\n\nAudio: I can't really tell much from just these six seconds. It might be some background noise like a fan or air conditioner humming, but it's hard to say for sure.What do you think about that? Do you have any other details from the rest of the video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 238.5534737110138
+    },
+    {
+      "comment_index": 20356,
+      "video_id": "k_GM1JA608Y",
+      "comment": "4:40 AH YES! We're In! That's what she said",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 3.0,
+      "comment_timestamp": 280.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "271.0s - 277.0s",
+          "query": "Visual: A person is sitting on a couch with a laptop open in front of them. The laptop screen displays an image related to gaming or technology. There's also another device next to the laptop.\n\nAudio: Someone is speaking, saying \"I'm too much I mean it's only nine thousand dollars.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "277.0s - 283.0s",
+          "query": "Visual: The video shows someone taking apart a laptop. You can see their hands working on it, pulling out components like the hard drive. There's also a screwdriver lying nearby.\n\nAudio: There is some background noise, probably from the person speaking or moving around while they're working on the laptop. No distinct music or sound effects stand out."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "283.0s - 289.0s",
+          "query": "Visual: The video shows someone's hands interacting with the inside of a laptop. You can see the internal components like RAM slots, cooling fans, and other hardware. There are four empty slots for RAM sticks visible.\n\nAudio: There is no distinct speech or music in the audio. Just some background noise that could be from the laptop itself or the environment it's in."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 180.87421941757202
+    },
+    {
+      "comment_index": 20357,
+      "video_id": "k_GM1JA608Y",
+      "comment": "2:14 Jesus, ugly as sh***! >>90's flashback feelinggggg<<",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 1.0,
+      "comment_timestamp": 134.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "125.0s - 131.0s",
+          "query": "Sure! So, visually, there's someone sitting on a couch with a laptop on their lap. Then another person comes over and starts packing something into a suitcase. The scene is indoors, probably in a living room or similar space. There s some furniture like a coffee table and a rug visible too.In terms of audio, it seems pretty quiet overall. You can just hear normal background noise from inside the house, nothing really out of the ordinary.What do you think about that? Any other details you noticed?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "131.0s - 137.0s",
+          "query": "**Visual:** A person is handling a black laptop inside a hard case on a carpeted floor. The person lifts the laptop out of the case.\n\n**Audio:** There's no distinct speech or music heard. Just some background noise that could be from the movement of the laptop or other faint sounds."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "137.0s - 143.0s",
+          "query": "Visually, there's someone sitting on a couch with a laptop open in front of them. They seem to be interacting with it, maybe typing or using the touchpad. The room has large windows letting in natural light, and outside, some buildings can be seen. There s also another person partially visible next to the main subject.\n\nIn terms of audio, I don t really hear any distinct speech, music, or sound effects. It seems pretty quiet overall.What do you think about that? Do you have any other observations?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 210.73984122276306
+    },
+    {
+      "comment_index": 20358,
+      "video_id": "k_GM1JA608Y",
+      "comment": "@TheLetterT511  No problem,  Jesus said ,Carry your cross as i am carried \"And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me. Luke 9:23 KJV\" Here , He is JESUS Please understand brother  Ask JESUS TO TALK WITH YOU  and you will know the truth AMEN",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 1.0,
+      "comment_timestamp": 563.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "554.0s - 560.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "560.0s - 566.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "566.0s - 572.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.0043792724609375
+    },
+    {
+      "comment_index": 20359,
+      "video_id": "k_GM1JA608Y",
+      "comment": "5:13 it's funny how these specs are something totally normal today in a regular laptop.",
+      "language": "en",
+      "channel_name": "dave2d",
+      "category": "technology",
+      "likes": 1.0,
+      "comment_timestamp": 313.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "304.0s - 310.0s",
+          "query": "Well, I don't actually have access to videos or audio files directly here. But if we're talking about describing something based on your description, it seems like there's an object that has wires connected to it. It looks like some kind of electronic device with cables plugged into it. The wires connect through a rubber housing which keeps everything together in one package. Hmm, interesting setup! What do you think this device might be used for?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "310.0s - 316.0s",
+          "query": "Sorry, I can't analyze videos directly. But if you describe it to me, I'd be happy to help!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "316.0s - 322.0s",
+          "query": "**Visual:** The video shows close-up shots of a laptop keyboard with blue keys and black accents. There's also a glimpse of a hand interacting with the keyboard. Text on the screen lists specs like \"Intel Core i7/820HK @ 2.9 GHz\" and other details about the laptop.\n\n**Audio:** No distinct audio is heard apart from some background noise that might be related to the laptop or its environment."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 164.35639715194702
+    }
+  ]
+}

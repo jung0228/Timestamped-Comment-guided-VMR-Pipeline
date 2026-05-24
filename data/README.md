@@ -12,9 +12,10 @@ This archive contains anonymized processed data accompanying the submission.
 ## Summary
 
 - 1,014 videos
-- 19,445 timestamped comment instances
+- 19,445 structured gating results
 - 17,147 retained visual/audio/mixed moment-query pairs
 - 20 video categories
+- 1,115 caption files
 
 ## Anonymization
 

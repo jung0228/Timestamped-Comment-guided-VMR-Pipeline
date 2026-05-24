@@ -1,0 +1,609 @@
+{
+  "video_id": "lzAESaVqix0",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 10250,
+      "video_id": "lzAESaVqix0",
+      "comment": "Eheh the video length is 19:49, which is the year the PRC is born!",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 918.0,
+      "comment_timestamp": 1189.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1180.0s - 1186.0s",
+          "query": "**Visual:** The video shows a person sitting at a desk with a flag of Colombia displayed prominently on the screen beside them. There's also some text listing various sources like \"CIA World Factbook\" and \"Library of Congress.\" The background seems to be an indoor setting.\n\n**Audio:** Someone is speaking, mentioning things like \"24houranswers.com,\" \"Colombia,\" and encouraging viewers to check out certain resources or websites for help with geography."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1186.0s - 1192.0s",
+          "query": "Visual: A person is sitting in front of a map background with some text overlaid on it. The text says \"Thank You For Watching!\" and provides information about supporting them on Patreon.\n\nAudio: There's no distinct speech or music heard during these few seconds. Just general background noise that could be from an indoor setting."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1192.0s - 1198.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 120.07124519348145
+    },
+    {
+      "comment_index": 10251,
+      "video_id": "lzAESaVqix0",
+      "comment": "\"There are actually more people in China that speak english as a second language than there are in the UK.\"  Totally made my day   14:33",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 458.0,
+      "comment_timestamp": 873.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "864.0s - 870.0s",
+          "query": "Visual: There's a man in a red shirt talking directly to the camera. In the background, there are two inset images showing different scenes - one with someone working outdoors near bricks, and another with students sitting at desks writing. The main scene is set against a black backdrop.\n\nAudio: A male voice speaks about students spending around twelve hours a day on schoolwork. It seems like he might be explaining something related to education or workload."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "870.0s - 876.0s",
+          "query": "Well, let's break it down. Visually, there's someone wearing a red shirt standing against a black background. In the top left corner, there's an inset image showing students studying at desks with books and papers around them. The person in the main view is talking and has their hands clasped together. There's also another inset image that shows two people sitting close to each other, one writing on paper while the other looks on. Oh, and there's some text \"Hi\" appearing briefly in the upper right corner of the main view.Audibly, there's a voice speaking about exams being important and how much they love practicing English. So, what do you think? Any thoughts or questions about this?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "876.0s - 882.0s",
+          "query": "Visual: The main focus is on a man wearing a red shirt who seems to be speaking or presenting something. In the background, there's an inset image showing two people sitting together at a table with books open, suggesting they might be studying or working. There's also another inset image of a child playing a piano.\n\nAudio: A male voice is speaking about English being spoken more widely than in the UK and mentions gifted children."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 273.26695823669434
+    },
+    {
+      "comment_index": 10252,
+      "video_id": "lzAESaVqix0",
+      "comment": "14:16 100 episodes you say? Is China Now! going to be a thing?",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 266.0,
+      "comment_timestamp": 856.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "847.0s - 853.0s",
+          "query": "Well, visually, there's a guy wearing a red shirt standing against a black background. There's also an image of China with its flag on it to his left. And then, there are some people dressed in traditional Chinese clothing walking around. They seem to be doing something like a parade or celebration. Oh, and there are some buildings and trees visible too.As for the audio, I can't really tell much from just that short clip. It might be some kind of narration or commentary about Chinese history, traditions, etc. But without more details, it's hard to say for sure.What do you think? Do you have any other questions about this video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "853.0s - 859.0s",
+          "query": "Well, I'm not sure if there's actually a video to analyze here. But generally speaking, for describing a video visually, you'd look at things like what objects or people are present, their actions, any specific scenes that stand out, colors used, and how movement is captured. For the audio, it could be about the type of speech, whether there's background music or sound effects, or even just silence. If you can share more details about the video, I'd be happy to give you a proper analysis! So, what else do you know about this video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "859.0s - 865.0s",
+          "query": "Visual: A man in a red shirt is speaking directly to the camera against a black background. There's also an inset image showing someone working with bricks outdoors.\n\nAudio: The main speaker is talking about something related to Chinese culture, specifically mentioning diligence and hard work. There are no other distinct sounds or music in the audio."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 282.6888189315796
+    },
+    {
+      "comment_index": 10253,
+      "video_id": "lzAESaVqix0",
+      "comment": "16:09 Now they have 3 child policies!",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 149.0,
+      "comment_timestamp": 969.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "960.0s - 966.0s",
+          "query": "Visual: There's a man wearing a red shirt standing against a black background. He seems to be talking or presenting something. In the top left corner, there's an inset image showing two people, one with long hair covering their face, and another person next to them.\n\nAudio: The main speaker is talking about policies related to family size, mentioning things like \"growth\" and \"one-child policy.\" It sounds like he might be discussing how these policies affect families."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "966.0s - 972.0s",
+          "query": "Sure! So, visually, there's someone wearing a red shirt standing against a black background. There s also an image of a map with a red square on it, which looks like China. The person is talking and using hand gestures.Now, for the audio, the speaker is discussing policies related to children, mentioning something about \"one child\" and then \"two child.\" It seems to be a discussion or explanation about these policies.What do you think? Do you want me to clarify anything else?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "972.0s - 978.0s",
+          "query": "Visually, there's a man wearing a red shirt standing against a black background. Behind him is an image of China with its flag on it. He seems to be talking or presenting something, using hand gestures. The colors are mainly red from his shirt and the Chinese flag, green for the map, and black for the background.Audibly, he's speaking, likely explaining something related to China based on the visuals. There doesn't seem to be any other significant sounds like music or sound effects. It looks like a straightforward presentation about China. What do you think he might be discussing?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 275.7334494590759
+    },
+    {
+      "comment_index": 10254,
+      "video_id": "lzAESaVqix0",
+      "comment": "1:19 this is why I watch GeographyNow",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 103.0,
+      "comment_timestamp": 79.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "70.0s - 76.0s",
+          "query": "**Visual:** The video starts with an image of Earth from space, showing various countries' flags on different continents. Then it transitions to a man wearing a red shirt standing against a black background.\n\n**Audio:** There's some kind of electronic or synthesized sound effect playing throughout the video."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "76.0s - 82.0s",
+          "query": "Well, let's break it down. Visually, there's someone wearing a red shirt standing against a black background. There's also an image of China on the left side of them. And then, there's another person with glasses and a beard who pops up later, holding something that looks like a bowl or cup. The scene is pretty simple - just these two people and some basic objects.Audibly, there's a voice speaking throughout. It seems to be talking about how things can get complicated and confusing, which might relate to geography since they mention watching it now. So, yeah, it's mainly focused on the spoken words.Does that help? If you have any other questions about the video, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "82.0s - 88.0s",
+          "query": "Visual: The video shows an image of Earth from space with a focus on Asia. There's also a person wearing glasses and a red shirt visible in front of the globe.\n\nAudio: Someone is speaking about mainland China being located in East Asia and dominating its heart region, mentioning that it has over 22 million square kilometers."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 183.42017436027527
+    },
+    {
+      "comment_index": 10255,
+      "video_id": "lzAESaVqix0",
+      "comment": "6:15  I just cracked up with what china did XD",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 70.0,
+      "comment_timestamp": 375.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "366.0s - 372.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short time frame. There might be no visible objects or people, just maybe some kind of background noise or music. But without seeing it myself, it's really hard to say for sure. What do you think? Maybe you can give me more details about what was shown?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "372.0s - 378.0s",
+          "query": "Visually, there's a map showing parts of Asia with highlighted areas like the Philippines, Brunei, Malaysia, and China. There are also some colored lines or paths on the map. The background is mostly blue for water and green for land.\n\nIn terms of audio, it seems to be someone speaking about these countries and their relationships or boundaries, possibly related to the map shown."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "378.0s - 384.0s",
+          "query": "Visual: There's an image of an island with clear blue water surrounding it on one side. A man wearing a red shirt is standing against a black background, gesturing with his hands while talking.\n\nAudio: The man is speaking about international battles over islands where one side doesn't really pay attention to an island they claim, and then another side sweeps in."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 172.90865516662598
+    },
+    {
+      "comment_index": 10256,
+      "video_id": "lzAESaVqix0",
+      "comment": "17:04 That didn't age well",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 44.0,
+      "comment_timestamp": 1024.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1015.0s - 1021.0s",
+          "query": "Visually, there's a man wearing a red shirt against a black background. He seems to be gesturing with his hands while speaking. There are also flags of Brazil, Russia, India, China, and South Africa shown around him. The scene then transitions into an animated world map highlighting these five countries.Audibly, it's just the man talking about the BRICS emerging economies. No other distinct sounds or music are heard.If you want to know more about the BRICS alliance or have any other questions related to this, feel free to ask!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1021.0s - 1027.0s",
+          "query": "Visually, there's a world map with different countries highlighted in green. In front of it stands a man wearing a red shirt. He seems to be talking or presenting something. There are also flags of China and India shown on either side of him.Audibly, he is speaking about \"Bilateral agreements\" and mentions that many people have misconceptions regarding relations between China and India. The background has no distinct music or sound effects, just his voice."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1027.0s - 1033.0s",
+          "query": "**Visual:** The video shows an animated globe focusing on South Asia. It zooms into India, which then transforms with eyes appearing on it, giving it a cartoonish look.\n\n**Audio:** There's a male voice speaking English about the Sino-Indian War and border disputes still being in effect despite some progress."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 250.46378660202026
+    },
+    {
+      "comment_index": 10257,
+      "video_id": "lzAESaVqix0",
+      "comment": "7:50 That's the flag of Poland",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 41.0,
+      "comment_timestamp": 470.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "461.0s - 467.0s",
+          "query": "Oh, I see what you're asking about! So, for the visual part, it looks like there's an image or map showing China with some arrows pointing to different areas. It seems to be highlighting certain regions, maybe related to coastlines or populated alluvial plains.For the audio part, hmm, I can't really tell much from just that short clip. There might not be any distinct sounds or speech.What do you think? Do you have more details or another part of the video to share?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "467.0s - 473.0s",
+          "query": "Well, I'm not sure if there's any actual video here or just some random images. But let me give it my best shot.For the visual part, we've got a map that seems to be highlighting China. There are also pictures of different landscapes like mountains, beaches, and fields with red flowers. Oh, and there's a beach scene too, which is really cool - it looks like it has red blossoms everywhere, probably during autumn. And then there's an image of a crowd at a beach, maybe enjoying some fun activities.The audio? Hmm, I can't really say for sure without hearing anything. Maybe there was some background noise from the beach or something, but I don't know.Anyway, do you have more details about this video? It'd be great if you could share them so I can give a better answer!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "473.0s - 479.0s",
+          "query": "Visually, it shows a map highlighting certain regions like Russia, Inner Mongolia, Heilongjiang, Jilin, and North Korea. There's also some text on the map indicating these areas. The map seems to be focused on geographical boundaries.\n\nAudio - wise, there s just someone speaking about these regions along with their borders. No other distinct sounds or music are heard.Anything else you noticed or want to ask about?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 310.0136971473694
+    },
+    {
+      "comment_index": 10258,
+      "video_id": "lzAESaVqix0",
+      "comment": "6:11 Philippines: Hmm.. Understandable Malaysia: A bit too much but okay its ocean anyways Vietnam: That ocean territory is bigger than your land area Brunei: bruh, that area is atleast 5× your land China: wth. It looks like China is about to start a whole new country there.",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 41.0,
+      "comment_timestamp": 371.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "362.0s - 368.0s",
+          "query": "**Visual:** The video shows a person wearing a red shirt standing against a black background. There's also an inset map on the left side showing a region with an arrow pointing downwards.\n\n**Audio:** Someone is speaking about islands claimed by five countries, mentioning Taiwan as well."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "368.0s - 374.0s",
+          "query": "Visual: A man wearing a red shirt is talking against a black background. He gestures with his hands while speaking.\n\nAudio: The man is speaking, likely explaining something related to the map shown later in the video. There's no other significant sound effect or music."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "374.0s - 380.0s",
+          "query": "**Visual:** The video shows a map highlighting Southeast Asia with various colored lines indicating different routes or boundaries. There's also an inset image of a small island surrounded by water.\n\n**Audio:** A person is speaking about the Spratly Islands being involved in some kind of international conflict or competition."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 157.40860962867737
+    },
+    {
+      "comment_index": 10259,
+      "video_id": "lzAESaVqix0",
+      "comment": "3:57 and 11:42 - I wanna see him in other video!",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 39.0,
+      "comment_timestamp": 702.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "693.0s - 699.0s",
+          "query": "Visually, there's an aerial view of a busy highway filled with cars. The scene shows multiple lanes packed tightly together. In front of that, there's a man wearing a red shirt against a black background. He seems to be talking or presenting something.\n\nAudio - wise, it's just his voice speaking without any other distinct sounds like music or sound effects. His tone suggests he might be explaining or commenting on the traffic situation shown in the aerial shot."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "699.0s - 705.0s",
+          "query": "Sure! So, visually, there's someone wearing a red shirt against a black background. There s also an inset image showing a large crowd of people. The person is talking and making gestures with their hand. In terms of audio, it seems like they re speaking, maybe saying something about being cool to their mom. It feels like a casual conversation.What do you think? Any other details you noticed?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "705.0s - 711.0s",
+          "query": "Visual: A man wearing a red shirt is standing against a black background. He has his hands pressed together in front of him. In the top left corner of the frame, there's an inset image showing a large crowd of people outdoors.\n\nAudio: There is some kind of narration or speech happening over the video, but it's not clear enough to understand fully from just these six seconds. It seems like it might be about China given the mention of \"China\" in the caption."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 222.28797030448914
+    },
+    {
+      "comment_index": 10260,
+      "video_id": "lzAESaVqix0",
+      "comment": "00:00 - Intro, Paul speaks Mandarin 00:31 - Flag 01:10 - Political Geography 04:05 - Territory Disputes (Taiwan, India, South China Sea) 06:41 - Physical Geography 10:02 - Rock Forests and Mountain Landscapes 11:10 - Demographics 13:06 - The Uyghurs 13:36 - Paul speaks Mandarin and Cantonese 14:20 - Chinese Schools and College Entrance Exams 15:22 - Religions 16:20 - International Politics and Economics",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 35.0,
+      "comment_timestamp": 670.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "661.0s - 667.0s",
+          "query": "Visual: There's a man in a red shirt talking directly to the camera. In the background, there's an inset image showing a large open area with many people walking around. There are also some structures visible in that scene.\n\nAudio: The main speaker is talking about fines and how managing contamination maintenance has been difficult due to China's large population."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "667.0s - 673.0s",
+          "query": "Visual: The video shows a man wearing a red shirt standing against a black background. There's also an inset image that seems to depict a historical or cultural scene with people dressed in traditional attire.\n\nAudio: There is some kind of speech happening over a musical backdrop. It starts with someone speaking, then there s a bit of music playing, followed by more speech."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "673.0s - 679.0s",
+          "query": "**Visual:** The video shows a man wearing a red shirt standing against a black background. There's an Israeli flag with \"Yeah good luck\" written next to it.\n\n**Audio:** A male voice speaks, saying something like \"Alright here we go probably not gonna feel this nervous until we get to the Israel video or the country that must not be named.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 195.35408926010132
+    },
+    {
+      "comment_index": 10261,
+      "video_id": "lzAESaVqix0",
+      "comment": "1:18 THiS iS WhY i wATcH gEOgrAphY nOw hehe.",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 33.0,
+      "comment_timestamp": 78.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "69.0s - 75.0s",
+          "query": "Visual: The video shows a man wearing a red shirt standing against a black background. There's an image of China with its flag on his left side. In front of him is a globe with various flags around it, including those of Brazil, India, and others. The word \"POLITICA\" appears prominently over the globe.\n\nAudio: A male voice speaks in Chinese, saying something like \"let's get messy.\" Then there's some music playing in the background."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "75.0s - 81.0s",
+          "query": "Well, visually, there's someone wearing a red shirt standing against a black background. There's also an image of China on the left side of them. The person seems to be talking or presenting something. As for the audio, it looks like they're speaking, probably explaining something related to geography since that's mentioned in the caption. So, yeah, that's about it! What do you think? Do you have any other questions about the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "81.0s - 87.0s",
+          "query": "Visual: A man wearing glasses and a pink shirt is sitting against a black background. He's holding a black bowl close to his mouth with one hand while talking. Then there's an image of Earth from space showing Asia.\n\nAudio: The man is speaking, likely explaining something about China being located in East Asia. There's no other noticeable sound effect or music."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 220.362211227417
+    },
+    {
+      "comment_index": 10262,
+      "video_id": "lzAESaVqix0",
+      "comment": "9:20 scared me",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 33.0,
+      "comment_timestamp": 560.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "551.0s - 557.0s",
+          "query": "Visually, there's a desert landscape with mountains like the Tianshan and Kunlun visible in the background. The scene shows blue arrows indicating wind or air movement across the desert. There aren't any people or animals present.\n\nIn terms of audio, it seems to be completely silent during these six seconds. So no speech, music, or other sounds can be heard. What do you think about this kind of scenery?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "557.0s - 563.0s",
+          "query": "Visually, there's an image of a dry riverbed in a desert-like area with some green patches around it. Then, a picture of a smiling woman appears next to it. The woman has brown hair and is looking directly at the camera.\n\nAudio-wise, I can't really tell much because the audio seems to be cut off or not available for analysis. So, no specific sounds or music to describe here."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "563.0s - 569.0s",
+          "query": "Visually, it shows a map highlighting Tibet. Then there's a scene with mountains covered in snow, some green valleys below, and small buildings scattered around. The sky is blue with white clouds.Audibly, someone is speaking about Tibet being the highest region on Earth with an average elevation. There are no other distinct sounds or music."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 195.83165454864502
+    },
+    {
+      "comment_index": 10263,
+      "video_id": "lzAESaVqix0",
+      "comment": "12:47 “NO DUSTRIBUTING ANY UNHEALTHY THOUGHTS OR OBJECTS”",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 27.0,
+      "comment_timestamp": 767.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "758.0s - 764.0s",
+          "query": "Visual: A person is standing against a black background. They're wearing a red shirt and gesturing with their hands while speaking. There's an animated map behind them showing different regions labeled with percentages related to Mandarin usage.\n\nAudio: The speaker is talking about Mandarin being the official language of China, mentioning that regional languages also exist."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "764.0s - 770.0s",
+          "query": "Visual: There's someone wearing a red shirt standing against a black background. They seem to be talking or presenting something. There are some images overlaid on the screen, like a picture of a person in uniform with an arrow pointing at it saying \"Zhuang\" and another image showing a road sign that says \"S320\". The background also has some text in Chinese and English about Mandarin.Then there's a scene change to a rural area with a dirt road, some vehicles, and a few people walking around.Auditory: Someone is speaking, probably explaining things related to the visuals. It seems to be in Mandarin based on the text overlay."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "770.0s - 776.0s",
+          "query": "Visual: There's a man wearing a red shirt standing against a black background. He seems to be talking or presenting something. In the top left corner, there's an inset image showing several people dressed in traditional clothing, possibly in a rural area with greenery around them. The word \"Zhuang\" is written below that image.\n\nAudio: A male voice is speaking about the Zhuang language being spoken in Guangxi region and its relation to Thai and Lao languages. It mentions some mutual understanding between these languages."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 273.7577917575836
+    },
+    {
+      "comment_index": 10264,
+      "video_id": "lzAESaVqix0",
+      "comment": "5:39 best part of video",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 26.0,
+      "comment_timestamp": 339.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "330.0s - 336.0s",
+          "query": "**Visual:** The video shows a map highlighting Aksai Chin, which is marked with its name and flags of China and India. There's also an image of a man pointing upwards.\n\n**Audio:** Someone is speaking about Tajikistan's disputed border with China."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "336.0s - 342.0s",
+          "query": "Visual: A person wearing a red shirt is talking against a black background. There's an inset image showing a map with an arrow pointing to the Spratly Islands.\n\nAudio: Someone is speaking about reaching the Spratly Islands."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "342.0s - 348.0s",
+          "query": "Visual: The video shows an animated background with green rays emanating from the center. There's text that says \"Spratly Islands!\" in white letters. A small map is visible on the left side showing some landmasses and water bodies.\n\nAudio: Someone is speaking about the Spratly Islands in the South China Sea, mentioning that things get really messy there."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 135.22909665107727
+    },
+    {
+      "comment_index": 10265,
+      "video_id": "lzAESaVqix0",
+      "comment": "19:21 OMG, that soft slap was... sweet?",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 25.0,
+      "comment_timestamp": 1161.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1152.0s - 1158.0s",
+          "query": "**Visual:** The video shows two flags - one is the Chinese flag with its red background, yellow star, and five smaller stars on the left side, while the other is the Colombian flag with horizontal stripes of yellow, blue, and red. There's also a person wearing a red shirt who seems to be making gestures or expressions.\n\n**Audio:** The audio contains speech that says \"you have no idea stay tuned and come be uh with.\" It doesn't seem like there's any background music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1158.0s - 1164.0s",
+          "query": "Visual: There's a man wearing a red shirt standing against a black background. He seems to be talking or reacting to something. Another person in an orange-striped shirt is also present, interacting with him. The Colombian flag is visible on the left side of the frame.\n\nAudio: Someone is speaking, likely addressing Jack or someone named Jack. It sounds like they're having a conversation or giving some kind of instruction."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1164.0s - 1170.0s",
+          "query": "Sorry, I can't analyze that video since it's not available to me. But if you describe it to me or share more details about what happens in those six seconds, I'd be happy to help!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 184.88713884353638
+    },
+    {
+      "comment_index": 10266,
+      "video_id": "lzAESaVqix0",
+      "comment": "12:09 okay, this feels wrong all the sudden...",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 21.0,
+      "comment_timestamp": 729.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "720.0s - 726.0s",
+          "query": "Sure! So, visually, there's a pie chart with \"China Ethnicity\" written at the top. The chart shows that about 90% is Han, while the remaining 10% represents other ethnic groups. There s also some text next to the smaller section saying \"~90% Han.\" The background color is light blue, and the chart has a red border.Audience-wise, it seems like someone might be explaining or presenting data related to China's ethnic composition. It could be for educational purposes or maybe something more formal like a report or presentation.Overall, it gives a clear idea of the dominant ethnic group in China compared to others. What do you think about this? Any specific questions on this topic?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "726.0s - 732.0s",
+          "query": "Visual: The video shows a person wearing traditional Chinese clothing with colorful patterns and fringes. There's also an inset image showing a group of people dressed in bright, traditional costumes performing or posing together. The main figure is smiling and seems to be presenting something.\n\nAudio: A man speaks in English about different ethnic groups like Zhuang, Manchu, and Uighur. He mentions that there are actually twice as many Mongols compared to others."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "732.0s - 738.0s",
+          "query": "Visual: There's a man wearing a red shirt standing against a black background. He seems to be talking or presenting something. In the top left corner, there's an inset image showing some people dressed in traditional Mongolian clothing, waving flags.\n\nAudio: The main speaker is talking about Mongolia, mentioning that they write in traditional vertical Mongolian script."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 278.50390100479126
+    },
+    {
+      "comment_index": 10267,
+      "video_id": "lzAESaVqix0",
+      "comment": "13:52 this isn’t entirely true, some of the writing in Cantonese is different from some of the mandarin writing (but most letters are the same)",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 21.0,
+      "comment_timestamp": 832.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "823.0s - 829.0s",
+          "query": "**Visual:** The video shows two men against a black background. One man is wearing a red shirt and has short dark hair. He's making various hand gestures while speaking. The other man wears a black hat with a white band around it. He also appears to be talking.\n\n**Audio:** There is speech from both men, but no specific words or phrases can be clearly identified due to the lack of clear audio transcription."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "829.0s - 835.0s",
+          "query": "Visually, there's someone wearing a red shirt against a black background. They seem to be making some hand gestures while speaking. There aren't any other objects or distinct scenes visible.Audibly, it's just the person talking without much else going on. The speech is clear enough to understand. What do you think about that? Do you have any other observations?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "835.0s - 841.0s",
+          "query": "Visual: A man wearing a red shirt is standing against a black background. He's making hand gestures while speaking. There's some text on the screen that says \"Cantonese Mandarin\" along with Chinese characters.\n\nAudio: The man is talking about something related to Cantonese and Mandarin languages. It seems like he might be explaining how they're similar or different."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 194.2723548412323
+    },
+    {
+      "comment_index": 10268,
+      "video_id": "lzAESaVqix0",
+      "comment": "4:59 literally every dog when I pet it",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 21.0,
+      "comment_timestamp": 299.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "290.0s - 296.0s",
+          "query": "**Visual:** The video shows a person wearing a red shirt against a black background. There are two flags displayed on the left side - one is the Chinese flag with its characteristic yellow star on a red field, and the other is the Indian flag with horizontal stripes of saffron, white, and green. The person appears to be speaking or presenting something.\n\n**Audio:** The audio contains speech that seems to be giving instructions or advice about making decisions, mentioning \"the worst\" thing someone can do related to geography. However, it's not directly addressing geography itself."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "296.0s - 302.0s",
+          "query": "Visually, there's a man wearing a red shirt against a black background. He seems to be holding something small in his hands and making some gestures with it. There's also an image of India on the screen, which is partially covered by the man's body.Audibly, someone is speaking, but I can't make out the exact words from just these six seconds. It might be a voiceover or dialogue related to the visuals."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "302.0s - 308.0s",
+          "query": "**Visual:** The video shows a man standing against a black background. He is wearing a red shirt and making hand gestures while speaking. There's an image of a map with flags of China and India on it, along with the words \"Arunachal Pradesh\" written below them.\n\n**Audio:** A male voice speaks in English about Arunachal Pradesh being claimed by both India and China. It mentions that China considers it part of South Tibet."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 218.4627275466919
+    },
+    {
+      "comment_index": 10269,
+      "video_id": "lzAESaVqix0",
+      "comment": "15:37 anyone else see that?",
+      "language": "en",
+      "channel_name": "GeographyNow",
+      "category": "culture",
+      "likes": 20.0,
+      "comment_timestamp": 937.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "928.0s - 934.0s",
+          "query": "Well, I can't actually watch videos directly here. But if you describe them to me, I'll be happy to analyze them for you! What do you see?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "934.0s - 940.0s",
+          "query": "Visual: A man in a red shirt is talking and gesturing with his hands. There are small images overlaid on him showing different things like a map, a crowd, and a Buddha statue. The background is black.\n\nAudio: Someone is speaking about Buddhism being more prevalent in the south where there are massive Buddha statues."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "940.0s - 946.0s",
+          "query": "Well, visually, there's a guy wearing a red shirt standing against a black background. He seems to be talking or presenting something. There's also an inset image showing a large crowd with a big golden cross above them. Hmm. as for the audio, it sounds like he's speaking, probably explaining something related to the images shown. What do you think about that? Do you have any other thoughts on the video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 131.36609959602356
+    }
+  ]
+}

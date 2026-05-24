@@ -1,0 +1,69 @@
+{
+  "video_id": "UU39K3vjVCs",
+  "total_comments": 2,
+  "successful_comments": 2,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 15838,
+      "video_id": "UU39K3vjVCs",
+      "comment": "​ @honor9lite1337 0:53 😅😊😊😅😊😊😊",
+      "language": "en",
+      "channel_name": "DohaDebates",
+      "category": "debate",
+      "likes": 2.0,
+      "comment_timestamp": 53.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "44.0s - 50.0s",
+          "query": "Visually, there's a woman with long brown hair wearing glasses and earphones speaking into a microphone. She seems to be hosting something. The background shows some framed pictures on the wall.\n\nAudio-wise, it's just her voice talking about exploring an urgent issue from various sides and trying to find solutions. There's no other sound like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "50.0s - 56.0s",
+          "query": "Visually, there's a woman with long hair wearing glasses and earphones. She seems to be speaking into a microphone. The background has hexagonal shelves on the wall holding various items like books or decorations. There s also an air conditioner unit mounted on the wall. The room looks cozy with some pillows on a couch.\n\nAudio - wise, it s just her voice talking clearly without any other distinct sounds like music or background noise. It feels like she might be recording something or having a conversation. What do you think about that?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "56.0s - 62.0s",
+          "query": "Well, I don't actually have access to that specific video right now. But generally speaking, for describing a video like that, you'd look at things like what's happening visually - maybe there are people talking or doing something, objects in the scene, different colors if they're used, and how everything is moving around. For the audio, it could be someone speaking clearly, some background noise, music playing softly, or even just silence. If you can tell me more about what you saw in the video, I could give you a better breakdown!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 402.47005128860474
+    },
+    {
+      "comment_index": 15839,
+      "video_id": "UU39K3vjVCs",
+      "comment": "1:07",
+      "language": "en",
+      "channel_name": "DohaDebates",
+      "category": "debate",
+      "likes": 0.0,
+      "comment_timestamp": 67.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "58.0s - 64.0s",
+          "query": "Visual: The video shows a woman with long hair wearing glasses and earphones. She seems to be speaking or presenting something. There's some kind of background decor like shelves and possibly plants. It looks like an indoor setting.\n\nAudio: There is no distinct audio mentioned here, so I can't describe any specific sounds or speech."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "64.0s - 70.0s",
+          "query": "Visual: The video shows a purple background with a central image featuring a cityscape. There's text that says \"Necessary Tomorrows\" prominently displayed over the city view. Below it, there are icons for different podcast platforms like YouTube, Spotify, and others. The overall aesthetic seems to be related to podcasts or media content.\n\nAudio: There is no distinct audio mentioned here, so I can't describe any specific sounds or speech."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "70.0s - 76.0s",
+          "query": "Visual: The video shows a blue abstract background with some sort of glowing effect or pattern that seems to be moving or pulsating. There's also a purple grid-like border around the main image area.\n\nAudio: No distinct speech, music, or sound effects can be heard within these six seconds. It appears to be mostly silent."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 189.13208842277527
+    }
+  ]
+}

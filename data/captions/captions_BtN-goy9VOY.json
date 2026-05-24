@@ -4,10 +4,9 @@
   "successful_comments": 20,
   "failed_comments": 0,
   "success_rate": "100.0%",
-  "processing_time": 6150.321907997131,
   "comments": [
     {
-      "comment_index": 3650,
+      "comment_index": 1321,
       "video_id": "BtN-goy9VOY",
       "comment": "7:29 social distancing has really taken its toll on that bird... or the animator who did that part",
       "language": "en",
@@ -20,24 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "440.0s - 446.0s",
-          "query": "VISUAL: There's an animated world map with different regions highlighted. Some areas have icons like a lock, a plane with a prohibition sign, and a house with a keyhole. The background is dark blue. AUDIO: A man speaks about travel restrictions and quarantines not being great. He mentions things like orders to stay at home. What do you think about these kinds of measures?"
+          "query": "Well, in the video, visually, there's a world map. It's got different icons on it, like a lock, a house, and some other symbols. The colors are mainly blue and purple. There's no movement in the video, it's just a static image. As for the audio, there's just a voiceover saying something about travel restrictions, orders to stay at home, and quarantines. It's not very clear what the voiceover is actually saying though. So, what do you think about this video?"
         },
         {
           "segment_index": 2,
           "time_range": "446.0s - 452.0s",
-          "query": "VISUAL: There's an animated black bird with big white eyes looking out of a window. The background is orange with some geometric shapes. Then it shows a door labeled \"Lab\" with a person wearing a mask inside. The scene has bright colors like purple and blue.AUDIO: There's a male voice speaking about something related to experience and research on medications. It seems to be explaining or narrating something. So, what do you think about this video? Do you have any other questions?"
+          "query": "Sure! So, visually, there's an orange building with a window showing a black character peeking out. The background is purple inside the window. Then it cuts to a train station scene where someone is getting on or off a blue train labeled \"Lab.\".For the audio, I can't really tell much because no specific sounds were mentioned.Anything else you need help with?"
         },
         {
           "segment_index": 3,
           "time_range": "452.0s - 458.0s",
-          "query": "VISUAL: There's an animated scene with two windows side - by - side. On the left, there's a black character with white eyes looking out from a window with purple curtains. On the right, there's a person in green scrubs and a face mask working at a computer station. The background is blue. The person on the right seems to be holding up some sort of device or card. There are also red heart shapes floating near the black character.AUDIO: A man is speaking about vaccination being crucial during a time when someone might be put under quarantine. He explains that if you're quarantined, you should understand why. It's just his voice, no other sounds like music or sound effects. So, what do you think about this? Do you have any questions related to it?"
+          "query": "Visually, there are two cartoon characters. One is a black cat with a white face, sitting in a room with a purple wall and a window. The other is a person in a green outfit and a face mask, sitting in a room with a blue wall and some computer screens. The cat looks sad and is holding a red heart. The person seems to be working on a computer. The colors are bright and cartoonish. There's also a window in the background of the cat's room, showing a bit of the outside world.The audio has a man speaking in a calm, informative tone. He's talking about the importance of vaccination and quarantine."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 291.6938741207123
+      "processing_time": 259.32555651664734
     },
     {
-      "comment_index": 3651,
+      "comment_index": 1322,
       "video_id": "BtN-goy9VOY",
       "comment": "I love how in the intro, at 0:28, the primate holds a roll of toilet paper (he didn't in previous episodes).",
       "language": "en",
@@ -50,54 +49,24 @@
         {
           "segment_index": 1,
           "time_range": "19.0s - 25.0s",
-          "query": "VISUAL: The video starts with an animated penguin holding a sign that says \"Covid-19\" on a purple background. Then it changes to show \"Coronavirus\" on a pink background with a virus particle icon above it. Next, there's an illustration of a person with a sad face, and their lungs are shown inflamed. Finally, we see two figures side - by - side, one with normal lungs and the other with inflamed ones. There's also a pile of toilet paper rolls and cleaning supplies in the background.AUDIO: A man is speaking throughout the video. He explains about coronavirus infecting humans and what should be done. It seems like he's giving some sort of advice or information related to the topic.If you want to know more about this or have any other questions, feel free to ask!"
+          "query": "Well, in the video, visually, there's a purple rectangle with a blue circle inside it. And then there's a cartoonish figure of a person standing in front of it. The person is wearing a blue shirt and brown pants. The background is a light beige color. There's also a small orange object floating near the top right corner of the rectangle. As for the audio, there's just some speech. It's about the coronavirus and what happens when it infects a human. So, what do you think about this? Do you have any other questions?"
         },
         {
           "segment_index": 2,
           "time_range": "25.0s - 31.0s",
-          "query": "VISUAL: The video shows an illustration of a person with internal organs exposed on one side, like lungs and intestines. On the other side, there's a pile of items including toilet paper rolls, medicine bottles, and a pink bird-like figure. Then it transitions to a forest scene with trees and a bright light source. Finally, it shifts to a futuristic cityscape at night with buildings and flying vehicles.AUDIO: There is some kind of narration or speech saying \"We all do\" followed by music playing in the background. What do you think about these two parts? Do you have any other observations?"
+          "query": "Visual: The video shows a person standing on the left side, with a colorful, abstract background. On the right, there's a stack of items, possibly books or boxes, with a small figure on top. The colors are bright and varied, creating a lively and dynamic scene. There's also a transition to a nighttime cityscape with buildings and a plane flying overhead.\n\nAudio: The audio includes music playing throughout the video, setting a certain mood. There are no distinct speech or sound effects, just the continuous music."
         },
         {
           "segment_index": 3,
           "time_range": "31.0s - 37.0s",
-          "query": "VISUAL: The video shows an animated scene with a stylized cityscape at night. There's a large eye-like structure in the center, emitting light. Two figures seem to be interacting with it. The background has buildings lit up with various colors.The sky is dark blue, giving a nighttime feel.AUDIO: There's some music playing throughout the video. No specific speech or dialogue is heard.Anything else you noticed in the video that you want to discuss?"
+          "query": "Visual: The video shows an illustration of a virus with a red outer layer and blue protrusions against a dark background. There's also some text that says \"Corona\" at the top.\n\nAudio: No specific dialogue or speech is heard, just general background noise typical for a video presentation."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 308.1035294532776
+      "processing_time": 252.9330711364746
     },
     {
-      "comment_index": 3652,
-      "video_id": "BtN-goy9VOY",
-      "comment": "0:28  Monkey: I have predicted this virus for years.",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 430.0,
-      "comment_timestamp": 28.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "19.0s - 25.0s",
-          "query": "VISUAL: The video starts with an animated penguin holding a sign that says \"Covid-19\" on a purple background. Then it changes to show \"Coronavirus\" on a pink background with a virus particle icon above it. Next, there's an illustration of a person with a sad face, and their lungs are shown inflamed. Finally, we see two figures side - by - side, one with normal lungs and the other with inflamed ones. There's also a pile of toilet paper rolls and cleaning supplies in the background.AUDIO: A man is speaking throughout the video. He explains about coronavirus infecting humans and what should be done. It seems like he's giving some sort of advice or information related to the topic.If you want to know more about this or have any other questions, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "25.0s - 31.0s",
-          "query": "VISUAL: The video shows an illustration of a person with internal organs exposed on one side, like lungs and intestines. On the other side, there's a pile of items including toilet paper rolls, medicine bottles, and a pink bird-like figure. Then it transitions to a forest scene with trees and a bright light source. Finally, it shifts to a futuristic cityscape at night with buildings and flying vehicles.AUDIO: There is some kind of narration or speech saying \"We all do\" followed by music playing in the background. What do you think about these two parts? Do you have any other observations?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "31.0s - 37.0s",
-          "query": "VISUAL: The video shows an animated scene with a stylized cityscape at night. There's a large eye-like structure in the center, emitting light. Two figures seem to be interacting with it. The background has buildings lit up with various colors.The sky is dark blue, giving a nighttime feel.AUDIO: There's some music playing throughout the video. No specific speech or dialogue is heard.Anything else you noticed in the video that you want to discuss?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 313.38602209091187
-    },
-    {
-      "comment_index": 3653,
+      "comment_index": 1323,
       "video_id": "BtN-goy9VOY",
       "comment": "Neutrophiles: 3:02 “so anyway I started blasting”",
       "language": "en",
@@ -110,84 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "173.0s - 179.0s",
-          "query": "VISUAL: The video shows an animated depiction of neutrophiles, which are cells with a pinkish color and a yellow nucleus. They have a spiky appearance. There's also some kind of blue and orange object that seems to be interacting with them. The background is purple. AUDIO: A man speaks about neutrophiles being great at killing things, including ourselves. It's just his voice without any other sound effects or music. What do you think about this? Do you want to know more about neutrophiles?"
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short description. It just says \"First neutrophiles which are greater killing stuff including ourselves.\" So, it doesn't really give me much to go on for a proper analysis. But if you have more details or another question about this topic, feel free to share!"
         },
         {
           "segment_index": 2,
           "time_range": "179.0s - 185.0s",
-          "query": "VISUAL: The video shows some kind of animated cells or microorganisms. They're glowing with bright pink and blue colors against a dark purple background. There are also smaller yellow dots around them that seem to be moving. Some of these larger cells have a heart - like shape on their surface. The movement is mainly just the cells floating and the yellow dots bouncing around.AUDIO: There's a man speaking over the visuals. His voice is calm and measured. He says something about thousands arriving and pumping out enzymes that destroy both friends and enemies. It seems like he might be explaining something scientific related to the visuals.What do you think about this? Do you have any other questions regarding it?"
+          "query": "Visually, it's a colorful animation with lots of glowing shapes that look like cells or bacteria. There are pinkish-red and blueish-purple ones moving around against a dark purple background. Some have yellow dots on them. The movement is fast and chaotic, giving off an energetic vibe.Audibly, there s some kind of narration or explanation going on, but I can t make out the exact words from just those six seconds. It seems to be related to the visuals, maybe describing what s happening in the animation."
         },
         {
           "segment_index": 3,
           "time_range": "185.0s - 191.0s",
-          "query": "VISUAL: There's an animated image of a cell labeled \"Killer T Cells\" with blue tentacle - like structures. The background is purple. Then it transitions to a more complex scene with various colorful shapes and patterns on a dark background.AUDIO: A man speaks about Killer T cells ordering infected cells. There's no music or other sound effects. It's just his voice against the visuals.If you want to talk more about this video or have any other questions, feel free to let me know!"
+          "query": "**Visual:** The video shows a circular graphic with a blue and yellow design in the center. The blue part resembles a cell nucleus, and the yellow part looks like a gear or a molecular structure. There are also some blue lines that seem to represent DNA strands. The background is a solid blue color. The text \"Killer T Cells\" is displayed below the graphic.\n\n**Audio:** A male voice is speaking. The speech is in English and says, \"The other important type of cells that go into a frenzy are killer T cells, which usually order infected cells.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 276.3559937477112
+      "processing_time": 207.7097840309143
     },
     {
-      "comment_index": 3654,
-      "video_id": "BtN-goy9VOY",
-      "comment": "0:28 That chimp is hoarding toilet paper!",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 381.0,
-      "comment_timestamp": 28.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "19.0s - 25.0s",
-          "query": "VISUAL: The video starts with an animated penguin holding a sign that says \"Covid-19\" on a purple background. Then it changes to show \"Coronavirus\" on a pink background with a virus particle icon above it. Next, there's an illustration of a person with a sad face, and their lungs are shown inflamed. Finally, we see two figures side - by - side, one with normal lungs and the other with inflamed ones. There's also a pile of toilet paper rolls and cleaning supplies in the background.AUDIO: A man is speaking throughout the video. He explains about coronavirus infecting humans and what should be done. It seems like he's giving some sort of advice or information related to the topic.If you want to know more about this or have any other questions, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "25.0s - 31.0s",
-          "query": "VISUAL: The video shows an illustration of a person with internal organs exposed on one side, like lungs and intestines. On the other side, there's a pile of items including toilet paper rolls, medicine bottles, and a pink bird-like figure. Then it transitions to a forest scene with trees and a bright light source. Finally, it shifts to a futuristic cityscape at night with buildings and flying vehicles.AUDIO: There is some kind of narration or speech saying \"We all do\" followed by music playing in the background. What do you think about these two parts? Do you have any other observations?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "31.0s - 37.0s",
-          "query": "VISUAL: The video shows an animated scene with a stylized cityscape at night. There's a large eye-like structure in the center, emitting light. Two figures seem to be interacting with it. The background has buildings lit up with various colors.The sky is dark blue, giving a nighttime feel.AUDIO: There's some music playing throughout the video. No specific speech or dialogue is heard.Anything else you noticed in the video that you want to discuss?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 323.3717257976532
-    },
-    {
-      "comment_index": 3655,
-      "video_id": "BtN-goy9VOY",
-      "comment": "0:28   Ahhh, the fresh smell of restocked toilet paper",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 373.0,
-      "comment_timestamp": 28.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "19.0s - 25.0s",
-          "query": "VISUAL: The video starts with an animated penguin holding a sign that says \"Covid-19\" on a purple background. Then it changes to show \"Coronavirus\" on a pink background with a virus particle icon above it. Next, there's an illustration of a person with a sad face, and their lungs are shown inflamed. Finally, we see two figures side - by - side, one with normal lungs and the other with inflamed ones. There's also a pile of toilet paper rolls and cleaning supplies in the background.AUDIO: A man is speaking throughout the video. He explains about coronavirus infecting humans and what should be done. It seems like he's giving some sort of advice or information related to the topic.If you want to know more about this or have any other questions, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "25.0s - 31.0s",
-          "query": "VISUAL: The video shows an illustration of a person with internal organs exposed on one side, like lungs and intestines. On the other side, there's a pile of items including toilet paper rolls, medicine bottles, and a pink bird-like figure. Then it transitions to a forest scene with trees and a bright light source. Finally, it shifts to a futuristic cityscape at night with buildings and flying vehicles.AUDIO: There is some kind of narration or speech saying \"We all do\" followed by music playing in the background. What do you think about these two parts? Do you have any other observations?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "31.0s - 37.0s",
-          "query": "VISUAL: The video shows an animated scene with a stylized cityscape at night. There's a large eye-like structure in the center, emitting light. Two figures seem to be interacting with it. The background has buildings lit up with various colors.The sky is dark blue, giving a nighttime feel.AUDIO: There's some music playing throughout the video. No specific speech or dialogue is heard.Anything else you noticed in the video that you want to discuss?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 310.3815631866455
-    },
-    {
-      "comment_index": 3656,
+      "comment_index": 1324,
       "video_id": "BtN-goy9VOY",
       "comment": "0:27 that monkey really be flexing in this time",
       "language": "en",
@@ -200,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "18.0s - 24.0s",
-          "query": "VISUAL: The video starts with a blue rectangle on a purple background that says \"Covid-19\". Then it changes to red and shows a virus model. Next, there's an illustration of a person with a sad face, and their lungs are shown with red spots, indicating infection.AUDIO: There is no specific audio described here.So, what do you think about how they presented this information? Do you have any other questions related to it?"
+          "query": "Visual: The video shows an animated character with \"Coronavirus\" written on it. There's also a penguin-like figure next to it. The background is mostly blue and purple.\n\nAudio: There's no distinct audio mentioned here, just the title \"Covid-19\" which might be spoken or displayed visually."
         },
         {
           "segment_index": 2,
           "time_range": "24.0s - 30.0s",
-          "query": "VISUAL: The video shows an illustration of a person with internal organs exposed on one side, like lungs and intestines. On the other side, there's a pile of items including toilet paper rolls, jars, and a pink bear-like figure. Then it transitions to a forest scene with trees and a bird flying around. Finally, it shifts to a cityscape at night with buildings and a purple dragon-like creature flying over it.AUDIO: There is some kind of narration or speech happening throughout the video, along with background music that plays from start to finish."
+          "query": "Visually, the video shows a split screen. On the left side, there's a stylized, colorful illustration of a person with a brain and lungs highlighted. On the right side, there's a similar illustration of a person, but this one has a pile of items like a jar of jam, a roll of toilet paper, and a bottle on top of it. The background colors are different on each side, with the left side being a light beige and the right side a light blue. There's also a small, stylized tree with a face on the right side.\n\nIn terms of audio, there's a voiceover saying \"and what should we all do\" in a calm, slightly questioning tone. There's also some background music playing, which seems to be a soft, ambient type of music."
         },
         {
           "segment_index": 3,
           "time_range": "30.0s - 36.0s",
-          "query": "VISUAL: The video shows an animated cityscape at night with tall buildings lit up. There's a large eye-like structure in the center. Then it transitions to a blue background with a colorful virus model labeled \"Corona.\" AUDIO: Music is playing throughout. A male voice speaks about viruses being something specific. What do you think about that? Any thoughts on the video?"
+          "query": "Visual: The video starts with a night scene of a cityscape, with buildings and some lights visible. There are also some abstract shapes and colors in the foreground. Then it transitions to a close - up of a virus - like structure with a blue and red color scheme. The background is dark blue with some stars.\n\nAudio: There is music playing throughout the video."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 232.57922458648682
+      "processing_time": 223.42124843597412
     },
     {
-      "comment_index": 3657,
+      "comment_index": 1325,
       "video_id": "BtN-goy9VOY",
       "comment": "Kurzgesagt: We have a short deadline and need to work night and day to get this out in time. Let's focus on priority scenes that inform the publi--- Animator on the duck at 7:31: Priorities...",
       "language": "en",
@@ -230,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "442.0s - 448.0s",
-          "query": "VISUAL: The video shows a world map with various icons on it like no - plane signs, padlocks, and house symbols. It then cuts to an orange building with a window where a black character is looking out. The character has big white eyes and an orange beak.AUDIO: There's some kind of narration or speech going on, but I can't really make out the exact words from just listening to the short clip. It seems to be in English though.If you want me to analyze more about this video or have any other questions, feel free to let me know!"
+          "query": "Visually, the video shows a stylized world map with various icons on it. There are different symbols like a lock, a house, a plane with a cross through it, and a cloud. The map is set against a dark blue background. The icons seem to represent different concepts or restrictions related to travel and staying at home. The movement is mainly the icons appearing and disappearing on the map in a somewhat random pattern.Audibly, there is a voiceover in English. The speaker talks about restrictions or orders to stay at home and mentions that quarantines are not great to experience. The tone is somewhat neutral, just stating facts."
         },
         {
           "segment_index": 2,
           "time_range": "448.0s - 454.0s",
-          "query": "VISUAL: There's an animated black cat with big white eyes looking out of a window on an orange building. Then, there's a scene inside a lab where a researcher wearing a green lab coat and mask is working at a computer. The lab has blue walls and some equipment visible.AUDIO: A man speaks about how something buys crucial time for researchers working on medication and vaccination. It seems like he's talking about the importance of their work during a pandemic or similar situation.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, the video shows a split - screen. On the left side, there's a black figure with white eyes and a beak - like mouth, set against a purple and orange background. On the right side, there's a person in a green lab coat and a face mask, standing in a lab with blue and purple lighting. The person seems to be working on something, possibly a piece of equipment or a test tube. There's also a sign that says \"Lab\" on the right side.The audio has a man speaking, but the content of what he says isn't clear from this short segment. There are no distinct sound effects or music."
         },
         {
           "segment_index": 3,
           "time_range": "454.0s - 460.0s",
-          "query": "VISUAL: There's an animated scene with two panels. On the left, there's a black bird-like character looking sad or worried inside a room with purple walls. Hearts appear around it. On the right, a person wearing a green outfit and face mask is working at a desk with computer screens in a blue - colored space. The person seems to be focused on their work.AUDIO: A man speaks about being put under quarantine, explaining that one should understand why and respect it. There's also background music playing throughout the clip.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, the video shows two animated characters. One is in an orange room with a window, and the other is in a blue room with a window. There are some abstract shapes and lines around them. The characters seem to be interacting with each other through the windows. The colors are bright and contrasting, with orange and blue dominating the scene. There's also a red heart floating between the two characters.\n\nAudio - There's a man speaking in the audio. He says, \"So if you are put under quarantine, you should understand why and respect it.\" The speech is clear and the man's tone seems to be informative."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 307.5833959579468
+      "processing_time": 324.36081290245056
     },
     {
-      "comment_index": 3658,
+      "comment_index": 1326,
       "video_id": "BtN-goy9VOY",
       "comment": "Kurszgesagt: Wash your hands and  stay clean!  7:32  : THE BIRD LICKS THE WINDOW",
       "language": "en",
@@ -260,54 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "443.0s - 449.0s",
-          "query": "VISUAL: The video shows a world map with various icons on it like padlocks, no - flying signs, and house symbols. It then transitions to an orange background with a black character looking out of a window with purple curtains. There's also some plant-like shapes around the window.AUDIO: A man is speaking about orders to stay at home and quarantines not being great experiences but necessary. He mentions that they're not popular either.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Well, in the video, visually, there's a world map with different icons on it. There are things like a house, a plane, and a lock. The colors are mainly blue and purple. And then there's a scene with a window, and a black figure is looking out of it. The figure has big eyes and a small mouth. In terms of audio, there's a man speaking. He says something about orders to stay at home and how quarantines aren't great to experience and aren't popular. So, what do you think about this? Do you have any other questions?"
         },
         {
           "segment_index": 2,
           "time_range": "449.0s - 455.0s",
-          "query": "VISUAL: There's an animated black character with big eyes looking out of a window on the left side. On the right, there's a scientist in a lab coat and mask working at a table filled with equipment. The background is colorful, mainly orange for the room where the character is and purple for the lab scene.AUDIO: A man is speaking about the importance of time for researchers working on medication and vaccination. It seems like he's emphasizing how crucial it is to speed up these processes.So, what do you think about the video? Do you have any other questions or thoughts?"
+          "query": "Visually, the video shows two contrasting scenes. On the left, there's a purple and orange background with a black, cartoonish figure with big eyes and a small body. It seems to be looking out of a window. On the right, there's a blue and purple background with a person in a lab coat and a face mask, standing in what looks like a laboratory setting. The person is facing away from the camera, and there are some lab equipment and a computer screen visible.The audio is just a simple, neutral-toned male voice saying \"time.\" There are no other sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "455.0s - 461.0s",
-          "query": "VISUAL: There's an animated scene with two characters. One is a black cat-like figure looking out of a window on the left side, which has a yellow frame. The other character is a person wearing a green outfit and a face mask, standing at some kind of counter or desk on the right side, which has a purple frame. There are also two thermometers shown - one labeled \"Individual Fun-O-Meter\" with a pink color scheme and the other labeled \"Collective Health\" with a blue color scheme. The background behind these thermometers is split into yellow for the individual fun meter and blue for collective health.AUDIO: A man is speaking about being put under quarantine, explaining that it's important to understand why and respect it because none of it is enjoyable. He uses a calm and serious tone.If you have any thoughts or questions about this analysis, feel free to share!"
+          "query": "Visually, the video shows two cartoon characters. On the left, there's a black character with a white face and a red heart above its head. On the right, there's a green character wearing a mask and a lab coat, standing in a lab setting with various equipment. The background is split into two colors, orange on the left and blue on the right. There are also some colorful shapes and lines floating around.\n\nAudibly, there's a man speaking in English. He says, \"If you are put under quarantine you should understand why and respect it. None of this is fun.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 355.6745662689209
+      "processing_time": 329.07039976119995
     },
     {
-      "comment_index": 3659,
-      "video_id": "BtN-goy9VOY",
-      "comment": "7:32, the bird licking the window killed me LMAO",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 166.0,
-      "comment_timestamp": 452.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "443.0s - 449.0s",
-          "query": "VISUAL: The video shows a world map with various icons on it like padlocks, no - flying signs, and house symbols. It then transitions to an orange background with a black character looking out of a window with purple curtains. There's also some plant-like shapes around the window.AUDIO: A man is speaking about orders to stay at home and quarantines not being great experiences but necessary. He mentions that they're not popular either.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "449.0s - 455.0s",
-          "query": "VISUAL: There's an animated black character with big eyes looking out of a window on the left side. On the right, there's a scientist in a lab coat and mask working at a table filled with equipment. The background is colorful, mainly orange for the room where the character is and purple for the lab scene.AUDIO: A man is speaking about the importance of time for researchers working on medication and vaccination. It seems like he's emphasizing how crucial it is to speed up these processes.So, what do you think about the video? Do you have any other questions or thoughts?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "455.0s - 461.0s",
-          "query": "VISUAL: There's an animated scene with two characters. One is a black cat-like figure looking out of a window on the left side, which has a yellow frame. The other character is a person wearing a green outfit and a face mask, standing at some kind of counter or desk on the right side, which has a purple frame. There are also two thermometers shown - one labeled \"Individual Fun-O-Meter\" with a pink color scheme and the other labeled \"Collective Health\" with a blue color scheme. The background behind these thermometers is split into yellow for the individual fun meter and blue for collective health.AUDIO: A man is speaking about being put under quarantine, explaining that it's important to understand why and respect it because none of it is enjoyable. He uses a calm and serious tone.If you have any thoughts or questions about this analysis, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 347.2281925678253
-    },
-    {
-      "comment_index": 3660,
+      "comment_index": 1327,
       "video_id": "BtN-goy9VOY",
       "comment": "7:39 : \"none of this is fun\"  laughs in introvert",
       "language": "en",
@@ -320,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "450.0s - 456.0s",
-          "query": "VISUAL: There's an animated scene with two panels. On the left panel, there's a black character with big white eyes looking out of a window with purple curtains. The right panel shows a scientist in a lab coat and mask working at a computer. The scientist is in a blue-lit room with some equipment around.AUDIO: A man is speaking about researchers working on medication and vaccination during a crucial time.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there are two main sections. On the left, there's a black character with white eyes and a beak-like mouth, set against a purple and orange background. On the right, a person in a green lab coat and a face mask is in a blue-lit lab with various equipment. The person seems to be working on something. There's also a \"Lab\" sign in the middle of the right section. The overall color scheme is bright and contrasting.\n\nIn terms of audio, there's a male voice speaking, but the content of the speech isn't clear from this short segment. There are no distinct sound effects or music."
         },
         {
           "segment_index": 2,
           "time_range": "456.0s - 462.0s",
-          "query": "VISUAL: There's an animated scene with two characters. One is a penguin looking out of a window on the left side, and it seems to be waving or gesturing. On the right side, there's another character wearing a mask and a hat, holding some kind of device. The background has different colors for these two sides - yellowish-orange for the penguin area and purple-blue for the other character area. There are also some colorful shapes like hearts floating around. Then, two thermometers appear, one labeled \"Individual Fun-O-Meter\" and the other \"Collective Health\". The thermometer on the left is mostly red while the one on the right is mostly blue with a green section at the bottom.AUDIO: A man is speaking throughout the video. He says something about understanding why and respecting certain things, mentioning that none of it is fun but looking at it from a different perspective might change your view.So, what do you think about this video? Do you have any questions or thoughts?"
+          "query": "Visually, the video shows two contrasting scenes. On the left, there's a colorful, cartoonish image with a heart and a figure that looks like a robot or a character in a futuristic outfit. The background is bright yellow with some abstract shapes. On the right, there's a more subdued, blue-toned scene with a figure in a lab coat, possibly a scientist, working at a desk with various equipment. The overall color scheme is cooler here, with blues and purples.\n\nIn terms of audio, there's a voiceover that says, \"You should understand why and respect it.\" The tone is somewhat serious. There's also background music that's relatively light and non-intrusive."
         },
         {
           "segment_index": 3,
           "time_range": "462.0s - 468.0s",
-          "query": "VISUAL: There's an \"Individual Fun - O - Meter\" on a yellow background with a purple face at the bottom. Next to it is a \"Collective Health\" meter on blue, showing a green level. Then there's a graph with axes labeled \"Infections\" and \"Time\", and a line representing the \"Capacity of Healthcare System\". The word \"Outbreak\" is also shown near the graph.AUDIO: A man speaks about how pandemics end being a small price to pay from a big picture perspective. He mentions that the question of how pandemics end is important.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows two thermometers, one labeled \"Individual Fun-O-Meter\" with a purple base and a red section, and the other labeled \"Collective Health\" with a blue base and a green section. The background is split into yellow and blue sections. There's also a graph with a red peak labeled \"Outbreak\" and a green line labeled \"Capacity of Healthcare System\" against a dark background.\n\n**Audio:** A male voice speaks in English, saying, \"At the big picture it is a really small price to pay the question of how pandemics end.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 363.1976737976074
+      "processing_time": 319.8619432449341
     },
     {
-      "comment_index": 3661,
+      "comment_index": 1328,
       "video_id": "BtN-goy9VOY",
       "comment": "6:07 Any one notice the low left person left the hospital in the infected condition? No? Just me?  Anyway R.I.P. low left person.",
       "language": "en",
@@ -350,24 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "358.0s - 364.0s",
-          "query": "VISUAL: There are two cartoon birds looking at a tablet screen with a game on it. The background has some framed pictures on a wall. Then it shows an illustration split into two sides. One side has lots of red figures moving around, while the other side has fewer figures lying in hospital beds.AUDIO: A man is speaking about slowing down a pandemic by doing something right. He mentions that a pandemic can be slowed down by the right action.If you have any thoughts or questions about this, feel free to share!"
+          "query": "Sure! So, in the video, I see a tablet with a grid of red dots on it. There are also two black birds on either side of the tablet. The background is a dark blue color with some blurry shapes that look like buildings or trees. The scene is pretty simple and static, with no movement or action.The audio is just a voiceover saying \"do what it can to turn this into a slow pandemic.\" It's a straightforward, clear voice without any music or sound effects. The tone is informative and a bit urgent.What do you think about the video?"
         },
         {
           "segment_index": 2,
           "time_range": "364.0s - 370.0s",
-          "query": "VISUAL: The video shows two contrasting scenes side - by - side. On the left, there's a dark purple background with many small pink figures scattered around, representing a large number of people. On the right, it's light blue with hospital beds arranged in rows, some occupied by figures in red, indicating patients. There are also a few figures walking around these beds.AUDIO: A man is speaking about slow pandemic responses, especially in the early phase, so that everyone who gets sick can get treatment and there's no crunch point. It seems to be an explanation or commentary related to the visuals.What do you think about the message conveyed in the video?"
+          "query": "Sure! So, in the video, visually, there are two main scenes. On the left, there are pink and red silhouettes of people moving around, and on the right, there are blue silhouettes of people in beds. The background is dark on the left and light blue on the right. The movement of the silhouettes is slow and somewhat random.In terms of audio, there's a voiceover that says \"Slow Pandemic\" and then \"Infections\" and \"Time.\" The voiceover is calm and measured, kind of like a narration. There's no music or other sound effects, just the voice and the visuals."
         },
         {
           "segment_index": 3,
           "time_range": "370.0s - 376.0s",
-          "query": "VISUAL: There's an animated graph showing infections over time with two peaks. Then it cuts to an illustration of a boy with a thermometer on his chest, looking unwell. He has a worried expression and is holding his head. The background is yellowish - beige.AUDIO: A man speaks about overwhelmed hospitals due to lack of a vaccine for corona and mentions social distancing. There's no music or other sound effects. It ends with some silence.If you have any more questions about this or want to discuss something else related to this, feel free to let me know!"
+          "query": "Visually, there's an animated character with a blue sweater and a syringe in his hand. He seems to be waving or gesturing. The background is yellowish. There s also a graph showing infections over time, with a peak and then a decline.\n\nAudio - wise, it starts with some music playing softly in the background. Then someone speaks about not having a vaccine for corona and mentions social distancing."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 287.7711136341095
+      "processing_time": 308.6738588809967
     },
     {
-      "comment_index": 3662,
+      "comment_index": 1329,
       "video_id": "BtN-goy9VOY",
       "comment": "6:23 people with COVID-19: you know what I feel like exploring the world.",
       "language": "en",
@@ -380,54 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "374.0s - 380.0s",
-          "query": "VISUAL: There's an animated character with short black hair, wearing a blue shirt over a white collared shirt. He has a worried expression on his face. His right hand is raised to his head, then he lowers it. The background is a plain light yellow color. There's also a penguin-like figure appearing from the bottom right corner towards the end.AUDIO: A man is speaking about social engineering behavior during the Corona pandemic. He mentions acting like a \"social vaccine.\".If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's an animated character in a blue sweater and white shirt. He has dark hair and is scratching his head. The background is a light yellow color. There's also a shadowy figure in the background that seems to be moving around. The character's movements are mainly his head scratching and slight body shifts. There's no clear indication of any other objects or detailed scenes in the video. The colors are simple, with the yellow background and the blue and white of the character's clothing. The shadowy figure adds a bit of mystery to the scene."
         },
         {
           "segment_index": 2,
           "time_range": "380.0s - 386.0s",
-          "query": "VISUAL: There's an animated boy waving his hand. He has short black hair and is wearing a blue sweater over a white shirt. Next to him is a small penguin-like figure with an orange beak. The background is yellow with radiating lines. Then it cuts to two signs on a light beige background. One sign says \"NOT GETTING INFECTED\" with a red diamond shape behind it, and the other says \"NOT INFECTING OTHERS\" with a blue cloud shape behind it.AUDIO: A man speaks clearly throughout the video. He explains that something simply means not getting infected and not infecting others.If you have any thoughts or questions about this video, feel free to share!"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.87 GiB is free. Including non-PyTorch memory, this process has 15.68 GiB memory in use. Of the allocated memory 13.59 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 3,
           "time_range": "386.0s - 392.0s",
-          "query": "VISUAL: The video shows hands washing under running water from a faucet. There's soap suds being rubbed between the palms. The background has a light color with some blue elements like tiles or a wall section.AUDIO: A man is speaking about how washing your hands is really important for preventing infections. He mentions that soap is active against germs.If you have any other thoughts on this or want to discuss more about handwashing, feel free to share!"
+          "query": "Visually, the video shows a cartoonish scene of someone washing their hands in a sink. There's a faucet pouring water, and the person is using soap to scrub their hands. The background has a blue tiled wall. The colors are bright and simple, typical of an animated style. The movement is the water flowing from the faucet and the hands being scrubbed with soap.\n\nAudio-wise, there's a voiceover saying, \"Although it sounds trivial, the very best thing you can do is to wash your hands.\" The voice is calm and informative. There's no music or other sound effects, just the voice and the sound of water."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 297.02008533477783
+      "processing_time": 290.9717872142792
     },
     {
-      "comment_index": 3663,
-      "video_id": "BtN-goy9VOY",
-      "comment": "0:28 that monkey be flexing on us with his tissue roll",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 133.0,
-      "comment_timestamp": 28.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "19.0s - 25.0s",
-          "query": "VISUAL: The video starts with an animated penguin holding a sign that says \"Covid-19\" on a purple background. Then it changes to show \"Coronavirus\" on a pink background with a virus particle icon above it. Next, there's an illustration of a person with a sad face, and their lungs are shown inflamed. Finally, we see two figures side - by - side, one with normal lungs and the other with inflamed ones. There's also a pile of toilet paper rolls and cleaning supplies in the background.AUDIO: A man is speaking throughout the video. He explains about coronavirus infecting humans and what should be done. It seems like he's giving some sort of advice or information related to the topic.If you want to know more about this or have any other questions, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "25.0s - 31.0s",
-          "query": "VISUAL: The video shows an illustration of a person with internal organs exposed on one side, like lungs and intestines. On the other side, there's a pile of items including toilet paper rolls, medicine bottles, and a pink bird-like figure. Then it transitions to a forest scene with trees and a bright light source. Finally, it shifts to a futuristic cityscape at night with buildings and flying vehicles.AUDIO: There is some kind of narration or speech saying \"We all do\" followed by music playing in the background. What do you think about these two parts? Do you have any other observations?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "31.0s - 37.0s",
-          "query": "VISUAL: The video shows an animated scene with a stylized cityscape at night. There's a large eye-like structure in the center, emitting light. Two figures seem to be interacting with it. The background has buildings lit up with various colors.The sky is dark blue, giving a nighttime feel.AUDIO: There's some music playing throughout the video. No specific speech or dialogue is heard.Anything else you noticed in the video that you want to discuss?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 312.28372049331665
-    },
-    {
-      "comment_index": 3664,
+      "comment_index": 1330,
       "video_id": "BtN-goy9VOY",
       "comment": "6:05 Anyone else notice the guy on the bottom left of the beds leave without turning green? That’s a problem.",
       "language": "en",
@@ -440,24 +289,24 @@
         {
           "segment_index": 1,
           "time_range": "356.0s - 362.0s",
-          "query": "VISUAL: The video shows two cartoon birds watching a tablet screen. On the screen is an image comparing \"Fast Pandemic\" with lots of red dots representing people to \"Slow Pandemic\" with fewer red dots. There's also a scene showing a room at night with framed pictures on the wall.AUDIO: A man speaks about turning the pandemic into a slow one. He mentions that all of us need to do something for this. It seems like he's talking about measures or actions we can take to control the spread of the virus.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a tablet with a red and white pattern on its screen. There are two black birds with orange feet on either side of the tablet. The background is a gradient of blue and purple, with some abstract shapes and a tree silhouette in the distance. The scene seems to be set at night, as indicated by the dark sky and the presence of stars.\n\n**Audio:** The audio features a male voice speaking in English. The speech is clear and the tone is informative."
         },
         {
           "segment_index": 2,
           "time_range": "362.0s - 368.0s",
-          "query": "VISUAL: The video shows two contrasting sides. On one side, there's a dark purple background with many small red and pink figures scattered around, representing a large number of people. On the other side, it's light blue with hospital beds arranged in rows, some occupied by figures in red and pink, indicating patients. There are also a few figures walking around these beds.AUDIO: A man is speaking about slowing down an epidemic through right responses, especially in the early phase, so that everyone who gets sick can be taken care of.If you have any thoughts or questions about this analysis, feel free to share!"
+          "query": "**Visual:** The video shows two contrasting scenes side by side. On the left, there's a dark purple background with numerous small, pinkish-red figures scattered around, giving a sense of a large, possibly chaotic crowd. On the right, there's a light teal background with a grid of white beds, each with a figure in a blue outfit lying in it. The figures on the right seem to be in a more organized and controlled setting. The overall contrast between the two sides is quite stark.\n\n**Audio:** There is no audio in this video segment."
         },
         {
           "segment_index": 3,
           "time_range": "368.0s - 374.0s",
-          "query": "VISUAL: The video shows an illustration on the left side with a graph depicting infections over time. There's also an image of a person getting an injection. On the right side, there are illustrations of people in hospital beds. The background is mostly dark purple for the infection graph and light blue for the hospital scene.AUDIO: A man speaks about treatment availability and the absence of a \"crunch point\" with overwhelmed hospitals due to not having a vaccine.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, the video shows a graph with \"Infections\" on the y-axis and \"Time\" on the x-axis. There's a red area representing infections, which peaks and then declines. On the right side, there are blue seats with red figures sitting in them, possibly indicating a waiting area or a public space. The background is a gradient of dark to light purple. There's also an illustration of a person in a blue shirt, holding a syringe, with a concerned expression. The person has a red mark on their chest, which might be a symbol related to the video's theme. The overall color scheme is dark with pops of red and blue.\n\nAudio-wise, there's a male voice speaking in English. The speech is about getting treatment and mentions something about overwhelmed hospitals and the lack of a vaccine. The tone seems to be informative and somewhat urgent."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 286.6730465888977
+      "processing_time": 272.50728249549866
     },
     {
-      "comment_index": 3665,
+      "comment_index": 1331,
       "video_id": "BtN-goy9VOY",
       "comment": "0:45 Recently an article was published talking about the stability of the virus on various surfaces. The virus remained viable in the air for hours and on surfaces like plastic and stainless steel up to days. Thanks for the video, it was very enlightening.",
       "language": "en",
@@ -470,24 +319,24 @@
         {
           "segment_index": 1,
           "time_range": "36.0s - 42.0s",
-          "query": "VISUAL: The video shows an illustration of a virus labeled \"Corona\". It has a red core with blue protrusions called Spike Protein. There's also a smaller circle inside it with RNA and a Lipid Envelope around it. The background is dark blue. Then, multiple copies of this virus start to spread out across the screen.AUDIO: A male voice speaks about something being just a hull around genetic material and a few proteins, suggesting it might not be considered a living thing."
+          "query": "Well, I'm not sure if there's actually any video to analyze here. You just mentioned some text about a virus, but no video segment was provided for me to describe visually or audibly. If you have another video segment that you'd like me to look at, feel free to share it!"
         },
         {
           "segment_index": 2,
           "time_range": "42.0s - 48.0s",
-          "query": "VISUAL: The video shows a bunch of virus-like particles with red and blue colors on a dark background at first. Then it splits into three sections. On the left, there's money, a wallet, and some coins all covered in little red dots. In the middle, there's a knife and fork on a purple napkin also with those red dots. On the right, there are building blocks, dice, and game pieces all with the same red dots.The background color changes from dark to light blue for the split sections.AUDIO: There is a man speaking about how corona can only reproduce inside living cells and that it can spread via surfaces but still requires a host cell to do so.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Well, I'm not sure if there's actually any audio or speech in that video. So for the audio part, it seems like there might be no sound at all. As for the visuals, hmm, it looks like there are some colorful objects floating around on a dark background. There aren't really any clear actions or people shown though. What do you think about it?"
         },
         {
           "segment_index": 3,
           "time_range": "48.0s - 54.0s",
-          "query": "VISUAL: The video shows three different sets of objects. On the left, there's money like bills and coins on a blue background. In the middle, there's a knife and fork on a purple napkin. On the right, there are colorful building blocks and game pieces on a dark blue background.AUDIO: There's some kind of narration or explanation being given, but it's not clear from just these few seconds what the content is. It could be about the objects shown or something else entirely.If you want to know more about this video or have other questions, feel free to ask!"
+          "query": "Visually, there are three different scenes. In the first, there are various objects like money, a wallet, and a knife and fork on a blue background. The second scene shows two people kissing, with a pinkish-purple background. The third scene has colorful building blocks and a blue die on a dark blue background. There's no clear movement or action within these scenes. The audio is just music playing throughout the 6 seconds. What do you think about these descriptions? Do you have any other questions?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 302.05889415740967
+      "processing_time": 196.79710221290588
     },
     {
-      "comment_index": 3666,
+      "comment_index": 1332,
       "video_id": "BtN-goy9VOY",
       "comment": "6:33  My BrainHigh af : why dont i just BREATHE SOAP",
       "language": "en",
@@ -500,84 +349,24 @@
         {
           "segment_index": 1,
           "time_range": "384.0s - 390.0s",
-          "query": "VISUAL: The video shows two parts side - by - side. On the left, there's a pink cube with \"NOT GETTING INFECTED\" written on it. On the right, there's a blue cloud shape with \"NOT INFECTING OTHERS.\" Then an illustration of hands washing under running water from a faucet appears. The background is light beige.AUDIO: There's some music playing throughout the video. A male voice speaks about not getting infected and not infecting others, mentioning that washing your hands is the best thing to do. It also says something about how it might seem trivial."
+          "query": "Visually, the video shows a hand washing itself in a sink with soap and water. The background is a bathroom setting with a mirror and tiled walls. The colors are mostly pastel shades. There's no movement of other people or objects besides the hand washing.\n\nAudio-wise, there's a voiceover saying \"and not infecting others although it sounds trivial the very best thing you can do is to.\" The voice is calm and informative."
         },
         {
           "segment_index": 2,
           "time_range": "390.0s - 396.0s",
-          "query": "VISUAL: The video shows an animated scene where hands are washing under running water from a faucet. There's pink soap suds all over the sink area. Then it cuts to a red background with two virus-like structures floating around. One is mostly red with blue spikes, while the other has more purple and yellow tones with similar spikes.AUDIO: A man speaks about how soap is a powerful tool against the coronavirus. He mentions that the virus is encased in something. There's no music or sound effects, just his voice."
+          "query": "Visually, there's a hand washing under a faucet with soap suds. The background has a blue tiled wall. The hand is moving back and forth under the running water, scrubbing the soap. The colors are mainly blue, pink, and beige. There's a mirror on the wall too. There's no sound in the audio part."
         },
         {
           "segment_index": 3,
           "time_range": "396.0s - 402.0s",
-          "query": "VISUAL: The video shows two virus-like structures with a \"Lipid Envelope\" label on one. There's also some pinkish-purple circular shapes moving around. The background is red with some yellowish-orange spots.AUDIO: A man speaks about how soap breaks apart fat to prevent infection. It's just his voice without any other sound effects or music. So, what do you think about this? Do you have any other videos for me to analyze?"
+          "query": "Visually, there's an illustration showing a virus with a lipid envelope on one side and a cell membrane on the other. The background is red with some abstract shapes. There aren't any people or moving objects really, just these static images.Audibly, it seems like someone is explaining something about soap breaking apart fat to prevent infection. It's not very clear though, so I can only make out that it's probably related to how soap works against viruses."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 272.68122577667236
+      "processing_time": 226.39436197280884
     },
     {
-      "comment_index": 3667,
-      "video_id": "BtN-goy9VOY",
-      "comment": "0:28    2000 years later, after humans go extinct: a random monkey: finds a random toilet paper roll also the monkey: snort mmmmMMAhh",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 91.0,
-      "comment_timestamp": 28.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "19.0s - 25.0s",
-          "query": "VISUAL: The video starts with an animated penguin holding a sign that says \"Covid-19\" on a purple background. Then it changes to show \"Coronavirus\" on a pink background with a virus particle icon above it. Next, there's an illustration of a person with a sad face, and their lungs are shown inflamed. Finally, we see two figures side - by - side, one with normal lungs and the other with inflamed ones. There's also a pile of toilet paper rolls and cleaning supplies in the background.AUDIO: A man is speaking throughout the video. He explains about coronavirus infecting humans and what should be done. It seems like he's giving some sort of advice or information related to the topic.If you want to know more about this or have any other questions, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "25.0s - 31.0s",
-          "query": "VISUAL: The video shows an illustration of a person with internal organs exposed on one side, like lungs and intestines. On the other side, there's a pile of items including toilet paper rolls, medicine bottles, and a pink bird-like figure. Then it transitions to a forest scene with trees and a bright light source. Finally, it shifts to a futuristic cityscape at night with buildings and flying vehicles.AUDIO: There is some kind of narration or speech saying \"We all do\" followed by music playing in the background. What do you think about these two parts? Do you have any other observations?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "31.0s - 37.0s",
-          "query": "VISUAL: The video shows an animated scene with a stylized cityscape at night. There's a large eye-like structure in the center, emitting light. Two figures seem to be interacting with it. The background has buildings lit up with various colors.The sky is dark blue, giving a nighttime feel.AUDIO: There's some music playing throughout the video. No specific speech or dialogue is heard.Anything else you noticed in the video that you want to discuss?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 321.61421942710876
-    },
-    {
-      "comment_index": 3668,
-      "video_id": "BtN-goy9VOY",
-      "comment": "0:28       That damn monkey is hoarding TOILET PAPER WHEN WE NEED IT THE MOST!",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 91.0,
-      "comment_timestamp": 28.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "19.0s - 25.0s",
-          "query": "VISUAL: The video starts with an animated penguin holding a sign that says \"Covid-19\" on a purple background. Then it changes to show \"Coronavirus\" on a pink background with a virus particle icon above it. Next, there's an illustration of a person with a sad face, and their lungs are shown inflamed. Finally, we see two figures side - by - side, one with normal lungs and the other with inflamed ones. There's also a pile of toilet paper rolls and cleaning supplies in the background.AUDIO: A man is speaking throughout the video. He explains about coronavirus infecting humans and what should be done. It seems like he's giving some sort of advice or information related to the topic.If you want to know more about this or have any other questions, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "25.0s - 31.0s",
-          "query": "VISUAL: The video shows an illustration of a person with internal organs exposed on one side, like lungs and intestines. On the other side, there's a pile of items including toilet paper rolls, medicine bottles, and a pink bird-like figure. Then it transitions to a forest scene with trees and a bright light source. Finally, it shifts to a futuristic cityscape at night with buildings and flying vehicles.AUDIO: There is some kind of narration or speech saying \"We all do\" followed by music playing in the background. What do you think about these two parts? Do you have any other observations?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "31.0s - 37.0s",
-          "query": "VISUAL: The video shows an animated scene with a stylized cityscape at night. There's a large eye-like structure in the center, emitting light. Two figures seem to be interacting with it. The background has buildings lit up with various colors.The sky is dark blue, giving a nighttime feel.AUDIO: There's some music playing throughout the video. No specific speech or dialogue is heard.Anything else you noticed in the video that you want to discuss?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 317.90580010414124
-    },
-    {
-      "comment_index": 3669,
+      "comment_index": 1333,
       "video_id": "BtN-goy9VOY",
       "comment": "7:27 the bird is licking the window, that isn’t very healthy",
       "language": "en",
@@ -590,21 +379,231 @@
         {
           "segment_index": 1,
           "time_range": "438.0s - 444.0s",
-          "query": "VISUAL: There's an animated world map on a dark blue background. The continents are outlined in white with a light blue fill. As the video progresses, icons appear over different regions of the map. These icons include a plane with a red circle and slash through it, meaning no travel, a house with a lock symbol, indicating stay - at - home orders, and another plane icon with the same red circle and slash. The icons seem to be highlighting areas under quarantine or restrictions.AUDIO: A male voice is speaking throughout the video. He says \"Larger level there are quarantines which can mean different things from travel restrictions or actual orders to stay at home.\" It seems like he's explaining something related to the visuals."
+          "query": "**Visual:** The video shows an animated world map with different regions highlighted in various shades of blue. There are icons overlaid on specific areas of the map. These icons include symbols like a lock, a house, a plane with a line through it, and a person wearing a mask.\n\n**Audio:** No distinct audio is heard apart from the background music which seems to be calm and somewhat melancholic."
         },
         {
           "segment_index": 2,
           "time_range": "444.0s - 450.0s",
-          "query": "VISUAL: The video starts with an animated world map showing various icons like padlocks, no - entry signs, and house symbols on different continents. Then it transitions to a cartoonish black bird looking out of a window with purple curtains. The background is orange with some plant-like shapes. AUDIO: There's a man speaking about quarantines not being great to experience or popular but mentioning that they buy time for us and others. No other sounds are heard.Does this match what you saw? Let me know if there's anything else you noticed!"
+          "query": "Visually, there's a world map with various icons on it. The icons include things like a house, a lock, a key, and a no-entry sign. The colors are mainly blue, orange, and purple. There's also a black bird peeking out of a window with purple curtains. The bird seems to be looking outside. The movement is mainly the bird's head turning and the icons on the map changing slightly.The audio has a man speaking. He says, \"Quarantines are not great to experience and certainly not popular but they buy us and a.\""
         },
         {
           "segment_index": 3,
           "time_range": "450.0s - 456.0s",
-          "query": "VISUAL: There's an animated scene with two panels. On the left panel, there's a black character with big white eyes looking out of a window with purple curtains. The right panel shows a scientist in a lab coat and mask working at a computer. The scientist is in a blue-lit room with some equipment around.AUDIO: A man is speaking about researchers working on medication and vaccination during a crucial time.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there are two main sections. On the left, there's a black character with white eyes and a beak-like mouth, set against a purple and orange background. On the right, a person in a green lab coat and a face mask is in a blue-lit lab with various equipment. The person seems to be working on something. There's also a \"Lab\" sign in the middle of the right section. The overall color scheme is bright and contrasting.\n\nIn terms of audio, there's a male voice speaking, but the content of the speech isn't clear from this short segment. There are no distinct sound effects or music."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 299.7088212966919
+      "processing_time": 244.32241535186768
+    },
+    {
+      "comment_index": 1334,
+      "video_id": "BtN-goy9VOY",
+      "comment": "7:30 Man, the quarantine really hit that one bird hard.",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 74.0,
+      "comment_timestamp": 450.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "441.0s - 447.0s",
+          "query": "Visually, the video shows a stylized world map with various icons on it. There are icons like a plane with a red cross over it, a house with a lock, and a house with an upward arrow. The map is blue with white landmasses. The icons seem to represent different travel or quarantine restrictions. The background is a dark blue color. There's no movement in the video, it's just a static image with these icons on the map.Audience: There's no audio in this video segment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "447.0s - 453.0s",
+          "query": "Well, I can't actually watch videos directly here. But if you describe them to me, I'll be happy to analyze them for you! Just give me some details about what's happening visually and audibly."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "453.0s - 459.0s",
+          "query": "Visually, there are two animated characters. One is in an orange room with a purple window, and the other is in a blue room with a purple window. The character in the orange room is looking out the window, and the character in the blue room is also looking out the window. There are some red heart shapes floating in the air. The colors are bright and the animation style is simple and cartoonish. There's also a small white square at the bottom of the orange room window.Audibly, there's a man speaking. He says, \"Crucial time so if you are put under quarantine you should understand why and respect it.\" The speech is clear and in English. There are no other sounds like music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 196.9701428413391
+    },
+    {
+      "comment_index": 1335,
+      "video_id": "BtN-goy9VOY",
+      "comment": "6:28 >bird comes out of nowhere Nope",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 72.0,
+      "comment_timestamp": 388.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "379.0s - 385.0s",
+          "query": "Visually, the video shows an animated character waving. The background is a bright yellow with radiating lines, giving a sense of energy or excitement. There are also some text elements, like \"NOT GETTING INFECTED\" and \"NOT INFECTING OTHERS,\" which seem to be related to the theme of the video.\n\nAudio-wise, there's a man speaking. The speech is clear and seems to be explaining something, possibly related to the visual content. There are no other distinct sound effects or music in the audio segment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "385.0s - 391.0s",
+          "query": "Visually, there's an illustration showing hands washing under running water from a faucet. The background has some light-colored tiles or bricks. There are also some pink soap bubbles around the hands.\n\nAudio-wise, someone is speaking about not infecting others and emphasizes that washing your hands is the best thing to do."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "391.0s - 397.0s",
+          "query": "Visual: The video shows a cartoonish scene. There's a sink with a faucet, and someone is washing their hands with soap. The soap is pink and foamy. In the background, there are some blue tiles. Then, the scene changes to a red background with two virus-like structures. One is labeled \"Lipid Envelope.\" The viruses have a pinkish-red color with blue and red dots on them. The movement is mainly the hand washing in the sink and the transition to the virus structures on the red background. Audio: There's a voiceover saying \"Soap is actually a powerful tool the coronavirus is encased in what is basically a layer of.\" The voice is calm and informative."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 258.4468421936035
+    },
+    {
+      "comment_index": 1336,
+      "video_id": "BtN-goy9VOY",
+      "comment": "07:03 The Hungarian subtitle says: ne ölelkezz, ne moss kezet, which means: do not hug, do not wash hands. I suggest you fix it 🤔😉",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 71.0,
+      "comment_timestamp": 423.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "414.0s - 420.0s",
+          "query": "Visually, there are two cartoon characters. One has dark skin and a bun hairstyle, and the other has light skin and blonde hair. They seem to be interacting closely, like they're about to kiss or are very close to each other. The background is a simple, solid color, not much detail there. There's also a small, colorful object that looks like a flower or a decorative item in the foreground, partially covering the characters' faces.Audibly, there's a male voice speaking. The speech is in English and seems to be about social distancing, mentioning that it's not a nice experience. The tone is somewhat serious. There are no other sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "420.0s - 426.0s",
+          "query": "**Visual:** The video shows two cartoon characters, one with dark skin and a bun hairstyle wearing a yellow top and purple scarf, and the other with light skin and blonde hair wearing a blue top. They are facing each other against a pink background. There's also a laptop, a yellow pillow with a black eye, and a yellow mug with a black design on a table. The text \"NO HUGGING NO HANDSHAKES\" is displayed prominently.\n\n**Audio:** The audio includes a male voice saying \"nice thing to do this means no hugging no handshakes if you can stay at home stay at.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "426.0s - 432.0s",
+          "query": "Visual: The video shows a cartoonish scene. There's a character with a stethoscope, likely a doctor, holding a tablet. Next to them is a mug with a duck design. The background has a purple hue with some abstract shapes. Then it transitions to a split-screen. On one side, there's a woman in a white coat, possibly a doctor, looking at a tablet. On the other side, there's a man in a blue shirt and apron, holding a book. The background is teal on the left and yellow on the right. The overall style is colorful and simple, with smooth transitions between scenes.\n\nAudio: There's a voiceover in the audio. The voice is calm and informative, discussing the importance of protecting those who need to be out for society to function, mentioning doctors, cashiers, and police officers. The tone is serious and focused."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 355.85109853744507
+    },
+    {
+      "comment_index": 1337,
+      "video_id": "BtN-goy9VOY",
+      "comment": "0:29, THEY CHANGED THE MONKEY TO MAKE IT HOLD TOILET PAPER, THATS SO SMART",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 69.0,
+      "comment_timestamp": 29.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "20.0s - 26.0s",
+          "query": "Well, in the video, visually, there's an illustration of a person with a red circle around their head, which might represent the virus. There's also a pile of toilet paper and some other items like a jar of jam. The colors are quite bright, mainly red, blue, and yellow. The movement is mainly the illustrations changing slightly, like the person's head getting the red circle.An audio-wise, there's a man speaking. He's talking about the coronavirus, explaining what happens when it infects a human and what we should do. The speech is clear and informative.So, what do you think about this video? Do you have any other questions?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "26.0s - 32.0s",
+          "query": "Visually, the video shows a nighttime cityscape with tall buildings and a Ferris wheel. There are trees and some colorful lights scattered around. The Ferris wheel is lit up with bright colors. The scene has a calm and somewhat magical feel to it.\n\nIn terms of audio, there's music playing in the background, which adds to the serene atmosphere of the city at night."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "32.0s - 38.0s",
+          "query": "Visual: The video shows a colorful, abstract representation of a virus. It has a central core with various protruding elements, possibly representing different parts of the virus like the spike protein and RNA. The background is dark blue, and there are small white dots scattered around, resembling stars in space. The overall design is simple yet eye-catching, with bright colors like pink, blue, and yellow against the dark background.\n\nAudio: There is a voiceover in the audio, explaining that a virus is really just a hull around genetic material. The voice is clear and informative, providing a concise explanation about viruses."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 288.76915645599365
+    },
+    {
+      "comment_index": 1338,
+      "video_id": "BtN-goy9VOY",
+      "comment": "The droop in the health care system capacity level at 5:40 is a brilliant extra touch. This is an important point everyone should see!",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 64.0,
+      "comment_timestamp": 340.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "331.0s - 337.0s",
+          "query": "Well, in the video, visually, there are six different icons. Each icon represents something related to healthcare or medical stuff. For example, there's a mask, some pills, a hand sanitizer bottle, an IV bag, a stethoscope, and a heart monitor. They're all in different colors like purple, orange, and blue. And they seem to be moving around a bit, like they're floating or being shown in different positions. Oh, and the background is also colorful, with different shades of purple, orange, and blue.Audience: There's no audio in this video. So, there's nothing to hear. It's just the visual elements. What do you think about this video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "337.0s - 343.0s",
+          "query": "Visually, the video shows an illustration of a healthcare worker in a hospital setting. The worker is wearing a blue uniform and a face mask. There's a graph in the background with axes labeled \"Infections\" and \"Time.\" The graph has a peak labeled \"Outbreak.\" The colors are mostly pink and blue, with some red and purple accents. The worker seems to be looking at the graph, possibly reflecting on the situation.\n\nAudio-wise, there's a voiceover in English. The speaker is discussing how more healthcare workers getting sick reduces the capacity of healthcare systems. The tone is informative and somewhat concerned."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "343.0s - 349.0s",
+          "query": "**Visual:** The video shows two contrasting scenes side by side. On the left, there's a large group of red silhouetted figures against a dark purple background. On the right, there are several blue silhouettes lying on beds with white sheets, set against a light teal background.\n\n**Audio:** There is no audible speech or music in this short clip. It seems to rely solely on visuals for its message."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 264.2804844379425
+    },
+    {
+      "comment_index": 1339,
+      "video_id": "BtN-goy9VOY",
+      "comment": "7:35 that birdie sure loves windows.",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 58.0,
+      "comment_timestamp": 455.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "446.0s - 452.0s",
+          "query": "Sure! So, visually, there's an orange building with a window showing a black character peeking out. The background is purple inside the window. Then it cuts to a train station scene where someone is getting on or off a blue train labeled \"Lab.\".For the audio, I can't really tell much because no specific sounds were mentioned.Anything else you need help with?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "452.0s - 458.0s",
+          "query": "Visually, there are two cartoon characters. One is a black cat with a white face, sitting in a room with a purple wall and a window. The other is a person in a green outfit and a face mask, sitting in a room with a blue wall and some computer screens. The cat looks sad and is holding a red heart. The person seems to be working on a computer. The colors are bright and cartoonish. There's also a window in the background of the cat's room, showing a bit of the outside world.The audio has a man speaking in a calm, informative tone. He's talking about the importance of vaccination and quarantine."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "458.0s - 464.0s",
+          "query": "Visually, the video shows two thermometers. One is labeled \"Individual Fun-O-Meter\" and the other \"Collective Health.\" The \"Individual Fun-O-Meter\" has a red liquid rising, while the \"Collective Health\" thermometer has a green liquid rising. The background is split into two colors, yellow for the \"Individual Fun-O-Meter\" and blue for the \"Collective Health.\"\n\nAudio-wise, there's a voiceover saying, \"and respect it none of this is fun but.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 249.78118586540222
+    },
+    {
+      "comment_index": 1340,
+      "video_id": "BtN-goy9VOY",
+      "comment": "6:47 6:47 “To do it properly wash your hands if you would just cut up some jalapeños and want to put in your contacts next!”",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 53.0,
+      "comment_timestamp": 407.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "398.0s - 404.0s",
+          "query": "Visually, the video shows a pinkish background with large, translucent bubbles floating around. Inside one of the bubbles, there are small blue objects moving around. The overall scene has a somewhat abstract and dreamy feel.\n\nIn terms of audio, there is a voiceover explaining that soap breaks fat apart and makes your hands slippery. The voiceover is clear and informative."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "404.0s - 410.0s",
+          "query": "Visually, there's a pink and purple abstract background with some red dots and white plus signs. A person is shown washing their hands with soap and water. The person's face is partially visible, and they're using a soap dispenser and a faucet. The movement is mainly the hand washing action.\n\nAudio - There's a voiceover saying \"and with the mechanical motions of washing viruses are ripped away to do it properly wash your hands.\" The tone is informative."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "410.0s - 416.0s",
+          "query": "Visually, there's an illustration of a person with dark hair and a blue shirt. They're holding a small, green, chili pepper - like object in their hand. The background is a light beige color. The person seems to be looking at the object intently. There's also a yellow object, possibly a piece of food, that the person is bringing closer to their mouth with their other hand. The movement is smooth and the colors are bright and simple, like in a cartoon or animation.Audibly, there's no speech or music. The only sound is a soft, continuous humming or buzzing, like a gentle background noise."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 245.86797165870667
     }
   ]
 }

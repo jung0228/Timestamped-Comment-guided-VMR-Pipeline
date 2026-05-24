@@ -1,0 +1,609 @@
+{
+  "video_id": "mbxxfVz8xBk",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 6891,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "6:27 ollie with his best beggar yang imitation!",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 639.0,
+      "comment_timestamp": 387.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "378.0s - 384.0s",
+          "query": "**Visual:** The video shows two men sitting at a table filled with various dishes. They're dressed formally, one in a white shirt and tie, the other in a dark suit. There's a red wall behind them with \"JOLLY\" written on it. The table is covered with bowls, plates of food, and drinks. One man is holding up a piece of food while talking to the other.\n\n**Audio:** A male voice says, \"a little bit of lime for you sir now do.\" It seems like he might be offering something or making a comment about the food."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "384.0s - 390.0s",
+          "query": "Visually, there's a man holding up a burger with both hands, looking at it closely. He seems to be in a restaurant or cafe setting, with other people around him also eating. The table is filled with various dishes like bowls of food, a pizza, and some drinks. There are plants and a sign that says \"JOLLY\" in the background.\n\nAudibly, someone is speaking, saying something about fitting things into one container not being a challenge. The tone suggests they're confident or matter-of-fact. There's no distinct music or sound effects, just the conversation and general ambiance of a dining place."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "390.0s - 396.0s",
+          "query": "**Visual:** The video shows two men sitting at a table filled with various dishes like pizza, pasta, and other foods. One man is wearing a suit and tie while the other has on a white shirt. They seem to be having a meal together in a room decorated with plants and some furniture. There's also someone standing behind them.\n\n**Audio:** A voice can be heard saying something about enjoying food, mentioning that there was more before. It seems casual and conversational."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 134.45294833183289
+    },
+    {
+      "comment_index": 6892,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "10:02 when Ollie said, \"its like eating in HD\" I thought Josh would shake his head and say, \"you're an idiot\" but he agreed! That's so much progress for the both of them hahaha!! <3",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 507.0,
+      "comment_timestamp": 602.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "593.0s - 599.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.86 GiB is free. Including non-PyTorch memory, this process has 15.69 GiB memory in use. Of the allocated memory 13.60 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "599.0s - 605.0s",
+          "query": "**Visual:** The video shows two people sitting at a table filled with various food items. They are dressed formally, one in a vest and tie, the other in a suit. The table is covered with trays of food, and there are plants and a red wall with the word \"JOLLY\" in the background. The people are engaged in conversation and gestures, appearing to enjoy their meal.\n\n**Audio:** The audio includes dialogue between the two people, with one person agreeing enthusiastically and the other responding positively. There are no background music or sound effects, just the conversation."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "605.0s - 611.0s",
+          "query": "**Visual:** Two men dressed formally sit at a table piled with various food items like pizza, pasta, and other dishes. They seem to be having a conversation while gesturing animatedly. The background has plants and some wall decorations.\n\n**Audio:** There's a man speaking, likely talking about something related to \"4D\" experiences or watching something. His tone seems enthusiastic or excited."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 202.35055923461914
+    },
+    {
+      "comment_index": 6893,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "1:11 Ollie trying his hardest to pronounce gulab jamun makes me proud.",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 230.0,
+      "comment_timestamp": 71.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "62.0s - 68.0s",
+          "query": "Visually, there are two men in suits sitting at a table. On the table, there are two large green bags with gold designs, some papers, and several containers of food. The background has a red wall with a lamp and some plants. The men seem to be looking at the food and papers on the table. There's also a small clock on the table. The overall color scheme includes red, green, and brown tones. The movement is mainly the men's hands as they interact with the items on the table.Audibly, there's a man speaking, but the content of his speech isn't clear from this short segment. There's also some background music playing, which seems to be a soft, possibly instrumental piece."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "68.0s - 74.0s",
+          "query": "Visual: The video shows two people sitting at a table with several food containers in front of them. There are also some green shopping bags on the table. The background has a red wall with a \"JOLLY\" sign and some plants. The people seem to be interacting with the food, possibly preparing or eating it. The table has a wooden surface, and there are some papers and a glass of water on it. The lighting is warm, creating a cozy atmosphere.\n\nAudio: The audio includes speech, likely from the people at the table. There are no distinct sound effects or music. The speech seems to be casual conversation or commentary about the food."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "74.0s - 80.0s",
+          "query": "**Visual:** The video shows a top-down view of a table with various food containers, cups, and utensils. There are two people sitting at the table, engaged in conversation. One person is gesturing with their hands while talking. The setting appears to be indoors, possibly a casual dining area, with some plants and a red wall in the background.\n\n**Audio:** The audio features a man speaking. He says, \"Oh boy, you know I'm like when I'm ordering I kind of don't do it in half measures it's all or nothing.\" The tone suggests he's explaining his approach to ordering food."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 332.9256398677826
+    },
+    {
+      "comment_index": 6894,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "It's 6:15 am I literally binged all your Korean food videos whole night and then I landed on this, seeing you guys enjoying my country's cuisine just makes me happy. Love you guys ✨❤",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 114.0,
+      "comment_timestamp": 375.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "366.0s - 372.0s",
+          "query": "**Visual:** The video shows two people sitting at a table filled with various dishes. The table is covered with plates of food, bowls, and utensils. The background has a warm, cozy ambiance with plants and a sign that says \"JOLLY.\" One person is wearing a suit and tie, while the other is in a vest and shirt. They appear to be eating and interacting with each other.\n\n**Audio:** There is a conversation happening between the two people. The dialogue includes phrases like \"this does just look like chili con carne\" and \"I'm sure that the entire nation.\" The tone seems casual and friendly."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "372.0s - 378.0s",
+          "query": "**Visual:** The video shows two people sitting at a table filled with various dishes. They are dressed formally, one in a vest and tie, the other in a suit. The table is covered with bowls, plates, and bottles, suggesting a meal setting. The background has a warm, cozy ambiance with plants and a sign that says \"JOLLY.\"\n\n**Audio:** There is a clapping sound followed by laughter, indicating a light-hearted or celebratory moment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "378.0s - 384.0s",
+          "query": "**Visual:** The video shows two men sitting at a table laden with various dishes. They appear to be enjoying a meal together. One man is wearing a white shirt while the other is dressed in a suit. There's a sign on the wall that says \"JOLLY\". The table has bowls, plates, and utensils, suggesting they're having a casual dining experience.\n\n**Audio:** Someone is speaking, saying something like \"a little bit of lime for you sir now do we bite or do we go all\". It seems like they might be discussing how to eat something, possibly referring to a particular food item."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 248.9186089038849
+    },
+    {
+      "comment_index": 6895,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "8:03 Did Ollie just answer Josh's question telepathically? XD",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 51.0,
+      "comment_timestamp": 483.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "474.0s - 480.0s",
+          "query": "**Visual:** The video shows two men sitting at a table filled with various food items like bowls of rice, vegetables, and other dishes. One man is pouring something from a bottle into his glass while the other holds up his drink. There's also another person standing behind them near some plants.\n\n**Audio:** People are talking throughout the video."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "480.0s - 486.0s",
+          "query": "**Visual:** The video shows a group of people sitting around a table filled with various dishes. They are dressed in formal attire, like suits and ties. The table is covered with plates of food, bowls, and bottles. There are plants and a red wall with the word \"JOLLY\" in gold letters in the background. One person is holding a bottle of hot sauce, and another is eating from a bowl. The scene has a warm, cozy ambiance.\n\n**Audio:** The audio includes conversation among the people, laughter, and the sound of cutlery. There's also the sound of someone pouring a drink. The overall tone is cheerful and lively."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "486.0s - 492.0s",
+          "query": "**Visual:** The video shows two people sitting at a table filled with various dishes. The table has a variety of food items, including what looks like pizza, pasta, and other cooked meals. There are also drinks on the table. The background has a red wall with the word \"JOLLY\" in large letters. There are plants and some furniture visible, suggesting an indoor setting. One person is gesturing with their hand while talking, and the other is holding a drink and appears to be listening or reacting.\n\n**Audio:** The audio features a man speaking. His speech seems to be in a casual, conversational tone. There are no other distinct sound effects or music in the audio."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 228.1196084022522
+    },
+    {
+      "comment_index": 6896,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "6:45 ....it like old engine is struggling to start 😂😂😂😂😂😂😂",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 31.0,
+      "comment_timestamp": 405.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "396.0s - 402.0s",
+          "query": "**Visual:** Two men are seated at a table laden with various dishes. They are dressed formally, one in a white shirt and vest, the other in a dark suit. The table is filled with bowls, plates, and bottles, suggesting a meal setting. The background has a warm, cozy ambiance with plants and a sign that says \"JOLLY.\"\n\n**Audio:** There is a conversation happening between the two men, though the specific words are not clear. The tone seems casual and friendly. There is no background music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "402.0s - 408.0s",
+          "query": "**Visual:** The video shows two people sitting at a table filled with various dishes, likely in a restaurant or dining setting. The table is covered with plates of food, bowls, and utensils. The background includes plants and a red wall with the word \"JOLLY\" prominently displayed. The individuals appear to be engaged in eating and conversation, with one person holding a piece of food and the other gesturing with their hands.\n\n**Audio:** There is laughter and conversation happening in the background, along with some music playing softly. The speech is not clearly audible, but it seems to be in English."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "408.0s - 414.0s",
+          "query": "**Visual:** The video shows two people sitting at a table filled with various dishes. The table has a variety of food items, including what looks like grilled chicken, a bowl of soup, and some vegetables. The background has a warm, cozy ambiance with plants and a red wall. One person is wearing a suit and tie, while the other is in a vest and tie. They seem to be engaged in conversation or reacting to the food.\n\n**Audio:** There is a conversation happening between the two people. The man in the suit speaks first, and then the man in the vest responds. The conversation seems to be about the food on the table."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 359.59600257873535
+    },
+    {
+      "comment_index": 6897,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "8:04 we have now transcend into Ollie's mind. We can hear his thoughts.",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 27.0,
+      "comment_timestamp": 484.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "475.0s - 481.0s",
+          "query": "**Visual:** The video shows two men sitting at a table filled with various dishes. One man is pouring something into a glass while the other looks on. The table has bowls of food, a bottle, and some plants in the background. The setting seems to be indoors, possibly a restaurant or a dining area. The lighting is warm and cozy.\n\n**Audio:** There is a conversation happening between the two men. The man pouring into the glass is speaking, and the other man is also talking. The tone of the conversation seems casual and friendly."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "481.0s - 487.0s",
+          "query": "**Visual:** The video shows two men sitting at a table filled with various dishes like pizza, pasta, and other foods. One man is wearing a suit and tie while the other has on more casual attire. They seem to be enjoying their meal together. There's also some greenery visible in the background.\n\n**Audio:** Someone says \"how does smell it smells incredible\" followed by laughter."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "487.0s - 493.0s",
+          "query": "**Visual:** The video shows two men sitting at a table filled with various dishes. The table is covered with plates of food, including what looks like pasta, vegetables, and other items. There are also drinks on the table. The background has a red wall with the word \"JOLLY\" written on it, and there are plants and some furniture visible. One man is wearing a light-colored suit and the other is in a darker suit. They seem to be engaged in conversation while eating.\n\n**Audio:** The audio includes a man speaking. He mentions something about getting \"mission staff food delivered to our house\" and refers to a cocktail."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 292.5645022392273
+    },
+    {
+      "comment_index": 6898,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "4:16 has me dying. The editors at hilarious 😂",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 27.0,
+      "comment_timestamp": 256.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "247.0s - 253.0s",
+          "query": "**Visual:** The video shows two men in suits sitting at a table laden with various dishes. They appear to be eating and having a conversation. The table is filled with bowls, plates, and bottles, suggesting a meal setting. The background has a red wall with the word \"JOLLY\" prominently displayed, along with some plants and a lamp. The overall setting seems to be indoors, possibly in a restaurant or a similar dining area.\n\n**Audio:** There is a conversation between the two men, but the specific words are not clear. The audio also includes some background music, which adds to the ambiance of the scene."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "253.0s - 259.0s",
+          "query": "Visually, there are two men in suits sitting at a table filled with various dishes. The table has bowls, plates, and bottles, suggesting a meal setting. The background has plants and a red wall with the word \"JOLLY\" on it. The men seem to be engaged in conversation, with one gesturing while speaking. The lighting is warm, creating a cozy atmosphere.\n\nAudibly, there is a man speaking, and the speech is the main focus. There's also background music playing, which adds to the overall ambiance of the scene."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "259.0s - 265.0s",
+          "query": "Visually, there are two people sitting at a table with food in front of them. They seem to be eating and drinking. The table has various dishes, and the background looks like a restaurant or a similar indoor setting. The colors are mostly warm, with the food adding some vibrant hues. There's some movement as they eat and drink.\n\nAudio-wise, there's a sound effect that resembles a scream or a loud yell, followed by music playing in the background."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 275.97171545028687
+    },
+    {
+      "comment_index": 6899,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "5:50 finally there got to knw y there ancestors spent 200 yrs in India 😂",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 26.0,
+      "comment_timestamp": 350.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "341.0s - 347.0s",
+          "query": "**Visual:** The video shows two people sitting at a table filled with various dishes. They are eating and seem to be enjoying their meal. The table is covered with bowls, plates, and bottles, and there are plants in the background. The setting appears to be indoors, possibly in a restaurant or a dining area. The lighting is warm and cozy.\n\n**Audio:** There is a conversation happening between the two people. One person is speaking, and the other is listening while eating. The speech is clear and audible."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "347.0s - 353.0s",
+          "query": "Visually, there are people sitting around a table with various dishes. One person is using tongs to pick up a piece of lamb from a pan. There are different food items like bread, pasta, and what looks like a bowl of soup or stew. The table is set with plates, cutlery, and some decorative elements like plants. The colors are warm, with the food looking rich and inviting. The movement is mainly focused on the person using the tongs and the slight movements of other people at the table.\n\nAudio-wise, there's a man speaking. He says \"Right this is lamb.\" and then expresses surprise with \"Wow oh my gosh.\" The background seems to have some soft music playing."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "353.0s - 359.0s",
+          "query": "Visually, the video shows a close-up of hands interacting with food. There are various dishes on a table, including what looks like a tray of meat in sauce, some naan bread, and a bowl with more food. The hands are using utensils to handle the food, picking up pieces of meat and dipping them into the sauce. The colors are warm, with the red sauce contrasting against the golden-brown naan and the darker tray. The movement is focused on the hands and the food, with the camera staying close to capture the details.\n\nAudio-wise, there's a voiceover saying \"literally just falls off the bone\" and \"Lee morally one extra.\" The voiceover is clear and seems to be describing the food being shown. There's no background music or other sound effects, just the voiceover and the sounds of the food being handled."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 337.4970428943634
+    },
+    {
+      "comment_index": 6900,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "7:46 daru ka theka 😂😂",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 25.0,
+      "comment_timestamp": 466.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "457.0s - 463.0s",
+          "query": "**Visual:** The video shows two men sitting at a table filled with various dishes. They're dressed formally, one in a vest and tie, the other in a suit. There's a red wall behind them with \"JOLLY\" written on it. The table is covered with bowls of food, bottles, and some plants around.\n\n**Audio:** You can hear laughter and conversation between the two men. It seems like they're enjoying their meal together."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "463.0s - 469.0s",
+          "query": "**Visual:** The video shows two men sitting at a table filled with various Indian dishes like biryani, naan, and chutneys. They're dressed formally, one in a vest and tie, the other in a suit. There's also some decorative greenery around them. One man is holding up something small while talking.\n\n**Audio:** Someone is speaking about how they deliver meals and have their own Indian food. It seems to be an explanation or narration related to meal delivery services."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "469.0s - 475.0s",
+          "query": "**Visual:** The video shows two men sitting at a table filled with various dishes like pizza, pasta, and other foods. One man is holding a bottle labeled \"DARU\" while talking to the other. There's also some greenery around them.\n\n**Audio:** A conversation between the two men can be heard, discussing something related to an old-fashioned drink."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 111.07923769950867
+    },
+    {
+      "comment_index": 6901,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "it is just hilarious how both of them are using rotis as freaking plates... 5:12",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 25.0,
+      "comment_timestamp": 312.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "303.0s - 309.0s",
+          "query": "Oh, okay! So, visually, there's someone dipping food into sauce on a table with various dishes around. You can see hands moving, like grabbing food. The table has different plates and bowls, some with sauces and others with bread or other foods. There s also a bit of greenery visible in the background. As for the audio, it seems to be just normal conversation or maybe some background chatter, nothing too distinct.What do you think? Anything else you noticed?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "309.0s - 315.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.86 GiB is free. Including non-PyTorch memory, this process has 15.69 GiB memory in use. Of the allocated memory 13.60 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "315.0s - 321.0s",
+          "query": "Visually, there's a man in a suit eating a large piece of food, probably ribs, with sauce all over his face. The background seems to be a restaurant with some plants and dim lighting. There are also other people in the scene, but they're not the focus. The colors are warm, with reds and browns dominating due to the food and the lighting.Audibly, there's a man speaking, saying \"oh my gosh that looks unbelievably tender is good.\" The speech is clear and seems to be in English. There's also some background music playing, but it's not very loud."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 228.1801528930664
+    },
+    {
+      "comment_index": 6902,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "8:20 ollie getting friendzoned for the 7292746th time",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 21.0,
+      "comment_timestamp": 500.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "491.0s - 497.0s",
+          "query": "**Visual:** The video shows two men sitting at a table filled with various dishes. They're dressed formally, one in a vest and tie, the other in a suit. There's a large \"JOLLY\" sign on the wall behind them. The table is covered with food like pizzas, bowls of soup, and other meals. One man holds up a small bottle, possibly a condiment or sauce.\n\n**Audio:** Someone says something that could be interpreted as \"Is a Michelin star restaurant delivered to your house?\" It seems like they might be asking about the quality or authenticity of the food being served."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "497.0s - 503.0s",
+          "query": "**Visual:** The video shows two men in suits sitting at a table filled with various dishes and drinks. They are toasting with glasses of what looks like beer. The background has a warm, cozy ambiance with plants and a sign that says \"JOLLY.\" The table is covered with plates of food, bowls, and bottles.\n\n**Audio:** There is a man speaking in the background, saying, \"to enjoy a nice little romantic drink wow with a good friend nothing more.\" The speech is clear and the tone is friendly."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "503.0s - 509.0s",
+          "query": "**Visual:** The video shows two men sitting at a table filled with various dishes, likely in a restaurant or dining setting. The word \"JOLLY\" is prominently displayed on the wall behind them. Both men are dressed formally, one in a vest and tie, the other in a suit. They are raising glasses, seemingly toasting or making a toast. The table is adorned with bowls of food, a bottle, and other dining items. The background includes plants and a television set.\n\n**Audio:** There is laughter and conversation happening, along with the sound of glasses clinking. The music in the background is upbeat and lively, adding to the cheerful atmosphere."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 235.34481143951416
+    },
+    {
+      "comment_index": 6903,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "I only have myself to blame for watching this video because I now crave Indian food at 1:10am",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 20.0,
+      "comment_timestamp": 70.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "61.0s - 67.0s",
+          "query": "Visual: Two men are sitting at a table with large green shopping bags on either side. There are various items like food containers, papers, and a small device or gadget on the table. The background has plants and some wall decorations.\n\nAudio: A man is speaking, but it's not clear what he's saying due to the short duration."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "67.0s - 73.0s",
+          "query": "Visual: The video shows two people sitting at a table with various food containers and shopping bags. The table has different colored food containers, some with lids. There are also some papers and a green shopping bag with a logo on it. The background has a red wall with a \"HOLLY\" sign and some plants. The people seem to be interacting with the food and bags, possibly unpacking or organizing them. The overall setting looks like a casual dining or kitchen area.\n\nAudio: There is a voiceover saying \"Incredible\" and then \"Tandoori chicken, Gulab Jamun.\" The voiceover is clear and seems to be describing the food items in the video."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "73.0s - 79.0s",
+          "query": "**Visual:** The video shows a top-down view of a table with various food containers, cups, and utensils. There are two people sitting at the table, engaged in conversation. One person is gesturing with their hands while talking. The table is set with different colored food containers, some with lids, and there are also some napkins and a small plant in a pot. The setting appears to be indoors, possibly in a casual dining area.\n\n**Audio:** The audio features a man speaking. He says, \"the dessert mate oh boy you know I'm like when I'm ordering I kind of don't do it in half measures.\" The tone suggests he's discussing his approach to ordering food, possibly emphasizing thoroughness or decisiveness."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 284.47858476638794
+    },
+    {
+      "comment_index": 6904,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "9:25 I mean if you are talking about balls, it makes sense if it was slightly nutty.",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 18.0,
+      "comment_timestamp": 565.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "556.0s - 562.0s",
+          "query": "Visually, there are two men sitting at a table filled with various dishes like bowls of food, a pizza, and drinks. They seem to be eating and chatting while looking at their phones. The background has plants and some furniture, giving it a cozy indoor feel. There's also a sign that says \"JOLLY\" on the wall.\n\nIn terms of audio, I can't really tell much from just these six seconds. It seems mostly quiet except for maybe faint background noise or the sound of cutlery. But without more context, it's hard to say for sure.What do you think about the scene?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "562.0s - 568.0s",
+          "query": "Visually, there are two people sitting at a table with various dishes in front of them. One person is holding a bowl and a spoon, while the other is eating from a plate. The table has different food items like bowls, plates, and what looks like a bottle. The background has some plants and a sign that says \"JOLLY\". The lighting seems warm and cozy, suggesting an indoor setting. There's also a bit of movement as the person with the spoon is about to take a bite.The audio includes some muffled speech and chewing sounds, but it's hard to make out specific words. There's also a faint background noise that could be from other people or ambient sounds in the room."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "568.0s - 574.0s",
+          "query": "**Visual:** The video shows two men sitting at a table filled with various dishes. They're both dressed formally, one in a white shirt and vest, the other in a suit. There's a red wall behind them with \"JOLLY\" written on it. The table is covered with bowls, plates, and bottles, suggesting they're having a meal together.\n\n**Audio:** Someone says something about \"sweet\" and mentions \"Mishima,\" which could be related to food or a place name. It seems like there might be some background chatter too."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 190.56093978881836
+    },
+    {
+      "comment_index": 6905,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "7:52 Britain has Pauwa too.",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 18.0,
+      "comment_timestamp": 472.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "463.0s - 469.0s",
+          "query": "**Visual:** The video shows two men sitting at a table filled with various Indian dishes like biryani, naan, and chutneys. They're dressed formally, one in a vest and tie, the other in a suit. There's also some decorative greenery around them. One man is holding up something small while talking.\n\n**Audio:** Someone is speaking about how they deliver meals and have their own Indian food. It seems to be an explanation or narration related to meal delivery services."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "469.0s - 475.0s",
+          "query": "**Visual:** The video shows two men sitting at a table filled with various dishes like pizza, pasta, and other foods. One man is holding a bottle labeled \"DARU\" while talking to the other. There's also some greenery around them.\n\n**Audio:** A conversation between the two men can be heard, discussing something related to an old-fashioned drink."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "475.0s - 481.0s",
+          "query": "**Visual:** The video shows two men sitting at a table filled with various dishes. One man is pouring something into a glass while the other looks on. The table has bowls of food, a bottle, and some plants in the background. The setting seems to be indoors, possibly a restaurant or a dining area. The lighting is warm and cozy.\n\n**Audio:** There is a conversation happening between the two men. The man pouring into the glass is speaking, and the other man is also talking. The tone of the conversation seems casual and friendly."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 183.22006821632385
+    },
+    {
+      "comment_index": 6906,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "1:30 here we have \"Dal Maharaani\" 😆🤣🤣🤣😁😁😂",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 18.0,
+      "comment_timestamp": 90.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "81.0s - 87.0s",
+          "query": "**Visual:** Two men in suits are seated at a table filled with various food containers and papers. The background features a red wall with the word \"JOLLY\" in large letters, along with some plants and a lamp. One man is gesturing with his hands while speaking, and the other is listening and occasionally reacting.\n\n**Audio:** The audio includes a conversation between the two men. The man on the left is speaking, and the man on the right is responding. There are no other significant sound effects or music in the audio."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "87.0s - 93.0s",
+          "query": "**Visual:** The video shows a table filled with various Indian dishes. There are plates of naan bread, bowls of curry, and other traditional Indian foods. People are seen reaching for the food, picking up pieces of naan, and dipping them into the curries. The table is set with a variety of colors from the food, like reds, greens, and yellows. The movement is focused on the hands grabbing and dipping the food.\n\n**Audio:** The audio includes a conversation between two people. One person asks, \"Do we start? Where do we start?\" The other responds, \"Have me a bit of plain naan, I'm gonna get dipping in some of the curries.\" The conversation is casual and seems to be about deciding what to eat first."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "93.0s - 99.0s",
+          "query": "**Visual:** The video shows a close-up of a hand dipping a piece of bread into a bowl of red sauce. The sauce appears to be a type of curry or chili-based dip. There are other food items visible in the background, suggesting a meal setting. The colors are warm and vibrant, with the red of the sauce contrasting against the lighter colors of the other dishes.\n\n**Audio:** The audio includes a man speaking, though the content of his speech is not clear from the provided information. There is also background music playing, which seems to be instrumental and possibly upbeat, adding to the lively atmosphere of the scene."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 289.70003056526184
+    },
+    {
+      "comment_index": 6907,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "Oh goshh ....I'm hitting myself while they're using nan/roti as tissue or plate @5:29 🤣😂😂",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 17.0,
+      "comment_timestamp": 329.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "320.0s - 326.0s",
+          "query": "**Visual:** The video shows two men sitting at a table filled with various dishes. One man is wearing a suit and the other a vest. They are both eating, with one holding a piece of food and the other looking at it. The table has a variety of colorful food items, and there are plants and a red wall with the word \"JOLLY\" in the background. The scene appears to be in a restaurant or dining area.\n\n**Audio:** There is a conversation happening between the two men. One of them asks if something is good, and the other responds with a question, possibly indicating surprise or disbelief. The dialogue is casual and seems to be about the food they are eating."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "326.0s - 332.0s",
+          "query": "**Visual:** The video shows two men sitting at a table in a restaurant. They are eating, with one man holding a fork and the other a knife. The table is set with various dishes, including what looks like pasta and other food items. The restaurant has a warm, cozy ambiance with red walls and some plants in the background. The men are dressed in formal attire, suggesting a more upscale dining experience.\n\n**Audio:** There is background music playing throughout the video, creating a relaxed and pleasant atmosphere. No specific speech or dialogue is heard during this segment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "332.0s - 338.0s",
+          "query": "**Visual:** The video shows two people sitting at a table filled with various dishes. The table has a variety of food items, including what looks like pizzas, bowls of food, and some drinks. The background has a red wall with the word \"JOLLY\" in large letters. There are also some plants and a lamp visible. The people are dressed formally, one in a suit and tie, the other in a white shirt and tie. They seem to be engaged in conversation while eating.\n\n**Audio:** The audio includes a man speaking. He says, \"Oh man, where is this been my life well it's been on a very very expensive menu.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 301.5394868850708
+    },
+    {
+      "comment_index": 6908,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "At 1:58 he called the dish \"Dal Maharani\"   Inside me: tf you are saying so hilarious 😂",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 16.0,
+      "comment_timestamp": 118.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "109.0s - 115.0s",
+          "query": "**Visual:** Two men in suits are sitting at a table filled with various Indian dishes. They are eating and talking. The table has bowls, plates, and trays of food. The background has plants and a red wall with the word \"JOLLY\" on it. There's also a camera labeled \"ADOLY\" in the background.\n\n**Audio:** The men are having a conversation. One of them is commenting on the taste of the food, saying it tastes like \"ham.\" The other man responds with surprise, saying \"oh what is that it's so good.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "115.0s - 121.0s",
+          "query": "**Visual:** Two men are sitting at a table laden with various dishes. They appear to be eating and interacting with each other. The table is filled with different food items, and the background shows a cozy, dimly lit room with plants and some furniture. One man is wearing a suit, and the other is in a blue shirt. They seem to be enjoying their meal together.\n\n**Audio:** There is a conversation happening between the two men. One of them is speaking, and the other is responding. The dialogue is in English, and it seems to be a casual, friendly exchange."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "121.0s - 127.0s",
+          "query": "**Visual:** The video shows a group of people sitting around a table, seemingly enjoying a meal together. They are dressed in formal attire, like suits and ties. The table is filled with various dishes, and there are some plants in the background. The lighting is warm and cozy, suggesting an indoor setting, possibly a restaurant or a private dining room. One person is seen picking up food from a dish.\n\n**Audio:** There is a conversation happening among the people in the video. The dialogue includes phrases like \"to doll oh what like road off he was part\" and \"the doll family okay.\" The tone seems casual and friendly, with some laughter and normal conversation sounds."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 287.2642159461975
+    },
+    {
+      "comment_index": 6909,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "대박 As a British Indian - Gymkhana is incredible food. I can totally imagine how incredible that taste ... 맛있는 9:08 From now on Gulab Jamun is only going to be called Holy Balls",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 16.0,
+      "comment_timestamp": 548.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "539.0s - 545.0s",
+          "query": "**Visual:** The video shows two people sitting at a table filled with various food items, including what looks like pizza, pasta, and other dishes. They are dressed formally, one in a vest and tie, the other in a suit. The setting appears to be a cozy, dimly lit room with plants and a red wall in the background. The people are eating and interacting with each other, using utensils and occasionally looking at each other.\n\n**Audio:** There is background music playing throughout the video. No distinct speech or sound effects are heard."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "545.0s - 551.0s",
+          "query": "**Visual:** The video shows two people sitting at a table filled with various food items in black containers. The table is set with drinks, and there are plants and a red wall with the word \"JOLLY\" in the background. One person is wearing a white shirt with a vest, and the other is in a suit. They are eating and interacting with each other. The setting appears to be indoors, possibly in a restaurant or a similar dining area.\n\n**Audio:** There is a man speaking in the background, and his voice is clear and audible. The speech seems to be in English, and he is likely talking about something related to the scene, possibly commenting on the food or the situation."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "551.0s - 557.0s",
+          "query": "**Visual:** The video shows two people sitting at a table filled with various food items. They are eating from bowls, using utensils. The table has a variety of dishes, including what looks like fried chicken, pasta, and other side dishes. The background has a warm, cozy ambiance with plants and a sign that says \"JOLLY.\" There's also a lamp and some decorative items on the table.\n\n**Audio:** The audio includes a man speaking, though the content of his speech isn't clear from the provided information. There's also background music playing, which adds to the relaxed and casual atmosphere of the scene."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 393.9672734737396
+    },
+    {
+      "comment_index": 6910,
+      "video_id": "mbxxfVz8xBk",
+      "comment": "8:47 \"Oh, look at it, it's like dripping with honey.\" actually that's sugar syrup not honey :D",
+      "language": "en",
+      "channel_name": "Jolly",
+      "category": "culture",
+      "likes": 15.0,
+      "comment_timestamp": 527.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "518.0s - 524.0s",
+          "query": "**Visual:** The video shows two men sitting at a table filled with various food items. One man is wearing a suit and tie, holding a glass of what looks like a beverage, while the other is in a vest and tie, also holding a drink. The table is covered with dishes, including what seems to be pizza, pasta, and other foods. The background has a red wall with the word \"JOLLY\" in large letters, some plants, and a small TV or monitor. There's also a person in a black outfit with \"ADAM\" written on it standing in the background.\n\n**Audio:** The audio features a conversation between the two men. One of them comments on the strength of something, possibly referring to the drink, and mentions \"small six.\" The other responds with \"small six oh josh i just realized that's.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "524.0s - 530.0s",
+          "query": "**Visual:** The video shows two men sitting at a table filled with various dishes. One man is holding up a spoon with food on it close to the camera, while the other looks towards him. There's a red wall behind them with some plants and decorations.\n\n**Audio:** Someone is speaking, saying \"moving on yeah look at it it's like dripping.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "530.0s - 536.0s",
+          "query": "Visually, there are two people sitting at a table with various food items in front of them. One person is holding a fork with a piece of food, and the other is eating from a bowl. The table has different dishes, and the background seems to be a restaurant or dining area with some plants and a sign that says \"JOLLY\". The colors are warm, with reds and browns dominating the scene. There's some movement as the people are eating and interacting with the food.\n\nAudio-wise, there's a man speaking. He says, \"Annie, look at that, this looks phenomenal.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 212.96193480491638
+    }
+  ]
+}

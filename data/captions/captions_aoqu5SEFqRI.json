@@ -1,230 +1,609 @@
 {
   "video_id": "aoqu5SEFqRI",
   "total_comments": 20,
-  "successful_comments": 0,
-  "failed_comments": 20,
-  "success_rate": "0.0%",
-  "processing_time": 0.0037174224853515625,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 1920,
+      "comment_index": 5088,
       "video_id": "aoqu5SEFqRI",
       "comment": "5:43 \"are they (your siblings) happy?\" - \"I think I'm the happiest!\" Proceeds to cry",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 285.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "comment_timestamp": 343.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "334.0s - 340.0s",
+          "query": "**Visual:** The video shows a man wearing glasses on his head, dressed in a blue jacket over a white shirt. He appears to be speaking or reacting to something off-camera. His facial expression changes slightly throughout the clip.\n\n**Audio:** There is no discernible dialogue or background music; only the man's voice can be heard, though it is not clear enough to transcribe any specific words."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "340.0s - 346.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 9.59 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.41 GiB is free. Including non-PyTorch memory, this process has 19.14 GiB memory in use. Of the allocated memory 15.71 GiB is allocated by PyTorch, and 3.13 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "346.0s - 352.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 18.80 GiB. GPU 0 has a total capacity of 23.56 GiB of which 14.20 GiB is free. Including non-PyTorch memory, this process has 9.35 GiB memory in use. Of the allocated memory 6.81 GiB is allocated by PyTorch, and 2.23 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 24.236896991729736
     },
     {
-      "comment_index": 1921,
+      "comment_index": 5089,
       "video_id": "aoqu5SEFqRI",
       "comment": "3:01 Omg when that dude asked, \"What kind of pen do you use?\" LMAO. He looked so mad.",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 240.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "comment_timestamp": 181.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "172.0s - 178.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 12.28 GiB. GPU 0 has a total capacity of 23.56 GiB of which 8.06 GiB is free. Including non-PyTorch memory, this process has 15.49 GiB memory in use. Of the allocated memory 11.98 GiB is allocated by PyTorch, and 3.20 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "178.0s - 184.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 13.81 GiB. GPU 0 has a total capacity of 23.56 GiB of which 401.00 MiB is free. Including non-PyTorch memory, this process has 23.16 GiB memory in use. Of the allocated memory 20.25 GiB is allocated by PyTorch, and 2.60 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "184.0s - 190.0s",
+          "query": "**Visual:** The video shows two men sitting indoors. One man is bald with glasses on his head, wearing a blue jacket over a white shirt. He appears to be speaking or reacting to something off-camera. The other man has short hair and a beard, dressed in a gray sweater. There's a dark background behind them, possibly blinds covering windows.\n\n**Audio:** The audio includes dialogue from both men, though it's not clear what they're saying specifically. It seems like a conversation or discussion taking place between them."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 55.24075365066528
     },
     {
-      "comment_index": 1922,
+      "comment_index": 5090,
       "video_id": "aoqu5SEFqRI",
       "comment": "1:28 \"completely mesmerised by the magic\" *shows footage of man falling asleep*. :D",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 193.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "comment_timestamp": 88.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "79.0s - 85.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 7.21 GiB. GPU 0 has a total capacity of 23.56 GiB of which 401.00 MiB is free. Including non-PyTorch memory, this process has 23.16 GiB memory in use. Of the allocated memory 13.13 GiB is allocated by PyTorch, and 9.72 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "85.0s - 91.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 15.39 GiB. GPU 0 has a total capacity of 23.56 GiB of which 14.26 GiB is free. Including non-PyTorch memory, this process has 9.29 GiB memory in use. Of the allocated memory 6.56 GiB is allocated by PyTorch, and 2.43 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "91.0s - 97.0s",
+          "query": "**Visual:** The video shows a group of people sitting closely together indoors, possibly in an office or meeting room setting. They appear to be focused on something off-camera, suggesting they might be attending a presentation or listening to someone speak. The background includes windows with blinds.\n\n**Audio:** There is no discernible dialogue or music in the audio portion of the video; it seems to consist mainly of ambient noise from the environment where the people are seated."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 85.59662318229675
     },
     {
-      "comment_index": 1923,
+      "comment_index": 5091,
       "video_id": "aoqu5SEFqRI",
       "comment": "3:00 \"What kinda pen do you use?\" you mother-",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 133.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "comment_timestamp": 180.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "171.0s - 177.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 10.32 GiB. GPU 0 has a total capacity of 23.56 GiB of which 7.35 GiB is free. Including non-PyTorch memory, this process has 16.20 GiB memory in use. Of the allocated memory 10.92 GiB is allocated by PyTorch, and 4.97 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "177.0s - 183.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 12.32 GiB. GPU 0 has a total capacity of 23.56 GiB of which 1.94 GiB is free. Including non-PyTorch memory, this process has 21.61 GiB memory in use. Of the allocated memory 18.64 GiB is allocated by PyTorch, and 2.66 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "183.0s - 189.0s",
+          "query": "**Visual:** The video shows two men sitting indoors. One man is bald with glasses on his head, wearing a blue jacket over a white shirt. He looks to be speaking or reacting to something off-camera. The other man has short hair, a beard, and is dressed in a gray sweater. There's a window with blinds behind them.\n\n**Audio:** The main audio consists of someone talking, though it's not clear who they are or what they're saying due to the lack of context from the visuals alone. There doesn't seem to be any background music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 82.96897983551025
     },
     {
-      "comment_index": 1924,
+      "comment_index": 5092,
       "video_id": "aoqu5SEFqRI",
       "comment": "5:20 Imagine drawing something like this at school, and the teacher sees it.",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 113.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "comment_timestamp": 320.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "311.0s - 317.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 13.81 GiB. GPU 0 has a total capacity of 23.56 GiB of which 455.00 MiB is free. Including non-PyTorch memory, this process has 23.11 GiB memory in use. Of the allocated memory 20.25 GiB is allocated by PyTorch, and 2.55 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "317.0s - 323.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 24.56 GiB. GPU 0 has a total capacity of 23.56 GiB of which 14.26 GiB is free. Including non-PyTorch memory, this process has 9.29 GiB memory in use. Of the allocated memory 7.23 GiB is allocated by PyTorch, and 1.76 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "323.0s - 329.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.89 GiB. GPU 2 has a total capacity of 23.56 GiB of which 4.26 GiB is free. Including non-PyTorch memory, this process has 19.29 GiB memory in use. Of the allocated memory 14.91 GiB is allocated by PyTorch, and 4.06 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 125.17437720298767
     },
     {
-      "comment_index": 1925,
+      "comment_index": 5093,
       "video_id": "aoqu5SEFqRI",
       "comment": "1:28 guy falling asleep as the narration talks about the crowd being mesmerised",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 102.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "comment_timestamp": 88.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "79.0s - 85.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 7.21 GiB. GPU 0 has a total capacity of 23.56 GiB of which 7.05 GiB is free. Including non-PyTorch memory, this process has 16.50 GiB memory in use. Of the allocated memory 13.13 GiB is allocated by PyTorch, and 3.06 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "85.0s - 91.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 15.39 GiB. GPU 0 has a total capacity of 23.56 GiB of which 14.26 GiB is free. Including non-PyTorch memory, this process has 9.29 GiB memory in use. Of the allocated memory 6.56 GiB is allocated by PyTorch, and 2.43 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "91.0s - 97.0s",
+          "query": "**Visual:** The video shows a group of people sitting closely together indoors, possibly in an office or meeting room setting. They appear to be focused on something off-camera, suggesting they might be attending a presentation or listening to someone speak. The background includes windows with blinds.\n\n**Audio:** There is no discernible dialogue or music in the audio portion of the video; it seems to consist mainly of ambient noise from the environment where the people are seated."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 179.40124320983887
     },
     {
-      "comment_index": 1926,
+      "comment_index": 5094,
       "video_id": "aoqu5SEFqRI",
       "comment": "11:53 he didnt even stop his line while he wasn't looking..",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 56.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "comment_timestamp": 713.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "704.0s - 710.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 12.28 GiB. GPU 0 has a total capacity of 23.56 GiB of which 7.35 GiB is free. Including non-PyTorch memory, this process has 16.20 GiB memory in use. Of the allocated memory 11.98 GiB is allocated by PyTorch, and 3.91 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "710.0s - 716.0s",
+          "query": "**Visual:** A man is sitting at a desk, writing on a green notebook with a pen. He's wearing a blue jacket over a white shirt. On the desk, there are glasses, a black bag, some papers, and other small items. The background shows dark blinds and a gray wall.\n\n**Audio:** There is no audible speech or music in the audio. The only sound heard is the soft scratching of the pen against the paper as the man writes."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "716.0s - 722.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.36 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.63 GiB is free. Including non-PyTorch memory, this process has 16.92 GiB memory in use. Of the allocated memory 14.37 GiB is allocated by PyTorch, and 2.24 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 35.42895317077637
     },
     {
-      "comment_index": 1927,
+      "comment_index": 5095,
       "video_id": "aoqu5SEFqRI",
       "comment": "his face tho, when someone ask what kind of brush u  use 3:00",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 52.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "comment_timestamp": 180.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "171.0s - 177.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 10.32 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.63 GiB is free. Including non-PyTorch memory, this process has 16.92 GiB memory in use. Of the allocated memory 10.92 GiB is allocated by PyTorch, and 5.69 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "177.0s - 183.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 12.32 GiB. GPU 0 has a total capacity of 23.56 GiB of which 2.66 GiB is free. Including non-PyTorch memory, this process has 20.89 GiB memory in use. Of the allocated memory 18.64 GiB is allocated by PyTorch, and 1.93 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "183.0s - 189.0s",
+          "query": "**Visual:** The video shows two men sitting indoors. One man is bald with glasses on his head, wearing a blue jacket over a white shirt. He looks to be speaking or reacting to something off-camera. The other man has short hair, a beard, and is dressed in a gray sweater. There's a window with blinds behind them.\n\n**Audio:** The main audio consists of someone talking, though it's not clear who they are or what they're saying due to the lack of context from the visuals alone. There doesn't seem to be any background music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 89.22672605514526
     },
     {
-      "comment_index": 1928,
+      "comment_index": 5096,
       "video_id": "aoqu5SEFqRI",
       "comment": "8:21 he drew \"The Pit\" mission from Call of Duty MW2!",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 47.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "comment_timestamp": 501.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "492.0s - 498.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 13.81 GiB. GPU 0 has a total capacity of 23.56 GiB of which 1.17 GiB is free. Including non-PyTorch memory, this process has 22.38 GiB memory in use. Of the allocated memory 20.25 GiB is allocated by PyTorch, and 1.82 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "498.0s - 504.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.26 GiB. GPU 0 has a total capacity of 23.56 GiB of which 1.17 GiB is free. Including non-PyTorch memory, this process has 22.38 GiB memory in use. Of the allocated memory 18.47 GiB is allocated by PyTorch, and 3.60 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "504.0s - 510.0s",
+          "query": "**Visual:** The video shows a detailed sketch of a group of soldiers in combat gear, with one soldier prominently holding a rifle aimed forward. The scene is monochromatic, emphasizing lines and details rather than color.\n\n**Audio:** There is no discernible dialogue or sound effects; the audio consists solely of background noise, likely from the environment where the video was recorded."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 28.377479076385498
     },
     {
-      "comment_index": 1929,
+      "comment_index": 5097,
       "video_id": "aoqu5SEFqRI",
       "comment": "1:27 HOMEBOY JUST EATING A WHOLE BREAD WHILE CHILLIN",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 39.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "comment_timestamp": 87.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "78.0s - 84.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 12.28 GiB. GPU 0 has a total capacity of 23.56 GiB of which 1.17 GiB is free. Including non-PyTorch memory, this process has 22.38 GiB memory in use. Of the allocated memory 11.98 GiB is allocated by PyTorch, and 10.09 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "84.0s - 90.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 13.81 GiB. GPU 0 has a total capacity of 23.56 GiB of which 1.17 GiB is free. Including non-PyTorch memory, this process has 22.38 GiB memory in use. Of the allocated memory 20.25 GiB is allocated by PyTorch, and 1.82 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "90.0s - 96.0s",
+          "query": "**Visual:** The video shows a group of people sitting closely together indoors, possibly in an auditorium or conference room. They appear to be focused on something happening off-camera, perhaps a presentation or performance. The setting has large windows with blinds partially open, allowing some light into the room.\n\n**Audio:** There is no discernible dialogue or music in the audio portion of the video; it seems to consist mainly of background noise from the environment where the people are seated."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 54.963300943374634
     },
     {
-      "comment_index": 1930,
+      "comment_index": 5098,
       "video_id": "aoqu5SEFqRI",
       "comment": "11:55 - This is how you get better. It's not a memory trick, it's just repetition and experimentation combined with meticulous study of shapes, anatomy and mechanisms (biological or otherwise).",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 34.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "comment_timestamp": 715.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "706.0s - 712.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.36 GiB. GPU 0 has a total capacity of 23.56 GiB of which 1.17 GiB is free. Including non-PyTorch memory, this process has 22.38 GiB memory in use. Of the allocated memory 14.37 GiB is allocated by PyTorch, and 7.70 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "712.0s - 718.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.26 GiB. GPU 0 has a total capacity of 23.56 GiB of which 1.17 GiB is free. Including non-PyTorch memory, this process has 22.38 GiB memory in use. Of the allocated memory 18.47 GiB is allocated by PyTorch, and 3.60 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "718.0s - 724.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 2 has a total capacity of 23.56 GiB of which 4.75 GiB is free. Including non-PyTorch memory, this process has 18.80 GiB memory in use. Of the allocated memory 11.07 GiB is allocated by PyTorch, and 7.42 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 149.0429801940918
     },
     {
-      "comment_index": 1931,
+      "comment_index": 5099,
       "video_id": "aoqu5SEFqRI",
       "comment": "ok... so we are not gonna talk about that? 7:22 suprised to see a woman eatin a guys bum on a youtube video",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 32.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "comment_timestamp": 442.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "433.0s - 439.0s",
+          "query": "**Visual:** The video shows an open sketchbook with various detailed black-and-white drawings of different figures. These sketches depict people in various poses, some sitting at tables, others standing or lying down. There's also a scene where two figures appear to be interacting closely.\n\n**Audio:** No distinct audio elements are present; it is silent throughout the clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "439.0s - 445.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.26 GiB. GPU 0 has a total capacity of 23.56 GiB of which 1.17 GiB is free. Including non-PyTorch memory, this process has 22.38 GiB memory in use. Of the allocated memory 18.47 GiB is allocated by PyTorch, and 3.60 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "445.0s - 451.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 10.91 GiB. GPU 0 has a total capacity of 23.56 GiB of which 1.17 GiB is free. Including non-PyTorch memory, this process has 22.38 GiB memory in use. Of the allocated memory 17.13 GiB is allocated by PyTorch, and 4.94 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 68.66648125648499
     },
     {
-      "comment_index": 1932,
+      "comment_index": 5100,
       "video_id": "aoqu5SEFqRI",
       "comment": "13:49 is the most heartbreaking thing I have ever heard. I would not be drawing without kim Jung gi. I owe my life to kim Jung gi❤ rest in peace. You were truly the best to ever do it",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 25.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "comment_timestamp": 829.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "820.0s - 826.0s",
+          "query": "**Visual:** The video shows a man with glasses on his head, wearing a blue jacket over a white shirt. He appears to be speaking or reacting to something off-camera. There's also an illustration of a busy indoor scene with people walking around, tables, chairs, and various objects like vases.\n\n**Audio:** A voice is heard saying, \"I hope that I don't lose that sense of joy for a long time.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "826.0s - 832.0s",
+          "query": "**Visual:** The video shows a man with glasses standing against a dark background. He is wearing a blue jacket over a white shirt. His expression appears neutral or slightly serious.\n\n**Audio:** There is no discernible dialogue or music in the audio portion of the video. It seems to be silent during these six seconds."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "832.0s - 838.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.26 GiB. GPU 0 has a total capacity of 23.56 GiB of which 1.17 GiB is free. Including non-PyTorch memory, this process has 22.38 GiB memory in use. Of the allocated memory 18.47 GiB is allocated by PyTorch, and 3.60 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 210.65112853050232
     },
     {
-      "comment_index": 1933,
+      "comment_index": 5101,
       "video_id": "aoqu5SEFqRI",
       "comment": "6:19 I swear that's him eating out the girl",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 22.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "comment_timestamp": 379.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "370.0s - 376.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 17.05 GiB. GPU 0 has a total capacity of 23.56 GiB of which 14.98 GiB is free. Including non-PyTorch memory, this process has 8.57 GiB memory in use. Of the allocated memory 6.68 GiB is allocated by PyTorch, and 1.58 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "376.0s - 382.0s",
+          "query": "**Visual:** The video shows a detailed black-and-white sketch of multiple figures engaged in various activities. Some appear to be interacting with each other, while others seem focused on individual tasks or objects. There's a sense of movement and interaction among the characters.\n\n**Audio:** The audio includes background music that adds an atmospheric element to the scene. No specific dialogue is heard within these six seconds."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "382.0s - 388.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 12.28 GiB. GPU 0 has a total capacity of 23.56 GiB of which 10.03 GiB is free. Including non-PyTorch memory, this process has 13.52 GiB memory in use. Of the allocated memory 11.98 GiB is allocated by PyTorch, and 1.23 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 30.642637729644775
     },
     {
-      "comment_index": 1934,
+      "comment_index": 5102,
       "video_id": "aoqu5SEFqRI",
       "comment": "7:21 Im sure i would find that in rule 34",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 20.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "comment_timestamp": 441.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "432.0s - 438.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 119.75 GiB. GPU 0 has a total capacity of 23.56 GiB of which 8.77 GiB is free. Including non-PyTorch memory, this process has 14.78 GiB memory in use. Of the allocated memory 13.74 GiB is allocated by PyTorch, and 745.38 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "438.0s - 444.0s",
+          "query": "**Visual:** The video shows an open sketchbook with various detailed drawings of women in different poses and outfits. Some sketches depict women in dynamic action poses, while others show them in more relaxed or intimate positions. There's also a black-and-white drawing of a man sitting at a table.\n\n**Audio:** No distinct audio elements are present; it is silent throughout the clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "444.0s - 450.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 9.59 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.67 GiB is free. Including non-PyTorch memory, this process has 16.88 GiB memory in use. Of the allocated memory 15.71 GiB is allocated by PyTorch, and 888.22 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 28.189016580581665
     },
     {
-      "comment_index": 1935,
+      "comment_index": 5103,
       "video_id": "aoqu5SEFqRI",
       "comment": "10:22 \"instead of drawing a sketch book , i would just sit there inside of a hot tub and i'll just watch how people scrub their back.\"   yeah seem about right",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 19.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "comment_timestamp": 622.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "613.0s - 619.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 12.28 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.67 GiB is free. Including non-PyTorch memory, this process has 16.88 GiB memory in use. Of the allocated memory 11.98 GiB is allocated by PyTorch, and 4.59 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "619.0s - 625.0s",
+          "query": "**Visual:** The video shows an intricate black-and-white drawing that appears to be a detailed sketch or illustration. It features various abstract shapes, patterns, and possibly some figures or characters intertwined within the design. The lines are complex and densely packed, creating a visually busy scene.\n\n**Audio:** There is no discernible dialogue or spoken words in the audio portion of the video. However, there might be background music playing, which could contribute to the overall atmosphere of the scene. The lack of clear speech suggests it's more likely instrumental or ambient music rather than any specific lyrics or conversation."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "625.0s - 631.0s",
+          "query": "**Visual:** The video shows two people sitting on chairs facing a whiteboard. One person is drawing on the board with a pen while the other watches. There's also some abstract black-and-white artwork visible in the background.\n\n**Audio:** The audio includes conversation between the two individuals, though it's not entirely clear what they're discussing. There's no distinct music or sound effects; the focus seems to be on their interaction and the drawing process."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 38.4961371421814
     },
     {
-      "comment_index": 1936,
+      "comment_index": 5104,
       "video_id": "aoqu5SEFqRI",
       "comment": "2:56 that killed me broo🤣🤣🤣",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 16.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "comment_timestamp": 176.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "167.0s - 173.0s",
+          "query": "**Visual:** The video shows a bald man wearing glasses, a blue jacket over a white shirt, and a brown vest. He is speaking directly to the camera against a dark background. His facial expressions change slightly as he speaks.\n\n**Audio:** There is no background music or sound effects; only the man's voice can be heard clearly."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "173.0s - 179.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 7.21 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.67 GiB is free. Including non-PyTorch memory, this process has 16.88 GiB memory in use. Of the allocated memory 13.13 GiB is allocated by PyTorch, and 3.44 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "179.0s - 185.0s",
+          "query": "Sure! Here's a breakdown:.Visually, there s a man drawing on a whiteboard with a marker. He seems focused on his work, and there are other people around him who might be observing or participating in some way.Audibly, he speaks while drawing, possibly explaining something or narrating his process. There aren t any distinct background noises that stand out.What do you think about it? Do you have any specific questions regarding these observations?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 88.02628350257874
     },
     {
-      "comment_index": 1937,
+      "comment_index": 5105,
       "video_id": "aoqu5SEFqRI",
       "comment": "2:58 that face",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 16.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "comment_timestamp": 178.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "169.0s - 175.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 6.91 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.67 GiB is free. Including non-PyTorch memory, this process has 16.88 GiB memory in use. Of the allocated memory 9.07 GiB is allocated by PyTorch, and 7.51 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "175.0s - 181.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 9.59 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.67 GiB is free. Including non-PyTorch memory, this process has 16.88 GiB memory in use. Of the allocated memory 15.71 GiB is allocated by PyTorch, and 888.16 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "181.0s - 187.0s",
+          "query": "**Visual:** The video shows a man drawing on a whiteboard with a marker. He is wearing glasses and a jacket over a t-shirt. There are other people partially visible in the background, suggesting a group setting or workshop environment.\n\n**Audio:** The audio contains some form of speech, likely instructions or commentary related to the drawing activity. However, without specific content, it's hard to determine the exact nature of the dialogue."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 36.37004828453064
     },
     {
-      "comment_index": 1938,
+      "comment_index": 5106,
       "video_id": "aoqu5SEFqRI",
-      "comment": "5:25 casually takes out a sniper in class",
+      "comment": "3:30 - 5:10 i wish my parents encouraged me.. Instead of turning a blind eye and saying \"some ppl can draw and some cant\"",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
-      "likes": 13.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "likes": 15.0,
+      "comment_timestamp": 310.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "301.0s - 307.0s",
+          "query": "Sure! Let's break it down into two parts:.Visually, there is a man wearing glasses on his head, dressed in a blue jacket over a white shirt. He seems to be speaking or reacting to something, with slight movements of his head and mouth.Audibly, he is talking, though the specific words aren't clear from just the description. There doesn't seem to be any background noise or other distinct sounds."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "307.0s - 313.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.36 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.67 GiB is free. Including non-PyTorch memory, this process has 16.88 GiB memory in use. Of the allocated memory 14.37 GiB is allocated by PyTorch, and 2.20 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "313.0s - 319.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 17.05 GiB. GPU 0 has a total capacity of 23.56 GiB of which 16.26 GiB is free. Including non-PyTorch memory, this process has 7.29 GiB memory in use. Of the allocated memory 6.68 GiB is allocated by PyTorch, and 311.23 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 99.49393057823181
     },
     {
-      "comment_index": 1939,
+      "comment_index": 5107,
       "video_id": "aoqu5SEFqRI",
       "comment": "7:55 \"When my kids want to draw, I give them MY SKETCHBOOK \" Holy crapsidoodle, I wouldn't even let other artists draw in my sketchbook xD",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 13.0,
-      "error": "Video file not found: aoqu5SEFqRI",
-      "analysis_type": "failed"
+      "comment_timestamp": 475.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "466.0s - 472.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 15.39 GiB. GPU 0 has a total capacity of 23.56 GiB of which 887.00 MiB is free. Including non-PyTorch memory, this process has 22.68 GiB memory in use. Of the allocated memory 21.94 GiB is allocated by PyTorch, and 439.02 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "472.0s - 478.0s",
+          "query": "**Visual:** The video shows a man wearing glasses and a blue jacket over a white shirt. He is bald and has some facial hair. There's also an open sketchbook with various line drawings inside.\n\n**Audio:** The man speaks throughout the video, though no specific words or phrases can be discerned from the provided information. There doesn't seem to be any background music or sound effects mentioned."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "478.0s - 484.0s",
+          "query": "**Visual:** The video shows an open sketchbook with various line drawings on its pages. The sketches depict different figures and scenes, including a person holding a camera and another figure sitting down. The background is plain white.\n\n**Audio:** There is no audible dialogue or music in the video; it consists solely of ambient noise."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 52.14866828918457
     }
   ]
 }

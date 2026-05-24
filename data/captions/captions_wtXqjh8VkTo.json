@@ -1,0 +1,609 @@
+{
+  "video_id": "wtXqjh8VkTo",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 7742,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "1:34 “Is that Thor?”      I died😂",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 579.0,
+      "comment_timestamp": 94.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "85.0s - 91.0s",
+          "query": "Visually, there's a dark room with some equipment and a person in a camo shirt. There's also a small inset showing another person. The room seems to have some kind of machinery or setup. The person in the camo shirt is standing still, and the other person in the inset is also mostly stationary. The overall color scheme is dark with some blue lighting.\n\nIn terms of audio, there's a sound effect that starts around 1.5 seconds into the video. It's a kind of whoosh or swoosh sound. There's also some background noise, but it's not very clear."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "91.0s - 97.0s",
+          "query": "Visually, there's a person in a brown outfit with a blue patch on the back, walking forward. There's also a smaller inset image of a woman in a camouflage top. The background is dark with some light elements. The person seems to be moving steadily forward.Audibly, there's a sound effect that resembles a door opening or closing."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "97.0s - 103.0s",
+          "query": "Visual: The video shows an animated character with long blonde hair wearing a yellow outfit. There's also another character visible in the background, partially obscured. The setting seems to be indoors, possibly a room or a stage with some lighting effects.\n\nAudio: There is laughter heard throughout the audio clip."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 247.75724291801453
+    },
+    {
+      "comment_index": 7743,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "5:03 THATS ACTUALLY A JOJOS REFERENCE",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 160.0,
+      "comment_timestamp": 303.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "294.0s - 300.0s",
+          "query": "**Visual:** The video shows a person in a room with a blue background. There's a character model displayed on the screen, labeled as \"Legendary | Outfit Vendetta.\" The person appears to be reacting to something, possibly the character model, with gestures like clapping and pointing. The room has some furniture and a window in the background.\n\n**Audio:** The audio includes speech, likely commentary or reaction, and applause. There's also background music playing throughout the segment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "300.0s - 306.0s",
+          "query": "Visual: The video shows a person in a room with a bed and some furniture. There's also an image of a character from a game, labeled \"LEGENDARY | OUTFIT VENDETTA.\" The person seems to be reacting to something, possibly the game character. The room has a blue wall and some items scattered around. Audio: There's music playing in the background, and someone is speaking, saying \"don't know if it's my favorite like 100.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "306.0s - 312.0s",
+          "query": "Visual: The video shows a woman in a room with a bed and some furniture. She's wearing a patterned top and seems to be talking or reacting to something. There are also some icons and text on the screen, possibly related to a game or app. The colors are mostly neutral, with some blue and yellow elements. The woman is mostly stationary, but there's some slight movement as she talks or reacts. There's also a cartoonish image of a face with a big smile and a tongue sticking out, which appears to be part of the video's content.\n\nAudio: There's a woman speaking in the video. The speech is in English and seems to be casual conversation or commentary. There's also background music playing throughout the video."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 328.2812535762787
+    },
+    {
+      "comment_index": 7744,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "4:48 rip my nintendog that i haven't fed since 2007 :(",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 86.0,
+      "comment_timestamp": 288.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "279.0s - 285.0s",
+          "query": "Visually, there's a woman in a room with a bed and some pillows in the background. She's wearing a patterned top and seems to be talking or explaining something. There are also some cartoonish characters on the right side of the screen, like a robot and a bearded man. The colors are mostly muted, with the woman's top having some brighter colors. The movement is mainly the woman's hand gestures as she speaks.\n\nAudio - There's a woman speaking, but the content of her speech isn't clear from this short segment. There's no distinct music or sound effects, just her voice."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "285.0s - 291.0s",
+          "query": "**Visual:** The video shows a split-screen. On the left, there's a person in a room with a bed and some furniture in the background. On the right, there are animated characters from a game, including a banana character and others in futuristic outfits. The right side also has a progress bar and some numbers indicating levels or achievements.\n\n**Audio:** There's a woman speaking in the background, and the audio seems to be from a video game or a stream."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "291.0s - 297.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.86 GiB is free. Including non-PyTorch memory, this process has 15.69 GiB memory in use. Of the allocated memory 13.60 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 342.1321713924408
+    },
+    {
+      "comment_index": 7745,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "1:49 The banana is fricking smiling?!",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 64.0,
+      "comment_timestamp": 109.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "100.0s - 106.0s",
+          "query": "Visually, there's a person in a yellow outfit with a hood, standing in a room. There's also a smaller inset showing another person in a different setting. The main person seems to be adjusting their hood. The room has some furniture and objects in it. The colors are mostly muted, with the yellow outfit standing out. There's some movement as the main person adjusts their hood and the camera focuses on different parts of the scene.Audibly, there's a woman speaking. She seems to be expressing some hesitation or reluctance about something, possibly related to what she sees in the video."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "106.0s - 112.0s",
+          "query": "Oh, okay. So, in the video, there's a woman in a camouflage shirt. She's sitting in a room with some furniture like a couch and a table. There's also a drink with a straw and a banana slice on top. Then, there's a scene with some characters that look like they're from a video game or something. They're standing together, and one of them is holding a gun. The colors are pretty bright, like the blue sky in the background. For the audio, it's mostly just the woman talking, and there's some background music playing. There aren't any sound effects or anything like that. What do you think about it?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "112.0s - 118.0s",
+          "query": "Visual: The video shows a large sign with the text \"THE FUTURE IS YOURS\" in bright colors, mainly blue and pink. There's also a smaller inset image of a person in the bottom left corner. The background seems to be a mix of blue and purple hues, giving a futuristic feel. The sign has some glowing elements around it, enhancing the futuristic look. The person in the inset appears to be talking or presenting something, but their face is not clearly visible.\n\nAudio: The main audio is a woman speaking. She says, \"low-worry some just saying the future is yours.\" There's also background music playing throughout the video, which adds to the overall atmosphere."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 275.9727158546448
+    },
+    {
+      "comment_index": 7746,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "8:05, intense moment with the keyboard",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 41.0,
+      "comment_timestamp": 485.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "476.0s - 482.0s",
+          "query": "Visually, there's a person in a video game environment. They seem to be in a combat situation, wielding a weapon and moving around. The game's graphics are colorful, with a mix of greens, blues, and other hues. There are also some on-screen indicators like health bars and a mini-map. The person is actively engaging in the game, possibly shooting or preparing to shoot. There's also a small inset showing another person, likely a streamer or commentator, reacting to the game. The scene is fast-paced, with lots of movement and action.Audibly, there are sound effects of gunfire and possibly explosions. There's also music playing in the background, adding to the intensity of the scene. The speech from the inset person is likely commentary or reactions to the gameplay."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "482.0s - 488.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.85 GiB is free. Including non-PyTorch memory, this process has 15.70 GiB memory in use. Of the allocated memory 13.60 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "488.0s - 494.0s",
+          "query": "Visually, there's a person in a room, possibly a bedroom, with a bed and some items around. The person seems to be reacting to something, maybe in a surprised or shocked way. There are also some objects like a green bag with items sticking out of it. The scene is indoors, and the lighting is normal for a room.\n\nIn terms of audio, there's a woman speaking. She seems to be talking about something she built to block someone, but it didn't work out as expected. The tone of her voice suggests disappointment or frustration."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 305.8134331703186
+    },
+    {
+      "comment_index": 7747,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "4:19 its me but hot and with red eyes",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 31.0,
+      "comment_timestamp": 259.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "250.0s - 256.0s",
+          "query": "**Visual:** The video shows a character in a red outfit with a black belt and gloves. The character has a bun hairstyle and is standing against a blue background with white stars. There are icons on the left side of the screen, some of which are locked. The character is not moving much, just standing still.\n\n**Audio:** The audio includes music playing in the background. There are no spoken words or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "256.0s - 262.0s",
+          "query": "Visually, there's a woman in a red outfit against a blue background with white stars. She has dark hair with red streaks. There's also a person in a striped shirt sitting on a bed, looking surprised or shocked. The scene seems to be indoors, possibly in a bedroom. There are some icons and numbers on the screen, like \"26\", \"80\", \"81\", \"82\", \"83\", \"84\", \"85\", and \"100\".Audio: There's music playing in the background."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "262.0s - 268.0s",
+          "query": "**Visual:** The video shows a split-screen. On the left, there's a person with long hair, wearing a patterned top, seemingly reacting to something. On the right, there's an animated character in a red outfit, standing against a blue background. The animated character is mostly stationary, but there's a slight movement as if it's walking or posing. The overall color scheme is quite vibrant, with the red outfit and blue background contrasting nicely.\n\n**Audio:** There's a woman speaking in the background. Her voice is calm and measured, and she seems to be explaining something. The speech is clear and easy to understand. There are no other distinct sounds or music in the audio."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 274.4057967662811
+    },
+    {
+      "comment_index": 7748,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "2:47 poke and thiccc moments",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 29.0,
+      "comment_timestamp": 167.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "158.0s - 164.0s",
+          "query": "Visual: The video shows a person sitting in front of a computer screen. The screen displays a game interface with a \"Battle Pass\" upgrade notification. There are various icons and images on the screen, including a character figure and some colorful elements. The person appears to be reacting to the game interface, possibly talking or making gestures. The background seems to be a room with some furniture and a bed.\n\nAudio: There is a woman speaking in the background. Her speech is clear and seems to be related to the game or the situation on the screen. There is no music or other sound effects in the audio."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "164.0s - 170.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.86 GiB is free. Including non-PyTorch memory, this process has 15.69 GiB memory in use. Of the allocated memory 13.60 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "170.0s - 176.0s",
+          "query": "Oh, it sounds like you're describing a pretty cool video! For the visual part, it seems like there's a red spaceship or vehicle with some blue and white accents. There are also some icons or symbols around it, like a star and a brick-like pattern. The background is mostly blue with some stars, giving it a space-like feel. For the audio, it sounds like there's a voiceover saying \"This one's sick as hell, true.\" and then some kind of sound effect or music that follows. What do you think about it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 308.2480661869049
+    },
+    {
+      "comment_index": 7749,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "3:02 Tfue Congratulations You`ve Just been Recked By Pokimane",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 23.0,
+      "comment_timestamp": 182.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "173.0s - 179.0s",
+          "query": "Visual: The video shows a character in a video game, specifically a female character with long blonde hair, wearing a green top and brown pants. She's holding a weapon and appears to be in a combat stance. There's also a smaller inset image of a woman in a room, possibly reacting to the game. The background is a blue brick wall with some text and icons related to the game. The character seems to be moving slightly, suggesting some action in the game.\n\nAudio: There's a woman speaking in the background, and the words \"I love this\" are clearly audible. The speech is accompanied by music playing throughout the video."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "179.0s - 185.0s",
+          "query": "Sure! So, in the video, there's a character with long blonde hair and a beard, wearing a black outfit with some colorful details. They're standing in a blue background. There's also a smaller image of a woman in a room with a bed and some furniture.On the audio side, there's laughter and some music playing in the background.Anything else you want to know about the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "185.0s - 191.0s",
+          "query": "**Visual:** The video shows a character in a blue outfit with a red and blue backpack. There are various icons and text on the screen, suggesting it might be from a game or an app. The background is mostly blue. There's also a smaller inset image of a person with long hair, wearing a colorful outfit, sitting and smiling.\n\n**Audio:** The audio includes speech, likely from the person in the inset image, and some background music. The speech seems to be in English, and there are no distinct sound effects or ambient sounds."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 279.6668882369995
+    },
+    {
+      "comment_index": 7750,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "2:35 hahah that Naruto music got me again 😂😆😁",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 22.0,
+      "comment_timestamp": 155.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "146.0s - 152.0s",
+          "query": "Sure! So, visually, there's someone holding an axe with a blue background. There s also another person sitting on a couch in a smaller inset frame. The scene seems to be indoors, maybe in a living room.The audio has some music playing softly in the background.Anything else you want to know about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "152.0s - 158.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.76 GiB is free. Including non-PyTorch memory, this process has 15.79 GiB memory in use. Of the allocated memory 13.63 GiB is allocated by PyTorch, and 1.85 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "158.0s - 164.0s",
+          "query": "Visual: The video shows a person sitting in front of a computer screen. The screen displays a game interface with a \"Battle Pass\" upgrade notification. There are various icons and images on the screen, including a character figure and some colorful elements. The person appears to be reacting to the game interface, possibly talking or making gestures. The background seems to be a room with some furniture and a bed.\n\nAudio: There is a woman speaking in the background. Her speech is clear and seems to be related to the game or the situation on the screen. There is no music or other sound effects in the audio."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 272.7609498500824
+    },
+    {
+      "comment_index": 7751,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "nintendo dogs song aaaaaa i miss those days <3 4:53 for example",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 22.0,
+      "comment_timestamp": 293.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "284.0s - 290.0s",
+          "query": "**Visual:** The video shows a person in a room with a bed and some furniture in the background. They are wearing a patterned shirt and appear to be talking or reacting to something. There are also images of characters from a game displayed on the screen, including a banana character and other figures. The game interface shows levels and icons.\n\n**Audio:** The audio includes speech, likely from the person in the video, and some background music. There are also sound effects, possibly related to the game being shown on the screen."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "290.0s - 296.0s",
+          "query": "**Visual:** The video shows a character in a futuristic, armored suit with red and metallic accents. The suit has a helmet with a red visor. There's also a smaller inset image of a person in a casual outfit, sitting and talking. The background is a solid blue color. The text \"LEGENDARY | OUTFIT VENDETTA\" is displayed at the bottom.\n\n**Audio:** The audio includes a woman speaking, saying \"no bad dope I like that okay yeah.\" There's also background music playing throughout the segment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "296.0s - 302.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 3.80 GiB. GPU 1 has a total capacity of 23.56 GiB of which 3.58 GiB is free. Including non-PyTorch memory, this process has 19.97 GiB memory in use. Of the allocated memory 15.90 GiB is allocated by PyTorch, and 3.76 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 314.4532380104065
+    },
+    {
+      "comment_index": 7752,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "10:36i hear He saying I need a banana",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 22.0,
+      "comment_timestamp": 636.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "627.0s - 633.0s",
+          "query": "**Visual:** The video shows a first-person perspective of someone playing a video game. The player is in a snowy environment, possibly a winter-themed map. There are various game elements visible, like health bars, a mini-map, and inventory slots. The player seems to be moving around, possibly exploring or preparing for combat. There are also some other characters or NPCs in the scene, but they are not the main focus.\n\n**Audio:** The audio includes the sound of gunshots, which suggests that the game involves combat. There's also some background music playing, adding to the atmosphere of the game. The gunshots are quite prominent, indicating that they are a significant part of the gameplay."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "633.0s - 639.0s",
+          "query": "**Visual:** The video shows a first-person view of someone playing a video game, likely a battle royale game. The player is in a snowy environment, moving through a structure with wooden beams and snow-covered surfaces. There are other players visible, some of whom are engaged in combat. The player seems to be using a weapon, possibly a gun, and there are health and ammo indicators on the screen. The overall color scheme is dominated by whites and blues due to the snow and sky.\n\n**Audio:** The audio includes the player's voice, saying \"I got one, I got one, I got one, I got one, don't worry.\" There are also sound effects of gunfire and footsteps, indicating movement and combat. The background has a faint, ambient sound, possibly from the game's environment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "639.0s - 645.0s",
+          "query": "**Visual:** The video shows someone playing Fortnite. There's a character in red armor moving around in a wooden structure. You can see various game interface elements like health bars, weapon icons, and a mini-map.\n\n**Audio:** There are gunshots heard throughout, indicating combat or action within the game. Some background music is also audible."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 238.76613640785217
+    },
+    {
+      "comment_index": 7753,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "2:45-2:47  “Congratulations” (Poki screamed Girl “ok”  Me: lol",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 21.0,
+      "comment_timestamp": 165.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "156.0s - 162.0s",
+          "query": "**Visual:** The video shows a screen with a \"Battle Pass Upgraded!\" message. There are icons and images related to the game, including a character figure. A person is visible in a small inset, seemingly reacting to the game screen. The background is blue.\n\n**Audio:** There is speech from the person in the inset, but the content is unclear. There is also background music playing throughout the video."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "162.0s - 168.0s",
+          "query": "**Visual:** The video shows a person in a room with a bed and some furniture. There are colorful squares on the right side of the screen. The person seems to be reacting to something, possibly a game or a challenge. The colors are bright and varied, like a rainbow. There's also a deflating balloon visible.\n\n**Audio:** There's a mix of speech, music, and sound effects. The speech is unclear but seems to be part of a conversation or commentary. The music is upbeat and energetic. The sound effects include a deflating balloon and some other noises that might be related to the game or challenge."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "168.0s - 174.0s",
+          "query": "Visually, there's a blue background with a shield icon at the top left. The text \"Battle Pass UPGRADED!\" is displayed prominently. Below, there are images of different items, like a character in a camouflage outfit, a gun, and a red glider labeled \"TURBO SPIN\". There are also some icons and numbers indicating progress. The overall color scheme is blue and red with some white text and icons. There's a person in the background, but they're not the main focus. The movement is mainly the display of the items and text on the screen. The audio includes a voice saying \"no this one's sick as hell too\" and some background music."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 275.0304353237152
+    },
+    {
+      "comment_index": 7754,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "4:59 I REMEMBER THAT SONG I WAS PLAYING NINTENDO DOGS BACK IN THE 2000 THE NOSTALGIA IS REAL (sorry i got really excited there)",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 20.0,
+      "comment_timestamp": 299.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "290.0s - 296.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.86 GiB is free. Including non-PyTorch memory, this process has 15.69 GiB memory in use. Of the allocated memory 13.60 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "296.0s - 302.0s",
+          "query": "Visual: The video shows a character in a futuristic outfit with a predominantly metallic and blue color scheme. The character is standing against a blue background. There's also a smaller inset image of a person with long hair, wearing a patterned top, sitting in what looks like a room with a couch and some furniture. The text \"LEGENDARY | OUTFIT VENDETTA\" is displayed at the bottom of the screen.\n\nAudio: The audio includes music playing in the background and applause heard at the end of the segment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "302.0s - 308.0s",
+          "query": "Visually, there's a woman in a camouflage-patterned top. She seems to be in a room with a bed and some furniture in the background. There's also a cartoonish face with an angry expression and a finger to its lips, which appears to be a meme or sticker. The colors are mostly muted, with the camouflage pattern standing out. The movement is mainly the woman talking and gesturing, and the cartoon face is static but prominent.Audibly, there's a woman speaking, and it sounds like she's talking about something related to a \"favorite\" and \"skin.\" There's also background music playing throughout the clip."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 310.233838558197
+    },
+    {
+      "comment_index": 7755,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "5:43 I CRINGED SO HARD!!!!",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 17.0,
+      "comment_timestamp": 343.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "334.0s - 340.0s",
+          "query": "Visual: The video shows a character in red attire performing an emote labeled \"FREE FLOW\" on a blue background. There's also a smaller inset showing someone reacting to something off-screen.\n\nAudio: Background music is playing throughout the clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "340.0s - 346.0s",
+          "query": "Visually, there are two women in the video. One is wearing a red outfit and posing confidently, while the other is in a more casual outfit and seems to be talking or reacting to something. The background is a blue screen with some text and icons, like \"CHALLENGE\" and \"LOCKER\". There are also some small images or icons on the left side of the screen. The overall scene looks like it could be from a video game or a virtual setting.\n\nIn terms of audio, there's music playing throughout the video. There's also a short segment of speech, but it's not clear what's being said."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "346.0s - 352.0s",
+          "query": "Visually, there's someone playing Fortnite in a split-screen setup. On one side is the game interface with health bars, weapons, and a mini-map showing \"SALT SPRING.\" The player seems to be in combat or preparing for it. On the other side, there's a person reacting to the gameplay, likely streaming or commenting on it. There are also some chat messages visible.\n\nAudibly, I can hear the woman speaking, probably talking about the game situation or interacting with viewers. There might be background music from the game itself."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 216.8911747932434
+    },
+    {
+      "comment_index": 7756,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "0:20 that's actually my name yassine=yass+ine",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 17.0,
+      "comment_timestamp": 20.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "11.0s - 17.0s",
+          "query": "Well, I'm not sure if there's actually anything to analyze here. The instruction seems incomplete or unclear. Could you please clarify? Maybe give me more details about the video so I can help better?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "17.0s - 23.0s",
+          "query": "Visual: The video shows a woman in a room with a bed and some furniture. She is wearing a patterned shirt and has long hair. There are also some animated characters in the background, including one with red hair and another with a blue outfit. The scene seems to be indoors, and there's a price tag of $55.00 visible. The overall color scheme includes pinks, blues, and whites.\n\nAudio: There is music playing in the background, and there are some speech sounds, possibly from the woman in the video."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "23.0s - 29.0s",
+          "query": "Visual: The video shows a person sitting on a couch with their hands clasped together. There's a bed visible behind them. The background includes some furniture like a table or cabinet.\n\nAudio: Music is playing throughout the entire 6 seconds."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 209.51726269721985
+    },
+    {
+      "comment_index": 7757,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "8:48 it feels so good",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 15.0,
+      "comment_timestamp": 528.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "519.0s - 525.0s",
+          "query": "Visually, there's a person in a striped shirt sitting in a car, looking towards the camera. The background shows a building with a red roof and some greenery. There are also some wooden planks stacked up. The scene seems to be in a suburban area. The colors are mostly muted, with the red roof standing out. The movement is mainly the person in the car and the camera panning around the scene.Audibly, there's a woman speaking, and then a loud gunshot sound. The speech is clear, but the gunshot is quite loud and sudden."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "525.0s - 531.0s",
+          "query": "**Visual:** The video shows a person sitting indoors with a game interface overlayed on top. There's a character from the game standing in front of some trees. The room has furniture like a bed and a desk.\n\n**Audio:** Someone is speaking, saying \"I won't lie as annoying as the drum gun is it feels so good.\" The background seems to have some soft ambient noise or music playing faintly."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "531.0s - 537.0s",
+          "query": "Sure! So, in the video, there's a woman in a camouflage jacket sitting in front of a computer screen. She seems to be talking or reacting to something on the screen. The screen shows a grid with various images and text, like \"SEASON 9\" and \"FORTBYTE.\" There are also some numbers and icons scattered around. The background is mostly dark with some blue and purple elements. The woman looks a bit surprised or intrigued by what she's seeing.On the audio side, there's a woman speaking. She says, \"found a location hidden within the loading screen this is a really cool idea but i guess like at the end.\" It sounds like she's excited about something she discovered in the game or app. There's no music or other sound effects, just her voice and a bit of ambient noise from the computer."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 265.9821629524231
+    },
+    {
+      "comment_index": 7758,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "2:46 Me when i saw the drum gun back in chapter 2",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 15.0,
+      "comment_timestamp": 166.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "157.0s - 163.0s",
+          "query": "Visual: The video shows a screen with a blue background. There are several icons and images displayed, including a character in armor, some colorful icons, and a star. The text \"Battle Pass UPGRADED!\" is prominently shown. There's also a small inset image of a person in the bottom left corner, seemingly reacting to the screen.\n\nAudio: The audio includes a woman speaking, saying \"that is not me.\" There's also background music playing throughout the segment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "163.0s - 169.0s",
+          "query": "Visual: The video shows a person in a room with a bed and some furniture. There are colorful squares with icons and text like \"Battle Pass UPGRADED!\" and \"you sure?\". The person seems to be interacting with something, possibly a game or an app. The colors are bright and varied, with a mix of greens, blues, purples, and yellows. The person is wearing a patterned top and has long hair. The overall scene looks like a casual, indoor setting.\n\nAudio: There's music playing in the background throughout the video. There are also some speech sounds, but they're not very clear. It seems like there might be some kind of announcement or instruction being given, but it's hard to make out the exact words."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "169.0s - 175.0s",
+          "query": "Visually, there's an interface showing \"Battle Pass Upgraded!\" with various items like a glider named \"Turbo Spin\" highlighted. There s also some character art and icons. The background is blue with stars. Audio-wise, it seems to be a game interface sound, maybe a notification or achievement sound. What do you think about these elements?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 220.459392786026
+    },
+    {
+      "comment_index": 7759,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "Epic employee: Should we destroy tilted then bring it back in a few days.  Other epic employee: 3:13  <ThE FuTuRe Is YoUrS>",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 14.0,
+      "comment_timestamp": 193.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "184.0s - 190.0s",
+          "query": "**Visual:** The video shows a screen with a blue background. There are various icons and images, including a character with long hair and a red and blue outfit. There's also a small inset image of a person wearing a headset. The screen has text and numbers, possibly related to a game or app interface.\n\n**Audio:** There is a single beep heard at the beginning of the video."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "190.0s - 196.0s",
+          "query": "Visual: The video shows two scenes. In one, a person is sitting on a couch, looking surprised or shocked, with their hands covering their mouth. In the other, a character in a blue outfit with a red and blue backpack is walking away from the camera. The background is a solid blue color in both scenes. There are some objects like a lamp and a table in the first scene.\n\nAudio: The audio includes a voice saying \"yes\" repeatedly, followed by \"epic\" and then \"yes\" again. There's also some background music playing."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "196.0s - 202.0s",
+          "query": "Visual: The video shows a character in a game interface. The character has a backpack with a red and blue design. There are various icons and text on the screen, including \"SEASON 9\" and \"YES!\". The background is mostly blue. The character seems to be interacting with the game's menu or interface. Audio: There's a woman speaking in the background. She says, \"I love this I might even use this I know.\" The speech is clear and the tone seems positive."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 289.1133666038513
+    },
+    {
+      "comment_index": 7760,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "4:55, does it say ALT+F4 on the right side of the skins chest???!!!!",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 11.0,
+      "comment_timestamp": 295.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "286.0s - 292.0s",
+          "query": "Visual: The video shows a split-screen. On the left, there's a person sitting indoors, possibly in a room with a bed and some furniture. On the right, there are various game characters and items, including a banana-like character and a robot-like figure. The right side also has a blue background with some text and icons.\n\nAudio: There's music playing in the background throughout the video."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "292.0s - 298.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.87 GiB is free. Including non-PyTorch memory, this process has 15.68 GiB memory in use. Of the allocated memory 13.60 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "298.0s - 304.0s",
+          "query": "Visual: The video shows a person in a room with a bed and some furniture. There's also an image of a character in a futuristic outfit on the screen. The character has a green and silver color scheme and is holding a weapon. The text \"LEGENDARY | OUTFIT VENDETTA\" is displayed at the bottom.\n\nAudio: There's music playing in the background, and someone is speaking, saying \"don't know if it's my favorite.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 283.60318756103516
+    },
+    {
+      "comment_index": 7761,
+      "video_id": "wtXqjh8VkTo",
+      "comment": "3:26 it’s just how it looks u don’t really swing it like that",
+      "language": "en",
+      "channel_name": "pokimane",
+      "category": "gaming",
+      "likes": 9.0,
+      "comment_timestamp": 206.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "197.0s - 203.0s",
+          "query": "Visual: The video shows a screen from a game interface with various elements like \"Battle Pass,\" \"Season 9,\" and different tiers and rewards displayed. There's also an image of a person holding a camera or phone.\n\nAudio: Someone is speaking, saying they love something that isn't flashy but still good."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "203.0s - 209.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.86 GiB is free. Including non-PyTorch memory, this process has 15.69 GiB memory in use. Of the allocated memory 13.60 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "209.0s - 215.0s",
+          "query": "I'm sorry, I can't analyze or describe videos directly from images. Could you please upload the actual video file? That way, I'll be able to give you a detailed analysis based on both visuals and audio."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 159.31935214996338
+    }
+  ]
+}

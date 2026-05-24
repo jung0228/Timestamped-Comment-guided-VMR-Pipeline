@@ -1,0 +1,609 @@
+{
+  "video_id": "PUDyDIEbc8Q",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 6151,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "3:00 \"but it's time to face the truth,I will never be with you\"  I felt that :'(",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 931.0,
+      "comment_timestamp": 180.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "171.0s - 177.0s",
+          "query": "**Visual:** The video shows a man playing an acoustic guitar on a stage with wooden paneling and red chairs. There's an audience seated around him, some taking photos or videos. Two other men sit on a raised platform behind him.\n\n**Audio:** Music is being played, likely by the guitarist. No distinct speech can be heard from anyone else in the scene."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "177.0s - 183.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 5.65 GiB. GPU 1 has a total capacity of 23.56 GiB of which 3.53 GiB is free. Including non-PyTorch memory, this process has 20.02 GiB memory in use. Of the allocated memory 18.42 GiB is allocated by PyTorch, and 1.28 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "183.0s - 189.0s",
+          "query": "Sure! So, visually, there's someone playing an acoustic guitar while singing into a microphone. They're dressed in a black suit jacket over a white shirt. The background has wooden paneling with stained glass windows, and there s a red leather chair nearby. There s also some kind of circular emblem or logo on the wall.On the audio side, it seems like they re singing along to their own music, which is likely the strumming of the guitar. It feels like a live performance setting, maybe in a church or similar place.What do you think about that? Any other details you noticed?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 233.97620129585266
+    },
+    {
+      "comment_index": 6152,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "0:13 He wanted the audience to sing the chorus right??",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 20.0,
+      "comment_timestamp": 13.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "4.0s - 10.0s",
+          "query": "Visually, there's a man in a suit playing an acoustic guitar. He's seated, and there are red chairs and wooden paneling in the background. The man is focused on his guitar playing. The colors are mostly warm, with the red chairs and the brown of the wood standing out. There's no significant movement apart from the man's hand strumming the guitar.Audibly, there's music playing, likely the same music being played on the guitar. There are no other distinct sounds or speech."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "10.0s - 16.0s",
+          "query": "Visually, there's a man in a suit playing an acoustic guitar and singing into a microphone. He's sitting in a room with wooden paneling and stained glass windows. There's a red chair next to him. The scene is calm and focused on his performance.\n\nAudibly, there's music playing in the background, likely instrumental, and then a voice starts speaking, asking someone to sing a chorus."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "16.0s - 22.0s",
+          "query": "**Visual:** The video shows a man in a suit playing an acoustic guitar and singing into a microphone. He's seated in a room with wooden paneling and stained glass windows. There's a red chair visible in the background. The man appears to be performing or recording music.\n\n**Audio:** The audio features music, likely instrumental, playing throughout the 6 seconds. There are no distinct speech or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 255.66114711761475
+    },
+    {
+      "comment_index": 6153,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "My life is brilliant 0:29 \"well kind of\" lol much love bruv😆",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 18.0,
+      "comment_timestamp": 29.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "20.0s - 26.0s",
+          "query": "**Visual:** A person is playing an acoustic guitar and singing into a microphone. They're wearing a suit jacket over a patterned shirt. The background has wooden paneling and stained glass windows. There's a red leather chair visible.\n\n**Audio:** Music is playing, which seems to be the guitar being played."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "26.0s - 32.0s",
+          "query": "Visually, there's a man in a suit playing a red guitar and singing into a microphone. He's in a room with wooden paneling and stained glass windows. There are red chairs and a few people in the audience watching him. The scene seems to be in a formal or semi-formal setting, like a church or a hall. The man is focused on his performance, strumming the guitar and singing. The audience is seated and observing him. The colors are warm, with the red of the guitar and chairs standing out against the wood and the stained glass. The movement is mainly the man's hands on the guitar and his mouth as he sings.The audio includes music playing in the background, which is likely the same music the man is playing on his guitar. There are also some sounds of the audience, like whispers and faint applause."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "32.0s - 38.0s",
+          "query": "**Visual:** The video shows a room with red walls and large stained glass windows. There are wooden benches and a stage area. A person is playing an acoustic guitar on the stage, and another person is standing nearby. The audience is seated in rows, watching and some are taking photos or videos with their phones. The room has a warm, cozy feel with the wood paneling and the red walls.\n\n**Audio:** The audio features music playing, likely the guitar music being played on stage. There are no distinct speech or sound effects, just the music."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 290.8568892478943
+    },
+    {
+      "comment_index": 6154,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "03:15 Can see the girls standing up for an applause at the back.",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 12.0,
+      "comment_timestamp": 195.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "186.0s - 192.0s",
+          "query": "Visually, there's a person in a suit playing an acoustic guitar and singing into a microphone. The background has wooden paneling and stained glass windows. There are also some red chairs visible. The person seems to be performing in a somewhat formal or indoor setting. The movement is mainly the person's hands strumming the guitar and their mouth moving as they sing.Audibly, there's music playing, likely the same music being played on the guitar. There are no other distinct sounds or speech."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "192.0s - 198.0s",
+          "query": "**Visual:** The video shows an indoor setting with wooden paneling on the walls and large stained glass windows. There's a stage area where someone is playing guitar and singing into a microphone. An audience sits in rows facing the stage, some clapping along. The room has a warm, cozy feel.\n\n**Audio:** You can hear applause from the audience, which seems to be in response to something said or done during the performance. There might also be background music accompanying the performance."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "198.0s - 204.0s",
+          "query": "**Visual:** The video shows an indoor setting with a large audience seated facing two individuals on stage. The room has red walls, wooden paneling, and large stained glass windows. There's a microphone stand between the two people on stage. The audience appears attentive and engaged.\n\n**Audio:** The audio features applause from the audience, which lasts for about six seconds."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 166.33512949943542
+    },
+    {
+      "comment_index": 6155,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "3:13 the old guy with white hair on the right looks so sad😢😢, I think he was missing someone",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 7.0,
+      "comment_timestamp": 193.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "184.0s - 190.0s",
+          "query": "Visually, there's a person in a suit playing an acoustic guitar and singing into a microphone. The background has wooden paneling and stained glass windows. There are also some red chairs visible. The person seems to be performing in a somewhat formal or elegant setting.\n\nAudio-wise, there's music playing in the background, likely instrumental, and the person is singing. The singing is the main focus of the audio."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "190.0s - 196.0s",
+          "query": "**Visual:** The video shows a man playing an acoustic guitar while singing into a microphone. He's dressed formally in a suit. There are red chairs around him, and behind him is a wooden-paneled wall with stained glass windows. An audience is seated in front of him, watching attentively.\n\n**Audio:** Music is being played on the guitar, and there's applause from the audience towards the end of the clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "196.0s - 202.0s",
+          "query": "**Visual:** The video shows an indoor setting with a large audience seated on wooden benches facing a stage. On the stage, there's a person standing near a microphone, seemingly addressing or performing for the crowd. The room has red walls, large stained glass windows, and a few decorative elements like plaques.\n\n**Audio:** There is applause heard from the audience throughout the entire duration of the clip."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 153.4056966304779
+    },
+    {
+      "comment_index": 6156,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "1:44 I heard something",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 5.0,
+      "comment_timestamp": 104.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "95.0s - 101.0s",
+          "query": "Visually, there's a person in a suit playing an acoustic guitar. The guitar is reddish-brown. The person seems to be focused on playing. There's also a microphone in front of them, suggesting they might be performing or recording. The background is somewhat blurry but looks like an indoor setting with wooden elements, possibly a stage or a studio.\n\nAudibly, there's music playing, likely the guitar music. There's also a bit of singing or humming, but it's not very clear."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "101.0s - 107.0s",
+          "query": "**Visual:** A man in a suit and tie is speaking into a microphone. He appears to be in a formal setting, possibly a church or a similar venue, as there are stained glass windows in the background. The man is standing still, focused on speaking.\n\n**Audio:** There is music playing in the background, and the man is speaking. The speech is in English, and the content seems to be about someone being able to see something from the speaker's face."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "107.0s - 113.0s",
+          "query": "Visual: A man is standing in front of a microphone, wearing a suit jacket over a white shirt with a red patterned tie. He appears to be speaking or singing into the microphone.\n\nAudio: There's someone singing along with the music playing in the background. The lyrics include phrases like \"I don't think I'll see her again\" and \"but we said.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 227.8892741203308
+    },
+    {
+      "comment_index": 6157,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "0:35 (personal marker for start)",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 5.0,
+      "comment_timestamp": 35.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "26.0s - 32.0s",
+          "query": "Visually, there's a man in a suit playing a red guitar and singing into a microphone. He's in a room with wooden paneling and stained glass windows. There are red chairs and a few people in the audience watching him. The scene seems to be in a formal or semi-formal setting, like a church or a hall. The man is focused on his performance, strumming the guitar and singing. The audience is seated and observing him. The colors are warm, with the red of the guitar and chairs standing out against the wood and the stained glass. The movement is mainly the man's hands on the guitar and his mouth as he sings.The audio includes music playing in the background, which is likely the same music the man is playing on his guitar. There are also some sounds of the audience, like whispers and faint applause."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "32.0s - 38.0s",
+          "query": "**Visual:** The video shows an indoor setting with a large audience seated on wooden benches facing a stage. On the stage, there's a person playing an acoustic guitar while another person sits beside them. The room has red walls and large stained glass windows. People in the audience appear to be watching attentively or taking photos.\n\n**Audio:** There is background music playing throughout the video."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "38.0s - 44.0s",
+          "query": "Visually, there's a man in a suit playing a red guitar and singing into a microphone. He's in a room with wooden paneling and stained glass windows. There are red chairs and a crowd of people watching him. The scene seems to be indoors, possibly in a church or a similar venue. The man is focused on his performance, strumming the guitar and singing. The crowd is seated, watching him attentively. The colors are warm, with the red of the guitar and chairs standing out against the wood and the stained glass. The movement is mainly the man's hands on the guitar and his mouth as he sings.The audio is of a man singing, and there's also some music playing in the background. The singing is clear and the music seems to be acoustic, matching the guitar playing. There are no other distinct sounds or speech."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 230.63462328910828
+    },
+    {
+      "comment_index": 6158,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "not funny at 0:25, why they even laughed",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 5.0,
+      "comment_timestamp": 25.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "16.0s - 22.0s",
+          "query": "**Visual:** The video shows a man in a suit playing an acoustic guitar and singing into a microphone. He's seated in a room with wooden paneling and stained glass windows. There's a red chair visible in the background. The man appears to be performing or recording music.\n\n**Audio:** The audio features music, likely instrumental, playing throughout the 6 seconds. There are no distinct speech or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "22.0s - 28.0s",
+          "query": "Visually, there's a person in a suit playing an acoustic guitar and singing into a microphone. The setting seems to be indoors, with wooden paneling and stained glass windows in the background. There are also red chairs visible. The person is focused on their performance, strumming the guitar and singing. The colors are warm, with the brown of the wood and the red chairs standing out. The movement is mainly the person's hands on the guitar and their mouth moving as they sing."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "28.0s - 34.0s",
+          "query": "**Visual:** The video shows a man playing an acoustic guitar on stage while singing into a microphone. He's wearing formal attire - a suit with a tie. There are red chairs arranged around him, and he seems to be performing for an audience seated in rows behind him. The setting looks like a large hall or auditorium with wooden paneling and stained glass windows.\n\n**Audio:** The audio features music being played primarily by the guitarist. It starts with some applause from the audience before the music begins. There is no distinct speech audible during these six seconds."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 204.7577202320099
+    },
+    {
+      "comment_index": 6159,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "Favorite part 1:35",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 5.0,
+      "comment_timestamp": 95.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "86.0s - 92.0s",
+          "query": "**Visual:** The video shows a man in a suit and tie standing in front of a microphone, seemingly about to speak or sing. The background has wooden paneling and stained glass windows, suggesting a formal or historic setting. There are a few people seated in the background, some looking towards the man. Another person is playing an acoustic guitar on a stage with red chairs and a wooden floor.\n\n**Audio:** The audio features music playing, likely instrumental, possibly guitar music, which sets a calm or formal tone for the scene."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "92.0s - 98.0s",
+          "query": "Visually, there are two men on a stage. One is playing an acoustic guitar, dressed in a suit with a red tie. The other man is sitting on a red chair, also in a suit. The background has wooden paneling and stained glass windows. There are people in the audience watching them. The scene is indoors, likely in a theater or concert hall. The lighting is warm and focused on the performers.Audibly, there is music playing, which seems to be a guitar being strummed. There are also some sounds of people in the audience, possibly whispering or talking softly."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "98.0s - 104.0s",
+          "query": "Visually, there's someone wearing a suit with a white shirt underneath. They're holding an acoustic guitar and singing into a microphone. The background seems to be indoors, possibly a church or hall, with wooden paneling and stained glass windows.\n\nAudibly, it's a male voice singing along with some music playing in the background. There aren't any distinct sound effects or other noises."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 207.65277862548828
+    },
+    {
+      "comment_index": 6160,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "1:15 This is where he really gets into it",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 4.0,
+      "comment_timestamp": 75.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "66.0s - 72.0s",
+          "query": "Visually, there's a man wearing a suit with a white shirt underneath. He has light-colored hair and is standing near a microphone, seemingly singing or speaking into it. The background shows some stained glass windows and wooden paneling.\n\nIn terms of audio, I can hear someone singing or speaking, and there's also music playing in the background during that short clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "72.0s - 78.0s",
+          "query": "Visually, there's a man in a suit and tie speaking into a microphone. He seems to be in a formal setting, possibly a church or a similar place, as there are stained glass windows in the background. The man is standing still, but his mouth is moving as he speaks. The colors are mostly muted, with the brown of the wooden paneling and the dark suit contrasting with the lighter background.\n\nAudio-wise, there's music playing in the background, and the man is speaking. The music is instrumental, and it seems to be a calm, possibly classical piece. There are no other distinct sounds or speech from others in the video."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "78.0s - 84.0s",
+          "query": "Visually, there's a man in a suit and a white shirt with a red pattern. He's standing in front of a microphone, and the background seems to be a wooden panel with some stained glass windows. He's looking up and to the side, then starts to sing into the microphone. There's a bit of movement as he adjusts his position slightly while singing.\n\nAudio - He's singing, and there's also some music playing in the background."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 219.54659152030945
+    },
+    {
+      "comment_index": 6161,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "Those three \"lemons\" with \"social exclusion\" disorder that decided it was a good idea to give James a standing ovation @ 3:17 PMSL That one girl says to the other while standing \" No wonder we've got social exclusion disorder\"..",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 2.0,
+      "comment_timestamp": 197.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "188.0s - 194.0s",
+          "query": "Visually, there's a person in a suit playing an acoustic guitar and singing into a microphone. The background has wooden paneling and stained glass windows. There are red chairs and a brown couch. The person is standing and strumming the guitar while singing. The scene seems to be indoors, possibly in a church or a similar venue. There's also an audience visible in the background, suggesting a live performance. The colors are warm, with the red chairs and the brown couch adding to the cozy feel. The movement is mainly the person playing and singing, with the audience watching and listening."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "194.0s - 200.0s",
+          "query": "**Visual:** The video shows an indoor setting with a large audience seated on wooden benches facing a stage area. There's a man standing on the stage near a microphone stand, holding a red object that looks like a guitar or similar musical instrument. The room has high ceilings, large stained glass windows, and red walls. People in the audience appear to be clapping and cheering.\n\n**Audio:** The audio features applause from the crowd, which seems to be in response to something said or done by the person on stage. There is no distinct speech or music audible during these six seconds."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "200.0s - 206.0s",
+          "query": "Visually, there's a large audience seated in a hall with red walls and wooden paneling. Two people are on a stage, one sitting in a red chair and the other standing. The audience is clapping. There's a logo of the Oxford Union in the center of the screen with the text \"Subscribe New Speakers Every Week\" below it. The scene is well-lit, and the overall atmosphere seems formal and engaged."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 250.87489247322083
+    },
+    {
+      "comment_index": 6162,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "1:43 wth men? That's was beautiful how he sing it",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 2.0,
+      "comment_timestamp": 103.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "94.0s - 100.0s",
+          "query": "**Visual:** The video shows someone playing an acoustic guitar while singing into a microphone. There's another person visible in the background, possibly also performing or accompanying on guitar. The setting appears to be indoors with wooden paneling.\n\n**Audio:** Music is being played prominently throughout the clip, featuring guitar strumming and singing."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "100.0s - 106.0s",
+          "query": "Visually, there's a man in a suit and tie singing into a microphone. He seems to be in a formal setting, possibly a church or a similar place, with stained glass windows in the background. The man is moving his head and mouth as he sings, showing he's actively performing.\n\nAudio-wise, there's music playing in the background, and the man is singing along with it. The music seems to be a pop or rock genre, and the man's singing is clear and energetic."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "106.0s - 112.0s",
+          "query": "Visually, there's a man in a suit and tie standing in front of a microphone, likely in a formal or semi-formal setting. The background seems to have wooden paneling and stained glass windows, suggesting a church or similar venue. He appears to be speaking or singing into the microphone.\n\nAudio-wise, there's a male voice singing, and the lyrics are \"And I don't think that I'll see her again.\" There's also music playing in the background, but no other distinct sounds or effects are noticeable."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 213.80269646644592
+    },
+    {
+      "comment_index": 6163,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "2:28 what a nice guy",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 2.0,
+      "comment_timestamp": 148.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "139.0s - 145.0s",
+          "query": "Visually, there's a person in a suit playing an acoustic guitar and singing into a microphone. The background has wooden paneling and stained glass windows. There are also some red chairs visible. The person seems to be performing in a somewhat formal or traditional setting, like a church or a similar venue.\n\nAudio-wise, there's music playing, which is likely the song being performed. The person is singing, and the lyrics are \"cause I'll never be with you.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "145.0s - 151.0s",
+          "query": "Visual: The video shows a man in a suit playing an acoustic guitar and singing into a microphone. He's seated on a red couch in a room with wooden paneling and large windows with stained glass. There are several people in the audience, some seated and some standing, watching and listening. The atmosphere seems to be indoors, possibly in a church or a similar venue. The man is focused on his performance, and the audience appears engaged.\n\nAudio: The audio features music, specifically a guitar being played and a male voice singing. The music is likely acoustic, matching the setting and the man's attire. There are no other distinct sounds or speech in the audio."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "151.0s - 157.0s",
+          "query": "**Visual:** The video shows a group of people seated in what appears to be a large, possibly historic, hall with red walls and large stained glass windows. There are two men on a raised platform in the center. One is playing an acoustic guitar while the other is singing. The audience is seated in rows, watching and listening attentively. The lighting is warm, creating a cozy and intimate atmosphere.\n\n**Audio:** The audio features music, specifically a guitar being played and a male voice singing. The music is likely folk or acoustic in style, given the setting and the instruments used. There are no other distinct sound effects or speech in the audio segment."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 289.9627261161804
+    },
+    {
+      "comment_index": 6164,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "Why is the old man at 3:15 sleeping? :(",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 1.0,
+      "comment_timestamp": 195.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "186.0s - 192.0s",
+          "query": "Visually, there's a person in a suit playing an acoustic guitar and singing into a microphone. The background has wooden paneling and stained glass windows. There are also some red chairs visible. The person seems to be performing in a somewhat formal or indoor setting. The movement is mainly the person's hands strumming the guitar and their mouth moving as they sing.Audibly, there's music playing, likely the same music being played on the guitar. There are no other distinct sounds or speech."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "192.0s - 198.0s",
+          "query": "**Visual:** The video shows an indoor setting with wooden paneling on the walls and large stained glass windows. There's a stage area where someone is playing guitar and singing into a microphone. An audience sits in rows facing the stage, some clapping along. The room has a warm, cozy feel.\n\n**Audio:** You can hear applause from the audience, which seems to be in response to something said or done during the performance. There might also be background music accompanying the performance."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "198.0s - 204.0s",
+          "query": "**Visual:** The video shows a large, formal room with red walls and wooden paneling. There are two people seated on a stage in red armchairs, facing each other. A microphone is positioned between them. The audience is seated in rows, attentively watching the speakers. The room has large stained-glass windows. The scene appears to be a formal discussion or interview.\n\n**Audio:** There is applause heard in the audio, suggesting that the audience is responding positively to something said by the speakers."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 259.90990805625916
+    },
+    {
+      "comment_index": 6165,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "0:28 hahahaha <3",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 1.0,
+      "comment_timestamp": 28.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "19.0s - 25.0s",
+          "query": "Visually, there's a person sitting, playing an acoustic guitar and singing into a microphone. They're dressed in a suit jacket and a light-colored shirt. The background has wooden paneling and stained glass windows. There are also red chairs visible. The person seems to be performing or recording something.\n\nAudio-wise, there's music playing, which is likely the guitar being played. There are no other distinct sounds or speech in the audio."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "25.0s - 31.0s",
+          "query": "**Visual:** A man in a suit is playing an acoustic guitar and singing into a microphone. He's seated in a room with wooden paneling and stained glass windows. There's a red leather chair next to him. The man is focused on his performance, moving his fingers on the guitar strings and strumming rhythmically.\n\n**Audio:** The audio starts with the man singing, then transitions to music playing in the background."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "31.0s - 37.0s",
+          "query": "**Visual:** The video shows an indoor setting with a large audience seated on wooden benches facing a stage. On the stage, there's a person playing an acoustic guitar while another individual sits beside them. The room has red walls with stained glass windows above the seating area.\n\n**Audio:** There is background music playing throughout the entire clip. No specific speech or dialogue can be heard within these six seconds."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 194.26007723808289
+    },
+    {
+      "comment_index": 6166,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "0:34 haha so wierd, like 4-5 phones popping up at the exact same time?!",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 1.0,
+      "comment_timestamp": 34.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "25.0s - 31.0s",
+          "query": "**Visual:** A man in a suit is playing an acoustic guitar and singing into a microphone. He's seated in a room with wooden paneling and stained glass windows. There's a red leather chair next to him. The man is focused on his performance, moving his fingers on the guitar strings and strumming rhythmically.\n\n**Audio:** The audio starts with the man singing, then transitions to music playing in the background."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "31.0s - 37.0s",
+          "query": "**Visual:** The video shows an indoor setting with a large audience seated on wooden benches facing a stage. On the stage, there's a person playing an acoustic guitar while another individual sits beside them. The room has red walls with stained glass windows above the seating area.\n\n**Audio:** There is background music playing throughout the entire clip. No specific speech or dialogue can be heard within these six seconds."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "37.0s - 43.0s",
+          "query": "**Visual:** The video shows a man in a suit playing an acoustic guitar and singing into a microphone. He's seated on a red chair in a room with wooden paneling and large windows with stained glass. There are several people in the audience, some of whom are taking pictures or videos with their phones. The room has a warm, somewhat formal atmosphere.\n\n**Audio:** The audio features a male voice singing lyrics like \"My life is brilliant, my love is pure.\" There is also background music accompanying the singing."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 247.30358600616455
+    },
+    {
+      "comment_index": 6167,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "0:12 little did James know.. they wouldn't.",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 1.0,
+      "comment_timestamp": 12.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "3.0s - 9.0s",
+          "query": "Visually, there's a man in a suit playing an acoustic guitar and singing into a microphone. He's seated in a room with wooden paneling and stained glass windows. There's a red leather chair beside him. The man is focused on his performance, strumming the guitar and singing. The room has a warm, somewhat formal ambiance.\n\nIn terms of audio, there's music playing, which seems to be the man's performance. It's likely a soft, melodic tune that complements his singing and guitar playing."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "9.0s - 15.0s",
+          "query": "Visually, there's a man in a suit playing an acoustic guitar and singing into a microphone. He's sitting in a room with wooden paneling and stained glass windows. There are red chairs around him. The man is focused on his performance, strumming the guitar and singing. The colors are warm, with the brown of the wood and the red of the chairs standing out. The movement is mainly the man's hands on the guitar and his mouth moving as he sings.Audibly, there's music playing, likely the same music he's playing on the guitar. There are no other distinct sounds or speech."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "15.0s - 21.0s",
+          "query": "**Visual:** A man is seated on a red chair, playing an acoustic guitar while singing into a microphone. He's dressed formally in a black suit jacket over a white shirt with a pink tie. The background features wooden paneling and stained glass windows.\n\n**Audio:** There is soft instrumental music playing throughout the clip, likely from the guitar being played by the man."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 248.49669861793518
+    },
+    {
+      "comment_index": 6168,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "0:30  why they laugh?",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 1.0,
+      "comment_timestamp": 30.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "21.0s - 27.0s",
+          "query": "Visually, there's a man in a suit playing an acoustic guitar and singing into a microphone. He's seated in a room with wooden paneling and stained glass windows. There are red chairs around him. The man is focused on his performance, strumming the guitar and singing. The scene is calm and intimate.\n\nAudio-wise, there's music playing in the background, likely the same music he's playing on the guitar. There are no other distinct sounds or speech."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "27.0s - 33.0s",
+          "query": "Sure! So, visually, there's someone playing an acoustic guitar while singing into a microphone. They're dressed in formal attire like a suit and tie. The setting looks like it could be some kind of hall or auditorium with wooden paneling on the walls and large windows. There are also red chairs visible.In terms of audio, I can hear music being played mainly from the guitar, along with some background chatter from the audience. It seems like they might be at a live performance or concert.What do you think about that? Any other details you noticed?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "33.0s - 39.0s",
+          "query": "**Visual:** The video shows a room with red walls and large windows with stained glass. There are wooden benches and a stage area. A man is playing an acoustic guitar on the stage, and there are several people in the audience watching and some are taking pictures with their phones. The audience is seated on the benches and on the floor.\n\n**Audio:** The audio features music playing, which seems to be the guitar music from the man on stage. There is no speech or other sound effects in this short segment."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 253.74109268188477
+    },
+    {
+      "comment_index": 6169,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "0:24 I ALWAYS START LIKE THAT!!!! 😂😂😂",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 1.0,
+      "comment_timestamp": 24.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "15.0s - 21.0s",
+          "query": "**Visual:** The video shows a man sitting in a room with wooden paneling and stained glass windows. He's wearing a black suit jacket over a light-colored shirt and is playing an acoustic guitar while singing into a microphone. There are red chairs in the background. The man appears to be performing or recording a song.\n\n**Audio:** The audio features music, specifically guitar strumming and singing."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "21.0s - 27.0s",
+          "query": "Visually, there's a man in a suit playing an acoustic guitar and singing into a microphone. He's seated in a room with wooden paneling and stained glass windows. There are red chairs around him. The man is focused on his performance, strumming the guitar and singing. The scene is calm and intimate.\n\nAudio-wise, there's music playing in the background, likely the same music he's playing on the guitar. There are no other distinct sounds or speech."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "27.0s - 33.0s",
+          "query": "Visually, there's a man in a suit playing an acoustic guitar and singing into a microphone. He's sitting on a red chair in a room with wooden paneling and large windows with stained glass. There are several people in the audience, some of whom are clapping or taking pictures. The room has a warm, somewhat formal atmosphere. The man seems to be performing a song, and the audience is engaged. The colors are mostly warm, with the red of the chair and the brown of the wood being prominent. There's also a sense of movement from the audience members' actions."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 238.59844779968262
+    },
+    {
+      "comment_index": 6170,
+      "video_id": "PUDyDIEbc8Q",
+      "comment": "1:45 Flying high~~",
+      "language": "en",
+      "channel_name": "OxfordUnion",
+      "category": "debate",
+      "likes": 0.0,
+      "comment_timestamp": 105.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "96.0s - 102.0s",
+          "query": "Visual: A man is playing an acoustic guitar while singing into a microphone. He's wearing a suit jacket over a white shirt with a red tie. The background appears to be indoors, possibly a church or similar setting, with wooden elements visible.\n\nAudio: There is music being played on the guitar along with some singing. It seems like a live performance."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "102.0s - 108.0s",
+          "query": "Visually, there's a man wearing a suit with an open white shirt underneath. He has short brown hair and is standing in front of a microphone, seemingly speaking or singing into it. The background shows some wooden paneling and stained glass windows.\n\nAudio-wise, he seems to be talking or singing something, though I can't make out the exact words from just these six seconds. There doesn't seem to be any other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "108.0s - 114.0s",
+          "query": "**Visual:** The video shows a person standing in front of a microphone, seemingly in the middle of a performance or speech. The background appears to be an indoor setting with wooden paneling and stained glass windows, suggesting a church or a similar venue. The person is dressed formally, wearing a suit jacket and a white shirt with a patterned tie. Their posture and the presence of the microphone indicate they are actively engaged in speaking or singing.\n\n**Audio:** The audio includes a person singing. The lyrics are \"that I'll see her again but we said a moment.\" The singing is clear and focused, suggesting a live performance or recording session. There are no other significant sounds or music elements in the audio segment."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 191.8744125366211
+    }
+  ]
+}

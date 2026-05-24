@@ -1,0 +1,609 @@
+{
+  "video_id": "8A3jiM2FNR8",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 8570,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "11:10 Dr. Fauci: \"I feel really confident, that if this virus acts like every other virus that we know, once you get infected, get better, clear the virus, than you'll have immunity that will protect you against the virus.\"",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 142.0,
+      "comment_timestamp": 670.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "661.0s - 667.0s",
+          "query": "Sure! So, here's what I noticed:.Visually, there are two men talking to each other. One is wearing a brown sweater and has short hair, while the other is in a suit with gray hair. They seem to be having a conversation in an office-like setting. There s also some furniture like shelves and a vase with flowers in the background.Audibly, it looks like they're discussing something important or serious based on their tone. But without more context from the full video, that's about all I can say.Anything else you want me to look at?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "667.0s - 673.0s",
+          "query": "Visual: The video shows two men having a conversation. One is wearing a brown sweater and sitting in front of shelves with books and decorative items like flowers. The other man is dressed in a suit and tie, standing against a wall that has \"NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES\" written on it.\n\nAudio: There's a male voice speaking about challenges related to a virus, expressing confidence despite these difficulties."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "673.0s - 679.0s",
+          "query": "Visually, there's an older man wearing a suit with a blue shirt and tie speaking directly to the camera. In the background, it looks like he might be in an office or conference room setting. There s also another person visible on a smaller screen inset, who seems to be listening attentively.\n\nAudio-wise, the main speaker is talking about viruses and how they behave once someone gets infected. He mentions that they get better eventually. The overall tone suggests he's explaining something important, possibly related to health or medicine."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 236.4372775554657
+    },
+    {
+      "comment_index": 8571,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "12:24 “we are catching up on things that were not done really well in the beginning.”  This is from a Dr that served 6 Presidents. 🤔",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 94.0,
+      "comment_timestamp": 744.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "735.0s - 741.0s",
+          "query": "Visually, there's a man in a suit speaking directly to the camera. He seems to be in an office or institutional setting with \"NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES\" written on the wall behind him. There s also another person visible in a smaller inset window, wearing a brown sweater.\n\nIn terms of audio, it s mostly just the man talking, likely discussing something related to his work at the institute. There aren t any other distinct sounds like music or background noise."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "741.0s - 747.0s",
+          "query": "Visually, there's Dr. Anthony Fauci speaking in an office setting with \"NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES\" written on the wall behind him. There s also a smaller inset showing another person listening. The scene is indoors with typical office lighting.\n\nAudio-wise, Dr. Fauci is talking about catching up on things that weren t seen before. It seems like he might be discussing some new developments or information related to his work at the institute."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "747.0s - 753.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 4.63 GiB is free. Including non-PyTorch memory, this process has 18.92 GiB memory in use. Of the allocated memory 16.77 GiB is allocated by PyTorch, and 1.84 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 481.5332741737366
+    },
+    {
+      "comment_index": 8572,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "5:50 This is why I took this more seriously than some of my peers. I may be okay, but my grandmother could die from it because she has lung problems as well as other health issues.",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 56.0,
+      "comment_timestamp": 350.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "341.0s - 347.0s",
+          "query": "Sure! So, visually, there's someone in a suit talking to another person on a smaller screen. The background has \"NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES\" written on it. There s also some kind of framed picture or certificate hanging on the wall.Audibly, it seems like they re having a conversation about symptoms that can be mild yet still infect others. It feels like an informative discussion.Does that help? Let me know if you want more details!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "347.0s - 353.0s",
+          "query": "Visual: The main scene shows an older man in a suit with a blue shirt and tie sitting in front of a wall that says \"NATIONAL INSTITUTE OF ENERGY AND INFECTIOUS DISEASES.\" There's also a smaller inset image of another person wearing a brown sweater. The background is mostly plain walls.\n\nAudio: A male voice speaks about infection and death, mentioning it as a typical example."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "353.0s - 359.0s",
+          "query": "**Visual:** The video shows Dr. Anthony Fauci speaking in an office setting with \"National Institute of Allergy and Infectious Diseases\" written on the wall behind him. There's also a smaller inset showing another person.\n\n**Audio:** Dr. Fauci is talking about staying home to protect vulnerable family members like grandparents and sick uncles from infection."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 439.7199037075043
+    },
+    {
+      "comment_index": 8573,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "0:20 \"What is it that I most worry about......?\"  Incompetent government officials!!!!!!!",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 47.0,
+      "comment_timestamp": 20.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "11.0s - 17.0s",
+          "query": "Visually, there are two men sitting side by side against a backdrop with shelves holding books and a vase with orange flowers. One man is wearing a brown sweater and gesturing while speaking, and the other is dressed in a suit and tie, listening attentively.\n\nIn terms of audio, it's a conversation between these two men discussing various diseases like SARS, Ebola, HIV epidemic, and Zika. The tone seems serious and informative."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "17.0s - 23.0s",
+          "query": "Visually, there are two men in different settings. One is wearing a brown sweater and sitting in front of shelves with books and decorative items like vases and flowers. The other man is dressed in a suit and tie, standing against a wall that has some text on it.\n\nIn terms of audio, there's a conversation happening between these two men. It seems to be a discussion or interview format."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "23.0s - 29.0s",
+          "query": "Visually, there are two men speaking side by side. One is wearing a brown sweater and sitting against shelves with books and flowers on them. The other man is dressed in a suit and tie, standing in front of a wall that says \"Allergy and Infectious Diseases.\" There's no significant movement or action shown.\n\nIn terms of audio, it seems like they're having a conversation about emerging infectious diseases, specifically mentioning respiratory ones. It's just dialogue without any background music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 264.9428811073303
+    },
+    {
+      "comment_index": 8574,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "3:10 I've been telling people for the longest time to cough in their arm not their hands.",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 46.0,
+      "comment_timestamp": 190.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "181.0s - 187.0s",
+          "query": "Visually, there are two men having a conversation. One is wearing a brown sweater and sitting in front of shelves with books and a vase of orange flowers. The other man is dressed in a suit and tie, speaking animatedly while gesturing with his hands. The background behind him shows some text on the wall.\n\nIn terms of audio, it's just the two men talking without any additional music or sound effects. Their voices seem to be the main focus."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "187.0s - 193.0s",
+          "query": "Visually, there are two men in different settings. One is wearing a brown sweater and sitting against a backdrop with shelves holding books and a vase with orange flowers. The other man is dressed in a suit and tie, standing in front of a wall that says \"Allergy and Infectious Diseases.\" Both seem to be engaged in conversation.\n\nAudibly, it's a dialogue between these two individuals. There's no background music or sound effects, just their voices speaking."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "193.0s - 199.0s",
+          "query": "Visually, there are two men in different settings. One is wearing a brown sweater and sitting against shelves with books and flowers, while the other is dressed formally in a suit and tie, speaking in an office-like environment.\n\nIn terms of audio, it's mostly speech from both individuals, likely discussing something important based on their expressions and gestures. There doesn't seem to be any background music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 205.02177572250366
+    },
+    {
+      "comment_index": 8575,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "5:45 for anyone \"young\" or feels that you arent going to get it, think about others. This was great thanks trevor Noah! And great Doctor , since 1984 for government!",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 36.0,
+      "comment_timestamp": 345.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "336.0s - 342.0s",
+          "query": "Visually, there's an older man with gray hair wearing a black suit jacket over a blue shirt. He seems to be speaking or presenting something. In the background, it looks like he might be inside some kind of office or institutional building, given the formal setting. There s also another person visible in a smaller inset window on the right side of the screen.\n\nAudio-wise, I can hear someone talking about getting infected with relatively few symptoms, either asymptomatic or mild. It sounds like they're explaining something related to health or medicine."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "342.0s - 348.0s",
+          "query": "Visually, there's a man in a suit sitting at a desk with some papers or documents on it. He seems to be speaking directly into the camera. In the background, there s a wall with \"NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES\" written on it. There s also another person visible in a smaller inset window, wearing a brown sweater.\n\nAudio-wise, the main speaker is talking about symptoms and infection transmission. The tone suggests he might be explaining something related to health or disease."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "348.0s - 354.0s",
+          "query": "**Visual:** The video shows two men engaged in a conversation. One man is seated in front of a backdrop with \"NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES\" written on it. He's wearing a suit and tie. There's also an inset image of another person in the bottom right corner.\n\n**Audio:** A male voice speaks, saying something about being young and healthy."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 287.8493947982788
+    },
+    {
+      "comment_index": 8576,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "1:00 - So basically Dr Fauci is saying Trump and his words are INSIDIOUS & TREACHEROUS spreading it to all his blind followers, Thanks Dr Fauci for all that insight! You are what Trump is not!",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 31.0,
+      "comment_timestamp": 60.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "51.0s - 57.0s",
+          "query": "Visually, there are two men in different settings. One is wearing a brown sweater and sitting indoors with shelves and some decorative items like flowers behind him. The other man is dressed in a suit and tie, standing in front of a wall that says \"Allergy and Infectious Diseases.\" There's no significant movement or action shown.\n\nIn terms of audio, it seems to be an interview or discussion format. The man in the suit appears to be speaking about something related to health, possibly comparing diseases to influenza."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "57.0s - 63.0s",
+          "query": "Visually, there are two men sitting side by side. One is wearing a brown sweater and has facial hair, while the other is dressed in a suit with a blue shirt and tie. They seem to be engaged in conversation or an interview setting. There's a vase with orange flowers on a shelf behind them.\n\nIn terms of audio, it's mostly speech from both individuals. The man in the suit appears to be speaking more prominently during these six seconds."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "63.0s - 69.0s",
+          "query": "Sure! So, visually, there are two men talking to each other. One is wearing a brown sweater and has a vase with orange flowers behind him. The other man is in a suit and tie, standing in front of a wall that says \"Allergy and Infectious Diseases.\" There's also some furniture like shelves and books around them. In terms of audio, it seems like they're having a conversation, probably about something related to health or science given their attire and surroundings.Anything else you noticed?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 364.96114802360535
+    },
+    {
+      "comment_index": 8577,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "Trevor was well behaved but then Fauci .... 10:28 They had already gotten a  Sucker Punch lol. He is a cool guy. But on a serious note, once China had the virus and you knew it spread to South Korea and Iran.. the entire world should have closed its international borders and all incoming flights. They knew they had to do it anyways but they waited and waited till the numbers were too large to handle and now they have this. Well you deserve it then. USA is still not doing it inspite of the cases being so large in just a single city but they will have to do it soon. VERY SOON.",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 24.0,
+      "comment_timestamp": 628.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "619.0s - 625.0s",
+          "query": "Visual: The video shows two men having a conversation. One is wearing a brown sweater and sitting in front of a shelf with books and a vase of orange flowers. The other man is dressed in a suit and tie, standing against a wall with some text on it.\n\nAudio: There's a male voice speaking about New York being a hub for something related to cases coming in. It seems like he's discussing a situation or event involving New York."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "625.0s - 631.0s",
+          "query": "**Visual:** The video shows two men engaged in conversation. One man is wearing a brown sweater and sitting in front of a shelf with books and a vase of orange flowers. The other man is dressed in a suit and tie, seated against a backdrop that includes a sign reading \"Allergy and Immunology.\" Both appear to be speaking directly to the camera.\n\n**Audio:** There's dialogue between the two men, likely discussing topics related to allergy and immunology given the setting. No background music or sound effects are present; it seems like a straightforward interview or discussion format."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "631.0s - 637.0s",
+          "query": "**Visual:** The video shows two men engaged in conversation. One is wearing a brown sweater and sitting against a backdrop with shelves holding books and decorative items like a vase with orange flowers. The other man is dressed in a suit and tie, seated in front of a wall that has some text on it. Both appear to be speaking or reacting during their interaction.\n\n**Audio:** There's dialogue between the two individuals, though without more context from the full video, I can't specify the exact content of their discussion. It seems to involve some form of communication or exchange of ideas."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 161.1136772632599
+    },
+    {
+      "comment_index": 8578,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "1:45 \"...Diabetes\". That's basically a third of the U.S. population.",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 17.0,
+      "comment_timestamp": 105.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "96.0s - 102.0s",
+          "query": "Visually, there are two men in different settings. One is wearing a brown sweater and sitting indoors with shelves behind him that have books and decorative items like flowers. The other man is dressed in a suit and tie, standing in an office-like space with \"ALLERGY AND INFECTIOUS DISEASE\" visible on the wall.\n\nAudio-wise, it's just someone speaking, likely discussing something related to demographics or population subsets based on the subtitles provided. There doesn't seem to be any background music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "102.0s - 108.0s",
+          "query": "**Visual:** The video shows two men sitting side by side against a backdrop that includes shelves with books and a vase of orange flowers. One man is wearing a brown sweater and has facial hair, while the other is dressed in a suit with a blue shirt and tie.\n\n**Audio:** There's a voice speaking about elderly individuals with underlying conditions like heart disease, lung disease, and diabetes."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "108.0s - 114.0s",
+          "query": "Sure! So, visually, there are two men talking to each other. One is wearing a brown sweater and has a beard, while the other is in a suit with gray hair. They seem to be having a conversation in an office-like setting. There's also some furniture like shelves and a table with flowers on it.In terms of audio, they're speaking, probably discussing something important based on their serious expressions.What do you think about that? Any specific details you want to focus on?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 312.18943190574646
+    },
+    {
+      "comment_index": 8579,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "6:05 Yes sir. Louder for the people in the back.",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 15.0,
+      "comment_timestamp": 365.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "356.0s - 362.0s",
+          "query": "Visual: The video shows Dr. Anthony Fauci speaking in an office setting with \"National Institute of Allergy and Infectious Diseases\" written on the wall behind him.\n\nAudio: Dr. Fauci is heard discussing responsibilities related to protecting oneself or others during a health crisis."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "362.0s - 368.0s",
+          "query": "Visually, there's Dr. Anthony Fauci speaking in front of a backdrop with \"National Institute of Allergy and Infectious Diseases\" written on it. He appears to be in an office or conference room setting.\n\nIn terms of audio, he is talking about having a societal moral responsibility to protect others. There doesn't seem to be any other significant sounds like music or background noise."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "368.0s - 374.0s",
+          "query": "Sure! So, visually, there's a split-screen with two men talking to each other. One man is wearing a brown sweater and has facial hair, while the other is dressed in a suit and tie. They seem to be having a conversation. In the background, I can see some shelves or cabinets behind them. There s also a vase with orange flowers on one side. The overall setting looks like an office or studio.Anything else specific you want me to focus on?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 208.1223120689392
+    },
+    {
+      "comment_index": 8580,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "13:04 Ever the comedian. He brought back 3:19 and couldn't miss a chance to make a joke. Great interview",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 13.0,
+      "comment_timestamp": 199.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "190.0s - 196.0s",
+          "query": "Sure! So, visually, there are two men talking to each other. One is wearing a brown sweater and has short dark hair, while the other is in a suit with gray hair. They're sitting at desks with some books and flowers on them. The background looks like an office or study room. There's also a bit of movement from their hands as they talk.Audibly, it seems like they're having a conversation about something important related to droplets. The man in the suit is speaking more clearly, and his voice sounds confident.What do you think? Do you want me to explain anything further?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "196.0s - 202.0s",
+          "query": "Sure! So, for the visual part:.There are two men talking to each other. One is wearing a brown sweater and has short dark hair with a beard. The other man is older, wearing a suit and tie, and he's gesturing while speaking.As for the audio:.The older man seems to be talking about something, maybe giving advice or explaining a point. It feels like it could be from an interview or discussion.Does that help? Let me know if you want more details!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "202.0s - 208.0s",
+          "query": "Sure! Let's break it down:.Visually, there are two men on screen. One is wearing a brown sweater and sitting in front of shelves with books and flowers. The other man is dressed in a suit and tie, standing in an office-like setting with \"National Institute of Allergy and Infectious Diseases\" written on the wall.Audibly, someone is speaking, likely discussing something related to the setting or topic at hand. There might be some background noise typical for such environments.If you want more details about any specific aspect, feel free to ask!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 257.40184926986694
+    },
+    {
+      "comment_index": 8581,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "That last question tho!!! 11:33 12:08 \"Things are implemented at the state and local level. That's the way this country works so well. The federal government is a facilitator, a supplier, a supporter... A marriage between the federal government, as the facilitator and supporter of, and where the real action is, at the state and local level.\" [US Civics 101]  * facilitator [n.] a person or thing that makes an action or process easy or easier.  22 4 55",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 13.0,
+      "comment_timestamp": 728.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "719.0s - 725.0s",
+          "query": "Visually, there are two men in different settings. One is wearing a brown sweater and gesturing with his hands while standing near shelves with books and flowers. The other man is dressed in a suit and tie, sitting against a wall with some framed pictures or certificates behind him. Both seem to be engaged in conversation.\n\nAudio-wise, it's just the man speaking about implementing checks and balances to ensure everyone fights something and that numbers go down. There's no background music or sound effects, just plain speech."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "725.0s - 731.0s",
+          "query": "Visually, there are two men on screen. One is wearing a brown sweater and sitting in front of shelves with books and flowers. The other man is dressed in a suit and tie, standing against a backdrop that includes words like \"NATIONAL INSTITUTE\" and some plaques or awards. There's also a vase with orange flowers visible.\n\nIn terms of audio, it seems to be a conversation between these two men. The speaker mentions something about things being implemented at the state and local level."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "731.0s - 737.0s",
+          "query": "Visual: The video shows two men having a conversation. One is wearing a brown sweater and sitting in front of a shelf with books and flowers. The other man is dressed in a suit and tie, standing against a wall that has \"NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES\" written on it.\n\nAudio: There's a voice speaking about how the federal government acts as a facilitator."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 381.6352024078369
+    },
+    {
+      "comment_index": 8582,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "Fart at 3:04",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 12.0,
+      "comment_timestamp": 184.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "175.0s - 181.0s",
+          "query": "Visually, there are two men in different settings. One is wearing a brown sweater and sitting in front of shelves with books and flowers. The other man is dressed formally in a suit and tie, speaking in an office-like environment with \"ALLERGY AND INFECTIOUS DISEASE\" visible on the wall behind him.\n\nAudio-wise, it's just someone talking about how things can be spread through droplets and aerosols. There's no background music or sound effects, just plain speech."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "181.0s - 187.0s",
+          "query": "Visually, there are two men having a conversation. One is wearing a brown sweater and sitting in front of shelves with books and a vase of orange flowers. The other man is dressed in a suit and tie, speaking animatedly while gesturing with his hands. The background behind him shows some text on the wall.\n\nIn terms of audio, it's just the two men talking without any additional music or sound effects. Their voices seem to be the main focus."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "187.0s - 193.0s",
+          "query": "Visually, there are two men in different settings. One is wearing a brown sweater and sitting against a backdrop with shelves holding books and a vase with orange flowers. The other man is dressed in a suit and tie, standing in front of a wall that says \"Allergy and Infectious Diseases.\" Both seem to be engaged in conversation.\n\nAudibly, it's a dialogue between these two individuals. There's no background music or sound effects, just their voices speaking."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 270.6153166294098
+    },
+    {
+      "comment_index": 8583,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "8:15 damn good question Trevor",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 10.0,
+      "comment_timestamp": 495.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "486.0s - 492.0s",
+          "query": "Sure! Let's break it down.First, visually, there are two men sitting side by side. One is wearing a brown sweater and has his hands raised, while the other is dressed in a suit with a blue shirt and tie. They seem to be engaged in a conversation or interview.Secondly, in terms of audio, one man is speaking, likely asking questions or making comments, while the other listens attentively. There might be some background noise, possibly from an audience or equipment, but no distinct music or sound effects stand out.What do you think about these observations? Do they match what you saw?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "492.0s - 498.0s",
+          "query": "Visually, there are two men in different settings. One is wearing a brown sweater and gesturing with his hands while sitting at a desk with books and flowers behind him. The other man is dressed in a suit and tie, seated against a backdrop that includes \"NATIONAL INSTITUTE\" written on it. Both seem to be engaged in conversation.\n\nAudio-wise, there's dialogue between these two individuals. It appears to be a discussion or interview format. There aren't any noticeable background noises or music."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "498.0s - 504.0s",
+          "query": "Visually, there are two men talking on a split-screen. One is wearing a brown sweater and sitting in front of shelves with books and flowers. The other man is in a suit, holding something small and gesturing while speaking. There's also some text visible that says \"NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES.\"\n\nAudio-wise, it seems like they're having a conversation about something related to timeframes, mentioning things going back 15 days for every country and then 21 days. It sounds like they might be discussing a timeline or schedule."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 282.24286580085754
+    },
+    {
+      "comment_index": 8584,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "3:23 when Trevor came up with the punch line about washing his hands",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 10.0,
+      "comment_timestamp": 203.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "194.0s - 200.0s",
+          "query": "Visually, there are two men in different settings. One is wearing a brown sweater and sitting against a backdrop with shelves holding books and a vase with orange flowers. The other man is dressed in a suit and tie, standing in front of a wall that says \"Allergy and Infectious Diseases.\" Both seem to be engaged in conversation.\n\nAudibly, it's just the two men talking. There doesn't seem to be any background music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "200.0s - 206.0s",
+          "query": "**Visual:** The video shows two men having a conversation. One is wearing a brown sweater and sitting indoors with shelves and books visible behind him. There's also a vase with orange flowers on a table next to him. The other man is dressed in a suit and tie, speaking animatedly while gesturing with his hands. He appears to be in an office or institutional setting.\n\n**Audio:** The audio features a man speaking, likely delivering some kind of commentary or explanation. His tone seems serious yet engaging."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "206.0s - 212.0s",
+          "query": "**Visual:** The video shows two men engaged in conversation. One man is wearing a brown sweater and sitting against a backdrop with shelves holding books and decorative items like a vase with orange flowers. The other man is dressed in a suit and tie, seated in an office-like setting with visible text on the wall behind him that says \"INSTITUTE OF DISEASE AND INFECT.\"\n\n**Audio:** A voice is heard speaking about not wanting to be obsessive-compulsive about wiping everything down."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 204.63947176933289
+    },
+    {
+      "comment_index": 8585,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "3:05 Trevor Noah trows a fart !",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 8.0,
+      "comment_timestamp": 185.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "176.0s - 182.0s",
+          "query": "Sure! So, visually, there are two men talking to each other. One is wearing a brown sweater and has a vase with orange flowers behind him. The other man is in a suit and tie, sitting in front of a wall that says \"National Institute of Allergy and Infectious Diseases.\".In terms of audio, it's just one person speaking about aerosols, explaining that they're droplets that don't fall down. There s no background music or sound effects.Anything else you want to know?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "182.0s - 188.0s",
+          "query": "Sure! So, visually, there are two men talking to each other. One is wearing a brown sweater and has a vase with orange flowers behind him. The other man is in a suit and tie. They seem to be having a conversation. There's also some furniture like shelves and a wall with writing on it. As for the audio, they're speaking, probably discussing something important or interesting.Anything else you want to know about the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "188.0s - 194.0s",
+          "query": "Visually, there are two men speaking. One is wearing a brown sweater and sitting against a backdrop with shelves holding books and a vase with orange flowers. The other man is dressed in a suit and tie, standing in front of a wall that says \"NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES.\" Both seem to be engaged in conversation.\n\nIn terms of audio, it's primarily speech from both individuals. There doesn't appear to be any background music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 259.1977331638336
+    },
+    {
+      "comment_index": 8586,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "1:26 And up to 10% in some areas, which is scary.",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 8.0,
+      "comment_timestamp": 86.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "77.0s - 83.0s",
+          "query": "Sure! So, visually, there are two men talking to each other. One is wearing a brown sweater and has short dark hair with a beard. The other man is older, with white hair, dressed in a black suit and blue shirt. They seem to be having a conversation. In the background, there's some furniture like shelves and a vase with orange flowers.On the audio side, it s just their voices talking about something related to mortality rates. It sounds pretty serious.What do you think they might be discussing?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "83.0s - 89.0s",
+          "query": "Visually, there are two men in different settings. One is wearing a brown sweater and sitting indoors with shelves and books behind him. The other man is dressed in a suit and tie, standing in front of a wall that says \"ALLERGY AND INFECTIOUS DISEASES.\" There's also an orange flower arrangement visible.\n\nAudibly, someone is speaking about mortality rates related to something unspecified, mentioning it's around ten times higher than another unspecified thing."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "89.0s - 95.0s",
+          "query": "**Visual:** The video shows two men engaged in a conversation. One man is wearing a brown sweater and sitting indoors with shelves and books visible behind him. There's also a vase with orange flowers on a table next to him. The other man is dressed in a suit and tie, standing in an office-like setting with \"ALLERGY AND INFECTIOUS DISEASE\" written on the wall.\n\n**Audio:** A male voice speaks about a disease that is not only deadly but also mentions something related to it being \"at least.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 190.85713720321655
+    },
+    {
+      "comment_index": 8587,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "@4:33 Someone get the Dr some more coffee!! What a good man.",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 5.0,
+      "comment_timestamp": 273.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "264.0s - 270.0s",
+          "query": "**Visual:** The video shows two men engaged in conversation. One man is wearing a brown sweater and sitting indoors with shelves and books visible behind him. There's also an orange flower arrangement on a table nearby. The other man is dressed in a suit and tie, standing in front of a wall that has \"ALLERGY AND INFECTION\" written on it.\n\n**Audio:** The dialogue includes phrases like \"I wouldn't worry about that,\" suggesting a discussion or interview format. The tone seems to be serious or professional."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "270.0s - 276.0s",
+          "query": "**Visual:** The video shows two men engaged in a conversation. One man is wearing a brown sweater and sitting at a desk with books and flowers on it. The other man is dressed in a suit and tie, seated against a backdrop that includes an \"Allergy and Infectious Diseases\" sign. Both appear to be speaking.\n\n**Audio:** There's dialogue between the two men discussing mortality rates related to something previously mentioned. No background music or sound effects are present; only their voices can be heard."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "276.0s - 282.0s",
+          "query": "**Visual:** The video shows two men engaged in a conversation. On the left side, there's a man wearing a brown sweater sitting indoors with shelves behind him that have books and decorative items like flowers on them. On the right side, another man is dressed formally in a suit and tie, seated against a backdrop featuring an \"INSTITUTE\" sign and some framed pictures or certificates.\n\n**Audio:** A male voice speaks about how people might misunderstand numbers, mentioning older individuals and those with underlying conditions."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 351.42695569992065
+    },
+    {
+      "comment_index": 8588,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "13:06 I was waiting the whole time for it LOL",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 5.0,
+      "comment_timestamp": 786.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "777.0s - 783.0s",
+          "query": "Visually, there are two men on screen. One is wearing a brown sweater and gesturing with his hands while talking. The other man is dressed in a suit and tie, sitting calmly. There's some text visible behind them that says \"NATIONAL INSTITUTE OF\". In the background, there are shelves with books and decorative items.\n\nAudibly, one person is speaking, saying something like \"good luck\" and expressing hope about making someone else's job easier. It seems to be a formal or professional conversation."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "783.0s - 789.0s",
+          "query": "**Visual:** The video shows two men engaged in a conversation. One man is wearing a brown sweater and gesturing with his hands while speaking. The other man, dressed in a suit and tie, appears to be listening attentively. There's a vase with orange flowers on a table behind them.\n\n**Audio:** A voice can be heard saying \"you very much for the opportunity to speak with\" followed by laughter."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "789.0s - 795.0s",
+          "query": "Visual: The video shows two men smiling and talking to each other. One is wearing a brown sweater and sitting at a desk with books behind him. The other man is dressed in a suit and tie, standing against a plain background. There's also an overlay on the screen promoting \"The Daily Show\" with details like airing time and app information.\n\nAudio: The main audio features laughter from both individuals, followed by some background music starting around 4 seconds into the clip."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 270.42243337631226
+    },
+    {
+      "comment_index": 8589,
+      "video_id": "8A3jiM2FNR8",
+      "comment": "Love the subtle drop @11:30   \"I really hope everyone understands how important it is to listen to you...\"",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 4.0,
+      "comment_timestamp": 690.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "681.0s - 687.0s",
+          "query": "Visual: A man in a suit is speaking directly to the camera. He appears to be in an office setting with some text on the wall behind him that says \"NATIONAL INSTITUTE OF DISEASE AND INFECTIOUS DISEASES.\" There's also another person visible in a smaller inset window.\n\nAudio: The main speaker is talking about something related to protection against infection, mentioning it's not completely certain but he'd bet on it."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "687.0s - 693.0s",
+          "query": "Visual: The video shows two men having a conversation. One is wearing a suit with a blue shirt and tie, while the other is dressed casually in a brown sweater. They seem to be in an office or formal setting, indicated by the background which has some shelves and a wall with writing on it.\n\nAudio: There's a man speaking, likely answering questions. He seems to be explaining something related to protection against reinfection. His tone suggests he might be giving advice or information."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "693.0s - 699.0s",
+          "query": "Visually, there are two men in different settings. One is wearing a brown sweater and gesturing with his hands while speaking. The other man is dressed in a suit and tie, sitting against a backdrop that includes \"NATIONAL INSTITUTE OF DERMATOLOGY AND INFECTIOUS DISEASES\" written on it.\n\nAudio-wise, someone is speaking about how important something is to listen to, followed by a final question regarding government actions."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 428.5158796310425
+    }
+  ]
+}

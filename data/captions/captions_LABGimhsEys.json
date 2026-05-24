@@ -6,7 +6,37 @@
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 2012,
+      "comment_index": 3201,
+      "video_id": "LABGimhsEys",
+      "comment": "1:54 Lisa Kudrow ' laugh is make my day",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 897.0,
+      "comment_timestamp": 114.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "105.0s - 111.0s",
+          "query": "Visually, there's a man in a blue suit jacket and black shirt. He's standing in front of a brick wall. He seems to be looking at something in his hands, maybe a phone, and then he starts to pull up his shirt, revealing his belly button. The lighting is dim, and the colors are mostly muted except for the blue of his jacket.\n\nIn terms of audio, there's laughter and applause in the background, suggesting that this might be part of a show or a public event."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "111.0s - 117.0s",
+          "query": "Visual: The video shows a man in a blue suit sitting on a chair, holding a phone. The background is a brick wall. Then it cuts to a woman with blonde hair, wearing a black blazer, standing in front of a brick wall with white bird silhouettes. She's holding a phone and talking. The lighting is dim, creating a somewhat moody atmosphere.\n\nAudio: There's a woman speaking, saying \"I hope you all have a great weekend.\" The tone is friendly and cheerful. There's also laughter in the background, suggesting a light-hearted or social setting."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "117.0s - 123.0s",
+          "query": "Visually, there's a woman with blonde hair in a black blazer, holding a phone and smiling. She's standing in front of a brick wall. There are also some white bird silhouettes and a Twitter logo with a tweet displayed at the bottom. The tweet says, \"@ryaneflan I hope you all have a great weekend! Except you. Lisa Kudrow. F**k you.\".\n\nIn terms of audio, there's laughter and applause heard in the background."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 250.5566282272339
+    },
+    {
+      "comment_index": 3202,
       "video_id": "LABGimhsEys",
       "comment": "1:04 clhoe moretz is sexy as hell tf are they talking about? ",
       "language": "en",
@@ -19,24 +49,24 @@
         {
           "segment_index": 1,
           "time_range": "55.0s - 61.0s",
-          "query": "VISUAL: There's a woman with long brown hair holding a phone. She seems to be reading something on it. The background is a brick wall with some white shapes that look like birds flying. There are also some clouds at the bottom of the frame.AUDIO: Someone says \"Gina Davis is a real man's man.\" It's just one person speaking clearly without any other sounds or music. So, what do you think about this video? Any thoughts?"
+          "query": "Visual: A woman is standing in front of a brick wall, holding a phone. She has long, wavy hair and is wearing a black outfit. There are white silhouettes of birds flying on the wall behind her. The bottom of the frame has a blue Twitter logo and some text.\n\nAudio: There is laughter in the background."
         },
         {
           "segment_index": 2,
           "time_range": "61.0s - 67.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting down, holding a phone. She's wearing a red plaid shirt. There's a brick wall behind her and some white shapes that look like birds flying on it. The bottom has a blue background with clouds and a Twitter logo.AUDIO: Someone is speaking, saying \"Chloe Moretz or whatever her stupid name is looks like my.\" It seems to be a bit of an insult or negative comment about Chloe Moretz. What do you think about this?"
+          "query": "Visually, there's a woman with blonde hair wearing a red and black plaid top. She's holding a phone and looking at it. The background is a brick wall. There's also a Twitter logo and some text at the bottom of the screen. The text seems to be a tweet directed at someone named Chloe Moretz or something similar, using some inappropriate language. The woman appears to be reacting to the tweet, possibly laughing or speaking."
         },
         {
           "segment_index": 3,
           "time_range": "67.0s - 73.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting against a brick wall background. She's wearing a red plaid off - shoulder top and holding a phone. There's a Twitter logo and some text overlaid on the bottom left corner of the screen.AUDIO: Someone is speaking, saying \"she is not decent looking whatsoever\" and then \"you must have a really bleached.\" The tone seems to be somewhat harsh or critical.What do you think about the content? Do you want to discuss it further?"
+          "query": "Visual: A young woman with blonde hair is sitting against a brick wall background. She's wearing a red plaid shirt and holding a phone in her hands.\n\nAudio: There's some kind of speech or dialogue happening, but it's not clear enough to understand fully. It seems like there might be some music playing softly in the background too."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 226.25291633605957
+      "processing_time": 282.31435537338257
     },
     {
-      "comment_index": 2013,
+      "comment_index": 3203,
       "video_id": "LABGimhsEys",
       "comment": "1:55 I like how Lisa just laughs at the stupidity of it.",
       "language": "en",
@@ -49,24 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "106.0s - 112.0s",
-          "query": "VISUAL: There's a man on stage with a brick wall background. He's wearing a blue blazer over a black shirt. He lifts his shirt to show his belly button while holding a phone. The scene is well-lit.AUDIO: You can hear laughter and applause from an audience. It seems like they're reacting to something funny or entertaining.What do you think about it? Do you have any other videos for me to analyze?"
+          "query": "Visually, there's a man in a blue suit jacket and black shirt. He's standing in front of a brick wall. He seems to be pulling up his shirt, revealing his belly button. There are some white shapes, possibly birds, flying in the background. The lighting is dim, giving a somewhat dramatic feel.\n\nIn terms of audio, there's laughter and cheering from an audience, suggesting a live performance or show."
         },
         {
           "segment_index": 2,
           "time_range": "112.0s - 118.0s",
-          "query": "VISUAL: There's a man in a blue suit holding a phone, then a woman with blonde hair appears, also holding a phone. They seem to be in front of a brick wall with some white bird silhouettes on it.AUDIO: Someone is speaking, saying \"he's right I hope you all have a great weekend except you Lisa.\" It seems like they're addressing an audience or group of people.What do you think about this? Do you want to discuss more about it?"
+          "query": "Visual: There's a man with short dark hair wearing a black shirt against a brick wall background. Then it cuts to a woman with blonde hair holding a phone, standing in front of a blue background with white bird silhouettes.\n\nAudio: The woman is speaking, saying \"I hope you all have a great weekend except you Lisa.\""
         },
         {
           "segment_index": 3,
           "time_range": "118.0s - 124.0s",
-          "query": "VISUAL: There's a woman with blonde hair holding a phone, smiling. Then a man in an orange shirt and blue jacket appears, also smiling. The background is a brick wall with some white shapes on it.AUDIO: Someone says \"you\" followed by laughter and applause. It seems like they're reacting to something funny or unexpected.What do you think about that? Any thoughts or questions?"
+          "query": "Visual: A woman with blonde hair is standing against a brick wall background. She's holding something small in her hand and appears to be laughing or smiling. There are white bird silhouettes on the wall behind her.\n\nAudio: Someone is speaking, saying \"I hope you all have a great weekend! Except you, Lisa Kudrow. F--k you.\" The tone seems sarcastic or mocking."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 195.84710478782654
+      "processing_time": 179.0922577381134
     },
     {
-      "comment_index": 2014,
+      "comment_index": 3204,
       "video_id": "LABGimhsEys",
       "comment": "1:33 he has a smiley face on his head XD",
       "language": "en",
@@ -79,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "84.0s - 90.0s",
-          "query": "VISUAL: A man is standing against a brick wall background. He's wearing a suit jacket over a light-colored shirt. He looks down at his phone, then starts laughing. There's a Twitter logo and some text overlaid on the bottom left corner.AUDIO: The man is speaking, and there's laughter from an unseen audience. It seems like he might be reading or reacting to something funny on his phone.What do you think about that? Any thoughts on why he might be laughing?"
+          "query": "**Visual:** The video shows a man in a suit sitting in front of a brick wall. There's a tweet displayed at the bottom of the screen, which seems to criticize someone named Scott Foley from the TV show \"Scandal.\" The tweet contains some offensive language.\n\n**Audio:** The audio includes laughter and applause, suggesting a reaction to something humorous or entertaining."
         },
         {
           "segment_index": 2,
           "time_range": "90.0s - 96.0s",
-          "query": "VISUAL: A man is standing against a brick wall background. He's wearing glasses and a brown jacket over a dark shirt. There's some kind of graphic or logo on his chest. The bottom has a Twitter-like design with a tweet displayed.AUDIO: Someone is speaking, and there's laughter from an audience. It seems like they're reacting to something said about Michael Chiklis looking like a scrotum.What do you think about that? Any thoughts on why he might be saying such things?"
+          "query": "Visual: A man with glasses is standing against a brick wall background. He's wearing a brown jacket over a red shirt. There are some white cloud-like shapes on the screen.\n\nAudio: The man is speaking, and there seems to be laughter from an audience in response to his words."
         },
         {
           "segment_index": 3,
           "time_range": "96.0s - 102.0s",
-          "query": "VISUAL: There's a man with white hair wearing glasses and a suit standing against a brick wall background. He seems to be speaking or reacting to something. There's also some text on the screen that looks like a tweet from \"Ted Danson sucks donkey balls\" and another one mentioning John Stamos having something. The bottom has a Twitter logo and some other text.AUDIO: Someone is speaking, probably the same person in the visual part. It sounds like they're talking about Ted Danson and John Stamos. There might be some laughter or reaction from an audience too.If you have any thoughts or questions about this, feel free to share!"
+          "query": "Visual: A man with glasses is standing against a brick wall background. He's wearing a suit and appears to be speaking or reacting to something. There are some light blue cloud-like shapes at the bottom of the frame.\n\nAudio: The main audio consists of someone speaking, likely the man in the video. There are also laughter and applause heard in the background, suggesting an audience reaction."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 240.29025769233704
+      "processing_time": 165.93587970733643
     },
     {
-      "comment_index": 2015,
+      "comment_index": 3205,
       "video_id": "LABGimhsEys",
       "comment": "1:58 The spirit of Phoebe just jumped out of her",
       "language": "en",
@@ -109,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "109.0s - 115.0s",
-          "query": "VISUAL: There's a man on stage with a brick wall background. He's wearing a blue blazer over a black shirt. He seems to be holding something small in his hand and then he pulls up his pants. A woman appears briefly, also on stage, looking at her phone.AUDIO: You can hear applause and laughter throughout the clip. There's also some speech from an unseen person saying \"he's right I hope\". What do you think about it?"
+          "query": "Visually, there's a man in a blue suit jacket and black shirt. He's holding a phone and seems to be in a room with a brick wall. There are also some white shapes, maybe like birds, floating in the air. The scene looks a bit blurry and dimly lit. In the audio, you can hear applause and laughter, which suggests a positive and lively atmosphere."
         },
         {
           "segment_index": 2,
           "time_range": "115.0s - 121.0s",
-          "query": "VISUAL: A woman with blonde hair is holding up a phone, looking at it. She's standing against a brick wall background. There's some kind of graphic or design on the bottom of the screen that looks like clouds and a bird. The woman seems to be reacting to something on her phone.AUDIO: Someone says \"you all have a great weekend except you Lisa Kudrow\" in a calm voice. Then there's applause and laughter. It ends with more applause. What do you think about this?"
+          "query": "Visual: A woman with blonde hair is holding up a phone against a dark brick wall background. There's some white cloud-like shapes on the screen.\n\nAudio: Someone says \"I hope you all have a great weekend! Except you.\" Then there's laughter."
         },
         {
           "segment_index": 3,
           "time_range": "121.0s - 127.0s",
-          "query": "VISUAL: There's a man standing against a brick wall background with some white bird silhouettes on it. He has short dark hair and is wearing an orange shirt under a blue jacket. He seems to be speaking or reacting to something.AUDIO: The main thing heard is applause from an audience, which lasts for most of the clip. Then there's a male voice saying \"If an alien landed here and demanded a famous person to eat.\" It ends with more applause.What do you think about that? Any thoughts or questions?"
+          "query": "Visual: A man is standing against a brick wall background with white bird silhouettes on it. He's wearing an orange shirt under a blue jacket. There's some text at the bottom that looks like a tweet from Twitter.\n\nAudio: The man is speaking, and there seems to be laughter or applause from an audience in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 236.43895363807678
+      "processing_time": 211.78004956245422
     },
     {
-      "comment_index": 2016,
+      "comment_index": 3206,
       "video_id": "LABGimhsEys",
       "comment": "0:05 I feel bad for her because she actually felt offended...",
       "language": "en",
@@ -139,24 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "0.0s - 2.0s",
-          "query": "VISUAL: There's an illustration with a city skyline at the bottom. A hand is holding a phone with a Twitter logo on it. The words \"Jimmy Kimmel Live! Mean Tweets\" appear above the hand. The background has a gradient from light to dark. There's also a hashtag \"#MeanTweets\" at the bottom.AUDIO: You can hear applause and music playing throughout the clip."
+          "query": "Visual: The video shows a graphic with \"Jimmy Kimmel Live!\" written at the top in stylized text. Below that, it says \"Mean Tweets\" in bold letters. There's also a silhouette of a hand holding a phone, and in the background, there's a cityscape. The colors are mainly black, white, and red. The hand holding the phone seems to be in motion, as if typing or scrolling.\n\nAudio: There's applause heard in the audio, suggesting an audience reaction."
         },
         {
           "segment_index": 2,
           "time_range": "2.0s - 8.0s",
-          "query": "VISUAL: A woman with long blonde hair is looking at her phone. She's wearing a sleeveless top. The background has a brick wall pattern. There's some text overlay on the bottom left corner that seems to be from Twitter.AUDIO: Someone is speaking, saying \"you ugly ass big bird looking bitch shut the f**k up.\" It's a bit of an offensive statement. What do you think about it?"
+          "query": "Visual: The video shows a woman with blonde hair standing in front of a brick wall. She is holding a phone and appears to be reading something aloud. There's a graphic overlay with the text \"Jimmy Kimmel Live! Mean Tweets\" and an illustration of a hand holding a phone with a Twitter logo. The background includes a cityscape silhouette.\n\nAudio: There is applause and music playing in the background. The woman speaks, saying \"Gwyneth Paltrow you ugly ass.\""
         },
         {
           "segment_index": 3,
           "time_range": "8.0s - 14.0s",
-          "query": "VISUAL: There's a woman with long blonde hair looking at her phone. She has a neutral expression. The background is a brick wall. Then another woman with short blonde hair appears, also looking at something on her phone.AUDIO: There's laughter in the background throughout most of it. At one point, there's some music playing. And then someone says \"unpopular opinion\" twice. What do you think about this?"
+          "query": "Visual: The video shows a woman with long blonde hair. She's holding a phone and appears to be looking at it. There's a dark background behind her. There's also a tweet displayed at the bottom of the screen, which seems to be from a Twitter account named \"concretesledge.\" The tweet contains some offensive language directed at Gwyneth Paltrow.\n\nAudio: The woman is speaking, but the content of her speech isn't clear from the provided information. There's laughter heard in the background, suggesting that the woman might be reacting to something humorous."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 206.61006093025208
+      "processing_time": 336.17839527130127
     },
     {
-      "comment_index": 2017,
+      "comment_index": 3207,
       "video_id": "LABGimhsEys",
       "comment": "0:15 that looks like that tweet hurt her feelings",
       "language": "en",
@@ -169,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "6.0s - 12.0s",
-          "query": "VISUAL: A woman with long blonde hair is looking at her phone. She's wearing a sleeveless top. The background has a brick wall pattern. There's some text overlay on the bottom left corner that seems to be from Twitter.AUDIO: Someone is speaking, saying \"you ugly ass big bird looking bitch shut the f**k up.\" It's a bit of an offensive statement. What do you think about it?"
+          "query": "Visually, there's a woman with long blonde hair. She seems to be speaking or reacting to something. There's a dark background behind her. There's also a tweet displayed at the bottom of the screen, which is from @concretesledge and says \"@GwynethPaltrow you ugly ass big bird looking bitch, shut the f\".Audio-wise, there's a voice speaking, but the content of the speech is not clear from the given information."
         },
         {
           "segment_index": 2,
           "time_range": "12.0s - 18.0s",
-          "query": "VISUAL: There's a woman with long blonde hair looking at her phone. She has a neutral expression. The background is a brick wall. Then another woman with short blonde hair appears, also looking at something on her phone.AUDIO: There's laughter in the background throughout most of it. At one point, there's some music playing. And then someone says \"unpopular opinion\" twice. What do you think about this?"
+          "query": "Visually, there's a woman with blonde hair in a black outfit. She seems to be on a stage or set with a brick wall backdrop. There's also a tweet displayed at the bottom of the screen. The woman is looking down and appears to be holding something small in her hands. The tweet is from @concreteledge and says \"Gwyneth Paltrow you ugly ass big bird looking bitch, shut the f**k up.\".Audio-wise, there's laughter and music playing in the background."
         },
         {
           "segment_index": 3,
           "time_range": "18.0s - 24.0s",
-          "query": "VISUAL: There's a woman with short blonde hair sitting against a brick wall background. She seems to be reacting to something on her phone. Then a man appears, also looking at his phone. The setting looks like it could be some kind of talk show or interview setup.AUDIO: A female voice is speaking throughout, saying \"Lena Dunham's boobs are dog noses.\" There's also laughter heard after she says that. It sounds like there might be other people present too, possibly an audience. What do you think about this?"
+          "query": "Visual: A person with short blonde hair is standing against a brick wall background. They're wearing a black top and seem to be speaking or presenting something.\n\nAudio: There's some kind of speech happening, possibly a monologue or commentary. The tone seems conversational."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 227.07072019577026
+      "processing_time": 282.64751148223877
     },
     {
-      "comment_index": 2018,
+      "comment_index": 3208,
       "video_id": "LABGimhsEys",
       "comment": "0:41 Rest in peace, Bob Newhart. You are TV gold.",
       "language": "en",
@@ -199,24 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "32.0s - 38.0s",
-          "query": "VISUAL: There's a man with short dark hair and glasses wearing an orange blazer over a white shirt and red tie. He seems to be on some kind of stage or set with a brick wall background. He's holding a phone and looking at it while talking. There's also a Twitter logo and some text overlaid on the bottom left corner.AUDIO: A male voice is speaking throughout the clip. It starts off with laughter from an audience, then continues with more speech. The speech includes phrases like \"ty Burrell looks like Jon Hamm if Jon Hamm.\""
+          "query": "Visual: The video shows two men speaking on stage against a brick wall backdrop. One man wears glasses and a suit with a red tie, while the other is dressed casually.\n\nAudio: There's laughter heard during the conversation between the two men."
         },
         {
           "segment_index": 2,
           "time_range": "38.0s - 44.0s",
-          "query": "VISUAL: There's a man in a tan suit holding a phone. He looks at it while standing against a brick wall background with some white shapes on it. The scene is pretty simple, just him and his phone.AUDIO: You can hear someone speaking, probably reading out tweets or something like that. It seems to be a bit of a casual conversation or commentary. There's also laughter from an audience, which suggests there might be some humor involved.What do you think about the video? Any thoughts or questions?"
+          "query": "Visually, there's a man in a suit and tie standing in front of a brick wall. He seems to be holding something in his hands. There are some white, cloud-like shapes at the bottom of the screen with text on them. The background is mostly dark with the brick wall being a reddish-brown color. The man appears to be speaking or presenting something. There's also a Twitter logo and some text related to Twitter in the bottom left corner of the screen. The overall scene looks like it could be from a talk show or a similar type of program."
         },
         {
           "segment_index": 3,
           "time_range": "44.0s - 50.0s",
-          "query": "VISUAL: There's an older man with glasses on stage holding a phone. He looks at it then glances up. The background is a brick wall. A woman appears later, also on stage, looking at her phone. She has blonde hair and wears a shiny outfit.AUDIO: There's some music playing in the background. Someone is speaking, saying \"120 I feel like Britney Spears is sta\". It seems like they're making a comment or joke about something related to age and Britney Spears.What do you think about that? Do you have any other videos you want me to analyze?"
+          "query": "Visual: A man is standing against a brick wall background. He's wearing glasses and a light-colored suit jacket over a white shirt. There are some white shapes resembling birds or clouds floating around him.\n\nAudio: Someone is speaking, saying \"I feel like Britney Spears is.\" The tone seems casual and possibly humorous."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 250.66379499435425
+      "processing_time": 206.6263291835785
     },
     {
-      "comment_index": 2019,
+      "comment_index": 3209,
       "video_id": "LABGimhsEys",
       "comment": "1:43 Love how the crowd laughed at the John Stamos gross belly button comment but then went deathly silent when they saw how gross it actually is  😂😂😂",
       "language": "en",
@@ -229,24 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "94.0s - 100.0s",
-          "query": "VISUAL: There's a man with glasses on stage against a brick wall background. He seems to be reacting to something. Then another man appears, also on stage, wearing a suit and tie, looking at his phone. The first man has a bald head while the second one is bald too.AUDIO: There's laughter throughout the clip, and then some speech that says \"Ted Danson sucks donkey balls he's right.\" It ends with more laughter.So, what do you think about these reactions?"
+          "query": "Visual: A man with white hair and glasses is standing against a brick wall background. He's wearing a suit and tie. There are some light blue cloud-like shapes at the bottom of the screen.\n\nAudio: The man is speaking, and there are laughter and applause from an unseen audience."
         },
         {
           "segment_index": 2,
           "time_range": "100.0s - 106.0s",
-          "query": "VISUAL: There's a man in a suit standing against a brick wall background. He takes off his glasses and looks at something on the screen. There's also some text overlay with a Twitter logo and a tweet about John Stamos having a gross belly button.AUDIO: A male voice is speaking, saying \"guys John Stamos has a gross belly button.\" There's laughter from an audience in the background."
+          "query": "Visual: A man is sitting in front of a brick wall. He's wearing a dark jacket and glasses. He adjusts his glasses with his hand. There's a Twitter-like graphic at the bottom with a tweet mentioning \"John Stamos has a gross belly button.\"\n\nAudio: A male voice is speaking, and there's laughter in the background."
         },
         {
           "segment_index": 3,
           "time_range": "106.0s - 112.0s",
-          "query": "VISUAL: There's a man on stage with a brick wall background. He's wearing a blue blazer over a black shirt. He lifts his shirt to show his belly button while holding a phone. The scene is well-lit.AUDIO: You can hear laughter and applause from an audience. It seems like they're reacting to something funny or entertaining.What do you think about it? Do you have any other videos for me to analyze?"
+          "query": "Visually, there's a man in a blue suit jacket and black shirt. He's standing in front of a brick wall. He seems to be pulling up his shirt, revealing his belly button. There are some white shapes, possibly birds, flying in the background. The lighting is dim, giving a somewhat dramatic feel.\n\nIn terms of audio, there's laughter and cheering from an audience, suggesting a live performance or show."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 219.4010705947876
+      "processing_time": 233.60708808898926
     },
     {
-      "comment_index": 2020,
+      "comment_index": 3210,
       "video_id": "LABGimhsEys",
       "comment": "PAUSE IT AT 1:34 IT LOOKS LIKE THERE IS A LITTLE FACE ON HIS HEAD",
       "language": "en",
@@ -259,24 +289,24 @@
         {
           "segment_index": 1,
           "time_range": "85.0s - 91.0s",
-          "query": "VISUAL: A man is standing against a brick wall background with a Twitter logo on it. He's wearing a suit jacket over a light-colored shirt. He looks down at his phone and then starts laughing. There's some kind of graphic or design at the bottom of the screen that resembles clouds.AUDIO: The man is speaking, and there's laughter from an unseen audience. It seems like he might be reading something funny from his phone. What do you think about the scene?"
+          "query": "Visually, there's a man in a suit standing against a brick wall backdrop with a map outline on it. He seems to be speaking or presenting something. There's also some text overlay at the bottom that appears to be a tweet criticizing someone named Scott Foley from \"Scandal.\"\n\nAudio-wise, I can hear laughter and applause, suggesting an audience is reacting positively to whatever the man is saying. The speech itself isn't clear enough for me to transcribe accurately."
         },
         {
           "segment_index": 2,
           "time_range": "91.0s - 97.0s",
-          "query": "VISUAL: There's a man with glasses looking at his phone. Then another man in a suit appears, also looking at something on his phone. The background is a brick wall with a Twitter logo and some clouds at the bottom.AUDIO: You can hear laughter throughout the video. There's also some speech from the men about Michael Chiklis and Ted Danson. It seems like they're reacting to tweets or comments related to these actors.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "Visual: A man with glasses is sitting against a brick wall background. There's some kind of graphic or logo on his shirt. The scene seems to be indoors.\n\nAudio: Someone is speaking, likely making jokes or comments based on the laughter that follows. It sounds like they're interacting with an audience."
         },
         {
           "segment_index": 3,
           "time_range": "97.0s - 103.0s",
-          "query": "VISUAL: There's a man with white hair wearing glasses and a suit. He seems to be on some kind of stage or set. Then another man with dark hair appears, also in a suit, looking at something off - screen.AUDIO: Someone is speaking, saying \"donkey balls\" and \"guys John Stamos has a gross belly.\" It sounds like they're making jokes or comments about these things.What do you think about that? Do you have any other thoughts on the video?"
+          "query": "Visually, there's a man with white hair wearing glasses and a suit standing against a brick wall background. There are some blue cloud-like shapes at the bottom of the screen.\n\nAudio-wise, someone is speaking, saying \"Ted Danson sucks donkey balls\" and then \"Guys John Stamos has a gross belly.\" The tone seems to be sarcastic or mocking."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 226.37936878204346
+      "processing_time": 146.85073471069336
     },
     {
-      "comment_index": 2021,
+      "comment_index": 3211,
       "video_id": "LABGimhsEys",
       "comment": "1:09 is the best celebrity comeback so far.",
       "language": "en",
@@ -289,24 +319,54 @@
         {
           "segment_index": 1,
           "time_range": "60.0s - 66.0s",
-          "query": "VISUAL: A woman is holding a phone and looking at it. There's a brick wall behind her with some white bird silhouettes on it. The bottom has a light blue cloud-like design.AUDIO: Someone is speaking, saying \"Chloe Moretz or whatever her stupid name is looks like my.\" It seems to be a bit of an insult or negative comment about Chloe Moretz. What do you think about that?"
+          "query": "Visual: A woman with blonde hair is sitting in front of a brick wall, looking at her phone. She's wearing a red and black plaid shirt. There's a Twitter logo and some text at the bottom of the screen.\n\nAudio: Someone is speaking, but the content of the speech is not clear from the provided information."
         },
         {
           "segment_index": 2,
           "time_range": "66.0s - 72.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting down, holding a phone. She's wearing a red plaid off - shoulder top. There's a brick wall behind her with some white shapes on it. The bottom has a light blue area with clouds and a Twitter logo.AUDIO: Someone is speaking, saying \"seriously she is not decent looking whatsoever.\" It seems to be a bit of a negative comment about someone's appearance.What do you think about that? Do you have any other videos or questions for me?"
+          "query": "Visual: A woman with blonde hair wearing a red and black plaid shirt is sitting in front of a brick wall. She's holding a phone and looking at it. There's a tweet displayed at the bottom of the screen that says \"@Kye_FN Chloe Moretz or whatever her stupid name is looks like my a-hole seriously she is not decent looking whatsoever.\".Audio: There's a voice speaking, saying \"seriously she is not decent looking whatsoever.\" The tone seems to be negative and critical."
         },
         {
           "segment_index": 3,
           "time_range": "72.0s - 78.0s",
-          "query": "VISUAL: There's a woman with blonde hair wearing a red plaid dress. She seems to be reading something on her phone. Then there's a man in a brown leather jacket looking at his phone too. The background is a brick wall with some white shapes that look like birds or clouds.AUDIO: You can hear laughter and applause in the background. There's also some speech from the woman and the man, but it's not clear what they're saying. It might be related to the tweets shown on screen.What do you think about the video? Do you have any other questions?"
+          "query": "Visual: The video shows two people, a woman with blonde hair wearing a red and black plaid top, and a man with short brown hair in a brown leather jacket. They are standing in front of a brick wall. The woman is holding a microphone and appears to be speaking, while the man is looking down, possibly at a script or notes. There's a Twitter-like graphic at the bottom with some text that seems to be a tweet directed at someone named Chris Pratt.\n\nAudio: The audio includes laughter and applause, suggesting a light-hearted or humorous moment in the video."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 276.07356095314026
+      "processing_time": 296.98544001579285
     },
     {
-      "comment_index": 2022,
+      "comment_index": 3212,
+      "video_id": "LABGimhsEys",
+      "comment": "1:11 best response ever😂",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 23.0,
+      "comment_timestamp": 71.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "62.0s - 68.0s",
+          "query": "Visually, there's a woman with blonde hair wearing a red and black plaid shirt. She's looking at her phone. The background is a brick wall. There's also some text at the bottom of the screen that seems to be a tweet or comment about someone named Chloe Moretz or something similar. It's in white and blue, with a Twitter logo on the left.The audio is just the woman speaking. She seems to be saying something about Chloe Moretz or a similar name, calling it \"stupid\" and saying it looks like her own name."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "68.0s - 74.0s",
+          "query": "Visually, there's a woman with blonde hair wearing a red and black plaid top. She's holding a black object, possibly a phone or a small bag, and looking down at it. The background is a brick wall. There's also a tweet displayed at the bottom of the screen with some offensive language.\n\nAudio-wise, there's a woman speaking, and she seems to be laughing. There's also some music playing in the background."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "74.0s - 80.0s",
+          "query": "Visually, there's a man in a brown leather jacket and a white shirt. He's standing in front of a brick wall. There are some white shapes on the wall that look like clouds. The man is talking and then laughs. There's also a Twitter logo and some text at the bottom of the screen. The text seems to be a tweet directed at Chris Pratt, using some offensive language.\n\nAudio-wise, there's laughter from the audience, and then applause. There's also music playing in the background."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 261.4026577472687
+    },
+    {
+      "comment_index": 3213,
       "video_id": "LABGimhsEys",
       "comment": "Lisa Kudrow is SUPER-cute: 1:57",
       "language": "en",
@@ -319,54 +379,24 @@
         {
           "segment_index": 1,
           "time_range": "108.0s - 114.0s",
-          "query": "VISUAL: There's a man on stage. He's wearing a blue blazer over a black shirt. He's unbuttoning his shirt to reveal his stomach. He looks at the audience while doing it.AUDIO: You can hear cheers from an audience in the background. Then there's some speech that says \"he's right\" twice. It seems like he might be performing or giving a talk on stage.What do you think about this performance?"
+          "query": "Visually, there's a man in a blue suit jacket and black shirt. He's holding a microphone and appears to be on a stage with a brick wall backdrop. There are some white shapes, maybe like birds, projected on the wall. He seems to be speaking or performing, and then he sits down. The lighting is dim, creating a somewhat dramatic effect.Audibly, there's a lot of cheering and clapping from an audience, which suggests he might be a performer or speaker at an event. There's also some laughter, indicating a light-hearted or entertaining atmosphere."
         },
         {
           "segment_index": 2,
           "time_range": "114.0s - 120.0s",
-          "query": "VISUAL: A woman with blonde hair is holding a phone up to her face against a brick wall background. There's some kind of graphic or logo on the bottom left corner that looks like a bird flying. The woman seems to be looking at something on her phone.AUDIO: Someone is speaking, saying \"I hope you all have a great weekend except you Lisa Kudrow.\" Then there's laughter and applause. It sounds like it might be from a show or event where someone is making a joke about Lisa Kudrow. So, what do you think about this? Do you know who Lisa Kudrow is?"
+          "query": "Visual: A woman with blonde hair is holding up a phone, taking a selfie against a brick wall background. There's some sort of graphic or logo on the wall behind her.\n\nAudio: Someone is speaking, saying \"I hope you all have a great weekend! Except you, Lisa Kudrow.\" The tone seems playful or sarcastic."
         },
         {
           "segment_index": 3,
           "time_range": "120.0s - 126.0s",
-          "query": "VISUAL: There's a woman with blonde hair laughing in front of a brick wall. Then a man in an orange shirt and blue jacket appears, also looking at something off - screen. The background has some white bird silhouettes on it.AUDIO: There's laughter from the woman, then applause and more laughter from the man. It seems like they're reacting to something funny or entertaining.What do you think about that? Any thoughts or questions?"
+          "query": "Visual: The video shows two people standing against a brick wall background with Twitter logos on it. One person is wearing a blue jacket over an orange shirt, while the other has blonde hair.\n\nAudio: There's someone speaking, saying \"If an alien landed here and demanded a famous.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 244.7863576412201
+      "processing_time": 171.3472239971161
     },
     {
-      "comment_index": 2023,
-      "video_id": "LABGimhsEys",
-      "comment": "1:20 Raper face that's killed me 😂😂😂😂😂😂😂😃",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 22.0,
-      "comment_timestamp": 80.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "71.0s - 77.0s",
-          "query": "VISUAL: A woman with blonde hair is sitting against a brick wall background, holding a phone. She's wearing a red plaid shirt. Then a man appears, also against the same brick wall, looking at his phone. He has short brown hair and wears a white shirt under a dark leather jacket.AUDIO: There's some speech that includes profanity and mentions \"Chris Pratt.\" The audio also contains applause and music playing in the background.What do you think about the content? Do you have any other videos to analyze?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "77.0s - 83.0s",
-          "query": "VISUAL: A man is looking at his phone while standing against a brick wall background. There's some kind of graphic overlay with a Twitter logo and a tweet that says \"@f*ckingraccoon F*ck off, Chris Pratt.\" The man then changes into a suit and continues to look at his phone. The scene has a light blue cloud-like design at the bottom.AUDIO: There's music playing throughout most of the clip. At one point, there's laughter from an audience member. Then someone speaks, saying \"I hate that scandal cast Scott Foley he is t\". It seems like they're reacting to something on the screen or related to it.What do you think about the content? Do you have any other thoughts or questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "83.0s - 89.0s",
-          "query": "VISUAL: A man is standing against a brick wall background. He's wearing a suit jacket over a light-colored shirt. He looks at his phone and then laughs. There's a Twitter logo and some text overlaid on the bottom left corner.AUDIO: Someone is speaking, and there's laughter from an audience. The speaker seems to be reading or reacting to something on their phone. It also sounds like there might be some music playing softly in the background.What do you think about the scene? Do you have any other thoughts or questions?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 305.5700170993805
-    },
-    {
-      "comment_index": 2024,
+      "comment_index": 3214,
       "video_id": "LABGimhsEys",
       "comment": "0:10 was she about to cry or curse.",
       "language": "en",
@@ -379,24 +409,24 @@
         {
           "segment_index": 1,
           "time_range": "1.0s - 7.0s",
-          "query": "VISUAL: There's an illustration with \"Jimmy Kimmel Live! Mean Tweets\" written on it. A hand is holding a phone with a Twitter logo. In the background, there's a cityscape. Then, a woman appears looking at her phone. She has long blonde hair and is wearing a light blue top.AUDIO: There's applause and music playing throughout the clip. The woman says something that starts with \"Gwyneth Paltrow you\". It seems like she might be reacting to or commenting on tweets related to Gwyneth Paltrow.If you have any other thoughts about this video or want to discuss more, feel free to let me know."
+          "query": "Visual: The video shows an animated graphic with \"Jimmy Kimmel Live! Mean Tweets\" written on it. There's also an illustration of a hand holding a smartphone against a cityscape background.\n\nAudio: Music is playing throughout the clip."
         },
         {
           "segment_index": 2,
           "time_range": "7.0s - 13.0s",
-          "query": "VISUAL: A woman with long blonde hair is looking at her phone. She's wearing a light-colored top. The background seems to be a brick wall. There's some kind of graphic or overlay on the bottom that looks like clouds or smoke.AUDIO: Someone is speaking, saying \"ugly ass big bird looking bitch shut up.\" It has an angry tone. There's also laughter from the audience towards the end.What do you think about it? Do you have any other thoughts or questions related to this video?"
+          "query": "Visually, there's a woman with long blonde hair. She's holding a phone and seems to be looking at it. The background is a dark, possibly brick wall. There are some light blue, cloud-like shapes at the bottom of the screen. There's also a tweet displayed at the bottom, which is offensive and directed at Gwyneth Paltrow.\n\nAudibly, there's a voice speaking, and it's saying something offensive about Gwyneth Paltrow. The tone seems angry or aggressive."
         },
         {
           "segment_index": 3,
           "time_range": "13.0s - 19.0s",
-          "query": "VISUAL: A woman with long blonde hair is looking at her phone. She has a neutral expression. Then another woman with short blonde hair appears, also looking at something on her hands. The background is a brick wall with some white shapes on it.AUDIO: There's music playing throughout the video. No specific speech or sound effects are heard."
+          "query": "Visual: The video shows a woman with blonde hair sitting in front of a brick wall. She's wearing a black top and appears to be looking at something in her hands, possibly a phone. There's a Twitter logo and some text overlaid on the bottom of the screen.\n\nAudio: There's music playing in the background, and the woman seems to be speaking, though the exact words are unclear."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 246.31191968917847
+      "processing_time": 239.3549292087555
     },
     {
-      "comment_index": 2025,
+      "comment_index": 3215,
       "video_id": "LABGimhsEys",
       "comment": "0:51 love britney spears one <3",
       "language": "en",
@@ -409,24 +439,24 @@
         {
           "segment_index": 1,
           "time_range": "42.0s - 48.0s",
-          "query": "VISUAL: There's an older man with glasses on stage against a brick wall background. He's wearing a light-colored suit jacket over a white shirt. He looks down at his phone. There's also a Twitter logo and some text overlaid on the bottom left corner.AUDIO: A male voice is speaking, saying \"Bob Newhart now about 120.\" There's laughter after he says that. What do you think about it?"
+          "query": "Visually, there's a man in a light-colored suit jacket and glasses. He's standing in front of a brick wall with a white bird silhouette on it. He seems to be looking down at something in his hands, possibly a phone or a piece of paper. The background is dark, and there's a light blue, cloud-like shape at the bottom of the frame.\n\nIn terms of audio, there's a man speaking, and then laughter follows his speech. The speech is clear and seems to be in English."
         },
         {
           "segment_index": 2,
           "time_range": "48.0s - 54.0s",
-          "query": "VISUAL: A woman with blonde hair is looking at her phone while standing against a brick wall background. She's wearing a shiny black outfit. There are some white cloud-like shapes on the bottom of the screen and a Twitter logo on the left side.AUDIO: Someone is speaking, saying \"I feel like Britney Spears is stalking me on the radio quit forcing your suckage on me tired.\" It seems to be a bit sarcastic or annoyed tone.What do you think about it? Do you have any other thoughts or questions related to this video?"
+          "query": "Visually, there's a woman with blonde hair in a black and gold outfit. She's standing in front of a brick wall with a map design on it. There's also a Twitter logo and a tweet displayed at the bottom of the screen. The woman is holding something in her hands and appears to be speaking or singing. The colors are mainly dark with the gold accents on her outfit standing out. The movement is mainly the woman's gestures as she holds the object and speaks/sings.Audibly, there's a woman speaking. The speech includes phrases like \"I feel like Britney Spears is stalking me on the radio\" and \"quit forcing your suckage on me.\" The tone seems frustrated or annoyed. There's no background music or sound effects, just the woman's voice."
         },
         {
           "segment_index": 3,
           "time_range": "54.0s - 60.0s",
-          "query": "VISUAL: There's a woman with blonde hair holding a phone against a brick wall background. Then another woman with brown hair appears also holding a phone. The first woman is wearing a black sequined top, while the second one has on a black dress and gold earrings.AUDIO: Someone says \"Gina Davis is a real man's man.\" It's just that simple statement without any other sounds or music. So, what do you think about these two women?"
+          "query": "Visual: The video shows a woman with blonde hair standing in front of a brick wall. She's holding a phone and appears to be speaking or presenting something. There are some white bird-like shapes floating around her. The overall color scheme is dark with the brick wall and the woman's dark clothing.\n\nAudio: The audio includes a woman speaking, likely the same woman in the video. There's also laughter heard, suggesting a humorous or light-hearted context."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 231.92822217941284
+      "processing_time": 270.70086765289307
     },
     {
-      "comment_index": 2026,
+      "comment_index": 3216,
       "video_id": "LABGimhsEys",
       "comment": "2:02 is lolll!!! Adam Sandler!😂😂😂😂",
       "language": "en",
@@ -439,24 +469,54 @@
         {
           "segment_index": 1,
           "time_range": "113.0s - 119.0s",
-          "query": "VISUAL: A man is standing against a brick wall background. He's wearing a dark jacket over a black shirt. Then a woman appears, holding a phone up to her face, looking at it while talking. She has blonde hair and is also dressed in dark clothing.AUDIO: There's a female voice speaking with some laughter in the background. The speech includes phrases like \"right\" and \"I hope you all have a great weekend except you Lisa Kudrow.\" It seems like she might be reading or quoting something from a tweet. What do you think about this?"
+          "query": "Visually, there's a woman with blonde hair holding a phone against a brick wall background. There are also some white bird-like shapes floating around her.\n\nAudio-wise, someone is speaking, saying \"I hope you all have a great weekend! Except you, Lisa Kudrow.\""
         },
         {
           "segment_index": 2,
           "time_range": "119.0s - 125.0s",
-          "query": "VISUAL: A woman with blonde hair is smiling while holding a phone. Then a man in an orange shirt and blue jacket appears, also smiling and looking at something off - screen. The background has a brick wall with a white bird design on it.AUDIO: There's laughter from the audience throughout the clip, followed by applause towards the end. It seems like someone is speaking, but no specific words can be made out from just these few seconds.What do you think about that? Any thoughts or questions?"
+          "query": "Visual: A man is standing against a brick wall background. He's wearing an orange shirt under a dark jacket with white trim on the collar and cuffs. There are white bird silhouettes floating around him.\n\nAudio: The man speaks, saying \"If an alien landed here and demanded.\""
         },
         {
           "segment_index": 3,
           "time_range": "125.0s - 131.0s",
-          "query": "VISUAL: There's a man standing against a brick wall background. He has short dark hair and is wearing an orange shirt under a blue jacket. He looks like he's reading something from his phone. There's also a Twitter logo and some text on the screen that says \"[USER] If an alien landed here and demanded a famous person to eat, I'd drive straight to Adam Sandler's house with a net.\". AUDIO: The man is speaking, and there's laughter in the background. It seems like it might be from a talk show or similar setting. So, what do you think about this? Do you have any other videos you want me to analyze?"
+          "query": "Visually, there's a man with a beard and mustache, wearing a blue jacket and a yellow shirt. He's standing in front of a brick wall with some white bird silhouettes on it. He seems to be talking or reacting to something. There's also a blue Twitter logo and a tweet displayed at the bottom of the screen, mentioning Adam Sandler's house. The overall color scheme is quite muted, with the brick wall and the man's clothing being the main colors. The movement is mainly the man's gestures and facial expressions as he speaks or reacts.Audibly, there's a man speaking, and it sounds like he's making a joke or a statement about an alien demanding a famous person to eat, and then he mentions driving straight to Adam Sandler's house. There are no other distinct sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 264.0906283855438
+      "processing_time": 157.69632697105408
     },
     {
-      "comment_index": 2027,
+      "comment_index": 3217,
+      "video_id": "LABGimhsEys",
+      "comment": "1:15 .........aw!",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 17.0,
+      "comment_timestamp": 75.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "66.0s - 72.0s",
+          "query": "Visual: A woman with blonde hair wearing a red and black plaid shirt is sitting in front of a brick wall. She's holding a phone and looking at it. There's a tweet displayed at the bottom of the screen that says \"@Kye_FN Chloe Moretz or whatever her stupid name is looks like my a-hole seriously she is not decent looking whatsoever.\".Audio: There's a voice speaking, saying \"seriously she is not decent looking whatsoever.\" The tone seems to be negative and critical."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "72.0s - 78.0s",
+          "query": "Visual: The video shows two people, a woman with blonde hair wearing a red and black plaid top, and a man with short brown hair in a brown leather jacket. They are standing in front of a brick wall. The woman is holding a microphone and appears to be speaking, while the man is looking down, possibly at a script or notes. There's a Twitter-like graphic at the bottom with some text that seems to be a tweet directed at someone named Chris Pratt.\n\nAudio: The audio includes laughter and applause, suggesting a light-hearted or humorous moment in the video."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "78.0s - 84.0s",
+          "query": "Visual: A man is standing against a brick wall background. He's wearing a suit jacket over a white shirt. There are some cartoonish clouds and a Twitter logo with a bird shape floating around him.\n\nAudio: The man is speaking, and there's laughter from an unseen audience."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 263.7013568878174
+    },
+    {
+      "comment_index": 3218,
       "video_id": "LABGimhsEys",
       "comment": "1:49 which one is his belly button? 😂🤣",
       "language": "en",
@@ -469,24 +529,24 @@
         {
           "segment_index": 1,
           "time_range": "100.0s - 106.0s",
-          "query": "VISUAL: There's a man in a suit standing against a brick wall background. He takes off his glasses and looks at something on the screen. There's also some text overlay with a Twitter logo and a tweet about John Stamos having a gross belly button.AUDIO: A male voice is speaking, saying \"guys John Stamos has a gross belly button.\" There's laughter from an audience in the background."
+          "query": "Visual: A man is sitting in front of a brick wall. He's wearing a dark jacket and glasses. He adjusts his glasses with his hand. There's a Twitter-like graphic at the bottom with a tweet mentioning \"John Stamos has a gross belly button.\"\n\nAudio: A male voice is speaking, and there's laughter in the background."
         },
         {
           "segment_index": 2,
           "time_range": "106.0s - 112.0s",
-          "query": "VISUAL: There's a man on stage with a brick wall background. He's wearing a blue blazer over a black shirt. He lifts his shirt to show his belly button while holding a phone. The scene is well-lit.AUDIO: You can hear laughter and applause from an audience. It seems like they're reacting to something funny or entertaining.What do you think about it? Do you have any other videos for me to analyze?"
+          "query": "Visually, there's a man in a blue suit jacket and black shirt. He's standing in front of a brick wall. He seems to be pulling up his shirt, revealing his belly button. There are some white shapes, possibly birds, flying in the background. The lighting is dim, giving a somewhat dramatic feel.\n\nIn terms of audio, there's laughter and cheering from an audience, suggesting a live performance or show."
         },
         {
           "segment_index": 3,
           "time_range": "112.0s - 118.0s",
-          "query": "VISUAL: There's a man in a blue suit holding a phone, then a woman with blonde hair appears, also holding a phone. They seem to be in front of a brick wall with some white bird silhouettes on it.AUDIO: Someone is speaking, saying \"he's right I hope you all have a great weekend except you Lisa.\" It seems like they're addressing an audience or group of people.What do you think about this? Do you want to discuss more about it?"
+          "query": "Visual: The video shows two men sitting side by side against a brick wall background. There's also a woman taking a selfie with her phone.\n\nAudio: Someone is speaking, saying \"I hope you all have a great weekend except you Lisa.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 211.86722946166992
+      "processing_time": 258.0492351055145
     },
     {
-      "comment_index": 2028,
+      "comment_index": 3219,
       "video_id": "LABGimhsEys",
       "comment": "00:41 Omg . that's broke my heart",
       "language": "en",
@@ -499,24 +559,24 @@
         {
           "segment_index": 1,
           "time_range": "32.0s - 38.0s",
-          "query": "VISUAL: There's a man with short dark hair and glasses wearing an orange blazer over a white shirt and red tie. He seems to be on some kind of stage or set with a brick wall background. He's holding a phone and looking at it while talking. There's also a Twitter logo and some text overlaid on the bottom left corner.AUDIO: A male voice is speaking throughout the clip. It starts off with laughter from an audience, then continues with more speech. The speech includes phrases like \"ty Burrell looks like Jon Hamm if Jon Hamm.\""
+          "query": "Visual: The video shows two men speaking on stage against a brick wall backdrop. One man wears glasses and a suit with a red tie, while the other is dressed casually.\n\nAudio: There's laughter heard during the conversation between the two men."
         },
         {
           "segment_index": 2,
           "time_range": "38.0s - 44.0s",
-          "query": "VISUAL: There's a man in a tan suit holding a phone. He looks at it while standing against a brick wall background with some white shapes on it. The scene is pretty simple, just him and his phone.AUDIO: You can hear someone speaking, probably reading out tweets or something like that. It seems to be a bit of a casual conversation or commentary. There's also laughter from an audience, which suggests there might be some humor involved.What do you think about the video? Any thoughts or questions?"
+          "query": "Visually, there's a man in a suit and tie standing in front of a brick wall. He seems to be holding something in his hands. There are some white, cloud-like shapes at the bottom of the screen with text on them. The background is mostly dark with the brick wall being a reddish-brown color. The man appears to be speaking or presenting something. There's also a Twitter logo and some text related to Twitter in the bottom left corner of the screen. The overall scene looks like it could be from a talk show or a similar type of program."
         },
         {
           "segment_index": 3,
           "time_range": "44.0s - 50.0s",
-          "query": "VISUAL: There's an older man with glasses on stage holding a phone. He looks at it then glances up. The background is a brick wall. A woman appears later, also on stage, looking at her phone. She has blonde hair and wears a shiny outfit.AUDIO: There's some music playing in the background. Someone is speaking, saying \"120 I feel like Britney Spears is sta\". It seems like they're making a comment or joke about something related to age and Britney Spears.What do you think about that? Do you have any other videos you want me to analyze?"
+          "query": "Visual: A man is standing against a brick wall background. He's wearing glasses and a light-colored suit jacket over a white shirt. There are some white shapes resembling birds or clouds floating around him.\n\nAudio: Someone is speaking, saying \"I feel like Britney Spears is.\" The tone seems casual and possibly humorous."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 283.5974831581116
+      "processing_time": 208.74748730659485
     },
     {
-      "comment_index": 2029,
+      "comment_index": 3220,
       "video_id": "LABGimhsEys",
       "comment": "0:36 who else watches modern family and was so happy when they saw Phil lol",
       "language": "en",
@@ -529,81 +589,21 @@
         {
           "segment_index": 1,
           "time_range": "27.0s - 33.0s",
-          "query": "VISUAL: There's a man with short dark hair and a beard wearing a blue shirt. He seems to be on some kind of talk show set with a brick wall background. There are also some white shapes that look like birds flying around him.AUDIO: The man is speaking, and there's laughter from an audience in the background. It sounds like he might be responding to something funny or unexpected.What do you think about it? Do you have any other thoughts or questions related to this video?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.87 GiB is free. Including non-PyTorch memory, this process has 15.68 GiB memory in use. Of the allocated memory 13.59 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 2,
           "time_range": "33.0s - 39.0s",
-          "query": "VISUAL: There's a man in a blue shirt talking against a brick wall background with a Twitter logo on it. Then another man in an orange suit appears holding a phone. He seems to be reading tweets from a screen.AUDIO: A male voice is speaking throughout the clip. It starts with a question about Gerard Butler having a student loan and doing certain films. Then there's a comment comparing Ty Burrell to Jon Hamm if he was a crack addict. The tone is somewhat humorous. So, what do you think about these comments?"
+          "query": "**Visual:** The video shows a man wearing glasses, a beige suit jacket, a white shirt, and a red tie with small patterns. He's holding something in his right hand while standing against a brick wall backdrop. There are white bird silhouettes on the wall behind him.\n\n**Audio:** A voice is heard saying \"@SupeMatheson Ty Burrell looks like Jon Hamm if Jon Hamm was a crackhead.\""
         },
         {
           "segment_index": 3,
           "time_range": "39.0s - 45.0s",
-          "query": "VISUAL: There's a man in an orange suit holding a phone. He looks at it while standing against a brick wall background with some white shapes on it. Then another man in a beige suit appears, also looking at his phone.AUDIO: Someone is speaking, asking \"How old is Bob Newhart now?\". There's laughter from the audience too.If you want to talk more about this or have other questions, feel free to let me know."
+          "query": "Visual: A man wearing glasses and a light-colored suit is standing against a brick wall background with some white shapes on it. He seems to be holding something small in his hands.\n\nAudio: There's laughter heard at one point during the video."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 228.0547866821289
-    },
-    {
-      "comment_index": 2030,
-      "video_id": "LABGimhsEys",
-      "comment": "2:10 what kind of insult is that?",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 12.0,
-      "comment_timestamp": 130.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "121.0s - 127.0s",
-          "query": "VISUAL: There's a man standing against a brick wall background with some white bird silhouettes on it. He has short dark hair and is wearing an orange shirt under a blue jacket. He seems to be speaking or reacting to something.AUDIO: The main thing heard is applause from an audience, which lasts for most of the clip. Then there's a male voice saying \"If an alien landed here and demanded a famous person to eat.\" It ends with more applause.What do you think about that? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "127.0s - 133.0s",
-          "query": "VISUAL: There's a man standing against a brick wall background with some white bird silhouettes on it. He's wearing an orange shirt under a blue jacket. He seems to be speaking or reacting to something. The bottom has a Twitter logo and a tweet from [USER] about driving to Adam Sandler's house with a net if an alien demanded a famous person to eat.AUDIO: There's a male voice speaking, and there's laughter heard after he says \"I drive straight to Adam Sandler's house with a net.\".If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "133.0s - 139.0s",
-          "query": "VISUAL: There's a man with a mustache wearing a suit and tie. He seems to be speaking or reacting to something. The background is kind of pixelated and there's a cityscape silhouette at one point.AUDIO: You can hear applause and some music playing in the background. There's also a voice saying \"Nick Offerman\" twice. It feels like it might be from a TV show or an event. So, what do you think about this? Any thoughts on who Nick Offerman could be involved with here?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 249.90045070648193
-    },
-    {
-      "comment_index": 2031,
-      "video_id": "LABGimhsEys",
-      "comment": "1:55 most beautiful laugh in the world",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 11.0,
-      "comment_timestamp": 115.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "106.0s - 112.0s",
-          "query": "VISUAL: There's a man on stage with a brick wall background. He's wearing a blue blazer over a black shirt. He lifts his shirt to show his belly button while holding a phone. The scene is well-lit.AUDIO: You can hear laughter and applause from an audience. It seems like they're reacting to something funny or entertaining.What do you think about it? Do you have any other videos for me to analyze?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "112.0s - 118.0s",
-          "query": "VISUAL: There's a man in a blue suit holding a phone, then a woman with blonde hair appears, also holding a phone. They seem to be in front of a brick wall with some white bird silhouettes on it.AUDIO: Someone is speaking, saying \"he's right I hope you all have a great weekend except you Lisa.\" It seems like they're addressing an audience or group of people.What do you think about this? Do you want to discuss more about it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "118.0s - 124.0s",
-          "query": "VISUAL: There's a woman with blonde hair holding a phone, smiling. Then a man in an orange shirt and blue jacket appears, also smiling. The background is a brick wall with some white shapes on it.AUDIO: Someone says \"you\" followed by laughter and applause. It seems like they're reacting to something funny or unexpected.What do you think about that? Any thoughts or questions?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 200.58298420906067
+      "processing_time": 143.07408499717712
     }
   ]
 }

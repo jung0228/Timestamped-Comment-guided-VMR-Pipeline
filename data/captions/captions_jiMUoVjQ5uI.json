@@ -6,7 +6,7 @@
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 5388,
+      "comment_index": 2921,
       "video_id": "jiMUoVjQ5uI",
       "comment": "@5:10 She starts the impersonation; you can thank me later!  (and man, I miss Barack Obama because of the horrible loser that was elected as president after Obama's last term)",
       "language": "en",
@@ -19,24 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "301.0s - 307.0s",
-          "query": "VISUAL: There's a woman sitting on a blue chair, wearing a black sleeveless top with a cutout and a plaid skirt. She has long hair and is gesturing while talking. A man in a suit sits across from her at a round table. The background shows a cityscape at night with lights. There's also some colorful panels to the left of them.AUDIO: Someone says \"Well dad tell us about your day oh and what about that conversation on global warming.\" It seems like they're having a casual conversation. So, what do you think about it?"
+          "query": "Visually, there are two people sitting across from each other in a studio setting. The background shows a cityscape at night with lights. The person on the left is wearing a black sleeveless top and a patterned skirt, while the person on the right is in a suit. They seem to be engaged in a conversation. There are some papers and a mug on the table between them. The colors are mainly dark with the city lights providing a contrast. The movement is mainly the gestures of the people talking.The audio contains a conversation. One person asks, \"Well dad, tell us about your day.\" Then, the other person responds, \"Oh and what about that conversation on global warming?\""
         },
         {
           "segment_index": 2,
           "time_range": "307.0s - 313.0s",
-          "query": "VISUAL: There's a woman sitting on a blue chair in front of a man who seems to be hosting a talk show. The background has a cityscape at night with lights. She's wearing a black sleeveless top with a cutout design and a plaid skirt. She has long hair and big hoop earrings. The host is dressed in a suit and tie, sitting behind a desk with some papers and a mug on it.AUDIO: A woman is speaking, saying \"and Barack um Sasha and I are like oh god no don't get him started he's like well.\" It sounds like she might be sharing an anecdote or story.If you have any other thoughts about the video or want to discuss more, feel free to let me know!"
+          "query": "Visually, there are two people sitting in what looks like a talk show setting. One is a woman with long dark hair, wearing a black sleeveless top and large hoop earrings. The other is a man in a suit. The background has a decorative, somewhat ornate design with red and blue elements. The woman seems to be speaking or reacting to something, while the man is listening or waiting for his turn to speak.\n\nAudio-wise, there's a woman speaking, and she seems to be expressing some concern or annoyance, saying \"and Barack the Sasha and I are like oh god no don't get him started he's like well.\" It sounds like she's reacting to something that might be about to happen or has just happened."
         },
         {
           "segment_index": 3,
           "time_range": "313.0s - 319.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black sleeveless top with cutouts on it. She has large hoop earrings. The background seems to be an indoor setting with some decorative elements like a patterned wall or curtain. She looks down at something while talking.AUDIO: A man is speaking, saying \"I'm glad you asked that.\" There's also applause from an audience in the background.What do you think about this scene? Do you have any other questions related to it?"
+          "query": "Visually, there's a woman with long, dark hair wearing a black sleeveless top with a cutout detail. She's in a room with a patterned wall and a red section in the background. She seems to be speaking or reacting to something, her mouth is open and her hand is raised near her head. There's also a blue object, possibly a chair or part of the set, partially visible on the right side of the frame. The lighting is bright, highlighting her face and upper body clearly. The overall setting looks like a studio or a stage with a formal or semi-formal ambiance.Audibly, there's a woman speaking. Her tone suggests she might be addressing an audience or responding to someone. The speech is clear and seems to be the main focus of the audio. There are no other distinct sounds like music or sound effects, just her voice."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 294.43980169296265
+      "processing_time": 275.2199046611786
     },
     {
-      "comment_index": 5389,
+      "comment_index": 2922,
       "video_id": "jiMUoVjQ5uI",
       "comment": "she does the impression at 5:00",
       "language": "en",
@@ -49,54 +49,24 @@
         {
           "segment_index": 1,
           "time_range": "291.0s - 297.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black sleeveless top and a patterned skirt sitting on a blue couch. She has large hoop earrings. The background shows some decorative elements like a metallic column and a red panel. Then it cuts to her sitting across from a man in a suit at a desk. He's holding something small in his hand while talking to her. There's a mug on the table between them.AUDIO: A female voice is speaking, saying \"have good impressions of would you mind sharing a little bit\". It seems like she's asking for a story or experience related to dinner tables."
+          "query": "Visually, there are two people sitting across from each other at a table. One is wearing a black sleeveless top with a cutout and a patterned skirt, and the other is in a suit. The background shows a cityscape at night with lights. There's also a red curtain and some decorative elements like a metallic patterned wall.\n\nIn terms of audio, there's a woman speaking, and it seems like she's having a conversation. The tone suggests she might be sharing something interesting or important."
         },
         {
           "segment_index": 2,
           "time_range": "297.0s - 303.0s",
-          "query": "VISUAL: There's a woman sitting on a chair talking to a man who is seated behind a desk. The background shows a cityscape at night with lots of lights. The woman has long hair and is wearing a black top and plaid skirt. She gestures while speaking. The man is dressed in a suit and tie, looking attentive towards her.AUDIO: A female voice is heard saying something about Malia starting a conversation with a serious question directed at someone referred to as \"dad.\" It seems like she asks him to tell them about his day. What do you think about their interaction?"
+          "query": "Visually, there are two people sitting on a talk show set. One is a woman in a black sleeveless top and patterned skirt, and the other is a man in a suit. They're seated across from each other at a desk with a mug and some papers on it. The background shows a cityscape at night with lights. The woman is talking and gesturing with her hands, while the man is listening and responding.\n\nAudio-wise, there's a woman speaking. She says, \"you know and Malia will start it because she usually asks the serious question well dad tell us about your day.\""
         },
         {
           "segment_index": 3,
           "time_range": "303.0s - 309.0s",
-          "query": "VISUAL: There's a woman in a black sleeveless top with a cutout design and plaid skirt sitting on a blue chair. She has long hair and is wearing large hoop earrings. A man in a suit sits across from her at a desk. The background shows a cityscape at night with lights. There's also some colorful panels to the left of them.AUDIO: Someone is speaking about a conversation regarding global warming and Barack Obama. It seems like they're recalling or discussing something related to that topic.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a talk show setting. There are two people seated, one in a black dress and the other in a suit. The background has a cityscape at night with lights. The set has a red and blue color scheme with a desk and some papers on it.\n\n**Audio:** The audio features a woman speaking. She seems to be discussing something related to global warming and Barack Obama."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 289.1892981529236
+      "processing_time": 281.96166372299194
     },
     {
-      "comment_index": 5390,
-      "video_id": "jiMUoVjQ5uI",
-      "comment": "It starts at 5:00 you're welcome.",
-      "language": "en",
-      "channel_name": "ColbertLateShow",
-      "category": "talk show",
-      "likes": 276.0,
-      "comment_timestamp": 300.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "291.0s - 297.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black sleeveless top and a patterned skirt sitting on a blue couch. She has large hoop earrings. The background shows some decorative elements like a metallic column and a red panel. Then it cuts to her sitting across from a man in a suit at a desk. He's holding something small in his hand while talking to her. There's a mug on the table between them.AUDIO: A female voice is speaking, saying \"have good impressions of would you mind sharing a little bit\". It seems like she's asking for a story or experience related to dinner tables."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "297.0s - 303.0s",
-          "query": "VISUAL: There's a woman sitting on a chair talking to a man who is seated behind a desk. The background shows a cityscape at night with lots of lights. The woman has long hair and is wearing a black top and plaid skirt. She gestures while speaking. The man is dressed in a suit and tie, looking attentive towards her.AUDIO: A female voice is heard saying something about Malia starting a conversation with a serious question directed at someone referred to as \"dad.\" It seems like she asks him to tell them about his day. What do you think about their interaction?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "303.0s - 309.0s",
-          "query": "VISUAL: There's a woman in a black sleeveless top with a cutout design and plaid skirt sitting on a blue chair. She has long hair and is wearing large hoop earrings. A man in a suit sits across from her at a desk. The background shows a cityscape at night with lights. There's also some colorful panels to the left of them.AUDIO: Someone is speaking about a conversation regarding global warming and Barack Obama. It seems like they're recalling or discussing something related to that topic.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 282.6439082622528
-    },
-    {
-      "comment_index": 5391,
+      "comment_index": 2923,
       "video_id": "jiMUoVjQ5uI",
       "comment": "7:34 ha, there are 52 bedrooms, yet they told Trump he couldn't stay due to renovations.",
       "language": "en",
@@ -109,24 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "445.0s - 451.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a mug on it, talking to a woman in a black top and plaid skirt who is seated across from him. They seem to be having a conversation in a studio setting with city lights visible through large windows behind them.AUDIO: The man speaks first, then the woman responds. Their voices are clear and there's some laughter heard in the background. It seems like they're chatting in a light-hearted manner.What do you think about their interaction?"
+          "query": "**Visual:** The video shows two people in a talk show setting. One is seated behind a desk, wearing a suit and tie, and the other is seated on a couch, wearing a black sleeveless top and a patterned skirt. The background features a cityscape at night with lights. There's a mug on the desk.\n\n**Audio:** The audio includes speech from both individuals. The person behind the desk speaks first, and then the person on the couch responds. There's laughter heard in the background, likely from an audience."
         },
         {
           "segment_index": 2,
           "time_range": "451.0s - 457.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black sleeveless top. She has big hoop earrings. Then there's a man in a suit and tie sitting down. He looks like he might be on a talk show set. The background is kind of blurry but seems to have some city lights or something similar.AUDIO: You can hear laughter from an audience. There's also someone speaking, but it's not clear who they are or what they're saying. It could be a host or guest on the show.If you want to know more about this video or have other questions, feel free to ask!"
+          "query": "**Visual:** The video shows two men in suits, likely on a talk show set. The background has a cityscape with lights, suggesting an evening or nighttime setting. The men are engaged in conversation, with one appearing to be the host and the other a guest. The host is speaking, and the guest seems to be reacting to something the host said.\n\n**Audio:** There is laughter in the audio, indicating a humorous or light-hearted moment in the conversation. The speech is clear and the tone suggests a casual, conversational style typical of talk shows."
         },
         {
           "segment_index": 3,
           "time_range": "457.0s - 463.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a woman in a black top and plaid skirt beside him. They seem to be on some kind of talk show set, with a cityscape background. The woman is talking while gesturing with her hands.AUDIO: A female voice is speaking about having fun things to do, mentioning sleeping over at Buckingham Palace. It seems like she's sharing an interesting experience. So, what do you think about that? Do you have any similar experiences to share?"
+          "query": "**Visual:** The video shows a woman in a black sleeveless top and patterned skirt sitting across from a man in a suit. They are in a studio setting with a cityscape backdrop. The woman is talking, and the man is listening attentively. There are some colorful panels on the left side of the frame.\n\n**Audio:** The woman is speaking, and the man is listening. The speech seems to be part of a conversation or interview."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 288.81103324890137
+      "processing_time": 280.0500371456146
     },
     {
-      "comment_index": 5392,
+      "comment_index": 2924,
       "video_id": "jiMUoVjQ5uI",
       "comment": "if you don't know what swag is, Steve, you definitely don't have it. Savage 8:43",
       "language": "en",
@@ -139,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "514.0s - 520.0s",
-          "query": "VISUAL: There's a man in a suit sitting down, looking down at something. Then it cuts to a woman with long brown hair wearing a black top and big earrings. She seems to be talking or reacting to something.AUDIO: Someone is speaking, saying \"delicious I did how is how is swag aliciousness achieved\" in an excited tone.What do you think about that? Any thoughts on what might be going on there?"
+          "query": "Visually, there's a woman with long, dark hair wearing a black sleeveless top and large hoop earrings. She's sitting in a room with a decorative wall and a red curtain in the background. She seems to be engaged in a conversation, smiling and nodding. There's also a man partially visible on the right side of the frame, but he's mostly out of view.\n\nIn terms of audio, there's a male voice speaking, and it sounds like he's asking a question or making a comment. The speech is clear and the tone seems conversational."
         },
         {
           "segment_index": 2,
           "time_range": "520.0s - 526.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black sleeveless top and a plaid skirt sitting on a blue chair. She has big hoop earrings. A man in a suit is sitting across from her at a desk, holding a pen and talking to her. The background shows a cityscape at night with lights. There's also some decorative wall paneling behind them.AUDIO: Someone is speaking about swag, mentioning that if someone doesn't know what it is, they should look it up. It seems like there might be some laughter or reaction from an audience too.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Visual: The video shows a woman with long, dark hair wearing a black sleeveless top and a patterned skirt. She's sitting in a studio setting with a decorative column and a red curtain in the background. There's also a man in a suit sitting across from her, and they seem to be engaged in a conversation. The setting looks like a talk show or interview setup.\n\nAudio: The woman is speaking, and she says, \"It's a person that has a lot of swag.\" The tone is casual and conversational. There are no other noticeable sounds or music in the audio."
         },
         {
           "segment_index": 3,
           "time_range": "526.0s - 532.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk on a talk show set with a cityscape background. He has glasses and is smiling. Then there's a woman in a black top and patterned skirt sitting across from him. She also smiles. The scene shifts to focus more on the man. AUDIO: You can hear laughter and applause in the background. It seems like they're reacting to something funny or entertaining that was said. What do you think might have been so amusing?"
+          "query": "**Visual:** The video shows a man in a suit and tie sitting in a chair, likely on a talk show set. There are blurred images of other people in the background, suggesting a studio audience. The setting has a dark, studio-like ambiance with some city lights visible through windows.\n\n**Audio:** The audio includes laughter and applause, indicating a light-hearted or humorous moment during the show."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 267.9173438549042
+      "processing_time": 354.11810874938965
     },
     {
-      "comment_index": 5393,
+      "comment_index": 2925,
       "video_id": "jiMUoVjQ5uI",
       "comment": "3:24 for \"me and mah boo\" and 4:45 for the impression part   the whole thing is awesome though :D",
       "language": "en",
@@ -169,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "276.0s - 282.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black sleeveless top and a plaid skirt sitting on a blue chair. She seems to be talking or reacting to something. In front of her is a man in a suit, also seated, who appears to be listening or responding. The background shows a cityscape at night through large windows, with some red and blue panels around it.AUDIO: Someone is speaking, saying \"him yeah he's tough no uh I thought she were gonna say him or Bo and Sunny.\" It sounds like they're having a conversation about someone named Bo and Sunny. There's also laughter heard towards the end.What do you think about the scene? Any thoughts?"
+          "query": "Visual: The video shows a woman in a black sleeveless top and a man in a suit sitting across from each other at a table. The woman is gesturing with her hand while talking. The background has a cityscape view with lights, and there are some decorative elements like a red door and a metallic wall. The table has a blue mug on it.\n\nAudio: The woman is speaking, and there's laughter in the background."
         },
         {
           "segment_index": 2,
           "time_range": "282.0s - 288.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black sleeveless top and plaid skirt sitting on a blue chair. She has big hoop earrings. A man in a suit is across from her at a table, holding a pen. They're both smiling and talking. The background shows a cityscape at night with lots of lights.AUDIO: Someone says \"Well him that smile that was pretty good impression of your\" followed by laughter. It seems like they're commenting on something funny or impressive about the woman's smile.What do you think about their interaction?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.23 GiB. GPU 1 has a total capacity of 23.56 GiB of which 2.58 GiB is free. Including non-PyTorch memory, this process has 20.97 GiB memory in use. Of the allocated memory 16.49 GiB is allocated by PyTorch, and 4.17 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 3,
           "time_range": "288.0s - 294.0s",
-          "query": "VISUAL: There's a man in a suit talking to someone off - screen. He seems to be on some kind of talk show set with a cityscape background. Then it cuts to a woman in a black dress looking down, probably also on that same set.AUDIO: The man is speaking, and there's laughter from an audience in the background. It sounds like they're having a light-hearted conversation.What do you think about the setting? Does it seem familiar to you?"
+          "query": "**Visual:** The video shows two people, a man and a woman, in what appears to be a talk show setting. The man is wearing a suit and tie, and the woman is in a black dress with a cutout detail. They are seated, and the background has a cityscape with lights. The man is speaking and gesturing with his hands, while the woman listens and then responds.\n\n**Audio:** The audio includes a conversation between the two people. The man speaks first, and then the woman responds. There is no background music or sound effects, just the dialogue between them."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 282.7065546512604
+      "processing_time": 307.9551205635071
     },
     {
-      "comment_index": 5394,
+      "comment_index": 2926,
       "video_id": "jiMUoVjQ5uI",
       "comment": "5:11 Michelle impersonates Barack.",
       "language": "en",
@@ -199,24 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "302.0s - 308.0s",
-          "query": "VISUAL: There's a woman sitting on a blue chair and a man in a suit sitting at a desk with a mug and some papers on it. They're having a conversation against a backdrop that looks like a cityscape at night.AUDIO: A female voice is speaking about her day and mentions a conversation on global warming and Barack Obama. It seems to be a talk show or interview setting. So, what do you think about their discussion?"
+          "query": "Visually, there are two people sitting across from each other in a studio setting. The background shows a cityscape at night with lights. The person on the left is wearing a black sleeveless top and a patterned skirt, while the person on the right is in a suit. They seem to be engaged in a conversation, with the person on the left gesturing with her hands. There's a table between them with some items on it, like a mug and papers.\n\nIn terms of audio, there's a woman speaking. She says, \"but your day oh and what about that conversation on global warming and Barack.\" It sounds like she's asking about a previous conversation regarding global warming and someone named Barack."
         },
         {
           "segment_index": 2,
           "time_range": "308.0s - 314.0s",
-          "query": "VISUAL: A woman is sitting on a blue couch against a backdrop with red and silver elements. She's wearing a black sleeveless top with cutouts and large hoop earrings. Her hair is long and dark. She seems to be talking and gesturing with her hands.AUDIO: There's a woman speaking, saying \"Sasha and I are like oh no don't get him started he's like well no I'm glad you.\" It sounds like she might be in a conversation or interview setting. What do you think about it?"
+          "query": "Visually, there's a woman with long dark hair wearing a black sleeveless top and large hoop earrings. She's seated, and her expression seems to change slightly as she speaks. The background has a mix of red and silver elements, possibly curtains or decorative panels. There's also a bit of blue lighting visible.\n\nIn terms of audio, there's a woman speaking. Her tone suggests she might be reacting to something, possibly with a hint of frustration or exasperation. The speech is clear and the words are understandable."
         },
         {
           "segment_index": 3,
           "time_range": "314.0s - 320.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black sleeveless top with a cutout detail on it. She has large hoop earrings. The background seems to be an indoor setting with some decorative elements like curtains or panels. She looks like she might be talking or reacting to something.AUDIO: Someone is speaking, saying \"I'm glad you asked that um let me just uh let me just answer that in three points.\" It sounds like they're trying to explain something clearly. There's also applause from an audience in the background.What do you think about the woman's expression?"
+          "query": "Visually, there's a woman in a black sleeveless top with a cutout detail. She has long, dark hair and is wearing hoop earrings. The background includes a metallic, textured wall and a red, patterned section. She seems to be in a studio setting, possibly on a talk show. There's a bit of movement as she adjusts her position slightly.\n\nAudibly, there's a woman speaking. Her tone suggests she's responding to a question or a comment. There's also laughter and applause in the background, indicating an audience present."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 272.66566371917725
+      "processing_time": 303.6810998916626
     },
     {
-      "comment_index": 5395,
+      "comment_index": 2927,
       "video_id": "jiMUoVjQ5uI",
       "comment": "6:17  - No, but he's got the NSA, we can find out what any of us are thinking!  Obama M.: ....[its tr...] ...  [uncomfortable silence] ...    ;D",
       "language": "en",
@@ -229,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "368.0s - 374.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black sleeveless top with cutouts on it. She has big hoop earrings. The background seems to be an indoor setting with some decorative elements like a patterned wall or curtain. She appears to be talking and gesturing with her hands.AUDIO: Someone is speaking, asking about how days are going, what's happening, and the latest gossip. It sounds like they're interested in gossip. There's also laughter heard at the end.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's a woman with long, dark hair wearing a black sleeveless top and large hoop earrings. She's sitting in a room with ornate, metallic-looking curtains and a red door in the background. She seems to be talking and gesturing with her hands. The setting looks like a talk show or interview setup. There are no other people or objects clearly visible in the frame. The colors are mainly dark and metallic, with the red door adding a pop of color. The movement is mainly from the woman as she speaks and gestures.Audibly, there's a woman speaking. She's asking questions like \"How are your days?\" and \"What's going on?\" and \"What's the latest gossip?\" It sounds like she's trying to engage in a conversation or interview. There are no other sounds like music or sound effects, just her speech."
         },
         {
           "segment_index": 2,
           "time_range": "374.0s - 380.0s",
-          "query": "VISUAL: There's a woman sitting on a blue chair talking to a man in a suit who is seated behind a desk. The background shows a cityscape at night with lights. The woman gestures while speaking.The AUDIO: A female voice speaks for most of the clip, saying \"really folks because he doesn't have a life so no but he's got the NSA it\". There's also some laughter from an unseen source towards the end. What do you think about that?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 5.55 GiB. GPU 1 has a total capacity of 23.56 GiB of which 3.70 GiB is free. Including non-PyTorch memory, this process has 19.85 GiB memory in use. Of the allocated memory 18.27 GiB is allocated by PyTorch, and 1.26 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 3,
           "time_range": "380.0s - 386.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a mug on it, talking to a woman in a black top and plaid skirt who is seated across from him. They seem to be having a conversation in a studio setting with city lights visible through large windows behind them.AUDIO: The man speaks first, saying \"he can find out what any of us are thinking.\" Then there's applause and laughter from an unseen audience."
+          "query": "Visually, there are two people in a studio setting. One is seated, wearing a black sleeveless top and a patterned skirt, while the other is standing, dressed in a suit. The background has a cityscape view through a window and some studio lighting. The seated person is laughing and looking down, while the standing person is gesturing with their hand.\n\nAudibly, there's laughter and applause in the background, along with some speech."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 228.26342153549194
+      "processing_time": 310.4680669307709
     },
     {
-      "comment_index": 5396,
+      "comment_index": 2928,
       "video_id": "jiMUoVjQ5uI",
       "comment": "8:49 my reaction when he looks into the camera is \"Oooh just got roasted by the First Lady.\" it was soo funny",
       "language": "en",
@@ -259,24 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "520.0s - 526.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black sleeveless top and a plaid skirt sitting on a blue chair. She has big hoop earrings. A man in a suit is sitting across from her at a desk, holding a pen and talking to her. The background shows a cityscape at night with lights. There's also some decorative wall paneling behind them.AUDIO: Someone is speaking about swag, mentioning that if someone doesn't know what it is, they should look it up. It seems like there might be some laughter or reaction from an audience too.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Visual: The video shows a woman with long, dark hair wearing a black sleeveless top and a patterned skirt. She's sitting in a studio setting with a decorative column and a red curtain in the background. There's also a man in a suit sitting across from her, and they seem to be engaged in a conversation. The setting looks like a talk show or interview setup.\n\nAudio: The woman is speaking, and she says, \"It's a person that has a lot of swag.\" The tone is casual and conversational. There are no other noticeable sounds or music in the audio."
         },
         {
           "segment_index": 2,
           "time_range": "526.0s - 532.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk on a talk show set with a cityscape background. He has glasses and is smiling. Then there's a woman in a black top and patterned skirt sitting across from him. She also smiles. The scene shifts to focus more on the man. AUDIO: You can hear laughter and applause in the background. It seems like they're reacting to something funny or entertaining that was said. What do you think might have been so amusing?"
+          "query": "**Visual:** The video shows a man in a suit and tie sitting in a chair, likely on a talk show set. There are blurred images of other people in the background, suggesting a studio audience. The setting has a dark, studio-like ambiance with some city lights visible through windows.\n\n**Audio:** The audio includes laughter and applause, indicating a light-hearted or humorous moment during the show."
         },
         {
           "segment_index": 3,
           "time_range": "532.0s - 538.0s",
-          "query": "VISUAL: There's a man in a suit talking on a talk show set with a cityscape background. A woman in black walks past him. The man is wearing glasses and has short hair.AUDIO: Someone says \"I think it's time to go to a commercial\" followed by applause and some music playing in the background. Then there's more speech saying they'll be back with more First Lady Michelle Obama. What do you think about this?"
+          "query": "**Visual:** The video shows two people, a man and a woman, sitting close together. The man is wearing glasses, a suit, and a tie, and he seems to be speaking or reacting to something. The woman, with long hair, is also dressed formally. The background appears to be a studio setting with a dark, possibly nighttime cityscape visible through windows. There's a brief moment where the camera focuses on the man alone, and then it returns to both of them.\n\n**Audio:** The audio includes a voice saying, \"I think it's time to go to a commercial. I'll work on my swag. We'll be right back with more.\" There's also applause heard in the background, suggesting an audience present."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 248.62871432304382
+      "processing_time": 317.49207162857056
     },
     {
-      "comment_index": 5397,
+      "comment_index": 2929,
       "video_id": "jiMUoVjQ5uI",
       "comment": "0:13 Let's play a game called \"spot the secret service\"",
       "language": "en",
@@ -289,54 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "4.0s - 10.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with papers on it. He's talking and gesturing. Then there's a woman walking across the stage from right to left. The background shows a cityscape at night.AUDIO: There's some speech that says \"States Michelle Obama\" twice, followed by applause and music playing in between. What do you think about this? Any thoughts or questions?"
+          "query": "Sure! So, visually, there's someone in a suit sitting at a desk with some papers on it. The background shows a cityscape through large windows. Then, there's another person walking into view from the right side of the frame. In terms of audio, I can hear applause starting around halfway through the clip.Anything else you need help with?"
         },
         {
           "segment_index": 2,
           "time_range": "10.0s - 16.0s",
-          "query": "VISUAL: A woman walks towards a man on stage. They hug. There's an audience in the background. The setting seems like a TV show or event with bright lights and a red carpet area.AUDIO: There's music playing throughout the clip. No specific speech is heard."
+          "query": "Visually, there's a woman in a black top and light-colored skirt. She's walking and then hugs a man in a suit. The background has a crowd of people, some are clapping. There are also some colorful lights and a stage setup. The scene seems to be in a large hall or auditorium. The colors are mostly dark with bright spots from the lights. The movement is mainly the woman walking and then hugging the man, with the crowd clapping in the background.Audience: There's music playing throughout the video. It's upbeat and energetic. There are also sounds of clapping from the crowd."
         },
         {
           "segment_index": 3,
           "time_range": "16.0s - 22.0s",
-          "query": "VISUAL: There's a man in a suit on stage with a woman in a black top and gray pants. They seem to be interacting near a desk. The background has an audience and some colorful lights. The scene looks like it could be from a talk show or similar event.AUDIO: I hear music playing throughout the entire 6 seconds. It seems to be instrumental music without any lyrics. What do you think about this video? Do you have any other questions related to it?"
+          "query": "Visually, there's a stage with a red carpet and a large audience in the background. A woman in a gray dress walks across the stage, and a man in a suit is standing near a desk. The stage has some blue and red lighting. There are also some large screens in the background showing different images. The scene seems to be in a big hall or auditorium. The movement is mainly the woman walking and the man standing still near the desk. There's also a bit of movement in the audience area, but it's not very clear what they're doing exactly. The overall color scheme is a mix of red, blue, and gray.----, Audio:, There's music playing in the background throughout the video. It's a lively, upbeat kind of music. There are no distinct speech or sound effects that can be clearly identified."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 214.57628846168518
+      "processing_time": 266.11263060569763
     },
     {
-      "comment_index": 5398,
-      "video_id": "jiMUoVjQ5uI",
-      "comment": "4:45 - thank me later 😌 Although you would probably want to watch the entire video.. you know.. because MICHELLE Lol!",
-      "language": "en",
-      "channel_name": "ColbertLateShow",
-      "category": "talk show",
-      "likes": 21.0,
-      "comment_timestamp": 285.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "276.0s - 282.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black sleeveless top and a plaid skirt sitting on a blue chair. She seems to be talking or reacting to something. In front of her is a man in a suit, also seated, who appears to be listening or responding. The background shows a cityscape at night through large windows, with some red and blue panels around it.AUDIO: Someone is speaking, saying \"him yeah he's tough no uh I thought she were gonna say him or Bo and Sunny.\" It sounds like they're having a conversation about someone named Bo and Sunny. There's also laughter heard towards the end.What do you think about the scene? Any thoughts?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "282.0s - 288.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black sleeveless top and plaid skirt sitting on a blue chair. She has big hoop earrings. A man in a suit is across from her at a table, holding a pen. They're both smiling and talking. The background shows a cityscape at night with lots of lights.AUDIO: Someone says \"Well him that smile that was pretty good impression of your\" followed by laughter. It seems like they're commenting on something funny or impressive about the woman's smile.What do you think about their interaction?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "288.0s - 294.0s",
-          "query": "VISUAL: There's a man in a suit talking to someone off - screen. He seems to be on some kind of talk show set with a cityscape background. Then it cuts to a woman in a black dress looking down, probably also on that same set.AUDIO: The man is speaking, and there's laughter from an audience in the background. It sounds like they're having a light-hearted conversation.What do you think about the setting? Does it seem familiar to you?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 268.90191745758057
-    },
-    {
-      "comment_index": 5399,
+      "comment_index": 2930,
       "video_id": "jiMUoVjQ5uI",
       "comment": "3:19 You can just feel the love and compassion by just looking at that picture.  Ivanka won't even let Trump's crusty Cheeto fingers touch her.",
       "language": "en",
@@ -349,54 +289,24 @@
         {
           "segment_index": 1,
           "time_range": "190.0s - 196.0s",
-          "query": "VISUAL: A man is holding up a magazine cover with two people on it. He's sitting at a desk across from a woman who's seated in a chair. The background shows a cityscape at night. There's also a mug on the desk.AUDIO: There's applause and cheering in the background, along with some speech. It seems like an interview or talk show setting.If you want to know more about this video or have other questions, feel free to ask!"
+          "query": "**Visual:** The video shows two people on a talk show set. One is seated behind a desk with some papers and a mug, while the other sits across from them. There's a cityscape visible through the window in the background. The person at the desk holds up an object that looks like a photo or card.\n\n**Audio:** Someone says \"there\" followed by applause. Then there's a voiceover saying something about needing to talk about a picture that caused controversy when it was released."
         },
         {
           "segment_index": 2,
           "time_range": "196.0s - 202.0s",
-          "query": "VISUAL: There's a man and a woman sitting on a talk show set. The man is holding up a framed photo of them together. They're both smiling. The background shows a cityscape at night with lights. The woman is wearing a black top and patterned skirt, while the man has glasses and a suit.AUDIO: You can hear applause and some cheering from an audience. There's also a bit of speech, like \"Internet to the ground\" and \"yeah.\" It seems like they might be reacting to something funny or exciting related to the photo being shown.What do you think about that? Any thoughts on why there was all that reaction?"
+          "query": "Visually, there are two people sitting across from each other in a studio setting. One is wearing a black sleeveless top and a patterned skirt, while the other is in a suit. They seem to be engaged in a conversation. There's a framed picture on the table between them, showing a couple in a romantic pose. The background has a cityscape view through a window, and there are red curtains framing the window. The overall color scheme includes reds, blues, and neutral tones.\n\nIn terms of audio, there's a mix of speech and applause. The speech seems to be part of a talk show or interview format, and the applause indicates a positive audience reaction, possibly in response to something said during the conversation."
         },
         {
           "segment_index": 3,
           "time_range": "202.0s - 208.0s",
-          "query": "VISUAL: There's a woman sitting on a talk show set, wearing a black top with cutouts and a plaid skirt. She has long hair and is smiling while talking to someone off - screen. A man in a suit sits across from her at a desk, holding a photo frame that shows two people kissing. The background has a cityscape view at night. There's also applause heard in the audio.AUDIO: You can hear applause throughout the clip. It seems like an audience is clapping during the conversation on the talk show. What do you think about it?"
+          "query": "Visually, there are two people sitting in a studio setting. One is wearing a black sleeveless top and a patterned skirt, while the other is in a suit. They seem to be engaged in a conversation. There's a table between them with a tablet displaying a photo. The background shows a cityscape at night with lights. The overall color scheme includes red, blue, and gray tones.\n\nAudibly, there's applause and cheering, suggesting an audience is present. There's also laughter, indicating a light-hearted or entertaining moment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 243.67118310928345
+      "processing_time": 314.74809288978577
     },
     {
-      "comment_index": 5400,
-      "video_id": "jiMUoVjQ5uI",
-      "comment": "5:10 you're welcome",
-      "language": "en",
-      "channel_name": "ColbertLateShow",
-      "category": "talk show",
-      "likes": 17.0,
-      "comment_timestamp": 310.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "301.0s - 307.0s",
-          "query": "VISUAL: There's a woman sitting on a blue chair, wearing a black sleeveless top with a cutout and a plaid skirt. She has long hair and is gesturing while talking. A man in a suit sits across from her at a round table. The background shows a cityscape at night with lights. There's also some colorful panels to the left of them.AUDIO: Someone says \"Well dad tell us about your day oh and what about that conversation on global warming.\" It seems like they're having a casual conversation. So, what do you think about it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "307.0s - 313.0s",
-          "query": "VISUAL: There's a woman sitting on a blue chair in front of a man who seems to be hosting a talk show. The background has a cityscape at night with lights. She's wearing a black sleeveless top with a cutout design and a plaid skirt. She has long hair and big hoop earrings. The host is dressed in a suit and tie, sitting behind a desk with some papers and a mug on it.AUDIO: A woman is speaking, saying \"and Barack um Sasha and I are like oh god no don't get him started he's like well.\" It sounds like she might be sharing an anecdote or story.If you have any other thoughts about the video or want to discuss more, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "313.0s - 319.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black sleeveless top with cutouts on it. She has large hoop earrings. The background seems to be an indoor setting with some decorative elements like a patterned wall or curtain. She looks down at something while talking.AUDIO: A man is speaking, saying \"I'm glad you asked that.\" There's also applause from an audience in the background.What do you think about this scene? Do you have any other questions related to it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 291.65203762054443
-    },
-    {
-      "comment_index": 5401,
+      "comment_index": 2931,
       "video_id": "jiMUoVjQ5uI",
       "comment": "8:21 Anyone else notice how Stephen interrupts Michelle, and literally next sentence she cuts him down about his \"swag\". That was smooth! Maintaining dominance of the conversation whilst still being classy and cool!",
       "language": "en",
@@ -409,24 +319,24 @@
         {
           "segment_index": 1,
           "time_range": "492.0s - 498.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black sleeveless top and a plaid skirt sitting on a blue chair. She has big hoop earrings. A man in a suit is sitting across from her at a desk with some papers and a mug on it. The background shows a cityscape at night with lots of lights. The setting seems to be a talk show studio.AUDIO: Someone is speaking about loving French fries, saying they're a \"big French fry fanatic.\" There's also laughter heard in the background."
+          "query": "**Visual:** The video shows a talk show setting. There are two people seated at a desk, one in a black sleeveless top and patterned skirt, and the other in a suit. The background displays a cityscape at night with lights. The desk has a mug and some papers on it. The camera focuses mainly on the two individuals as they converse.\n\n**Audio:** The audio features a woman speaking. She says, \"but you know I love french fries I am a big french fry fanatic.\" The tone is casual and conversational."
         },
         {
           "segment_index": 2,
           "time_range": "498.0s - 504.0s",
-          "query": "VISUAL: There's a man and a woman sitting on a talk show set. The background shows a cityscape at night with lights. They're having a conversation while seated. The table has some papers and a mug on it.AUDIO: A female voice is speaking about eating vegetables to balance something out, mentioning that not doing so would make things \"ugly.\" It seems like she's talking about diet or nutrition. What do you think about her point?"
+          "query": "**Visual:** The video shows two people sitting in a studio setting. One person is wearing a black sleeveless top and a patterned skirt, while the other is in a suit. They are seated across from each other at a desk with a mug on it. The background features a cityscape at night with lights. There's a red, white, and blue panel on the left side of the frame.\n\n**Audio:** The audio includes a conversation between the two people. One person is speaking, saying, \"that's why I have to eat vegetables because just to balance it out the balance it out for sure it would get ugly.\""
         },
         {
           "segment_index": 3,
           "time_range": "504.0s - 510.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a mug on it, talking to a woman in a black top and plaid skirt who is seated across from him. They seem to be having a conversation in a studio setting with a cityscape background. The lighting is bright, highlighting their faces.AUDIO: Someone is speaking, saying \"to Oprah my good friend Oprah please say hi um I will that uh that your.\" It seems like they're addressing someone named Oprah and asking her to say hello. What do you think about this? Do you know who Oprah is?"
+          "query": "**Visual:** The video shows two people seated in a studio setting. One person is wearing a black sleeveless top and a patterned skirt, while the other is in a suit. They are sitting across from each other at a desk with a mug on it. The background features a cityscape at night with illuminated buildings. There are also some colorful panels on the left side of the frame.\n\n**Audio:** The audio includes a man speaking, saying \"to Oprah my good friend Oprah please say.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 244.40857195854187
+      "processing_time": 352.1779737472534
     },
     {
-      "comment_index": 5402,
+      "comment_index": 2932,
       "video_id": "jiMUoVjQ5uI",
       "comment": "04:24 ok no joke, my jaw DROPPED when they put that pic up.  That is such a beautiful picture!  Both of them are gorgeous and you can tell they really love each other.",
       "language": "en",
@@ -439,54 +349,24 @@
         {
           "segment_index": 1,
           "time_range": "255.0s - 261.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black sleeveless top and a plaid skirt sitting on a blue chair. She has big hoop earrings. A man in a suit is sitting at a desk across from her, smiling and talking to her. The background shows a cityscape at night with lights. There's also some red and blue panels on the left side of the set.AUDIO: You can hear laughter and applause in the background. The woman seems to be speaking, and then there's more laughter and applause. It looks like they're having a light-hearted conversation.What do you think about their interaction?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.36 GiB. GPU 1 has a total capacity of 23.56 GiB of which 2.29 GiB is free. Including non-PyTorch memory, this process has 21.26 GiB memory in use. Of the allocated memory 16.66 GiB is allocated by PyTorch, and 4.29 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 2,
           "time_range": "261.0s - 267.0s",
-          "query": "VISUAL: There's a man and a woman on a talk show set. The man is holding up a photo frame with an image inside it. They seem to be having a conversation while sitting on chairs. The background shows a cityscape at night.AUDIO: You can hear applause and some speech from both the man and the woman. It seems like they're discussing something related to the photo being shown. What do you think about their discussion?"
+          "query": "**Visual:** The video shows two people sitting on a talk show set. One is holding a framed photograph. The background has a cityscape at night. The set has a desk with a mug and some papers on it. The lighting is bright, typical of a studio setting.\n\n**Audio:** There is applause from an audience, followed by a voice saying \"this is just one more photograph just one more photograph.\""
         },
         {
           "segment_index": 3,
           "time_range": "267.0s - 273.0s",
-          "query": "VISUAL: There's a woman sitting on a blue chair next to a man in a suit who is behind a desk. The background shows a cityscape at night with lights. The woman has long hair and is wearing a black top and patterned skirt. She looks at the man while he speaks. The man holds some papers and gestures with his hands.AUDIO: A male voice asks about which was harder to get to stand for a photograph - her husband or children. The woman responds that it was her husband without kids."
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.87 GiB is free. Including non-PyTorch memory, this process has 15.68 GiB memory in use. Of the allocated memory 13.59 GiB is allocated by PyTorch, and 1.77 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 278.4562289714813
+      "processing_time": 297.4406404495239
     },
     {
-      "comment_index": 5403,
-      "video_id": "jiMUoVjQ5uI",
-      "comment": "8:43 BURNED! Damn she ain't messing around lol I miss her so much 😭",
-      "language": "en",
-      "channel_name": "ColbertLateShow",
-      "category": "talk show",
-      "likes": 13.0,
-      "comment_timestamp": 523.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "514.0s - 520.0s",
-          "query": "VISUAL: There's a man in a suit sitting down, looking down at something. Then it cuts to a woman with long brown hair wearing a black top and big earrings. She seems to be talking or reacting to something.AUDIO: Someone is speaking, saying \"delicious I did how is how is swag aliciousness achieved\" in an excited tone.What do you think about that? Any thoughts on what might be going on there?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "520.0s - 526.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black sleeveless top and a plaid skirt sitting on a blue chair. She has big hoop earrings. A man in a suit is sitting across from her at a desk, holding a pen and talking to her. The background shows a cityscape at night with lights. There's also some decorative wall paneling behind them.AUDIO: Someone is speaking about swag, mentioning that if someone doesn't know what it is, they should look it up. It seems like there might be some laughter or reaction from an audience too.If you want to talk more about this video or have other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "526.0s - 532.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk on a talk show set with a cityscape background. He has glasses and is smiling. Then there's a woman in a black top and patterned skirt sitting across from him. She also smiles. The scene shifts to focus more on the man. AUDIO: You can hear laughter and applause in the background. It seems like they're reacting to something funny or entertaining that was said. What do you think might have been so amusing?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 236.66944813728333
-    },
-    {
-      "comment_index": 5404,
+      "comment_index": 2933,
       "video_id": "jiMUoVjQ5uI",
       "comment": "annoying cheering ends 01:10",
       "language": "en",
@@ -499,24 +379,54 @@
         {
           "segment_index": 1,
           "time_range": "61.0s - 67.0s",
-          "query": "VISUAL: There's a woman sitting on a blue chair next to a man in a suit at a desk. The background shows a cityscape at night with lights. The woman is wearing a black sleeveless top and a plaid skirt, and she has long hair. She gestures while talking. The man is holding a pen and paper, looking at her.The AUDIO: You can hear applause and laughter throughout the clip. It seems like an audience is reacting to something said or done in the video. So, what do you think about it? Do you have any other thoughts or questions?"
+          "query": "Visually, there are two people sitting on a talk show set. One is wearing a black sleeveless top with a cutout and a patterned skirt, while the other is in a suit. They seem to be engaged in a conversation, with the person in the suit gesturing with their hands. The background shows a cityscape at night with lights. There are also some colored panels on the left side of the set. The table in front of them has a mug and some papers on it.\n\nIn terms of audio, there's applause and cheering from an audience, suggesting that something entertaining or impressive has just happened during the conversation."
         },
         {
           "segment_index": 2,
           "time_range": "67.0s - 73.0s",
-          "query": "VISUAL: There's a man and a woman sitting on a talk show set. The background shows a cityscape at night with lights. They're both seated behind a desk, looking engaged in conversation.AUDIO: You can hear applause and cheering from an audience, along with some speech that seems to be part of the conversation between the two people on the show.What do you think about the setting? Does it seem like a typical talk show setup to you?"
+          "query": "**Visual:** The video shows two individuals seated on a talk show set. One is dressed formally in a suit and tie, while the other wears a sleeveless black top with a patterned skirt. They appear to be engaged in conversation, with one gesturing animatedly. The background features a cityscape at night, with lights illuminating the scene.\n\n**Audio:** There's applause from an unseen audience, followed by a man speaking. His words seem to indicate he knows some people in Washington."
         },
         {
           "segment_index": 3,
           "time_range": "73.0s - 79.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a table with a woman in a black top and plaid skirt. They're on a talk show set with a cityscape background. The man is talking while gesturing with his hand. The woman is smiling and looking at him.AUDIO: A male voice is speaking, saying \"in DC and not all of them that get that kind of reception when they go someplace so.\" It seems like he's making a point or telling a story. There's also laughter from an unseen audience. What do you think about it?"
+          "query": "**Visual:** The video shows a talk show setting. There are two people on stage, one sitting behind a desk and the other sitting on a chair. The person behind the desk is wearing a suit and tie, while the other person is dressed in a black sleeveless top and a patterned skirt. The background features a cityscape at night with lights. The person on the chair is smiling and appears to be engaged in conversation with the person behind the desk. There's also a close-up shot of the person on the chair, showing her smiling face.\n\n**Audio:** The audio includes speech from the person behind the desk, likely the host, and laughter from the person on the chair. There are no other significant sound effects or music."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 256.26266646385193
+      "processing_time": 270.1414933204651
     },
     {
-      "comment_index": 5405,
+      "comment_index": 2934,
+      "video_id": "jiMUoVjQ5uI",
+      "comment": "Damn miss Obama you got dat ass!!! @0:10",
+      "language": "en",
+      "channel_name": "ColbertLateShow",
+      "category": "talk show",
+      "likes": 12.0,
+      "comment_timestamp": 10.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1.0s - 7.0s",
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk in a studio setting. The background features a cityscape at night with illuminated buildings. The man appears to be speaking, gesturing with his hands. There are some papers and a microphone on the desk.\n\n**Audio:** The audio includes a male voice speaking, likely introducing someone. There is applause from an unseen audience, suggesting a live broadcast or show."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "7.0s - 13.0s",
+          "query": "Visually, there's a woman in a blue dress walking on a stage. She seems to be heading towards a man in a suit who's standing near a large window. The background has a cityscape view at night. The stage has some lighting and a red carpet area. There are also some people in the background, possibly an audience or crew, and they seem to be clapping or cheering. The colors are mainly blue and red, with the city lights adding a bit of yellow and white. The movement is mainly the woman walking and the man standing still, with the audience reacting in the background.Audience: There's music playing in the background, and you can hear applause or cheering from the audience."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "13.0s - 19.0s",
+          "query": "Sure! So, visually, there's a large crowd gathered in an indoor space with bright lights all around. People seem to be clapping or cheering. There s also someone walking on a red carpet towards a stage area. The scene looks lively and energetic.Audience-wise, it seems like there might be some kind of event happening, maybe a show or competition. The music playing adds to that festive vibe.Anything else you want to know about the video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 236.11305403709412
+    },
+    {
+      "comment_index": 2935,
       "video_id": "jiMUoVjQ5uI",
       "comment": "6:18 I suspect Steven's comment about the NSA caused a few awkward seconds.",
       "language": "en",
@@ -529,24 +439,24 @@
         {
           "segment_index": 1,
           "time_range": "369.0s - 375.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black dress with cutouts on it. She has big hoop earrings. The background seems to be an indoor setting with some decorative elements like a patterned wall. She appears to be talking and gesturing with her hands.AUDIO: Someone is speaking, saying \"What's going on? What's the latest gossip? He's really into gossip so you can get him.\" It sounds like they're asking about current news or rumors and mentioning that someone is very interested in gossip.So, what do you think about the content of their question?"
+          "query": "Visually, there's a woman in a black sleeveless top with a cutout detail. She has long, dark hair and is wearing large hoop earrings. The background seems to be a studio setting with a red and silver patterned backdrop. There's also a man in a suit sitting at a desk, partially visible. The scene appears to be from a talk show or interview setup. The lighting is bright, typical for a studio. There's no significant movement from the woman, but the man seems to be speaking or reacting to something. The overall color scheme is warm with reds and silvers."
         },
         {
           "segment_index": 2,
           "time_range": "375.0s - 381.0s",
-          "query": "VISUAL: There's a woman sitting on a blue chair, wearing a black sleeveless top with a cutout detail and a plaid skirt. She has long dark hair and is gesturing while talking. A man in a suit sits across from her at a desk, smiling and listening. The background shows a cityscape at night through large windows. There's also a blue mug on the desk.AUDIO: The woman is speaking, and there's laughter and applause in the background. It seems like she might be making a joke or a funny comment. What do you think about it?"
+          "query": "**Visual:** The video shows two people sitting at a desk in a studio setting. The person on the left is wearing a black sleeveless top and a patterned skirt, while the person on the right is dressed in a suit with a tie. They appear to be engaged in a conversation, with the person on the left gesturing with her hands. The background features a cityscape at night with illuminated buildings. There are also some blue and purple lighting effects around the desk area.\n\n**Audio:** The audio includes laughter and applause, followed by a person speaking. The speech seems to be part of a dialogue or interview, but the exact content is not clear from the provided information."
         },
         {
           "segment_index": 3,
           "time_range": "381.0s - 387.0s",
-          "query": "VISUAL: There's a woman sitting on a couch, laughing heartily. She has long hair and is wearing a black sleeveless top with a cutout design. The background shows some decorative elements like a patterned wall and a red door. There's also a man in a suit sitting across from her at a table, gesturing towards her.AUDIO: You can hear laughter throughout the clip, along with some applause and a bit of speech. It seems to be a light-hearted conversation or interview setting. So, what do you think about it?"
+          "query": "Visually, there are two people sitting, one in a black dress and the other in a suit. They seem to be in a studio setting with a decorative backdrop. The person in the black dress is laughing and looking down, while the person in the suit is also laughing and looking at her. There's a table between them with some items on it. The colors are mainly dark and warm tones, like black, brown, and red. The movement is mainly the laughter and slight head movements of the two people.\n\nAudibly, there's laughter and applause in the background. The laughter seems to be from the two people in the video, and the applause suggests an audience is present."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 281.1884412765503
+      "processing_time": 282.2958993911743
     },
     {
-      "comment_index": 5406,
+      "comment_index": 2936,
       "video_id": "jiMUoVjQ5uI",
       "comment": "Michelle's laughter at 6:25 says \"You are right but obviously I will never admit that\".",
       "language": "en",
@@ -559,51 +469,141 @@
         {
           "segment_index": 1,
           "time_range": "376.0s - 382.0s",
-          "query": "VISUAL: There's a woman sitting on a blue chair, wearing a black sleeveless top with a cutout detail and a plaid skirt. She has long dark hair. A man is sitting across from her at a desk, dressed in a suit and tie. He has glasses. They're both in a studio setting with a cityscape visible through large windows behind them. The desk has some papers and a mug on it.AUDIO: There's laughter throughout the clip, and then someone says \"no but he's got the NSA and he can find out what any of us are thinking.\" It seems like they're having a conversation about privacy or surveillance.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows two people sitting across from each other in a studio setting. The person on the left is wearing a black sleeveless top and a patterned skirt, while the person on the right is in a suit. They are seated at a round table with a mug and some papers on it. The background has a cityscape view at night with blue lighting accents.\n\n**Audio:** There is laughter and conversation between the two people. The speech is clear and engaging, with no background music or sound effects."
         },
         {
           "segment_index": 2,
           "time_range": "382.0s - 388.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black dress sitting on a blue couch. She's laughing really hard. Then there's a man in a suit next to her, also laughing. The background has some decorative elements like a patterned wall and a red door. It looks like they're on a talk show set.AUDIO: You can hear laughter throughout the whole clip. It seems like it might be from an audience reacting to something funny said or done by the two people on the couch.What do you think about that? Do you have any other videos you want me to analyze?"
+          "query": "Visually, there's a woman with long, dark hair wearing a black sleeveless top. She's seated and laughing heartily, her head tilted back slightly. The background shows a decorative wall with a red door or panel behind her. There's also a glimpse of a blue surface, possibly a couch or chair, to her side. The lighting is bright, highlighting her and the background details clearly.\n\nIn terms of audio, there's laughter and applause, suggesting a light-hearted or humorous moment. There's also a male voice speaking, though the content isn't clear from this short segment."
         },
         {
           "segment_index": 3,
           "time_range": "388.0s - 394.0s",
-          "query": "VISUAL: There's a man wearing glasses, a suit, and tie. He seems to be on some kind of talk show set with a cityscape background. He looks like he might be talking or reacting to something.AUDIO: Someone is speaking, and there's applause from an audience in the background. It sounds like they're responding to what the man is saying.What do you think about it? Do you have any other thoughts or questions?"
+          "query": "Visually, there's a man wearing glasses, a suit, and tie standing on a stage or set with city lights visible through windows behind him. He seems to be speaking or presenting something. There s also applause heard from an unseen audience.\n\nAudio-wise, it s mostly his speech, though there is some applause that starts around halfway through the clip. The overall tone suggests he might be addressing an important topic. What do you think about the setting?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 263.9792785644531
+      "processing_time": 267.422602891922
     },
     {
-      "comment_index": 5407,
+      "comment_index": 2937,
       "video_id": "jiMUoVjQ5uI",
-      "comment": "4:45 you're welcome",
+      "comment": "2:10- That's messed up. My mother did the same shit to my stuff!! Not my fault I wasn't home. Do only black mothers do this?",
       "language": "en",
       "channel_name": "ColbertLateShow",
       "category": "talk show",
       "likes": 9.0,
-      "comment_timestamp": 285.0,
+      "comment_timestamp": 130.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "276.0s - 282.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black sleeveless top and a plaid skirt sitting on a blue chair. She seems to be talking or reacting to something. In front of her is a man in a suit, also seated, who appears to be listening or responding. The background shows a cityscape at night through large windows, with some red and blue panels around it.AUDIO: Someone is speaking, saying \"him yeah he's tough no uh I thought she were gonna say him or Bo and Sunny.\" It sounds like they're having a conversation about someone named Bo and Sunny. There's also laughter heard towards the end.What do you think about the scene? Any thoughts?"
+          "time_range": "121.0s - 127.0s",
+          "query": "Visually, there are two people sitting on a talk show set. One is a woman in a black sleeveless top and patterned skirt, and the other is a man in a suit. They're seated at a round table with a mug and some papers on it. The background shows a nighttime cityscape with lights. The woman is talking and gesturing with her hands, while the man listens and occasionally responds. The colors are mainly red, blue, and black, typical of a talk show set. There's movement as the woman moves her hands while speaking and the man shifts slightly in his seat.Audibly, there's a woman speaking. She says, \"Actually made my kids start packing their rooms already it's just like get this done well you know.\" The tone is conversational, and there are no other distinct sounds or music."
         },
         {
           "segment_index": 2,
-          "time_range": "282.0s - 288.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black sleeveless top and plaid skirt sitting on a blue chair. She has big hoop earrings. A man in a suit is across from her at a table, holding a pen. They're both smiling and talking. The background shows a cityscape at night with lots of lights.AUDIO: Someone says \"Well him that smile that was pretty good impression of your\" followed by laughter. It seems like they're commenting on something funny or impressive about the woman's smile.What do you think about their interaction?"
+          "time_range": "127.0s - 133.0s",
+          "query": "**Visual:** The video shows two people in a studio setting. One is seated on the left, wearing a black sleeveless top and a patterned skirt, and the other is seated on the right, dressed in a suit. They are engaged in a conversation. The background features a cityscape at night with lights. There's a desk between them with some items on it, like a mug and papers.\n\n**Audio:** The audio includes a woman speaking, saying, \"I mean you don't want to keep it to the last minute. My thing is if you don't pack it, I'm throwing it out.\" There's also laughter heard in the background."
         },
         {
           "segment_index": 3,
-          "time_range": "288.0s - 294.0s",
-          "query": "VISUAL: There's a man in a suit talking to someone off - screen. He seems to be on some kind of talk show set with a cityscape background. Then it cuts to a woman in a black dress looking down, probably also on that same set.AUDIO: The man is speaking, and there's laughter from an audience in the background. It sounds like they're having a light-hearted conversation.What do you think about the setting? Does it seem familiar to you?"
+          "time_range": "133.0s - 139.0s",
+          "query": "**Visual:** The video shows a woman with long dark hair wearing a black sleeveless top with cut-out details on her chest. She is seated against a backdrop that includes ornate silver-colored patterns and a red curtain-like structure.\n\n**Audio:** There's a conversation happening where someone says \"that's it\" followed by laughter from another person. Then there's more dialogue about selling something on eBay."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 279.31446981430054
+      "processing_time": 261.6921691894531
+    },
+    {
+      "comment_index": 2938,
+      "video_id": "jiMUoVjQ5uI",
+      "comment": "0:42 peep the Secret Service agents. They're clapping too :,)",
+      "language": "en",
+      "channel_name": "ColbertLateShow",
+      "category": "talk show",
+      "likes": 9.0,
+      "comment_timestamp": 42.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "33.0s - 39.0s",
+          "query": "Visually, there are two people on a talk show set. One is seated on a blue couch, wearing a black sleeveless top and a patterned skirt, and the other is behind a desk, dressed in a suit. The set has a cityscape backdrop with lights. The person on the couch is laughing and talking, while the person at the desk is listening and smiling. There's a table between them with some papers and a mug.\n\nIn terms of audio, there's a lot of cheering and applause from an unseen audience."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "39.0s - 45.0s",
+          "query": "Visually, there are two people sitting on a stage. One is wearing a black sleeveless top and a gray skirt, and the other is in a suit. They seem to be engaged in a conversation or interview. The background shows a cityscape at night with lights. The audience is visible in the foreground, clapping and cheering. There are also some colorful blocks on the stage behind the people.\n\nAudibly, there's a lot of applause and cheering from the audience. It sounds like a lively and enthusiastic crowd."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "45.0s - 51.0s",
+          "query": "Visually, there's a large crowd of people, many with their hands raised, suggesting excitement or celebration. The setting seems to be an indoor venue, possibly a theater or a large hall, with dim lighting focused on the crowd. The people are dressed casually, and there's a sense of movement and energy in the scene.\n\nAudibly, there's a continuous sound of cheering and applause, indicating a positive and enthusiastic response from the crowd. There's no distinct speech or music heard in this short segment."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 291.9640610218048
+    },
+    {
+      "comment_index": 2939,
+      "video_id": "jiMUoVjQ5uI",
+      "comment": "0:56 did you guys see where Colberts eyes went...lol",
+      "language": "en",
+      "channel_name": "ColbertLateShow",
+      "category": "talk show",
+      "likes": 9.0,
+      "comment_timestamp": 56.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "47.0s - 53.0s",
+          "query": "Visually, there are two people sitting at a desk in a studio setting. The background shows a cityscape at night. There's also a group of musicians on a stage with instruments like a piano and guitars. The lighting is bright, highlighting the people and the instruments. The scene seems to be part of a talk show or a music program.\n\nAudibly, there's applause and cheering from an audience, and a man is speaking. The speech is likely part of the show's dialogue or commentary."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "53.0s - 59.0s",
+          "query": "Visually, there are two people sitting on a talk show set. One is wearing a black sleeveless top with a cutout and a patterned skirt, and the other is in a suit. They seem to be engaged in conversation. The background shows a cityscape at night with lights. There are also some studio elements like a desk and a mug on it.\n\nIn terms of audio, there's applause and cheering from an unseen audience, suggesting a positive or entertaining moment in the show."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "59.0s - 65.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 3.77 GiB. GPU 1 has a total capacity of 23.56 GiB of which 3.65 GiB is free. Including non-PyTorch memory, this process has 19.90 GiB memory in use. Of the allocated memory 15.86 GiB is allocated by PyTorch, and 3.73 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 334.95060658454895
+    },
+    {
+      "comment_index": 2940,
+      "video_id": "jiMUoVjQ5uI",
+      "comment": "0:20 He had to get a quick peek in 😂",
+      "language": "en",
+      "channel_name": "ColbertLateShow",
+      "category": "talk show",
+      "likes": 8.0,
+      "comment_timestamp": 20.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "11.0s - 17.0s",
+          "query": "Visually, there are two people on a stage, one in a black dress and the other in a suit. They seem to be interacting, possibly dancing or performing. The background shows a large audience, some standing and cheering. The lighting is bright, with spotlights on the stage. There are also some colorful decorations and screens in the background. The scene gives off a lively, celebratory vibe.Audibly, there's music playing in the background, likely adding to the festive atmosphere. There are also sounds of the audience cheering and clapping."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "17.0s - 23.0s",
+          "query": "Visual: The video shows a stage with a red carpet and some people on it. There are also some chairs and a table with a microphone on it. The background has colorful lights and a cityscape view. The people seem to be moving around, possibly dancing or performing. The overall scene looks like a talk show or a similar entertainment setting. The colors are bright, with a lot of reds and blues. The movement is dynamic, with people walking and interacting on the stage.Audio: There is music playing in the background throughout the video. It's a lively, upbeat tune that adds to the energetic atmosphere of the scene."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "23.0s - 29.0s",
+          "query": "Visually, there's a man in a suit standing behind a desk, and a woman in a dress sitting on a couch. The background shows a cityscape at night. The man seems to be talking or presenting something, and the woman is reacting to him. There's also a microphone on the desk.\n\nAudibly, there's music playing in the background, and there are some sound effects, like applause."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 308.9664669036865
     }
   ]
 }

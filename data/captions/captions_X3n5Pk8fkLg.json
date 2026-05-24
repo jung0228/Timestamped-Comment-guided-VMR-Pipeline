@@ -4,40 +4,39 @@
   "successful_comments": 20,
   "failed_comments": 0,
   "success_rate": "100.0%",
-  "processing_time": 5955.899276733398,
   "comments": [
     {
-      "comment_index": 3972,
+      "comment_index": 5420,
       "video_id": "X3n5Pk8fkLg",
-      "comment": "8:17 wasn't the alcohol people. Thats a man stunned by beauty right there 😂",
+      "comment": "When Seth started doing backflips on the couch, and she yelled \"TOM CRUUUISE! TOM CRUUUUISE\" @10:42 😂😂😂😂😂",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
-      "likes": 863.0,
-      "comment_timestamp": 497.0,
+      "likes": 970.0,
+      "comment_timestamp": 642.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "488.0s - 494.0s",
-          "query": "VISUAL: There's a woman with braided hair sitting at a bar counter having a conversation with someone across from her. She has a drink in front of her. The background shows some paintings on the wall and other patrons. The lighting is dim, creating a cozy atmosphere.AUDIO: There's laughter and clinking glass sounds throughout the clip. A woman speaks, saying \"I don't have the energy to.\" It seems like she might be feeling tired or overwhelmed. What do you think about it?"
+          "time_range": "633.0s - 639.0s",
+          "query": "**Visual:** The video shows a group of people in a lively indoor setting. There are colorful flowers on a table, and the people are engaged in various activities. One person is holding a bouquet of flowers, and others are interacting with each other. The scene has a warm, vibrant atmosphere with a mix of colors and movement.\n\n**Audio:** The audio features a man speaking, likely in a cheerful or excited tone. There are no other distinct sounds or music in the background."
         },
         {
           "segment_index": 2,
-          "time_range": "494.0s - 500.0s",
-          "query": "VISUAL: There's a woman with braided hair wearing a strapless dress. She has a gold necklace and bracelet. In the background, there are some lights and a man in a dark shirt. The scene seems to be indoors, like at a bar or restaurant. The woman is holding a glass and talking to someone off - screen.AUDIO: A woman speaks first, then a man responds. It sounds like they're having a conversation. There might be some ambient noise from the place where it's filmed. What do you think about this? Do you have any other questions related to the video?"
+          "time_range": "639.0s - 645.0s",
+          "query": "Visually, there's a person in a blue shirt standing in what looks like a room with some furniture and decorations. The person seems to be moving around, possibly dancing or just walking. The room has a warm, indoor feel with some items like a couch and a table visible. There are also some colorful decorations or items in the background that add a bit of vibrancy to the scene. The lighting is relatively dim, giving it a cozy atmosphere.Audibly, there's laughter and some kind of speech or shouting in the background. It sounds like a group of people are having a good time, maybe at a party or gathering. The laughter is quite prominent, suggesting a joyful and lively mood."
         },
         {
           "segment_index": 3,
-          "time_range": "500.0s - 506.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "time_range": "645.0s - 651.0s",
+          "query": "Visual: The video shows a person with short hair wearing headphones. They seem to be in a room with some furniture and possibly a window in the background. The person is moving their head and body slightly, suggesting they might be dancing or swaying to music. The lighting is somewhat dim, giving the scene a cozy, indoor feel.\n\nAudio: There is a voice speaking in the background, but the content of the speech is not clear from this short segment. There are no distinct sound effects or music audible."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 167.45446848869324
+      "processing_time": 274.69001054763794
     },
     {
-      "comment_index": 3971,
+      "comment_index": 5421,
       "video_id": "X3n5Pk8fkLg",
       "comment": "8:17 when Rihanna flipped her hair and Seth was left speechless, I think this is what his wife was talking about 😂😂",
       "language": "en",
@@ -50,114 +49,24 @@
         {
           "segment_index": 1,
           "time_range": "488.0s - 494.0s",
-          "query": "VISUAL: There's a woman with braided hair sitting at a bar counter having a conversation with someone across from her. She has a drink in front of her. The background shows some paintings on the wall and other patrons. The lighting is dim, creating a cozy atmosphere.AUDIO: There's laughter and clinking glass sounds throughout the clip. A woman speaks, saying \"I don't have the energy to.\" It seems like she might be feeling tired or overwhelmed. What do you think about it?"
+          "query": "Visually, there are two women in a dimly lit room, possibly a bar or a lounge. One woman has long, dark hair and is wearing a strapless black dress with a gold necklace. The other woman has long, light-colored hair and is wearing a black dress with a gold necklace as well. They seem to be engaged in a conversation. There are paintings on the walls behind them. The scene has a warm, slightly blurry quality to it.\n\nIn terms of audio, there's laughter and some background music playing. There's also a sound effect that resembles a glass clinking or a small object falling."
         },
         {
           "segment_index": 2,
           "time_range": "494.0s - 500.0s",
-          "query": "VISUAL: There's a woman with braided hair wearing a strapless dress. She has a gold necklace and bracelet. In the background, there are some lights and a man in a dark shirt. The scene seems to be indoors, like at a bar or restaurant. The woman is holding a glass and talking to someone off - screen.AUDIO: A woman speaks first, then a man responds. It sounds like they're having a conversation. There might be some ambient noise from the place where it's filmed. What do you think about this? Do you have any other questions related to the video?"
+          "query": "Visually, there's a woman with long, dark hair in a dimly lit bar setting. She's wearing a strapless dress and a necklace. There are other people in the background, some standing and talking. The bar has a warm, cozy ambiance with hanging lights. The scene seems to be a social gathering or a date night.Audibly, there's a conversation happening. A woman speaks first, then a man responds. The woman's voice is clear and confident, while the man's voice is softer and more hesitant. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "500.0s - 506.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "query": "Visually, there are two people at a bar. One person is sitting on the left side, wearing a dark dress and holding a glass. The other person is on the right, wearing a blue shirt and also holding a glass. The background has framed pictures on the wall. There's a transition where the image becomes blurry.\n\nAudio-wise, there's a man speaking, some laughter, and music playing in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 167.68268823623657
+      "processing_time": 264.2667558193207
     },
     {
-      "comment_index": 3977,
-      "video_id": "X3n5Pk8fkLg",
-      "comment": "This was the best 11:57 spent in my life. 🤣😂🍹🥂🍷🍸🍻🍾",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 315.0,
-      "comment_timestamp": 717.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "708.0s - 714.0s",
-          "query": "VISUAL: There's a man in a suit sitting against a blue background with some yellow and green stripes. He has short hair and is smiling. The words \"SUBSCRIBE NOW\", \"MORE CLIPS\" and \"WATCH EPISODES\" appear on the screen.AUDIO: There's music playing throughout the whole time. It seems to be instrumental music without any lyrics. What do you think about it? Do you like this kind of music?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "714.0s - 720.0s",
-          "query": "VISUAL"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "720.0s - 726.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 124.5986328125
-    },
-    {
-      "comment_index": 3976,
-      "video_id": "X3n5Pk8fkLg",
-      "comment": "9:45 \"wait, your best guess on what the title of Avatar was was 'Unicorn'?\"   ROFL",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 327.0,
-      "comment_timestamp": 585.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "576.0s - 582.0s",
-          "query": "VISUAL: There's a man with short hair looking at something off - screen to his right. He seems to be in a dimly lit room, maybe a bar or restaurant. The background is blurry but there are some indistinct shapes that could be tables or chairs.AUDIO: A woman is speaking. She says \"you're giving me really good um it's really I meant to say unicorn but what's the\". It sounds like she might be in the middle of a conversation or explaining something. What do you think about this? Do you have any other thoughts on the video?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "582.0s - 588.0s",
-          "query": "VISUAL: There's a man and a woman sitting close together. The woman has long braided hair and is wearing a black top with some jewelry. The man is in a dark shirt. They seem to be having a conversation while looking at something off - screen. The background looks like an indoor setting with some colorful decorations.AUDIO: Someone is talking about a movie with blue people, mentioning \"Avatar\" and then saying \"wait your best get.\" It seems like they're discussing movies or something related to them.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "588.0s - 594.0s",
-          "query": "VISUAL: There's a woman with long red braided hair sitting next to a man. She's wearing a black dress and has bracelets on her wrist. The man is in a dark shirt. They seem to be having a conversation while sitting on a couch. In the background, there are some plants and colorful decorations.AUDIO: A male voice says \"yes\" at two different times during the video. There's also laughter heard after his second \"yes.\".If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 441.29962682724
-    },
-    {
-      "comment_index": 3970,
-      "video_id": "X3n5Pk8fkLg",
-      "comment": "When Seth started doing backflips on the couch, and she yelled \"TOM CRUUUISE! TOM CRUUUUISE\" [USER]:42 😂😂😂😂😂",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 970.0,
-      "comment_timestamp": 642.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "633.0s - 639.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "639.0s - 645.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "645.0s - 651.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.27831435203552246
-    },
-    {
-      "comment_index": 3973,
+      "comment_index": 5422,
       "video_id": "X3n5Pk8fkLg",
       "comment": "9:38 — \"That's really good. That's 🌠really🌠 good\"  It always gets me. Seth seemed so genuinely impressed 😂",
       "language": "en",
@@ -170,24 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "569.0s - 575.0s",
-          "query": "VISUAL: There's a man and a woman sitting on a couch. The woman has long braided hair and is wearing a black top. She's applying makeup to the man who has short hair and is holding a compact mirror. They're both looking at something off - screen. There are colorful pillows on the couch and some flowers in vases around them. The background seems to be indoors with warm lighting.AUDIO: A male voice says \"I'm doing my eye now\" followed by \"a little more blue.\" Then there's a female voice saying \"I think we got her again.\" After that, another male voice says \"little more blue.\" It sounds like they might be talking about painting or some kind of art project.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Sure! So, visually, there's a man and a woman sitting on a couch together. The room has some nice decorations like flowers and colorful pillows. They seem to be chatting or doing something together.The audio? Well, it seems like they're having a conversation. There might be some background noise too.Anything else you want to know about the video?"
         },
         {
           "segment_index": 2,
           "time_range": "575.0s - 581.0s",
-          "query": "VISUAL: There's a woman with braided hair applying makeup to a man's face. The man has short grayish hair and is wearing a dark shirt. He looks at himself in a mirror while she applies the makeup.AUDIO: Someone says \"blue on here you're giving me really good um it's really good I'm gonna sit.\" It seems like they're commenting on the makeup application.What do you think about this scene? Do you have any other videos or questions for me?"
+          "query": "Visually, there are two people in the video. One person has long hair and is wearing a red top, while the other person has short hair and is wearing a dark shirt. They seem to be interacting closely, possibly in a playful or intimate manner. The background is somewhat blurred, but it looks like an indoor setting with warm lighting.\n\nIn terms of audio, there is a conversation happening between the two people. The dialogue is in English and seems to be casual and friendly. There are no other noticeable sound effects or music in the audio."
         },
         {
           "segment_index": 3,
           "time_range": "581.0s - 587.0s",
-          "query": "VISUAL: There's a man and a woman sitting close together. The woman has long braided hair and is wearing a black dress with some jewelry. The man is in a dark shirt. They seem to be having a conversation while looking at something off - screen. The background looks like an indoor setting with some colorful decorations.AUDIO: Someone is talking about a movie with blue people, mentioning \"Avatar\" and \"Unicorn.\" It seems like they're discussing movies or maybe just chatting casually.If you have any other thoughts or questions about it, feel free to share!"
+          "query": "Visually, there are two people in the video. One has dreadlocks and is wearing a black dress with a necklace. The other person is wearing a dark shirt. They seem to be having a conversation in a setting that looks like a restaurant or a similar place, with some plants and decorations in the background. The movement is mainly their talking and slight head movements as they converse.Audibly, there's a conversation between two people. One person asks \"Unicorn but what's that movie?\" and the other responds with \"movie with the blue people Avatar yeah.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 476.0559711456299
+      "processing_time": 252.84676957130432
     },
     {
-      "comment_index": 3974,
+      "comment_index": 5423,
       "video_id": "X3n5Pk8fkLg",
       "comment": "rihanna is so fucking beautiful that at 8:19 when she turned around she broke his whole pickup line the words were GONE",
       "language": "en",
@@ -200,54 +109,84 @@
         {
           "segment_index": 1,
           "time_range": "490.0s - 496.0s",
-          "query": "VISUAL: There's a woman with braided hair sitting at a bar counter. She has a drink in front of her. The background shows some framed pictures on the wall. The lighting is dim, creating a cozy atmosphere.AUDIO: Someone is speaking, saying \"Very serious I don't even have the energy to lift my arm to that bell.\" It seems like they're talking about something important or urgent.What do you think about the scene? Do you have any other thoughts or questions?"
+          "query": "Visually, there are two women in a dimly lit room. One has long, dark hair and is wearing a strapless black dress with a gold necklace. The other has long, dark braids and is also wearing a black dress. They seem to be having a conversation. The room has some framed pictures on the wall. There's also a man in a suit walking in the background. The overall color scheme is dark with warm lighting.\n\nAudibly, there's a woman speaking, and there are some sound effects like applause and laughter."
         },
         {
           "segment_index": 2,
           "time_range": "496.0s - 502.0s",
-          "query": "VISUAL: There's a woman with long red hair wearing a black dress at a bar. She has a glass in her hand. A man in a dark shirt is sitting across from her. They seem to be having a conversation. The background shows some dim lighting and paintings on the wall.AUDIO: There's a man speaking, and then there's laughter. It seems like he might have said something funny or unexpected. What do you think about it?"
+          "query": "Sure! Here's a breakdown of the video segment:.Visually, the video shows a woman in a dark dress standing at a bar counter. There are other people in the background, including a man in a blue shirt who seems to be interacting with her. The setting appears to be a dimly lit bar with warm lighting and some hanging lights. The woman is holding a glass, and there are bottles and glasses on the bar counter.Action-wise, the woman is standing still at the bar, while the man in the blue shirt is talking to her and gesturing with his hands. The other people in the background are also engaged in conversation or other activities.Audibly, there is a man speaking, likely the man in the blue shirt. The speech is clear and seems to be part of a conversation. There are no other distinct sound effects or music in the audio."
         },
         {
           "segment_index": 3,
           "time_range": "502.0s - 508.0s",
-          "query": "VISUAL: There's a man and a woman at a bar counter. The woman is wearing a black dress with a necklace and bracelets. She picks up a glass from the counter and takes a sip. The man, dressed in dark clothes, stands next to her, looking at her. The background has some framed pictures on the wall.AUDIO: You can hear someone saying \"excuse me\" twice during the video. There's also some music playing in the background."
+          "query": "**Visual:** The scene shows two individuals at a bar counter. One person is seated on one side, while another stands across from them. There are glasses and possibly some bottles or other bar items visible on the counter. The background includes framed pictures or artwork.\n\n**Audio:** Someone says \"excuse me\" during the clip. There's also faint background music playing throughout."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 336.970335483551
+      "processing_time": 275.8714847564697
     },
     {
-      "comment_index": 3975,
+      "comment_index": 5424,
       "video_id": "X3n5Pk8fkLg",
-      "comment": "This whole video is incredible but Rihanna screaming \"Tom Cruise\" at 10:42 is my favorite part hahahaha",
+      "comment": "9:45 \"wait, your best guess on what the title of Avatar was was 'Unicorn'?\"   ROFL",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
-      "likes": 366.0,
-      "comment_timestamp": 642.0,
+      "likes": 327.0,
+      "comment_timestamp": 585.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "633.0s - 639.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "time_range": "576.0s - 582.0s",
+          "query": "Visually, there's a man in a dark shirt. He seems to be in a social setting, maybe a bar or a party, with some blurred figures in the background. He's looking to his right and then turns his head a bit. There's a woman in a black dress with a necklace behind him. The lighting is dim, giving a warm, cozy feel. The background is out of focus, but you can make out some colorful lights and shapes, suggesting a lively atmosphere.Audibly, there's a conversation happening. The man says something like \"you're giving me really good um\" and then corrects himself, saying \"I meant to say unicorn but what's.\" The tone is casual and a bit hesitant."
         },
         {
           "segment_index": 2,
-          "time_range": "639.0s - 645.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "time_range": "582.0s - 588.0s",
+          "query": "Visually, there's a man and a woman sitting close together. The woman has long braided hair with beads. They seem to be having an intense conversation or interaction. The background is somewhat blurry but looks like it could be indoors with some colorful elements.The audio mainly consists of their voices talking, no other distinct sounds are heard. It seems like they're engaged in a serious dialogue.What do you think about that? Any thoughts on why they might be so focused?"
         },
         {
           "segment_index": 3,
-          "time_range": "645.0s - 651.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "time_range": "588.0s - 594.0s",
+          "query": "Visually, there are two people sitting close together. One has long red braided hair and is wearing a black sleeveless top. The other has short brown hair and is in a dark shirt. They seem to be engaged in a conversation, with the person in the dark shirt gesturing with their hand. The background is somewhat blurry but looks like an indoor setting with some furniture and decorations. There's also a third person visible in the background, but they're not the focus. The colors are warm and the lighting seems to be from indoor sources.Audibly, there's a man speaking. His voice is clear and he seems to be talking to the two people in the foreground. There are no other distinct sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.5078942775726318
+      "processing_time": 265.9122431278229
     },
     {
-      "comment_index": 3978,
+      "comment_index": 5425,
+      "video_id": "X3n5Pk8fkLg",
+      "comment": "This was the best 11:57 spent in my life. 🤣😂🍹🥂🍷🍸🍻🍾",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 315.0,
+      "comment_timestamp": 717.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "708.0s - 714.0s",
+          "query": "**Visual:** The video shows a man in a suit sitting against a dark blue background with some yellow and green stripes. He's smiling and looking directly at the camera. There are texts on the screen saying \"SUBSCRIBE NOW\", \"MORE CLIPS\", and \"WATCH EPISODES\".\n\n**Audio:** The audio features music playing in the background."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "714.0s - 720.0s",
+          "query": "Sure! So, in the video, there's a man in a suit sitting in front of a blue background with some yellow and green stripes. He's smiling and looking at the camera. There's also some text on the screen that says \"SUBSCRIBE.NOW\", \"MORE CLIPS\", and \"WATCH EPISODES\".As for the audio, there's music playing in the background.Anything else you want to know about the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "720.0s - 726.0s",
+          "query": "Inference error: 'video_fps'"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 213.56212735176086
+    },
+    {
+      "comment_index": 5426,
       "video_id": "X3n5Pk8fkLg",
       "comment": "10:53 when he sang “badabadabbada nmakdnwjan” I really felt that",
       "language": "en",
@@ -260,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "644.0s - 650.0s",
-          "query": "VISUAL: There's a woman lying on a couch with her legs up, wearing colorful clothes and some kind of headpiece. She seems to be in a room with patterned walls. Then there's a man standing up, holding something that looks like a piece of paper or cloth, and he's moving around. The scene has a bit of a chaotic feel.AUDIO: You can hear someone singing along with the music playing in the background. It's a lively tune. What do you think about it?"
+          "query": "Well, I'm not sure if there's anything specific to describe here. The video seems pretty short and doesn't really show much. Maybe it's just someone talking or doing something simple? What do you think about it?"
         },
         {
           "segment_index": 2,
           "time_range": "650.0s - 656.0s",
-          "query": "VISUAL: There's a man wearing headphones dancing in a room with some furniture like couches and chairs. The background seems to be dimly lit, possibly at night or in a low - light setting. He moves his arms and legs rhythmically.AUDIO: I can hear music playing throughout the clip. It has a lively feel to it. There are no distinct speech or sound effects that stand out.What do you think about the vibe of the scene?"
+          "query": "Visually, there are people in a room with some furniture like a couch and a table. The lighting seems dim, and there are some plants visible. The people are moving around, possibly dancing or engaging in some kind of activity. There's a sense of motion and interaction among them.\n\nAudibly, there's music playing in the background, and there are sounds of people talking and laughing. It seems like a lively and social atmosphere."
         },
         {
           "segment_index": 3,
           "time_range": "656.0s - 662.0s",
-          "query": "VISUAL: There's a man and a woman sitting on a couch. The woman is holding a phone up to take a selfie or record something. They both seem to be dancing or moving their arms in some kind of rhythmic way. The room has a cozy feel with warm lighting, plants, and decorative pillows on the couch.AUDIO: There's a song playing in the background throughout the whole clip. It seems like it might be a pop or dance track based on the rhythm and melody. No other distinct sounds are heard.Does that help? If you have any more questions about the video, feel free to ask!"
+          "query": "Visually, there's a cozy living room scene with a Christmas tree decorated with lights and ornaments. People are sitting on couches, some holding drinks or snacks. There s a coffee table with flowers and other items on it. The overall color scheme is warm, with reds, greens, and golds.\n\nAudibly, someone is singing \"Work, work, work\" repeatedly. It seems like they might be performing or just having fun."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 385.227490901947
+      "processing_time": 152.33151769638062
     },
     {
-      "comment_index": 3979,
+      "comment_index": 5427,
       "video_id": "X3n5Pk8fkLg",
       "comment": "1:48 Rihanna : I don't even like milk Seth : it's nut milk Rihanna : what?  😂 don't ever say that again 😂😂😂😂😂😂😂😂😂",
       "language": "en",
@@ -290,84 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "99.0s - 105.0s",
-          "query": "VISUAL: There's a man at a bar serving drinks to a woman sitting there. The bartender is holding a bottle and a glass with a straw. The setting has warm lighting and some decorative elements like chandeliers. The woman is wearing a dress and jewelry.AUDIO: Someone says \"cause our diamonds is blue diamond almond milk.\" It seems like they're talking about a product or something related to it. There's also laughter in the background.What do you think about this scene? Do you have any other questions?"
+          "query": "Visually, there's a man and a woman sitting at a bar counter. The man is reaching out to grab something from the bartender, while the woman looks on with a smile. There are glasses filled with drinks on the counter.The audio has some background noise, like people talking or laughing, which gives it a lively bar atmosphere."
         },
         {
           "segment_index": 2,
           "time_range": "105.0s - 111.0s",
-          "query": "VISUAL: There's a man and a woman at a bar counter. The man is leaning over slightly towards the woman. They both have drinks in front of them. The background shows some bottles on shelves behind the bar. The lighting seems warm and dim.AUDIO: You can hear some conversation between the two people. There are also some clinking sounds from glasses and maybe some other small noises like a coin dropping or something similar. It doesn't seem to be very loud though. What do you think about it?"
+          "query": "Visually, there are two people sitting at a bar counter. One person is wearing a dark shirt and the other has long hair and is wearing a necklace. There are glasses and bottles on the bar counter. The background has a patterned wall and some lights. The scene seems to be indoors, possibly in a bar or restaurant. The lighting is warm and dim. There's also a window in the background showing some light coming in.Audibly, there's a woman speaking, and there are sounds of glasses clinking and liquid being poured."
         },
         {
           "segment_index": 3,
           "time_range": "111.0s - 117.0s",
-          "query": "VISUAL: There's a man and a woman at a bar. The man is drinking from a glass, and the woman is also holding a drink. They seem to be having a conversation while sitting across from each other. The background shows shelves with various bottles, suggesting it's a well-stocked bar. The lighting is warm and dim, creating an intimate atmosphere.AUDIO: A male voice says \"it's a nut milk\" followed by \"what don't even say that ever again.\" Then there's some laughter. It seems like they're having a light-hearted exchange about something related to the drink they're having.So, what do you think about their interaction?"
+          "query": "Visually, there are two people in a bar setting. One person is drinking from a glass, and the other is sitting at the bar counter. The bar has shelves with various bottles and glasses. The lighting is dim, creating a cozy atmosphere. There's movement as the person drinking takes a sip and lowers the glass, while the other person seems to be engaged in conversation or reacting to something.\n\nAudibly, there's a man speaking, and his words are \"it's a nut milk what don't you say that.\" There's also laughter in the background, suggesting a light-hearted or humorous moment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 429.62248849868774
+      "processing_time": 263.87073612213135
     },
     {
-      "comment_index": 3984,
-      "video_id": "X3n5Pk8fkLg",
-      "comment": "8:03 “what’s a nice boy like me doing in the big city without his parents”",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 176.0,
-      "comment_timestamp": 483.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "474.0s - 480.0s",
-          "query": "VISUAL: There's a man and a woman at a bar. The man is talking to the woman who has long braided hair. They seem to be having a conversation while sitting across from each other with drinks on the table.AUDIO: You can hear some speech, likely their conversation, and there's also background noise that could be from other patrons or general bar ambiance.If you have any thoughts about this scene or want to discuss more, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "480.0s - 486.0s",
-          "query": "VISUAL: There's a man and a woman at a bar. The woman has long braided hair and is wearing a black dress with jewelry. She's holding a glass. The man is in a dark sweater. They seem to be having a conversation while sitting across from each other at the bar counter. The background shows some framed pictures on the wall.AUDIO: You can hear laughter throughout the clip. Then there's a male voice speaking, saying \"What's a nice little boy like me doing in the big city without his parents?\" It seems like he's talking about himself in a somewhat self - deprecating way.If you have any thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "486.0s - 492.0s",
-          "query": "VISUAL: There's a woman with long braided hair sitting at a bar counter having a conversation with a man across from her. She has a drink in front of her. The background shows some framed pictures on the wall.AUDIO: You can hear laughter, clinking glasses, and a bell ringing. It seems like there might be some kind of celebration or event going on. So, what do you think about it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 419.4145610332489
-    },
-    {
-      "comment_index": 3983,
-      "video_id": "X3n5Pk8fkLg",
-      "comment": "7:08 she's a real-life Jessica Rabbit, all natural charisma and red locks :oooooo",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 197.0,
-      "comment_timestamp": 428.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "419.0s - 425.0s",
-          "query": "VISUAL: There's a man sitting at a table with some glasses on it. He seems to be talking or reacting to something. Then there's a woman in a green dress standing near a bar area with bottles behind her. She looks like she might be a bartender or someone working there.AUDIO: Someone is speaking, saying \"I have a genuine advice question your nickname is RiRi.\" It's just that one line of dialogue.So, what do you think about this scene? Do you have any other questions related to it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "425.0s - 431.0s",
-          "query": "VISUAL: There's a man sitting at a bar with some glasses on the table. He seems to be talking or gesturing while holding something small. Then there's a woman in a green dress standing behind the bar counter. She looks like she might be speaking too.AUDIO: Someone is talking about nicknames, saying \"What would be a good nickname for me? Damn I don't even know you like that.\" It sounds like they're having a conversation about nicknames. So, what do you think about nicknames? Do you have any good ones in mind?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "431.0s - 437.0s",
-          "query": "VISUAL: There's a woman with long braided hair wearing a black dress and a gold necklace. She seems to be at a bar or some kind of social place with bottles on shelves behind her. Then there's a man sitting across from her, talking and gesturing with his hands. He has short hair and is wearing a dark shirt.AUDIO: The audio contains someone speaking about drinking tequila out of chocolate bunnies. It's just that one person talking without any other background noises like music or sound effects.So, what do you think about this scene? Do you have any ideas for how it might continue?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 374.4628393650055
-    },
-    {
-      "comment_index": 3980,
+      "comment_index": 5428,
       "video_id": "X3n5Pk8fkLg",
       "comment": "07:25 - \"Say the first thing that pops into your mind!- 1,2,3\"  \".........seth...........\"  I am deceased.",
       "language": "en",
@@ -380,54 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "436.0s - 442.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "query": "Oh, okay! So, visually, there's someone sitting at a bar counter with drinks on it. There's also another person standing nearby. The setting seems to be indoors, probably a bar or restaurant. As for the audio, I can't really make out any specific words or sounds clearly.What do you think? Anything else you noticed?"
         },
         {
           "segment_index": 2,
           "time_range": "442.0s - 448.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "query": "Visually, there are two people in a bar setting. One person is sitting at a table with glasses and a drink in front of them, raising their hand in a gesture. The other person is standing, wearing a dark dress and a necklace. The background shows shelves with bottles and a painting on the wall. The lighting is warm and dim, typical of a bar.\n\nIn terms of audio, there's a countdown from \"one, two, three\" followed by laughter."
         },
         {
           "segment_index": 3,
           "time_range": "448.0s - 454.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "query": "Visually, there are people sitting at a bar, engaged in conversation. The setting seems to be a dimly lit bar with some framed pictures or artworks on the walls. There are glasses and bottles on the bar counter. The people are mostly adults, and they appear to be in a relaxed, social environment. The colors are warm, with a lot of browns and yellows from the lighting and decor. Movement is mainly from the people talking and gesturing.\n\nIn terms of audio, there's a woman speaking, and she seems to be laughing or reacting to something. There's also some background noise, likely from other patrons and the general ambiance of the bar."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.5257632732391357
+      "processing_time": 216.9973020553589
     },
     {
-      "comment_index": 3982,
-      "video_id": "X3n5Pk8fkLg",
-      "comment": "When she whispered \"Seth\" at 7:25 😂",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 203.0,
-      "comment_timestamp": 445.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "436.0s - 442.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "442.0s - 448.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "448.0s - 454.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.22441339492797852
-    },
-    {
-      "comment_index": 3981,
+      "comment_index": 5429,
       "video_id": "X3n5Pk8fkLg",
       "comment": "When he rang the bell by  himself on his own that kind of had me dead 8:11 tbh at first lmaooo",
       "language": "en",
@@ -440,24 +289,114 @@
         {
           "segment_index": 1,
           "time_range": "482.0s - 488.0s",
-          "query": "VISUAL: There's a woman with long braided hair sitting at a bar counter. She's wearing a black dress and some jewelry like a necklace and bracelets. A man in a dark sweater walks up to her and they start talking. The background has some framed pictures on the wall.AUDIO: Someone is speaking, saying \"What's a nice boy like me doing in the big city without his parents?\" It seems like there might be laughter or other reactions from others around too.If you have any thoughts about this or want to discuss more, feel free to let me know."
+          "query": "Visually, there's a woman with long braided hair sitting at a bar counter, wearing a black dress and bracelets. She seems to be having a conversation with someone across from her who has short dark hair and is holding a drink. The background shows some framed pictures on the wall and other patrons moving around. There are also hanging lamps providing warm lighting.\n\nIn terms of audio, I can hear laughter and some indistinct chatter that might be related to the conversation between the two people. It gives off a casual, social vibe typical of a bar setting."
         },
         {
           "segment_index": 2,
           "time_range": "488.0s - 494.0s",
-          "query": "VISUAL: There's a woman with braided hair sitting at a bar counter having a conversation with someone across from her. She has a drink in front of her. The background shows some paintings on the wall and other patrons. The lighting is dim, creating a cozy atmosphere.AUDIO: There's laughter and clinking glass sounds throughout the clip. A woman speaks, saying \"I don't have the energy to.\" It seems like she might be feeling tired or overwhelmed. What do you think about it?"
+          "query": "Visually, there are two women in a dimly lit room, possibly a bar or a lounge. One woman has long, dark hair and is wearing a strapless black dress with a gold necklace. The other woman has long, light-colored hair and is wearing a black dress with a gold necklace as well. They seem to be engaged in a conversation. There are paintings on the walls behind them. The scene has a warm, slightly blurry quality to it.\n\nIn terms of audio, there's laughter and some background music playing. There's also a sound effect that resembles a glass clinking or a small object falling."
         },
         {
           "segment_index": 3,
           "time_range": "494.0s - 500.0s",
-          "query": "VISUAL: There's a woman with braided hair wearing a strapless dress. She has a gold necklace and bracelet. In the background, there are some lights and a man in a dark shirt. The scene seems to be indoors, like at a bar or restaurant. The woman is holding a glass and talking to someone off - screen.AUDIO: A woman speaks first, then a man responds. It sounds like they're having a conversation. There might be some ambient noise from the place where it's filmed. What do you think about this? Do you have any other questions related to the video?"
+          "query": "Visually, there's a woman with long, dark hair in a dimly lit bar setting. She's wearing a strapless dress and a necklace. There are other people in the background, some standing and talking. The bar has a warm, cozy ambiance with hanging lights. The scene seems to be a social gathering or a date night.Audibly, there's a conversation happening. A woman speaks first, then a man responds. The woman's voice is clear and confident, while the man's voice is softer and more hesitant. There are no other distinct sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 476.18389773368835
+      "processing_time": 204.3728482723236
     },
     {
-      "comment_index": 3985,
+      "comment_index": 5430,
+      "video_id": "X3n5Pk8fkLg",
+      "comment": "When she whispered \"Seth\" at 7:25 😂",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 203.0,
+      "comment_timestamp": 445.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "436.0s - 442.0s",
+          "query": "Visually, there are two people sitting at a table in a dimly lit bar. One person is wearing a dark shirt and seems to be talking or reacting to something. The other person is partially visible, with long hair and a black dress. There are glasses and bottles on the table. The background has some framed pictures or artworks. The scene gives off a relaxed, social vibe.Audibly, there's a conversation happening. The man in the dark shirt is speaking, and the woman in the black dress is also talking. It sounds like they're having a casual chat."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "442.0s - 448.0s",
+          "query": "Visually, there are two people in a bar setting. One person is sitting at a table with glasses and a drink in front of them, raising their hand in a gesture. The other person is standing, wearing a dark dress and a necklace. The background shows shelves with bottles and a painting on the wall. The lighting is warm and dim, typical of a bar.\n\nIn terms of audio, there's a countdown from \"one, two, three\" followed by laughter."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "448.0s - 454.0s",
+          "query": "Visually, there are people sitting at a bar, engaged in conversation. The setting seems to be a dimly lit bar with some framed pictures or artworks on the walls. There are glasses and bottles on the bar counter. The people are mostly adults, and they appear to be in a relaxed, social environment. The colors are warm, with a lot of browns and yellows from the lighting and decor. Movement is mainly from the people talking and gesturing.\n\nIn terms of audio, there's a woman speaking, and she seems to be laughing or reacting to something. There's also some background noise, likely from other patrons and the general ambiance of the bar."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 255.37053680419922
+    },
+    {
+      "comment_index": 5431,
+      "video_id": "X3n5Pk8fkLg",
+      "comment": "7:08 she's a real-life Jessica Rabbit, all natural charisma and red locks :oooooo",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 197.0,
+      "comment_timestamp": 428.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "419.0s - 425.0s",
+          "query": "Oh, okay! So, visually, there's someone sitting at a bar counter with drinks around them. They're stirring something in their glass. There's also another person nearby, kind of out of focus. The background has shelves full of bottles, giving off that typical bar vibe. As for the audio, it seems like there might be some conversation or dialogue happening, but I can't really make out specific words.What do you think about it? Any thoughts on what could be going on here?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "425.0s - 431.0s",
+          "query": "Visually, there are two people in a bar setting. One person is sitting at a table, gesturing with their hands, while the other is standing, wearing a green dress and a necklace. There are glasses and bottles on the table. The background has shelves with various bottles and some framed pictures on the wall. The lighting is dim, creating a cozy atmosphere. The colors are mostly warm, with browns and greens dominating the scene. There's some movement from the people, like the sitting person's hand gestures and the standing person's slight movements.Audibly, there's a conversation between the two people. The man is speaking, and the woman is also talking. The man's voice is clear, and the woman's voice is a bit softer. There's no background music or sound effects, just the two people talking."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "431.0s - 437.0s",
+          "query": "Visually, there's a woman in a dark dress standing in what looks like a bar, with shelves of bottles behind her. Then, the scene shifts to a man sitting at a table, talking and gesturing with his hands. There are glasses on the table in front of him. The lighting seems dim, typical of a bar setting. The colors are mostly muted, with the dark dress and the brownish tones of the bar area.Audibly, there's a woman speaking, and then a man talking. The woman's speech is clear, and the man's voice is also distinct. There's no background music or sound effects, just the two people talking."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 249.43421053886414
+    },
+    {
+      "comment_index": 5432,
+      "video_id": "X3n5Pk8fkLg",
+      "comment": "8:03 “what’s a nice boy like me doing in the big city without his parents”",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 176.0,
+      "comment_timestamp": 483.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "474.0s - 480.0s",
+          "query": "Visually, there are two people in a dimly lit bar setting. One person is standing behind the bar, and the other is seated. The bar has a classic look with wooden furniture and hanging lights. There are also some framed pictures on the wall. The person behind the bar seems to be interacting with the seated person, possibly taking an order or having a conversation. The seated person has long hair and is wearing a strapless dress. The overall color scheme is warm, with lots of browns and soft lighting.\n\nIn terms of audio, there is a man speaking, and then a woman laughs. The man's speech is clear, and the woman's laughter is audible and seems genuine. There are no other distinct sounds or music in the background."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "480.0s - 486.0s",
+          "query": "Sure! So, visually, there's a man and a woman sitting at a bar counter. The background has some framed pictures on the wall. They're both holding drinks.The audio? Well, they seem to be chatting casually, and there s a bell ringing in the background.Anything else you want to know about it?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "486.0s - 492.0s",
+          "query": "Visually, there are two people in a dimly lit room, possibly a bar or restaurant. One person is wearing a strapless black dress and a necklace, while the other is in a dark shirt. They seem to be having a conversation. There are some framed pictures or artworks on the wall in the background. The scene has a warm, slightly hazy ambiance.\n\nAudibly, there's laughter and some background noise, like the clinking of glasses or dishes. It sounds like a social gathering or a casual event."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 256.00287342071533
+    },
+    {
+      "comment_index": 5433,
       "video_id": "X3n5Pk8fkLg",
       "comment": "1:50 HAHAHA \"ISSA NUTMILK\"  RIRI: WHAT!! DONT EVER SAY THAT AGAIN 😂😂😂",
       "language": "en",
@@ -470,54 +409,24 @@
         {
           "segment_index": 1,
           "time_range": "101.0s - 107.0s",
-          "query": "VISUAL: There's a man and a woman at a bar counter. The man is holding a carton of Blue Diamond almond milk and seems to be showing it to the woman. They both have drinks on the counter in front of them. The setting looks like an indoor bar with warm lighting and some decorative elements like chandeliers.AUDIO: You can hear laughter and conversation between the two people. There's also the sound of glasses clinking together. Oh, and there's some background music playing too.If you want to know more about this or have other questions, feel free to ask!"
+          "query": "Visually, there are two people sitting at a bar counter. The setting seems to be a dimly lit bar with some decorative elements like a chandelier and a window showing daylight outside. There are glasses and bottles on the counter. One person is reaching out to touch or interact with something on the counter, while the other is sitting back, looking at the first person. The colors are mostly warm, with browns and yellows dominating the scene. There's a sense of movement as the person on the left leans forward.\n\nIn terms of audio, there's a conversation happening between the two people. The man is speaking, and the woman is responding. There are also some sounds of glasses clinking and possibly some background music or ambient noise from the bar."
         },
         {
           "segment_index": 2,
           "time_range": "107.0s - 113.0s",
-          "query": "VISUAL: There's a man and a woman at a bar. The man is wearing a dark shirt and has short hair. He's holding a glass with a drink that looks like milk or something similar. The woman has long braided hair and is also holding a glass. They're both smiling and seem to be having a good time. In the background, there are shelves full of bottles, probably alcohol. The lighting is warm and dim, giving it a cozy bar atmosphere.AUDIO: You can hear some conversation between the two people. It seems light - hearted and friendly. There are also some sound effects, maybe from glasses clinking together. Oh, and there's a bit of music playing softly in the background too.If you have any other thoughts about the video or want to discuss more, feel free to let me know!"
+          "query": "Sure! So, visually, there's a man and a woman sitting at a bar counter. The man is drinking from a glass, while the woman looks on with a smile. There are bottles and glasses visible behind them, suggesting it s a typical bar setting. The lighting seems warm and cozy.Audience-wise, I can't really tell much about the audio since it doesn t say anything.Does that help? Let me know if you want to dive deeper into any part!"
         },
         {
           "segment_index": 3,
           "time_range": "113.0s - 119.0s",
-          "query": "VISUAL: There's a man and a woman at a bar counter. The man is drinking from a glass while the woman looks at him. There are some bottles on the counter behind them.AUDIO: Someone says \"What don't even say that ever again\" with a bit of laughter in the background.What do you think about it? Do you have any other thoughts or questions related to this video?"
+          "query": "Visually, there's a man and a woman sitting at a bar counter. The man is drinking from a glass while the woman looks on. There are various bottles and glasses around them, and the background has warm lighting with some decorative elements like lamps.\n\nIn terms of audio, I can't really make out any specific speech or music clearly within those few seconds. It seems pretty quiet overall."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 343.07839155197144
+      "processing_time": 223.24052619934082
     },
     {
-      "comment_index": 3989,
-      "video_id": "X3n5Pk8fkLg",
-      "comment": "That laugh around 00:56! That is a genuine carribean \"are yoou sure you wanna play that game\" laugh! 😂",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 95.0,
-      "comment_timestamp": 56.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "47.0s - 53.0s",
-          "query": "VISUAL: There's a man behind a bar counter with bottles and glasses around him. He's talking to a woman sitting at the bar. The woman has long hair and is wearing a dark dress. She seems to be listening to the man.AUDIO: A male voice is speaking, saying \"fan of yours I am now going to make a series of drinks based on some of my favorite of your songs.\" It's just his voice, no other sounds like music or background noise.If you want to talk more about this video or have any other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "53.0s - 59.0s",
-          "query": "VISUAL: There's a woman with braided hair sitting at a bar counter. She's wearing a strapless dress and some jewelry. A man is standing behind her, facing away from the camera. He seems to be talking or interacting with her. The background shows shelves with bottles and glasses, typical of a bar setting.AUDIO: Someone is speaking, saying \"because that's the level of service we survive this is a drink called\". It sounds like they're explaining something about the drink being served at the bar.If you have any other thoughts or questions about the video, feel free to share!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "59.0s - 65.0s",
-          "query": "VISUAL: There's a man behind a bar pouring rum into a glass for a woman sitting at the bar. The bar has various bottles on shelves and some glasses on it. The lighting is warm and dim, creating a cozy atmosphere.AUDIO: A male voice says \"Under my rumbrella all right so it's rum okay that's how we start it.\" It seems like he's explaining something about making a drink with rum. What do you think about this scene? Do you have any other videos to analyze?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 447.7167420387268
-    },
-    {
-      "comment_index": 3986,
+      "comment_index": 5434,
       "video_id": "X3n5Pk8fkLg",
       "comment": "5:57 she was dead serious",
       "language": "en",
@@ -530,54 +439,24 @@
         {
           "segment_index": 1,
           "time_range": "348.0s - 354.0s",
-          "query": "VISUAL: There's a man and a woman at a bar counter. The man is leaning over slightly towards the woman. They seem to be having a conversation. There are glasses on the counter, some with straws. The background has warm lighting and some decorative elements like chandeliers.AUDIO: A male voice is speaking. He says something about asking for advice on anything. It seems like he's offering his help or knowledge. What do you think about it? Do you have any questions related to this?"
+          "query": "Sure! So, in the video, there are two people sitting at a bar counter. One person is leaning forward, and the other is sitting back. The bar has a shiny surface, and there are some glasses and bottles on it. The background has a chandelier and some framed pictures on the wall. The lighting is warm and cozy.Now, for the audio part, there's a man speaking. He seems to be having a conversation with the other person at the bar. The speech is clear and audible.What do you think about this? Do you have any specific questions about it?"
         },
         {
           "segment_index": 2,
           "time_range": "354.0s - 360.0s",
-          "query": "VISUAL: There's a man and a woman sitting at a bar counter. The woman has long braided hair and is wearing a strapless dress with gold jewelry. She seems to be smiling and holding something small in her hands. The man is facing her, looking engaged in conversation.AUDIO: Someone is speaking, saying \"Oh nice yeah like anything yeah if I quit music then what should I do oh.\" It's just one person talking without any other background noises or music.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Visually, there are two people sitting at a bar. One person is wearing a dark jacket and the other has long hair and is wearing a necklace. They seem to be having a conversation. There are glasses on the bar counter. The background has some dim lighting and what looks like a chandelier. The scene gives off a cozy, indoor bar vibe. The colors are mostly muted, with browns and dark tones dominating the setting. There's some movement as the people gesture while talking.Audibly, there's a conversation between the two people. The man in the dark jacket speaks first, and then the woman with long hair responds. The speech is clear and seems to be in English. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "360.0s - 366.0s",
-          "query": "VISUAL: There's a man and a woman sitting at a bar counter having a conversation. The setting seems to be indoors with dim lighting. There are glasses on the counter and some bottles behind them. The woman has long braided hair and is wearing jewelry like necklaces and bracelets. The man is leaning forward slightly towards her.AUDIO: Someone is speaking, saying \"Well I feel like you have a lot of lines of business right now right yeah but I mean other than that okay you should.\" It sounds like they're discussing something related to business or work. So, what do you think about their conversation?"
+          "query": "**Visual:** The video shows two people sitting at a bar counter. The setting has a warm, dimly lit ambiance with wooden paneling and hanging lights. There are glasses and a few items on the counter. One person is leaning forward, engaged in conversation, while the other is sitting back, listening and occasionally responding. The background includes a window with curtains and some framed pictures on the wall.\n\n**Audio:** The audio features a conversation between the two people. The dialogue is clear and focused, with no background music or sound effects. The conversation seems to be about business, as one person mentions having \"a lot of lines of business.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 554.3378808498383
+      "processing_time": 252.40155410766602
     },
     {
-      "comment_index": 3988,
-      "video_id": "X3n5Pk8fkLg",
-      "comment": "6:39 Rhi’s response had me crying 😭 😂",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 97.0,
-      "comment_timestamp": 399.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "390.0s - 396.0s",
-          "query": "VISUAL: There's a woman with braided hair sitting at a bar counter, holding a glass. She's wearing a black dress and some jewelry. A man is standing behind her, also holding a drink. The background shows a dimly lit bar interior with some decorations like paintings and lights.AUDIO: Someone is speaking, saying \"Wait can we switch places I want to ask you for some advice.\" It seems like they're having a conversation. What do you think about it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "396.0s - 402.0s",
-          "query": "VISUAL: There's a woman at a bar counter. She has long hair and is wearing a strapless dress with a necklace. She's holding a glass and seems to be talking or reacting to something. The background shows some framed pictures on the wall and other patrons. There's also a man sitting across from her at the bar counter.AUDIO: Someone is speaking, saying \"Actually I'm better at giving advice than asking it so let's again I want like blow my.\" It sounds like they're having a conversation about giving advice. What do you think about that?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "402.0s - 408.0s",
-          "query": "VISUAL: There's a man sitting at a bar counter talking to a bartender. The bartender is wearing a black dress with a necklace. The background shows shelves full of bottles and glasses, typical of a bar setting. The lighting is dim, creating a cozy atmosphere.AUDIO: A male voice says \"My wife away with like a romantic night out. What do I do? He said it.\" It seems like he's expressing some concern or confusion about his situation.So, what do you think about this scene? Do you have any ideas on how the story might continue?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 438.82330322265625
-    },
-    {
-      "comment_index": 3987,
+      "comment_index": 5435,
       "video_id": "X3n5Pk8fkLg",
       "comment": "2:59 Ok girl, that's what I'm talking about haha!!! She is everything and this was 🔥 They were f*ed up fr 😂😂😂",
       "language": "en",
@@ -590,21 +469,141 @@
         {
           "segment_index": 1,
           "time_range": "170.0s - 176.0s",
-          "query": "VISUAL: There's a man at a bar pouring something into a glass for a woman sitting there. The woman takes a sip from her glass. Then the man picks up some food from a plate on the bar counter and eats it while holding his drink. The background shows shelves with bottles and glasses, typical of a bar setting.AUDIO: You can hear someone saying \"it's not that bad now have a bite oh my\" during the video. There's also some kind of impact sound towards the end, like something being tapped or knocked. And there's a bit of background noise throughout, probably from other patrons or bar activities.What do you think about this scene? Do you have any other questions related to it?"
+          "query": "Visual: The video shows a man and a woman in a bar setting. The man is standing behind the bar, holding a drink, while the woman is sitting at the bar counter, drinking from a glass. The bar has shelves with various bottles and glasses. The lighting is warm and dim, creating a cozy atmosphere. There are some decorative elements like a chandelier and patterned wallpaper.\n\nAudio: The audio includes a man speaking, saying \"it's not that bad.\" There's also a woman's voice in the background, and some ambient sounds of the bar, like clinking glasses and possibly some music or chatter."
         },
         {
           "segment_index": 2,
           "time_range": "176.0s - 182.0s",
-          "query": "VISUAL: There's a man at a bar eating something while holding a drink. Then there's a woman with braided hair drinking from a bottle. The background has shelves with bottles and glasses. The lighting is dim, giving it a cozy feel.AUDIO: Laughter can be heard throughout the clip. It seems like a light-hearted moment. What do you think about this scene?"
+          "query": "Sure! So, visually, there's someone sitting at a bar, drinking from a bottle. There are also some glasses on the table. The scene seems to be indoors with warm lighting. In terms of audio, it starts with laughter, then there s applause. It feels like a social gathering or event.What do you think about that?"
         },
         {
           "segment_index": 3,
           "time_range": "182.0s - 188.0s",
-          "query": "VISUAL: There's a man standing behind a bar counter with a bottle of champagne on it. He's holding two bunny-shaped glasses. A woman is sitting at the bar, smiling and looking at him. The background has some dim lighting, curtains, and a chandelier.AUDIO: You can hear applause and laughter throughout the clip. There's also a voice saying \"Drink I created your honor\" and \"Bitch better have my bunny.\" What do you think about this scene?"
+          "query": "Visually, there's a bar setting with a man and a woman sitting at the bar counter. The man is standing and talking to the woman. There are glasses, a bottle, and some bar accessories on the counter. The background has curtains and some wall decorations. The lighting is warm and dim, creating a cozy atmosphere. The woman is smiling and seems to be engaged in the conversation. The man is gesturing with his hands while speaking.\n\nAudibly, there's a man speaking, and then laughter can be heard. The man's speech is clear and audible, and the laughter adds a light-hearted tone to the scene."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 354.18558621406555
+      "processing_time": 225.06234884262085
+    },
+    {
+      "comment_index": 5436,
+      "video_id": "X3n5Pk8fkLg",
+      "comment": "6:39 Rhi’s response had me crying 😭 😂",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 97.0,
+      "comment_timestamp": 399.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "390.0s - 396.0s",
+          "query": "Well, visually, there's a man and a woman sitting at a bar counter. The woman is holding a glass of water and seems to be chatting with someone across from her. There are some bottles on the bar counter too. As for the audio, it starts off with laughter, then someone says \"Wait.\" and asks if they can switch places because they want advice. So, what do you think about that? Do you have any similar experiences or thoughts?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "396.0s - 402.0s",
+          "query": "Visual: The video shows a bar setting. There are people sitting at the bar counter, some with drinks in front of them. The background has a warm, dimly lit ambiance with wooden decor and chandeliers. The people seem to be engaged in conversation or enjoying their drinks.\n\nAudio: The audio includes a woman speaking, saying \"I'm better at giving advice than asking it.\" There's also some background noise, likely from the bar environment, and possibly some music or other ambient sounds."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "402.0s - 408.0s",
+          "query": "Well, I'm not sure if there's anything specific to describe about the visual or audio here. It seems like it might be missing some details? Maybe you could give me more information so I can help better?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 165.55499291419983
+    },
+    {
+      "comment_index": 5437,
+      "video_id": "X3n5Pk8fkLg",
+      "comment": "That laugh around 00:56! That is a genuine carribean \"are yoou sure you wanna play that game\" laugh! 😂",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 95.0,
+      "comment_timestamp": 56.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "47.0s - 53.0s",
+          "query": "Visually, there's a bar setting with shelves full of bottles behind it. People are standing at the bar counter, interacting. One person seems to be serving drinks while others are chatting or waiting for their orders. The lighting is warm and dim, creating an intimate atmosphere.Audibly, someone is speaking about making a series of drinks based on favorite songs. There's no background music or other distinct sounds apart from the speech."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "53.0s - 59.0s",
+          "query": "Oh, okay! So here's what I noticed:.Visually, there s someone sitting at a bar counter with drinks on it. There are also some bottles lined up behind them. The person seems to be chatting or interacting with others around the bar.Acoustically, there s laughter playing in the background.Anything else you want me to focus on?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "59.0s - 65.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.30 GiB. GPU 1 has a total capacity of 23.56 GiB of which 2.42 GiB is free. Including non-PyTorch memory, this process has 21.13 GiB memory in use. Of the allocated memory 16.58 GiB is allocated by PyTorch, and 4.24 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 193.4043323993683
+    },
+    {
+      "comment_index": 5438,
+      "video_id": "X3n5Pk8fkLg",
+      "comment": "I think we all laughed at 1:44 😂  Blow your wife away 6:40🤣",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 91.0,
+      "comment_timestamp": 104.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "95.0s - 101.0s",
+          "query": "**Visual:** The scene is set at a bar. There's a bartender pouring drinks into glasses with straws. A woman is sitting at the bar counter, reaching out to take her drink. The background shows some dim lighting and other patrons.\n\n**Audio:** Someone is speaking about having \"some rye whiskey.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "101.0s - 107.0s",
+          "query": "Visually, there are two people sitting at a bar counter. The setting seems to be a dimly lit bar with some decorative elements like a chandelier and a window showing daylight outside. There are glasses and bottles on the counter. One person is reaching out to touch or interact with something on the counter, while the other is sitting back, looking at the first person. The colors are mostly warm, with browns and yellows dominating the scene. There's a sense of movement as the person on the left leans forward.\n\nIn terms of audio, there's a conversation happening between the two people. The man is speaking, and the woman is responding. There are also some sounds of glasses clinking and possibly some background music or ambient noise from the bar."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "107.0s - 113.0s",
+          "query": "Sure! So, visually, there's a man and a woman sitting at a bar counter. The man is drinking from a glass, while the woman looks on with a smile. There are bottles and glasses visible behind them, suggesting it s a typical bar setting. The lighting seems warm and cozy.Audience-wise, I can't really tell much about the audio since no specific details were given. But if we assume it s like most bar scenes, there might be some background chatter or music playing.What do you think? Do you have any other questions about this scene?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 187.5722279548645
+    },
+    {
+      "comment_index": 5439,
+      "video_id": "X3n5Pk8fkLg",
+      "comment": "6:48 💀💀 blow her away",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 88.0,
+      "comment_timestamp": 408.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "399.0s - 405.0s",
+          "query": "Visually, there's a man and a woman in a dimly lit bar. The woman is standing by the bar counter, and the man is sitting on the other side. There are glasses and bottles on the counter. The background has some chandeliers and curtains. The scene seems to be set in a cozy, somewhat old-fashioned bar.Audibly, there's a man speaking. He's talking about wanting to \"blow his wife away\" with a romantic night out."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "405.0s - 411.0s",
+          "query": "**Visual:** The video shows a woman in a dark dress standing at a bar. She has long hair and is wearing a necklace. There are various bottles and glasses on the shelves behind her. The setting appears to be indoors, likely a bar or restaurant. The lighting is warm and somewhat dim, creating a cozy atmosphere. The woman seems to be interacting with someone off-screen, possibly a bartender or another customer.\n\n**Audio:** The audio includes a man speaking, though the content of his speech is unclear. There are also some background sounds, possibly of other patrons talking or the clinking of glasses. The overall tone seems casual and relaxed."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "411.0s - 417.0s",
+          "query": "Visually, there's a woman behind a bar counter, smiling and holding something up. There are bottles on shelves in the background. A man is sitting at the bar, looking towards her. The scene seems to be set indoors with warm lighting.\n\nAudibly, someone is laughing and then there's applause. It gives off a cheerful vibe. What do you think about it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 143.31602549552917
     }
   ]
 }

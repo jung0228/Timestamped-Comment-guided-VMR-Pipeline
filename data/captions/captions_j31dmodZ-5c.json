@@ -6,7 +6,7 @@
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 821,
+      "comment_index": 2781,
       "video_id": "j31dmodZ-5c",
       "comment": "2:37 those people already have housekeepers",
       "language": "en",
@@ -19,24 +19,54 @@
         {
           "segment_index": 1,
           "time_range": "148.0s - 154.0s",
-          "query": "VISUAL: The video shows a humanoid robot assistant. It has a round head with a small eye-like sensor on it and a circular speaker grille. Its body is covered in textured fabric. There's no movement from the robot in these frames.AUDIO: A person is speaking about the robot being \"bleeding edge\" and how they didn't expect it to be cheap. They also mention there isn't much competition yet.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's a humanoid robot in the video. It has a round head with a single eye and a circular mouth area. The robot seems to be in a room with a wooden floor and walls. There's no clear action from the robot, just its presence. The colors are mostly muted, with the robot being a dark gray and the background a light brown wood tone. There's no movement in the background either, just the static image of the robot.Audibly, there's a man speaking. He says, \"bleeding edge humanoid robot assistant like I never thought that this would be cheap and also there isn't really competition yet.\" The speech is clear and in English. There are no other sounds like music or sound effects."
         },
         {
           "segment_index": 2,
           "time_range": "154.0s - 160.0s",
-          "query": "VISUAL: There's a close - up of a white robot head with a round shape, two black eyes, and a circular mouth area. It has a ribbed texture on its neck. The background is blurred brownish - beige. Then it turns to face forward.AUDIO: Someone is speaking about the target audience being those whose time is worth more than the money they're spending on something. It's just speech without any other sounds or music. So, what do you think about this? Do you have any ideas for who this might be aimed at?"
+          "query": "Visually, the video shows a close-up of a white, smooth, and shiny surface that looks like it could be part of a robot or some kind of high-tech device. The surface has a grid-like pattern near the bottom. Then, the camera quickly pans to the right, revealing a round, white object with a black dot in the center, which could be an eye or a sensor. The background is blurry and out of focus, but it seems to be an indoor setting with warm, soft lighting.\n\nAudio - There is no audio in this video segment."
         },
         {
           "segment_index": 3,
           "time_range": "160.0s - 166.0s",
-          "query": "VISUAL: There's a robot-like figure with a round head and a white body standing in different rooms like a kitchen and a living area. It seems to be interacting with its surroundings. The background shows typical household items in these spaces.AUDIO: Someone is speaking about saving time on chores so that more money can be made. The tone suggests it's an explanation or promotion of some kind.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Visual: The video shows a kitchen scene with shelves holding various items like bowls and bottles. There's also a sink area visible. A figure wearing a mask is standing there.\n\nAudio: Someone is speaking about saving time on chores so that more money can be made."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 232.43972635269165
+      "processing_time": 207.9367392063141
     },
     {
-      "comment_index": 822,
+      "comment_index": 2782,
+      "video_id": "j31dmodZ-5c",
+      "comment": "0:39 did it jus Millie rock😭",
+      "language": "en",
+      "channel_name": "mkbhd",
+      "category": "technology",
+      "likes": 374.0,
+      "comment_timestamp": 39.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "30.0s - 36.0s",
+          "query": "Visual: A man wearing a red hoodie is gesturing with his hands while speaking directly to the camera. The background shows some gym equipment like weights and exercise machines.\n\nAudio: There's a male voice speaking, saying \"and it lives in your house get your mind out of the gutter it's for doing chores.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "36.0s - 42.0s",
+          "query": "Visually, there's a person in a red hoodie talking directly to the camera. The background seems to be an indoor setting, possibly a room with some furniture and decorations. There's also a white figure that looks like a human but is covered in a white material, walking around in the background. The colors are mostly warm, with the red hoodie and some earthy tones in the background. The movement is mainly the person talking and the white figure walking around.Audibly, there's a man speaking. The speech is clear and seems to be explaining something, but without more context, it's hard to say exactly what he's saying. There are no other noticeable sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "42.0s - 48.0s",
+          "query": "Visual: The video shows a close - up of a robotic hand with multiple fingers. Then it transitions to a laundry room scene where there's a washing machine, dryer, and a laundry basket filled with clothes. There's also a person partially visible, likely doing laundry.\n\nAudio: No distinct speech or music is heard. Just some background noise that could be from the appliances in the laundry room."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 200.4306206703186
+    },
+    {
+      "comment_index": 2783,
       "video_id": "j31dmodZ-5c",
       "comment": "13:25 the difference is that a Tesla was still capable of functioning as a pretty good car when you’re not using the autopilot",
       "language": "en",
@@ -49,24 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "796.0s - 802.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie with a white design on it. He has short hair and a beard. He's sitting down and talking while gesturing with his hands. The background shows some furniture like chairs and tables, and there's also a piece of art hanging on the wall.AUDIO: A male voice is speaking. It seems to be a normal conversation or monologue without any special sound effects or music. What do you think about the content of his speech?"
+          "query": "Visually, there's a man in a red hoodie sitting in a room. He's talking and gesturing with his hands. The room has some furniture, like a chair and a table, and there's a poster on the wall. The lighting is warm, giving the room a cozy feel. There's also a piece of equipment in the background, maybe a camera or something similar. The man seems to be in a relaxed, indoor setting, possibly a home or a studio."
         },
         {
           "segment_index": 2,
           "time_range": "802.0s - 808.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie with white stripes on it. He has short black hair and a beard. He seems to be talking or explaining something while gesturing with his hands. The background shows some equipment like a camera rig and a colorful painting on the wall.AUDIO: A male voice is speaking. It sounds like he's discussing whether there are enough of certain people out there, expressing uncertainty about it.So, what do you think about that? Do you have any other videos for me to analyze?"
+          "query": "**Visual:** The video shows a man wearing a red hoodie with \"Porsche\" written on it. He has short hair and a beard. Behind him, there's some gym equipment like weights and exercise machines. There's also a colorful painting or poster hanging on the wall.\n\n**Audio:** A male voice is speaking throughout the clip. His tone seems neutral to slightly confused. He says something like, \"Some of those people out there I don't know.\""
         },
         {
           "segment_index": 3,
           "time_range": "808.0s - 814.0s",
-          "query": "VISUAL: A man in a red hoodie is talking directly to the camera while gesturing with his hands. The background shows an indoor setting with some furniture like a chair and shelves, and there's also a robot-like object visible on one side.AUDIO: There's a male voice speaking about potential downsides of a robot, mentioning that it's too small and weak. It seems to be a straightforward explanation without any other distinct sounds or music. So, what do you think about these downsides? Do you have any ideas on how to improve them?"
+          "query": "Well, in the video, there's a guy in a red hoodie talking. He seems to be in a room with some equipment around, like a camera on a tripod and some other stuff in the background. He's gesturing with his hands as he speaks.Now, for the audio part, he's talking about the downsides of a robot. He mentions that it's too small and weak. There's no music or sound effects, just his speech. It's pretty straightforward.What do you think about the robot?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 244.88443160057068
+      "processing_time": 220.82162761688232
     },
     {
-      "comment_index": 823,
+      "comment_index": 2784,
       "video_id": "j31dmodZ-5c",
       "comment": "6:30 this is not just an AI problem; it’s a venture capital driven economy problem.",
       "language": "en",
@@ -79,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "381.0s - 387.0s",
-          "query": "VISUAL: There's an iMac on display with \"Shipping Today\" written beside it. A man is standing to the right, looking at the screen. Then three different sizes of iMacs appear - 21.5-inch, 27-inch regular, and 27-inch Retina 5K display. Their prices start at $1099, $1799, and $2499 respectively.AUDIO: Someone is speaking about when something will go on sale, mentioning tomorrow or next week, and how the hype would carry into the buying cycle.If you have any other thoughts or questions about this, feel free to share!"
+          "query": "Visually, there's a man standing to the right of a large iMac. The iMac is prominently displayed, showing a colorful desktop background. The text \"Shipping Today\" is visible next to the iMac. The man appears to be presenting or talking about the product. The background is dark, focusing attention on the iMac and the presenter. There are also three iMacs shown side by side with their prices listed below them: $1099, $1799, and $2499.\n\nAudio: The man is speaking, likely about the iMac going on sale. The speech is clear and seems to be part of a promotional or informational presentation."
         },
         {
           "segment_index": 2,
           "time_range": "387.0s - 393.0s",
-          "query": "VISUAL: There's a man in a red hoodie talking in front of some equipment like cameras and lights. He seems to be explaining something. The background has various items that look like they're for filming or photography.AUDIO: A male voice is speaking about AI products. It sounds like he's discussing how things have changed with all these new AI products around."
+          "query": "**Visual:** The video shows a man in a red hoodie talking and gesturing with his hands. Behind him, there are three iMacs displayed with their prices. The background includes some furniture and a wall with a colorful poster. The scene appears to be indoors, possibly in a store or a home office.\n\n**Audio:** The man is speaking, likely discussing the iMacs or related topics. There are no other noticeable sounds or music in the audio."
         },
         {
           "segment_index": 3,
           "time_range": "393.0s - 399.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie with some white design on it. He has short black hair and a beard. He's sitting down and talking while gesturing with his hands. The background shows an indoor setting with various objects like a gaming chair, some equipment, and a colorful painting on the wall.AUDIO: A male voice is speaking about selling the dream before the actual product. It seems to be a calm and measured tone."
+          "query": "Sure! So, in the video, there's a guy in a red hoodie talking and gesturing with his hands. The background has some equipment like a camera and a tripod, and there's a colorful painting on the wall. The lighting is warm and cozy, with a mix of red and orange tones. Oh, and there's a chair and a small table in the background too.Now, for the audio part, the guy is speaking, but there's no music or sound effects. It's just his voice and some faint ambient sounds, like maybe a fan or a computer humming in the background. There's also a brief moment of silence where you can hear nothing at all."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 232.93826127052307
+      "processing_time": 385.8420135974884
     },
     {
-      "comment_index": 824,
+      "comment_index": 2785,
       "video_id": "j31dmodZ-5c",
       "comment": "Oof Apple AI lumped in with Rabbit R1 and Humane Pin. That's gotta sting 6:55",
       "language": "en",
@@ -109,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "406.0s - 412.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie with a white logo on it. He has short black hair and a beard. He's talking and gesturing with his hands. The background shows some equipment like a gaming chair and a colorful poster on the wall. It looks like an indoor space, maybe a studio or office.AUDIO: A male voice is speaking. He says something about something being \"awesome\" but also not done yet, mentioning things like the Humane Pin or something similar.So, what do you think about that? Do you have any other videos to analyze?"
+          "query": "Sure! So, visually, there's someone wearing a red hoodie standing indoors. The background has some furniture like chairs and tables, plus some colorful artwork on the walls. There s also a black object that looks like it could be a piece of equipment or machinery.On the audio side, I can hear someone speaking, but without more details about their words, I can't really say much.Does that help? Let me know if you want to dive deeper into any part!"
         },
         {
           "segment_index": 2,
           "time_range": "412.0s - 418.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie talking directly to the camera. He seems to be explaining something while gesturing with his hands. The background shows some equipment like a gaming chair and a colorful painting on the wall.AUDIO: A male voice is speaking about things like \"rabbit r1\" and \"Apple intelligence\", mentioning big promises that don't seem to be fulfilled. It's just him talking without any other sounds or music. So, what do you think about these topics? Do you have any similar experiences?"
+          "query": "Well, I'm not sure if there's actually an example given here. But generally speaking, for the visual part, it could be something like a person standing or moving around in different places, maybe with some objects in the background that change over time. For the audio part, it might be someone talking about something, possibly related to technology or intelligence, since those words were mentioned. What do you think? Do you have any other ideas about what this video might show?"
         },
         {
           "segment_index": 3,
           "time_range": "418.0s - 424.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie sitting down. He has short hair and a beard. In the background, there's some kind of equipment or machinery on the left side, like a black and yellow piece with a white base. On the right side, there seems to be more complex machinery or something similar. There's also an orange and yellow abstract painting hanging on the wall behind him.AUDIO: The man is speaking. It sounds like he's explaining something about abilities and promises being in different places. His voice is clear and steady.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Well, in the video, there's a guy in a red hoodie. He's talking and gesturing with his hands. He seems to be in a room with some kind of equipment in the background, like a robot or something. There's also a colorful painting on the wall. The colors are quite vivid, with reds, oranges, and yellows.The audio part is just the guy talking. There's no music or sound effects. It's just his voice. He's probably explaining something, but it's hard to tell exactly what without more context.So, what do you think about this? Do you have any other questions about the video?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 279.62553429603577
+      "processing_time": 197.5085084438324
     },
     {
-      "comment_index": 825,
+      "comment_index": 2786,
       "video_id": "j31dmodZ-5c",
       "comment": "When it's trying to use the dishwasher at 4:00, it was like watching myself trying to do chores after hurting my back.",
       "language": "en",
@@ -139,24 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "231.0s - 237.0s",
-          "query": "VISUAL: There's a robot with a circular head design walking through an indoor space. It has some kind of device on its back. Then there's a guy wearing a VR headset and holding controllers. He seems to be interacting with something in front of him. In the background, there's a woman standing near a window, looking out. The room is modern - white walls, glass doors, plants outside.The AUDIO: A man is speaking about a headset with controllers, saying it's not exaggerated that all the stuff they showed was real. He mentions carrying things around. There's no music or other sound effects, just his voice. So, what do you think about this? Any thoughts or questions?"
+          "query": "**Visual:** The video shows a person wearing a virtual reality headset and holding controllers. They seem to be interacting with something in the virtual environment. There are some plants and a window in the background. The person is standing in a room with shelves and some decorative items. The lighting is bright, suggesting it's daytime.\n\n**Audio:** There is no distinct speech or music in the audio. The only sound is the ambient noise of the room, possibly some distant chatter or a faint hum."
         },
         {
           "segment_index": 2,
           "time_range": "237.0s - 243.0s",
-          "query": "VISUAL: There's someone in a gray outfit with a helmet-like headpiece. They're in a kitchen, opening a dishwasher and putting dishes inside. The kitchen has wooden cabinets and black tiled walls. There are various kitchen items like bottles, bowls, and utensils on the counter.AUDIO: I can't really tell what's being said or if there's any background noise. It just seems to be some kind of mechanical or impact sounds from the dishwasher.Anything else you noticed in the video that you want to talk about?"
+          "query": "Visually, there's a person in a kitchen. They're wearing a light-colored outfit and a head covering. The kitchen has wooden cabinets, a tiled backsplash, and various kitchen items like a coffee maker and utensils. The person is interacting with a dishwasher, opening and closing it. There's also a plate and some other kitchenware on the counter. The colors are mostly neutral, with the wood tones and the light outfit of the person. The movement is mainly focused on the person's actions with the dishwasher and the surrounding kitchen items."
         },
         {
           "segment_index": 3,
           "time_range": "243.0s - 249.0s",
-          "query": "VISUAL: There's a person in a gray outfit with a head that has two circular lights on it. They're kneeling in front of an open dishwasher in a kitchen. The kitchen has wooden cabinets and black tiled backsplash. The person is interacting with something inside the dishwasher.AUDIO: You can hear some mechanical noises throughout the 6 seconds. It seems like there might be a machine or appliance running in the background. There's no clear speech or music though.If you have any other thoughts about this video or want to discuss more, feel free to let me know!"
+          "query": "**Visual:** The video shows a person in a kitchen. They are kneeling in front of an open dishwasher, seemingly cleaning or inspecting it. The kitchen has wooden cabinets and a tiled backsplash. There are various kitchen items like a bowl and utensils visible on the counter.\n\n**Audio:** The audio includes the sound of a motor running, likely from the dishwasher, and some background noise, possibly from other kitchen appliances or activities."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 263.34764981269836
+      "processing_time": 277.9602687358856
     },
     {
-      "comment_index": 826,
+      "comment_index": 2787,
       "video_id": "j31dmodZ-5c",
       "comment": "1:01 robots are even coming for mexican aunties jobs 😭😭😭",
       "language": "en",
@@ -169,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "52.0s - 58.0s",
-          "query": "VISUAL: The video shows someone emptying a dishwasher into a cabinet. Then it cuts to an outdoor scene where a person is watering plants on a wooden deck. There's also a glimpse inside a room with a tidy living area.AUDIO: There's no distinct audio mentioned here.So, what do you think about these descriptions? Do you have any other questions or thoughts?"
+          "query": "**Visual:** The video shows a person in a white outfit watering plants on a wooden deck. There are various plants and flowers around, and a car is visible in the background. The setting seems to be a garden or backyard area. The person moves around, focusing on different plants.\n\n**Audio:** There is no distinct speech or music in the audio. The only sound is the sound of water being poured, which is consistent with the action of watering the plants."
         },
         {
           "segment_index": 2,
           "time_range": "58.0s - 64.0s",
-          "query": "VISUAL: The video shows someone cleaning a living room. There's a person wearing light-colored clothes who is wiping down furniture with a cloth. You can see a wooden floor, some chairs, a table, and a rug. There's also a plant on one of the tables.AUDIO: Someone is speaking about vacuuming and tidying up the house. They mention that if anything gets left out, it always knows where everything should go.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "Visual: The video shows a tidy living room with wooden floors, some furniture like chairs and tables, and a basket on the floor. There's also a person sitting down, partially visible.\n\nAudio: There is no distinct audio mentioned here, so it seems to be silent or there might not be any audible content described."
         },
         {
           "segment_index": 3,
           "time_range": "64.0s - 70.0s",
-          "query": "VISUAL: The video shows someone vacuuming a bedroom floor. There's a bed with white bedding on one side and some furniture like a desk and a laundry basket nearby. The person is using a vacuum cleaner to clean the carpeted area.AUDIO: There's no distinct audio mentioned here. It seems like there might be background noise or music, but it's not clearly stated.If you have any other questions about the video or need more details, feel free to ask!"
+          "query": "Well, in the visual part, it seems like there's a person doing some cleaning. They're using a vacuum cleaner on a carpeted floor. There's also a bit of a kitchen area shown, with a sink and some cabinets. And, hmm, there's a bed in the background too. The colors are mostly neutral, like beige and white. The movement is mainly the person vacuuming and walking around.As for the audio, there's no clear speech or music. Just some ambient sounds, like the vacuum cleaner humming and maybe some faint background noise. There's also a brief moment where someone says \"Clean Bedroom.\".So, what do you think about this video? Do you have any other questions?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 209.31403613090515
+      "processing_time": 205.6168487071991
     },
     {
-      "comment_index": 827,
+      "comment_index": 2788,
       "video_id": "j31dmodZ-5c",
       "comment": "5:53 Reminds me of how the Rabbit R1 was marketed",
       "language": "en",
@@ -199,24 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "344.0s - 350.0s",
-          "query": "VISUAL: There's an elderly woman sitting at a sewing machine in a room with wooden floors and some shelves filled with books and other items. A man in scrubs walks through a doorway into the room. Then there's a guy in a red hoodie talking directly to the camera in a different setting that looks like a studio or office space with various equipment around.AUDIO: The audio has someone speaking, but it's not clear what they're saying. There are no distinct sound effects or background music. It seems like just plain speech.If you have any more questions about the video or need further details, feel free to ask!"
+          "query": "Well, in the visual part, there's a man in a red hoodie talking and gesturing with his hands. He seems to be in a room with some kind of equipment or machinery in the background. There are also some objects around, like a table and maybe some tools or gadgets. The colors are mostly warm, with the red hoodie standing out.The audio part is just the man speaking. There's no music or sound effects, just his voice. He's talking about something, but it's not clear what exactly from just this short clip.So, what do you think about this? Do you have any other questions or thoughts?"
         },
         {
           "segment_index": 2,
           "time_range": "350.0s - 356.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie with some logos on it. He has short hair and a beard. He's gesturing with his hands while talking. The background shows an indoor setting with various objects like a chair, a piece of art on the wall, and some equipment. It looks like a workshop or studio.AUDIO: A male voice is speaking. He seems to be explaining something about a product, mentioning its current capabilities and future potential.So, what do you think about this? Do you have any other videos you want me to analyze?"
+          "query": "Sure! So, here's what I noticed:.Visually, there s someone wearing a red hoodie with some white designs on it. They re sitting indoors, and behind them, you can see various items like a black machine or device, a colorful painting on the wall, and some furniture. The room has a mix of warm and cool lighting.Audibly, they're speaking directly to the camera, probably explaining something. There aren't any other noticeable sounds.What do you think about that? Any specific details you want me to focus on more?"
         },
         {
           "segment_index": 3,
           "time_range": "356.0s - 362.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie with a white stripe across it. He has short hair and a beard. He's sitting down and talking while gesturing with his hands. The background shows some equipment like a camera on a tripod and other items that look like they're in a studio or workshop setting. There's also a colorful painting hanging on the wall.AUDIO: A male voice is speaking. It seems to be a normal conversation or monologue without any special sound effects or music. The speech lasts for about 6 seconds.If you have any more questions about this video or need further analysis, feel free to let me know!"
+          "query": "Well, I'm not sure if there's anything specific to describe about the visual or audio here. It seems like it might be missing some details? Maybe you could give me more information so I can help better?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 291.1601049900055
+      "processing_time": 239.44331765174866
     },
     {
-      "comment_index": 828,
+      "comment_index": 2789,
       "video_id": "j31dmodZ-5c",
       "comment": "6:38 it’s a bubble",
       "language": "en",
@@ -229,24 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "389.0s - 395.0s",
-          "query": "VISUAL: A man in a red hoodie is talking and gesturing with his hands. There's some kind of equipment or machinery visible in the background, like a robotic arm. The room has a modern look with colorful artwork on the wall.AUDIO: Someone is speaking about AI products, mentioning that there's something related to them now. It seems to be a discussion or explanation about these products.So, what do you think about AI products? Do you have any experiences with them?"
+          "query": "Sure! So, visually, there's someone wearing a red hoodie with some white designs on it. They're standing indoors, and behind them, you can see various objects like cameras and other equipment. There s also a piece of art hanging on the wall. The person is talking and using hand gestures.As for the audio, it seems to be just their voice speaking without any background music or sound effects.Anything else you want to know about the video?"
         },
         {
           "segment_index": 2,
           "time_range": "395.0s - 401.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie with white stripes on it. He has short black hair and a beard. He's gesturing with his hands while talking. In the background, there's some kind of equipment or machinery to the left, like a robot arm maybe? And there's also a colorful painting hanging on the wall behind him. The room looks like an office or studio with various items around.AUDIO: A male voice is speaking. It seems like he's explaining something about selling dreams before products. His tone is calm and measured.If you want to know more about this video or have other questions, feel free to ask!"
+          "query": "Visually, there's a man in a red hoodie talking and gesturing with his hands. He's in a room with some equipment, like a camera on a tripod and a chair. There's also a colorful painting on the wall. The room has a mix of warm and cool lighting, creating a cozy yet professional vibe. The man seems to be explaining something, maybe giving a presentation or a tutorial. He's the main focus, and the background is a bit blurred to keep the attention on him. The colors are mainly reds, whites, and some warm tones from the lighting, with the painting adding a splash of color. There's also some movement from the man's gestures, which adds dynamism to the scene."
         },
         {
           "segment_index": 3,
           "time_range": "401.0s - 407.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie with a white design on it. He has short black hair and a beard. He's gesturing with his hands while talking. In the background, there are some colorful posters on the wall, a black object that looks like a piece of equipment or furniture, and another person who seems to be moving around. The room is lit with warm light.AUDIO: A male voice is speaking about AI being dangerous despite its huge promise. It's a bit hard to understand all the details because of the fast pace and unclear pronunciation. So, what do you think about AI? Do you have any other thoughts on this topic?"
+          "query": "Visually, there's a man in a red hoodie gesturing with his hands. He seems to be talking or explaining something. The background has some furniture and a colorful painting on the wall. There's also a black object that looks like a piece of equipment or furniture. The lighting is warm and the room appears to be indoors, possibly a studio or a room with some creative setup. The colors are mainly red, white, and black, with the painting adding some vibrancy.Audibly, there's a male voice speaking. The speech is clear and seems to be in English. The tone suggests he might be explaining or discussing something important. There are no other noticeable sounds in the audio."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 296.27482771873474
+      "processing_time": 240.58160591125488
     },
     {
-      "comment_index": 829,
+      "comment_index": 2790,
       "video_id": "j31dmodZ-5c",
       "comment": "3:21 I bet you there’s a human remote operator",
       "language": "en",
@@ -259,24 +289,24 @@
         {
           "segment_index": 1,
           "time_range": "192.0s - 198.0s",
-          "query": "VISUAL: There's a person holding a phone with an app open on it. The screen shows options like \"Morning\", \"Afternoon\", and \"Night\". In another scene, there's a robot vacuum cleaning the floor. It moves around the room. There are also two people sitting on a couch in the background.AUDIO: I can't really tell what's being said in the audio since no specific words or phrases were mentioned. But there might be some background noise from the vacuum cleaner or other household sounds.If you have any more questions about this video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Visually, the video shows a hand holding a smartphone with a text message displayed on the screen. There are also two silhouettes of people in the background, one labeled \"Compassion\" and the other \"Autonomy.\" The setting seems to be indoors, possibly a living room or office, with a wooden floor and some furniture visible. The colors are mostly neutral, with beige and brown tones.\n\nIn terms of audio, there is no distinct speech, music, or sound effects. It's mostly silent."
         },
         {
           "segment_index": 2,
           "time_range": "198.0s - 204.0s",
-          "query": "VISUAL: There's a robot in a kitchen scene. It has a white body with a head that looks like it has eyes. In one part, there's an older man standing near a sink, holding something green. Another part shows someone sitting on a couch in a living room area.AUDIO: The main thing heard is some kind of narration or explanation about the robot's capabilities, like recognizing objects and being productive for those around it.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Visually, there are two robots in a kitchen. One robot is labeled \"Chores\" and is doing tasks like picking up a bowl. The other robot is labeled \"Autonomy\" and is standing near a person who seems to be relaxing on a couch. The kitchen has white cabinets and a sink. The scene is well-lit, and the robots are moving smoothly. There are also some kitchen utensils and appliances visible in the background. The colors are mostly neutral, with white and beige dominating the scene. The movement of the robots is fluid and purposeful, as if they are performing tasks autonomously.Audience: There is no clear audio in this video segment. It's just the visual of the robots and the person in the kitchen."
         },
         {
           "segment_index": 3,
           "time_range": "204.0s - 210.0s",
-          "query": "VISUAL: There's a robot in a living room doing chores like cleaning the floor. A man is sitting on a couch using his phone. The background shows a kitchen area with some cabinets and appliances. The color scheme seems to be mostly neutral tones.AUDIO: Someone is speaking about getting something reasonable from watching a video related to hours while someone is gone. It's just speech without any other sound effects or music.If you have any more questions about this video or want to discuss it further, feel free to let me know!"
+          "query": "**Visual:** The video shows a man in a red hoodie speaking directly to the camera. He's in a room with various objects in the background, like a camera on a tripod, some framed pictures on the wall, and what looks like a piece of exercise equipment. The man is gesturing with his hands as he talks. The lighting is bright, and the colors are vivid.\n\n**Audio:** The man is speaking, and his voice is clear and audible. There are no other sounds or music in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 270.79944705963135
+      "processing_time": 304.7702250480652
     },
     {
-      "comment_index": 830,
+      "comment_index": 2791,
       "video_id": "j31dmodZ-5c",
       "comment": "2:57 no, the target market is people who want to show off their expensive cool new humanoid robot (that doesn’t actually work real well but never mind that did I say it costs $20,000?)",
       "language": "en",
@@ -289,24 +319,24 @@
         {
           "segment_index": 1,
           "time_range": "168.0s - 174.0s",
-          "query": "VISUAL: There's a person standing next to a mannequin in a room with large windows and some plants. Then it cuts to a close - up of a robot head with two black eyes. After that, there's a guy in a red hoodie talking and gesturing with his hands. He seems to be in a workshop or studio with various equipment and tools around him.AUDIO: The main thing heard is someone speaking about \"typical sense\" and how it's for early adopters who want to spend however much they think it's worth. There's no background music or other sound effects. It's just the voice over.If you have any more questions about this video or anything else, feel free to let me know!"
+          "query": "**Visual:** The video shows a man in a red hoodie sitting in a room. There are various objects around, like a black robotic arm, a colorful painting on the wall, and some furniture. The man seems to be talking or reacting to something, gesturing with his hands. The room has a mix of modern and artistic elements, with warm lighting.\n\n**Audio:** The audio features a man speaking. His tone suggests he might be explaining or discussing something. There are no other distinct sounds or music in the background."
         },
         {
           "segment_index": 2,
           "time_range": "174.0s - 180.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie with \"911\" on it. He has short hair and a beard. He's gesturing with his hand while talking. The background shows some equipment like a drill and a colorful painting on the wall.AUDIO: A male voice is speaking, saying something about an issue with a product related to a brand - new novel thing. It seems like he's explaining or complaining about it.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's a man in a red hoodie talking and gesturing with his hands. He's in a room with some equipment and a colorful painting on the wall. The lighting is warm and the room looks like a studio or a workspace. There's also a chair and some other items in the background. The man seems to be explaining something, maybe about a product or a project.Audibly, there's a man speaking. He's talking about something related to a product, but he starts by saying \"On this brand new novel thing that's fine, but my issue with this product is.\" It sounds like he's discussing a product and pointing out a problem with it."
         },
         {
           "segment_index": 3,
           "time_range": "180.0s - 186.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie with a white logo on it. He has short black hair and a beard. He's sitting down and talking while gesturing with his hands. The background shows some gym equipment like weights and exercise machines. There's also a colorful painting hanging on the wall.AUDIO: A male voice is speaking. It seems to be discussing something related to capabilities today. But I can't really tell what he's saying precisely because there aren't any other sounds or music in the audio.If you have any more questions about this video or want to discuss something else, feel free to let me know."
+          "query": "Visually, there's a man in a red hoodie talking and gesturing with his hands. He seems to be in a room with some equipment or machinery in the background. There's also a colorful painting or poster on the wall. The man is the main focus, and his movements are quite expressive as he speaks.\n\nAudio - wise, it's just the man speaking. There's no background music or sound effects. The speech is clear and seems to be the main audio component."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 303.0187921524048
+      "processing_time": 298.5484719276428
     },
     {
-      "comment_index": 831,
+      "comment_index": 2792,
       "video_id": "j31dmodZ-5c",
       "comment": "11:25 oh the old reliable AI it's just a bunch of workers on the third world technique.",
       "language": "en",
@@ -319,24 +349,24 @@
         {
           "segment_index": 1,
           "time_range": "676.0s - 682.0s",
-          "query": "VISUAL: The video shows a bathroom with two sinks on a granite countertop. There's a toilet nearby. A person is seen using a toilet brush to clean the toilet bowl. The camera focuses mainly on the toilet area.AUDIO: Someone is speaking about expert mode for a robot, mentioning that it can be scheduled when the robot doesn't know how to do something yet.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, the video shows a close-up of a person's hands working on a task, possibly assembling or fixing something. The hands are wearing gloves, and there are various tools and materials visible in the background. The scene is well-lit, and the focus is mainly on the hands and the immediate workspace.\n\nAudio-wise, there is a voiceover explaining the concept of \"Expert Mode\" on a website. The speaker mentions that in Expert Mode, the robot can't handle certain tasks, and you can schedule it to be guided by an expert. The tone is informative and straightforward."
         },
         {
           "segment_index": 2,
           "time_range": "682.0s - 688.0s",
-          "query": "VISUAL: The video shows a close - up of some kind of machinery or robotic arm interacting with fabric. There's also a scene where two people are in a kitchen area, one wearing a VR headset and holding controllers, while another person is standing nearby. The kitchen has wooden cabinets and a tiled backsplash.AUDIO: Someone is speaking about scheduling an expert to guide a machine called NEO for tasks it doesn't know how to do. They mention that the machine works autonomously by default.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Well, I'm not sure if there's any actual content to analyze from that short clip. There seems to be no clear visual or audio details provided for me to describe. Maybe you could give me more information about it?"
         },
         {
           "segment_index": 3,
           "time_range": "688.0s - 694.0s",
-          "query": "VISUAL: There's a woman wearing VR goggles standing next to a robot in a kitchen setting. The robot has a humanoid shape with a head that looks like a mask. A man is also present, holding something in his hand. The background shows typical kitchen elements like cabinets and countertops.AUDIO: Someone is speaking about robots learning from data, mentioning it directly and expecting something related to it early on.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's a man in a red hoodie talking. He seems to be in a room with some equipment and furniture around. There's also another person in the background, but they're not the focus. The room has a bit of a cluttered look with various items scattered about. The colors are mostly warm, with the red hoodie standing out. There's some movement as the man in the hoodie is speaking and gesturing with his hands. The other person in the background is also moving a bit, maybe adjusting something or walking around.Audibly, there's a man speaking. He's talking about something related to robots learning from humans, and he mentions that they've said they expect something directly. The speech is clear and seems to be the main focus of the audio."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 242.04230999946594
+      "processing_time": 256.99861192703247
     },
     {
-      "comment_index": 832,
+      "comment_index": 2793,
       "video_id": "j31dmodZ-5c",
       "comment": "14:15 ah man i just can not escape this 67 meme😭",
       "language": "en",
@@ -349,24 +379,24 @@
         {
           "segment_index": 1,
           "time_range": "846.0s - 852.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie with some white designs on it. He has short hair and a beard. He's gesturing with his hands while talking. The background shows an indoor setting with various objects like a black and yellow tool on a shelf, a colorful painting on the wall, and some equipment or furniture in the room.AUDIO: A male voice is speaking. It seems to be a normal conversation or explanation type of speech. There are no other distinct sounds like music or sound effects."
+          "query": "Well, I'm not sure if it's meant to be human-shaped or something else. Hmm. As for the audio, there seems to be some kind of speech going on.Anything specific you want me to focus on?"
         },
         {
           "segment_index": 2,
           "time_range": "852.0s - 858.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie with white stripes on it. He has short black hair and a beard. In the background, there are some plants, a wooden wall, and some equipment or furniture. The lighting is bright.AUDIO: Someone is speaking, but I can't make out the exact words from just that snippet.So, what do you think about this? Do you have any other videos to analyze?"
+          "query": "Well, I'm not sure if there's actually any content to analyze here. It seems like you might have made an error or something is missing from your message. Could you please clarify? Maybe give me more details about the video so I can help you out better?"
         },
         {
           "segment_index": 3,
           "time_range": "858.0s - 864.0s",
-          "query": "VISUAL: There's a robot with a white body and a head that has a circular light on it. It moves around a house, watering plants. The house has blue tiled walls in one scene and wooden floors in another. There are potted plants everywhere it goes.AUDIO: No specific audio is mentioned here.So, what do you think about this kind of robot? Do you find it interesting?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.83 GiB is free. Including non-PyTorch memory, this process has 15.72 GiB memory in use. Of the allocated memory 13.59 GiB is allocated by PyTorch, and 1.82 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 213.59561419487
+      "processing_time": 230.16001534461975
     },
     {
-      "comment_index": 833,
+      "comment_index": 2794,
       "video_id": "j31dmodZ-5c",
       "comment": "3:58 me after getting home late from drinks with the boys",
       "language": "en",
@@ -379,54 +409,24 @@
         {
           "segment_index": 1,
           "time_range": "229.0s - 235.0s",
-          "query": "VISUAL: There's a person wearing a VR headset with controllers in one room. In another room, there's a mannequin that seems to be interacting with something. The mannequin is reaching out towards an object. There's also a woman walking outside through a glass door. The rooms have some shelves and plants.The AUDIO: I can't really tell what's being said or any specific sounds other than the background noise from the environment. It might just be general room noise.If you want me to analyze more videos like this, feel free to let me know!"
+          "query": "Visually, there's a person in a room wearing a VR headset and holding controllers. In the background, there's a window with some plants outside. The room has a modern look with shelves and some items on them. The person seems to be interacting with something in the VR environment, moving their hands and body slightly. The colors are mostly neutral, with some green from the plants. There's a bit of movement from the person in the VR experience, but not much else in the room.\n\nAudio - There's no distinct speech, music, or sound effects. It's mostly silence, with just the faint sounds of the person's movements in the VR."
         },
         {
           "segment_index": 2,
           "time_range": "235.0s - 241.0s",
-          "query": "VISUAL: There's a person wearing a VR headset inside a room with shelves on one side. They're holding some kind of controller. Outside a window, another person is visible. Then it cuts to a kitchen scene where someone in a gray suit is loading dishes into an open dishwasher. The kitchen has wooden cabinets and a tiled backsplash.AUDIO: Someone is speaking about carrying things around and loading up the dishwasher. It seems like they're describing the actions shown in the video. There's no background music or other sound effects.If you have any more questions about the video or want to discuss something else, feel free to let me know!"
+          "query": "Well, in the visual part, there's a person in a kitchen. They're wearing a white protective suit and goggles. They're loading dishes into a dishwasher. The kitchen has wooden cabinets and a tiled backsplash. There's also a window with some greenery outside. In the audio part, it's just the sound of the dishes being loaded into the dishwasher. It's a pretty straightforward scene. So, what do you think about it?"
         },
         {
           "segment_index": 3,
           "time_range": "241.0s - 247.0s",
-          "query": "VISUAL: There's a person in a gray outfit with a circular light on their head. They're kneeling in front of an open dishwasher in a kitchen. The kitchen has wooden cabinets and black tiled walls. The person is interacting with something inside the dishwasher.AUDIO: You can hear some mechanical noises throughout the clip. It seems like there might be a machine or appliance running in the background. There's also a bit of speech at the beginning, but it's not clear what's being said.What do you think about that? Any thoughts or questions?"
+          "query": "Visual: A person is kneeling beside an open dishwasher in a kitchen with wooden cabinets and tiled walls. The dishwasher door is open, revealing its interior.\n\nAudio: There's a sound effect that resembles a machine or appliance operating, possibly related to the dishwasher."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 268.04605770111084
+      "processing_time": 266.10929131507874
     },
     {
-      "comment_index": 834,
-      "video_id": "j31dmodZ-5c",
-      "comment": "You're quite spot on during min 16:00. I would add that this promisse is not only due to AI but how the mindset of tech companies/startups and people on social media trying to scam other on selling the idea of a feeling. From the people selling \"become a millionaire in one week\" courses to startups and tech companies just ripping off people with superficial promisses of something that might be good tomorrow and needing a full range of patches and updates in the future. It's a money-grab phase in our society right now imo...",
-      "language": "en",
-      "channel_name": "mkbhd",
-      "category": "technology",
-      "likes": 72.0,
-      "comment_timestamp": 960.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "951.0s - 957.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie with \"911\" on it. He has short hair and a beard. He gives two thumbs up at first, then puts his hands down. The background shows some gym equipment like a treadmill and weights, and there's a colorful painting on the wall.AUDIO: A male voice says something about making it through a gap somehow, but history seems to suggest otherwise. It's just speech without any other sound effects or music. So, what do you think about that?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "957.0s - 963.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie with a white design on it. He has short black hair and a beard. The background shows an indoor setting with some furniture like a chair and a table. There are also some objects that look like equipment or tools. The lighting is warm and there's a painting hanging on the wall.AUDIO: A male voice is speaking. It seems to be a calm and measured tone. There's no other sound effect or music in the audio.What do you think about the video? Do you have any other questions related to it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "963.0s - 969.0s",
-          "query": "VISUAL: A man in a red hoodie is sitting indoors. He's talking to the camera and then makes a hand gesture like he's pushing something away. There's some equipment visible in the background, like a camera on a tripod.AUDIO: The man says \"thanks for watching catch the next one\" with a calm tone. There's also some soft music playing in the background."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 226.94837975502014
-    },
-    {
-      "comment_index": 835,
+      "comment_index": 2795,
       "video_id": "j31dmodZ-5c",
       "comment": "12:10 Marques is still very clearly upset about the Roadster😂",
       "language": "en",
@@ -439,24 +439,54 @@
         {
           "segment_index": 1,
           "time_range": "721.0s - 727.0s",
-          "query": "VISUAL: A person is holding a smartphone with a weather app open on it. The screen shows various weather details like temperature, wind speed, and a map. The person's hands are visible, interacting with the phone, tapping and swiping on the screen.AUDIO: There's someone speaking about normal behavior related to smartphones and video games. It seems like they're explaining something common that happens frequently in these contexts.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "Visually, there's a person holding a smartphone. The phone's screen is on, showing a weather app with a temperature of 80 degrees. The person is interacting with the phone, likely scrolling or tapping. In the background, there are some blurred objects, possibly furniture or decor, and a plant. The colors are mostly muted, with the phone's screen being the brightest element. There's a bit of movement as the person's hand moves on the phone's screen.Audibly, there's a voice speaking. The speech is clear and seems to be in English. It's discussing something related to the phone's screen, mentioning \"chili peppers\" and \"cayenne.\" The tone is neutral, not overly excited or angry."
         },
         {
           "segment_index": 2,
           "time_range": "727.0s - 733.0s",
-          "query": "VISUAL: A person is holding a smartphone with a weather app open on it. They're scrolling through different screens on the phone. Then there's an image of a red Tesla Roadster driving on a road. Finally, a man wearing a red hoodie is talking while gesturing with his hands.AUDIO: There's someone speaking throughout the video. It seems to be about cars and AI products. The speech has some pauses between sentences.If you want to talk more about this or have other questions, feel free to let me know!"
+          "query": "**Visual:** The video shows a red sports car driving on a road with some hills in the background. There's also a person wearing a red hoodie sitting indoors, talking while gesturing with their hands.\n\n**Audio:** Someone is speaking, likely explaining something related to cars or technology. It seems like they're discussing how things happen these days and mentioning AI products."
         },
         {
           "segment_index": 3,
           "time_range": "733.0s - 739.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie with a white logo on it. He has short hair and a beard. He's talking and gesturing with his hands. The background shows some equipment like a camera rig and a chair. There's also a colorful painting on the wall.AUDIO: A male voice is speaking about something coming out now and how it has resulted in more times of a certain strategy being used. It seems to be related to announcements. So, what do you think about this? Do you have any ideas or questions regarding the content?"
+          "query": "Visually, there's someone wearing a red hoodie with \"91\" on it. They're gesturing while talking. The background has some equipment like cameras or lights, suggesting a studio setting. There s also a colorful painting hanging on the wall.\n\nAudio-wise, I can hear a man speaking. He seems to be explaining something, maybe giving instructions or sharing an idea. It feels like he's trying to convey his thoughts clearly."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 258.17189741134644
+      "processing_time": 217.6111762523651
     },
     {
-      "comment_index": 836,
+      "comment_index": 2796,
+      "video_id": "j31dmodZ-5c",
+      "comment": "You're quite spot on during min 16:00. I would add that this promisse is not only due to AI but how the mindset of tech companies/startups and people on social media trying to scam other on selling the idea of a feeling. From the people selling \"become a millionaire in one week\" courses to startups and tech companies just ripping off people with superficial promisses of something that might be good tomorrow and needing a full range of patches and updates in the future. It's a money-grab phase in our society right now imo...",
+      "language": "en",
+      "channel_name": "mkbhd",
+      "category": "technology",
+      "likes": 72.0,
+      "comment_timestamp": 960.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "951.0s - 957.0s",
+          "query": "**Visual:** There's a man wearing a red hoodie with some white designs on it. He has short hair and a beard. The background shows an indoor setting with various objects like cameras, a tripod, and some furniture. It looks like he might be in a studio or a room set up for filming.\n\n**Audio:** A male voice is speaking. The speech seems to be in English and includes phrases like \"we made through that gap somehow\" and \"but history seems to be suggesting.\" The tone suggests he could be explaining something or narrating a story."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "957.0s - 963.0s",
+          "query": "Visually, there's a man in a red hoodie sitting in what looks like a studio or workshop. You can see some equipment in the background, like a robotic arm and a camera setup. There are also some colorful posters on the wall. The man seems to be talking or reacting to something, but his face is mostly still. The lighting is warm and the overall vibe is casual and creative.Audience, the man is speaking, and it sounds like he's making a statement or giving an opinion. There's no background music or sound effects, just his voice."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "963.0s - 969.0s",
+          "query": "Visually, there's a person in a red hoodie standing in a room with some equipment and a poster on the wall. The person is making a hand gesture. The room has a warm, indoor lighting.\n\nAudio-wise, there's a voice saying \"thanks for watching catch the next one\" followed by some music."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 248.19203567504883
+    },
+    {
+      "comment_index": 2797,
       "video_id": "j31dmodZ-5c",
       "comment": "I’m not sure about this, but I’m amazed that the most advanced AI today is struggling to identify even the most common things around us, as he explained at 8:38. In contrast, we can accomplish anything we desire without any software updates or anything lol😂 .The human body and mind are truly incredible! We can achieve anything we set our minds to without the any other external assistance. It’s truly remarkable how magnificent and remarkable we are!",
       "language": "en",
@@ -469,24 +499,24 @@
         {
           "segment_index": 1,
           "time_range": "509.0s - 515.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie with white stripes on it. He has short black hair and a beard. He's talking and gesturing with his hands. In the background, there's some kind of equipment or machinery, like a robotic arm maybe? And there's also a colorful painting hanging on the wall.AUDIO: The man is speaking, and he seems to be explaining something about identifying the correct person. It's just him talking without any other sounds really. So, that's all I can say based on those two seconds. What do you think he might be talking about?"
+          "query": "Sure! So, in the video, there's a person in a red hoodie talking and gesturing with their hands. The background shows some equipment, like a robotic arm, and there's a colorful poster on the wall. The person seems to be explaining something, maybe giving instructions or sharing information.In terms of audio, it's just the person speaking, no music or other sounds. The speech is clear and focused, likely related to what the person is doing or showing in the video."
         },
         {
           "segment_index": 2,
           "time_range": "515.0s - 521.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie with white stripes on it. He has short hair and a beard. He's gesturing with his hands while talking. The background shows some equipment like a camera setup and a colorful poster on the wall.AUDIO: A male voice is speaking about medication at the right time and intervals. It seems to be explaining something related to administering medication properly.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a man in a red hoodie gesturing with his hands while speaking. He's indoors, and there are various objects in the background, like a poster on the wall, some furniture, and what looks like a camera or recording equipment. The lighting is warm, and the overall setting seems casual and homey.\n\n**Audio:** The audio features a man speaking, likely explaining something. There are no other distinct sounds or music in the background."
         },
         {
           "segment_index": 3,
           "time_range": "521.0s - 527.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie with a white logo on it. He has short black hair and a beard. He's sitting down and talking while gesturing with his hands. The background shows some household items like a robot vacuum cleaner, a colorful painting on the wall, and some furniture. It looks like an indoor setting.AUDIO: A male voice is speaking about self - driving cars needing to be really good at recognizing a lot of household objects. The tone seems informative. So, what do you think about self - driving cars? Do you have any other questions related to this?"
+          "query": "Sure! So, visually, there's someone wearing a red hoodie with some white designs on it. They're standing indoors, maybe in a studio or something like that. There are various objects around - like cameras, lights, and other equipment. The background has colorful artwork on the wall. Oh, and there s another person partially visible behind them.Action-wise, the main person is talking and using hand gestures while speaking. It looks like they re explaining or demonstrating something.The audio? Well, there s just their voice, no music or sound effects. It seems to be a pretty straightforward conversation or explanation.What do you think about this? Do you have any specific questions?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 296.299861907959
+      "processing_time": 211.6150403022766
     },
     {
-      "comment_index": 837,
+      "comment_index": 2798,
       "video_id": "j31dmodZ-5c",
       "comment": "1:04 it can find the tv remote, it can live in my house no matter how bad it is.",
       "language": "en",
@@ -499,24 +529,24 @@
         {
           "segment_index": 1,
           "time_range": "55.0s - 61.0s",
-          "query": "VISUAL: There's a humanoid robot on a wooden deck outside a house. It's watering plants with a watering can. Then it moves inside to a tidy living room where there are chairs, a table, and some cushions. The robot seems to be doing its tasks on schedule.AUDIO: A man is speaking about the robot's perfect schedule for tending to plants and tidying up the house. He mentions that the robot never forgets a single plant and then goes around vacuuming and tidying up the place.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a tidy living room with wooden floors and furniture. There are plants visible, and a person is vacuuming the floor. The room has a cozy, well-maintained appearance. The lighting is natural, suggesting daytime.\n\n**Audio:** There is no distinct speech or music in the audio. The only sound is the vacuum cleaner in operation."
         },
         {
           "segment_index": 2,
           "time_range": "61.0s - 67.0s",
-          "query": "VISUAL: The video shows someone tidying up a living room first. There's a person folding clothes on a table or surface. Then it cuts to cleaning a bedroom with a vacuum cleaner. You can see the vacuum moving across the floor. There are some furniture like a bed and a chair in the background.AUDIO: There is no distinct audio mentioned here. It seems like there might be some background noise from the vacuum cleaner or other household sounds, but nothing specific is described.If you have any more questions about this video or need further analysis, feel free to let me know!"
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short description. It just says \"Tidy Living Room\" which doesn't really give much information about what's going on in the video. So, um, it seems like we don't have enough details here to do an analysis. Maybe you could give me more?"
         },
         {
           "segment_index": 3,
           "time_range": "67.0s - 73.0s",
-          "query": "VISUAL: A person is vacuuming a carpeted floor in a bedroom. There's a bed with white bedding and some pillows on it. The room has wooden furniture and a laundry basket nearby.AUDIO: Someone is speaking about doing chores that they don't want to do, but have to, and how it feels when it's all done.If you want to talk more about this or share your own experiences with chores, feel free to let me know."
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short clip. There seems to be no clear visual or audio information provided for me to describe. Maybe you could give me more details about it?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 245.42489671707153
+      "processing_time": 198.15320825576782
     },
     {
-      "comment_index": 838,
+      "comment_index": 2799,
       "video_id": "j31dmodZ-5c",
       "comment": "9:23 Marques suddenly speaking in 2x speed 😂",
       "language": "en",
@@ -529,54 +559,24 @@
         {
           "segment_index": 1,
           "time_range": "554.0s - 560.0s",
-          "query": "VISUAL: The video shows a car's dashboard with a large screen displaying navigation information. There's a map on one side showing directions to Temple St, and on the other side there's a speedometer indicating a speed of around 35 mph. The car is driving on a road with multiple lanes. You can also see some reflections on the windshield, like a person's hand and possibly a camera.AUDIO: Someone is speaking about how slowly they've let people turn on something called \"beta.\" It seems to be related to the car or its features. The speaker's voice is clear and steady.If you have any more questions about this video or anything else, feel free to ask!"
+          "query": "Visually, the video shows a car's dashboard. There's a digital display showing the speed, which is around 35 km/h. The display also has a map and some other information. The car seems to be moving on a road, and there are some buildings and trees visible through the windshield. The colors are mostly dark with some blue and white on the display. The movement is mainly the car's motion on the road.Audibly, there's a male voice speaking. The speech is clear and seems to be in English. The tone is neutral, and the speaker is likely giving some kind of instruction or explanation."
         },
         {
           "segment_index": 2,
           "time_range": "560.0s - 566.0s",
-          "query": "VISUAL: The video shows a car's dashboard with a digital display showing a map, speed limit at 35 mph, and other driving information like temperature. There are two men inside the car, one in the driver's seat and another in the passenger seat. They seem to be looking at something on a screen mounted on the dashboard. Outside the car, there's a highway scene with some traffic and trees in the background.AUDIO: There is no distinct audio mentioned here. It seems like just the sound of the car engine and maybe some distant traffic noise.If you have any more questions about this or want to discuss something else related to cars or technology, feel free to let me know!"
+          "query": "Sure! So, for the visual part:.The video shows two men sitting inside a car. One is driving while the other sits beside him. There s also a camera mounted on the dashboard. The driver seems to be talking or explaining something, maybe about self-driving features. You can see some road signs and a digital display showing things like speed and navigation directions.The scene looks like it's set during daytime with clear weather.For the audio part:.There s just one person speaking, likely giving instructions related to self-driving cars. It sounds calm and informative, probably aimed at educating viewers about how to use these new technologies.If you have any more questions or need further details, feel free to ask!"
         },
         {
           "segment_index": 3,
           "time_range": "566.0s - 572.0s",
-          "query": "VISUAL: The video shows two men inside a car driving on a road. There's a large screen in front of them displaying a map. A camera is mounted on a tripod in the center of the dashboard area. One man is sitting in the driver's seat, looking at the road ahead, while the other man sits in the passenger seat, also looking forward. The background outside the car window shows some buildings and trees.AUDIO: Someone is speaking about gathering information from beta testers slowly. It seems to be a calm voice, possibly explaining something related to the video content.If you have any more questions or need further details, feel free to ask!"
+          "query": "**Visual:** The video shows two men inside a car. One is driving while looking at a large screen on the dashboard that displays a map or navigation system. There's also a camera mounted on the windshield. The other man is sitting in the passenger seat, wearing a white hoodie and jeans, with his hands resting on his lap.\n\n**Audio:** No distinct speech, music, or sound effects can be heard during these six seconds. It seems to be mostly silent apart from some faint background noise."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 319.77778816223145
+      "processing_time": 168.50080013275146
     },
     {
-      "comment_index": 839,
-      "video_id": "j31dmodZ-5c",
-      "comment": "1:04 using a hardwood floor vacuum head on a rug. good start",
-      "language": "en",
-      "channel_name": "mkbhd",
-      "category": "technology",
-      "likes": 57.0,
-      "comment_timestamp": 64.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "55.0s - 61.0s",
-          "query": "VISUAL: There's a humanoid robot on a wooden deck outside a house. It's watering plants with a watering can. Then it moves inside to a tidy living room where there are chairs, a table, and some cushions. The robot seems to be doing its tasks on schedule.AUDIO: A man is speaking about the robot's perfect schedule for tending to plants and tidying up the house. He mentions that the robot never forgets a single plant and then goes around vacuuming and tidying up the place.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "61.0s - 67.0s",
-          "query": "VISUAL: The video shows someone tidying up a living room first. There's a person folding clothes on a table or surface. Then it cuts to cleaning a bedroom with a vacuum cleaner. You can see the vacuum moving across the floor. There are some furniture like a bed and a chair in the background.AUDIO: There is no distinct audio mentioned here. It seems like there might be some background noise from the vacuum cleaner or other household sounds, but nothing specific is described.If you have any more questions about this video or need further analysis, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "67.0s - 73.0s",
-          "query": "VISUAL: A person is vacuuming a carpeted floor in a bedroom. There's a bed with white bedding and some pillows on it. The room has wooden furniture and a laundry basket nearby.AUDIO: Someone is speaking about doing chores that they don't want to do, but have to, and how it feels when it's all done.If you want to talk more about this or share your own experiences with chores, feel free to let me know."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 252.27102613449097
-    },
-    {
-      "comment_index": 840,
+      "comment_index": 2800,
       "video_id": "j31dmodZ-5c",
       "comment": "I was part of one of the teams that won the RoboCup@Home World Championship in household robotics a few years back. I cannot stress Marques' point at 4:25 enough. They would absolutely show everything they can do autonomously. I personally think household robotics is a vastly more difficult niche compared to self driving cars, and look how that is going. That being said, the handover of the dish is either very impressive or very dangerous, time will tell which one it is.  You don't even have to think so far as to misreading medication for harm a robot can do. You have a machine in your house capable of moving around nearly 70 pounds plus whatever it is carrying or manipulating. If that thing spasms out because the wifi cuts or something else malfunctions, it can severely harm or even kill you on its own.",
       "language": "en",
@@ -589,21 +589,21 @@
         {
           "segment_index": 1,
           "time_range": "256.0s - 262.0s",
-          "query": "VISUAL: There's a person in a red hoodie talking in front of some kind of setup with robots or mechanical arms in the background. The room has a modern look with some art on the wall.AUDIO: A man is speaking clearly about something being teleoperated and it was a demo set up by an X company. It seems like he's explaining how things work in this best - case scenario.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Visual: There's someone in a red hoodie sitting indoors, gesturing with their hands while talking. The background shows some furniture like shelves or cabinets.\n\nAudio: A man is speaking clearly, likely explaining something related to the demo setup mentioned in the caption."
         },
         {
           "segment_index": 2,
           "time_range": "262.0s - 268.0s",
-          "query": "VISUAL: There's a robot in a kitchen. It has a light gray body with circular features on its head. The robot is interacting with objects like onions and a kettle. The kitchen has wooden cabinets, a tiled countertop, and some plants in the background.AUDIO: Someone is speaking about defending a robot online, mentioning that there might be other things it can do autonomously. They seem to be discussing the capabilities of the robot.If you have any thoughts or questions about this, feel free to share!"
+          "query": "**Visual:** The video shows a robot in a kitchen setting. It's interacting with objects on a countertop, like a kettle and some fruits. There are large windows behind it showing an outdoor view.\n\n**Audio:** Someone is speaking about robots online, mentioning that they can do various things autonomously."
         },
         {
           "segment_index": 3,
           "time_range": "268.0s - 274.0s",
-          "query": "VISUAL: There's a man wearing a red hoodie with white stripes on it. He has short black hair and a beard. He's sitting down and talking while gesturing with his hands. In the background, there's some kind of equipment or machinery, like a large piece of exercise gear. There's also a colorful painting hanging on the wall. The room looks like an office or studio.AUDIO: A male voice is speaking. It seems to be having a conversation about someone not being shown something yet. The tone suggests surprise or disbelief.So, what do you think about this? Do you have any other videos for me to analyze?"
+          "query": "Visually, there's a man in a red hoodie talking and gesturing with his hands. The background shows some equipment, like a camera on a tripod, and a colorful piece of art on the wall. The room seems to be well-lit, with a mix of natural and artificial light. There are also some shelves with various items on them. The man appears to be in a studio or a room set up for recording or broadcasting.\n\nIn terms of audio, the man is speaking, but the content of his speech isn't clear from this short segment. There are no other distinct sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 272.28239464759827
+      "processing_time": 227.444162607193
     }
   ]
 }

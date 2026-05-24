@@ -4,190 +4,9 @@
   "successful_comments": 20,
   "failed_comments": 0,
   "success_rate": "100.0%",
-  "processing_time": 8446.529671669006,
   "comments": [
     {
-      "comment_index": 4128,
-      "video_id": "iRYZjOuUnlU",
-      "comment": "0:38 That's it The man said the truth The Palestinians owned the land",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 35.0,
-      "comment_timestamp": 38.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "29.0s - 35.0s",
-          "query": "VISUAL: The video shows an old map with \"Israel - Palestine\" labeled around 1900. There's also a photo of three people dressed in traditional Middle Eastern attire on a clipboard below the map.AUDIO: A man is speaking about how things were changing in peace in the region, mentioning two important ways. He talks about more people developing something, but it gets cut off before he finishes.So, what do you think about these changes? Do you have any other thoughts or questions related to this?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "35.0s - 41.0s",
-          "query": "VISUAL: The video shows some old black - and - white photos of people wearing traditional clothing on a wooden surface. There's also a map of Israel - Palestine with a red arrow pointing to a specific area labeled \"Palestinian Identity.\" The map has various geographical details like deserts and cities.AUDIO: A man is speaking about Palestinians having a distinct national identity, not just being ethnic Arabs. He seems to be explaining something related to their history or situation.If you want to know more about this topic or have other questions, feel free to ask!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "41.0s - 47.0s",
-          "query": "VISUAL: The video shows a map at first, then it transitions to an image on a clipboard. There's a man with a beard in formal attire on that image. The background has some text and symbols related to Zionism.AUDIO: Someone is speaking about Jews joining a movement called Zionism in Europe around the same time as another event not shown in the video. It seems like they're explaining something historical or political.If you want to know more about Zionism or have other questions related to this, feel free to ask!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 539.1123607158661
-    },
-    {
-      "comment_index": 4126,
-      "video_id": "iRYZjOuUnlU",
-      "comment": "I like this video - but isn't the chart at 8:13 mislabelled? Haven't there consistently been more Palestinian deaths than Israeli deaths throughout this period?",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 39.0,
-      "comment_timestamp": 493.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "484.0s - 490.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "490.0s - 496.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "496.0s - 502.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.6113002300262451
-    },
-    {
-      "comment_index": 4123,
-      "video_id": "iRYZjOuUnlU",
-      "comment": "2:15 \"we are leaving this mess\" more like \"lets create a mess and leave\"",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 228.0,
-      "comment_timestamp": 135.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "126.0s - 132.0s",
-          "query": "VISUAL: The video shows a map with different colored areas representing the UN proposal from 1947 for the Middle East region. There's a blue area labeled \"Jewish state\" which is Israel today, and a green area labeled \"Arab state\" which is Palestine. Jerusalem is marked as an international zone. There's also a Union Jack flag on the map with some text pointing to it.AUDIO: A man speaks about the plan being meant to give Jews a state. He mentions that the holy sites were supposed to become a special international zone.If you have any other thoughts or questions about this, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "132.0s - 138.0s",
-          "query": "VISUAL: The video shows an animated map with different colored areas representing regions. There's a British flag in the center with two hands pointing at it. One hand is labeled \"Jewish state\" and points to Israel, while the other says \"Arab state\" and points to Palestine. Britain is labeled \"1947.\" The map also has some mountainous areas at the bottom. The background is white with a yellow banner at the top saying \"UN PROPOSAL 1947.\".AUDIO: A man speaks about establishing Palestinian independence and ending sectarian violence that the British could no longer control. It's just his voice without any music or sound effects. So, what do you think about this proposal? Do you have any more questions related to it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "138.0s - 144.0s",
-          "query": "VISUAL: The video shows an animated map with different regions marked in various colors like green, blue, and brown. There's a British flag and a hand pointing towards it saying \"You get your state\" and \"You get independence.\" Another hand is pointing at a map section labeled \"Britain 1947\". Then there's a UN Proposal from 1947 on the map with a Star of David symbol. The map also has labels for places like Sanaf and Jerusalem.AUDIO: A man speaks about the Jews accepting a plan and declaring independence as Israel, while Arabs throughout the region saw something."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 681.9685406684875
-    },
-    {
-      "comment_index": 4125,
-      "video_id": "iRYZjOuUnlU",
-      "comment": "8:13 makes no sense. Why does the graph show that more Israeli's died when it was clearly stated in the video that 1000 Israelis dead while 3200 Palestinians died?",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 51.0,
-      "comment_timestamp": 493.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "484.0s - 490.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "490.0s - 496.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "496.0s - 502.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.27261829376220703
-    },
-    {
-      "comment_index": 4124,
-      "video_id": "iRYZjOuUnlU",
-      "comment": "8:13 How does that graph show 1000 Israelis and 3200 Palestinians????",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 67.0,
-      "comment_timestamp": 493.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "484.0s - 490.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "490.0s - 496.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "496.0s - 502.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.5058069229125977
-    },
-    {
-      "comment_index": 4127,
-      "video_id": "iRYZjOuUnlU",
-      "comment": " [USER] that’s factually incorrect which is bizarre since the video you’re commenting on literally explained how it happened.  The Jewish People were given Israel, the Arabs were given Palestine, but the Arabs started a war to reclaim the territory. They lost the war, and after that Israel took more land than was initially provided.   I’m not condoning the horrific acts committed by either side but at least watch the video if you’re going to comment about it. See 2:20 in the video for the point I made.",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 36.0,
-      "comment_timestamp": 140.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "131.0s - 137.0s",
-          "query": "VISUAL: The video shows an animated map with different colored areas representing regions. There's a British flag on it, and some text indicating \"Jewish state\" and \"Arab state.\" It seems to be about a UN proposal from 1947.AUDIO: A man is speaking, and he says something like \"state to establish Palestinian independence and to end the sectarian violence that the British could no longer.\" It sounds like he's discussing historical events related to Palestine.So, what do you think about this? Do you have any other questions or thoughts on the topic?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "137.0s - 143.0s",
-          "query": "VISUAL: The video shows an animated map with a British flag and some hands pointing towards it. There's text saying \"We're leaving this mess\" and \"You get your state\", \"You get independence\". It then transitions to another map showing a blue circle with a Star of David on it, labeled \"UN PROPOSAL 1947\". The map also has areas marked in green and blue, representing different regions. There's a mention of \"Britain 1947\" at one point.AUDIO: A man is speaking about the Jews accepting a plan and declaring independence as Israel, while Arabs throughout are mentioned."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "143.0s - 149.0s",
-          "query": "VISUAL: There's a map showing different regions like Syria, Iraq, Saudi Arabia, Egypt, and Israel. The UN proposal is marked on it with a blue circle containing a Star of David. Then there's an image of soldiers marching next to the map.AUDIO: A man is speaking about how the region viewed the UN plan as European colonialism trying to steal their land. It seems like he's explaining something related to history or politics.If you want to know more about this topic or have other questions, feel free to ask!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 525.5593974590302
-    },
-    {
-      "comment_index": 4121,
+      "comment_index": 2701,
       "video_id": "iRYZjOuUnlU",
       "comment": "10:01 - Last sentence, \"Whatever comes next, will be much worse.\" I guess 5 years later, it's kinda true.",
       "language": "en",
@@ -200,24 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "592.0s - 598.0s",
-          "query": "VISUAL: The video shows a collage of images related to conflict. There's a young boy running with his arms outstretched, soldiers in military gear standing guard near barricades, people gathered behind barbed wire fences, and a large wall with a watchtower. There are also flags visible, including one that looks like it has Palestinian symbols.AUDIO: A man is speaking about Israel's occupation of Palestinians being unsustainable. He says \"That things as they are now can't last much longer. Israel's occupation of the Palestinians is too unsustainable.\".If you want to talk more about this or have other questions, feel free to let me know!"
+          "query": "I'm sorry, I can't analyze videos directly. But if you describe the content to me, I'd be happy to help!"
         },
         {
           "segment_index": 2,
           "time_range": "598.0s - 604.0s",
-          "query": "VISUAL: The video shows soldiers on tanks with Israeli flags flying. There's also a scene of armed individuals in masks holding guns. It seems to be set in a conflict area with military presence.AUDIO: A man is speaking about something lasting unless dramatic changes occur, suggesting that whatever follows will be worse.If you want to talk more about this or have other questions, feel free to let me know."
+          "query": "**Visual:** The video shows a military scene with soldiers in combat gear. There are tanks and soldiers holding weapons. Israeli flags are visible, suggesting a military operation in Israel. The background includes rocky terrain and some buildings. The soldiers appear to be in a combat or training situation.\n\n**Audio:** The audio contains a man speaking, but the content of his speech is not clear from the provided information. There are no distinct sound effects or music."
         },
         {
           "segment_index": 3,
           "time_range": "604.0s - 610.0s",
-          "query": "VISUAL: There's a group of people in military gear holding guns. They're standing on a street with buildings around. Some are wearing masks. The scene looks tense.AUDIO: There's music playing throughout the whole time. It seems to be instrumental music without any lyrics.So, what do you think about this? Do you have any other videos you want me to analyze?"
+          "query": "Visual: The video shows a group of individuals wearing masks and holding guns. They seem to be marching or moving together in an organized manner.\n\nAudio: There is background music playing throughout the clip."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 524.1820752620697
+      "processing_time": 204.39582085609436
     },
     {
-      "comment_index": 4122,
+      "comment_index": 2702,
       "video_id": "iRYZjOuUnlU",
       "comment": "7:37 Drake is going through some tough times",
       "language": "en",
@@ -230,24 +49,144 @@
         {
           "segment_index": 1,
           "time_range": "448.0s - 454.0s",
-          "query": "VISUAL: There's a TV screen showing a crowd scene. People are holding signs with pictures on them. One sign has \"THE TRAITOR\" written on it. The background seems to be outdoors at night, with some lights visible.AUDIO: Someone is speaking about talks with rallyers who call Prime Minister Yitzhak Rabin a traitor and a Nazi. It's just speech without any other sounds like music or sound effects. So, what do you think about this? Any thoughts or questions?"
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short clip. There seems to be no clear visual or audio information provided here. So, it might just be an empty frame or something like that. If you have more details about the video, feel free to share!"
         },
         {
           "segment_index": 2,
           "time_range": "454.0s - 460.0s",
-          "query": "VISUAL: The video shows a collage of images related to an assassination event. There's a picture of a man with a serious expression, a news anchor reporting on the incident, and a newspaper headline about Rabin being assassinated at a rally. There are also some smaller pictures of people and a TV screen showing a crowd scene.AUDIO: A male voice is speaking about Rabin signing the second round of Oslo Accords and then being shot dead by a far - right Israeli in Tel Aviv.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visual: The video shows a collage of images including a man's face, newspaper clippings with headlines about a man being assassinated at a rally, and other related pictures. There are also some blurred faces and a camera visible.\n\nAudio: No distinct audio is heard apart from the background noise that accompanies the visuals."
         },
         {
           "segment_index": 3,
           "time_range": "460.0s - 466.0s",
-          "query": "VISUAL: The video shows a collage with photos of a man's face, a news article about an assassination at a rally, and some other images related to the event. There are also two flags - one for Israel and one for Palestine - on either side of a red line that represents conflict or division.AUDIO: A male voice is speaking over background music. He says something like \"this violence showed how extremists on both sides can use violence to derail.\" It seems he's discussing the impact of the violence shown in the video on peace efforts.If you have any thoughts on this or want to discuss more about it, feel free to share!"
+          "query": "Visually, the video shows a collage of images. There are pictures of people, some looking serious or in conversation. There's also a map of Gaza and a newspaper clipping. The colors are mostly muted, with some darker tones. The movement is limited, mainly showing still images.\n\nAudio - There's no clear speech or sound effects. It's mostly silence."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 496.744708776474
+      "processing_time": 175.12702059745789
     },
     {
-      "comment_index": 4129,
+      "comment_index": 2703,
+      "video_id": "iRYZjOuUnlU",
+      "comment": "2:15 \"we are leaving this mess\" more like \"lets create a mess and leave\"",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 228.0,
+      "comment_timestamp": 135.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "126.0s - 132.0s",
+          "query": "**Visual:** The video shows a map with labels indicating different regions like \"Jewish state\" for Israel, \"Arab state\" for Palestine, and an international zone around Jerusalem. There's also a British flag labeled \"Britain 1947.\"\n\n**Audio:** Someone is speaking about the UN proposal from 1947 regarding giving Jews their own state."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "132.0s - 138.0s",
+          "query": "**Visual:** The video shows a map with a title \"UN PROPOSAL 1947\". There are three colored areas on the map: blue for a \"Jewish state\", green for an \"Arab state\", and a British flag in the center with text \"You get your state\" and \"You get independence\". The map seems to represent a historical proposal for the division of Palestine.\n\n**Audio:** The audio contains a voiceover saying, \"establish Palestinian independence and to end the sectarian violence that the British could no longer control.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "138.0s - 144.0s",
+          "query": "**Visual:** The video shows a map with a British flag and a Star of David. There are texts like \"UN PROPOSAL 1947\" and \"Britain 1947\" on the map. The map seems to represent a historical context related to the establishment of Israel. The colors are mainly blue, white, and red, typical of the British flag.\n\n**Audio:** The audio contains a male voice speaking in English. The speech is about the Jews accepting a plan and declaring independence as Israel. The tone is informative."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 239.50569534301758
+    },
+    {
+      "comment_index": 2704,
+      "video_id": "iRYZjOuUnlU",
+      "comment": "8:13 How does that graph show 1000 Israelis and 3200 Palestinians????",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 67.0,
+      "comment_timestamp": 493.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "484.0s - 490.0s",
+          "query": "Visual: The video shows a group of people, some holding weapons, standing on top of a vehicle. There are also scenes of a crowd of people, some wearing green shirts, in what seems to be a protest or demonstration. The overall scene looks chaotic and tense.\n\nAudio: There is a voiceover in the background, but the content of the speech is not clear from this short segment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "490.0s - 496.0s",
+          "query": "Visually, the video shows a graph titled \"ISRAEL-PALESTINE CONFLICT DEATHS\" with two lines representing Israeli and Palestinian deaths over time. The graph has a light background with a grid pattern. The lines fluctuate, showing peaks and troughs in the number of deaths.\n\nAudibly, there is a male voice speaking in English. The speech is clear and seems to be discussing the data shown in the graph, possibly explaining trends or providing context about the conflict."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "496.0s - 502.0s",
+          "query": "Visual: The video shows a graph titled \"ISRAEL PALESTINE CONFLICT DEATHS\" with two lines representing Israeli and Palestinian deaths over time from 2000 to 2005. There are also images of people, possibly protesters or soldiers, in the background, with smoke visible. The overall color scheme is muted, with a lot of beige and gray tones.\n\nAudio: A male voice is speaking, saying \"200 Palestinians have died.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 346.11809039115906
+    },
+    {
+      "comment_index": 2705,
+      "video_id": "iRYZjOuUnlU",
+      "comment": " @ghfsd786fa that’s factually incorrect which is bizarre since the video you’re commenting on literally explained how it happened.  The Jewish People were given Israel, the Arabs were given Palestine, but the Arabs started a war to reclaim the territory. They lost the war, and after that Israel took more land than was initially provided.   I’m not condoning the horrific acts committed by either side but at least watch the video if you’re going to comment about it. See 2:20 in the video for the point I made.",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 36.0,
+      "comment_timestamp": 140.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "131.0s - 137.0s",
+          "query": "**Visual:** The video shows a map with two flags labeled \"Jewish state\" and \"Arab state.\" There's also a British flag pointing towards them.\n\n**Audio:** Someone is speaking about establishing independence and ending sectarian violence."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "137.0s - 143.0s",
+          "query": "Sorry, I can't analyze videos directly. But if you describe the content to me, I'd be happy to help summarize it!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "143.0s - 149.0s",
+          "query": "**Visual:** The video shows a map with various flags and symbols. There are flags of Israel, Egypt, and other countries in the region. The map seems to be highlighting different areas, possibly related to political divisions or historical events. The colors are mainly red, white, and blue, with some green and brown areas.\n\n**Audio:** The audio contains a voice speaking in English. The speaker is discussing the region's view of the UN plan, referring to it as \"more European colonialism trying to steal their land.\" The tone is somewhat accusatory and critical."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 212.660640001297
+    },
+    {
+      "comment_index": 2706,
+      "video_id": "iRYZjOuUnlU",
+      "comment": "0:38 That's it The man said the truth The Palestinians owned the land",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 35.0,
+      "comment_timestamp": 38.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "29.0s - 35.0s",
+          "query": "Visually, the video shows a map of Israel and Palestine with a red box highlighting a specific area. There are also some black and white photographs of people, possibly historical figures or everyday individuals. The background seems to be a wooden surface. The map has various lines and labels, indicating geographical and political boundaries.\n\nAudio-wise, there's a male voice speaking in English. He says, \"Generally in peace it was changing in two important ways.\" The tone is informative, and there are no other sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "35.0s - 41.0s",
+          "query": "**Visual:** The video shows a map with highlighted regions, including Israel and Palestine. There are also some photographs or images on top of the map, possibly related to historical events or figures associated with these areas.\n\n**Audio:** The audio contains a voiceover discussing the concept of Palestinians having their own distinct national identity."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "41.0s - 47.0s",
+          "query": "Visually, there's a map on a wooden surface. Then, a portrait of a man with a beard and a suit appears, along with some text and symbols like a Star of David. The background seems to be a wooden wall. There's also a small red arrow pointing to a specific area on the map. The colors are mostly earthy tones, with the map and portrait being the main focus. The movement is mainly the camera panning and zooming in on different parts of the map and portrait.Audibly, there's a male voice speaking in English. The speech is about Jews joining a movement called Zionism in Europe. The tone seems informative."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 206.02624106407166
+    },
+    {
+      "comment_index": 2707,
       "video_id": "iRYZjOuUnlU",
       "comment": "4:58 “Anyways, so I started blasting”",
       "language": "en",
@@ -260,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "289.0s - 295.0s",
-          "query": "Well, I haven't actually seen the video yet. So, I can't really describe what's in it. But if you tell me about the visual elements like objects or people doing something, that would be great. And for the audio, if there's any speech, music, or other sounds, let me know too. This way, we can work on describing it together. What do you think?"
+          "query": "Oh, I see what you're asking. So, in the video, there are these people holding guns and posing in a way that looks a bit staged. It's kind of like they're showing off or something. The colors are pretty muted, mostly browns and grays. And, hmm, there's no real movement, it's just them standing there.Now, for the audio part. There's some kind of narration or speech going on. It's in English, but I can't really make out the exact words. It's just a voice, no music or anything else. It's like someone's talking about something, but I can't tell what it is from just this short clip.What do you think about it?"
         },
         {
           "segment_index": 2,
           "time_range": "295.0s - 301.0s",
-          "query": "I'm sorry, I can't actually watch videos or analyze them directly. But if you describe the video to me, I'd be happy to help with your analysis! So, go ahead and tell me about it."
+          "query": "Sure! So, visually, there's an image with \"Lebanon\" written on it. Then, there s a smaller inset showing someone talking. The background has some yellowish-brown patterns.On the audio side, there s a voice speaking about Israel invading Lebanon during the ceasefire in southern Lebanon.Anything else you want to know?"
         },
         {
           "segment_index": 3,
           "time_range": "301.0s - 307.0s",
-          "query": "Well, I haven't actually seen the video yet. So, I can't really describe what's in it. But if you tell me about the objects, people, actions, etc., I can give you that part. And for the audio, once again, without seeing the video, I can't say much. However, if you share some details with me, we can work on this together. Go ahead and tell me more about the video."
+          "query": "**Visual:** The video shows a man in a suit and tie speaking on a television screen. The background behind him is blurred, suggesting an indoor setting, possibly a news studio. There's a graphic overlay on the screen with text that reads \"ISRAELI RAID\" and \"APRIL 21, 1982.\" The colors are muted, with a yellowish tint dominating the frame.\n\n**Audio:** The audio features a man speaking in a calm, measured tone. The speech is in English and discusses events in Lebanon, mentioning guns, bombs, and a plane. The tone suggests a news report or commentary."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 162.90279507637024
+      "processing_time": 236.28871202468872
     },
     {
-      "comment_index": 4130,
+      "comment_index": 2708,
       "video_id": "iRYZjOuUnlU",
       "comment": "1:17 let's not forget that the ottoman empire fought alongside the aggressors of WW1 and that the allied forces had been victoriously resulting in the middle east being in ruins. They had to do something there to create some order and organise land so people could rebuild. The same had happened in Europe after WW2. This is not a matter of colonialism, it's trying to do the best they could in the aftermath of a devastating war.",
       "language": "en",
@@ -290,84 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "68.0s - 74.0s",
-          "query": "VISUAL: The video shows an old photo on a clipboard labeled \"WORLD WAR I\" with dates. Then it transitions to an old map titled \"PROVINCES ASIATIQUES L'EMPIRE OTTOMAN.\" There's also a scene of a cannon firing.AUDIO: A man is speaking about how after World War One, the Ottoman Empire collapsed and British and French empires divided up the Middle East. It ends with some background noise like gunshots or artillery fire.If you want to know more about this topic or have other questions, feel free to ask!"
+          "query": "Visual: The video shows a map of the Middle East with dotted lines indicating boundaries. There's also a picture of a tank on a piece of paper. The map has a vintage look, with faded colors and some text on it. The tank is in grayscale, giving it an old-timey feel. The background seems to be a wooden surface.\n\nAudio: There's a voiceover explaining that after World War I, the Ottoman Empire collapsed and the British and French Empires divided up the Middle East. The voiceover is clear and informative."
         },
         {
           "segment_index": 2,
           "time_range": "74.0s - 80.0s",
-          "query": "VISUAL: There's an old map showing regions labeled \"France\" and \"Britain.\" The map also has \"Palestine\" marked on it with a date range from 1919 to 1948.AUDIO: Someone is speaking about Britain taking control of a region called the British Mandate for Palestine. It seems like there might be some background music playing too.If you want to know more about this or have other questions related to it, feel free to ask!"
+          "query": "Visual: The video shows a map with labels for \"France\", \"Palestine\", and \"Britain\". The map seems to be an old, possibly historical one, with a vintage color scheme. There's no movement or action depicted in the visual part.\n\nAudio: The audio consists of a male voice speaking in English. He says, \"taking control of a region it called the British Mandate for Palestine.\" There's no background music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "80.0s - 86.0s",
-          "query": "VISUAL: The video shows an old map with \"Palestine\" written on it along with some historical posters related to Jewish immigration. There's also a black - and - white photo of a group of people sitting outdoors, possibly in a rural area.AUDIO: A man is speaking about how the British initially allowed Jewish immigration but as more Jews arrived and settled into farming communities, something changed. It seems like he's explaining a historical event or situation.If you want to know more about this topic or have other questions, feel free to ask!"
+          "query": "**Visual:** The video shows an old map with \"Palestine\" written on it, along with some Hebrew text. There's also a black-and-white photo of a group of people sitting outdoors, possibly in a rural setting.\n\n**Audio:** Someone is speaking about Jewish immigration to Palestine from 1919 to 1948, mentioning that initially the British allowed more Jews to immigrate and settle into farming communities."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 460.24075198173523
+      "processing_time": 205.22164034843445
     },
     {
-      "comment_index": 4134,
-      "video_id": "iRYZjOuUnlU",
-      "comment": "I just want to understand one thing in my life, Why Americans and Europeans ignoring this point 0:43 Jews in Europe decided to form a country and chose Palestine as their land, then, millions started immigrating to Palestine like why it's so normal and comprehensible for you. Why !! Jews and Muslims and Christians where living in peace together before Belfour declaration. Joining a religion doesn't mean you have a land where it started.",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 20.0,
-      "comment_timestamp": 43.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "34.0s - 40.0s",
-          "query": "VISUAL: The video shows some old black - and - white photos on a clipboard. There's also a map of Israel - Palestine with a red arrow pointing to a specific area. The map has labels like \"Grand Nefud\" and \"Desert de Syrie.\".AUDIO: A man is speaking about how people in the region were developing a sense of being Palestinians rather than just ethnic Arabs, forming a distinct national identity.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "40.0s - 46.0s",
-          "query": "VISUAL: There's a map showing Israel - Palestine with some labels like \"Palestinian Identity\". Then it shows a poster with a man in formal attire on it. The background has a blue and white design with a Star of David.AUDIO: There's a voiceover saying something about Jews joining a movement called Zionism in Europe at the same time as another event not far away. It also includes some music playing in the background.If you want to talk more about this or have other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "46.0s - 52.0s",
-          "query": "VISUAL: There's a poster on a clipboard. The poster has an image of a man with a beard, wearing formal clothes. It also shows two Star of David symbols and some text in Hebrew. There are maps around the edges of the poster.AUDIO: Someone is speaking about Judaism being more than just a religion, it's a nationality that deserves its own nation. It seems to be a calm, explanatory voice.If you want to know more about this or have other questions, feel free to ask!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 372.1570625305176
-    },
-    {
-      "comment_index": 4133,
-      "video_id": "iRYZjOuUnlU",
-      "comment": "Mini-game: re-watch the video and hit Pause when You think things \"go South\". I guess 1:12 ?",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 22.0,
-      "comment_timestamp": 72.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "63.0s - 69.0s",
-          "query": "VISUAL: There's a graph showing the Jewish population in Palestine from around 1880 to 1910. It has a line going up over time. There's also an image of soldiers with a cannon labeled \"WORLD WAR I\" on it.AUDIO: A man is speaking about tens of thousands of European Jews moving there after World War One. There are some sound effects like explosions in the background.If you want to know more about this or have other questions, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "69.0s - 75.0s",
-          "query": "VISUAL: The video shows an old map with a title that seems to be related to the Ottoman Empire and its provinces. There's also a photo of a tank from World War I on a clipboard. The map has some text and lines marking different regions.AUDIO: Someone is speaking about the collapse of the Ottoman Empire and how British and French empires divided up the Middle East, specifically mentioning that the British took control of Palestine. It sounds like they're explaining historical events.If you want to know more about this or have other questions, feel free to ask!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "75.0s - 81.0s",
-          "query": "VISUAL: The video shows an old map with \"France\" and \"Britain\" labeled on it. Then it zooms into a section marked \"Palestine\" from 1919 to 1948. There's also some text about Jews rebuilding Palestine. AUDIO: A man is speaking over background music. He mentions something about Britain calling a region the British Mandate for Palestine at first. What do you think about that?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 434.7190706729889
-    },
-    {
-      "comment_index": 4131,
+      "comment_index": 2709,
       "video_id": "iRYZjOuUnlU",
       "comment": "For those who's come to the comments not for insulting, but for the music title at 2:40... it is \"People\" from \"Laurent Duty\".",
       "language": "en",
@@ -380,54 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "151.0s - 157.0s",
-          "query": "VISUAL: The video shows black - and - white footage from the Arab - Israeli War, 1948 - 1949. There's an image of soldiers on a tank, then a group of men in military uniforms marching together. After that, there's a scene with a man riding a horse in front of a building.AUDIO: A male voice is speaking about the independence declaring war on Israel to establish a unified Arab Palestine.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows black-and-white images of soldiers marching with rifles. There's also a scene with a group of men in military uniforms standing together.\n\n**Audio:** No distinct audio is heard apart from some background noise that might be related to the historical context of the Arab-Israeli War."
         },
         {
           "segment_index": 2,
           "time_range": "157.0s - 163.0s",
-          "query": "VISUAL: The video shows black - and - white images related to the Arab - Israeli War from 1948 - 1949. There's a photo of soldiers with guns, another of a man speaking at a podium, and some scenes of destruction like rubble and damaged buildings.AUDIO: There is no clear speech or dialogue in the audio. Just background music playing throughout the 6 seconds."
+          "query": "Visual: The video shows a black and white image of a man in a suit standing at a podium, speaking into a microphone. There are people seated in the background, and the setting appears to be a formal event or conference. The image has a vintage, aged look with a brown border around it. The text \"ARAB-ISRAELI WAR 1948-1949\" is displayed below the image.\n\nAudio: There is background music playing throughout the video."
         },
         {
           "segment_index": 3,
           "time_range": "163.0s - 169.0s",
-          "query": "VISUAL: The video shows an old photo with soldiers in a trench or dugout. There's also a map highlighting Israel and its neighboring countries like Egypt, Syria, Iraq, and Saudi Arabia. The map has different colors for various regions.AUDIO: A man is speaking about how the State of Israel won the war but pushed past their borders under the UN plan.If you want to know more about this topic or have other questions, feel free to ask!"
+          "query": "**Visual:** The video shows a map of the Middle East with Israel highlighted in green. There's also a black and white photo of soldiers in a trench, possibly from the Arab-Israeli War. The map includes labels for countries like Syria, Iraq, and Egypt. The overall color scheme is muted, with earthy tones and a sepia-like tint.\n\n**Audio:** The audio features a voiceover discussing the outcome of the Arab-Israeli War, mentioning that Israel won but expanded beyond the UN plan. The tone is informative and somewhat neutral."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 402.5752296447754
+      "processing_time": 252.9810333251953
     },
     {
-      "comment_index": 4136,
-      "video_id": "iRYZjOuUnlU",
-      "comment": "1:46 America is for a jewish Palestine  And now they are saying nothing was ever called Palestine",
-      "language": "en",
-      "channel_name": "Vox",
-      "category": "documentary",
-      "likes": 17.0,
-      "comment_timestamp": 106.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "97.0s - 103.0s",
-          "query": "VISUAL: The video shows some old photos and documents on a wooden surface. There's a photo of soldiers standing in formation, another with a person holding a rifle, and one that says \"Holocaust\" at the bottom. It also has an image of a group of people being led away by soldiers.AUDIO: There is a man speaking about the local Arabs resisting British rule and then mentioning the Holocaust. No other sounds like music or sound effects are heard.If you want to talk more about this video or have any other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "103.0s - 109.0s",
-          "query": "VISUAL: The video shows a large crowd gathered at an event. There's a banner that says \"AMERICAS FOR A JEWISH PALESTINE.\" People seem to be waving flags or banners. It looks like some kind of rally or demonstration.AUDIO: There is a man speaking about Jews fleeing Europe for British Palestine and how it's gaining support around the world for a Jewish state.If you want to talk more about this or have other questions related to it, feel free to let me know."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "109.0s - 115.0s",
-          "query": "VISUAL: There's a large crowd gathered in an arena or stadium - it looks like some kind of event is taking place. Then there's a newspaper clipping on a clipboard with bold text about a campaign to decide the destiny of a whole people.AUDIO: A man is speaking over background music. He mentions something about 1947, sectarian violence between Jews and Arabs, and the United Nations. It seems like he's explaining historical events related to that time period.If you want to know more about this topic or have other questions, feel free to ask!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 584.5196647644043
-    },
-    {
-      "comment_index": 4132,
+      "comment_index": 2710,
       "video_id": "iRYZjOuUnlU",
       "comment": "3:43 remember that israel always wanted parts from other countries. Shout out to all people who said that israel existed since first day and wanted peace with other countries. 😂😂",
       "language": "en",
@@ -440,54 +289,114 @@
         {
           "segment_index": 1,
           "time_range": "214.0s - 220.0s",
-          "query": "VISUAL: The video shows a map highlighting Israel and its neighboring regions like Syria and Jordan. There's also an image with the words \"SIX-DAY WAR\" on it. It seems to be showing territorial changes related to the war.AUDIO: There is some kind of narration or explanation about the Six - Day War, mentioning that Israel had seized certain territories from Syria and Jordan when the war ended.If you want to know more about the Six - Day War or have any other questions, feel free to ask!"
+          "query": "Visual: The video shows a map highlighting the Golan Heights region between Syria and Israel. There's an arrow pointing from Syria towards the Golan Heights area.\n\nAudio: A male voice speaks about how Israel had seized the Golan Heights from Syria during the Six-Day War."
         },
         {
           "segment_index": 2,
           "time_range": "220.0s - 226.0s",
-          "query": "VISUAL: The video shows a map highlighting various regions like Golan Heights, West Bank, Jordan, Sinai, Gaza, and Egypt. There's also an Israeli flag symbol on the left side of the map.AUDIO: Someone is speaking about Israel occupying Palestinian territories from Jordan, Gaza, and the Sinai Peninsula from Egypt. It seems to be a narration or explanation related to the map shown.What do you think about the situation it describes?"
+          "query": "Visually, there's an animated map showing geographical regions like Golan Heights, Syria, West Bank, Jordan, Sinai & Gaza, and Egypt. The map uses different colors to distinguish these areas. There are also blue circles with Star of David symbols on them.\n\nIn terms of audio, it seems like someone is speaking about Israel occupying Palestinian territories during that time period."
         },
         {
           "segment_index": 3,
           "time_range": "226.0s - 232.0s",
-          "query": "VISUAL: There's a map showing Israel and its neighboring regions like Sinai and Gaza, Golan Heights, West Bank, Jordan, Egypt, Lebanon, Syria, and Saudi Arabia. The map is mainly black with some white areas for land and blue for water. There's also a blue circle with a Star of David on it over Israel.AUDIO: Someone is speaking about territories including all of Jerusalem and its holy sites, leaving Israel responsible for governing the Palestinian territories. It seems to be an explanatory voiceover. So, what do you think about this situation?"
+          "query": "Visually, the video shows a map highlighting Israel, the West Bank, Jordan, Sinai, Gaza, and Egypt. There are labels for these regions. The map is simple, with a blue color for Israel and its surrounding areas. The audio is a male voice speaking in English. He says, \"territories including all of Jerusalem and its holy sites this left Israel responsible for governing the Palestinian.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 478.43104338645935
+      "processing_time": 171.2881510257721
     },
     {
-      "comment_index": 4135,
+      "comment_index": 2711,
       "video_id": "iRYZjOuUnlU",
-      "comment": "4:58 Seeing there being a newscaster called Frank Reynolds in the 70s/80s only gives me Always Sunny vibes",
+      "comment": "Mini-game: re-watch the video and hit Pause when You think things \"go South\". I guess 1:12 ?",
       "language": "en",
       "channel_name": "Vox",
       "category": "documentary",
-      "likes": 19.0,
-      "comment_timestamp": 298.0,
+      "likes": 22.0,
+      "comment_timestamp": 72.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "289.0s - 295.0s",
-          "query": "VISUAL: There's a group of people on rocks holding guns up in the air. They're wearing head coverings and military - like clothing. The background looks like an outdoor rocky area with some greenery. Then it cuts to a poster showing a person in silhouette holding a gun against a yellow background. There's Arabic writing at the bottom and \"1981\" and \"1970\" written above the figure.AUDIO: A man is speaking about ending the State of Israel entirely and fighting between Israel and the PLO going on for years. It seems like he's talking about historical events related to the Middle East conflict.If you have any other thoughts or questions about this video, feel free to share!"
+          "time_range": "63.0s - 69.0s",
+          "query": "Visual: The video shows a graph titled \"Jewish population in Palestine\" with a line chart depicting population growth over time from 1880 to 1910. The background includes some historical images, like a map and a picture of soldiers with a cannon. There's also a Star of David symbol on the graph.\n\nAudio: The audio features a voiceover saying, \"tens of thousands of European Jews moved there after World War one.\""
         },
         {
           "segment_index": 2,
-          "time_range": "295.0s - 301.0s",
-          "query": "VISUAL: There's a poster with a map showing Israel and Lebanon. It has some Arabic writing at the bottom. Then there's a TV screen showing Frank Reynolds from Washington reporting on an Israeli raid in Lebanon.AUDIO: The audio is just the man speaking about the 1982 Israeli invasion of Lebanon and how it affected the group's ceasefire in southern Lebanon.If you want to talk more about this or have other questions, feel free to let me know."
+          "time_range": "69.0s - 75.0s",
+          "query": "Visual: The video shows a map of the Middle East. There are dotted lines on the map, possibly indicating boundaries or routes. The map has a vintage look, with muted colors like beige and brown. There's also a picture of a cannon on a piece of paper attached to the map, with the text \"WORLD WAR I\" and the years \"1914 - 1918\" written below it. The background seems to be a wooden surface.\n\nAudio: A male voice is speaking. He says, \"The Ottoman Empire collapsed and British and French empires carved up the Middle East, the British taking control of.\""
         },
         {
           "segment_index": 3,
-          "time_range": "301.0s - 307.0s",
-          "query": "VISUAL: There's an old news broadcast on TV. A man in a suit is talking about something. In the background, there's a map with \"ISRAELI RAID\" written on it. The date \"APRIL 21, 1982\" is also shown.AUDIO: Someone is speaking, saying that Lebanon was shattered today by the sound of guns, bombs, and planes. Then they mention that the PLO later said something. It seems like a serious news report. So, what do you think about this event?"
+          "time_range": "75.0s - 81.0s",
+          "query": "Visually, there's a map showing France, Britain, and Palestine. The map seems to be an old one with some faded colors. There are labels for these regions clearly marked.\n\nAudio-wise, it starts with some background noise that could be from a device or machinery. Then, someone begins speaking about Palestine."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 542.2487576007843
+      "processing_time": 267.2592031955719
     },
     {
-      "comment_index": 4137,
+      "comment_index": 2712,
+      "video_id": "iRYZjOuUnlU",
+      "comment": "I just want to understand one thing in my life, Why Americans and Europeans ignoring this point 0:43 Jews in Europe decided to form a country and chose Palestine as their land, then, millions started immigrating to Palestine like why it's so normal and comprehensible for you. Why !! Jews and Muslims and Christians where living in peace together before Belfour declaration. Joining a religion doesn't mean you have a land where it started.",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 20.0,
+      "comment_timestamp": 43.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "34.0s - 40.0s",
+          "query": "Sure! So, visually, there's an old map showing Israel-Palestine with a red arrow pointing to it. There are also some black-and-white photos on top of the map, one of which shows two people standing together.On the audio side, someone is speaking about Palestinians developing a distinct national identity.Anything else you want to know?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "40.0s - 46.0s",
+          "query": "**Visual:** The video shows a map initially, with various geographical features like landmasses and water bodies. It then transitions to a portrait of a man in a suit, standing against a background with a blue and white design, possibly a flag. There are also some text elements on the map and portrait, but they are not clearly readable.\n\n**Audio:** The audio includes a musical piece playing in the background. There are no spoken words or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "46.0s - 52.0s",
+          "query": "Visually, there's a poster on a wooden surface. The poster has a portrait of a man in a suit, with a beard. There are some Hebrew words and symbols, like a Star of David, on the poster. The background of the poster has a map-like design with blue and white colors. There's also some text at the bottom of the poster, but it's not fully clear from the image.Audibly, there's a male voice speaking. The speech is in English and seems to be about Judaism, mentioning that it's not just a religion but also a nationality that deserves its own nation."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 242.8714120388031
+    },
+    {
+      "comment_index": 2713,
+      "video_id": "iRYZjOuUnlU",
+      "comment": "1:46 America is for a jewish Palestine  And now they are saying nothing was ever called Palestine",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 17.0,
+      "comment_timestamp": 106.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "97.0s - 103.0s",
+          "query": "Visual: The video shows a collage of black-and-white photos on a wooden surface. There are images of soldiers standing in lines, a man holding a rifle, and a group of people walking together. One photo has \"HOLOCAUST\" written below it.\n\nAudio: A voice is speaking about Arabs resisting British rule and then mentioning the Holocaust."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "103.0s - 109.0s",
+          "query": "Well, in the video, visually, there are a lot of people gathered. They seem to be in a public place, maybe a square or a park. There are trees in the background, and some of the people are waving their hands. It looks like they're all facing towards something or someone. The colors are mostly muted, like it's an old black and white photo.As for the audio, there's a man speaking. He's talking about Jews fleeing Europe for British Palestine and how it's getting a lot of support around the world. It's a pretty serious topic, and his voice sounds a bit urgent. There's no music or sound effects, just his speech and the ambient noise of the crowd. It's kind of like a historical documentary moment. So, what do you think about this? Do you have any other questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "109.0s - 115.0s",
+          "query": "Visually, there's a piece of paper with text on it. The text says \"This is a campaign to decide the DESTINY of a whole people!\" and there's a hand holding the paper. The background seems to be a wooden surface. The paper looks a bit worn, and the text is in bold, black letters. The hand is steady, just holding the paper in place. There's also a small part of a logo or something in the top right corner of the frame, but it's not clear what it is. The overall color scheme is muted, with browns and beiges from the paper and wood. There's no movement in the video, it's just a still shot of this paper and hand.Audibly, there's a voiceover saying \"in 1947 as sectarian violence between Jews and Arabs there grew the United\". The voice is calm and measured, and the words are clear and distinct. There are no other sounds in the audio, just this one person speaking."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 216.65048837661743
+    },
+    {
+      "comment_index": 2714,
       "video_id": "iRYZjOuUnlU",
       "comment": "For context at 1:58 : The U.N. general assembly voted to recommend a two state solution to the U.N. security council. The U.N. security council never actually voted to adopt this proposal.On may 14, 1948, Israel declared itself independent. The U.N. did not authorize this, and it was done against the will of the vast majority of native Palestinians living there. Sources: 'The impact of Israels founding myths on the prospects for a two-state solution' by Andrew J Winnick. Sir Elihu Lauterpacht, Judge Ad Hoc of the International Court of Justice: \"The coming into existence of Israel does not depend legally upon the Resolution. The right of the state to exist flows from its factual existence.\"",
       "language": "en",
@@ -500,24 +409,24 @@
         {
           "segment_index": 1,
           "time_range": "109.0s - 115.0s",
-          "query": "VISUAL: There's a large crowd gathered in an arena or stadium - it looks like some kind of event is taking place. Then there's a newspaper clipping on a clipboard with bold text about a campaign to decide the destiny of a whole people.AUDIO: A man is speaking over background music. He mentions something about 1947, sectarian violence between Jews and Arabs, and the United Nations. It seems like he's explaining historical events related to that time period.If you want to know more about this topic or have other questions, feel free to ask!"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.64 GiB. GPU 1 has a total capacity of 23.56 GiB of which 1.61 GiB is free. Including non-PyTorch memory, this process has 21.94 GiB memory in use. Of the allocated memory 17.06 GiB is allocated by PyTorch, and 4.57 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 2,
           "time_range": "115.0s - 121.0s",
-          "query": "VISUAL: There's a map showing the UN proposal for dividing British Palestine into two states - one for Jews, Israel, and another for Arabs. The map is on a wooden background with some papers clipped to it. One paper says \"This is a campaign to decide the destiny of a whole people.\" There's also a smaller map next to it showing the proposed division more clearly.AUDIO: A man speaks about the United Nations approving a plan to divide British Palestine into two separate states, one for Jews, Israel, and another for Arabs. It's just his voice talking without any other sounds or music. So, what do you think about this historical event?"
+          "query": "**Visual:** The video shows a map of Palestine divided into two parts, one marked for a Jewish state and the other for Arabs. There are also some text elements, like \"UN PROPOSAL 1947\" and \"DESTINY OF A WHOLE PEOPLE.\" The map is detailed, showing geographical features and boundaries.\n\n**Audio:** A man is speaking, likely narrating or explaining the content of the video. The speech is clear and informative, providing context to the visuals."
         },
         {
           "segment_index": 3,
           "time_range": "121.0s - 127.0s",
-          "query": "VISUAL: The video shows a map with different regions labeled. There's a blue area marked \"Jewish state\" for Israel, a green area for an \"Arab state\" which is Palestine, and a red heart - shaped area labeled \"International\" for Jerusalem.AUDIO: Someone is speaking about the division into Jewish and Arab states, mentioning Palestine and Jerusalem where Jews, Muslims, and Christians have holy sites. It seems to be explaining something related to historical or political divisions. So, what do you think about this? Do you want to discuss more on this topic?"
+          "query": "**Visual:** The video shows a map highlighting different regions with labels such as \"Jewish state\" for Israel, \"Arab state\" for Palestine, and mentions Jerusalem as an international city. The map uses distinct colors to differentiate these areas.\n\n**Audio:** There is no audible speech or sound effect in this segment; it's purely visual content without any accompanying audio."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 579.9240369796753
+      "processing_time": 211.3361999988556
     },
     {
-      "comment_index": 4138,
+      "comment_index": 2715,
       "video_id": "iRYZjOuUnlU",
       "comment": "0:07 what was the picture 🖼️? Context? Who drew ? What is that picture Can anybody tell me",
       "language": "en",
@@ -530,24 +439,24 @@
         {
           "segment_index": 1,
           "time_range": "0.0s - 4.0s",
-          "query": "VISUAL: The video shows a library setting with bookshelves filled with books in the background. In the foreground, there's a table with maps and paintings laid out on it. The camera zooms in closer to these items.AUDIO: There is a voiceover speaking about a myth regarding the Israel - Palestine conflict, specifically mentioning that it has been going on for centuries and is related to ancient times.If you want to talk more about this topic or have other questions, feel free to let me know!"
+          "query": "Visually, the video shows a library scene. There are bookshelves filled with books in the background. In the foreground, there are some books and a map on the floor. The books on the shelves are mostly brown and beige in color. The map on the floor has different colors like green, brown, and blue. There are no people or any actions happening in the video. The overall scene is quite still and quiet."
         },
         {
           "segment_index": 2,
           "time_range": "4.0s - 10.0s",
-          "query": "VISUAL: The video shows various images like paintings with religious figures, a black - and - white drawing of people in robes, and a map of Palestine. There's also an image of a cityscape. The colors are mostly muted, earthy tones.AUDIO: A man is speaking about religious hatreds and conflicts between groups of people who claim to be God's chosen ones. It seems to be a serious discussion.If you want to talk more about this or have other questions, feel free to let me know."
+          "query": "Well, in the visual part, it seems like there are some old paintings or drawings. There are figures in robes, and one of them is holding a staff. The colors are mostly muted, like browns and beiges. And there's a bit of movement, like the figures seem to be in different poses or positions. In the audio part, there's a man speaking. He's talking about ancient religious hatreds and how religion is involved in conflicts. It's a pretty serious topic. So, what do you think about this? Do you have any other questions?"
         },
         {
           "segment_index": 3,
           "time_range": "10.0s - 16.0s",
-          "query": "VISUAL: The video shows an old map with \"Palestine\" written on it. There's also a world map that appears later. The maps have different styles and details. The background seems to be a bit faded, giving it an aged look.AUDIO: Someone is speaking about how both groups claim the same land going back about a century to the early 1900s. It's just speech without any other sound effects or music. So, what do you think about this? Do you want to discuss more about the historical context?"
+          "query": "Well, in the visual part, it seems like there's a map or some kind of geographical image. It has different colors and lines, probably showing different regions or boundaries. There are also some numbers and text on it, like \"2016\" and \"2016\". And there's a bit of a landscape in the background, maybe mountains or hills.In the audio part, there's just a man speaking. He's talking about two groups of people claiming the same land, and he mentions that it goes back about a century to the early 1900s. So, it seems like he's discussing a historical or political issue related to land disputes. What do you think about this? Do you have any other questions?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 470.8715965747833
+      "processing_time": 254.1224012374878
     },
     {
-      "comment_index": 4140,
+      "comment_index": 2716,
       "video_id": "iRYZjOuUnlU",
       "comment": "8:20 \"Israelis become much more skeptical that Palestinians will ever accept peace  OCCUPATION\"",
       "language": "en",
@@ -560,24 +469,24 @@
         {
           "segment_index": 1,
           "time_range": "491.0s - 497.0s",
-          "query": "VISUAL: There's a graph on a screen showing \"Israel Palestine Conflict Deaths\" from 2000 to 2005. The graph has two lines, one for Israeli deaths and one for Palestinian deaths. People can be seen walking around in front of the screen.AUDIO: A man is speaking about the number of Israeli and Palestinian deaths during the conflict. He mentions that by the time it wound down a few years later, about a thousand Israelis and 3200 Palestinians had died.If you have any other thoughts or questions about this, feel free to share!"
+          "query": "Visually, there's a graph on a screen. It shows data related to \"ISRAELI-PALESTINIAN CONFLICT DEATHS\" over time, from around 2000 to 2005. The graph has two lines, one in blue and one in green, representing different categories of deaths. The background is a bit blurry, but it seems to be an indoor setting, possibly an office or a meeting room. There are some papers or documents on the table in front of the screen, but they're not clearly visible.Audibly, there's a male voice speaking. He's talking about the number of Israeli and Palestinian deaths in the conflict, mentioning around a thousand Israelis and 3,200 Palestinians. The tone seems to be informative, likely part of a presentation or discussion."
         },
         {
           "segment_index": 2,
           "time_range": "497.0s - 503.0s",
-          "query": "VISUAL: The video shows a graph titled \"Israel Palestine Conflict Deaths\" from 2000 to 2005. It has two lines representing Israeli deaths and Palestinian deaths. Then there's an image of soldiers with smoke in the background, followed by a scene of people around a damaged bus. There's also a mural of a man's face on a wall.AUDIO: A male voice is speaking about how the Second Intifada changed the conflict, making Israelis more suspicious. He mentions that it was a significant event.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.31 GiB. GPU 1 has a total capacity of 23.56 GiB of which 2.39 GiB is free. Including non-PyTorch memory, this process has 21.16 GiB memory in use. Of the allocated memory 16.60 GiB is allocated by PyTorch, and 4.25 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 3,
           "time_range": "503.0s - 509.0s",
-          "query": "VISUAL: The video shows an aerial view of a chaotic scene with debris scattered around, people standing or walking among it. There's also a map of Israel and Gaza on a wall, with some pictures of soldiers and protests. The colors are mostly muted, with the debris being various shades of brown and gray, and the map is blue and green.AUDIO: A man is speaking about Palestinians' skepticism towards peace and how Israeli politics are shifting to the right. It seems like he's explaining something serious. So, what do you think about this situation? Do you have any thoughts on the political shifts mentioned?"
+          "query": "I'm sorry, but I can't analyze the video segment you've described. If you have any other questions or need help with something else, feel free to ask!"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 672.2845191955566
+      "processing_time": 271.4881157875061
     },
     {
-      "comment_index": 4139,
+      "comment_index": 2717,
       "video_id": "iRYZjOuUnlU",
       "comment": "What's time title of the piano pice in this video that starts from 2:15-3:49",
       "language": "en",
@@ -590,21 +499,111 @@
         {
           "segment_index": 1,
           "time_range": "220.0s - 226.0s",
-          "query": "VISUAL: The video shows a map highlighting various regions like Golan Heights, West Bank, Jordan, Sinai, Gaza, and Egypt. There's also an Israeli flag symbol on the left side of the map.AUDIO: Someone is speaking about Israel occupying Palestinian territories from Jordan, Gaza, and the Sinai Peninsula from Egypt. It seems to be a narration or explanation related to the map shown.What do you think about the situation it describes?"
+          "query": "Visually, there's an animated map showing geographical regions like Golan Heights, Syria, West Bank, Jordan, Sinai & Gaza, and Egypt. The map uses different colors to distinguish these areas. There are also blue circles with Star of David symbols on them.\n\nIn terms of audio, it seems like someone is speaking about Israel occupying Palestinian territories during that time period."
         },
         {
           "segment_index": 2,
           "time_range": "226.0s - 232.0s",
-          "query": "VISUAL: There's a map showing Israel and its neighboring regions like Sinai and Gaza, Golan Heights, West Bank, Jordan, Egypt, Lebanon, Syria, and Saudi Arabia. The map is mainly black with some white areas for land and blue for water. There's also a blue circle with a Star of David on it over Israel.AUDIO: Someone is speaking about territories including all of Jerusalem and its holy sites, leaving Israel responsible for governing the Palestinian territories. It seems to be an explanatory voiceover. So, what do you think about this situation?"
+          "query": "Visually, the video shows a map highlighting Israel, the West Bank, Jordan, Sinai, Gaza, and Egypt. There are labels for these regions. The map is simple, with a blue color for Israel and its surrounding areas. The audio is a male voice speaking in English. He says, \"territories including all of Jerusalem and its holy sites this left Israel responsible for governing the Palestinian.\""
         },
         {
           "segment_index": 3,
           "time_range": "232.0s - 238.0s",
-          "query": "VISUAL: The video shows a map highlighting Israel's geographical location with labels like Sinai and Gaza, Golan Heights, West Bank, Jordan, and Syria. There's also an image of three men shaking hands on the left side of the frame.AUDIO: A man is speaking about the Camp David Accords signed between Israel and Egypt in 1978. He mentions that it was a significant event for the Palestinians who had fought for decades."
+          "query": "Visual: The video shows a map highlighting Israel, the Sinai Peninsula, Gaza, the Golan Heights, Syria, and Jordan. There are also some text labels on the map indicating these regions. The map is set against a dark background, and there's a blue star of David symbol on the map, representing Israel. The map seems to be part of a larger presentation or document, as there are other elements like a photo of people and some text in the background.\n\nAudio: The audio includes a male voice speaking in English. The speech is about a historical event involving Israel and Egypt in 1978. The tone of the voice is informative and seems to be explaining something related to the map shown."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 511.13595724105835
+      "processing_time": 213.2854404449463
+    },
+    {
+      "comment_index": 2718,
+      "video_id": "iRYZjOuUnlU",
+      "comment": "7:27 is that nuclear nadal from the dictator oh sorry I mean From the Republic Of Wadiya lol.",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 12.0,
+      "comment_timestamp": 447.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "438.0s - 444.0s",
+          "query": "**Visual:** The video shows a map with the title \"OSLO ACCORDS\" at the top. The map is divided into three areas labeled A, B, and C. Area A is marked in green and labeled \"Palestinian civil and security self-rule.\" Area B is also green and labeled \"Palestinian civil government, Israeli security control.\" Area C is blue and labeled \"Israeli controls security and almost all governance.\" The map has a wooden border on the left side.\n\n**Audio:** There is a voiceover in English. The speaker mentions that \"hardliners on both sides oppose the Oslo Accords\" and that \"members of Hamas launched suicide bombings.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "444.0s - 450.0s",
+          "query": "Visual: The video shows a collage of images. There are pictures of flags, including one that looks like the Palestinian flag, and a person wearing a checkered headscarf. There are also images of people protesting, holding signs and shouting. The overall color scheme is muted, with a lot of earthy tones.\n\nAudio: The audio contains a man speaking. He seems to be addressing a group, possibly protesters, and is saying something about trying to sabotage the process of Israeli right protests and peace talks."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "450.0s - 456.0s",
+          "query": "Well, in the visual part, it looks like there's a crowd of people. They seem to be gathered in some kind of public space, maybe a square or a street. There are banners and signs, but it's hard to make out the exact words on them. The crowd is moving around, some people are talking to each other, and there's a general sense of activity. The colors are mostly muted, with a lot of earthy tones like browns and beiges. There's also a bit of green from some plants or trees in the background.In the audio part, there's a man speaking. He's talking about Yitzhak Rabin, calling him a traitor and a Nazi. The tone of his voice is quite harsh and accusatory. There's also some background music, but it's not very loud and doesn't really stand out.What do you think about this? Do you have any other questions about the video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 273.114488363266
+    },
+    {
+      "comment_index": 2719,
+      "video_id": "iRYZjOuUnlU",
+      "comment": "yall mislabeled the chart at 8:16",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 10.0,
+      "comment_timestamp": 496.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "487.0s - 493.0s",
+          "query": "I'm sorry, I can't analyze videos directly. But if you describe the content to me, I'd be happy to help!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "493.0s - 499.0s",
+          "query": "Visually, the video shows a graph titled \"ISRAEL PALESTINE CONFLICT DEATHS\" with two lines representing Israeli and Palestinian deaths over time from 2000 to 2005. The lines fluctuate, showing peaks and troughs in the number of deaths. The background is a plain wall, and the graph is displayed on a screen or board.\n\nIn terms of audio, there is a male voice speaking in English. He says, \"About a thousand Israelis and 3,200 Palestinians had died.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "499.0s - 505.0s",
+          "query": "I'm sorry, I can't analyze videos directly. But if you describe the video to me, I'd be happy to help! What do you see?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 208.2277331352234
+    },
+    {
+      "comment_index": 2720,
+      "video_id": "iRYZjOuUnlU",
+      "comment": "9:55 \"... things as they are can't last much longer, Israel's occupation of the Palestinians is too unstable to last and that unless something dramatic changes whatever comes next will be much worse.\" Spot on albeit 7 years later.",
+      "language": "en",
+      "channel_name": "Vox",
+      "category": "documentary",
+      "likes": 10.0,
+      "comment_timestamp": 595.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "586.0s - 592.0s",
+          "query": "I'm sorry, I can't analyze that video for you because it's not available to me at the moment. If you could describe the video or share more details about it, I'd be happy to help!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "592.0s - 598.0s",
+          "query": "I'm sorry, I can't analyze videos directly. But if you describe the content to me, I'd be happy to help!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "598.0s - 604.0s",
+          "query": "**Visual:** The video shows a military scene with soldiers in combat gear. There are tanks and soldiers holding weapons. Israeli flags are visible, suggesting a military operation in Israel. The background includes rocky terrain and some buildings. The soldiers appear to be in a combat or training situation.\n\n**Audio:** The audio contains a man speaking, but the content of his speech is not clear from the provided information. There are no distinct sound effects or music."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 183.20450949668884
     }
   ]
 }

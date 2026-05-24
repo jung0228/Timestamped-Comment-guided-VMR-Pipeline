@@ -2,71 +2,41 @@
   "video_id": "zQGOcOUBi6s",
   "total_comments": 20,
   "successful_comments": 20,
-  "failed_comments": 14,
+  "failed_comments": 0,
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 4443,
+      "comment_index": 5771,
       "video_id": "zQGOcOUBi6s",
-      "comment": "1:11 I refuse to believe that a Level 4 Rusty Nail, with one move, even if it is \"VERY EFFEKTIVE\", can take 2/3 of the HP of a Level 28 Skin Cell. It would be believeable with a Level 24 Rusty Nail, but not Level 4.",
+      "comment": "1:15 Pokémon battle!",
       "language": "en",
       "channel_name": "Kurzgesagt",
       "category": "knowledge",
-      "likes": 166.0,
-      "comment_timestamp": 71.0,
+      "likes": 526.0,
+      "comment_timestamp": 75.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "62.0s - 68.0s",
-          "query": "VISUAL: The video shows an illustration of the human immune system with lines connecting different colored circles representing various components. Then it transitions to a space scene with a globe at the center surrounded by icons like a microscope, a ship, a chicken, etc.AUDIO: There's some speech about infections, followed by music playing in the background."
+          "time_range": "66.0s - 72.0s",
+          "query": "Visually, there are several circular icons arranged in a circular pattern around a central globe-like object. The icons depict different items like a bottle, a rocket, a bird, and others. The background is dark, resembling space, with small white dots scattered around, possibly representing stars. There's also a small white light on the left side of the screen. The overall color scheme includes blues, greens, and whites, with some black and gray elements. The movement is mainly the rotation of the circular icons around the central globe-like object.Audibly, there is music playing throughout the 6 seconds. The music seems to be instrumental, possibly with a light, possibly upbeat or whimsical tone. There are no speech or sound effects present."
         },
         {
           "segment_index": 2,
-          "time_range": "68.0s - 74.0s",
-          "query": "VISUAL: There's an animated scene with various icons around a central globe-like shape. The icons seem to represent different things like a satellite dish, a microscope, a penguin, a ship, and some other objects. They're all on white circles against a dark background with stars. The word \"kurzgesagt\" appears over the globe.AUDIO: There's music playing throughout the whole time. Then there's a male voice saying \"it's a beautiful day.\" What do you think about it?"
+          "time_range": "72.0s - 78.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.78 GiB. GPU 1 has a total capacity of 23.56 GiB of which 1.30 GiB is free. Including non-PyTorch memory, this process has 22.25 GiB memory in use. Of the allocated memory 17.24 GiB is allocated by PyTorch, and 4.70 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 3,
-          "time_range": "74.0s - 80.0s",
-          "query": "VISUAL: There's an image of a rusty nail on one side and skin on the other. Text shows \"A wild RUSTY NAIL appeared!\" and then \"RUSTY NAIL used BEING SUPER SHARP!\". The nail is shown stabbing into the skin area.AUDIO: A man speaks over some background music. He says something about a rusty nail appearing and cutting oneself, mentioning the first barrier of the immune system.If you have any thoughts or questions about this analysis, feel free to share!"
+          "time_range": "78.0s - 84.0s",
+          "query": "Visually, the video shows a diagram comparing a rusty nail and skin. The nail has a low HP bar, while the skin has a higher HP bar. There's also a red wavy line and some green dots. The text \"RUSTY NAIL used BEING SUPER SHARP!\" is displayed. The background is light-colored.\n\nAudibly, there's a man speaking. He says, \"The first barrier of the immune system is breached your skin.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 242.0270426273346
+      "processing_time": 352.9823417663574
     },
     {
-      "comment_index": 4442,
-      "video_id": "zQGOcOUBi6s",
-      "comment": "4:03 did they just have sex during war?          spicy",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 174.0,
-      "comment_timestamp": 243.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "234.0s - 240.0s",
-          "query": "VISUAL: The video shows blue circles moving around on a green background with some irregular shapes that look like leaves or petals. There's also a purple circle among them.AUDIO: Someone is speaking about groups traveling to the center of a lymph node to activate a powerful weapon factory. It seems like an explanation or narration related to some kind of process or mechanism.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "240.0s - 246.0s",
-          "query": "VISUAL: There's a blue circle labeled \"VIRGIN B CELL\" on a green background. A yellow circle moves towards it. Then, the blue circle changes to say \"B CELL\" and a white circle appears around it.AUDIO: Someone is speaking about B cells and T cells having a specific setup when born. It seems like they're explaining something related to biology or immunology.If you have any other thoughts or questions about this, feel free to share!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "246.0s - 252.0s",
-          "query": "VISUAL: The video shows blue circles with yellow outlines on a green background. These circles start appearing one after another, moving around and overlapping. There's no clear scene or setting other than just these shapes.AUDIO: A male voice is speaking throughout the video. He says \"set up meat hell breaks loose the B cell duplicates rapidly and starts producing millions of little\". It seems like he might be explaining something related to biology or medicine.If you have any thoughts about this or want to discuss more, feel free to let me know."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 249.47410821914673
-    },
-    {
-      "comment_index": 4441,
+      "comment_index": 5772,
       "video_id": "zQGOcOUBi6s",
       "comment": "5:52 \"For Aiur!\"... I lost my shit xD",
       "language": "en",
@@ -79,24 +49,84 @@
         {
           "segment_index": 1,
           "time_range": "343.0s - 349.0s",
-          "query": "VISUAL: There are several red circles with yellow outlines scattered across a teal background. The circles seem to be moving around slightly.AUDIO: A man is speaking over some music. He says \"Infection is wiped out at this point millions of body cells have already died no big deal.\" What do you think about that? Do you have any other thoughts on the video?"
+          "query": "**Visual:** The video shows an abstract pattern with red and yellow circles on a teal background. The circles vary in size and seem to be moving or pulsating slightly.\n\n**Audio:** There is no discernible speech or music in the audio portion of the video. It's mostly silent."
         },
         {
           "segment_index": 2,
           "time_range": "349.0s - 355.0s",
-          "query": "VISUAL: There are red and yellow circles on a teal background. The circles seem to be moving around. Some have text bubbles with phrases like \"I'll miss you!\" and \"Killing stuff was the best part.\".AUDIO: A man is speaking over some music. He says things like \"The losses are quickly replenished\" and \"Most immune cells are now useless.\" It seems like he's talking about something related to health or biology.If you want to talk more about this video or anything else, feel free to let me know!"
+          "query": "Visually, the video shows a teal background with various red and yellow circles of different sizes scattered across it. Some of the circles have text inside them, like \"Killing off the best part\" and \"If you're in a bad mood.\" The circles seem to be moving slightly, giving a sense of gentle motion. There are no people or other objects in the video, just these circles and the text.Audibly, there's a male voice speaking in English. The speech is clear and seems to be part of a conversation or narration. The tone is neutral, not overly emotional. There are no other sound effects or music in the audio."
         },
         {
           "segment_index": 3,
           "time_range": "355.0s - 361.0s",
-          "query": "VISUAL: The video shows circles of different sizes and colors moving around on a light background. Some circles are red with yellow outlines, while others are gray. There's also a purple circle labeled \"MEMORY HELPER T CELL\" and another larger blue one labeled \"MEMORY B CELL.\" AUDIO: A man is speaking about cells committing suicide to save resources, but some stay behind. He uses a calm tone. What do you think about that? Do you have any other questions related to it?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.84 GiB is free. Including non-PyTorch memory, this process has 15.71 GiB memory in use. Of the allocated memory 13.61 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 170.3853623867035
+      "processing_time": 179.1723930835724
     },
     {
-      "comment_index": 4444,
+      "comment_index": 5773,
+      "video_id": "zQGOcOUBi6s",
+      "comment": "4:03 did they just have sex during war?          spicy",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 174.0,
+      "comment_timestamp": 243.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "234.0s - 240.0s",
+          "query": "I'm sorry, I can't analyze videos directly. However, if you describe the video to me, I'd be happy to help break it down into two parts based on your description!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "240.0s - 246.0s",
+          "query": "Visually, the video shows a simple graphic with a blue circle labeled \"VIRGIN B CELL\" and a yellow circle next to it. There's no movement or change in the scene. The background is a solid, muted greenish-yellow color. There are no people or other objects present. The colors are quite distinct, with the blue and yellow circles standing out against the greenish-yellow backdrop. There's no action or movement in the video, just a static image of these two circles and the label."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "246.0s - 252.0s",
+          "query": "Visual: The video shows multiple blue circles with yellow outlines scattered across a green background. These circles appear to be moving or changing positions slightly.\n\nAudio: There is no discernible speech or music in the audio portion of this short clip. It seems to consist mainly of some kind of ambient noise or possibly a very faint whisper that's hard to make out clearly."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 152.62700057029724
+    },
+    {
+      "comment_index": 5774,
+      "video_id": "zQGOcOUBi6s",
+      "comment": "1:11 I refuse to believe that a Level 4 Rusty Nail, with one move, even if it is \"VERY EFFEKTIVE\", can take 2/3 of the HP of a Level 28 Skin Cell. It would be believeable with a Level 24 Rusty Nail, but not Level 4.",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 166.0,
+      "comment_timestamp": 71.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "62.0s - 68.0s",
+          "query": "Visually, the video shows a diagram of the human immune system. There are various colored dots representing different parts of the immune system, connected by lines. The background is white. There are no people or moving objects in the video. The colors used are red, yellow, blue, and purple. The diagram seems to be a simplified representation of how the immune system works, with the dots possibly indicating cells or components and the lines showing interactions or pathways."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "68.0s - 74.0s",
+          "query": "Visually, there are several circular icons arranged in a circular pattern around a central globe-like object. The icons seem to represent different things like a microscope, a robot, a ship, and a chicken. The background is dark, suggesting a space-like setting. There's also a pink flower on the right side of the screen. The movement is mainly the rotation of the central globe and the icons around it.Audibly, there's music playing throughout the 6 seconds. There are no distinct speech or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "74.0s - 80.0s",
+          "query": "**Visual:** The video shows a graphic representation of a rusty nail and skin. The nail is depicted as rusty and sharp, while the skin is shown with a health bar labeled \"HP\" indicating its condition. The nail is positioned to the left of the skin, and there's text at the bottom saying \"A wild RUSTY NAIL appeared!\" and \"RUSTY NAIL used BEING SUPER SHARP!\"\n\n**Audio:** There is a voiceover in the background, and the text on the screen is also part of the audio. The voiceover likely explains the situation or provides commentary related to the visual content."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 294.4089560508728
+    },
+    {
+      "comment_index": 5775,
       "video_id": "zQGOcOUBi6s",
       "comment": "3:46 “some become memory cells so you are practically immune next time” Proceeds to lick the floor",
       "language": "en",
@@ -109,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "217.0s - 223.0s",
-          "query": "VISUAL: The video shows an animated scene with a background that looks like a desert or sandy area. There are some plants with green tops and brown stems scattered around. In the middle, there's a label \"DENDRITIC CELL\" above one of these plants. Below it, there's another label \"HELPER T CELL\". At the bottom of the frame, there are small icons representing different cells or molecules.AUDIO: There is a male voice speaking over the visuals. He says something about a chain reaction taking place when a helper T cell finds its target on the membrane. It seems to be explaining a biological process related to the labels shown in the animation.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, the video shows a simple, cartoonish scene. There are a few trees with brown trunks and green leaves scattered across a green field. The sky is light blue. There are also two yellow circles, one larger and one smaller, moving around on the ground. The larger one seems to be chasing or interacting with the smaller one. The overall style is very basic and playful, like something you'd see in a children's animation.\n\nAudio - There is a man speaking in the background. The speech is in English and seems to be explaining something, but the content is not clear from just the audio alone. There is also some background music playing, which is light and upbeat, adding to the playful feel of the video."
         },
         {
           "segment_index": 2,
           "time_range": "223.0s - 229.0s",
-          "query": "VISUAL: The video shows yellow circles on a green background that start to multiply rapidly. Some of these circles have purple rings around them. There's also some text appearing on the screen saying \"MEMORY T HELPER CELL\". AUDIO: A man is speaking about cells being activated and quickly duplicating thousands of times. He mentions memory T cells staying active. So, what do you think about this? Do you have any other questions related to it?"
+          "query": "Visual: The video shows a green background with yellow circles moving around. Some of these circles have text on them, like \"MEMORY T-HELPER CELL\". The circles seem to be floating and there's a sense of motion as they shift positions.\n\nAudio: There's a voiceover in the audio. The speaker is talking about a cell being activated and quickly duplicating, mentioning that some of these cells become memory T-cells. The tone is informative."
         },
         {
           "segment_index": 3,
           "time_range": "229.0s - 235.0s",
-          "query": "VISUAL: The video shows yellow circles with purple outlines on a green background. There's some kind of grid or pattern emerging towards the end.AUDIO: A man is speaking about lymph nodes and immunity to an \"enemy.\" He mentions that some cells travel to help out in battle. It seems like he's explaining something related to the visuals.What do you think about it? Do you have any other questions regarding this video?"
+          "query": "**Visual:** The video shows numerous yellow circles with purple outlines scattered across a green background. There's no clear action or movement within these shapes.\n\n**Audio:** No distinct audio elements can be identified from this short clip; it appears to be silent."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 277.394588470459
+      "processing_time": 237.19104051589966
     },
     {
-      "comment_index": 4445,
+      "comment_index": 5776,
       "video_id": "zQGOcOUBi6s",
       "comment": "3:34 “ virgin helper T cell ”",
       "language": "en",
@@ -139,24 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "205.0s - 211.0s",
-          "query": "VISUAL: There's an illustration of a machine on a whiteboard with some birds at the bottom. A yellow circle with \"Guys?\" appears next to it. Then, the machine disappears and a line of green leaves is shown above the whiteboard. The words \"DENDRITIC CELL\" appear above the leaves.AUDIO: There's a man speaking over background music. He says something about a specific setup and a dendritic cell looking for a helper T - cell with a certain setup.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Well, in the visual part, there's a poster with a picture of a radio on it. There are also some blue heart-shaped objects hanging from the top of the poster. And at the bottom of the poster, there are a few small objects that look like they could be toys or decorations. The background is a light green color. As for the audio part, there's just some music playing in the background. No speech or sound effects are heard. So, what do you think about this video? Do you have any other questions?"
         },
         {
           "segment_index": 2,
           "time_range": "211.0s - 217.0s",
-          "query": "VISUAL: The video shows an animated scene with a whiteboard at the top labeled \"DENDRITIC CELL\". There are green spiky shapes hanging from it. Below that is a blue area where a \"VIRGIN HELPER T CELL\" appears to be interacting with the spiky shapes. At the bottom, there are colorful cartoon birds. The background is mostly light-colored with some brown elements like a stick or branch.The AUDIO: There's a voiceover saying something about looking for a helper T cell that combines with parts of intruders which the dendritic cells have recognized. It also mentions that it's just right. No other distinct sounds are heard.If you want to talk more about this video or anything else related, feel free to let me know!"
+          "query": "Well, in the visual part, it looks like there's a diagram or an illustration. There are some blue objects that seem to be cells or something similar, and they're connected to a larger structure. There are also some red and yellow objects at the bottom, which might be related to the cells. The background is mostly light-colored, and the overall look is quite simple and clean.In the audio part, there's just a short phrase \"it's just right\" spoken in a neutral tone. There's no music or any other sound effects. It's just that simple phrase. So, what do you think about this? Do you have any other questions or thoughts?"
         },
         {
           "segment_index": 3,
           "time_range": "217.0s - 223.0s",
-          "query": "VISUAL: The video shows an animated scene with a background that looks like a desert or sandy area. There are some plants with green tops and brown stems scattered around. In the middle, there's a label \"DENDRITIC CELL\" above one of these plants. Below it, there's another label \"HELPER T CELL\". At the bottom of the frame, there are small icons representing different cells or molecules.AUDIO: There is a male voice speaking over the visuals. He says something about a chain reaction taking place when a helper T cell finds its target on the membrane. It seems to be explaining a biological process related to the labels shown in the animation.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, the video shows a simple, cartoonish scene. There are a few trees with brown trunks and green leaves scattered across a green field. The sky is light blue. There are also two yellow circles, one larger and one smaller, moving around on the ground. The larger one seems to be chasing or interacting with the smaller one. The overall style is very basic and playful, like something you'd see in a children's animation.\n\nAudio - There is a man speaking in the background. The speech is in English and seems to be explaining something, but the content is not clear from just the audio alone. There is also some background music playing, which is light and upbeat, adding to the playful feel of the video."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 431.3014130592346
+      "processing_time": 284.51413917541504
     },
     {
-      "comment_index": 4446,
+      "comment_index": 5777,
       "video_id": "zQGOcOUBi6s",
       "comment": "Does anyone notice there is a cell said \"For Aiur\" in 5:51? No SC players? Ok just me......",
       "language": "en",
@@ -169,54 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "342.0s - 348.0s",
-          "query": "VISUAL: There are red and yellow circles on a teal background. The circles seem to be moving around. The background has some small white dots scattered across it.AUDIO: A man is speaking about an infection being wiped out and millions of body cells dying. It's just his voice with no other sounds or music.If you have any thoughts or questions about this analysis, feel free to share!"
+          "query": "Visually, there are red and yellow circles scattered across a teal background. The circles vary in size and seem to be moving or floating around.\n\nAudio-wise, it's just plain speech without any other sounds like music or sound effects. The speech is about infection and mentions millions of body cells dying at some point."
         },
         {
           "segment_index": 2,
           "time_range": "348.0s - 354.0s",
-          "query": "VISUAL: There are red and yellow circles on a teal background. The circles seem to be moving around. There's also some text popping up near them.AUDIO: A man is speaking over some music. He says \"No big deal, the losses are quickly replenished. Most immune cells are now useless.\" What do you think about it?"
+          "query": "**Visual:** The video shows multiple red and yellow circles scattered across a teal background. Some of these circles have small white text bubbles with phrases like \"I'll miss you!\" and \"It was a blast.\" There's no clear action or movement within the circles themselves.\n\n**Audio:** The audio includes a voiceover saying, \"No big deal. It was a blast.\" This is followed by some music playing softly in the background."
         },
         {
           "segment_index": 3,
           "time_range": "354.0s - 360.0s",
-          "query": "VISUAL: The video shows circles of different sizes and colors on a light blue background at first. Then it changes to gray circles on a white background. There's also some text appearing within the circles, like \"I'll miss you!\" and \"Killing stuff was the best part.\" AUDIO: There is a man speaking throughout the video. He says things like \"Without the constant signals they commit suicide so as not to waste any resources but some\". It seems like he might be explaining something related to the visuals. What do you think about this? Do you have any other thoughts or questions regarding the video?"
+          "query": "Visually, the video shows a series of colorful circles, some red and some yellow, scattered across a light blue background. There are also some gray circles. The circles seem to be moving around, and some have labels like \"MEMORY HELPER T CELL\" and \"MEMORY B CELL.\" The overall look is quite simple and abstract.\n\nAudio-wise, there's a man speaking in English. He says, \"Without the constant signals they commit suicide so as not to waste any resources but some.\" The tone of his voice is neutral, and there are no other sounds or music in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 220.20624136924744
+      "processing_time": 188.7611014842987
     },
     {
-      "comment_index": 4447,
-      "video_id": "zQGOcOUBi6s",
-      "comment": "Wtf didn't anyone notice starcraft reference? Shame. 5:51",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 121.0,
-      "comment_timestamp": 351.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "342.0s - 348.0s",
-          "query": "VISUAL: There are red and yellow circles on a teal background. The circles seem to be moving around. The background has some small white dots scattered across it.AUDIO: A man is speaking about an infection being wiped out and millions of body cells dying. It's just his voice with no other sounds or music.If you have any thoughts or questions about this analysis, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "348.0s - 354.0s",
-          "query": "VISUAL: There are red and yellow circles on a teal background. The circles seem to be moving around. There's also some text popping up near them.AUDIO: A man is speaking over some music. He says \"No big deal, the losses are quickly replenished. Most immune cells are now useless.\" What do you think about it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "354.0s - 360.0s",
-          "query": "VISUAL: The video shows circles of different sizes and colors on a light blue background at first. Then it changes to gray circles on a white background. There's also some text appearing within the circles, like \"I'll miss you!\" and \"Killing stuff was the best part.\" AUDIO: There is a man speaking throughout the video. He says things like \"Without the constant signals they commit suicide so as not to waste any resources but some\". It seems like he might be explaining something related to the visuals. What do you think about this? Do you have any other thoughts or questions regarding the video?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 213.58025336265564
-    },
-    {
-      "comment_index": 4449,
+      "comment_index": 5778,
       "video_id": "zQGOcOUBi6s",
       "comment": "Anybody else noticed the \"For Aiur!\" at 5:54?",
       "language": "en",
@@ -229,54 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "345.0s - 351.0s",
-          "query": "VISUAL: There are red circles with yellow outlines scattered on a teal background. The circles seem to be moving around. AUDIO: A man is speaking about millions of body cells dying and how it's not a big deal because they're quickly replenished. What do you think about that?"
+          "query": "**Visual:** The video shows numerous red and yellow circles scattered across a teal background. These circles vary slightly in size and seem to be moving or floating around.\n\n**Audio:** There is a voiceover saying \"millions have already died no big deal the losses are quickly replenished.\" The tone seems somewhat detached or indifferent about the statement made."
         },
         {
           "segment_index": 2,
           "time_range": "351.0s - 357.0s",
-          "query": "VISUAL: The video shows animated circles on a teal background. Some circles are red with yellow outlines, while others are just yellow. There are also some gray circles. The circles seem to be moving around. There's text popping up from them like \"I'll miss you!\" and \"Killing stuff was the best part.\" Then it changes to a white background with similar colored circles, but they're mostly gray now.AUDIO: There is a man speaking throughout the video. He says things like \"most immune cells are now useless\" and \"without the constant signals they commit suicide so.\" It seems like he's explaining something related to the visuals.What do you think about this? Do you have any other questions or thoughts?"
+          "query": "Visually, the video shows a bunch of red and yellow circles on a light blue background. Some of the circles have text inside them. The circles seem to be moving around a bit. There are also some smaller circles that are a bit darker in color. The overall look is quite simple and colorful.Audibly, there's a man speaking in English. He says, \"Most immune cells are now useless and without the constant signals they commit suicide.\" The tone of his voice is somewhat serious. There's also some background music playing, but it's not very loud."
         },
         {
           "segment_index": 3,
           "time_range": "357.0s - 363.0s",
-          "query": "VISUAL: The video shows some circles on a white background at first. Then it focuses on two larger circles labeled \"MEMORY HELPER T CELL\" and \"MEMORY B CELL\". One is yellow inside a purple circle, the other blue inside a purple circle.AUDIO: There's a male voice speaking about not wasting resources and mentioning memory cells. It seems to be explaining something related to biology or medicine.If you want to know more about what was said specifically or have any other questions, feel free to ask!"
+          "query": "**Visual:** The video shows two large circles, one yellow and one blue, both outlined in purple. Below each circle, there are labels: \"MEMORY HELPER T CELL\" under the yellow circle and \"MEMORY B CELL\" under the blue circle. The background is a light gray.\n\n**Audio:** There is a male voice speaking in English. The speech content is not provided, but it seems to be related to the visual content, possibly explaining the functions or characteristics of the memory cells shown."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 259.0043044090271
+      "processing_time": 258.40770864486694
     },
     {
-      "comment_index": 4448,
-      "video_id": "zQGOcOUBi6s",
-      "comment": "One  of the  cells are really brutal \" killing stuff was the best part \" quote 5:52",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 106.0,
-      "comment_timestamp": 352.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "343.0s - 349.0s",
-          "query": "VISUAL: There are several red circles with yellow outlines scattered across a teal background. The circles seem to be moving around slightly.AUDIO: A man is speaking over some music. He says \"Infection is wiped out at this point millions of body cells have already died no big deal.\" What do you think about that? Do you have any other thoughts on the video?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "349.0s - 355.0s",
-          "query": "VISUAL: There are red and yellow circles on a teal background. The circles seem to be moving around. Some have text bubbles with phrases like \"I'll miss you!\" and \"Killing stuff was the best part.\".AUDIO: A man is speaking over some music. He says things like \"The losses are quickly replenished\" and \"Most immune cells are now useless.\" It seems like he's talking about something related to health or biology.If you want to talk more about this video or anything else, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "355.0s - 361.0s",
-          "query": "VISUAL: The video shows circles of different sizes and colors moving around on a light background. Some circles are red with yellow outlines, while others are gray. There's also a purple circle labeled \"MEMORY HELPER T CELL\" and another larger blue one labeled \"MEMORY B CELL.\" AUDIO: A man is speaking about cells committing suicide to save resources, but some stay behind. He uses a calm tone. What do you think about that? Do you have any other questions related to it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 230.00178337097168
-    },
-    {
-      "comment_index": 4450,
+      "comment_index": 5779,
       "video_id": "zQGOcOUBi6s",
       "comment": "4:22 \"Son,always remember, dying is gay\"",
       "language": "en",
@@ -289,24 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "253.0s - 259.0s",
-          "query": "VISUAL: There's a blue circle inside a yellow ring on a green background. Green dots start appearing around it. Then an orange circle with \"helper T cells\" written in white comes into view from the left side.AUDIO: A man is speaking about helper T cells working hard to the point of exhaustion very quickly. The tone seems serious. What do you think about that? Do you have any other thoughts or questions related to this?"
+          "query": "Visually, there's a large yellow circle with a blue center on a green background. There are also some small dots around it. The scene doesn't seem to have much movement or action.\n\nAudio-wise, I can hear someone speaking about how hard they work and wanting sleep. It seems like a voiceover narration. There's no other distinct sound effect or music."
         },
         {
           "segment_index": 2,
           "time_range": "259.0s - 265.0s",
-          "query": "VISUAL: There's an animated scene with two cells. One is labeled \"T Helper Cell\" and it's yellowish-orange. The other cell has a blue center and a yellow outer ring. The T Helper Cell seems to be interacting with the other cell. The background is greenish-yellow with some small specks.AUDIO: A man is speaking. He says something about stimulating hardworking factories and telling them not to die yet because they're still needed.If you have any thoughts or questions about this analysis, feel free to share!"
+          "query": "Visually, the video shows a large blue circle surrounded by a yellow ring, with a smaller yellow circle labeled \"T HELPER CELL\" on the left side. There are some green dots scattered around. The text \"So...tired...want...sleep\" appears above the blue circle. The background is a light green color.\n\nAudibly, there's a male voice speaking. He says, \"play another important role they stimulate the hard working factories and tell them don't die yet we still need you.\""
         },
         {
           "segment_index": 3,
           "time_range": "265.0s - 271.0s",
-          "query": "VISUAL: There's a blue circle inside a yellow ring on a greenish - brown background with some small white specks scattered around. The scene doesn't change much throughout the 6 seconds.AUDIO: A man is speaking over some background music. He says something about factories dying if an infection is over so the body doesn't waste energy.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visual: The video shows a blue circle with a yellow border on a green background. There's no movement or change in the scene.\n\nAudio: The only sound is someone saying \"keep going\" in English."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 248.6658637523651
+      "processing_time": 159.28478384017944
     },
     {
-      "comment_index": 4451,
+      "comment_index": 5780,
       "video_id": "zQGOcOUBi6s",
       "comment": "1:40 Macrophage be like: ARA ARA.",
       "language": "en",
@@ -319,24 +289,24 @@
         {
           "segment_index": 1,
           "time_range": "91.0s - 97.0s",
-          "query": "VISUAL: There are green oval shapes scattered across a light blue background. They seem to be moving around randomly. The scene then transitions to a white background with some small dots and lines on it.AUDIO: A man is speaking over the visuals. He says something about bacteria populations changing behavior when a certain population is reached.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Well, in the visual part, it looks like there are these light blue, oval-shaped objects scattered around on a light blue background. They seem to be moving around a bit. As for the audio, there's some kind of speech going on, but it's not really clear what it says. It's just a bit of a murmur. What do you think about it?"
         },
         {
           "segment_index": 2,
           "time_range": "97.0s - 103.0s",
-          "query": "VISUAL: There's an abstract background with a teal color on one side and white on the other. Some irregularly shaped teal lines are moving across from left to right.AUDIO: A man is speaking about how bacteria damage the body by changing its environment and how the immune system has to stop them quickly.If you have any thoughts or questions about this analysis, feel free to share!"
+          "query": "Well, in the visual part, it looks like there's a green and white abstract pattern moving across the screen. It's kind of like a wave or a flow. There aren't any people or specific objects in it, just that pattern. And in the audio part, there's a voiceover talking about bacteria and how they can damage the body by changing the environment around them. The voiceover is clear and informative. So, what do you think about this video?"
         },
         {
           "segment_index": 3,
           "time_range": "103.0s - 109.0s",
-          "query": "VISUAL: There's an animation showing bacteria on one side and macrophages on the other. The bacteria are on a greenish-blue background with some dots, while the macrophages are on a white background. The macrophages seem to be moving towards the bacteria area.AUDIO: A man is speaking about guard cells known as macrophages intervening. He mentions that they are something specific, but it's not clear from just these few seconds what he means exactly.If you want to know more about what might happen next or have any other thoughts, feel free to share!"
+          "query": "Well, in the video, visually, there are these two main things. On the left side, there's a teal-colored area with some white specks scattered around. And on the right side, there are a few orange circles. The orange circles seem to be moving around a bit. As for the audio, there's just a man speaking. He says something like \"Possible first of all your guard cells known as macrophages intervene they are\". It's a bit of a strange phrase, but that's what he said. So, what do you think about this video?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 231.39022779464722
+      "processing_time": 282.1494016647339
     },
     {
-      "comment_index": 4452,
+      "comment_index": 5781,
       "video_id": "zQGOcOUBi6s",
       "comment": "3:54 No spoilers! I'm only on episode 3 of Cells at work!",
       "language": "en",
@@ -349,24 +319,24 @@
         {
           "segment_index": 1,
           "time_range": "225.0s - 231.0s",
-          "query": "VISUAL: The video shows yellow circles on a green background that multiply rapidly. Some of these circles turn purple and are labeled \"MEMORY T HELPER CELL\". There's no visible movement or action other than the multiplication and color change.AUDIO: There is a male voice speaking about cells multiplying thousands of times and becoming memory T cells that stay in lymph nodes. No music or sound effects are present.If you have any more questions about this or want to discuss something else related to it, feel free to let me know!"
+          "query": "Visual: The video shows yellow circles on a green background. Some of these circles have purple outlines. There's also some text appearing at different times.\n\nAudio: Someone is speaking about memory T helper cells becoming memory cells that stay in lymph nodes to make antibodies."
         },
         {
           "segment_index": 2,
           "time_range": "231.0s - 237.0s",
-          "query": "VISUAL: The video shows yellow circles moving around on a green background at first. Then it transitions to blue dots on a different patterned surface. There's also some kind of greenish-brown textured area with orange lines or dots on it.AUDIO: There's a man speaking throughout the video. He seems to be talking about something related to an enemy and groups traveling to help out or go somewhere else.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "Well, I'm not sure if there's actually any content to analyze here. The text doesn't seem to describe anything specific about the video segment. So, it's hard for me to give an accurate analysis based on just that. Maybe you could share more details or clarify what you're looking for?"
         },
         {
           "segment_index": 3,
           "time_range": "237.0s - 243.0s",
-          "query": "VISUAL: There's a yellowish background with blue circles scattered around. Some orange circles appear too. Then it zooms in on one blue circle labeled \"VIRGIN B CELL\". AUDIO: A man is speaking about entering a lymph node to activate a powerful weapons factory like T - cells being born with specific things. What do you think about that? Do you have any other questions related to this?"
+          "query": "Visual: The video shows blue circles on a yellowish-green background. There's also some small white dots scattered around.\n\nAudio: No distinct speech or music is heard. Just general background noise that could be from a computer or device."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 245.54264640808105
+      "processing_time": 120.81358480453491
     },
     {
-      "comment_index": 4453,
+      "comment_index": 5782,
       "video_id": "zQGOcOUBi6s",
       "comment": "At 5:53 a cell says For Aiur! Starcraft?",
       "language": "en",
@@ -379,54 +349,24 @@
         {
           "segment_index": 1,
           "time_range": "344.0s - 350.0s",
-          "query": "I'm sorry, I can't actually watch videos or analyze them since I don't have that capability. But if you describe the video to me, I'd be happy to help with your analysis! So, go ahead and tell me about it."
+          "query": "**Visual:** The video shows numerous red and yellow circles scattered across a teal background. These circles vary slightly in size and seem to be moving or floating around.\n\n**Audio:** There is a voiceover saying \"out millions of body cells have already died no big deal the losses aren't.\" The tone seems somewhat matter-of-fact."
         },
         {
           "segment_index": 2,
           "time_range": "350.0s - 356.0s",
-          "query": "Well, I haven't actually seen the video yet. So, um, I can't really describe it for you. But if you tell me more about it, like what kind of objects or people there are, that would be great. And also, if you could share any details from the audio, like if there's any specific speech or sound effects. Let's keep chatting so we can figure this out together."
+          "query": "Visually, the video shows a bunch of red and yellow circles on a light blue background. Some of the circles have small white text inside them. The circles seem to be moving around a bit. There are no people or other objects in the video. The colors are mainly red, yellow, and light blue. The movement of the circles is the main action in the video.Audibly, there is a man speaking. The speech is in English and seems to be about something related to immune cells and signals. There is also some background music playing, but it's not very loud."
         },
         {
           "segment_index": 3,
           "time_range": "356.0s - 362.0s",
-          "query": "VISUAL: The video shows circles of different sizes and colors moving around on a white background. There's also an animation of two larger circles labeled \"MEMORY HELPER T CELL\" and \"MEMORY B CELL\". AUDIO: A man is speaking about not wasting resources and some staying behind memory cells. What do you think about these memory cells? Do you have any other questions related to this?"
+          "query": "Visually, the video shows a white background with various colored circles moving around. There are circles in shades of gray, yellow, and blue. Some of these circles are labeled, like \"MEMORY HELPER T CELL\" and \"MEMORY B CELL.\" The circles seem to be floating and changing positions slightly.\n\nIn terms of audio, there is a male voice speaking in English. The speech is clear and seems to be explaining something related to the visuals, possibly about the memory cells mentioned in the visual part."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 141.34494137763977
+      "processing_time": 228.46915411949158
     },
     {
-      "comment_index": 4454,
-      "video_id": "zQGOcOUBi6s",
-      "comment": "5:53 love the reference",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 43.0,
-      "comment_timestamp": 353.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "344.0s - 350.0s",
-          "query": "VISUAL: There are red circles with yellow outlines on a teal background. The circles seem to be moving around. The background is a solid teal color.AUDIO: A man is speaking. He says \"At this point millions of body cells have already died no big deal the losses aren't.\" It's just his voice without any other sound effects or music. So, what do you think about this? Do you have any other videos for me to analyze?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "350.0s - 356.0s",
-          "query": "VISUAL: The video shows red and yellow circles on a teal background. Some of these circles have speech bubbles with text inside them. There's no clear scene or movement other than the static display of these elements.AUDIO: There is some kind of narration or speech going on, but it's not very clear from just the audio alone. It seems to be in English. No distinct music or sound effects can be identified.If you want me to analyze more about this video or have any other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "356.0s - 362.0s",
-          "query": "VISUAL: The video shows circles of different sizes and colors moving around on a white background. There's also an animation of two larger circles labeled \"MEMORY HELPER T CELL\" and \"MEMORY B CELL\". AUDIO: A man is speaking about not wasting resources and some staying behind memory cells. What do you think about these memory cells? Do you have any other questions related to this?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 228.80748987197876
-    },
-    {
-      "comment_index": 4455,
+      "comment_index": 5783,
       "video_id": "zQGOcOUBi6s",
       "comment": "Tardis near one of the neutrophiles at 2:23",
       "language": "en",
@@ -439,24 +379,24 @@
         {
           "segment_index": 1,
           "time_range": "134.0s - 140.0s",
-          "query": "VISUAL: There's an animated finger with a red mark on it. Then there's a circle divided into sections, one of which is labeled \"We need help!\" and another has \"MESSENGER PROTEIN\" written next to it. The background has some abstract shapes and colors like teal and pink.AUDIO: A man is speaking about macrophages fighting for too long and calling in heavy backup through messenger proteins.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's a colorful, abstract design with circles and lines in red, yellow, and teal. It looks like a pie chart or something similar, with a small circle labeled \"We need help!\" in the center. There's also a yellow line extending from the center, pointing to a small, detailed image of what seems to be a cell or bacteria. The background has a dotted pattern in teal and white. The movement is mainly the small circle and the yellow line, with the rest of the design being static.Audibly, there's a man speaking. He says something about macrophages fighting for too long and calling in heavy backup by releasing messenger proteins. The tone is informative, like he's explaining a scientific concept."
         },
         {
           "segment_index": 2,
           "time_range": "140.0s - 146.0s",
-          "query": "VISUAL: The video shows a circular diagram with different colored sections labeled \"We need help!\" and \"MESSENGER PROTEIN\". There's also an animation of red and yellow circles moving on a pink background. The circles seem to be interacting with each other.AUDIO: A man is speaking about neutrophils leaving their patrol routes in the blood and moving to the battlefield. He mentions communicating location and urgency.If you have any thoughts or questions about this analysis, feel free to share!"
+          "query": "Visually, the video shows a pink background with red and yellow circular shapes moving around. There are also some smaller, darker shapes scattered throughout. The overall look is somewhat abstract and dynamic, with the shapes appearing to shift and change positions.\n\nIn terms of audio, there is a voiceover that says \"Communicate location and urgency.\" The voice is clear and seems to be speaking in a calm, informative tone. There are no other sounds or music in the audio segment."
         },
         {
           "segment_index": 3,
           "time_range": "146.0s - 152.0s",
-          "query": "VISUAL: The video shows an animation with different colored circles representing bacteria, toxins, neutrophils, and body cells. There's movement among these elements, like the bacteria and toxins appearing to interact with the other components.AUDIO: There is some kind of narration or explanation playing over the visuals, but it's not clear from just the audio what the content of that narration is.If you want me to analyze more about this video or have any other questions related to it, feel free to let me know!"
+          "query": "Well, in the visual part, it looks like there are some colorful circles and dots. There are red circles labeled \"BODY CELLS\", a yellow circle labeled \"NEUTROPHIL\", and some greenish-blue dots labeled \"TOXINS\" and \"BACTERIA\". The red circles seem to be moving around, and the yellow \"NEUTROPHIL\" is also moving, as if it's interacting with the other elements. The greenish-blue dots are scattered around too.In the audio part, there's a man speaking. He says something like \"field the neutrophils fight so furiously that they kill healthy cells in the process on top of that\". It sounds like he's explaining something about neutrophils and their actions."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 276.9018723964691
+      "processing_time": 277.860187292099
     },
     {
-      "comment_index": 4456,
+      "comment_index": 5784,
       "video_id": "zQGOcOUBi6s",
       "comment": "me: chewing headphones wires 0:01 narrator every second you are under attack from viruses........",
       "language": "en",
@@ -469,54 +409,54 @@
         {
           "segment_index": 1,
           "time_range": "0.0s - 0.0s",
-          "query": "VISUAL: There's an animated character with pink hair standing still. The background has various colored dots scattered around. Then three circular images appear showing different types of microorganisms like bacteria and fungi.AUDIO: A man is speaking about being under attack every second of life from billions of bacteria, viruses, and fungi. There's no music or other sound effects, just his voice. So, what do you think about this? Do you have any similar experiences?"
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 2,
           "time_range": "0.0s - 4.0s",
-          "query": "VISUAL: The video shows three circular images at first - one with green shapes on a light background, another with orange virus-like structures, and the third with blue dots. Then, more characters appear below these circles. There's a pink character holding a spear and shield, a red character with sharp teeth, a blue character looking sleepy or sad, and a yellow character with pointy ears. The background is plain white.AUDIO: A man speaks about how our bodies have developed a complex army to fight off invaders. He mentions guards, soldiers, intelligence, and other components of this body \"army.\".If you want to talk more about this video or have any other questions, feel free to let me know!"
+          "query": "**Visual:** The video shows an animated character with pink hair, a white shirt, black pants, and blue shoes. The character is standing still. There are colorful dots, yellow and teal, floating around the character. The background is plain white.\n\n**Audio:** There is a male voice speaking in English. The speech says, \"Every second of your life you are under attack.\""
         },
         {
           "segment_index": 3,
           "time_range": "4.0s - 10.0s",
-          "query": "VISUAL: There are cartoonish characters that look like cells or viruses. Some have weapons like spears and shields. There are also three circular icons above them with different patterns inside. The background is light gray.AUDIO: A man speaks over some music. He says \"Weapons factories and communicators to protect you from well dying.\" It's a bit hard to understand fully due to the fast pace and unclear pronunciation.What do you think about these descriptions? Do you want me to add more details?"
+          "query": "Well, in the visual part, there are these circles with different patterns inside them. One has a green and white pattern, another has a brown and white pattern, and the third has a blue and white pattern. There's also a pink character with a shield and an arrow. The background is light-colored, and there are some small yellow dots floating around.In the audio part, there's a voiceover saying something about bacteria, viruses, and fungi trying to make a home in our bodies. It's a bit of a strange thing to hear, right? So, what do you think about this video?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 302.5704998970032
+      "processing_time": 338.53474593162537
     },
     {
-      "comment_index": 4457,
+      "comment_index": 5785,
       "video_id": "zQGOcOUBi6s",
-      "comment": "1:22-1:40 1. A new place is discovered and humans enter the ecosystem 2. They start using the natural resources and double their number every several generation 3. At first, they live with nature, but when certain human population is reached, they change their behavior and start damaging the ecosystem by changing the environment around them.",
+      "comment": "5:50 FOR AIUR!",
       "language": "en",
       "channel_name": "Kurzgesagt",
       "category": "knowledge",
-      "likes": 26.0,
-      "comment_timestamp": 100.0,
+      "likes": 35.0,
+      "comment_timestamp": 350.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "91.0s - 97.0s",
-          "query": "VISUAL: There are green oval shapes scattered across a light blue background. They seem to be moving around randomly. The scene then transitions to a white background with some small dots and lines on it.AUDIO: A man is speaking over the visuals. He says something about bacteria populations changing behavior when a certain population is reached.If you have any other thoughts or questions about this video, feel free to share!"
+          "time_range": "341.0s - 347.0s",
+          "query": "Visually, there are red and yellow circles on a teal background. The circles seem to be moving around. There aren't any people or other objects visible.\n\nAudio-wise, it's just plain speech without any music, sound effects, or ambient sounds. It's just someone talking about infection being wiped out at some point."
         },
         {
           "segment_index": 2,
-          "time_range": "97.0s - 103.0s",
-          "query": "VISUAL: There's an abstract background with a teal color on one side and white on the other. Some irregularly shaped teal lines are moving across from left to right.AUDIO: A man is speaking about how bacteria damage the body by changing its environment and how the immune system has to stop them quickly.If you have any thoughts or questions about this analysis, feel free to share!"
+          "time_range": "347.0s - 353.0s",
+          "query": "Visually, the video shows a teal background with red and yellow circles scattered across it. Some of the circles have labels like \"Fun Alert\" and \"I'm a fun person.\" There's also a small red circle with a white arrow pointing to it, and a red circle with a white arrow pointing away from it. The circles seem to be moving slightly, giving a sense of motion. The overall look is simple and playful.Audibly, there's a male voice speaking in English. He says, \"Reddy died no big deal the losses are quickly replenished most immune cells are now.\" The tone is neutral, and there are no other sounds like music or sound effects."
         },
         {
           "segment_index": 3,
-          "time_range": "103.0s - 109.0s",
-          "query": "VISUAL: There's an animation showing bacteria on one side and macrophages on the other. The bacteria are on a greenish-blue background with some dots, while the macrophages are on a white background. The macrophages seem to be moving towards the bacteria area.AUDIO: A man is speaking about guard cells known as macrophages intervening. He mentions that they are something specific, but it's not clear from just these few seconds what he means exactly.If you want to know more about what might happen next or have any other thoughts, feel free to share!"
+          "time_range": "353.0s - 359.0s",
+          "query": "Visually, the video shows a bunch of red and yellow circles on a light blue background. Some of the circles have text inside them. The circles seem to be moving around, changing positions. There are also some gray circles on a white background, which appear to be smaller and less prominent than the red and yellow ones. The overall movement of the circles is quite dynamic, giving a sense of activity and change."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 227.5198314189911
+      "processing_time": 210.86364030838013
     },
     {
-      "comment_index": 4458,
+      "comment_index": 5786,
       "video_id": "zQGOcOUBi6s",
       "comment": "hello anyone notice the misspell of effektive(Effective) in pokemon time 1:20",
       "language": "en",
@@ -529,24 +469,54 @@
         {
           "segment_index": 1,
           "time_range": "71.0s - 77.0s",
-          "query": "VISUAL: There's a nail on a white background. Then it shows a nail with \"RUSTY NAIL\" written next to it, level L4, HP bar. Below that is an image of skin labeled \"YOUR SKIN\", level L28, HP bar. At the bottom, there's text saying \"A wild RUSTY NAIL appeared!\". AUDIO: There's some kind of whooshing sound effect followed by a voiceover saying something about a beautiful day when a wild rusty nail appears. What do you think about this video?"
+          "query": "Visual: The video shows a rusty nail appearing suddenly against a plain background. There's also some kind of graphic or icon that seems to represent \"skin\" with an HP bar next to it.\n\nAudio: There is no distinct speech or dialogue. Instead, there are sound effects like a \"shoo\" noise when the nail appears and some other generic sound effects throughout."
         },
         {
           "segment_index": 2,
           "time_range": "77.0s - 83.0s",
-          "query": "VISUAL: The video shows an animation with a rusty nail labeled \"RUSTY NAIL\" on one side and skin labeled \"YOUR SKIN\" on the other. There's a health bar for both. The nail attacks the skin, causing it to bleed and its health bar decreases.AUDIO: There is some kind of narration or explanation about cutting yourself and the immune system. It mentions that when you cut yourself, your skin, which is the first barrier of the immune system, gets breached. No specific music or sound effects are mentioned.If you have any more questions about this or want to discuss something else related to this, feel free to let me know!"
+          "query": "**Visual:** The video shows a graphic representation of a rusty nail and skin. The nail is depicted as sharp and rusty, with a bar indicating its HP, which is 4. The skin is shown with a bar indicating its HP as 20. There's also a pinkish, flower-like shape near the nail. At the bottom, there's a banner with text saying \"RUSTY NAIL used BEING SUPER SHARP!\".\n\n**Audio:** There is a male voice speaking in English. The speech is about how the first barrier of the immune system is breached when you cut yourself."
         },
         {
           "segment_index": 3,
           "time_range": "83.0s - 89.0s",
-          "query": "VISUAL: The video shows some greenish-blue bacteria-like shapes moving around on a pink background with red lines. There's also a transition to a white screen where these shapes continue to move around.AUDIO: A man is speaking about how bacteria seize an opportunity to enter a wound and start using up the body's resources while doubling their numbers.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Well, in the visual part, it looks like there are some red lines and green shapes. The red lines seem to be kind of like a path or a boundary, and the green shapes are scattered around. They don't really seem to be moving much, just kind of floating there.In the audio part, there's some music playing in the background. It's not very loud, but it gives a sort of calm or neutral vibe. There's also a bit of a male voice speaking, but it's hard to make out exactly what he's saying.So, what do you think about this? Do you have any other questions about the video?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 288.4877769947052
+      "processing_time": 249.23737025260925
     },
     {
-      "comment_index": 4459,
+      "comment_index": 5787,
+      "video_id": "zQGOcOUBi6s",
+      "comment": "0:02 😂 pokeball",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 20.0,
+      "comment_timestamp": 2.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "0.0s - 0.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "0.0s - 5.0s",
+          "query": "Visually, there's an animated character with pink hair, a white shirt, black pants, and blue shoes. The background is light-colored with some scattered yellow and blue dots. There's also a circular frame highlighting the character's head and shoulders.\n\nAudio - There's a male voice speaking in English, saying \"Every second of your life you are under attack billions of bacteria.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "5.0s - 11.0s",
+          "query": "Visually, there are several circular icons with different patterns and colors. One has a green and white checkered pattern, another has orange and brown circular shapes, and the third has blue dots. There's also a pink character holding a shield and a stick. The background is light gray. The icons seem to be moving around a bit. There's also a red character with a wide grin and a blue character with a worried expression. The yellow character is small and appears to be running or moving quickly.Audibly, there's a male voice speaking. The speech is in English and seems to be explaining something about viruses and fungi trying to invade the body, while the body has developed a complex defense system."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 346.15074276924133
+    },
+    {
+      "comment_index": 5788,
       "video_id": "zQGOcOUBi6s",
       "comment": "random tardis flyby at 2:22",
       "language": "en",
@@ -559,51 +529,81 @@
         {
           "segment_index": 1,
           "time_range": "133.0s - 139.0s",
-          "query": "VISUAL: There's an illustration of a finger with a small cut on it. The background is split into two sections - one green with dots and another pink with hexagons representing blood vessels. A circle appears around the finger, showing bacteria inside. Then there's a pie chart with different colored segments, and a speech bubble says \"We need help!\" next to a messenger protein icon.AUDIO: Someone is speaking about macrophages fighting for too long and calling in heavy backup by releasing messenger proteins.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Sure! So, in the video, there's a hand pointing to a pie chart. The chart has different colored sections, and there's a speech bubble saying \"We need help!\".The audio part is just a simple phrase: \"As a very mild swelling when the macrophages fight for too long they call in heavy backup by releasing messengers.\".It seems like the video is trying to explain something about the immune system, specifically how macrophages respond to infections. What do you think about it?"
         },
         {
           "segment_index": 2,
           "time_range": "139.0s - 145.0s",
-          "query": "VISUAL: There's an animated scene with a red circle labeled \"We need help!\" and some smaller circles around it. One of these has \"MESSENGER PROTEIN\" written on it. The background is pinkish-red with various colored dots and lines. Then there are more animated cells or particles moving around in different colors like red, yellow, and blue. They seem to be interacting with each other.AUDIO: A man speaks about messenger proteins communicating location and urgency. He also mentions neutrophils leaving their patrol routes in the blood. There's no music or sound effects, just his voice. So, what do you think about this? Any thoughts or questions?"
+          "query": "Visually, there's an abstract design with circles and lines in red, yellow, and teal colors. It looks like some kind of scientific or biological illustration. There are also small dots scattered around.\n\nAudio-wise, it seems to be a voiceover saying \"We need help!\" in English. The tone is urgent."
         },
         {
           "segment_index": 3,
           "time_range": "145.0s - 151.0s",
-          "query": "VISUAL: The video shows some red and yellow circles moving around on a pink background at first. Then it transitions to a white background with labels like \"BACTERIA\", \"TOXINS\", \"NEUTROPHIL\", and \"BODY CELLS\". There are also green and blue objects that look like bacteria or toxins. The neutrophils seem to be attacking these things.AUDIO: There's a man speaking over the visuals. He says something about neutrophils fighting furiously and killing healthy cells in the process.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, the video shows a diagram with different types of cells. There are red circles labeled \"BODY CELLS\", smaller green rectangles labeled \"BACTERIA\", and a yellow circle labeled \"NEUTROPHIL\". There are also some red dots labeled \"TOXINS\". The neutrophil seems to be interacting with the other elements, like the bacteria and toxins. The colors are bright and distinct, making it easy to differentiate between the different types of cells and elements. There's also some movement, like the neutrophil appearing to move or interact with the other elements, but it's not very dynamic.The audio is just a simple narration saying \"and move to the battlefield the neutrophils fight so furiously that they kill healthy cells in the process.\" It's a straightforward, non-musical narration."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 359.9875454902649
+      "processing_time": 224.15807509422302
     },
     {
-      "comment_index": 4460,
+      "comment_index": 5789,
       "video_id": "zQGOcOUBi6s",
-      "comment": "My life for Aiur!  5:52",
+      "comment": "1:03 You get infected.",
       "language": "en",
       "channel_name": "Kurzgesagt",
       "category": "knowledge",
-      "likes": 16.0,
-      "comment_timestamp": 352.0,
+      "likes": 12.0,
+      "comment_timestamp": 63.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "343.0s - 349.0s",
-          "query": "VISUAL: There are several red circles with yellow outlines scattered across a teal background. The circles seem to be moving around slightly.AUDIO: A man is speaking over some music. He says \"Infection is wiped out at this point millions of body cells have already died no big deal.\" What do you think about that? Do you have any other thoughts on the video?"
+          "time_range": "54.0s - 60.0s",
+          "query": "Visually, there's an illustration of the human immune system with colorful circles representing cells or molecules connected by lines showing interactions. The background is light-colored.\n\nAudibly, it seems like someone is speaking about how complex and awesome the immune system is. There might be some soft background music playing too."
         },
         {
           "segment_index": 2,
-          "time_range": "349.0s - 355.0s",
-          "query": "VISUAL: There are red and yellow circles on a teal background. The circles seem to be moving around. Some have text bubbles with phrases like \"I'll miss you!\" and \"Killing stuff was the best part.\".AUDIO: A man is speaking over some music. He says things like \"The losses are quickly replenished\" and \"Most immune cells are now useless.\" It seems like he's talking about something related to health or biology.If you want to talk more about this video or anything else, feel free to let me know!"
+          "time_range": "60.0s - 66.0s",
+          "query": "Visual: The video shows a diagram of the human immune system. There are various colored dots representing different cells or components, connected by lines. Some dots are red, yellow, blue, and purple. The background is light gray.\n\nAudio: There is a male voice speaking in English. The speech is about the human immune system, specifically mentioning cells and their roles in fighting infections."
         },
         {
           "segment_index": 3,
-          "time_range": "355.0s - 361.0s",
-          "query": "VISUAL: The video shows circles of different sizes and colors moving around on a light background. Some circles are red with yellow outlines, while others are gray. There's also a purple circle labeled \"MEMORY HELPER T CELL\" and another larger blue one labeled \"MEMORY B CELL.\" AUDIO: A man is speaking about cells committing suicide to save resources, but some stay behind. He uses a calm tone. What do you think about that? Do you have any other questions related to it?"
+          "time_range": "66.0s - 72.0s",
+          "query": "Visually, there are several circular icons arranged in a circular pattern around a central globe-like object. The icons depict different items like a bottle, a rocket, a bird, and others. The background is dark, resembling space, with small white dots scattered around, possibly representing stars. There's also a small white light on the left side of the screen. The overall color scheme includes blues, greens, and whites, with some black and gray elements. The movement is mainly the rotation of the circular icons around the central globe-like object.Audibly, there is music playing throughout the 6 seconds. The music seems to be instrumental, possibly with a light, possibly upbeat or whimsical tone. There are no speech or sound effects present."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 230.0402112007141
+      "processing_time": 237.87893962860107
+    },
+    {
+      "comment_index": 5790,
+      "video_id": "zQGOcOUBi6s",
+      "comment": "4:01 yep, that cell describes me ;-;",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 12.0,
+      "comment_timestamp": 241.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "232.0s - 238.0s",
+          "query": "I'm sorry, I can't analyze videos directly. But if you describe the video to me, I'd be happy to help!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "238.0s - 244.0s",
+          "query": "Visual: The video shows blue circles on a yellowish background. There's also some small white specks scattered around.\n\nAudio: No distinct audio is heard apart from the background noise that accompanies the visuals."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "244.0s - 250.0s",
+          "query": "Visual: The video shows several blue circles with yellow outlines on a green background. These circles seem to be moving around.\n\nAudio: There is no discernible audio in this segment."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 80.32781267166138
     }
   ]
 }

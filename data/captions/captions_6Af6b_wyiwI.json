@@ -1,230 +1,609 @@
 {
   "video_id": "6Af6b_wyiwI",
   "total_comments": 20,
-  "successful_comments": 0,
-  "failed_comments": 20,
-  "success_rate": "0.0%",
-  "processing_time": 0.0037398338317871094,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
   "comments": [
     {
       "comment_index": 81,
       "video_id": "6Af6b_wyiwI",
-      "comment": "4:21 \"You can have a virus where people feel well enough while they're infectious that they got on a plane or they go to a market.\" oh my god.",
+      "comment": "Tools needed: 1) global alert/response system 5:53 2) strong health systems in poor countries 6:15 3)  medical reserve corps 6:35 4) pair medical corps w/ the military 6:40 5) simulations 6:50 6) improve R&D 7:11",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 697.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 712.0,
+      "comment_timestamp": 395.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "386.0s - 392.0s",
+          "query": "Visually, there's a man in a pink shirt and glasses standing in front of a red background. He seems to be gesturing with his hands, possibly explaining something. There are also some text elements on the screen, like \"STRENGTHEN HEALTH SYSTEMS\" and \"CREATE A MEDICAL CORPS\". The overall color scheme is red and blue. There are also some images of people in protective gear, which might be related to healthcare or medical work. The movement is mainly the man's gestures and the text appearing on the screen.Audibly, there's a man speaking. He's talking about strengthening health systems and creating a medical corps. He mentions that we need to see the outbreak very early on. The tone seems serious and informative."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "392.0s - 398.0s",
+          "query": "Well, in the video, visually, there are two people in white protective suits. They seem to be in an outdoor setting, maybe near some kind of machinery or equipment. The background is mostly orange with a white cross symbol and some text that says \"CREATE A MEDICAL CORPS.\".In terms of audio, there's a man speaking. He's talking about creating a medical corps, mentioning that there are people with the right training and background who are ready to go. He also mentions their expertise. There's no music or sound effects, just the man's speech. So, what do you think about this? Do you have any other questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "398.0s - 404.0s",
+          "query": "**Visual:** The video shows a large screen displaying an image of a medical ship with a red cross symbol, a helicopter flying overhead, and a truck on the left side. The text \"PAIR MEDICAL & MILITARY\" is visible on the screen. Below the screen, a person in a pink shirt is standing on a stage, seemingly giving a presentation or speech.\n\n**Audio:** The audio features a male voice speaking in English. The speech is clear and audible, though the specific content of the speech is not provided in the description."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 252.11214327812195
     },
     {
       "comment_index": 82,
       "video_id": "6Af6b_wyiwI",
-      "comment": "8:00: \"We don't have to hoard cans of spaghetti.\"   what about rolls of toilet paper....",
+      "comment": "4:21 \"You can have a virus where people feel well enough while they're infectious that they got on a plane or they go to a market.\" oh my god.",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 469.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 697.0,
+      "comment_timestamp": 261.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "252.0s - 258.0s",
+          "query": "Well, in the video, there's a man in a pink sweater and glasses. He seems to be speaking and gesturing with his hands. There are also two other people in the background, one in a blue shirt and another in a white protective suit. The background is mostly dark blue. For the audio, it's just the man speaking, and there's no music or sound effects. It's mainly his speech. What do you think about this video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "258.0s - 264.0s",
+          "query": "Visual: The video shows a large crowd of people in what seems to be an airport terminal. There are signs pointing to \"Baggage Claim\" and \"Restrooms\". The people are walking around, some looking at their phones, others chatting. The scene is busy and somewhat chaotic. The color scheme is mostly grayscale, giving it a somewhat old-fashioned or documentary feel. The movement is mostly forward, with people walking in different directions.\n\nAudio: There is a man speaking in the background. His voice is clear and he seems to be giving some kind of warning or advice. The speech is in English."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "264.0s - 270.0s",
+          "query": "Well, in the video, I see a man wearing glasses and a pink sweater. He seems to be speaking and gesturing with his hands. The background is a dark blue curtain. For the audio, it's just the man speaking, no other sounds like music or sound effects. What do you think about this? Do you have any other questions related to the video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 301.9666266441345
     },
     {
       "comment_index": 83,
       "video_id": "6Af6b_wyiwI",
-      "comment": "4:18 \"So next time, we might not be so lucky. You can have a virus where people feel well enough while they're infectious that they get on a plane, or they go to a market.\"",
+      "comment": "8:00: \"We don't have to hoard cans of spaghetti.\"   what about rolls of toilet paper....",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 305.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 469.0,
+      "comment_timestamp": 480.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "471.0s - 477.0s",
+          "query": "Visually, there's a large group of people sitting in what looks like an auditorium or conference hall. They seem to be focused on something in front of them, possibly a stage or speaker. The lighting is dim, with some blue and yellow lights visible in the background. The people are dressed in formal or semi-formal attire, suggesting a professional or academic event. There's a sense of anticipation or engagement in the crowd.Audience: The audio features a man speaking. He's wearing glasses and a pink sweater over a collared shirt. His speech seems to be about making the world more just and safe. The tone is serious and motivational. There are no other noticeable sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "477.0s - 483.0s",
+          "query": "Well, in the video, I see a man wearing glasses and a pink sweater. He seems to be speaking or presenting something. There are also some pictures in the background, like a world map and a helicopter. Oh, and there's a red square with a dollar sign in it.Now, for the audio part, it's just the man speaking. There's no music or sound effects, just his voice. It's like he's talking about something important, maybe related to the pictures in the background.So, what do you think about this video? Do you have any other questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "483.0s - 489.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 3.91 GiB. GPU 1 has a total capacity of 23.56 GiB of which 3.31 GiB is free. Including non-PyTorch memory, this process has 20.24 GiB memory in use. Of the allocated memory 16.06 GiB is allocated by PyTorch, and 3.87 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 271.95968198776245
     },
     {
       "comment_index": 84,
       "video_id": "6Af6b_wyiwI",
-      "comment": "4:18 \"so next time we might not be as lucky, you can have a virus where people feel well enough while they're infectious that they get on a plane or they go to a market\". And that is why this corona virus is so dangerous, because it spreads by air and droplets on surfaces that people touch. Some may have it, and be asymptomatic or by the time it manifests, too late. He was so right about this.",
+      "comment": "4:18 \"So next time, we might not be so lucky. You can have a virus where people feel well enough while they're infectious that they get on a plane, or they go to a market.\"",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 288.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 305.0,
+      "comment_timestamp": 258.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "249.0s - 255.0s",
+          "query": "Visually, there's an older man with short gray hair wearing glasses and a pink sweater over a white collared shirt. He seems to be speaking or presenting something, gesturing with his hands. The background is dark blue.\n\nIn terms of audio, it's just him talking without any other noticeable sounds like music or sound effects. His voice is clear and he appears to be engaged in delivering some kind of speech or presentation."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "255.0s - 261.0s",
+          "query": "Oh, okay. So, visually, there's someone wearing glasses and a pink sweater standing with their hands up. In the background, it looks like an airport scene - lots of people walking around, signs for baggage claim and restrooms.Anything else you noticed or want to ask about?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "261.0s - 267.0s",
+          "query": "Visual: The video shows a large crowd of people in what seems to be an airport baggage claim area. There are signs pointing to \"Baggage Claim\" and \"Restrooms\". The people are walking around, some carrying luggage. The scene is in black and white, giving it a somewhat old-fashioned or dramatic feel. The crowd is dense, with people of various ages and appearances.\n\nAudio: A man is speaking in the background. His voice is clear and he seems to be giving some kind of presentation or lecture. There are no other noticeable sounds like music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 176.48100399971008
     },
     {
       "comment_index": 85,
       "video_id": "6Af6b_wyiwI",
-      "comment": "4:21 Bill Gates: You can have a virus where people feel well enough while they are infictious that they get on a plane or they go to a market> Covid-19 : HELLO MATHA FAKA",
+      "comment": "i got the chills when he said \" you could have a virus where people feel well enough when they're infectious that they get on a plane \"  4:20",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 259.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 257.0,
+      "comment_timestamp": 260.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "251.0s - 257.0s",
+          "query": "Visually, there's a person wearing a pink sweater and glasses. They seem to be speaking and gesturing with their hands. The background is a dark blue curtain. There are no other objects or people visible in the frame. The person is the main focus, and their movements suggest they're engaged in a conversation or presentation. There's no music or sound effects in the audio. The only thing heard is the person's speech."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "257.0s - 263.0s",
+          "query": "Visually, it's a black and white video of a busy airport terminal. There are lots of people walking around, some carrying luggage. You can see signs for \"Baggage Claim\" and \"Restrooms\". The crowd is diverse, with people of different ages and styles. The movement is quite fast, as people are hurrying about.\n\nAudio - There's a man speaking in the background. His voice is clear and he seems to be giving some kind of warning or advice. The speech is the main audio element, and there are no other noticeable sound effects or music."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "263.0s - 269.0s",
+          "query": "Oh, I'm sorry for any confusion, but it seems there might be an issue with your question or the video segment provided. The instruction doesn't match up with the content described. Could you please clarify? Maybe give me more details about the video so I can better assist you?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 186.84101176261902
     },
     {
       "comment_index": 86,
       "video_id": "6Af6b_wyiwI",
-      "comment": "i got the chills when he said \" you could have a virus where people feel well enough when they're infectious that they get on a plane \"  4:20",
+      "comment": "4:22 people feel well enough to go to a market. Bill Gates just predicted the future",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 257.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 209.0,
+      "comment_timestamp": 262.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "253.0s - 259.0s",
+          "query": "Oh, okay. So, in the video, there's a guy in a pink sweater and glasses talking. He's got his hands up, like he's explaining something. Then, it cuts to a black and white shot of an airport scene. You see people, luggage, and signs like \"Baggage Claim\" and \"Reservations.\" The audio? Just the guy talking, no music or anything else. Anything else you noticed or want to ask about?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "259.0s - 265.0s",
+          "query": "Visually, it's a black - and - white video of a busy airport terminal. There are lots of people walking around, some carrying luggage. You can see signs pointing to Baggage Claim and Restrooms. The crowd is diverse, with people in different outfits. The movement is quite fast, as people are constantly on the go.\n\nAudio - wise, there's a man speaking in a calm, measured tone. He says, \"Why not be so lucky? You can have a virus where people feel well enough.\" There's no music or sound effects, just the man's speech and the background noise of the airport."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "265.0s - 271.0s",
+          "query": "Well, I can't actually watch videos directly here. But if it's just based on your description that there's someone talking about something related to planes or markets, then visually, we'd probably see an individual speaking, maybe gesturing with their hands. And for the audio, it would be the person's voice talking about these topics. What else do you want to know?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 223.0370376110077
     },
     {
       "comment_index": 87,
       "video_id": "6Af6b_wyiwI",
-      "comment": "4:22 people feel well enough to go to a market. Bill Gates just predicted the future",
+      "comment": "\"if we start now we can be ready for the next epicdemic\" 2020 - we didn't even start 8:20",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 209.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 195.0,
+      "comment_timestamp": 500.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "491.0s - 497.0s",
+          "query": "Visually, there's a person wearing a pink sweater and glasses. They seem to be speaking and gesturing with their hands. The background is a solid blue color. There's no other significant object or movement in the frame.\n\nAudio-wise, there's a man speaking. He's talking about a positive aspect of the Ebola epidemic, mentioning something about it conserving. The speech is clear and the man seems to be addressing an audience."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "497.0s - 503.0s",
+          "query": "Visually, there's a person wearing a pink sweater and glasses. They seem to be speaking and gesturing with their hands. The background is a dark blue curtain. There's no other significant object or movement in the scene. In terms of audio, it's just the person speaking, no other sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "503.0s - 509.0s",
+          "query": "Visually, there's a man in a pink sweater and glasses standing on a stage. He seems to be speaking. The background is dark blue. There are also some screens showing his image and some text. The audience is seated in rows, and there's a large \"TED\" logo on the stage. The scene looks like a TED talk setting.Audibly, there's a man speaking. He says, \"We can be ready for the next epidemic. Thank you.\" There's applause from the audience at the end."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 298.4185607433319
     },
     {
       "comment_index": 88,
       "video_id": "6Af6b_wyiwI",
-      "comment": "\"if we start now we can be ready for the next epicdemic\" 2020 - we didn't even start 8:20",
+      "comment": "Bill Gates: 7:59 - 8:28  The entire world (literally):   W O O O O O O O S H ! ! !",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 195.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 140.0,
+      "comment_timestamp": 479.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "470.0s - 476.0s",
+          "query": "Visually, there's a crowd of people sitting in what looks like an auditorium or theater. They seem to be watching something attentively. The lighting is dim, with some colored lights visible in the background. The people are dressed casually, and there's a mix of ages and genders. There's no clear action from the people, just their stillness as they watch.Audibly, there's a man speaking. His voice is clear and confident. He seems to be addressing the crowd, possibly giving a speech or presentation. There's no background music or sound effects, just his speech."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "476.0s - 482.0s",
+          "query": "Visual: The video shows a person wearing glasses and a pink sweater over a white shirt. There's a blue curtain in the background. On the right side, there are four images: a virus, a red square with a white line, a world map, and a person in a military uniform. The text \"$3,000,000\" is displayed prominently.\n\nAudio: A man is speaking in a calm tone, saying, \"This should absolutely be a priority. There's no need to panic, we don't have to.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "482.0s - 488.0s",
+          "query": "Visually, there's a large screen showing a person in a pink sweater speaking. There are also some images on the screen, like a virus, a helicopter, and a world map. The background is dark, and the audience is seated in a theater-like setting. The person seems to be gesturing while speaking. The colors are mainly dark with pops of red and white from the screen and the sweater. There's movement from the speaker's gestures and the audience's presence.Audibly, there's a man speaking in English. He's saying something about cans of spaghetti and going down into the basement, and mentions needing to get going because time is not."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 374.4165380001068
     },
     {
       "comment_index": 89,
       "video_id": "6Af6b_wyiwI",
-      "comment": "4:21 \"You can have a virus, where people feel well enough while they're infectious that they get on a plane or they go to a market\" hits way different now.",
+      "comment": "8:22 \"if we start now, we can be ready for the next epidemic\". Well I guess no one did their homework on time",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 189.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 116.0,
+      "comment_timestamp": 502.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "493.0s - 499.0s",
+          "query": "Visually, there's a person wearing a pink sweater and glasses. They seem to be speaking and gesturing with their hands. The background is a solid blue color. There's no other significant object or scene visible in the video.Audibly, there's a man speaking. He's talking about something related to the Ebola epidemic, mentioning that it can serve as an early warning. There are no other sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "499.0s - 505.0s",
+          "query": "Visually, there's a person wearing a pink sweater and glasses. They seem to be speaking and gesturing with their hands. The background is a solid blue color. There's no other significant object or movement in the frame.\n\nAudio-wise, there's a man speaking. He's saying something like \"up call to get ready if we start now we can be ready.\" The speech is clear and there are no other sounds or music in the background."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "505.0s - 511.0s",
+          "query": "Visually, there's a man in a pink sweater and glasses standing on a stage. He seems to be speaking or presenting. The background is dark, and there's a large screen showing his image. The audience is seated in rows, and the setting looks like a conference or a TED talk event. There are some red elements, like the TED logo on the stage.The audio is of a man speaking, likely the same man on stage. He says \"for the next epidemic thank you\" and there's applause from the audience."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 252.83023691177368
     },
     {
       "comment_index": 90,
       "video_id": "6Af6b_wyiwI",
-      "comment": "4:18 \"So next time, we might not be so lucky. You can have a virus where people feel well enough while infectious that they get on a plane, or they go to a market.\" Wow, talk about an accurate prediction...",
+      "comment": "2:59 The WHO is funded to-  Trump: Let me stop you right there",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 155.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 115.0,
+      "comment_timestamp": 179.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "170.0s - 176.0s",
+          "query": "Sorry, I can't analyze that video for you because it's not available to me. If you could describe the video or share more details about it, I'd be happy to help!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "176.0s - 182.0s",
+          "query": "Visually, there's just black with white and red text on it.\n\nAudio-wise, I heard someone speaking. It seems like they're talking about something important related to global failure."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "182.0s - 188.0s",
+          "query": "Sure! So, visually, there's someone wearing a pink sweater and glasses standing on a stage or something similar. They seem to be talking or presenting, with their hands moving around. The background is dark blue, which makes it look like they're in front of an audience. There are also some blurred figures that might be other people in the audience.Audience-wise, I can't really tell much about the audio since it's just \"now\" repeated. It doesn't give any specific details.Does that help? Let me know if you want more info!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 156.7077305316925
     },
     {
       "comment_index": 91,
       "video_id": "6Af6b_wyiwI",
-      "comment": "4:20 Every. Single. Word.",
+      "comment": "8:01 \"We dont have to hoard cans of spaghetti\" We be like: okay but what about toilet paper",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 143.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 83.0,
+      "comment_timestamp": 481.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "472.0s - 478.0s",
+          "query": "Visually, there's an audience seated in rows, looking attentive. The lighting is dim, suggesting it might be a conference or lecture setting. There s someone standing up, possibly giving a talk, wearing glasses and a pink sweater.\n\nIn terms of audio, I can hear a person speaking confidently, likely delivering a presentation or lecture. The speech seems to carry conviction, with pauses for emphasis."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "478.0s - 484.0s",
+          "query": "Visually, there's a person in a pink sweater, glasses, and short gray hair. There's also a black and white image of a person in a suit, a red square with a white cross, a world map, and a helicopter. The text \"$3,000,000\" is displayed in large white numbers. The background is dark blue.\n\nAudio-wise, there's a man speaking. He says, \"a priority there's no need to panic we don't have to afford cans of spaghetti or go to.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "484.0s - 490.0s",
+          "query": "Visually, there's a man in a pink sweater and glasses speaking on a stage. He's gesturing with his hands. The background is dark, and there's a large screen behind him showing his image. The audience is seated in rows, watching him. The stage has a red TED logo on it. The colors are mainly dark with the pink sweater standing out. There's movement from the speaker's gestures and the audience's stillness.Audibly, there's a man speaking. He seems to be in a hurry, saying something like \"down into the basement but we need to get going because time is not on our side.\" The tone suggests urgency."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 261.4171087741852
     },
     {
       "comment_index": 92,
       "video_id": "6Af6b_wyiwI",
-      "comment": "8:22 \"if we start now, we can be ready for the next epidemic\". Well I guess no one did their homework on time",
+      "comment": "4:30: \"The source of the virus could be a natural epidemic like Ebola or, it could be bioterrorism...\" 👀  Bill went from a Tech Prophet to a full time professional Prophet.",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 116.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 70.0,
+      "comment_timestamp": 270.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "261.0s - 267.0s",
+          "query": "Visual: The video shows a busy airport scene with lots of people walking around. There are signs pointing to \"Baggage Claim\" and \"Restrooms.\" The crowd is diverse, wearing different clothes like jackets and sweaters. Some people seem to be carrying luggage.\n\nAudio: A man is speaking, but it's not clear what he says due to the short duration. It could be some kind of announcement or conversation."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "267.0s - 273.0s",
+          "query": "Well, in the video, there's a man wearing glasses and a pink sweater. He seems to be talking and gesturing with his hands. The background is dark blue, like a curtain or something. As for the audio, it's just the man speaking. There's no music or sound effects. It's just his voice. So, what do you think about this? Do you have any other questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "273.0s - 279.0s",
+          "query": "Visually, there's a man on a stage. He's wearing a pink sweater and glasses. He seems to be speaking and gesturing with his hands. The background is dark blue curtains. There's also a large golden object on the stage, maybe a prop or decoration. The stage floor is red. The man is standing in the center of the stage, and he's moving his arms as he speaks.Audibly, there's a man speaking. He's talking about something related to \"bioterrorism\" and how it could make things \"a thousand times worse.\" The speech is clear and seems to be the main focus of the audio."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 203.49408721923828
     },
     {
       "comment_index": 93,
       "video_id": "6Af6b_wyiwI",
-      "comment": "2:59 The WHO is funded to-  Trump: Let me stop you right there",
+      "comment": "3:09 CORONAVIRUS OUTBREAK Trending on Netflix: Contagion.",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 115.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 65.0,
+      "comment_timestamp": 189.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "180.0s - 186.0s",
+          "query": "Visually, there's a man in a pink sweater and glasses speaking on a stage. He seems to be addressing an audience, gesturing with his hands. The background is dark, suggesting an indoor event, possibly a conference or seminar. There are some blurred figures in the background, likely the audience.\n\nAudio-wise, the man is speaking, but the content of his speech isn't clear from the provided information. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "186.0s - 192.0s",
+          "query": "Well, in the video, I see a man in a pink shirt talking and gesturing with his hands. He seems to be in a room with some people in the background. There are also three movie posters for \"Contagion\" shown. The posters have different characters on them, and they all say \"DON'T TALK TO ANYONE.\" The colors are mainly blue and white, and the text is in black.Now, for the audio, I hear a man speaking. He's talking about how things are different in the movies compared to reality. He mentions a group of handsome epidemiologists. The speech is clear and seems to be the main focus of the audio. There's no music or sound effects, just the man's voice."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "192.0s - 198.0s",
+          "query": "**Visual:** The video shows three movie posters for \"Contagion.\" Each poster features one of the main actors - Laurence Fishburne, Jude Law, or Marion Cotillard. They all have serious expressions and are looking off to the side. The background is dark with yellow text that says \"DON'T TALK TO ANYONE. DON'T TOUCH ANYONE.\" and \"CONTAGION\" at the bottom.\n\n**Audio:** There's no audible dialogue or music in this short clip. It seems like there might be some kind of sound effect or ambient noise, but it's not clear enough to identify specifically."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 279.41019558906555
     },
     {
       "comment_index": 94,
       "video_id": "6Af6b_wyiwI",
-      "comment": "8:00 he missed toilet paper, most ridiculous hoard item during this pandemic.",
+      "comment": "7:03 Current score - Germs 2 People 0",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 103.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 65.0,
+      "comment_timestamp": 423.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "414.0s - 420.0s",
+          "query": "Visually, there's a person wearing a pink sweater and glasses. They seem to be speaking and gesturing with their hands. The background is dark blue. There are no other objects or people visible. The person is the main focus, and their movements suggest they're engaged in a conversation or presentation."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "420.0s - 426.0s",
+          "query": "Visually, there's a man in a pink sweater and glasses standing against a dark blue background. He seems to be speaking and gesturing with his hands. There aren't any other objects or people visible in the frame.\n\nAudio-wise, it's just the man speaking. There's no background music or sound effects. The speech is clear and seems to be the main focus."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "426.0s - 432.0s",
+          "query": "Visual: A scientist is using a microscope in a laboratory setting. The background shows scientific equipment and a clean, organized workspace.\n\nAudio: There's no distinct dialogue or music heard. Just some faint ambient noise typical of a lab environment."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 194.1647253036499
     },
     {
       "comment_index": 95,
       "video_id": "6Af6b_wyiwI",
-      "comment": "8:01 \"We dont have to hoard cans of spaghetti\" We be like: okay but what about toilet paper",
+      "comment": "4:17  \" so next time where might be not so lucky \"  2020: Yes you're right",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 83.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 60.0,
+      "comment_timestamp": 257.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "248.0s - 254.0s",
+          "query": "Visually, there's a man in a pink sweater and glasses. He seems to be speaking and gesturing with his hands. The background is a dark blue curtain. There's also a woman in a white blouse partially visible on the left side of the frame. The man is the main focus, and he's moving his hands as if explaining something. The woman is mostly out of view, but you can see part of her white blouse and shoulder.Anything else you noticed or want to ask about?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "254.0s - 260.0s",
+          "query": "**Visual:** The video shows a man in a pink sweater and glasses speaking. He has his hands raised, gesturing as he talks. In the background, there are two other people, one in a dark outfit and another in a white protective suit. The setting seems to be indoors, possibly a conference or presentation area. The lighting is bright, and the overall scene is clear.\n\n**Audio:** The man is speaking, likely delivering a presentation or lecture. His voice is clear and confident. There are no other noticeable sounds or music in the background."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "260.0s - 266.0s",
+          "query": "Visual: The video shows a busy airport scene with lots of people walking around. There are signs pointing to different areas like baggage claim and restrooms. It's black and white, giving it an old-fashioned look. You can see some people carrying luggage.\n\nAudio: Someone is speaking, but I can't make out the exact words from just these six seconds. It seems to be a normal conversation or announcement typical for an airport setting."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 213.57855224609375
     },
     {
       "comment_index": 96,
       "video_id": "6Af6b_wyiwI",
-      "comment": "“Next time” at 4:20 showing asian population. You are welcome conspirators.",
+      "comment": "what scares me is how insanely correct he was-  -a virus, global pandemic -4:19, plane travel 😵",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 82.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 54.0,
+      "comment_timestamp": 259.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "250.0s - 256.0s",
+          "query": "Visually, there's a person wearing a pink sweater and glasses. They seem to be speaking and gesturing with their hands. The background is a dark blue curtain. There's no other significant object or movement in the frame. In terms of audio, it's just the person speaking, no other sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "256.0s - 262.0s",
+          "query": "Well, in the video, I see a crowd of people in an airport. There are signs pointing to \"Baggage Claim\" and \"Restrooms\". The people are walking around, some looking at their phones, others chatting. The colors are mostly muted, like the typical airport color scheme. The movement is quite busy, with people constantly on the move.In terms of audio, there's a man speaking. He seems to be talking about something related to luck and possibly a future event. There's no music or sound effects, just the man's voice and the ambient noise of the airport."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "262.0s - 268.0s",
+          "query": "Well, I'm not sure if that's possible. It seems really unlikely for someone to feel well enough while being infectious to get on a plane. You know, planes have strict health regulations these days. But hey, it could be an interesting thought experiment! What do you think?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 194.0272936820984
     },
     {
       "comment_index": 97,
       "video_id": "6Af6b_wyiwI",
-      "comment": "4:22  “You can have a virus where people feel well enough while they are infectious that they get on a plane or go to a market.” 😐😐",
+      "comment": "8:14 Bill gates: \"it's that it can serve as an early warning, a wake-up call, to get ready, if we start now, we can be ready for the next epidemic\" Corona virus: (breath heavily) BOI",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 81.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 44.0,
+      "comment_timestamp": 494.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "485.0s - 491.0s",
+          "query": "Visually, there's a man wearing glasses and a pink sweater speaking on stage with an audience in front of him. The background has a large screen displaying some text.\n\nAudibly, he is talking about needing to \"get going\" because time isn't on their side. There doesn't seem to be any other significant sounds or music in the clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "491.0s - 497.0s",
+          "query": "Visually, there's a person wearing a pink sweater and glasses. They seem to be speaking and gesturing with their hands. The background is a solid blue color. There's no other significant object or movement in the frame.\n\nAudio-wise, there's a man speaking. He's talking about a positive aspect of the Ebola epidemic, mentioning something about it conserving. The speech is clear and the man seems to be addressing an audience."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "497.0s - 503.0s",
+          "query": "Visually, there's a person wearing a pink sweater and glasses. They seem to be speaking and gesturing with their hands. The background is a dark blue curtain. There's no other significant object or movement in the scene. In terms of audio, it's just the person speaking, no other sounds like music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 199.12324953079224
     },
     {
       "comment_index": 98,
       "video_id": "6Af6b_wyiwI",
-      "comment": "4:18 the scary part is how accurate he was.",
+      "comment": "1:20 “let’s talk about it ebola. i’m sure all you read about it in the newspaper” yeah bill... the newspaper",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 77.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 42.0,
+      "comment_timestamp": 80.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "71.0s - 77.0s",
+          "query": "Visually, there's a large screen showing a virus-like structure, and a person in a red sweater is speaking. The setting seems to be a TED talk, with an audience in the background. The colors are mainly dark with some red and white from the screen and the speaker's sweater. There's movement from the speaker and the audience.\n\nAudibly, there's a man speaking in a calm, measured tone. The speech is the main focus, and there are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "77.0s - 83.0s",
+          "query": "Visually, there's a person in a white protective suit with a hood, holding a gun. There are also images of a virus, a world map, and a helicopter. The text \"WE ARE NOT READY FOR THE NEXT EPIDEMIC\" is prominently displayed, with \"EBOLA\" in large letters below it. The colors are mostly white and black, with some red and gray elements. The movement is mainly the person in the suit posing with the gun, and the other images are static.\n\nAudio: There's a male voice speaking in English, saying \"for the next epidemic let's look at Ebola I'm sure all of you.\" The tone seems serious and informative."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "83.0s - 89.0s",
+          "query": "Sorry, I can't analyze videos directly. But if you describe the video to me, I'd be happy to help!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 216.98119974136353
     },
     {
       "comment_index": 99,
       "video_id": "6Af6b_wyiwI",
-      "comment": "4:18 i finally realize that billgates have enough money to build  a time travelling machine",
+      "comment": "8:05 those words made the funniest sentence ever because not only did we literally nothing to prevent this, we held the information back from the start and are still blaming opposing political parties when we could just drop everything, work on the virus AND THEN play the blame game.",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 76.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 37.0,
+      "comment_timestamp": 485.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "476.0s - 482.0s",
+          "query": "Visual: The video shows a person wearing glasses and a pink sweater over a white shirt. There's a blue curtain in the background. On the right side, there are four images: a virus, a red square with a white line, a world map, and a person in a military uniform. The text \"$3,000,000\" is displayed prominently.\n\nAudio: A man is speaking in a calm tone, saying, \"This should absolutely be a priority. There's no need to panic, we don't have to.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "482.0s - 488.0s",
+          "query": "Visually, there's a large screen showing a person in a pink sweater speaking. There are also some images on the screen, like a virus, a helicopter, and a world map. The background is dark, and the audience is seated in a theater-like setting. The person seems to be gesturing while speaking. The colors are mainly dark with pops of red and white from the screen and the sweater. There's movement from the speaker's gestures and the audience's presence.Audibly, there's a man speaking in English. He's saying something about cans of spaghetti and going down into the basement, and mentions needing to get going because time is not."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "488.0s - 494.0s",
+          "query": "Well, I can't actually watch videos directly here. But if you describe what's happening visually - like who's there, what they're doing, any objects around them, and so on - that would be great. And for the audio, just tell me what kind of speech or sounds you hear. That way, we can analyze it together! So, go ahead and share those details with me."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 274.6013584136963
     },
     {
       "comment_index": 100,
       "video_id": "6Af6b_wyiwI",
-      "comment": "8:22: spoiler alert - we'll only start caring when it's happening",
+      "comment": "4:24 I'm having a weird feeling of deja vu",
       "language": "en",
       "channel_name": "TED",
-      "category": "knowledge",
-      "likes": 72.0,
-      "error": "Video file not found: 6Af6b_wyiwI",
-      "analysis_type": "failed"
+      "category": "talk show",
+      "likes": 36.0,
+      "comment_timestamp": 264.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "255.0s - 261.0s",
+          "query": "Oh, okay. So, visually, there's someone wearing glasses and a pink sweater standing with their hands up. In the background, it looks like an airport scene - lots of people walking around, signs for baggage claim and restrooms.Anything else you noticed or want to ask about?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "261.0s - 267.0s",
+          "query": "Visual: The video shows a large crowd of people in what seems to be an airport baggage claim area. There are signs pointing to \"Baggage Claim\" and \"Restrooms\". The people are walking around, some carrying luggage. The scene is in black and white, giving it a somewhat old-fashioned or dramatic feel. The crowd is dense, with people of various ages and appearances.\n\nAudio: A man is speaking in the background. His voice is clear and he seems to be giving some kind of presentation or lecture. There are no other noticeable sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "267.0s - 273.0s",
+          "query": "Well, in the video, there's a man wearing glasses and a pink sweater. He seems to be talking and gesturing with his hands. The background is dark blue, like a curtain or something. As for the audio, it's just the man speaking. There's no music or sound effects. It's just his voice. So, what do you think about this? Do you have any other questions?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 194.60203456878662
     }
   ]
 }

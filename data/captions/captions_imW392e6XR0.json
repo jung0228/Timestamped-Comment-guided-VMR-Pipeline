@@ -6,7 +6,67 @@
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 21,
+      "comment_index": 2641,
+      "video_id": "imW392e6XR0",
+      "comment": "2:09 GARY'S REACTION IS LEGIT THE MOST SIRIUS BLACK THING EVER",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 428.0,
+      "comment_timestamp": 129.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "120.0s - 126.0s",
+          "query": "Visual: The video shows a person with long, dark hair and a beard, wearing a black leather jacket. They are holding a phone and looking at it. The background is a brick wall with some white markings. There's also a tweet displayed at the bottom of the screen, mentioning Kit Harington and Emma Stone. The tweet seems to be criticizing their appearances.\n\nAudio: There's a voice speaking, but the content of the speech isn't clear from the provided information. There's also laughter heard in the background, suggesting a light-hearted or humorous context."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "126.0s - 132.0s",
+          "query": "Visual: The video shows a woman with long, wavy hair, wearing a blue top, holding a phone. She's standing in front of a brick wall. Then, a man with short hair and glasses appears, also holding a phone. The background remains the same brick wall. There are some white shapes resembling birds flying in the background. The bottom of the screen has a Twitter logo and some text.\n\nAudio: There's laughter in the audio, followed by speech. The speech includes phrases like \"Emma Stone looks like she smells like cat\" and \"Gary Oldman sucks and his accent is.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "132.0s - 138.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.86 GiB is free. Including non-PyTorch memory, this process has 15.69 GiB memory in use. Of the allocated memory 13.60 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 259.7183618545532
+    },
+    {
+      "comment_index": 2642,
+      "video_id": "imW392e6XR0",
+      "comment": "2:02 BABY NO ;-;",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 202.0,
+      "comment_timestamp": 122.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "113.0s - 119.0s",
+          "query": "Visually, there's a man with long, dark hair and a beard, wearing a black leather jacket. He's holding a phone and looking at it. The background is a brick wall with some snow on it. There's also a tweet displayed at the bottom of the screen that says \"@thbIem Kit Harrington is a pretty terrible Jon Snow--in the show he just seems like a big bitch with a stupid look on his face.\".Audio-wise, there's a man speaking. He says, \"terrible Jon Snow in the show he seems like a big bitch with a stupid look on his face.\".The tweet at the bottom is in white text on a blue background."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "119.0s - 125.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 3.81 GiB. GPU 1 has a total capacity of 23.56 GiB of which 3.55 GiB is free. Including non-PyTorch memory, this process has 20.00 GiB memory in use. Of the allocated memory 15.91 GiB is allocated by PyTorch, and 3.77 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "125.0s - 131.0s",
+          "query": "Visually, there are two people in the video. One is a woman with long, wavy hair, wearing a blue top, and she's looking at her phone. The other is a man with short hair and glasses, also looking at his phone. The background is a brick wall with a white Twitter logo on it. There's some text at the bottom of the screen that seems to be a comment about Emma Stone and Gary Oldman.\n\nAudibly, there's laughter and applause, suggesting that the man might be making a joke or telling a funny story."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 169.30726265907288
+    },
+    {
+      "comment_index": 2643,
       "video_id": "imW392e6XR0",
       "comment": "2:27 My kind of woman.",
       "language": "en",
@@ -19,24 +79,54 @@
         {
           "segment_index": 1,
           "time_range": "138.0s - 144.0s",
-          "query": "VISUAL: There's a man with glasses and a woman with long hair holding a phone. They seem to be on some kind of stage or set with a brick wall background. The woman is looking at her phone while talking.The AUDIO: You can hear applause and laughter throughout the clip. There's also someone speaking, but it's not clear who they are or what they're saying. It seems like there might be a bit of a pause in the speech towards the end.What do you think about the video? Any thoughts or questions?"
+          "query": "Visual: The scene shows a woman with long hair holding a phone against a brick wall background. There's also some white cloud-like shapes on the screen.\n\nAudio: Someone is speaking, but it's not clear who or what they're saying due to the lack of context from the visuals alone."
         },
         {
           "segment_index": 2,
           "time_range": "144.0s - 150.0s",
-          "query": "VISUAL: There's a woman with long, wavy hair looking at her phone. She seems to be reading something on it. The background is a brick wall with some white shapes that look like birds or clouds.AUDIO: A person is speaking, saying \"in her mouth I hate hearing her talk what's wrong with having a in my mouth.\" It sounds like they're talking about someone named Sophia Vergara and expressing dislike for how she speaks.What do you think about the content? Do you have any other thoughts on this video?"
+          "query": "Visually, there's a woman with long, wavy hair in front of a brick wall. She's holding a phone and seems to be speaking. There are some Twitter logos and text overlaid on the bottom of the screen. The text is in blue and white, and it looks like it's from a tweet criticizing the woman's speech.\n\nAudibly, there's a woman speaking, and then there's laughter from an audience. The woman's speech is in English, and the laughter suggests that something amusing or embarrassing happened during her speech."
         },
         {
           "segment_index": 3,
           "time_range": "150.0s - 156.0s",
-          "query": "VISUAL: There's a woman with long hair looking at her phone against a brick wall background. Then it cuts to an animated scene showing a hand holding a phone with a red heart on it, a city skyline silhouette, and the \"Jimmy Kimmel Live!\" logo. The word \"Mean Tweets\" appears too.AUDIO: You can hear applause and music playing throughout the clip. What do you think about these two parts?"
+          "query": "Visual: The video shows a graphic with \"Jimmy Kimmel Live!\" written on it, along with an image of a fist and a cityscape silhouette. There's also some text about subscribing and favorites.\n\nAudio: You can hear applause and music playing in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 214.86216640472412
+      "processing_time": 176.80450010299683
     },
     {
-      "comment_index": 22,
+      "comment_index": 2644,
+      "video_id": "imW392e6XR0",
+      "comment": "1:05 Accurate.",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 93.0,
+      "comment_timestamp": 65.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "56.0s - 62.0s",
+          "query": "Well, I can't actually watch videos directly here. But based on your description, it seems like there's someone talking about Mindy Kaling. They're saying she has an annoying voice and that she doesn't seem attractive or funny. And they're wondering why she has her own show if they think she's not good at all. Hmm, interesting thoughts! What do you think about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "62.0s - 68.0s",
+          "query": "Visual: There's a woman with dark hair wearing a green dress sitting against a brick wall background. Then there's a man with short black hair and beard holding a phone, also in front of the same brick wall.\n\nAudio: The woman is speaking, and then the man starts talking while looking at his phone."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "68.0s - 74.0s",
+          "query": "Visual: A man is sitting against a brick wall background, holding a phone. He's wearing a suit with a tie. There are some white shapes floating around him.\n\nAudio: Someone is speaking, and there's laughter from an audience."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 111.68024110794067
+    },
+    {
+      "comment_index": 2645,
       "video_id": "imW392e6XR0",
       "comment": "1:52 don’t listen to them kit, they know nothing!!",
       "language": "en",
@@ -49,26 +139,56 @@
         {
           "segment_index": 1,
           "time_range": "103.0s - 109.0s",
-          "query": "VISUAL: There's an older woman with short blonde hair wearing glasses and a sparkly top. She seems to be reacting to something. Then there's a man in a black shirt holding a phone, looking at it and smiling. The background is a brick wall with some white shapes on it. There are also blue clouds at the bottom of the screen.AUDIO: You can hear applause and laughter throughout the clip. There's also a voice saying \"you\" followed by \"I hope Jeremy Piven falls off.\" It ends with more applause and laughter.What do you think about the video? Any thoughts or questions?"
+          "query": "Visual: The video shows a person with short blonde hair and glasses standing in front of a brick wall. There's a Twitter logo and some text overlaid at the bottom. The person seems to be speaking or reacting to something. The background is dark, and the lighting focuses on the person.\n\nAudio: There's a voice speaking, and it includes some profanity and a statement about someone named Jeremy Piven. The tone seems to be angry or frustrated."
         },
         {
           "segment_index": 2,
           "time_range": "109.0s - 115.0s",
-          "query": "VISUAL: There's a man with long hair wearing a black leather jacket holding a phone. He seems to be reading something on it. The background is a brick wall with some white shapes on it. There's also a Twitter logo at the bottom left corner.AUDIO: A male voice says \"in public Kit Harrington is a pretty terrible Jon Snow in the show.\" It's just one line of speech without any other sounds like music or sound effects. So, that's about it for this short video segment. What do you think about it?"
+          "query": "Visual: A man with curly hair is sitting against a brick wall background. He's wearing a black leather jacket over a dark shirt and holding a phone. There are some white bird silhouettes on the wall behind him.\n\nAudio: The man is speaking, and there seems to be laughter from an audience in the background."
         },
         {
           "segment_index": 3,
           "time_range": "115.0s - 121.0s",
-          "query": "VISUAL: There's a man with long, dark hair wearing a black leather jacket. He looks at his phone while standing against a brick wall background. There's also some kind of graphic or design on the bottom of the screen that includes a Twitter logo and some text.AUDIO: The main thing heard is someone speaking, saying \"Show he seems like a big with a stupid look on his face bad casting.\" It's not clear if there's any other audio besides this speech.If you have any more questions about it or want to discuss something else related, feel free to let me know!"
+          "query": "Visually, there's a man with long, dark hair and a beard, wearing a black leather jacket. He's standing in front of a brick wall, looking at his phone. There's a tweet displayed at the bottom of the screen that says \"Kit Harrington is a pretty terrible Jon Snow - in the show he just seems like a big bitch with a stupid look on his face.\" The tweet also has a Twitter logo and the hashtag \"badcasting.\".Audio-wise, there's a man speaking. He seems to be talking about Kit Harrington's portrayal of Jon Snow, saying he's a \"pretty terrible Jon Snow\" and that he just seems like a \"big bitch with a stupid look on his face.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 276.40538811683655
+      "processing_time": 237.5497546195984
     },
     {
-      "comment_index": 23,
+      "comment_index": 2646,
       "video_id": "imW392e6XR0",
-      "comment": " [USER]  0:51 Mindy Kaling. She is offended as heck, though probably not butthurt",
+      "comment": "1:10 RIP :(",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 81.0,
+      "comment_timestamp": 70.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "61.0s - 67.0s",
+          "query": "Visual: A man is sitting in front of a brick wall, looking at his phone. There's a Twitter logo and a tweet displayed on the screen. The tweet criticizes Mindy Kaling, saying she's not funny or attractive and has an annoying voice. The man seems to be reacting to the tweet.\n\nAudio: There's a voiceover that says, \"I feel like this is more than 140 characters.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "67.0s - 73.0s",
+          "query": "Visual: The video shows two men. The first man has a beard and is wearing a black shirt. He's holding a phone and looking at it. The second man is bald, wearing a suit, and is standing in front of a brick wall. There are some white shapes on the wall that resemble birds. The bottom of the screen has a Twitter logo and some text that says \"David Blaine looks like his voice is putting his face to sleep.\" The second man is talking, and there's applause in the background.\n\nAudio: The man in the suit is speaking, and there's applause from an audience."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "73.0s - 79.0s",
+          "query": "Visually, there are two men in suits. One is holding a phone and looking at it, while the other is sitting and smiling. The background is a brick wall. There's also a Twitter logo and some text overlaid on the bottom of the screen.\n\nAudibly, there's laughter and applause in the background."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 280.17290019989014
+    },
+    {
+      "comment_index": 2647,
+      "video_id": "imW392e6XR0",
+      "comment": " @chakraflow8849  0:51 Mindy Kaling. She is offended as heck, though probably not butthurt",
       "language": "en",
       "channel_name": "JimmyKimmelLive",
       "category": "entertainment",
@@ -79,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "42.0s - 48.0s",
-          "query": "VISUAL: There's a woman with long dark hair wearing a black leather jacket sitting at a table. She has a phone in her hands. Then there's a man in a suit also sitting at the same table. The background is a brick wall with some white shapes on it.AUDIO: A female voice says \"Oh\" followed by laughter. Then a male voice says something that sounds like \"If I said it once I've said it a hundred times.\" It ends with more laughter.So, what do you think about this video? Do you have any other questions?"
+          "query": "Visual: A person is holding a phone against a brick wall background. There's some kind of graphic or logo at the bottom left corner.\n\nAudio: Someone is speaking, saying \"If I said it once, I've said it a hundred times.\""
         },
         {
           "segment_index": 2,
           "time_range": "48.0s - 54.0s",
-          "query": "VISUAL: A man in a suit is looking at his phone. There's a Twitter logo on the screen with some text that seems to be a tweet. The background has a brick wall pattern. Then it cuts to a woman in a blue dress also looking at her phone.AUDIO: There's laughter and applause in the background, along with some speech. It sounds like there might be a show or event going on.What do you think about the scene? Any thoughts?"
+          "query": "Visual: A man in a suit is standing against a brick wall background with a world map silhouette behind him. He's holding something small in his hand.\n\nAudio: There's laughter heard after some speech."
         },
         {
           "segment_index": 3,
           "time_range": "54.0s - 60.0s",
-          "query": "VISUAL: There's a woman with dark hair wearing a sparkly dress. She seems to be reacting to something on her phone. The background is a brick wall with some white bird silhouettes. There's also a Twitter logo and a tweet displayed at the bottom.AUDIO: Someone is speaking, saying \"not funny or attractive she has an annoying voice and just plainly sucks why do\". It's a bit of a negative comment about someone's qualities.What do you think about that? Do you have any other videos you want me to analyze?"
+          "query": "Well, in the video, there's a woman sitting in front of a brick wall. She's wearing a sleeveless top and has long hair. She seems to be looking at something in her hands, maybe a phone or a book. There's a map of the United States projected on the wall behind her.As for the audio, there's a voice speaking. The voice is saying something negative about Mindy Kaling, calling her not funny, not attractive, having an annoying voice, and just plain bad. It's a pretty harsh and unkind comment. There's no music or sound effects, just the voice speaking."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 236.9400143623352
+      "processing_time": 168.95936727523804
     },
     {
-      "comment_index": 24,
+      "comment_index": 2648,
       "video_id": "imW392e6XR0",
       "comment": "Oh i didn't know. 1:13 R.I.P 🙏🏾",
       "language": "en",
@@ -109,84 +229,84 @@
         {
           "segment_index": 1,
           "time_range": "64.0s - 70.0s",
-          "query": "VISUAL: A man with short dark hair and a beard is sitting against a brick wall background. He's wearing a black shirt and looking at his phone. There are some white bird silhouettes on the wall above him. The bottom has a Twitter logo and a tweet from [USER] saying \"David Blaine looks like his voice is putting his face to sleep.\".AUDIO: There's laughter and applause in the background. Then there's a male voice speaking the same tweet that appears on screen. It ends with more applause. So, what do you think about it?"
+          "query": "Visually, there's a man in a black shirt sitting in front of a brick wall. He's holding a phone and looking at it. There are some white cloud-like shapes and a Twitter logo on the screen. The man has a beard and short hair. The background is mostly dark with the brick wall being a reddish-brown color. There's some movement as the man seems to be interacting with his phone, possibly typing or scrolling.Audibly, there's a voice saying \"David Blaine looks like his voice is putting his face to sleep.\" This is followed by applause. The voice is clear and seems to be from a person speaking directly to the camera."
         },
         {
           "segment_index": 2,
           "time_range": "70.0s - 76.0s",
-          "query": "VISUAL: There's an older man with a bald head wearing a suit and tie. He looks at his phone while standing against a brick wall background. There are some white shapes on the wall that look like birds.AUDIO: You can hear applause and laughter throughout the clip. The man also says something about Don Rickles looking like Yoda. What do you think about it?"
+          "query": "Visually, there's a man in a suit and tie standing in front of a brick wall. He seems to be speaking or presenting something. There's also a Twitter logo and some text at the bottom of the screen. The scene is well-lit, and the man is the main focus.\n\nIn terms of audio, there's laughter and applause heard, suggesting the man's speech or presentation is being well-received."
         },
         {
           "segment_index": 3,
           "time_range": "76.0s - 82.0s",
-          "query": "VISUAL: A man in a suit is holding up a phone, looking at it and talking. He has a beard and long hair. The background is a brick wall with some white shapes on it.AUDIO: There's a voice speaking about Ethan Hawke, saying he seems like someone who wasn't supposed to be a movie star but ended up there.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's a man in a suit holding a phone. He's standing in front of a brick wall. The man has a beard and is looking at his phone. There's a Twitter logo and a tweet displayed at the bottom of the screen.\n\nAudio-wise, there's a voice speaking. The speech is about Ethan Hawke, saying he seems like a guy who wasn't supposed to be a movie star but ended up being one."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 203.35293126106262
+      "processing_time": 267.159544467926
     },
     {
-      "comment_index": 25,
+      "comment_index": 2649,
       "video_id": "imW392e6XR0",
-      "comment": "2:27 \"WHAT'S WRONG WITH HAVE A DICK IN MY MOUTH!!?\"",
+      "comment": "2:21 Dem eyebrows",
       "language": "en",
       "channel_name": "JimmyKimmelLive",
       "category": "entertainment",
-      "likes": 49.0,
-      "comment_timestamp": 147.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "138.0s - 144.0s",
-          "query": "VISUAL: There's a man with glasses and a woman with long hair holding a phone. They seem to be on some kind of stage or set with a brick wall background. The woman is looking at her phone while talking.The AUDIO: You can hear applause and laughter throughout the clip. There's also someone speaking, but it's not clear who they are or what they're saying. It seems like there might be a bit of a pause in the speech towards the end.What do you think about the video? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "144.0s - 150.0s",
-          "query": "VISUAL: There's a woman with long, wavy hair looking at her phone. She seems to be reading something on it. The background is a brick wall with some white shapes that look like birds or clouds.AUDIO: A person is speaking, saying \"in her mouth I hate hearing her talk what's wrong with having a in my mouth.\" It sounds like they're talking about someone named Sophia Vergara and expressing dislike for how she speaks.What do you think about the content? Do you have any other thoughts on this video?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "150.0s - 156.0s",
-          "query": "VISUAL: There's a woman with long hair looking at her phone against a brick wall background. Then it cuts to an animated scene showing a hand holding a phone with a red heart on it, a city skyline silhouette, and the \"Jimmy Kimmel Live!\" logo. The word \"Mean Tweets\" appears too.AUDIO: You can hear applause and music playing throughout the clip. What do you think about these two parts?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 219.5985929965973
-    },
-    {
-      "comment_index": 26,
-      "video_id": "imW392e6XR0",
-      "comment": "2:21 Most unexpected reply 😱😂👍👍",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 38.0,
+      "likes": 52.0,
       "comment_timestamp": 141.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
           "time_range": "132.0s - 138.0s",
-          "query": "VISUAL: There's a man with glasses on stage against a brick wall background. He seems to be reacting to something, laughing and covering his mouth with his hand. There's also some Twitter-related graphics at the bottom of the screen.AUDIO: You can hear laughter throughout the clip. It starts around 1 second and continues until about 7 seconds. There might be some other faint sounds or speech in between, but it's not clear.What do you think about the video? Any thoughts or questions?"
+          "query": "**Visual:** The video shows a man wearing glasses and a suit, standing in front of a brick wall. He appears to be reacting to something, possibly a tweet displayed on the screen in front of him. The tweet criticizes Gary Oldman's accents, using explicit language. The man seems amused or entertained by the tweet, as he laughs and covers his mouth with his hand.\n\n**Audio:** The audio includes laughter and applause, suggesting that the man's reaction to the tweet is amusing to others watching. There is no music or other sound effects."
         },
         {
           "segment_index": 2,
           "time_range": "138.0s - 144.0s",
-          "query": "VISUAL: There's a man with glasses and a woman with long hair holding a phone. They seem to be on some kind of stage or set with a brick wall background. The woman is looking at her phone while talking.The AUDIO: You can hear applause and laughter throughout the clip. There's also someone speaking, but it's not clear who they are or what they're saying. It seems like there might be a bit of a pause in the speech towards the end.What do you think about the video? Any thoughts or questions?"
+          "query": "Visual: The scene shows a woman with long hair holding a phone against a brick wall background. There's also some white cloud-like shapes on the screen.\n\nAudio: Someone is speaking, but it's not clear who or what they're saying due to the lack of context from the visuals alone."
         },
         {
           "segment_index": 3,
           "time_range": "144.0s - 150.0s",
-          "query": "VISUAL: There's a woman with long, wavy hair looking at her phone. She seems to be reading something on it. The background is a brick wall with some white shapes that look like birds or clouds.AUDIO: A person is speaking, saying \"in her mouth I hate hearing her talk what's wrong with having a in my mouth.\" It sounds like they're talking about someone named Sophia Vergara and expressing dislike for how she speaks.What do you think about the content? Do you have any other thoughts on this video?"
+          "query": "Visually, there's a woman with long, wavy hair in front of a brick wall. She's holding a phone and seems to be speaking. There are some Twitter logos and text overlaid on the bottom of the screen. The text is in blue and white, and it looks like it's from a tweet criticizing the woman's speech.\n\nAudibly, there's a woman speaking, and then there's laughter from an audience. The woman's speech is in English, and the laughter suggests that something amusing or embarrassing happened during her speech."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 253.49098205566406
+      "processing_time": 184.80983567237854
     },
     {
-      "comment_index": 27,
+      "comment_index": 2650,
+      "video_id": "imW392e6XR0",
+      "comment": "@1:41 U go grandma! :D",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 38.0,
+      "comment_timestamp": 101.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "92.0s - 98.0s",
+          "query": "Visual: A man is holding up a phone with his right hand while looking at it. He's wearing a white shirt and black tie against a brick wall background.\n\nAudio: There's laughter followed by applause."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "98.0s - 104.0s",
+          "query": "Visually, there's a woman with short, light-colored hair and glasses. She's wearing a dark, textured top. The background is a brick wall. There's also a Twitter logo and some text overlaid at the bottom of the screen.\n\nIn terms of audio, there's a woman speaking, and there's laughter in the background."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "104.0s - 110.0s",
+          "query": "Visually, there's a woman with short gray hair and glasses standing in front of a brick wall. She's wearing a dark-colored top. Then, a man with short brown hair and a beard appears, also in front of the brick wall, wearing a black shirt. He seems to be speaking or reacting to something. There are some white, cloud-like shapes at the bottom of the screen, and a Twitter logo is visible there too. The background is mostly dark with the brick wall being the main feature.\n\nIn terms of audio, there's a voice saying \"Oh, f**k off, June Squibb.\" followed by applause and laughter."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 200.6848316192627
+    },
+    {
+      "comment_index": 2651,
       "video_id": "imW392e6XR0",
       "comment": "Bruh 2:10 this man just dissed Sirius black??",
       "language": "en",
@@ -199,24 +319,54 @@
         {
           "segment_index": 1,
           "time_range": "121.0s - 127.0s",
-          "query": "VISUAL: There's a man with long hair wearing a brown leather jacket looking at his phone. Then it cuts to a woman with wavy blonde hair also on her phone. The background is a brick wall with some white shapes that look like birds or clouds. The lighting seems dim.AUDIO: There's laughter throughout the whole clip. It starts with a tweet about Kit Harington playing Jon Snow being bad casting, then another tweet about Emma Stone smelling like cat piss. The laughter continues after both tweets."
+          "query": "Visual: There's someone with long hair against a brick wall background. They're holding something small and black. The bottom has some white cloud-like shapes with text overlaid.\n\nAudio: Laughter is heard throughout."
         },
         {
           "segment_index": 2,
           "time_range": "127.0s - 133.0s",
-          "query": "VISUAL: There's a woman with long brown hair looking at her phone against a brick wall background. Then it cuts to a man with glasses and short gray hair also on his phone. The background is still that brick wall.AUDIO: You can hear laughter and applause during the first few seconds, then someone starts speaking, saying \"Gary Oldman sucks and his accents are.\" It seems like they're reacting to something negative about Gary Oldman. What do you think about this kind of reaction?"
+          "query": "Visual: The video shows a woman with blonde hair wearing a blue top, looking at her phone. There's a brick wall in the background. Then, a man with glasses and a beard appears, also looking at his phone. The scene seems to be indoors, possibly in a studio or a room with a brick wall. The lighting is relatively dim.\n\nAudio: There's laughter and applause in the background, suggesting a live audience. The man speaks, but the content of his speech isn't clear from the provided information."
         },
         {
           "segment_index": 3,
           "time_range": "133.0s - 139.0s",
-          "query": "VISUAL: There's a man with glasses and short hair on stage against a brick wall background. He seems to be reacting to something, laughing and covering his mouth with his hand. There's also a Twitter logo and some text overlaid at the bottom of the screen.AUDIO: You can hear laughter and applause in the background. The man is speaking, though it's not clear what he says due to the overlay text."
+          "query": "Visually, there's a man with glasses sitting against a brick wall background. He seems to be reacting to something, maybe laughing or talking. There are some white bird silhouettes on the wall behind him. The overall color scheme is dark with muted tones.\n\nIn terms of audio, it starts with laughter from an unseen source, then there's applause that follows right after. It gives off a light-hearted vibe."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 221.2067015171051
+      "processing_time": 225.07478666305542
     },
     {
-      "comment_index": 28,
+      "comment_index": 2652,
+      "video_id": "imW392e6XR0",
+      "comment": "1:29 repeat until satisfaction",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 35.0,
+      "comment_timestamp": 89.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "80.0s - 86.0s",
+          "query": "**Visual:** A man in a suit is holding a phone up to his face, seemingly taking a selfie. He has a beard and is standing in front of a brick wall. There are some white shapes on the wall that look like birds in flight. The bottom of the screen has a Twitter logo and a tweet that says, \"Ethan Hawke seems like a guy who wasn't supposed to be a movie star, but he slipped through the cracks and everyone was just like 'Oh'.\"\n\n**Audio:** A man is speaking, and there's laughter in the background."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "86.0s - 92.0s",
+          "query": "Visual: The video shows a man in a suit holding a phone, looking at it. There's a Twitter logo and some text overlaid on the screen. The background is a brick wall. The man seems to be reacting to something on his phone.\n\nAudio: There's laughter and applause in the background, along with some speech. The speech includes phrases like \"Ethan Hawke seems like a guy who wasn't supposed to be a movie star, but he slipped through the cracks and everyone was like 'Oh'\" and \"Matthew McConaughey is a d**k turd.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "92.0s - 98.0s",
+          "query": "Visual: A man is holding up a phone with his right hand while looking at it. He's wearing a white shirt and black tie against a brick wall background.\n\nAudio: There's laughter followed by applause."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 199.29582977294922
+    },
+    {
+      "comment_index": 2653,
       "video_id": "imW392e6XR0",
       "comment": "2:06 she really got offended",
       "language": "en",
@@ -229,24 +379,24 @@
         {
           "segment_index": 1,
           "time_range": "117.0s - 123.0s",
-          "query": "VISUAL: There's a man with long hair and a beard wearing a leather jacket. He's holding a phone and looking at it while standing against a brick wall background. There's also some text overlaid on the bottom left corner that seems to be a tweet about Kit Harrington's performance as Jon Snow.AUDIO: The audio has laughter throughout the entire clip. It starts around 1.9 seconds and continues until almost the end of the clip. There might be some other faint sounds or whispers in between the laughter, but they're not very clear.If you have any more questions about this video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Visually, there's someone with long hair wearing a leather jacket against a brick wall backdrop. There s also some white paper-like shapes floating around. The person seems to be holding something small in their hand.\n\nAudio-wise, it starts off with laughter from an unseen source, then transitions into a man speaking. It looks like he might be reacting to or commenting on something humorous."
         },
         {
           "segment_index": 2,
           "time_range": "123.0s - 129.0s",
-          "query": "VISUAL: There's a woman with wavy hair wearing a blue top. She's holding a phone and looking at it while standing against a brick wall background. There are some white shapes on the wall that look like birds or clouds. The bottom has a Twitter logo and a tweet from [USER] saying \"Emma Stone looks like she smells like cat piss.\".AUDIO: A woman is speaking, and there's laughter after her speech. It seems to be a light-hearted or humorous context. What do you think about this kind of content?"
+          "query": "Visually, there's a woman with wavy hair, wearing a blue top, sitting in front of a brick wall. She's holding a phone and looking at it. There are some white, cloud-like shapes at the bottom of the frame, and a Twitter logo is visible. The scene is indoors, and the lighting is relatively dim.\n\nIn terms of audio, there's a woman speaking, and there's laughter in the background."
         },
         {
           "segment_index": 3,
           "time_range": "129.0s - 135.0s",
-          "query": "VISUAL: A man with glasses is standing against a brick wall background. He's holding a phone and looking at it while talking. There's a Twitter logo and some text overlaid on the bottom left corner.AUDIO: Someone is speaking, saying \"Gary Oldman sucks and his accents are annoying.\" Then there's applause from an audience. What do you think about that?"
+          "query": "Visual: A man with glasses is standing against a brick wall background. He's holding something small in his hand. There are some white cloud-like shapes around him.\n\nAudio: The man is speaking, and there's laughter from an unseen audience."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 232.7481598854065
+      "processing_time": 204.196706533432
     },
     {
-      "comment_index": 29,
+      "comment_index": 2654,
       "video_id": "imW392e6XR0",
       "comment": "1:51 Alright, who’s the clown who wrote that tweet? I’m not mad, I just wanna talk.",
       "language": "en",
@@ -259,24 +409,54 @@
         {
           "segment_index": 1,
           "time_range": "102.0s - 108.0s",
-          "query": "VISUAL: There's an older woman with short blonde hair wearing glasses and a dark top. She seems to be speaking or reacting to something. Then there's a man with short brown hair in a black shirt looking at his phone. The background is a brick wall with some white shapes on it. There are also blue cloud-like shapes at the bottom of the screen.AUDIO: You can hear applause and some kind of impact sound, like a smack. There's also a voice saying \"Oh f**k off June Squibb\" and another one saying \"I hope Jeremy Piven's d**k falls off.\".So, what do you think about these two parts? Do you have any other thoughts or questions related to the video?"
+          "query": "Visual: The video shows two individuals against a brick wall backdrop. One person is wearing glasses and has light-colored hair, while the other is dressed in dark clothing.\n\nAudio: There's speech from both individuals, with one saying \"Oh, f*ck off, June Squibb.\" followed by applause."
         },
         {
           "segment_index": 2,
           "time_range": "108.0s - 114.0s",
-          "query": "VISUAL: There's a man with short hair holding a phone against a brick wall background. Then it cuts to another man with long hair and a beard also holding a phone. The first guy is wearing a black shirt, and the second one has on a leather jacket over a dark shirt.AUDIO: You can hear laughter and applause in the background during both men's segments.What do you think about these two guys? Do you recognize them?"
+          "query": "Visually, there's a man with long hair and a beard, wearing a black leather jacket. He's standing in front of a brick wall, looking at his phone. There are some white shapes, possibly birds, flying in the background. The overall color scheme is dark with the brick wall and the man's dark clothing.\n\nAudio-wise, there's a voice speaking, saying \"Kit harington is a pretty terrible Jon Snow.\" There's also laughter from an unseen source."
         },
         {
           "segment_index": 3,
           "time_range": "114.0s - 120.0s",
-          "query": "VISUAL: There's a man with long dark hair wearing a black leather jacket. He looks at his phone while standing against a brick wall background. The bottom has an image of snowflakes and a tweet from [USER] about Kit Harrington playing Jon Snow in the show.AUDIO: A male voice is speaking, saying \"in the show he seems like a big with a stupid look on his face\". It's a bit hard to understand clearly though.What do you think about that? Do you have any other videos or questions for me?"
+          "query": "Visually, there's a man with long, dark hair and a beard. He's wearing a black leather jacket and is looking at his phone. The background is a brick wall. There's also a tweet displayed at the bottom of the screen that says \"Kit Harrington is a pretty terrible Jon Snow - in the show he just seems like a big bitch with a stupid look on his face.\".Audio-wise, there's a man speaking. He seems to be talking about Kit Harrington's performance as Jon Snow, saying he's terrible and has a stupid look on his face."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 251.58081769943237
+      "processing_time": 208.50656914710999
     },
     {
-      "comment_index": 30,
+      "comment_index": 2655,
+      "video_id": "imW392e6XR0",
+      "comment": "2:14 sounds just like someone else’s laugh ik 🤔",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 28.0,
+      "comment_timestamp": 134.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "125.0s - 131.0s",
+          "query": "Visually, there are two people in the video. One is a woman with long, wavy hair, wearing a blue top, and she's looking at her phone. The other is a man with short hair and glasses, also looking at his phone. The background is a brick wall with a white Twitter logo on it. There's some text at the bottom of the screen that seems to be a comment about Emma Stone and Gary Oldman.\n\nAudibly, there's laughter and applause, suggesting that the man might be making a joke or telling a funny story."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "131.0s - 137.0s",
+          "query": "Visually, there's a man in a suit and glasses standing in front of a brick wall. He seems to be speaking or presenting something. There are some white, cloud-like shapes at the bottom of the screen, and a blue Twitter logo is visible. The background is dark, and the lighting focuses on the man.\n\nIn terms of audio, there's laughter and applause heard, suggesting the man might be delivering a joke or a funny comment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "137.0s - 143.0s",
+          "query": "Visually, there's a man in a suit and glasses standing in front of a brick wall. He seems to be speaking or reacting to something. Then, a woman with long hair appears, also in front of the brick wall, holding a phone and looking at it. The background is mostly the brick wall, and there's a Twitter logo and some text overlaid on the bottom of the screen.\n\nIn terms of audio, there's laughter and applause heard, suggesting a positive or humorous reaction to something said or done. There's also speech from the man and woman, but the exact words are unclear from this short segment."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 250.95854926109314
+    },
+    {
+      "comment_index": 2656,
       "video_id": "imW392e6XR0",
       "comment": "1:33  NOOOOOOOOO sir dont listen to him we love you so much",
       "language": "en",
@@ -289,24 +469,24 @@
         {
           "segment_index": 1,
           "time_range": "84.0s - 90.0s",
-          "query": "VISUAL: A man in a suit is holding up a phone, looking at it. There's a brick wall behind him with some white shapes on it. The bottom has a Twitter-like design with a blue bird logo.AUDIO: Someone says \"Okay Matthew McConaughey is a turd.\" It's a short, straightforward statement without much emotion or variation. What do you think about that?"
+          "query": "Visually, there's a man in a suit holding up a phone against a brick wall backdrop with a map outline on it. There are also some clouds or smoke-like elements at the bottom.\n\nIn terms of audio, someone is speaking, and there's laughter from an unseen audience."
         },
         {
           "segment_index": 2,
           "time_range": "90.0s - 96.0s",
-          "query": "VISUAL: A man is sitting against a brick wall background. He's wearing a white shirt with a pink collar and a black tie. He has short dark hair and is holding a phone up to his face, looking at it. There's a tweet displayed on the screen that says \"[USER] Matthew mcConaughey is a d**k turd.\". AUDIO: There's laughter throughout the clip. It seems like there might be some kind of humorous or unexpected situation happening. What do you think about it?"
+          "query": "Visually, there's a man in a suit holding a phone. He's standing against a brick wall background. There's also a Twitter logo and some text overlaid on the bottom of the screen. The man seems to be looking at his phone, possibly texting or browsing. The lighting is bright, highlighting the man and the phone clearly.\n\nIn terms of audio, there's laughter and applause in the background, suggesting that this might be part of a show or a public event. There's also a male voice speaking, but the content of the speech isn't clear from this short segment."
         },
         {
           "segment_index": 3,
           "time_range": "96.0s - 102.0s",
-          "query": "VISUAL: There's a man in a white shirt and tie holding a phone. Then an older woman with glasses appears, also looking at her phone. The background is a brick wall. There are some cartoonish clouds and a Twitter logo at the bottom.AUDIO: Someone says \"Oh f**k off June Squibb\" twice. It seems like there might be applause or laughter after that. What do you think about it?"
+          "query": "Visual: The video shows a person with short blonde hair and glasses, wearing a gray sweater. They are standing in front of a brick wall. There's a Twitter logo and some text overlaid on the bottom left corner of the screen. The person seems to be speaking or reacting to something.\n\nAudio: There's laughter and applause in the background, along with some speech. The speech includes phrases like \"Oh f**k off, June Squibb.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 202.20637726783752
+      "processing_time": 191.47384929656982
     },
     {
-      "comment_index": 31,
+      "comment_index": 2657,
       "video_id": "imW392e6XR0",
       "comment": "2:28 That’s gotta be the sexiest comeback from Sophia Vergara I’ve ever heard.   Wow. That was a sexy comeback.  The cherry on top is that she’s straight so it just adds to it too. I’d give her a round of applause.",
       "language": "en",
@@ -319,24 +499,24 @@
         {
           "segment_index": 1,
           "time_range": "139.0s - 145.0s",
-          "query": "VISUAL: There's a man with glasses and a beard talking against a brick wall background. Then it cuts to a woman with long hair holding a phone, also in front of the same brick wall. She seems to be reading something on her phone.AUDIO: The man is speaking, and then there's laughter from an audience. The woman also speaks briefly. It sounds like they're in some kind of talk show or interview setting.If you have any other thoughts about the video or want to discuss more, feel free to let me know!"
+          "query": "Visual: The video shows a woman with long, wavy hair sitting in front of a brick wall. She's holding a phone and appears to be speaking or reacting to something. There's a Twitter logo and some text overlaid on the bottom of the screen. The text seems to be a tweet criticizing someone's accent.\n\nAudio: There's laughter and applause in the background, and a woman is speaking."
         },
         {
           "segment_index": 2,
           "time_range": "145.0s - 151.0s",
-          "query": "VISUAL: There's a woman with long brown hair sitting against a brick wall background. She has a phone in her hand and is looking at it while talking. The bottom part of the screen shows some white clouds and a Twitter logo with a tweet from [USER] criticizing Sophia Vergara's voice.AUDIO: A woman is speaking, saying \"I hate hearing her talk\" and then \"what's wrong with having a my mouth.\" There's also applause heard in the background. What do you think about that tweet?"
+          "query": "Visually, there's a woman with long, wavy hair standing in front of a brick wall. She's holding a phone and appears to be speaking. There's a Twitter logo and some text overlaid on the bottom left of the screen.\n\nIn terms of audio, there's a woman speaking, and then there's applause and laughter from an unseen audience."
         },
         {
           "segment_index": 3,
           "time_range": "151.0s - 157.0s",
-          "query": "VISUAL: There's an illustration of a hand holding a phone with a cityscape in the background. The words \"Jimmy Kimmel Live!\" appear above it. Then it transitions to a night scene with the Hollywood sign lit up, buildings lit from within, and stars in the sky. There are also buttons for \"Subscribe\" and \"Favorites\" on the right side.AUDIO: Music is playing throughout the video. There's no specific speech or sound effects mentioned."
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.54 GiB. GPU 1 has a total capacity of 23.56 GiB of which 1.88 GiB is free. Including non-PyTorch memory, this process has 21.67 GiB memory in use. Of the allocated memory 16.90 GiB is allocated by PyTorch, and 4.46 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 227.42734742164612
+      "processing_time": 261.75559091567993
     },
     {
-      "comment_index": 32,
+      "comment_index": 2658,
       "video_id": "imW392e6XR0",
       "comment": "2:15 Gary Oldman literally is soo chill, I love him 😂❤️, btw a great great actor🙏🏻❤️ lots of respect",
       "language": "en",
@@ -349,24 +529,24 @@
         {
           "segment_index": 1,
           "time_range": "126.0s - 132.0s",
-          "query": "VISUAL: There's a woman with wavy hair holding a phone against a brick wall background. Then it cuts to a man with glasses also holding a phone. The scene has some Twitter-like graphics at the bottom.AUDIO: There's laughter and applause throughout, along with someone speaking. It seems like they're reacting to something on their phones.What do you think about that? Any thoughts or questions?"
+          "query": "Visual: The video shows a woman with long, wavy hair, wearing a blue top, holding a phone. She's standing in front of a brick wall. Then, a man with short hair and glasses appears, also holding a phone. The background remains the same brick wall. There are some white shapes resembling birds flying in the background. The bottom of the screen has a Twitter logo and some text.\n\nAudio: There's laughter in the audio, followed by speech. The speech includes phrases like \"Emma Stone looks like she smells like cat\" and \"Gary Oldman sucks and his accent is.\""
         },
         {
           "segment_index": 2,
           "time_range": "132.0s - 138.0s",
-          "query": "VISUAL: There's a man with glasses on stage against a brick wall background. He seems to be reacting to something, laughing and covering his mouth with his hand. There's also some Twitter-related graphics at the bottom of the screen.AUDIO: You can hear laughter throughout the clip. It starts around 1 second and continues until about 7 seconds. There might be some other faint sounds or speech in between, but it's not clear.What do you think about the video? Any thoughts or questions?"
+          "query": "**Visual:** The video shows a man wearing glasses and a suit, standing in front of a brick wall. He appears to be reacting to something, possibly a tweet displayed on the screen in front of him. The tweet criticizes Gary Oldman's accents, using explicit language. The man seems amused or entertained by the tweet, as he laughs and covers his mouth with his hand.\n\n**Audio:** The audio includes laughter and applause, suggesting that the man's reaction to the tweet is amusing to others watching. There is no music or other sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "138.0s - 144.0s",
-          "query": "VISUAL: There's a man with glasses and a woman with long hair holding a phone. They seem to be on some kind of stage or set with a brick wall background. The woman is looking at her phone while talking.The AUDIO: You can hear applause and laughter throughout the clip. There's also someone speaking, but it's not clear who they are or what they're saying. It seems like there might be a bit of a pause in the speech towards the end.What do you think about the video? Any thoughts or questions?"
+          "query": "Visual: The video shows a woman with long, wavy hair sitting in front of a brick wall. There's a Twitter logo and a tweet displayed at the bottom of the screen. The tweet seems to criticize someone's accents. The woman is looking down at something, possibly a phone, and there's laughter in the background.\n\nAudio: The audio includes laughter and a woman speaking. The speech is likely related to the tweet displayed, possibly reacting to it."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 236.5270574092865
+      "processing_time": 240.4415798187256
     },
     {
-      "comment_index": 33,
+      "comment_index": 2659,
       "video_id": "imW392e6XR0",
       "comment": "0:23 I think Captain America wrote that",
       "language": "en",
@@ -379,231 +559,51 @@
         {
           "segment_index": 1,
           "time_range": "14.0s - 20.0s",
-          "query": "VISUAL: A woman with blonde hair and glasses is holding a phone. She's standing against a brick wall background. There are some white shapes on the wall that look like birds or clouds. The woman seems to be reacting to something on her phone.AUDIO: Someone is speaking, saying \"will devour an elephant in one bite thank you chemotherapy seven good luck.\" It sounds like they're reading out a tweet or comment. There's also laughter from other people in the background.What do you think about it? Do you have any other videos you want me to analyze?"
+          "query": "Visually, there's a woman with blonde hair and glasses, wearing a blue dress with white polka dots. She's holding a phone and talking. The background is a brick wall. There's also a tweet displayed at the bottom of the screen.\n\nAudibly, there's a woman speaking, and there's laughter heard in the background."
         },
         {
           "segment_index": 2,
           "time_range": "20.0s - 26.0s",
-          "query": "VISUAL: There's a man wearing a hat and a shirt with a tie. He seems to be holding something like a microphone or a phone. The background is a brick wall. There are some white clouds at the bottom of the screen.AUDIO: A person is speaking. It sounds like they're talking about Don Cheadle, saying he doesn't seem like someone they'd want to hang around with.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Well, in the video, there's a guy wearing a hat and a shirt. He's standing in front of a brick wall. He seems to be talking or reacting to something. There's also a Twitter logo and some text at the bottom of the screen. The audio has a man speaking, and there's some background music playing. It's a short clip, so it's hard to say more about the exact content of what he's saying. What do you think about it?"
         },
         {
           "segment_index": 3,
           "time_range": "26.0s - 32.0s",
-          "query": "VISUAL: There's a man wearing a hat, shirt, and tie standing against a brick wall background. He seems to be speaking into a microphone. The bottom part has a Twitter logo and some text from a tweet. The text is about Don Cheadle being described negatively.AUDIO: There's laughter heard throughout the clip, along with the man speaking. It also includes applause at one point."
+          "query": "Visual: A man wearing a hat and a red shirt is standing in front of a brick wall. There's a map of the United States on the wall behind him. The man appears to be speaking or presenting something. The overall color scheme is muted with the red shirt being the most vibrant element.\n\nAudio: There is a man speaking, and the speech includes phrases like \"under any circumstances\" and \"he's so whack.\" The tone seems to be somewhat negative or dismissive. There's also laughter in the background, suggesting a light-hearted or humorous context."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 217.80271196365356
+      "processing_time": 253.46137356758118
     },
     {
-      "comment_index": 34,
+      "comment_index": 2660,
       "video_id": "imW392e6XR0",
-      "comment": "0:53 that aged like wine w/ the velma show",
+      "comment": "2:32 - Damn Sophia!",
       "language": "en",
       "channel_name": "JimmyKimmelLive",
       "category": "entertainment",
-      "likes": 20.0,
-      "comment_timestamp": 53.0,
+      "likes": 22.0,
+      "comment_timestamp": 152.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "44.0s - 50.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with a brick wall background. He's holding something small in his hand and looking down at it. There are some white clouds or smoke-like shapes on the screen. The Twitter logo is also visible.AUDIO: Someone is speaking, saying \"If I said it once, I've said it a hundred times\" and then \"Andy Garcia.\" It seems like there might be some kind of sound effect or music playing softly in the background too.What do you think about that? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "50.0s - 56.0s",
-          "query": "VISUAL: A man in a suit is looking at his phone with a smile on his face. Then a woman in a sparkly dress appears, also looking at her phone. The background has a brick wall with some white shapes that look like birds or clouds.AUDIO: There's laughter from an audience throughout the clip. Someone says \"Mindy Kaling is not funny or attractive.\" It seems to be a reaction to something said about Mindy Kaling.What do you think about it? Do you have any other thoughts or questions related to this video?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "56.0s - 62.0s",
-          "query": "VISUAL: There's a woman with dark hair wearing a sparkly dress standing against a brick wall background. She seems to be holding something small in her hand. The bottom of the screen has some white clouds and a Twitter logo with a tweet displayed.AUDIO: A female voice is speaking, saying that Mindy Kaling isn't funny or attractive, has an annoying voice, and just plainly sucks. It also questions why she has her own show, suggesting it's more than just a coincidence.If you have any other thoughts about this or want to discuss more, feel free to let me know."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 264.2237389087677
-    },
-    {
-      "comment_index": 35,
-      "video_id": "imW392e6XR0",
-      "comment": "0:01 what's happened to twitter logo?",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 18.0,
-      "comment_timestamp": 1.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "0.0s - 0.0s",
-          "query": "VISUAL: A hand holding a phone with a red heart on it is shown against a cityscape background. The words \"JIMMY Kimmel LIVE! MEAN TWEETS\" appear above the hand. There's also a hashtag \"#MEANTWETS\" at the bottom.AUDIO: Music plays throughout the clip. There are no spoken words or sound effects."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "0.0s - 4.0s",
-          "query": "VISUAL: A woman with long blonde hair wearing glasses is holding a phone. She's standing against a brick wall background with some white shapes on it. There are also some blue cloud-like shapes at the bottom of the frame.AUDIO: Someone is speaking about people thinking Julia Roberts is hot because of her \"gigantic mouth.\" It seems to be a bit sarcastic or humorous tone.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "4.0s - 10.0s",
-          "query": "VISUAL: A woman with blonde hair and glasses is holding a phone. She's standing against a brick wall background. There are some white shapes on the wall that look like birds or clouds. The woman seems to be reacting to something on her phone.AUDIO: Someone is speaking, saying \"it will devour an elephant in one bite.\" Then there's applause from an audience. After that, someone says \"Thank You.\".What do you think about this video? Do you have any other questions?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 219.13068222999573
-    },
-    {
-      "comment_index": 36,
-      "video_id": "imW392e6XR0",
-      "comment": "Lmaooo 1:04 that mean tweet was funny 😭😩 and the last one the way she responded 😂😂",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 18.0,
-      "comment_timestamp": 64.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "55.0s - 61.0s",
-          "query": "VISUAL: There's a woman with dark hair wearing a sparkly dress. She's holding a phone and looking at it while talking. The background is a brick wall with some white bird silhouettes on it. There are also some white cloud-like shapes at the bottom of the frame.AUDIO: Someone is speaking, saying that Mindy Kaling isn't funny or attractive, has an annoying voice, and just plain sucks. They ask why she has her own show.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "61.0s - 67.0s",
-          "query": "VISUAL: A woman is sitting against a brick wall background. She's wearing a sparkly top and has long hair. There's some kind of white fluffy stuff on her lap. Then a man appears, he's looking at his phone with a serious expression. He has short dark hair and a beard, dressed in black.The AUDIO: There's laughter from an audience in the background. The woman speaks first, then the man starts talking. It seems like they're having a conversation or responding to tweets. What do you think about it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "67.0s - 73.0s",
-          "query": "VISUAL: There's a man with dark hair and beard looking at his phone against a brick wall background. Then an older bald man in a suit appears, also looking at his phone. The scene has some Twitter-like graphics at the bottom. AUDIO: You can hear laughter and applause in the background. What do you think about it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 230.5757508277893
-    },
-    {
-      "comment_index": 37,
-      "video_id": "imW392e6XR0",
-      "comment": "0:55 Mindy kaling proving the tweet right.... Was that supposed to be funny?",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 17.0,
-      "comment_timestamp": 55.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "46.0s - 52.0s",
-          "query": "VISUAL: There's a man in a suit sitting against a brick wall background. He looks like he's reading from something in his hand. There's also some Twitter-related graphics at the bottom of the screen.AUDIO: A male voice is speaking, saying \"said it once I've said it a hundred times Andy Garcia.\" Then there's laughter after that. What do you think about this? Do you have any other videos to analyze?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "52.0s - 58.0s",
-          "query": "VISUAL: There's a man in a suit looking at his phone against a brick wall background. Then it cuts to a woman in a sparkly dress also on her phone. The scene has a Twitter-like overlay with tweets about Mindy Kaling.AUDIO: Someone is speaking, saying \"Mindy Kaling is not funny or attractive she has an annoying voice and\". It seems like they're reading out tweets. So, what do you think about these tweets?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "58.0s - 64.0s",
-          "query": "VISUAL: There's a woman with dark hair wearing a sparkly dress standing against a brick wall background. She looks down at something she's holding in her hands.AUDIO: Someone is speaking, saying \"Just plainly sucks why does she have her own show I feel like this is more than 140 characters.\" It seems to be a bit of a complaint or criticism. What do you think about it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 204.3887164592743
-    },
-    {
-      "comment_index": 38,
-      "video_id": "imW392e6XR0",
-      "comment": "1:05 Yep I think they may have got this one right😂",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 16.0,
-      "comment_timestamp": 65.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "56.0s - 62.0s",
-          "query": "VISUAL: There's a woman with dark hair wearing a sparkly dress standing against a brick wall background. She seems to be holding something small in her hand. The bottom of the screen has some white clouds and a Twitter logo with a tweet displayed.AUDIO: A female voice is speaking, saying that Mindy Kaling isn't funny or attractive, has an annoying voice, and just plainly sucks. It also questions why she has her own show, suggesting it's more than just a coincidence.If you have any other thoughts about this or want to discuss more, feel free to let me know."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "62.0s - 68.0s",
-          "query": "VISUAL: A man is sitting against a brick wall background. He's holding a phone and looking at it. There are some white bird silhouettes on the wall behind him.AUDIO: Someone is speaking, saying \"140 characters David Blaine looks like his voice is putting his face to sleep.\" It seems like there might be some laughter or applause in the background too.What do you think about that? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "68.0s - 74.0s",
-          "query": "VISUAL: There's a man with dark hair and a beard looking at his phone against a brick wall background. Then another man with a bald head wearing a suit appears, also holding a phone. The first guy has a tweet displayed on screen saying David Blaine looks like his voice is putting his face to sleep. The second guy has a tweet that says Don Rickles looks like Yoda.AUDIO: You can hear laughter and applause throughout the video. There's also some music playing in the background. What do you think about these tweets?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 224.77534770965576
-    },
-    {
-      "comment_index": 39,
-      "video_id": "imW392e6XR0",
-      "comment": "2:20 IS THE BEST PART!!!!!",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 14.0,
-      "comment_timestamp": 140.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "131.0s - 137.0s",
-          "query": "VISUAL: A man with glasses is standing against a brick wall background. He's holding something small in his hand. There's a Twitter logo and some text overlaid on the bottom left corner.AUDIO: Someone is speaking, and there's laughter and applause in the background. The speech seems to be about accents being annoying. What do you think about it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "137.0s - 143.0s",
-          "query": "VISUAL: There's a man with glasses and a beard on stage, reacting to something. Then a woman with long hair appears holding a phone. The background is a brick wall with some white shapes on it.AUDIO: Laughter and applause can be heard throughout, along with some speech from the man and woman. It seems like they're responding to tweets or comments shown on screen.What do you think about the reactions?"
-        },
-        {
-          "segment_index": 3,
           "time_range": "143.0s - 149.0s",
-          "query": "VISUAL: There's a woman with long, wavy hair looking at her phone. She seems to be reading something on it. The background is a brick wall with some white bird silhouettes painted on it.AUDIO: A female voice is speaking, saying \"she has a in her mouth I hate hearing her talk what's wrong with having a in my\". It sounds like she's talking about someone named Sophia Vergara and expressing dislike for how she speaks.What do you think about that? Do you have any other thoughts or questions related to this?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 210.8356578350067
-    },
-    {
-      "comment_index": 40,
-      "video_id": "imW392e6XR0",
-      "comment": "I love ethan hawke but he 1:22 its true:’)",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 13.0,
-      "comment_timestamp": 82.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "73.0s - 79.0s",
-          "query": "VISUAL: There's an older man in a suit holding a phone. Then it cuts to another man with long hair also in a suit, looking at his phone. The background is a brick wall with some white shapes on it.AUDIO: You can hear laughter and applause in the background. There's also someone speaking, but their words aren't clear enough to understand fully.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "Visually, there's a woman with long, wavy hair in the foreground. She's holding a phone and appears to be speaking. The background is a brick wall. There are some white, cloud-like shapes on the wall, and a blue Twitter logo is visible in the bottom left corner.\n\nIn terms of audio, there's a woman speaking, and there are some sounds of laughter and applause in the background."
         },
         {
           "segment_index": 2,
-          "time_range": "79.0s - 85.0s",
-          "query": "VISUAL: There's a man in a suit holding up a phone, looking at it. He has a beard and is standing against a brick wall background with some white bird silhouettes on it.AUDIO: Someone is speaking about Ethan Hawke, saying he seems like someone who wasn't supposed to be a movie star but ended up being one. The tone is kind of casual and matter - of - fact.If you have any other thoughts or questions about this video, feel free to share!"
+          "time_range": "149.0s - 155.0s",
+          "query": "Visual: The video shows a woman with long brown hair against a brick wall background. There's also an image of a hand holding a phone with \"Mean Tweets\" written on it. The words \"Jimmy Kimmel Live!\" appear prominently.\n\nAudio: You can hear applause starting around 3 seconds into the clip."
         },
         {
           "segment_index": 3,
-          "time_range": "85.0s - 91.0s",
-          "query": "VISUAL: A man is holding up a phone, looking at it while talking. He's wearing a suit. There's a brick wall behind him with some white shapes on it that look like birds. The bottom has a light blue area with clouds.AUDIO: There's laughter and applause throughout the clip. Then there's a short bit where someone says \"Matthew McConaughey is a turd.\".What do you think about the video? Any thoughts or questions?"
+          "time_range": "155.0s - 161.0s",
+          "query": "**Visual:** The video shows a promotional graphic for \"Jimmy Kimmel Live!\" with the show's logo prominently displayed. The background features a nighttime cityscape with lights. There are options to \"Subscribe\" and \"Favorites\" on the right side. The show's airing time, \"Weeknights 11:35/10:35c,\" is also mentioned. The ABC logo is visible at the bottom left corner.\n\n**Audio:** The audio includes music playing in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 220.26316356658936
+      "processing_time": 289.9162549972534
     }
   ]
 }

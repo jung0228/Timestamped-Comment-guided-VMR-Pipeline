@@ -4,70 +4,9 @@
   "successful_comments": 20,
   "failed_comments": 0,
   "success_rate": "100.0%",
-  "processing_time": 7267.008340120316,
   "comments": [
     {
-      "comment_index": 4223,
-      "video_id": "ofvoLdLssA8",
-      "comment": "0:33 when she ask you",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 419.0,
-      "comment_timestamp": 33.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "24.0s - 30.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "30.0s - 36.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "36.0s - 42.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.8207836151123047
-    },
-    {
-      "comment_index": 4226,
-      "video_id": "ofvoLdLssA8",
-      "comment": "0:33 THAT'S WHAT SHE SAID",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 186.0,
-      "comment_timestamp": 33.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "24.0s - 30.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "30.0s - 36.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "36.0s - 42.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.6074314117431641
-    },
-    {
-      "comment_index": 4221,
+      "comment_index": 3673,
       "video_id": "ofvoLdLssA8",
       "comment": "“It’s short but it’s impressive” “Whatever you want to tell yourself man!” 0:33",
       "language": "en",
@@ -80,114 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "24.0s - 30.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "query": "**Visual:** The video shows three men in a room. One of them is holding a lightsaber-like object, which is blue and glowing. They seem to be interacting with each other, possibly playing or showing off the lightsaber. The room has a modern look with some furniture and decor visible. The men are casually dressed, and their expressions suggest they're having fun.\n\n**Audio:** There's a sound effect that resembles a whoosh or a zap, followed by some excited speech. The speech includes phrases like \"this is better\" and \"it's a real lightsaber.\" The overall tone is enthusiastic and playful."
         },
         {
           "segment_index": 2,
           "time_range": "30.0s - 36.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "query": "Visually, there are a few people in a room. One person is holding a blue light source, possibly a flashlight or a lamp. The room seems to have some furniture and items scattered around. The people are moving around, interacting with each other. The colors are mostly muted, with some bright spots from the light source. There's a sense of activity and movement in the scene.\n\nAudibly, there's a voice speaking, but the words are unclear. There are also some background noises, like a door slamming or something similar. The overall sound is a bit chaotic, matching the busy visual scene."
         },
         {
           "segment_index": 3,
           "time_range": "36.0s - 42.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "query": "**Visual:** The video shows a group of people in what looks like an indoor setting, possibly a living room or a similar space. There are wooden floors and some furniture visible. One person is holding a glowing object, which seems to be a toy lightsaber. The people are standing and moving around, interacting with each other. The lighting is relatively dim, with some light coming from the background.\n\n**Audio:** There is a conversation happening in the background. The voices are clear and seem to be in English. The tone of the conversation is casual and friendly. There are no distinct sound effects or music in the audio."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.8484432697296143
+      "processing_time": 257.06630086898804
     },
     {
-      "comment_index": 4222,
-      "video_id": "ofvoLdLssA8",
-      "comment": "0:33 Story of my life...",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 518.0,
-      "comment_timestamp": 33.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "24.0s - 30.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "30.0s - 36.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "36.0s - 42.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.6503570079803467
-    },
-    {
-      "comment_index": 4225,
-      "video_id": "ofvoLdLssA8",
-      "comment": "2:26 😂😂 the “cop” is trying to get his full face in the video but the cameraman is blocking him 😂😂",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 265.0,
-      "comment_timestamp": 146.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "137.0s - 143.0s",
-          "query": "VISUAL: There's a group of men on a street. One man is holding up a bottle with a blue light coming out of it. He seems to be doing something with it while others watch. The background has parked cars and buildings. The scene looks like an urban area.AUDIO: You can hear some shouting and whooping in the background. It gives off a chaotic or excited vibe. There might also be some music playing faintly.If you want to talk more about this video or have other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "143.0s - 149.0s",
-          "query": "VISUAL: There's a group of men outside on a street. One man is wearing a police uniform with a badge visible. They seem to be celebrating or cheering, some have their arms raised. The background shows parked cars and buildings. The scene looks like it might be in an urban area.AUDIO: I can hear someone speaking, saying \"guys it's a big moment wait oh do you get\". It seems like they're trying to get everyone's attention for something important. There's also some shouting from the crowd that goes along with the celebration. What do you think about this? Do you want to know more about the context?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "149.0s - 155.0s",
-          "query": "VISUAL: There's a group of men standing outside near some red buildings. One man is holding a phone. The scene then changes to an image of Earth with a fiery crack on it, followed by a yellow geometric shape. Finally, there's a person wearing sunglasses and a blue shirt, looking at something off - screen.AUDIO: There's no clear speech or dialogue. Instead, there's music playing throughout the entire clip.If you have any other thoughts about this video or want to discuss more, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 477.08762097358704
-    },
-    {
-      "comment_index": 4228,
-      "video_id": "ofvoLdLssA8",
-      "comment": "1:56  That attention to detail with the sound",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 139.0,
-      "comment_timestamp": 116.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "107.0s - 113.0s",
-          "query": "VISUAL: There's a guy holding a lightsaber in an outdoor parking lot with several parked cars around. He seems to be swinging it playfully. In the background, there are some buildings with graffiti on them. The sky is clear and blue.AUDIO: You can hear someone shouting \"Friend, your has built a lightsaber.\" It's like they're excitedly announcing something. Then there's a short period of silence before another shout saying \"And what that down whoa.\" It sounds like they're reacting to whatever just happened with the lightsaber.If you have any thoughts or questions about this, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "113.0s - 119.0s",
-          "query": "VISUAL: There's a man in a maroon shirt holding something up in front of his face. Another person is behind him, also with their hands raised. The background shows parked cars and some graffiti on buildings. Then there's an airplane flying through the sky with smoke coming out of it.AUDIO: Someone is shouting \"Down! I can't put your hands up!\" repeatedly. It seems like they're trying to get someone to stop or surrender. There's no music or other sound effects, just that shouting and possibly some ambient noise from the environment.What do you think about this scene? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "119.0s - 125.0s",
-          "query": "VISUAL: There's a police officer in uniform holding someone's arm while they're being led away. The person being led has their hands behind their back. In the background, there are parked cars and some buildings with graffiti on them.AUDIO: Someone is speaking, saying \"Are you filming this? You're under arrest, sir. You have the right to remain silent.\".If you want to talk more about this or have other videos to analyze, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 490.42482566833496
-    },
-    {
-      "comment_index": 4224,
+      "comment_index": 3674,
       "video_id": "ofvoLdLssA8",
       "comment": "1:50 the way sam turns around is so smooth",
       "language": "en",
@@ -200,24 +49,54 @@
         {
           "segment_index": 1,
           "time_range": "101.0s - 107.0s",
-          "query": "VISUAL: There's a group of men standing outside a building with graffiti on it. One man is holding up his hand like he's about to throw something. The sky is blue with some clouds. There are cars parked nearby.AUDIO: I can't really tell what's being said or if there's any music or sound effects. It just seems like background noise.If you want me to analyze more videos or have other questions, feel free to ask!"
+          "query": "Visually, there are a few people in an outdoor setting, possibly a parking lot or near a building. There are cars parked around, and the sky is visible with some clouds. The people seem to be interacting with each other, maybe having a conversation or some kind of activity. The colors are typical of an outdoor scene, with the blue of the sky and the various colors of the cars and building. Movement is mainly from the people, like walking or gesturing.As for the audio, there's a conversation going on between the people. You can hear their voices clearly, and it seems to be a normal, casual dialogue. There are no distinct sound effects or music in the background, just the ambient noise of the outdoor setting."
         },
         {
           "segment_index": 2,
           "time_range": "107.0s - 113.0s",
-          "query": "VISUAL: There's a guy holding a lightsaber in an outdoor parking lot with several parked cars around. He seems to be swinging it playfully. In the background, there are some buildings with graffiti on them. The sky is clear and blue.AUDIO: You can hear someone shouting \"Friend, your has built a lightsaber.\" It's like they're excitedly announcing something. Then there's a short period of silence before another shout saying \"And what that down whoa.\" It sounds like they're reacting to whatever just happened with the lightsaber.If you have any thoughts or questions about this, feel free to share!"
+          "query": "Visually, there are several people in an urban street setting. They seem to be engaged in some kind of playful or exaggerated action, like pretending to fight or dance. There are parked cars and buildings in the background. The colors are typical of a cityscape, with the buildings being mostly neutral tones and the cars in various colors. The movement is quite dynamic, with the people moving around energetically.Audibly, there are sounds of conversation and laughter, suggesting a lively and social atmosphere. There are also some sound effects, possibly from the people's actions, like clapping or shouting."
         },
         {
           "segment_index": 3,
           "time_range": "113.0s - 119.0s",
-          "query": "VISUAL: There's a man in a maroon shirt holding something up in front of his face. Another person is behind him, also with their hands raised. The background shows parked cars and some graffiti on buildings. Then there's an airplane flying through the sky with smoke coming out of it.AUDIO: Someone is shouting \"Down! I can't put your hands up!\" repeatedly. It seems like they're trying to get someone to stop or surrender. There's no music or other sound effects, just that shouting and possibly some ambient noise from the environment.What do you think about this scene? Any thoughts or questions?"
+          "query": "Visually, there's someone in a maroon shirt holding something up with both hands. There are cars parked around, some buildings in the background, and graffiti on one wall. The scene seems to be outdoors, possibly in an urban area.Audibly, it starts with shouting or yelling, then transitions into a conversation that includes phrases like \"put your hands up\" and \"wait right.\" It ends with more shouting."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 419.832581281662
+      "processing_time": 251.92240810394287
     },
     {
-      "comment_index": 4227,
+      "comment_index": 3675,
+      "video_id": "ofvoLdLssA8",
+      "comment": "2:26 😂😂 the “cop” is trying to get his full face in the video but the cameraman is blocking him 😂😂",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 265.0,
+      "comment_timestamp": 146.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "137.0s - 143.0s",
+          "query": "**Visual:** The video shows a group of people in an urban setting. There are several cars parked along the street, and the buildings in the background are red and beige. The people are dressed casually, and one person is holding a camera, seemingly filming or taking pictures. The scene appears to be lively, with people moving around and interacting. The lighting suggests it's daytime.\n\n**Audio:** The audio includes a man speaking, possibly giving instructions or commentary. There are also sound effects, which could be related to the filming or photography process. The overall sound is somewhat chaotic, with a mix of speech and background noise."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "143.0s - 149.0s",
+          "query": "Visual: The video shows several people outdoors on a street or sidewalk area. There's a mix of men wearing different outfits like jackets and hats. One person is holding up their hand, possibly gesturing or waving. In the background, there are parked cars and buildings with red walls. The scene seems to be during daytime.\n\nAudio: Someone is speaking, saying \"yes here guys it's a big moment wait oh.\" It sounds like they're excited about something happening soon."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "149.0s - 155.0s",
+          "query": "Visually, there are several people standing together, looking in different directions. The background seems to be an outdoor setting, possibly near a building or structure. The colors are mostly muted, with some darker tones. There's a sense of movement as the people are positioned in various ways, suggesting they might be interacting or reacting to something.Audibly, there's a sound effect that resembles an explosion or a loud bang. It's a short, intense noise that stands out against the otherwise quiet background. There's also some music playing in the background, but it's not very prominent."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 234.1349802017212
+    },
+    {
+      "comment_index": 3676,
       "video_id": "ofvoLdLssA8",
       "comment": "2:32  to show you the power of flex tape",
       "language": "en",
@@ -230,114 +109,54 @@
         {
           "segment_index": 1,
           "time_range": "143.0s - 149.0s",
-          "query": "VISUAL: There's a group of men outside on a street. One man is wearing a police uniform with a badge visible. They seem to be celebrating or cheering, some have their arms raised. The background shows parked cars and buildings. The scene looks like it might be in an urban area.AUDIO: I can hear someone speaking, saying \"guys it's a big moment wait oh do you get\". It seems like they're trying to get everyone's attention for something important. There's also some shouting from the crowd that goes along with the celebration. What do you think about this? Do you want to know more about the context?"
+          "query": "**Visual:** The video shows a group of people outdoors, possibly in a parking lot or near a building. There are cars parked in the background. The people are dressed casually, some wearing hats and jackets. They seem to be engaged in some kind of activity or event, as they are moving around and interacting with each other. The colors are typical of an outdoor setting, with the red of the building and the various colors of the cars standing out.\n\n**Audio:** The audio includes speech from the people in the video. It sounds like they are having a conversation or making announcements. There are no distinct music or sound effects, just the natural sounds of the environment and the voices of the people."
         },
         {
           "segment_index": 2,
           "time_range": "149.0s - 155.0s",
-          "query": "VISUAL: There's a group of men standing outside near some red buildings. One man is holding a phone. The scene then changes to an image of Earth with a fiery crack on it, followed by a yellow geometric shape. Finally, there's a person wearing sunglasses and a blue shirt, looking at something off - screen.AUDIO: There's no clear speech or dialogue. Instead, there's music playing throughout the entire clip.If you have any other thoughts about this video or want to discuss more, feel free to let me know!"
+          "query": "Visual: The video shows a group of men standing together outdoors near a building with \"2458\" on it. They seem to be interacting casually, some smiling or looking at something off-camera. There's also an image of Earth from space with a bright light shining through it.\n\nAudio: The audio includes background music that starts after about two seconds into the clip. It has a somewhat dramatic feel to it."
         },
         {
           "segment_index": 3,
           "time_range": "155.0s - 161.0s",
-          "query": "VISUAL: There's a person with long hair and glasses looking at something off - screen. Then it cuts to two men in leather jackets, one has his hand on his face. The scene changes again to show a woman with red hair smiling. Finally, there's a shot of a car driving down a road at night.AUDIO: There's some kind of music playing throughout the whole clip. It doesn't seem like any specific speech or dialogue is present.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Visually, there's a person with long hair, wearing a black top. They seem to be in a room with some kind of reflective surface, like a mirror or glass. There's also a yellow text that says \"BEST ON YOUTUBE\" in the foreground. The person is moving their hands, possibly gesturing or dancing. The overall color scheme is dark with some bright elements like the yellow text and the person's hair color.Audibly, there's music playing in the background. It has a sort of electronic or synth sound, with some rhythmic beats and possibly some sound effects. There's also a brief moment where there seems to be a voice, but it's not clear what it says."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 456.2057569026947
+      "processing_time": 230.92014956474304
     },
     {
-      "comment_index": 4232,
+      "comment_index": 3677,
       "video_id": "ofvoLdLssA8",
-      "comment": "Can I just point out that the little nuances in Sam's acting are absolutely incredible? Haha, so much fun to watch. How he almost gets his nose cut off at 1:25 or how he just bails at 1:50 hahaha.",
+      "comment": "1:56  That attention to detail with the sound",
       "language": "en",
       "channel_name": "Corridor",
       "category": "making",
-      "likes": 95.0,
-      "comment_timestamp": 110.0,
+      "likes": 139.0,
+      "comment_timestamp": 116.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "101.0s - 107.0s",
-          "query": "VISUAL: There's a group of men standing outside a building with graffiti on it. One man is holding up his hand like he's about to throw something. The sky is blue with some clouds. There are cars parked nearby.AUDIO: I can't really tell what's being said or if there's any music or sound effects. It just seems like background noise.If you want me to analyze more videos or have other questions, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
           "time_range": "107.0s - 113.0s",
-          "query": "VISUAL: There's a guy holding a lightsaber in an outdoor parking lot with several parked cars around. He seems to be swinging it playfully. In the background, there are some buildings with graffiti on them. The sky is clear and blue.AUDIO: You can hear someone shouting \"Friend, your has built a lightsaber.\" It's like they're excitedly announcing something. Then there's a short period of silence before another shout saying \"And what that down whoa.\" It sounds like they're reacting to whatever just happened with the lightsaber.If you have any thoughts or questions about this, feel free to share!"
+          "query": "Visually, there are several people in an urban street setting. They seem to be engaged in some kind of playful or exaggerated action, like pretending to fight or dance. There are parked cars and buildings in the background. The colors are typical of a cityscape, with the buildings being mostly neutral tones and the cars in various colors. The movement is quite dynamic, with the people moving around energetically.Audibly, there are sounds of conversation and laughter, suggesting a lively and social atmosphere. There are also some sound effects, possibly from the people's actions, like clapping or shouting."
         },
         {
-          "segment_index": 3,
+          "segment_index": 2,
           "time_range": "113.0s - 119.0s",
-          "query": "VISUAL: There's a man in a maroon shirt holding something up in front of his face. Another person is behind him, also with their hands raised. The background shows parked cars and some graffiti on buildings. Then there's an airplane flying through the sky with smoke coming out of it.AUDIO: Someone is shouting \"Down! I can't put your hands up!\" repeatedly. It seems like they're trying to get someone to stop or surrender. There's no music or other sound effects, just that shouting and possibly some ambient noise from the environment.What do you think about this scene? Any thoughts or questions?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 455.388028383255
-    },
-    {
-      "comment_index": 4231,
-      "video_id": "ofvoLdLssA8",
-      "comment": "0:18 is that a PlayStation move controller lol",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 132.0,
-      "comment_timestamp": 18.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "9.0s - 15.0s",
-          "query": "VISUAL: There are three men in an indoor setting that looks like a kitchen or a similar space. One man is holding a canister with a flame coming out of it. The other two men seem to be reacting to him. The room has some furniture like cabinets and a chair. The lighting appears to be artificial.AUDIO: There's a countdown from \"three\" to \"one\" followed by a sound effect that resembles a firecracker or something popping. Then there's more speech, but it's not clear what's being said. It seems like they're having some kind of fun or prank going on. So, what do you think about this scene?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "15.0s - 21.0s",
-          "query": "VISUAL: There are four men in an indoor setting with exposed ceiling beams. One man is holding a flashlight and pointing it at another man who's holding an orange. The other two men are watching. They seem to be in some kind of room or basement area.AUDIO: There's a conversation going on between the men. It seems like they're talking about something related to peeling fruit and being impressed with something. The tone is casual and friendly.If you have any more questions about the video or want to discuss it further, feel free to let me know!"
+          "query": "Visually, there's someone in a maroon shirt holding something up with both hands. There are cars parked around, some buildings in the background, and graffiti on one wall. The scene seems to be outdoors, possibly in an urban area.Audibly, it starts with shouting or yelling, then transitions into a conversation that includes phrases like \"put your hands up\" and \"wait right.\" It ends with more shouting."
         },
         {
           "segment_index": 3,
-          "time_range": "21.0s - 27.0s",
-          "query": "VISUAL: There's a group of men in an indoor setting, like a kitchen or workshop. One man is holding a glowing blue object that looks like a lightsaber. They seem to be interacting with it, maybe testing it out. The other men are watching and reacting. The room has some shelves and equipment in the background.AUDIO: You can hear someone talking about a \"real lifesaver\" and mentioning bugs to work out. It seems like they're discussing something related to the glowing object. There's also some background noise from the environment. So, what do you think about this? Any thoughts on what might be happening here?"
+          "time_range": "119.0s - 125.0s",
+          "query": "**Visual:** The video shows a street scene with parked cars and a building in the background. There are a few people visible, including a police officer in uniform and a man in a blue shirt. The officer appears to be interacting with the man in the blue shirt, possibly arresting him. The man in the blue shirt looks surprised or confused. The overall setting seems to be an urban area.\n\n**Audio:** The audio includes a man speaking, saying \"I'm sorry, are you filming this?\" followed by the police officer's voice, which says, \"You have the right to remain silent.\" There are no other significant sounds or music in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 579.7584812641144
+      "processing_time": 226.23840713500977
     },
     {
-      "comment_index": 4230,
-      "video_id": "ofvoLdLssA8",
-      "comment": "1:55 I love how they accurately edited in the explosion noise a split-second after the explosion actually happened. That close attention to real-world physics made me like and sub.",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 135.0,
-      "comment_timestamp": 115.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "106.0s - 112.0s",
-          "query": "VISUAL: There's a group of young men in an urban area with parked cars around. One guy is holding a glowing blue object that looks like a lightsaber. They seem to be having some kind of playful or staged fight scene. The background has buildings with graffiti on them.AUDIO: You can hear shouting and whooping from the people in the video. It gives off a lively, energetic vibe. What do you think about it? Do you have any other thoughts on the video?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "112.0s - 118.0s",
-          "query": "VISUAL: There's a man in a red shirt holding something in his hands while walking on a street with parked cars and buildings covered in graffiti. Another person is seen running towards him. Then there's an explosion in the sky with bright light beams coming from it.AUDIO: Someone is shouting \"Put your hands up\" repeatedly. It seems like a tense situation. What do you think about this scene?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "118.0s - 124.0s",
-          "query": "VISUAL: The video shows a police officer in uniform holding someone's arm while they're being led away. There are cars parked nearby on a street with buildings in the background. The scene seems to be outdoors during daytime.AUDIO: There is shouting from multiple voices throughout the clip, along with some music playing in the background. It also includes the sound of footsteps. What do you think about this kind of situation?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 322.63999938964844
-    },
-    {
-      "comment_index": 4229,
+      "comment_index": 3678,
       "video_id": "ofvoLdLssA8",
       "comment": "TO SHOW YOU THE POWER OF FLEX TAPE 2:31",
       "language": "en",
@@ -350,84 +169,114 @@
         {
           "segment_index": 1,
           "time_range": "142.0s - 148.0s",
-          "query": "VISUAL: There's a group of men on a street. One man is holding a microphone. They seem to be dancing or moving around energetically. The background shows parked cars and some buildings. The scene looks like it might be in an urban area.AUDIO: I can hear someone shouting \"yes\" repeatedly. It seems like there's also some kind of excitement going on, maybe related to the event with the microphone - something big is happening. What do you think about this?"
+          "query": "Visually, there are several people in the video. They seem to be outdoors, possibly in an urban area with buildings and parked cars in the background. The people are wearing casual clothes like jackets, hats, and hoodies. Some are moving around, gesturing with their hands, and appear to be interacting with each other. There's a sense of excitement or anticipation in their actions.\n\nIn terms of audio, there's a lot of shouting and cheering. It sounds like people are celebrating or reacting to something. There are also some indistinct sounds that could be from the environment, like distant traffic or wind."
         },
         {
           "segment_index": 2,
           "time_range": "148.0s - 154.0s",
-          "query": "VISUAL: There's a group of men standing outside near a building with red walls. They seem to be talking or reacting to something. Then it cuts to an animation of Earth with a fiery crack running through it.AUDIO: You can hear some kind of conversation among the men at first, then there's a loud explosion followed by some music playing. What do you think about that?"
+          "query": "Visually, there are several people in the video. They seem to be in a group, possibly interacting with each other. The background looks like an indoor setting, maybe a room or a hall. There are some objects around, but it's hard to make out exactly what they are. The colors are mostly muted, with some darker tones. The movement is mainly from the people, who are standing and talking or gesturing to each other.Audibly, there's a man speaking. His voice is clear and seems to be the main focus. There are no other distinct sounds like music or sound effects. The overall sound is just his speech."
         },
         {
           "segment_index": 3,
           "time_range": "154.0s - 160.0s",
-          "query": "VISUAL: There's a man with blonde hair wearing sunglasses and a hat, looking surprised or shocked. Then there's another person holding two guns, aiming them forward. The background seems to be indoors with some lights visible.AUDIO: There's music playing throughout the whole time. No specific speech is heard.Anything else you want to know about this video?"
+          "query": "Visually, there's a person with a surprised or shocked expression, mouth wide open. The background seems to be a dimly lit, possibly urban or nighttime setting. There are some blurred lights and shapes that suggest movement or activity in the background. The colors are somewhat muted, with a focus on darker tones and some bright elements like the yellow text \"VIDEOS\" and \"BEST RATED\" that appear in the foreground. The person is wearing a hat and has a somewhat disheveled look, which adds to the sense of surprise or shock.\n\nAudio - There's a short burst of music playing in the background, starting around 2.5 seconds into the video. It's a fast-paced, possibly intense piece of music that complements the visual of the person's shocked expression. There are no distinct speech or sound effects, just the music."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 383.00978541374207
+      "processing_time": 259.5849266052246
     },
     {
-      "comment_index": 4234,
+      "comment_index": 3679,
       "video_id": "ofvoLdLssA8",
-      "comment": "0:29 can you see... the box is already been cut, but the saber effect is fluid and stuff, corridor makes good video effects",
+      "comment": "1:55 I love how they accurately edited in the explosion noise a split-second after the explosion actually happened. That close attention to real-world physics made me like and sub.",
       "language": "en",
       "channel_name": "Corridor",
       "category": "making",
-      "likes": 74.0,
-      "comment_timestamp": 29.0,
+      "likes": 135.0,
+      "comment_timestamp": 115.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "20.0s - 26.0s",
-          "query": "VISUAL: There's a group of men in an indoor setting, like a basement or something similar. One man is holding a blue light saber - looking thing. He seems to be showing it off to the others. They're all standing close together, some looking at the object while others seem amused or curious. The background has some shelves with various items on them.AUDIO: You can hear someone speaking, saying \"not impressed with this it's a real lifesaver I've just got a few bugs to work out.\" It sounds like they're talking about the light saber - looking thing. There's also some background noise that might be from other people in the room or general room noise.If you want to know more about this kind of analysis or have any other questions, feel free to ask!"
+          "time_range": "106.0s - 112.0s",
+          "query": "**Visual:** The video shows a street scene with parked cars and a building in the background. There are a few people visible, including one person in a blue shirt who seems to be moving quickly, possibly running or dodging something. Another person in a red shirt is also present. The overall setting looks like an urban area with some graffiti on the building. The movement suggests some kind of action or commotion happening.\n\n**Audio:** There are sounds of shouting and what seems to be a whooshing noise, possibly indicating some kind of impact or fast movement. The shouting could be from the people in the scene, adding to the sense of urgency or excitement."
         },
         {
           "segment_index": 2,
-          "time_range": "26.0s - 32.0s",
-          "query": "VISUAL: There are three men in a room. One man is holding a blue lightsaber-like object. Another man is standing next to him, looking at it. The third man is in the background, holding a box. They seem to be having some kind of interaction with these objects.AUDIO: There's a conversation going on between the men. It seems like they're discussing something related to the objects they have. There's also some music playing in the background.If you want to know more about what might be happening in the video, feel free to ask me."
+          "time_range": "112.0s - 118.0s",
+          "query": "Visually, there are people walking on a street. There are cars parked along the side. The sky is visible in the background. The colors are typical of an urban setting, with the gray of the pavement and the various colors of the cars and clothing. The movement is of people walking, some closer to the camera and some further away. The scene appears to be during the day, as there is natural light.Audibly, there is a man speaking. His speech is clear and seems to be in English. He is saying \"I can't put your hands up.\""
         },
         {
           "segment_index": 3,
-          "time_range": "32.0s - 38.0s",
-          "query": "VISUAL: There's a group of men in an office-like setting. One man is holding a toy lightsaber and another has a drink bottle with a colorful liquid. They seem to be having fun, moving around and interacting. The room has desks, chairs, and some office supplies.AUDIO: You can hear a man speaking, saying something like \"Oh it's a little short but it's so impressive right yeah whatever you want to tell yourself man.\" It seems like he's talking about something related to the scene, maybe the toy lightsaber or their activity.So, what do you think about this kind of office fun? Do you have any similar experiences at work?"
+          "time_range": "118.0s - 124.0s",
+          "query": "**Visual:** The video shows an outdoor urban scene with parked cars along a street. There's graffiti on some buildings. A man in a red shirt is being restrained or held back by another person wearing dark clothing. In the foreground, there's someone in blue who seems to be speaking or shouting.\n\n**Audio:** Someone is speaking, saying \"Are you filming this? Yeah.\" Then they say something about arrest rights."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 506.08094811439514
+      "processing_time": 272.7595069408417
     },
     {
-      "comment_index": 4233,
+      "comment_index": 3680,
       "video_id": "ofvoLdLssA8",
-      "comment": "2:31 Wait how would the air be cut in half?",
+      "comment": "0:18 is that a PlayStation move controller lol",
       "language": "en",
       "channel_name": "Corridor",
       "category": "making",
-      "likes": 85.0,
-      "comment_timestamp": 151.0,
+      "likes": 132.0,
+      "comment_timestamp": 18.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "142.0s - 148.0s",
-          "query": "VISUAL: There's a group of men on a street. One man is holding a microphone. They seem to be dancing or moving around energetically. The background shows parked cars and some buildings. The scene looks like it might be in an urban area.AUDIO: I can hear someone shouting \"yes\" repeatedly. It seems like there's also some kind of excitement going on, maybe related to the event with the microphone - something big is happening. What do you think about this?"
+          "time_range": "9.0s - 15.0s",
+          "query": "**Visual:** The video shows four men in a room. One man in a blue shirt is standing on the left, another in a black jacket is in the middle, and two others are on the right, one in a red shirt and the other in a dark shirt. They seem to be interacting, with the man in the red shirt holding something in his hand. The room has a modern look with white walls, a black cabinet, and some shelves. There's a stove in the background. The men are moving around slightly, gesturing and talking.\n\n**Audio:** There's a countdown from three to one, followed by a \"lame\" sound effect."
         },
         {
           "segment_index": 2,
-          "time_range": "148.0s - 154.0s",
-          "query": "VISUAL: There's a group of men standing outside near a building with red walls. They seem to be talking or reacting to something. Then it cuts to an animation of Earth with a fiery crack running through it.AUDIO: You can hear some kind of conversation among the men at first, then there's a loud explosion followed by some music playing. What do you think about that?"
+          "time_range": "15.0s - 21.0s",
+          "query": "**Visual:** The video shows four men in a room. One man is holding a microphone and appears to be speaking or singing. The others are standing around him, looking at him. The room has a casual, indoor setting with some furniture and a refrigerator visible. The lighting is relatively dim, and the men are dressed casually. There's a sense of interaction among them, like they're engaged in a performance or a group activity.\n\n**Audio:** The audio includes speech, likely from the man with the microphone. There are also some sounds of laughter and possibly music in the background, though it's not very clear. The overall tone seems light-hearted and social."
         },
         {
           "segment_index": 3,
-          "time_range": "154.0s - 160.0s",
-          "query": "VISUAL: There's a man with blonde hair wearing sunglasses and a hat, looking surprised or shocked. Then there's another person holding two guns, aiming them forward. The background seems to be indoors with some lights visible.AUDIO: There's music playing throughout the whole time. No specific speech is heard.Anything else you want to know about this video?"
+          "time_range": "21.0s - 27.0s",
+          "query": "Visually, there are several young men in an indoor setting that looks like a kitchen or dining area. One man is holding a glowing blue object, possibly a toy or prop, while others react with surprise or amusement. The scene has a casual, playful vibe.\n\nAudibly, there's laughter and some excited shouts from the group, along with background chatter. It seems to be a light-hearted moment among friends."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 398.31205916404724
+      "processing_time": 259.05297803878784
     },
     {
-      "comment_index": 4235,
+      "comment_index": 3681,
+      "video_id": "ofvoLdLssA8",
+      "comment": "Can I just point out that the little nuances in Sam's acting are absolutely incredible? Haha, so much fun to watch. How he almost gets his nose cut off at 1:25 or how he just bails at 1:50 hahaha.",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 95.0,
+      "comment_timestamp": 85.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "76.0s - 82.0s",
+          "query": "**Visual:** The video shows a group of people in what looks like a living room or a similar indoor space. There are various objects like furniture, a drum set, and some shelves with items on them. The people are moving around, and one person seems to be gesturing or pointing at something. The lighting is natural, suggesting daytime. The colors are mostly neutral, with some pops of color from the people's clothing and the items in the room.\n\n**Audio:** The audio features a conversation between two people. One person is speaking, and the other is responding. The speech is in English, and the tone seems to be somewhat urgent or concerned. There are no other significant sound effects or music in the audio."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "82.0s - 88.0s",
+          "query": "**Visual:** The video shows a group of people in an indoor setting. There are at least three individuals visible. One person is wearing a red shirt and appears to be moving towards a door. Another person in a dark shirt is standing near the door, possibly interacting with the person in red. The third person, in a light-colored shirt, is partially visible in the background. The room has a window letting in natural light, and there are some objects like a chair and a table in the background. The overall scene seems to be in a casual, possibly office or home environment.\n\n**Audio:** The audio includes a conversation between the people in the video. The dialogue is in English and seems to be about opening a door. There are also some background sounds, possibly of movement or other activities in the room."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "88.0s - 94.0s",
+          "query": "Visually, there are two people in a hallway. One is holding a glowing blue object, possibly a light saber or similar prop. The other person seems to be reacting to it. The hallway has white walls and a window with a grid pattern. There's also a door visible in the background. The overall scene looks like it could be from a movie or a staged event.\n\nIn terms of audio, there's a man speaking, but the content of his speech isn't clear from this short segment. There are also some impact sounds, like a door slamming or something being knocked over."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 283.5222418308258
+    },
+    {
+      "comment_index": 3682,
       "video_id": "ofvoLdLssA8",
       "comment": "2:27 Me trying to fit in photo's",
       "language": "en",
@@ -440,24 +289,54 @@
         {
           "segment_index": 1,
           "time_range": "138.0s - 144.0s",
-          "query": "VISUAL: There's a group of men on a street. One man is holding up a phone with a light on it. Another man seems to be reacting to something, maybe getting hit or falling back. The background has parked cars and buildings. The scene looks like it might be in an urban area.AUDIO: I can hear some shouting and yelling in the background. It gives off a chaotic vibe. There's also a bit of music playing faintly. Oh, and there's a whooshing sound that could be from a car passing by.What do you think about this? Do you have any other thoughts or questions related to the video?"
+          "query": "Visually, there are several people in the street. Some are running, and one person seems to be holding something up in the air. The background shows buildings and parked cars. The colors are typical of an urban setting, with the red of the buildings standing out. There's a sense of movement and activity.\n\nIn terms of audio, there's a shout, possibly from one of the people in the video. There's also some background noise, likely from the street and the people around."
         },
         {
           "segment_index": 2,
           "time_range": "144.0s - 150.0s",
-          "query": "VISUAL: There's a group of men standing outside near some parked cars. One man is holding a phone up to his ear. They seem to be having a conversation or reacting to something. The background shows a building with \"2458\" on it.AUDIO: I can hear someone speaking, saying things like \"guys it's a big moment wait oh do you guys hear that.\" It seems like they're excited about something. There's also some shouting in the background.If you want to talk more about this video or have other questions, feel free to let me know."
+          "query": "Visually, there are several people in the video. They seem to be in an outdoor setting, possibly a street or a park. The people are wearing casual clothes like t-shirts and jeans. Some are making gestures like waving or pointing. The colors are mostly muted, with the clothes being dark and the background having some red and beige tones. There's a sense of movement as the people are interacting with each other and the camera.\n\nIn terms of audio, there's a lot of shouting and cheering. It sounds like they're excited about something. There are also some short, indistinct phrases that might be part of a conversation or commentary."
         },
         {
           "segment_index": 3,
           "time_range": "150.0s - 156.0s",
-          "query": "VISUAL: There's a group of four men standing outside near a red building with \"2458\" on it. They seem to be talking or reacting to something. Then there's an image of Earth with a crack running through it, showing molten rock inside. The word \"MOST\" appears over the Earth scene.AUDIO: There's some kind of music playing throughout the video. It has a sort of intense or dramatic feel to it.If you have any other thoughts about this video or want to discuss more, feel free to let me know!"
+          "query": "Visually, there are four people standing together. One of them is pointing at something. The background seems to be an indoor setting, possibly a room or a hall. There are some objects around, but it's hard to make them out clearly. The colors are mostly muted, with some darker tones.\n\nIn terms of audio, there's a sound effect that starts with a whoosh and then a loud bang. After that, there's some music playing in the background. There's no speech in this segment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 468.50977778434753
+      "processing_time": 283.1812620162964
     },
     {
-      "comment_index": 4236,
+      "comment_index": 3683,
+      "video_id": "ofvoLdLssA8",
+      "comment": "0:29 can you see... the box is already been cut, but the saber effect is fluid and stuff, corridor makes good video effects",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 74.0,
+      "comment_timestamp": 29.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "20.0s - 26.0s",
+          "query": "**Visual:** The video shows three people in what looks like a workshop or garage. One person is holding a flashlight, shining it on something in their hands. They seem to be examining or working on a small object. The other two are watching, with one pointing at the object. The background has shelves with various items, and the lighting is somewhat dim, typical of an indoor workspace.\n\n**Audio:** There's a conversation happening among the people. One person is speaking, and it sounds like they're explaining or commenting on something. The tone seems casual and friendly."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "26.0s - 32.0s",
+          "query": "**Visual:** The video shows three men in a room. One man is holding a glowing blue lightsaber, which is the main focus. The other two men are standing nearby, looking at the lightsaber. The room appears to be a workshop or a garage, with various tools and equipment visible in the background. The lighting is somewhat dim, with the lightsaber providing a bright, colorful glow.\n\n**Audio:** There is a conversation happening between the men. One of them says, \"Better, that's a real deal man, a little bit more of a real lightsaber than shop this.\" The tone is casual and excited. There's also a sound effect that resembles a whoosh or a quick movement, possibly related to the lightsaber being swung or activated."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "32.0s - 38.0s",
+          "query": "**Visual:** The video shows a group of people in what looks like a kitchen or dining area. There are several individuals, some standing and some sitting. One person is holding a large, colorful object, possibly a toy or a prop. The setting has typical kitchen elements like cabinets and a table. The lighting is bright, and the overall scene seems casual and lively.\n\n**Audio:** The audio includes some speech, likely from the people in the video. There are also some background noises, possibly from kitchen appliances or other activities. The speech seems to be in a casual, friendly tone."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 302.4795415401459
+    },
+    {
+      "comment_index": 3684,
       "video_id": "ofvoLdLssA8",
       "comment": "When your pull out game weak 0:11",
       "language": "en",
@@ -470,54 +349,24 @@
         {
           "segment_index": 1,
           "time_range": "2.0s - 8.0s",
-          "query": "VISUAL: There's a group of men in a kitchen-like setting. One man is holding a camera, another is holding a beer bottle, and they seem to be interacting with each other. The background has some shelves and kitchen items. The lighting is bright.AUDIO: A man is speaking, saying \"we're doing here right okay I think it's ready this is the world's first real working\". It seems like he's explaining something or giving instructions. There are no other distinct sounds apart from his voice.If you have any more questions about the video or want to discuss it further, feel free to let me know!"
+          "query": "Visually, there are three men in a room. One is wearing a blue shirt, another a black shirt, and the third a red shirt. They seem to be in a casual setting, possibly a kitchen or a similar space. The man in the red shirt is holding a bottle and appears to be talking or explaining something. The other two are listening and reacting. There are some boxes and other items in the background.\n\nIn terms of audio, there's a man speaking. He says something like \"we're doing here right okay I think it's ready this is the world's first real working.\" It sounds like he's giving instructions or making an announcement about something being ready."
         },
         {
           "segment_index": 2,
           "time_range": "8.0s - 14.0s",
-          "query": "VISUAL: There are three men standing in a kitchen area. One man is holding a bottle and a glass. They seem to be preparing for something. The kitchen has white cabinets, a stove, and some other typical kitchen items. The lighting is bright.AUDIO: A man says \"Saber you guys ready to make history yeah\" followed by \"3 2 1 oh\". Then there's a sound effect that could be a camera shutter or similar. It ends with more speech from the same person. So, it seems like they're about to start recording something important. What do you think they might be making history for?"
+          "query": "**Visual:** The video shows three men in a kitchen. One is wearing a blue shirt, another a black shirt, and the third a red shirt. They seem to be interacting with each other, possibly having a conversation or some kind of activity. The kitchen has typical appliances like a stove and a refrigerator. There's also a small table with some items on it. The lighting is bright, and the overall setting looks casual and domestic.\n\n**Audio:** The audio includes a countdown from three to one, followed by a \"yes\" and then a \"yes\" again. There's also some background noise, likely from the kitchen environment."
         },
         {
           "segment_index": 3,
           "time_range": "14.0s - 20.0s",
-          "query": "VISUAL: There are four men in an indoor setting. One man is holding a flashlight and pointing it at another man who's leaning forward. The other two men are standing behind them, watching. The room has some furniture like a bookshelf and a chair. The lighting seems to be from the flashlight and some overhead lights.AUDIO: There's a conversation going on between the men. It starts with one man saying \"it's bright\" and then someone else responds with \"yeah you're gonna peel some fruit.\" There's also background noise that could be from other people or activities in the room.If you have any thoughts about this or want to discuss more, feel free to let me know!"
+          "query": "**Visual:** The video shows a group of people in what looks like an office or casual workspace. There are at least five individuals, some standing and some sitting. One person is holding a blue light-up object, possibly a toy or a tool, and appears to be showing it to the others. The setting has a modern, industrial feel with visible ductwork and a gray wall. The lighting is bright, and the overall mood seems casual and friendly.\n\n**Audio:** The audio includes a man speaking, likely addressing the group. There are also sounds of laughter and some background noise, suggesting a lively and interactive atmosphere."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 503.0063076019287
+      "processing_time": 297.3817780017853
     },
     {
-      "comment_index": 4239,
-      "video_id": "ofvoLdLssA8",
-      "comment": "2:31 R.I.P Earth",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 50.0,
-      "comment_timestamp": 151.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "142.0s - 148.0s",
-          "query": "VISUAL: There's a group of men on a street. One man is holding a microphone. They seem to be dancing or moving around energetically. The background shows parked cars and some buildings. The scene looks like it might be in an urban area.AUDIO: I can hear someone shouting \"yes\" repeatedly. It seems like there's also some kind of excitement going on, maybe related to the event with the microphone - something big is happening. What do you think about this?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "148.0s - 154.0s",
-          "query": "VISUAL: There's a group of men standing outside near a building with red walls. They seem to be talking or reacting to something. Then it cuts to an animation of Earth with a fiery crack running through it.AUDIO: You can hear some kind of conversation among the men at first, then there's a loud explosion followed by some music playing. What do you think about that?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "154.0s - 160.0s",
-          "query": "VISUAL: There's a man with blonde hair wearing sunglasses and a hat, looking surprised or shocked. Then there's another person holding two guns, aiming them forward. The background seems to be indoors with some lights visible.AUDIO: There's music playing throughout the whole time. No specific speech is heard.Anything else you want to know about this video?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 252.00635433197021
-    },
-    {
-      "comment_index": 4237,
+      "comment_index": 3685,
       "video_id": "ofvoLdLssA8",
       "comment": "\"You had that the whole time?\" 2:08 . Guys, the acting was spot on.",
       "language": "en",
@@ -530,54 +379,24 @@
         {
           "segment_index": 1,
           "time_range": "119.0s - 125.0s",
-          "query": "VISUAL: There's a police officer in uniform holding someone's arm while they're being led away. The person being led has their hands behind their back. In the background, there are parked cars and some buildings with graffiti on them.AUDIO: Someone is speaking, saying \"Are you filming this? You're under arrest, sir. You have the right to remain silent.\".If you want to talk more about this or have other videos to analyze, feel free to let me know!"
+          "query": "**Visual:** The video shows a street scene with parked cars and a building in the background. There are a few people visible, including a police officer in uniform and a man in a blue shirt. The officer appears to be interacting with the man in the blue shirt, possibly arresting him. The man in the blue shirt looks surprised or confused. The overall setting seems to be an urban area.\n\n**Audio:** The audio includes a man speaking, saying \"I'm sorry, are you filming this?\" followed by the police officer's voice, which says, \"You have the right to remain silent.\" There are no other significant sounds or music in the background."
         },
         {
           "segment_index": 2,
           "time_range": "125.0s - 131.0s",
-          "query": "VISUAL: There's a police officer in uniform interacting with some men outside. One man is wearing a maroon shirt and seems to be talking or arguing with the officer. Another man in a blue shirt is also present, looking at them. The background shows parked cars and a building. The scene looks like it might be on a street.AUDIO: Someone is speaking angrily, saying \"What is this? What is this? You had that the whole time.\" It sounds like they're confronting someone about something they've been holding onto for a long time.What do you think about this situation? Do you have any ideas why it might be happening?"
+          "query": "Well, I'm not sure if there's anything specific to describe about the visual or audio here. It seems like it might be some kind of interaction between police officers and civilians, but without more details, that's just speculation. Maybe you could give me a bit more context?"
         },
         {
           "segment_index": 3,
           "time_range": "131.0s - 137.0s",
-          "query": "VISUAL: There's a group of young men outside near parked cars. One guy is wearing a black beanie and a dark jacket, another has on a maroon shirt with a graphic design. They seem to be having some kind of altercation or playful scuffle. The camera moves around them, showing their movements and expressions. The background includes a red building with \"2458\" written on it.AUDIO: You can hear shouting and yelling throughout the clip. It seems like there might be some sort of argument or excitement going on. There are no distinct music or sound effects, just the voices and ambient noise from the environment.If you have any other thoughts about the video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Visually, there are several people in a street scene. Some are wearing dark clothing, and one person in a blue shirt is standing near a parked car. The background shows a red building and a street with some parked cars. The movement seems chaotic, with people appearing to be running or moving quickly.\n\nIn terms of audio, there are shouts and some indistinct sounds, possibly indicating a tense or urgent situation."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 534.7374665737152
+      "processing_time": 230.82500505447388
     },
     {
-      "comment_index": 4240,
-      "video_id": "ofvoLdLssA8",
-      "comment": "0:34 that’s what she said",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 49.0,
-      "comment_timestamp": 34.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "25.0s - 31.0s",
-          "query": "VISUAL: There are four men in a kitchen-like setting. One man is holding a blue lightsaber toy, another has an orange object that looks like a fruit or a small toy. They seem to be having fun, chatting and gesturing. The room has some shelves with various items on them.AUDIO: There's a conversation going on among the men. It seems light - hearted and friendly. No specific music or sound effects are heard other than their voices. What do you think about it? Do you have any similar experiences?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "31.0s - 37.0s",
-          "query": "VISUAL: There's a group of men in a room with some furniture like tables and chairs. One man is holding a toy lightsaber. They seem to be having fun, moving around and interacting with each other. The room has a casual, lived - in look.AUDIO: You can hear some conversation going on among the men. It seems light - hearted and friendly. There are no distinct music or sound effects, just their voices and maybe some background noise from the room.If you want to know more about the video, feel free to ask me something specific!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "37.0s - 43.0s",
-          "query": "VISUAL: There's a group of men in a room with wooden floors. One man is holding a glowing blue lightsaber. Another man throws an apple at him. The camera then focuses on the floor where the apple lands. The room has some furniture like shelves and a table.AUDIO: There's a man speaking, saying \"nice\" twice. Then there's a loud thud followed by laughter. It seems like they're having fun playing around with the lightsaber and the apple.What do you think about their game?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 435.6178517341614
-    },
-    {
-      "comment_index": 4238,
+      "comment_index": 3686,
       "video_id": "ofvoLdLssA8",
       "comment": "0:30 real life beat saber (lol)",
       "language": "en",
@@ -590,21 +409,201 @@
         {
           "segment_index": 1,
           "time_range": "21.0s - 27.0s",
-          "query": "VISUAL: There's a group of men in an indoor setting, like a kitchen or workshop. One man is holding a glowing blue object that looks like a lightsaber. They seem to be interacting with it, maybe testing it out. The other men are watching and reacting. The room has some shelves and equipment in the background.AUDIO: You can hear someone talking about a \"real lifesaver\" and mentioning bugs to work out. It seems like they're discussing something related to the glowing object. There's also some background noise from the environment. So, what do you think about this? Any thoughts on what might be happening here?"
+          "query": "Visually, there are several young men in an indoor setting that looks like a kitchen or dining area. One man is holding a glowing blue object, possibly a toy or prop, while others react with surprise or amusement. The scene has a casual, playful vibe.\n\nAudibly, there's laughter and some excited shouts from the group, along with background chatter. It seems to be a light-hearted moment among friends."
         },
         {
           "segment_index": 2,
           "time_range": "27.0s - 33.0s",
-          "query": "VISUAL: There are three men in a room. One man is holding a glowing blue lightsaber. Another man is standing behind him, looking at something on his phone. The third man is in the background near some shelves with various items. They seem to be having a playful interaction.AUDIO: There's a voice saying \"This is a little bit more of a real lightsaber if it's a real lightsaber then shop this.\" Then there's a loud bang followed by shouting. It seems like they're reacting to something unexpected.What do you think about their reaction?"
+          "query": "**Visual:** The video shows two men in a room. One is wearing a blue shirt and the other a red shirt. The man in the red shirt is holding a glowing blue object, which looks like a lightsaber. There's a fire extinguisher on the wall in the background. The room seems to be a bit cluttered. The man in the red shirt moves the lightsaber around, and then the man in the blue shirt runs away from him. The man in the red shirt chases after him.\n\n**Audio:** There's some background noise, like people talking and maybe some music playing faintly. When the man in the red shirt moves the lightsaber, there's a sound effect that accompanies it."
         },
         {
           "segment_index": 3,
           "time_range": "33.0s - 39.0s",
-          "query": "VISUAL: There are three men in an office - like setting. One man is holding a blue light saber and seems to be playing with it. The other two men are watching him. They all look happy and engaged. The room has desks, chairs, and some equipment. The lighting is bright.AUDIO: There's a conversation between the men. It starts with one saying something about being short but still impressive. Then another responds, and they keep chatting. There's no background music or sound effects. Just their voices and some faint ambient noise from the office.If you have any thoughts on this or want to discuss more about videos, feel free to share!"
+          "query": "**Visual:** The video shows three men standing indoors. One man is holding a glowing blue object that resembles a lightsaber. They seem to be interacting with it playfully or casually. The room has some furniture like shelves and a table.\n\n**Audio:** There's a conversation happening among the men. It seems light-hearted and friendly. No specific music or sound effects stand out."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 579.0745043754578
+      "processing_time": 210.95660138130188
+    },
+    {
+      "comment_index": 3687,
+      "video_id": "ofvoLdLssA8",
+      "comment": "0:34 that’s what she said",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 49.0,
+      "comment_timestamp": 34.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "25.0s - 31.0s",
+          "query": "**Visual:** The video shows two young men standing indoors. One is holding a glowing blue lightsaber-like object, while the other looks at it with interest. They seem to be in some kind of workshop or garage, with shelves and tools visible in the background.\n\n**Audio:** There's dialogue between the two men about whether the object they're looking at is real or just a shop item. It seems like they're discussing its authenticity."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "31.0s - 37.0s",
+          "query": "**Visual:** The video shows several people in an office-like setting. There's someone holding a glowing blue object that resembles a lightsaber. People around seem to be reacting with surprise or excitement. The background has desks, chairs, and typical office items.\n\n**Audio:** There is some shouting and conversation happening, along with the sound of the glowing object being moved around. It seems like there might be music playing softly in the background too."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "37.0s - 43.0s",
+          "query": "**Visual:** The video shows three men standing in an indoor space with wooden floors and brick walls. One man is holding a glowing blue lightsaber-like object. There's some furniture like shelves and a table visible in the background.\n\n**Audio:** You can hear laughter and shouting, along with some impact sounds that seem to be related to the action involving the lightsaber-like object."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 104.51948738098145
+    },
+    {
+      "comment_index": 3688,
+      "video_id": "ofvoLdLssA8",
+      "comment": "0:53 nice coloring",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 34.0,
+      "comment_timestamp": 53.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "44.0s - 50.0s",
+          "query": "**Visual:** The video shows a group of people in a room. They seem to be engaged in some kind of playful activity. One person is holding a glowing blue object, possibly a toy or prop. The room has a casual, lived-in look with furniture and items scattered around. The people are moving around, suggesting they're actively participating in the activity.\n\n**Audio:** There's a man speaking, likely giving instructions or commentary. The sound of a door slamming is heard, followed by laughter, indicating a light-hearted, fun atmosphere."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "50.0s - 56.0s",
+          "query": "Visually, there are three people in a room. One person is holding a phone, and another is holding a light saber. They seem to be interacting with each other, possibly playing a game or having fun. The room has a ceiling fan and some furniture. The colors are mostly neutral, with the light saber adding a bright, colorful element. There's movement as the people are engaged in their activity.\n\nIn terms of audio, there's laughter and some speech. There's also a sound effect that resembles a door slamming or something similar. The overall atmosphere seems lively and playful."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "56.0s - 62.0s",
+          "query": "**Visual:** The video shows three people in a room. They are holding lightsabers, which are glowing blue. The room has a modern look with a ceiling fan, some furniture, and a red brick wall. The people seem to be engaged in some playful activity with the lightsabers.\n\n**Audio:** There is a conversation happening in the background. The voices are clear and seem to be discussing something casually."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 293.0443699359894
+    },
+    {
+      "comment_index": 3689,
+      "video_id": "ofvoLdLssA8",
+      "comment": "1:54 that explosion looked real af",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 32.0,
+      "comment_timestamp": 114.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "105.0s - 111.0s",
+          "query": "Visually, there are several people in what looks like an urban street setting. There are parked cars, buildings, and some graffiti on the walls. The people seem to be engaged in some kind of activity, possibly dancing or moving around energetically. The colors are typical of a cityscape, with the gray of the pavement and buildings, and the varied colors of the cars and people's clothing. The movement is quite dynamic, with the people appearing to be in motion throughout the scene.Audibly, there are sounds of people shouting or yelling, which could be part of the activity they're doing. There's also some background noise that suggests a busy street environment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "111.0s - 117.0s",
+          "query": "**Visual:** The video shows a group of people in an urban setting. There are cars parked along the street, and some buildings in the background. The people are moving around, with one person in a maroon shirt appearing to be in the foreground, possibly gesturing or interacting with others. The scene seems to be in a city or town area.\n\n**Audio:** The audio includes shouting and some indistinct speech. There are also sounds of movement, like footsteps, and possibly some ambient city noises."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "117.0s - 123.0s",
+          "query": "Visually, there's an outdoor scene with parked cars on a street. A person is seen running across the frame from left to right. There are also some buildings in the background.\n\nIn terms of audio, someone is shouting \"No! No!\" repeatedly, followed by another voice saying something that seems like they're asking if someone is filming them. Then, there's a response about being under arrest."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 286.06028628349304
+    },
+    {
+      "comment_index": 3690,
+      "video_id": "ofvoLdLssA8",
+      "comment": "1:55 Plane destroyed 2:15 Cars destroyed",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 28.0,
+      "comment_timestamp": 135.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "126.0s - 132.0s",
+          "query": "Visually, there are several people in the scene. One person in a dark jacket and hat seems to be holding something, possibly a phone or a small object. Another person in a red shirt is interacting with someone in a blue shirt. There are cars parked in the background, and the setting appears to be an urban street with buildings. The movement is mainly focused on the interaction between the people in the foreground.\n\nIn terms of audio, there is a conversation happening. The voices are clear and seem to be in English. There are no distinct sound effects or music, just the natural sounds of the conversation and the environment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "132.0s - 138.0s",
+          "query": "Visually, there are several people in a parking lot. One person in a black jacket and beanie is running towards the camera, while others are standing around. There are parked cars in the background, and the scene seems to be in an urban area with buildings. The colors are mostly muted, with the cars being dark and the people wearing darker clothing. The movement is mainly the running person and some slight shuffling of the others.Audibly, there's a man speaking, but the words are unclear. There are also some shouting and a sudden, loud bang that sounds like an explosion."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "138.0s - 144.0s",
+          "query": "Visually, there are several people in the street. Some are running, and one person seems to be holding something up in the air. The background shows buildings and parked cars. The colors are typical of an urban setting, with the red of the buildings standing out. There's a sense of movement and activity.\n\nIn terms of audio, there's a shout, possibly from one of the people in the video. There's also some background noise, likely from the street and the people around."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 292.4513432979584
+    },
+    {
+      "comment_index": 3691,
+      "video_id": "ofvoLdLssA8",
+      "comment": "2:14 One could argue  it is half this guy's fault",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 27.0,
+      "comment_timestamp": 134.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "125.0s - 131.0s",
+          "query": "Well, I'm not sure if there's anything specific to describe about the visual or audio here. It seems like it might be some kind of interaction between police officers and civilians, but without more details, that's just speculation. Maybe you could give me a bit more context?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "131.0s - 137.0s",
+          "query": "Visually, there are several people in a street scene. Some are wearing dark clothing, and one person in a blue shirt is standing near a parked car. The background shows a red building and a street with some parked cars. The movement seems chaotic, with people appearing to be running or moving quickly.\n\nIn terms of audio, there are shouts and some indistinct sounds, possibly indicating a tense or urgent situation."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "137.0s - 143.0s",
+          "query": "**Visual:** The video shows a group of people in an urban setting. There are several cars parked along the street, and the buildings in the background are red and beige. The people are dressed casually, and one person is holding a camera, seemingly filming or taking pictures. The scene appears to be lively, with people moving around and interacting. The lighting suggests it's daytime.\n\n**Audio:** The audio includes a man speaking, possibly giving instructions or commentary. There are also sound effects, which could be related to the filming or photography process. The overall sound is somewhat chaotic, with a mix of speech and background noise."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 223.94667744636536
+    },
+    {
+      "comment_index": 3692,
+      "video_id": "ofvoLdLssA8",
+      "comment": "Way to go Paul. 2:30",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 24.0,
+      "comment_timestamp": 150.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "141.0s - 147.0s",
+          "query": "Sure! So, visually, there's a group of young men outside near some buildings. They seem to be having fun, laughing and gesturing excitedly. There are cars parked nearby, and one building has \"2458\" on it. The scene looks like an urban area with power lines overhead.Audience-wise, they're shouting and cheering, which adds to the lively vibe. It seems like something exciting is happening that's getting them all riled up.Anything else you want to know about the video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "147.0s - 153.0s",
+          "query": "Well, in the visual part, there are a bunch of guys standing together. They seem to be in some kind of outdoor setting, maybe near a building or something. One of them is making a funny face and pointing at something. The colors are pretty normal, nothing too out of the ordinary. And there's some movement, like the guys are standing and interacting with each other.In the audio part, there's a man speaking. He seems to be talking to someone or maybe just talking to himself. There's also a sound effect that comes in towards the end, kind of like a boom or a loud noise. It's not clear what the sound effect is for, but it definitely adds to the atmosphere.So, what do you think about this video? Do you have any other questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "153.0s - 159.0s",
+          "query": "Visually, there's a person with a surprised or shocked expression, mouth wide open. They seem to be in a room with some kind of equipment or machinery around. There are also some blurred, fast-moving shapes in the background, possibly flames or sparks. The colors are mostly dark with some bright yellow and orange elements. The movement is quite fast and chaotic, giving a sense of urgency or danger.Audibly, there's a loud, intense music playing in the background. It has a strong beat and seems to be electronic or dubstep genre. There are also some sound effects that add to the chaotic and urgent feel of the scene."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 266.2084982395172
     }
   ]
 }

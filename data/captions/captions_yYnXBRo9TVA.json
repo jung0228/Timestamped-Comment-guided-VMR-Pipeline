@@ -1,609 +1,229 @@
 {
   "video_id": "yYnXBRo9TVA",
   "total_comments": 20,
-  "successful_comments": 20,
-  "failed_comments": 14,
-  "success_rate": "100.0%",
+  "successful_comments": 0,
+  "failed_comments": 20,
+  "success_rate": "0.0%",
   "comments": [
     {
-      "comment_index": 4422,
-      "video_id": "yYnXBRo9TVA",
-      "comment": "2:45 proof that Trump is one of the greatest comedian of all time, do you how hard it is to get Germans to laugh.",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 98.0,
-      "comment_timestamp": 165.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "156.0s - 162.0s",
-          "query": "VISUAL: A man in a dark suit with a red tie is speaking at a podium. He's standing against a green marble - like background. The date \"9/25/18\" is displayed on the top left corner of the screen.AUDIO: There's a male voice speaking about maintaining independence in the Western Hemisphere. It seems to be a formal speech or announcement. So, what do you think about this? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "162.0s - 168.0s",
-          "query": "VISUAL: The video shows Donald Trump speaking at a podium with a dark background behind him. He's wearing a suit and tie. Then it cuts to a group of people sitting in front of a \"Germany\" sign, some are smiling or looking attentive.AUDIO: There is a man speaking about encroachment from expansionist foreign powers. It seems like he's making an important statement. So, what do you think about this? Do you have any other thoughts on the video?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "168.0s - 174.0s",
-          "query": "VISUAL: There's a group of people sitting at a table with \"Germany\" on it. They seem to be laughing or reacting to something. Then there's a man in a suit talking at a desk in front of a cityscape background. He has his hands up and is gesturing while speaking.AUDIO: You can hear laughter from the group and also some speech from the man at the desk. It seems like he might be making a joke or telling a story that's causing amusement. What do you think about the scene?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 222.54272985458374
-    },
-    {
-      "comment_index": 4423,
-      "video_id": "yYnXBRo9TVA",
-      "comment": "3:15 \"I haven´t seen him in a while\". 3:20 \"I see him a month ago\".",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 97.0,
-      "comment_timestamp": 200.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "191.0s - 197.0s",
-          "query": "VISUAL: There's a man sitting at a desk with his hands clasped. Behind him is a map of France with Paris marked on it. On the left side of the screen, there's an image of another person wearing a red tie. The background shows a cityscape at night.AUDIO: A male voice is speaking. It seems to be a conversation or monologue about someone going to Paris every year. He mentions that Paris isn't the same anymore."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "197.0s - 203.0s",
-          "query": "VISUAL: A man is standing at a podium with \"TRUMP\" written on it. He's wearing a suit and tie. There are American flags behind him. The date \"11/3/16\" is displayed in the top left corner. The background has a blue and purple gradient with some white lines and stars.AUDIO: Someone is speaking about Paris, mentioning it several times. It seems like they're talking about not having seen someone there for years. It's just speech without any other sounds or music. So, what do you think about this? Do you have any thoughts on Trump or his speeches?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "203.0s - 209.0s",
-          "query": "VISUAL: A man is standing at a podium with \"TRUMP\" written on it. He's wearing a suit and tie. There are American flags behind him. The date \"11/3/16\" is displayed in the top left corner. The background has a blue and purple gradient with some white lines.AUDIO: Someone is speaking, saying something about seeing someone like a month ago and asking how Paris was this summer. Then they say they don't go to Paris and ask if the other person is kidding me.If you have any more questions or want to discuss this further, feel free to let me know."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 260.30752301216125
-    },
-    {
-      "comment_index": 4421,
+      "comment_index": 5691,
       "video_id": "yYnXBRo9TVA",
       "comment": "6:44 - It's called the forest floor, that is a thing. I'm assuming he heard it from some advisor or official and as he loves to do with all new phrases, words, and terms he hears, he repeats them nonsensically.",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
       "likes": 350.0,
-      "comment_timestamp": 404.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "395.0s - 401.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk on a talk show set with a cityscape background. On a screen to his left, there's an image of another man with a long beard, wearing a cap and jacket, holding something. The man at the desk is gesturing with his hands while talking.AUDIO: You can hear laughter and applause from an audience, along with some speech from the host. It seems like he's making a joke or comment about the person on the screen. Then there's a transition to a news broadcast clip showing a man arriving in California's wildfire disaster zone."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "401.0s - 407.0s",
-          "query": "VISUAL: The video shows a news broadcast with four people standing outdoors in a forested area that looks damaged, possibly from wildfires. There's smoke in the background. The scene then cuts to a man sitting at a desk on a talk show set, talking while an inset screen shows the same outdoor scene. The man is wearing a suit and tie.The AUDIO: Someone is speaking about taking care of \"the floors\" of the forest, which seems to be a metaphorical or literal reference to something related to the forest floor. It's not clear if there's any music or other sound effects."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "407.0s - 413.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands clasped. Behind him is a cityscape view through large windows. On a screen to his left, there's another person wearing a cap and jacket. The man at the desk seems to be talking or reacting to something.The AUDIO: Someone is speaking, saying \"It's the ground.\" Then there's laughter from an audience, followed by more speech asking if he also calls the sky the ceiling. It ends with more laughter. So, it looks like some kind of humorous exchange is happening.What do you think about that? Any thoughts on why they might be laughing?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 302.1643888950348
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
     },
     {
-      "comment_index": 4424,
+      "comment_index": 5692,
+      "video_id": "yYnXBRo9TVA",
+      "comment": "3:03 in Finland we have word what is järjestelmällistyttämättömyydelläänsäkäänköhän. Welcome to Finland. Easy words.",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 185.0,
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
+    },
+    {
+      "comment_index": 5693,
+      "video_id": "yYnXBRo9TVA",
+      "comment": "2:45 proof that Trump is one of the greatest comedian of all time, do you how hard it is to get Germans to laugh.",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 98.0,
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
+    },
+    {
+      "comment_index": 5694,
+      "video_id": "yYnXBRo9TVA",
+      "comment": "3:15 \"I haven´t seen him in a while\". 3:20 \"I see him a month ago\".",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 97.0,
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
+    },
+    {
+      "comment_index": 5695,
       "video_id": "yYnXBRo9TVA",
       "comment": "2:54 Not only is this lady laughing but she had to put a second pair of glasses on her head to figure out what's up.",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
       "likes": 64.0,
-      "comment_timestamp": 174.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "165.0s - 171.0s",
-          "query": "VISUAL: The video shows a group of people sitting at a table with a \"Germany\" sign in front. They seem to be in some kind of formal meeting or conference setting. There's a man in a suit talking on a TV show set in the background.AUDIO: There is speech from the man on the TV show, but it's not clear what he's saying. There's also laughter heard in the background."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "171.0s - 177.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a microphone on it. Behind him is a cityscape view through large windows. On a screen to his left, there are three men in suits looking towards something off-screen. Then another screen shows a woman wearing glasses and a blue top, looking serious.The AUDIO: The man is speaking, and there's laughter from an unseen audience. It seems like he's making some kind of joke or comment that's amusing to others. What do you think about the scene?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "177.0s - 183.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a microphone on it. He seems to be talking or presenting something. On the screen behind him is an inset image of a woman wearing glasses, looking serious. The background shows a cityscape at night.AUDIO: A male voice is speaking, saying \"I don't know what the hell he's talking about and she's from a country where this is a real word.\" It has a somewhat confused or frustrated tone.What do you think about that? Any thoughts or questions?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 225.33449983596802
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
     },
     {
-      "comment_index": 4425,
+      "comment_index": 5696,
       "video_id": "yYnXBRo9TVA",
       "comment": "LOL, I was born and raised in midwest Brazil. Still live here. This place is usually warm and it never snows. The lowest temperature we've ever experienced here was 8 celsius, in the past.  but over the years we were used to expect for a well balanced weather between middle October and the following April. Also, during this period of the year it is normal to be raining. But year after year the average temperature is rising. And in 2018, particularly, we're almost at christmas and the weather is way far hotter than the normal (Today: 29 celsius in the evening / 19:30 pm). The UV rate today is at 15, considered at extreme level. The water volume of many rivers is decreasing year after year, and people has suffering with lack of pipered water in many days of the year. Sun power is like 200% of the normal and it's been hard to live here without using an air conditioner or sunscreen many hours a day. No, the world isn't getting warmer, definitely. We should just rake the floor of the forest.",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
       "likes": 57.0,
-      "comment_timestamp": 1170.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "1161.0s - 1167.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "1167.0s - 1173.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "1173.0s - 1179.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.11597585678100586
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
     },
     {
-      "comment_index": 4426,
+      "comment_index": 5697,
       "video_id": "yYnXBRo9TVA",
-      "comment": "[USER]:22 ... (interrupting the interviewer) Hillary Clinton fan... (continue to interrupt) excuse me... HILLARY CLINTON FAN...  LALALLALALALALALLALLALA..... HILLARRRYYYYY CLINTOOOOOOOONNNNNNNN FAAAAAAAAANNNNNNN.... LALALALALALALA..... I CAN'T HEAR YOUUUUUU.... LALALALALALA.........  exactly what a toddler would do.",
+      "comment": "@10:22 ... (interrupting the interviewer) Hillary Clinton fan... (continue to interrupt) excuse me... HILLARY CLINTON FAN...  LALALLALALALALALLALLALA..... HILLARRRYYYYY CLINTOOOOOOOONNNNNNNN FAAAAAAAAANNNNNNN.... LALALALALALALA..... I CAN'T HEAR YOUUUUUU.... LALALALALALA.........  exactly what a toddler would do.",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
       "likes": 41.0,
-      "comment_timestamp": 622.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "613.0s - 619.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hand on it. Behind him is a cityscape view through windows. On the screen above him are two other men in suits, one with white hair and a red tie, the other with gray hair. The scene then cuts to another man in glasses and a suit talking against a backdrop with flags.AUDIO: A male voice is speaking about criticism from Raven towards Trump regarding attacks on the press, and how Trump responded by insulting Raven. It also mentions Bill McRaven retiring."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "619.0s - 625.0s",
-          "query": "VISUAL: There's a man in a suit and tie on Fox News Sunday. He seems to be talking or being interviewed. The background has flags and a blue and white design with stars.AUDIO: Someone is speaking, but it's not clear who they are or what they're saying. It could be a news anchor or an interviewee. There are no other distinct sounds like music or sound effects.If you want to know more about this kind of analysis or have any other questions, feel free to ask!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "625.0s - 631.0s",
-          "query": "VISUAL: The video shows a man in military uniform walking among other soldiers who are standing still. There's an American flag visible in the background. The scene seems to be outdoors on a sunny day.AUDIO: Someone is speaking, but it's not clear what they're saying due to the short duration of the clip. It could be a news report or an interview. What do you think about this? Do you have any other questions related to this video?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 264.42384099960327
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
     },
     {
-      "comment_index": 4427,
+      "comment_index": 5698,
       "video_id": "yYnXBRo9TVA",
       "comment": "@9:20   The precise moment you realize that you miss Barack Obama,because regardless of how you felt about him politically,and as President,you at least felt you could talk with him like another rational,reasonably intelligent,adult human being.",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
       "likes": 27.0,
-      "comment_timestamp": 560.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "551.0s - 557.0s",
-          "query": "VISUAL: The video shows Donald Trump speaking on Fox News Sunday. He's wearing a suit and tie, sitting in front of some flags and curtains. There's also a \"Just In\" banner at the bottom with two other people's pictures.AUDIO: Trump is talking about something related to California being burned beyond recognition. It seems like he's describing a situation where there was fire damage and they're raking up small trees or bushes that were affected.If you want to know more about what he said specifically or have any other thoughts, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "557.0s - 563.0s",
-          "query": "VISUAL: The video shows two men shaking hands in an indoor setting with flags in the background. One man is wearing a dark suit and tie, while the other has glasses and a similar outfit. There's also some text on the screen about Trump and California being \"burned beyond recognition.\".AUDIO: Someone is speaking, saying something like \"dry weeds and they're raking them there.\" It seems to be discussing wildfires or something related to dry vegetation. What do you think about this? Do you have any thoughts on the situation mentioned?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "563.0s - 569.0s",
-          "query": "VISUAL: The video shows two men in suits talking on Fox News Sunday. One man is gesturing with his hands while speaking to the other. There's an American flag and another flag behind them. The background has a blue and purple gradient with some white lines. The date \"11/16/18\" and time \"2:07 CT\" are displayed at the top left corner. The news ticker at the bottom reads \"TRUMP: PARTS OF CA 'BURNEE BEYOND RECOGNITION'\". There are also two small images of people in the bottom right corner.AUDIO: Someone is speaking about climate change and wildfires, mentioning that it's drier due to climate change. It seems like they're discussing the connection between climate change and the wildfire situation in California.If you have any more questions or want to discuss something else related to this, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 388.88182973861694
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
     },
     {
-      "comment_index": 4428,
+      "comment_index": 5699,
       "video_id": "yYnXBRo9TVA",
       "comment": "Nobody who notices that she is wearing 2 glasses? 3:00",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
       "likes": 21.0,
-      "comment_timestamp": 180.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "171.0s - 177.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a microphone on it. Behind him is a cityscape view through large windows. On a screen to his left, there are three men in suits looking towards something off-screen. Then another screen shows a woman wearing glasses and a blue top, looking serious.The AUDIO: The man is speaking, and there's laughter from an unseen audience. It seems like he's making some kind of joke or comment that's amusing to others. What do you think about the scene?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "177.0s - 183.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a microphone on it. He seems to be talking or presenting something. On the screen behind him is an inset image of a woman wearing glasses, looking serious. The background shows a cityscape at night.AUDIO: A male voice is speaking, saying \"I don't know what the hell he's talking about and she's from a country where this is a real word.\" It has a somewhat confused or frustrated tone.What do you think about that? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "183.0s - 189.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands clasped. Behind him is a cityscape view through large windows. On the left side of the screen, there's an inset image of another person wearing glasses and a blue top. The background also shows a map of France with Paris marked.\n\nAUDIO: You can hear laughter and applause in the audio. Then someone starts speaking about one of Trump's weird recurring lies that he keeps repeating."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 231.1657166481018
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
     },
     {
-      "comment_index": 4429,
+      "comment_index": 5700,
       "video_id": "yYnXBRo9TVA",
       "comment": "10:45 I'm going to rake your floors LOL",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
       "likes": 15.0,
-      "comment_timestamp": 645.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "636.0s - 642.0s",
-          "query": "VISUAL: The video shows two men in suits talking on Fox News Sunday. One man has glasses and is sitting down, while the other man with blonde hair is standing up and speaking. There's an American flag and another flag behind them. The background also includes some blue and white graphics typical for news broadcasts.AUDIO: A male voice is heard speaking about someone being a Hillary Clinton backer and an Obama backer. It seems to be discussing political affiliations or support."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "642.0s - 648.0s",
-          "query": "VISUAL: The video shows two men in suits talking on Fox News Sunday. One man has light hair and is wearing a dark suit with an American flag pin, while the other man has glasses and darker hair. There's an American flag and another flag behind them. The background looks like it could be inside a government building.AUDIO: A man is speaking about Osama bin Laden, mentioning that he was a Navy SEAL and suggesting it would have been nice if they got him alive. It seems to be a political or news discussion.If you want to talk more about this or have other questions, feel free to let me know."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "648.0s - 654.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands clasped. Behind him is a cityscape view through large windows. On the left side of the screen, there are two smaller images of other men in suits. The background has a blue and purple gradient with some light streaks.AUDIO: Someone is speaking, saying \"Sooner than that you're attacking him for not getting bin Laden sooner? Oh because I totally.\" It seems like they're making a point or responding to something. What do you think about it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 270.31612634658813
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
     },
     {
-      "comment_index": 4430,
+      "comment_index": 5701,
       "video_id": "yYnXBRo9TVA",
       "comment": "0:22 \"threat to a democracy..\" ?!?!?!?  America is NOT a democratic Country",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
       "likes": 12.0,
-      "comment_timestamp": 22.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "13.0s - 19.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands raised. On the screen behind him is an image of Donald Trump. The background shows a cityscape at night.The AUDIO: You can hear applause and some kind of electronic beeping or whirring sound. It seems like there might be a bit of music playing too.If you want to talk more about this video or have other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "19.0s - 25.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands on it. On the screen behind him is an image of another person wearing a dark suit and red tie. The background shows a cityscape at night with lit buildings.AUDIO: Someone is speaking about whether someone is considered a threat to democracy or not. It seems like they're making a point that everyone can agree on something related to this topic.What do you think about the content? Do you have any other thoughts on the video?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "25.0s - 31.0s",
-          "query": "VISUAL: There's a man sitting at a desk with a microphone on it. He's wearing a suit and tie. Behind him is a cityscape view through windows. On the screen to his left, there's an image of another person in a suit and red tie. The man seems to be talking or presenting something.AUDIO: A male voice is speaking, saying \"we can agree on is that he is weird he is\". It ends with some laughter. What do you think about this?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 237.40079712867737
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
     },
     {
-      "comment_index": 4431,
+      "comment_index": 5702,
       "video_id": "yYnXBRo9TVA",
       "comment": "2:18 looking back, it is really hard to tell if trump was actually making a point of stating something that intel/foreign policy experts fed him and his people or half remembering things he’d heard from a briefing, but he was shockingly correct",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
       "likes": 11.0,
-      "comment_timestamp": 138.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "129.0s - 135.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands outstretched. Behind him is a screen showing an image of Donald Trump on one side and a map labeled \"SWEDEN\" on the other. The background has a cityscape view through windows.AUDIO: A male voice says something about IKEA changing their instructions to be like this, followed by applause. Then there's more speech from the same person."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "135.0s - 141.0s",
-          "query": "VISUAL: There's a man sitting at a desk with his hands clasped together. Behind him is a large screen showing an image of Donald Trump on one side and a map labeled \"Germany\" on the other. The background has a cityscape view through windows.Atmosphere: It seems like a talk show or news setting.AUDIO: A male voice speaks about something related to Germany that was said by Trump at the UN in September. The tone suggests it was a controversial statement. There's applause heard towards the end, indicating agreement or reaction from an audience.So, what do you think about the content? Any thoughts on why there might have been applause?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "141.0s - 147.0s",
-          "query": "VISUAL: A man is sitting at a desk with his hands clasped. Behind him is a large screen showing an image of Germany's map with \"GERMANY\" written on it. There's also a picture of another person wearing a red tie. The background shows a cityscape at night.AUDIO: Someone is speaking about how even the German delegation couldn't help but laugh at someone, and that Germany will become totally dependent on something or someone. It seems to be a news report or commentary. So, what do you think about this? Do you have any thoughts on the situation mentioned?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 285.2787878513336
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
     },
     {
-      "comment_index": 4432,
+      "comment_index": 5703,
       "video_id": "yYnXBRo9TVA",
       "comment": "Trump: I haven't seen him in a while (3:18)  Also Trump: I see him, like, a month ago (3:23)",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
       "likes": 10.0,
-      "comment_timestamp": 203.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "194.0s - 200.0s",
-          "query": "VISUAL: A man is sitting at a desk with his hands clasped. There's a map of France on the screen behind him, highlighting Paris. Another image shows Donald Trump speaking at a podium with American flags around him.AUDIO: Someone is talking about having a friend who goes to Paris every year, mentioning they haven't seen him in a while. The word \"Paris\" is emphasized in the speech."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "200.0s - 206.0s",
-          "query": "VISUAL: A man is standing at a podium with an American flag behind him. He's wearing a suit and tie. He seems to be speaking into a microphone. The podium has \"TRUMP\" written on it. There are also some other flags visible in the background.AUDIO: Someone is speaking about Paris, mentioning that they've been told for years about it and saw something related to it recently. It sounds like a casual conversation or commentary."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "206.0s - 212.0s",
-          "query": "VISUAL: A man is standing at a podium with \"TRUMP\" written on it, speaking into a microphone. There are American flags behind him. The date \"10/28/16\" appears in the top left corner. The C-SPAN logo is visible in the bottom right corner.AUDIO: Someone is talking about not going to Paris this summer, mentioning that they have a friend who loves Paris. It's just speech without any background music or sound effects.If you want to talk more about this video or anything else related, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 239.3878412246704
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
     },
     {
-      "comment_index": 4433,
-      "video_id": "yYnXBRo9TVA",
-      "comment": "3:02  My google translate tells me that means \"legal protection insurance companies\".  any germans willing to confirm that for me? XD",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 8.0,
-      "comment_timestamp": 182.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "173.0s - 179.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a microphone on it. He seems to be talking or presenting something. On a screen next to him is an image of a woman wearing glasses and looking a bit confused or uncertain. The background shows a cityscape at night.AUDIO: You can hear laughter and applause from an audience, along with some speech that the man is making. It also includes the woman's voice saying \"She doesn't know what the hell he's talking about.\" What do you think might be going on here?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "179.0s - 185.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a microphone on it. Behind him is a cityscape view through large windows. On the left side of the screen, there's an inset image of a woman wearing glasses and a blue top. She seems to be in some kind of courtroom or official setting. The words \"RECHTSSCHUTZVERSICHERUNGSGESELLSCAHTEN\" appear below her image.AUDIO: A male voice says something about someone being from a country where a certain word is real. Then there's laughter and applause. What do you think about that?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "185.0s - 191.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a microphone on it. Behind him is a cityscape view through large windows. On the left side of the screen, there's an inset image of another person wearing glasses and a blue top. Then, the inset changes to show a map of France with Paris marked and a picture of Donald Trump next to it.AUDIO: A male voice speaks about one of Trump's weird recurring lies that he has a friend in Paris. The tone seems somewhat amused or mocking.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 357.65334582328796
-    },
-    {
-      "comment_index": 4435,
-      "video_id": "yYnXBRo9TVA",
-      "comment": "The Swedish officials didn't want to admit problems with the immigrants, so much so that citizens will be punished if they speak the truth about rapes, riots, and lawlessness. Look it up, Trump was right. Germany is fast becoming dependent on Russia for their energy needs, that too can be verified. But is that a bad thing? Trump goads them into reality and reconsidering. Those laughing government officials, including Merkel are communist sympathizers, as Merkel's dad was a devoted communist who moved her and his family from Western Germany to communist Eastern Germany, where she was raised. No joking matter. Trump is right again. Those who laugh, do so out of ignorance. Paris is most Definitely no longer Paris. Look up videos of vast immigrant homelessness! Streets are littered. And now French citizens are rioting. Trump proved right again, like a prophet! I too have a friend, she's from Europe, and well before the California fires she commented: we clean the forests to keep them healthy and safe. How? I asked. We sweep the forest floor. What? We cut out the undergrowth to sweep it clean. Now I'm ignorant on this point, but I have a friend who shared that with me. Me thinks Trump was right again! Stopped watching at 7:00 minutes, funny, but sad that we don't educate ourselves.",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 6.0,
-      "comment_timestamp": 420.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "411.0s - 417.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands clasped. He looks like he's on some kind of talk show set. In the background, there's a cityscape view through large windows. On the left side of the screen, there's an inset image of another person wearing a cap and jacket, standing outside in a snowy or cold environment.AUDIO: The main speaker is talking about someone being called \"the ceiling of the earth.\" There's also laughter from the audience."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "417.0s - 423.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hand on it. He seems to be talking or reacting to something. In the background, there's a cityscape view through large windows. On the left side of the screen, there's an inset image showing another person wearing a cap and jacket, standing outside. The main guy is gesturing with his hands while speaking.AUDIO: A male voice is heard saying \"The clear it is that he has never been outside these wildfires they're so.\" There's also laughter from an audience in the background."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "423.0s - 429.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands on it. He seems to be talking or reacting to something. In the top left corner, there's an inset image showing another person wearing a cap and jacket, standing outside near some trees.AUDIO: The main speaker is saying \"Floor is filthy now we gotta mop it up we'll also be replacing these\". It sounds like he might be talking about cleaning or maintenance work. There's no background music or other sound effects, just the speech. So, what do you think about this scene?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 294.4299509525299
-    },
-    {
-      "comment_index": 4434,
+      "comment_index": 5704,
       "video_id": "yYnXBRo9TVA",
       "comment": "Anyone else notice how the chick at 2:52 has two glasses on lol",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
       "likes": 8.0,
-      "comment_timestamp": 172.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "163.0s - 169.0s",
-          "query": "VISUAL: The video shows Donald Trump speaking at a podium with a microphone. He's wearing a dark suit and red tie. In front of him is a sign that says \"Germany.\" There are several people sitting behind it, some looking towards Trump while others seem to be engaged in their own activities like writing or talking.AUDIO: Someone is speaking about \"encroachment of expansionist foreign powers\" during these six seconds. It seems to be a formal speech context. What do you think about this topic?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "169.0s - 175.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk on a talk show set with a cityscape background. On a screen behind him, there are several people in suits labeled \"GERMANY\". The man is talking and gesturing. Then an image of a woman wearing glasses appears on another screen next to him.AUDIO: You can hear laughter throughout the clip. The man is speaking, likely making some humorous comment."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "175.0s - 181.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a microphone on it. He seems to be talking or presenting something. In the background, there's a cityscape view through large windows. On the left side of the screen, there's an inset showing another person wearing glasses and a blue top. The man is gesturing with his hands while speaking.AUDIO: There's applause from an audience in the background, and then some speech that includes phrases like \"she doesn't know what the hell he's talking about\" and mentions a country. It also has some sound effects like clapping and possibly some music playing faintly.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 269.12804412841797
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
     },
     {
-      "comment_index": 4436,
+      "comment_index": 5705,
+      "video_id": "yYnXBRo9TVA",
+      "comment": "3:02  My google translate tells me that means \"legal protection insurance companies\".  any germans willing to confirm that for me? XD",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 8.0,
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
+    },
+    {
+      "comment_index": 5706,
+      "video_id": "yYnXBRo9TVA",
+      "comment": "The Swedish officials didn't want to admit problems with the immigrants, so much so that citizens will be punished if they speak the truth about rapes, riots, and lawlessness. Look it up, Trump was right. Germany is fast becoming dependent on Russia for their energy needs, that too can be verified. But is that a bad thing? Trump goads them into reality and reconsidering. Those laughing government officials, including Merkel are communist sympathizers, as Merkel's dad was a devoted communist who moved her and his family from Western Germany to communist Eastern Germany, where she was raised. No joking matter. Trump is right again. Those who laugh, do so out of ignorance. Paris is most Definitely no longer Paris. Look up videos of vast immigrant homelessness! Streets are littered. And now French citizens are rioting. Trump proved right again, like a prophet! I too have a friend, she's from Europe, and well before the California fires she commented: we clean the forests to keep them healthy and safe. How? I asked. We sweep the forest floor. What? We cut out the undergrowth to sweep it clean. Now I'm ignorant on this point, but I have a friend who shared that with me. Me thinks Trump was right again! Stopped watching at 7:00 minutes, funny, but sad that we don't educate ourselves.",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 6.0,
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
+    },
+    {
+      "comment_index": 5707,
       "video_id": "yYnXBRo9TVA",
       "comment": "8:08 The body of the story actually talks about vampires. It’s probably just pulled from Wikipedia, but it does relate to the headline. Great job graphics department!",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
       "likes": 6.0,
-      "comment_timestamp": 488.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "479.0s - 485.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands clasped. Behind him is a cityscape view through large windows. On the left side of the screen, there's an image of Donald Trump superimposed over a map of Finland. The map has \"FINLAND\" written on it. The man seems to be talking or presenting something.AUDIO: A male voice is speaking. He says, \"And the president of that country has to come out and say it's not true. We're like a week away from the president of Romania.\" It sounds like he might be making a joke or comment about some political situation.So, what do you think about this? Do you have any other thoughts or questions related to this video?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "485.0s - 491.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands clasped. Behind him is a cityscape view through windows. On the left side of the screen, there's an image of Romania on a map. Then it cuts to a newspaper article headline that says \"I DID NOT TELL PRESIDENT TRUMP THAT VAMPIRES ARE REAL\" by Oliver Byron. The article has some text below the headline.AUDIO: A male voice speaks about Romania calling a press conference to deny telling President Trump that vampires are real. There's also applause heard in the background. So, what do you think about this? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "491.0s - 497.0s",
-          "query": "VISUAL: There's a man sitting at a desk with his hands clasped. Behind him is a cityscape view through windows. On the left side of the screen, there's an image of another person wearing a red tie against a map background labeled \"FINLAND.\" The man at the desk seems to be talking or reacting to something.AUDIO: You can hear applause throughout the clip. It starts around 1 second into the video and continues until about 5 seconds. Then it stops for a moment before starting again briefly near the end.What do you think might have caused all that applause?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 377.0580585002899
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
     },
     {
-      "comment_index": 4437,
+      "comment_index": 5708,
       "video_id": "yYnXBRo9TVA",
       "comment": "at 2:11 that is literally what ikea instructions are at this point. Even the stupidest idiot can do it, Ikea is genius.",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
       "likes": 4.0,
-      "comment_timestamp": 131.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "122.0s - 128.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands on it. On the screen behind him is an image of a puppet wearing a chef hat and apron. Then it changes to show a map of Sweden with Donald Trump's face superimposed over it.AUDIO: The man is speaking, and there's laughter from an audience in the background.What do you think about that? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "128.0s - 134.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a microphone. Behind him is a screen showing a map of Sweden and an image of Donald Trump. The scene has a cityscape background. Then there's a close - up of some IKEA assembly instructions with the words \"JUST PUT IT TOGETHER, IDIOT.\" on it.AUDIO: A male voice says something about mocking them, comparing it to IKEA changing their instructions. There's also laughter heard in the background.What do you think about that comparison?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "134.0s - 140.0s",
-          "query": "VISUAL: There's a man sitting at a desk on a talk show set with a cityscape background. On the screen behind him is an image of Donald Trump next to a map labeled \"Germany.\" The host is talking about something related to Germany.The AUDIO: A male voice speaks about Trump doing something again in September when he went to the UN and said something about Germany. There's applause from the audience during his speech.What do you think about that? Any thoughts or questions?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 241.85756373405457
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
     },
     {
-      "comment_index": 4438,
+      "comment_index": 5709,
       "video_id": "yYnXBRo9TVA",
-      "comment": " [USER]  Not at 7:30 in the evening.",
+      "comment": " @WernerKlorand  Not at 7:30 in the evening.",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
       "likes": 4.0,
-      "comment_timestamp": 450.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "441.0s - 447.0s",
-          "query": "VISUAL: There's a man sitting at a desk with his hands on it. Behind him is a large screen showing an image of Finland with Donald Trump's face superimposed over it. The background looks like a cityscape at night. The man seems to be talking or reacting to something.AUDIO: You can hear applause and some kind of speech in the background. It's not clear who's speaking though.What do you think about that? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "447.0s - 453.0s",
-          "query": "VISUAL: There's a man sitting at a desk with his hands clasped. Behind him is a cityscape view through large windows. On the left side of the screen, there's an image of another person wearing a red tie against a map background labeled \"FINLAND.\" The man at the desk seems to be talking or presenting something.AUDIO: Someone is speaking, likely delivering a monologue or commentary. It has a conversational tone."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "453.0s - 459.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands clasped. Behind him is a cityscape view through windows. On the left side of the screen, there's an inset image showing another person in a suit against a map background labeled \"FINLAND.\" The scene seems to be from a talk show or news program setting.AUDIO: A male voice speaks for about 5 seconds, saying something like \"country rake the floors of the forest\" and then pauses briefly before continuing. It sounds like he might be making a joke or comment related to the visuals."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 245.80655932426453
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
     },
     {
-      "comment_index": 4439,
-      "video_id": "yYnXBRo9TVA",
-      "comment": "3:03 German lady wearing two pairs of glasses. Must be for those extra big eye rolls...",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 4.0,
-      "comment_timestamp": 183.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "174.0s - 180.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a microphone on it. He seems to be talking or presenting something. In the background, there's a cityscape view through large windows. On the left side of the screen, there's an inset showing another person who looks like they're listening intently.AUDIO: You can hear laughter and applause from an audience. The main speaker is talking about someone not understanding what he's saying, and mentions that she's from a certain place. It sounds like some kind of talk show or interview setting.What do you think about the context? Any guesses on where this might be from?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "180.0s - 186.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a microphone on it. Behind him is a cityscape view through large windows. On the left side of the screen, there's an inset image of another person wearing glasses and a blue top. The text \"RECHTSSCHUTZVERSICHERUNGSGESELLSCAFTEN\" appears below that person.AUDIO: A male voice says something about a country where a certain word is real, followed by laughter and applause. Then he says the same thing again, and more laughter and applause ensues.What do you think about the content? Do you have any other questions related to this?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "186.0s - 192.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands clasped. Behind him is a cityscape view through large windows. On the left side of the screen, there's an image of Donald Trump wearing a red tie, next to a map of France with Paris marked. The words \"RECHTSSCHUTZVERSICHERUNGSGESELLSCAHSSEN\" appear on the screen below the map.AUDIO: A male voice speaks about one of Trump's weird recurring lies regarding having a friend in Paris who keeps telling him something. It ends with some applause. So, what do you think about that? Any thoughts or questions?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 361.5532691478729
-    },
-    {
-      "comment_index": 4440,
+      "comment_index": 5710,
       "video_id": "yYnXBRo9TVA",
       "comment": "2:40 did he lie tho. No he didn’t. Not here",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
       "likes": 3.0,
-      "comment_timestamp": 160.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "151.0s - 157.0s",
-          "query": "VISUAL: A man is speaking at a podium with microphones. He's wearing a dark suit, white shirt, and red tie. There's an American flag pin on his lapel. The background appears to be a green marble wall.AUDIO: Someone is speaking, saying \"does not immediately change course here in the western hemisphere.\" It seems like a formal speech or announcement. So, what do you think about this? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "157.0s - 163.0s",
-          "query": "VISUAL: A man in a dark suit with a red tie is speaking at a podium. He's standing against a green marble - like background. The ABC News logo is visible in the top right corner.AUDIO: There's a male voice speaking about maintaining independence from something, though it's not clear who he is or what context it's in.If you have any other thoughts on this or want to discuss more about it, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "163.0s - 169.0s",
-          "query": "VISUAL: The video shows Donald Trump speaking at a podium with a microphone. He's wearing a dark suit and red tie. In front of him is a sign that says \"Germany.\" There are several people sitting behind it, some looking towards Trump while others seem to be engaged in their own activities like writing or talking.AUDIO: Someone is speaking about \"encroachment of expansionist foreign powers\" during these six seconds. It seems to be a formal speech context. What do you think about this topic?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 228.19450211524963
+      "error": "Video file not found: yYnXBRo9TVA",
+      "analysis_type": "failed"
     }
   ]
 }

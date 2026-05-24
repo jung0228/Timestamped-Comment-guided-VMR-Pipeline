@@ -6,7 +6,7 @@
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 2621,
+      "comment_index": 5167,
       "video_id": "VVV4xeWBIxE",
       "comment": "0:58 pterodactyls in the distance",
       "language": "en",
@@ -19,24 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "49.0s - 55.0s",
-          "query": "VISUAL: A person is sitting on the ground with their legs crossed. They're using a stick to stoke a small fire made from twigs and leaves. Then they grab some clay and start shaping it on a flat stone surface.AUDIO: There's no speech or music in the audio. You can hear the crackling of the fire and some faint background noise like wind or leaves rustling."
+          "query": "Visual: The video shows hands working on a stone surface with some kind of tool or object being tapped against it. There's dirt and small rocks around.\n\nAudio: You can hear tapping and crunching noises throughout the clip."
         },
         {
           "segment_index": 2,
           "time_range": "55.0s - 61.0s",
-          "query": "VISUAL: A person is using their hands to shape clay on a flat stone surface outdoors. The scene has some rocks and dry leaves around. There's no clear indication of time of day or weather conditions from just this short clip.AUDIO: There are some impact sounds throughout the 6 seconds, like something being tapped or hit repeatedly. No distinct speech or music can be heard. It seems more like background noise or environmental sounds.If you want to know more about analyzing videos or have any other questions related to this, feel free to ask!"
+          "query": "Visual: The video shows hands working on a circular object made of clay or mud placed on a flat stone surface outdoors. There's some dry grass around.\n\nAudio: A single gunshot is heard at the end of these six seconds."
         },
         {
           "segment_index": 3,
           "time_range": "61.0s - 67.0s",
-          "query": "VISUAL: A person is working on some clay on a stone surface outdoors. They're using their hands to shape it into a bowl-like form. The ground around has small rocks and bits of debris. There's also a stick or tool being used for shaping the clay.AUDIO: There are bird chirping sounds throughout the clip. It seems like a peaceful outdoor setting."
+          "query": "Visually, there's a person sitting on the ground, working with clay. They seem to be shaping or molding it with their hands. The setting looks like an outdoor area, maybe a garden or a workshop, with some natural elements around. There's also a wooden object nearby, possibly a tool or part of the setup. The colors are mostly earthy tones, like browns and greens from the clay and the surrounding nature. The movement is mainly the person's hands manipulating the clay, and there's a bit of a rustling sound in the background, suggesting some leaves or plants are moving.Audibly, there are some rustling sounds, likely from leaves or plants, and a brief moment of a bird chirping. There's no speech or music in this segment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 192.20750641822815
+      "processing_time": 237.4552822113037
     },
     {
-      "comment_index": 2622,
+      "comment_index": 5168,
       "video_id": "VVV4xeWBIxE",
       "comment": "0:57 random animal being raped in the background 1:41 train noises 1:49 making worlds first pocket pussy 2:05 more trains",
       "language": "en",
@@ -49,24 +49,24 @@
         {
           "segment_index": 1,
           "time_range": "116.0s - 122.0s",
-          "query": "VISUAL: A person is using a hammer to shape clay on the ground. There's also a fire burning nearby with some sticks arranged around it. The scene seems to be outdoors, maybe in a forest or a campsite. The ground is covered with dirt and leaves.AUDIO: There's a rhythmic pounding sound from the hammer hitting the clay. In the background, there are bird chirping sounds. It gives off a peaceful, natural vibe.What do you think about this kind of outdoor activity?"
+          "query": "**Visual:** The video shows someone using a stick to poke at something on the ground near a fire. There's also a clay pot nearby with a hole in it.\n\n**Audio:** You can hear birds chirping and some kind of machinery or tool being used in the background."
         },
         {
           "segment_index": 2,
           "time_range": "122.0s - 128.0s",
-          "query": "VISUAL: There's a fire burning on the ground with some logs and twigs inside it. A person is crouching nearby, wearing shorts. There's also a clay pot or container next to the fire. The ground around looks like dirt with some scattered leaves and twigs.AUDIO: You can hear a rhythmic, repetitive sound that kind of resembles a machine working or something being processed. It's not clear if there's any speech or other distinct sounds. What do you think about the scene?"
+          "query": "Visual: The video shows a fire burning on the ground with some logs and twigs around it. There's also an object that looks like a clay pot or container nearby.\n\nAudio: I can hear a rhythmic thumping sound throughout the clip. It seems to be a consistent beat or pattern."
         },
         {
           "segment_index": 3,
           "time_range": "128.0s - 134.0s",
-          "query": "VISUAL: There's a man squatting near some logs and a clay pot. He seems to be working on something with his hands. The background has trees and a bit of a structure made from natural materials like mud or clay.AUDIO: You can hear birds chirping and some kind of tapping or knocking sound. It gives off a peaceful outdoor vibe.What do you think about it? Do you have any other observations?"
+          "query": "**Visual:** The video shows a shirtless man squatting outdoors near some wooden structures. He's holding a stick or tool and appears to be working on something on the ground. There are trees and greenery around him.\n\n**Audio:** The only audible thing is a generic impact sound effect, like something being tapped or hit. No speech or other distinct sounds are heard."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 223.54371094703674
+      "processing_time": 131.5860812664032
     },
     {
-      "comment_index": 2623,
+      "comment_index": 5169,
       "video_id": "VVV4xeWBIxE",
       "comment": "0:56-1:01 Jurassic Park?",
       "language": "en",
@@ -79,24 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "52.0s - 58.0s",
-          "query": "VISUAL: A person's hands are shown pressing down on a piece of clay that's placed on a flat stone surface. The scene is outdoors with some rocks and dirt visible around.The AUDIO: There are sounds of something being tapped or hit repeatedly throughout the 6 seconds. It could be like someone tapping their fingers on a table or similar. What do you think about it? Do you have any other observations from the video?"
+          "query": "**Visual:** The video shows hands working with clay on a stone surface outdoors. There's some dirt and small rocks around.\n\n**Audio:** You can hear the sound of something being tapped or hit repeatedly."
         },
         {
           "segment_index": 2,
           "time_range": "58.0s - 64.0s",
-          "query": "VISUAL: A person is working with clay on a stone surface outdoors. Their hands are shaping the clay into a bowl-like form. The ground around has some scattered leaves and small rocks.AUDIO: There's a bird chirping sound throughout the clip. It seems to be an outdoor setting."
+          "query": "Sure! So, visually, there's someone working with clay on a stone surface outdoors. You can see their hands shaping the clay into a bowl-like form. The background has some rocks and dirt, giving it an earthy feel. There aren't any bright or vivid colors—just natural tones like browns and grays.Audibly, there are some bird chirps and rustling noises, which add to that outdoor vibe.Anything else you want to know about the video?"
         },
         {
           "segment_index": 3,
           "time_range": "64.0s - 70.0s",
-          "query": "VISUAL: A person is working on a clay object outdoors. They're shaping it with their hands on a flat surface. The scene has some natural elements like leaves and dirt around.AUDIO: There's a sound effect that resembles an insect buzzing throughout the clip. It's not clear if there's any speech or other distinct sounds. So, yeah, just that buzzing noise. What do you think about the video?"
+          "query": "Visual: The video shows hands working on shaping clay into a bowl-like form on a flat surface. There's some greenery visible around, suggesting an outdoor setting.\n\nAudio: There are bird chirping sounds throughout the short clip."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 175.35748744010925
+      "processing_time": 115.53546023368835
     },
     {
-      "comment_index": 2624,
+      "comment_index": 5170,
       "video_id": "VVV4xeWBIxE",
       "comment": "1:54 and that is how the first DLC was created",
       "language": "en",
@@ -109,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "105.0s - 111.0s",
-          "query": "VISUAL: There's a fire burning with sticks on the ground. A person is sitting cross - legged nearby. They're holding something that looks like clay or mud in their hands. The scene seems to be outdoors, maybe in a forest or campsite. The ground around the fire has some ash and debris.AUDIO: You can hear a rhythmic tapping sound throughout the clip. It could be from a tool hitting against something or someone drumming. There's also a faint background noise, possibly wind or other natural sounds.If you have any thoughts about this or want to discuss more, feel free to share!"
+          "query": "**Visual:** The video shows someone sitting near a small fire made from sticks and twigs on the ground. There's also a clay pot with a stick inside it nearby. The person is wearing shorts and appears to be engaged in some kind of activity around the fire.\n\n**Audio:** You can hear the crackling of the fire and some faint background noises that might be insects or wind rustling through leaves."
         },
         {
           "segment_index": 2,
           "time_range": "111.0s - 117.0s",
-          "query": "VISUAL: A person is sitting cross - legged on the ground. They're holding a clay object that looks like it's being shaped or worked on with their hands. There are some rocks and leaves around them. The scene seems to be outdoors.AUDIO: There are bird calls throughout the clip. It also includes some generic impact sounds, like something being tapped or hit."
+          "query": "Visually, there's a person sitting on the ground, working on a clay object. They seem to be shaping or molding it with their hands. The ground is covered with dirt and some scattered leaves or small debris. The person is wearing shorts and appears to be focused on their task. There's also a large, rough stone or rock nearby.\n\nIn terms of audio, there are sounds of rustling leaves and birds chirping in the background, suggesting an outdoor setting. There's no speech or music in this segment."
         },
         {
           "segment_index": 3,
           "time_range": "117.0s - 123.0s",
-          "query": "VISUAL: There's a person squatting near a fire made from sticks and twigs on the ground. Next to them is a large clay pot with a hole at the top. The person seems to be using something to make the fire bigger or keep it going. The ground around has some leaves and dirt.AUDIO: You can hear birds chirping throughout the clip. There's also a rhythmic, repetitive sound that starts towards the end, like a drumming or tapping noise.What do you think about the scene? Any thoughts or questions?"
+          "query": "Visually, there's a person sitting near a fire, with a clay pot nearby. The fire is burning brightly, and the person seems to be engaged in some activity around it. The ground is covered with dirt and some scattered debris. The colors are mostly earthy tones, with the fire providing a warm glow.\n\nIn terms of audio, there are no distinct speech or music elements. The main sound is the rhythmic pounding of a hammer on a hard surface, which starts towards the end of the segment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 232.4846339225769
+      "processing_time": 205.59216332435608
     },
     {
-      "comment_index": 2625,
+      "comment_index": 5171,
       "video_id": "VVV4xeWBIxE",
       "comment": "0:55 dinosaurs can be heard in the background",
       "language": "en",
@@ -139,54 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "46.0s - 52.0s",
-          "query": "VISUAL: A person is sitting cross - legged near a small fire. They're using a stick to stir or manipulate something over the flames. The ground around them has some leaves and dirt. There's also a rock wall behind them.AUDIO: There's a repetitive sound effect that seems like something being crunched or broken. It's consistent throughout the 6 seconds. No speech or other distinct sounds are heard.If you want to talk more about this video or have any other questions, feel free to let me know!"
+          "query": "Visually, there's a person sitting on the ground, wearing shorts. They're holding a stick and appear to be poking at a fire. The fire is small and surrounded by some rocks and leaves. The ground looks like dirt with some scattered leaves and twigs. The person seems to be focused on the fire, and there's a sense of calmness in the scene. There's also a watermark in the bottom right corner that says \"PRIMITIVETRIBALGROVE.COM\"., WOODGROVE.COM.\".Audio-wise, there are sounds of something being rubbed against a hard surface, like a stick scraping on a rock or something similar. There's also a faint, continuous background noise, possibly from wind or a distant animal."
         },
         {
           "segment_index": 2,
           "time_range": "52.0s - 58.0s",
-          "query": "VISUAL: A person's hands are shown pressing down on a piece of clay that's placed on a flat stone surface. The scene is outdoors with some rocks and dirt visible around.The AUDIO: There are sounds of something being tapped or hit repeatedly throughout the 6 seconds. It could be like someone tapping their fingers on a table or similar. What do you think about it? Do you have any other observations from the video?"
+          "query": "**Visual:** The video shows hands working with clay on a stone surface outdoors. There's some dirt and small rocks around.\n\n**Audio:** You can hear the sound of something being tapped or hit repeatedly."
         },
         {
           "segment_index": 3,
           "time_range": "58.0s - 64.0s",
-          "query": "VISUAL: A person is working with clay on a stone surface outdoors. Their hands are shaping the clay into a bowl-like form. The ground around has some scattered leaves and small rocks.AUDIO: There's a bird chirping sound throughout the clip. It seems to be an outdoor setting."
+          "query": "**Visual:** The video shows a person's hands working with clay on a flat surface. The hands are shaping and smoothing the clay, which is a light brown color. The surface underneath the clay appears to be a rough, grayish stone or concrete slab. The background is outdoors, with some scattered leaves and twigs visible.\n\n**Audio:** There are bird sounds in the background, indicating an outdoor setting. No speech or music is heard."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 191.16344499588013
+      "processing_time": 218.08622765541077
     },
     {
-      "comment_index": 2626,
-      "video_id": "VVV4xeWBIxE",
-      "comment": "0:55 Is that a velociraptor?!?!",
-      "language": "en",
-      "channel_name": "primitivetechnology9550",
-      "category": "making",
-      "likes": 196.0,
-      "comment_timestamp": 55.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "46.0s - 52.0s",
-          "query": "VISUAL: A person is sitting cross - legged near a small fire. They're using a stick to stir or manipulate something over the flames. The ground around them has some leaves and dirt. There's also a rock wall behind them.AUDIO: There's a repetitive sound effect that seems like something being crunched or broken. It's consistent throughout the 6 seconds. No speech or other distinct sounds are heard.If you want to talk more about this video or have any other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "52.0s - 58.0s",
-          "query": "VISUAL: A person's hands are shown pressing down on a piece of clay that's placed on a flat stone surface. The scene is outdoors with some rocks and dirt visible around.The AUDIO: There are sounds of something being tapped or hit repeatedly throughout the 6 seconds. It could be like someone tapping their fingers on a table or similar. What do you think about it? Do you have any other observations from the video?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "58.0s - 64.0s",
-          "query": "VISUAL: A person is working with clay on a stone surface outdoors. Their hands are shaping the clay into a bowl-like form. The ground around has some scattered leaves and small rocks.AUDIO: There's a bird chirping sound throughout the clip. It seems to be an outdoor setting."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 199.57490420341492
-    },
-    {
-      "comment_index": 2627,
+      "comment_index": 5172,
       "video_id": "VVV4xeWBIxE",
       "comment": "0:56 this dude is so far back in time that velociraptors live in his forest.",
       "language": "en",
@@ -199,54 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "47.0s - 53.0s",
-          "query": "VISUAL: A person is sitting on the ground near a small fire. They're using a stick to stoke the flames. Then they gather some mud from the ground and shape it into a ball. There's also a large rock nearby.AUDIO: You can hear the crackling of the fire and the sound of the person working with the mud. There's no speech or music in the audio.If you have any other questions about the video or want to discuss something else, feel free to let me know!"
+          "query": "Visually, there's a person sitting on the ground, and they're using a stick to stir something in a fire. The fire is small and has some orange flames. The ground around the fire is covered with dirt and some leaves. There are also some rocks nearby. The person is wearing shorts and a shirt, but their face isn't visible. The scene looks like it's outdoors, maybe in a forest or a campsite. The colors are mostly earthy tones - browns, greens, and the orange of the fire.Audibly, there are sounds of something being crunched or broken, like sticks or twigs. It's a pretty quiet sound, not too loud. There's also a faint background noise, maybe from wind or other distant sounds."
         },
         {
           "segment_index": 2,
           "time_range": "53.0s - 59.0s",
-          "query": "VISUAL: A person is using their hands to shape clay on a flat stone surface. The scene appears to be outdoors with some rocks and dirt around. The person's hands move back and forth over the clay, pressing it down and smoothing it out.AUDIO: There are sounds of something being tapped or hit repeatedly throughout the 6 seconds. It could be a tool hitting against an object or similar. No distinct speech or music can be heard.If you have any other thoughts about this video or want to discuss more details, feel free to let me know!"
+          "query": "**Visual:** The video shows hands working on a flat stone surface with clay. The person is shaping and smoothing the clay using their fingers.\n\n**Audio:** There's no distinct speech or music. Instead, there are some generic impact sounds, possibly from tools being used during the process."
         },
         {
           "segment_index": 3,
           "time_range": "59.0s - 65.0s",
-          "query": "VISUAL: A person is working with clay on a flat stone surface outdoors. They're shaping it into a bowl-like form using their hands. The ground around has some scattered leaves and small rocks.AUDIO: There's a bird chirping sound throughout the entire 6 seconds of the video."
+          "query": "Visually, there's a person sitting on the ground. They're working with clay, shaping it into a bowl-like form on a flat stone surface. Their hands are actively molding the clay, and you can see the texture of the clay and the stone. The background is outdoors, with some rocks and dry leaves scattered around.\n\nIn terms of audio, there are bird sounds, like chirping and tweeting, which create a peaceful, natural ambiance. There's also a brief moment of a buzzing sound, possibly from an insect."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 214.22769904136658
+      "processing_time": 212.94820189476013
     },
     {
-      "comment_index": 2628,
-      "video_id": "VVV4xeWBIxE",
-      "comment": "I can hear a Pterodactyl at 0:55.",
-      "language": "en",
-      "channel_name": "primitivetechnology9550",
-      "category": "making",
-      "likes": 140.0,
-      "comment_timestamp": 55.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "46.0s - 52.0s",
-          "query": "VISUAL: A person is sitting cross - legged near a small fire. They're using a stick to stir or manipulate something over the flames. The ground around them has some leaves and dirt. There's also a rock wall behind them.AUDIO: There's a repetitive sound effect that seems like something being crunched or broken. It's consistent throughout the 6 seconds. No speech or other distinct sounds are heard.If you want to talk more about this video or have any other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "52.0s - 58.0s",
-          "query": "VISUAL: A person's hands are shown pressing down on a piece of clay that's placed on a flat stone surface. The scene is outdoors with some rocks and dirt visible around.The AUDIO: There are sounds of something being tapped or hit repeatedly throughout the 6 seconds. It could be like someone tapping their fingers on a table or similar. What do you think about it? Do you have any other observations from the video?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "58.0s - 64.0s",
-          "query": "VISUAL: A person is working with clay on a stone surface outdoors. Their hands are shaping the clay into a bowl-like form. The ground around has some scattered leaves and small rocks.AUDIO: There's a bird chirping sound throughout the clip. It seems to be an outdoor setting."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 199.46448588371277
-    },
-    {
-      "comment_index": 2629,
+      "comment_index": 5173,
       "video_id": "VVV4xeWBIxE",
       "comment": "Congratulations , You have now unlocked the possibility to unlock metal equipment  P.s 3:10 did you save your diarea ?",
       "language": "en",
@@ -259,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "181.0s - 187.0s",
-          "query": "VISUAL: A person is working on a clay structure over an open fire. They're shaping or molding the clay with their hands. The setting seems to be outdoors, possibly in a forested area. There's some kind of wooden frame or structure nearby.AUDIO: There's a sound effect that resembles something being sprayed or released, like a liquid or gas. It's a short burst of noise."
+          "query": "Well, I'm not sure if there's anything specific to describe about the visual or audio here. It seems like it might be an empty segment without any clear details. But hey, if you have more context or another clip, feel free to share!"
         },
         {
           "segment_index": 2,
           "time_range": "187.0s - 193.0s",
-          "query": "VISUAL: There's a man sitting cross - legged outdoors near some clay structures. He seems to be working on something with fire. The background has trees and plants. There's also a small stream or water source nearby.AUDIO: You can hear a crackling sound throughout the clip, like wood burning or a fire. It gives off an outdoor, natural vibe.If you want to know more about this kind of scene or have other questions, feel free to ask!"
+          "query": "Visually, there's a man sitting near a fire pit in a forested area. He's shirtless and appears to be tending to the fire. The surroundings are filled with trees and rocks. There's also a small stream or water source nearby. The colors are mostly earthy tones like browns and greens, with the bright orange of the fire adding a contrast. The movement mainly comes from the flames flickering and the man's slight movements as he interacts with the fire.Audibly, there's the sound of the fire crackling and burning. It's a continuous, rhythmic noise that dominates the audio. There's no speech or other distinct sounds."
         },
         {
           "segment_index": 3,
           "time_range": "193.0s - 199.0s",
-          "query": "VISUAL: A person is squatting on the ground with some clay pots around them. They're using a pestle to grind something in one of the pots. There's also a small stream or water source nearby. The scene has natural elements like rocks and leaves.The AUDIO: You can hear birds chirping in the background throughout the clip. There's no speech or other distinct sound effects. It seems like an outdoor setting with nature sounds.If you have any more questions about it or want to discuss something else related, feel free to let me know!"
+          "query": "Visually, there's a person sitting on the ground, working with some clay or mud in bowls. They're using a pestle to grind or mix something. The setting seems to be outdoors, with rocks and leaves around. The person is wearing shorts and a t-shirt. The colors are mostly earthy tones, like browns and greens. There's also a small container with a liquid in it.Audibly, there's a sound of something being tapped or knocked on, like a wooden surface. It's a rhythmic tapping sound."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 203.15884280204773
+      "processing_time": 221.12147498130798
     },
     {
-      "comment_index": 2630,
+      "comment_index": 5174,
       "video_id": "VVV4xeWBIxE",
       "comment": "4:24 That's a penis",
       "language": "en",
@@ -289,24 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "255.0s - 261.0s",
-          "query": "VISUAL: There's a close - up shot of some small, dark objects on the ground at first. Then it shifts to show an outdoor scene with a clay pot over a fire, some sticks nearby, and a larger clay object with a hole in it.AUDIO: You can hear birds chirping and leaves rustling in the background. It seems like there might be some wind too.If you want to talk more about this or have other questions, feel free to let me know!"
+          "query": "Visually, the video shows a close-up of a hand holding a small object, possibly a seed or a piece of dirt, against a blurred background. The focus is on the hand and the object it's holding. There are no other distinct objects or people visible in the frame. The colors are muted, with earthy tones dominating the scene. The movement is minimal, mainly the slight motion of the hand holding the object.\n\nIn terms of audio, there are no distinct sounds or speech. The only thing heard is the sound of wind, which is consistent throughout the 6 seconds."
         },
         {
           "segment_index": 2,
           "time_range": "261.0s - 267.0s",
-          "query": "VISUAL: There's an outdoor scene with some primitive-looking pottery or clay objects on the ground. One has a hole in it, another looks like a small oven or kiln with fire inside. There are also some sticks and ropes around. The ground is covered with dirt and leaves.AUDIO: You can hear birds chirping and some kind of rustling noise in the background. It seems to be a natural setting. What do you think about this scene?"
+          "query": "Visually, the video shows a primitive outdoor setting. There's a fire burning in a clay oven, with some tools and materials like a stick, a small container, and a clay mold placed nearby. The ground is covered with dirt and some scattered leaves. The scene gives off a rustic, survivalist vibe.\n\nIn terms of audio, there are no distinct sounds or speech. The only thing you can hear is the crackling of the fire."
         },
         {
           "segment_index": 3,
           "time_range": "267.0s - 273.0s",
-          "query": "VISUAL: There's a man sitting near a fire pit outside a small mud hut in a forested area. He seems to be tending to the fire. The scene is dimly lit, probably evening or early morning. The hut has a thatched roof and there are some wooden structures around.The man is shirtless and wearing dark shorts. He looks focused on the fire.AUDIO: You can hear a low, rhythmic purring sound throughout the clip. It could be from an animal like a cat or something mechanical.If you have any other thoughts about the video or want to discuss it further, feel free to let me know!"
+          "query": "Visually, there's a person sitting near a fire in a forested area. The fire is burning brightly, and there are trees and a small hut-like structure in the background. The person seems to be focused on the fire, possibly tending to it or just sitting by it. The colors are mostly earthy tones, with the fire providing a warm glow.\n\nIn terms of audio, there are sounds of something being rubbed or scratched, like a tool or stick against a surface. It's a consistent sound throughout the 6 seconds."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 241.07326817512512
+      "processing_time": 250.31579089164734
     },
     {
-      "comment_index": 2631,
+      "comment_index": 5175,
       "video_id": "VVV4xeWBIxE",
       "comment": "3:15 ohhh yeah lets collect some of that good-ass diarrhea",
       "language": "en",
@@ -319,54 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "186.0s - 192.0s",
-          "query": "VISUAL: There's a shirtless man sitting cross - legged on the ground. He's using some kind of tool to make fire in a clay pot. The background shows a forested area with trees and plants. There are also some simple structures made of mud or clay around him.AUDIO: You can hear a crackling sound throughout the 6 seconds. It seems like it could be from a fire or something burning. There's no speech or other distinct sounds. So, that's about it for the analysis. What do you think about the scene?"
+          "query": "**Visual:** The video shows a shirtless man sitting cross-legged in a natural, outdoor setting. He appears to be working with some kind of primitive tools or materials. The background includes a small fire, some wooden structures, and greenery. The man seems focused on his task, possibly crafting or preparing something.\n\n**Audio:** There are sounds of a fire burning, with crackling and occasional hissing noises. The fire sounds are continuous throughout the 6 seconds."
         },
         {
           "segment_index": 2,
           "time_range": "192.0s - 198.0s",
-          "query": "VISUAL: There's a small stream flowing over rocks in a forested area. A person is seen using their hands to scoop water from the stream into a clay cup. Then they use a pestle on some kind of stone or material on the ground.AUDIO: You can hear birds chirping in the background throughout the video. There are also some generic impact sounds, like tapping or knocking, that occur at different times during the clip.If you have any other thoughts about the video or want to discuss it further, feel free to let me know!"
+          "query": "Visually, there's a person sitting by a stream, holding a bowl. The surroundings are rocky and there are some plants around. The person seems to be doing something with the bowl, maybe washing or preparing something. The colors are mostly earthy tones, with the brown of the rocks and the green of the plants. There's a sense of calm and natural beauty in the scene. In the audio, you can hear birds chirping in the background, creating a peaceful ambiance."
         },
         {
           "segment_index": 3,
           "time_range": "198.0s - 204.0s",
-          "query": "VISUAL: A person is sitting cross - legged on the ground. They're using a stone hammer to crush something on a flat rock surface. There are two bowls nearby, one with a brownish substance and another with liquid. The ground around them has some scattered leaves and twigs.AUDIO: There's a rhythmic tapping sound from the stone hammer hitting the rock, along with some rustling noises that could be from movement or handling of materials. No speech or music is heard.If you want to know more about this kind of activity or have any other questions related to it, feel free to ask!"
+          "query": "Visually, there's someone sitting on the ground with some bowls and stones around them. They seem to be doing something with their hands near these objects. The scene looks like it might be outdoors, given the dirt and natural elements.\n\nIn terms of audio, I can't really make out any distinct sounds or speech from this short clip. It seems pretty quiet overall. What do you think about this? Do you have any other observations?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 268.97636890411377
+      "processing_time": 259.269734621048
     },
     {
-      "comment_index": 2632,
-      "video_id": "VVV4xeWBIxE",
-      "comment": "0:55 are those dinosaurs ??",
-      "language": "en",
-      "channel_name": "primitivetechnology9550",
-      "category": "making",
-      "likes": 82.0,
-      "comment_timestamp": 55.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "46.0s - 52.0s",
-          "query": "VISUAL: A person is sitting cross - legged near a small fire. They're using a stick to stir or manipulate something over the flames. The ground around them has some leaves and dirt. There's also a rock wall behind them.AUDIO: There's a repetitive sound effect that seems like something being crunched or broken. It's consistent throughout the 6 seconds. No speech or other distinct sounds are heard.If you want to talk more about this video or have any other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "52.0s - 58.0s",
-          "query": "VISUAL: A person's hands are shown pressing down on a piece of clay that's placed on a flat stone surface. The scene is outdoors with some rocks and dirt visible around.The AUDIO: There are sounds of something being tapped or hit repeatedly throughout the 6 seconds. It could be like someone tapping their fingers on a table or similar. What do you think about it? Do you have any other observations from the video?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "58.0s - 64.0s",
-          "query": "VISUAL: A person is working with clay on a stone surface outdoors. Their hands are shaping the clay into a bowl-like form. The ground around has some scattered leaves and small rocks.AUDIO: There's a bird chirping sound throughout the clip. It seems to be an outdoor setting."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 185.3984978199005
-    },
-    {
-      "comment_index": 2633,
+      "comment_index": 5176,
       "video_id": "VVV4xeWBIxE",
       "comment": "00:52  that's what good pussy sounds like.   hahahha",
       "language": "en",
@@ -379,24 +289,24 @@
         {
           "segment_index": 1,
           "time_range": "43.0s - 49.0s",
-          "query": "VISUAL: A person is sitting on the ground with their legs crossed. They're holding a stick and a piece of bark or similar material. There's a fire burning nearby with some logs or sticks inside it. The ground around them has leaves and dirt. The person seems to be doing something with the stick and bark near the fire.AUDIO: There's a sound effect that resembles a saw cutting through wood throughout the entire 6 seconds. It's a continuous, rhythmic noise."
+          "query": "Sure! So, in the video, you see someone sitting on the ground, working with a stick and some kind of material on a flat stone. There's also a small fire burning nearby. The person seems to be focused on their task, and the fire adds a warm glow to the scene. In the audio, you hear the sound of the stick being rubbed against the material, which creates a rhythmic, almost soothing noise. There's also the ambient sound of the fire crackling, adding to the overall atmosphere. What do you think about this scene?"
         },
         {
           "segment_index": 2,
           "time_range": "49.0s - 55.0s",
-          "query": "VISUAL: A person is sitting on the ground with their legs crossed. They're using a stick to stoke a small fire made from twigs and leaves. Then they grab some clay and start shaping it on a flat stone surface.AUDIO: There's no speech or music in the audio. You can hear the crackling of the fire and some faint background noise like wind or leaves rustling."
+          "query": "Visual: The video shows hands working on a stone surface with some kind of tool or object being tapped against it. There's dirt and small rocks around.\n\nAudio: You can hear tapping and crunching noises throughout the clip."
         },
         {
           "segment_index": 3,
           "time_range": "55.0s - 61.0s",
-          "query": "VISUAL: A person is using their hands to shape clay on a flat stone surface outdoors. The scene has some rocks and dry leaves around. There's no clear indication of time of day or weather conditions from just this short clip.AUDIO: There are some impact sounds throughout the 6 seconds, like something being tapped or hit repeatedly. No distinct speech or music can be heard. It seems more like background noise or environmental sounds.If you want to know more about analyzing videos or have any other questions related to this, feel free to ask!"
+          "query": "Visual: The video shows hands working on a circular object made of clay or mud placed on a flat stone surface outdoors. There's some dry grass around.\n\nAudio: A single gunshot is heard at the end of these six seconds."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 228.136310338974
+      "processing_time": 233.03403854370117
     },
     {
-      "comment_index": 2634,
+      "comment_index": 5177,
       "video_id": "VVV4xeWBIxE",
       "comment": "1:39 and 2:04 started sounding like a steam locomotive 🚂",
       "language": "en",
@@ -409,24 +319,24 @@
         {
           "segment_index": 1,
           "time_range": "115.0s - 121.0s",
-          "query": "VISUAL: A person is working on a clay pot with their hands. They seem to be shaping or smoothing it. There's also a fire burning nearby with some sticks arranged around it. The ground looks like dirt with some leaves scattered about.AUDIO: There's a rhythmic tapping sound throughout the clip. It could be from something being tapped against another object. No speech or other distinct sounds are heard.If you have any thoughts or questions about this analysis, feel free to share!"
+          "query": "Visual: A person is using a wooden stick to scrape or shape something on the ground near a small fire. There's some debris around, like leaves and twigs.\n\nAudio: The main sound is the scraping noise from the stick against the object being worked on. There's also background noise that could be wind or other natural sounds."
         },
         {
           "segment_index": 2,
           "time_range": "121.0s - 127.0s",
-          "query": "VISUAL: There's a fire burning on the ground with some small logs arranged around it. A person is crouching nearby, partially visible. There's also a clay pot or container next to the fire. The ground looks like dirt or soil with some twigs scattered around.AUDIO: You can hear the crackling and hissing of the fire. There's no speech or other distinct sound effects. It seems just the natural sounds of the fire. So, what do you think about this scene?"
+          "query": "Visually, there's a fire burning on the ground, with flames licking at the wood. There are some rocks and sticks around the fire. The ground looks like dirt or ash. There's also a person's leg visible near the fire, but not much else of the person is shown. The fire is the main focus, with the flames being bright orange and yellow. The scene seems to be outdoors, possibly in a forest or a campsite. The overall color scheme is dominated by the warm tones of the fire and the darker shades of the ground and rocks.Audibly, there are some rhythmic, repetitive sounds that could be from a tool or machinery being used, like a hammer or a saw. It's a bit hard to tell exactly what it is, but it gives a sense of some work or activity happening. There's also a bit of background noise, maybe from wind or other natural sounds."
         },
         {
           "segment_index": 3,
           "time_range": "127.0s - 133.0s",
-          "query": "VISUAL: There's a fire burning on the ground with some logs around it. Then there's a man squatting near a clay pot. He seems to be working on something with his hands. The background shows trees and a simple structure made of natural materials.AUDIO: You can hear some kind of rhythmic tapping or drumming sound throughout the clip. It gives off an almost tribal vibe. There's also a bit of wind noise at the start."
+          "query": "Visually, there's someone squatting near a fire pit with flames flickering. They seem to be handling something on the ground, possibly preparing food or tending to an activity related to the fire. The setting looks like a forested area with trees around. There s also some kind of structure visible behind them, maybe a hut or shelter made from natural materials.Audibly, I can hear some rustling and banging noises, which might be related to the person's actions near the fire. It could also be wind blowing through leaves or branches. There aren't any distinct voices or clear speech in the audio."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 220.35487127304077
+      "processing_time": 171.38386964797974
     },
     {
-      "comment_index": 2635,
+      "comment_index": 5178,
       "video_id": "VVV4xeWBIxE",
       "comment": "3:48 - What's that structure next to you? I've never seen it in your other videos... Is it a well?",
       "language": "en",
@@ -439,24 +349,24 @@
         {
           "segment_index": 1,
           "time_range": "219.0s - 225.0s",
-          "query": "VISUAL: There's a fire burning inside a circular stone structure. A person wearing gloves is using tongs to move around some blackened wood or coal within the flames. The ground around the structure has some scattered leaves and dirt.AUDIO: You can hear the crackling and hissing of the fire, along with some faint background noise that might be from wind or other outdoor elements.If you have any thoughts on this or want to discuss more about it, feel free to share!"
+          "query": "Visually, there's a fire burning in a circular stone structure. The flames are orange and yellow, and there are some blackened logs or charcoal inside. The ground around the fire pit looks like dirt with some scattered leaves or small debris. There are no people or animals visible in the frame.\n\nIn terms of audio, there's a sound of something being poured, like water or a liquid, and then a hissing sound that follows."
         },
         {
           "segment_index": 2,
           "time_range": "225.0s - 231.0s",
-          "query": "VISUAL: There's a fire burning inside a clay pot or something similar on the ground. A man is sitting cross - legged nearby, shirtless, with some kind of stick or tool in his hand. He seems to be tending to the fire. The background shows an outdoor setting with trees and some other objects like a basket and a stone. The scene has earthy tones.AUDIO: You can hear a whirring noise throughout the clip, which might be from a fan or some mechanical device. There's also a short piece of music playing at the end."
+          "query": "Visually, there's a fire burning brightly in a stone fire pit. A person is sitting nearby, seemingly tending to the fire. The background shows some greenery and a structure that looks like a hut or a small building. The fire's flames are orange and yellow, and the person is wearing shorts. There's also a metal object, possibly a tool, near the fire.\n\nIn terms of audio, there are sounds of something being rubbed together, like a stick or a tool, and a squeaking noise, which could be from a piece of equipment or machinery."
         },
         {
           "segment_index": 3,
           "time_range": "231.0s - 237.0s",
-          "query": "VISUAL: There's a man sitting near an open fire pit with flames burning brightly. He seems to be tending to something over the fire. The setting looks like it could be outdoors, maybe in a forest or a rustic area. There are some tools and materials around him, like a basket and some stones.AUDIO: You can hear a repetitive mechanical sound throughout the clip. It's not clear if there's any speech or other distinct sounds besides that noise.What do you think about the scene? Do you have any ideas on what he might be doing over the fire?"
+          "query": "Visually, there's a person sitting near a fire pit with flames burning brightly. The fire pit seems to be made of stone or a similar material. The person is shirtless and appears to be focused on the fire. The background looks like an outdoor setting, possibly a forest or a campsite, with some greenery visible. There are also some tools or objects around the fire pit, like a metal rod or tool that might be used for tending the fire.\n\nIn terms of audio, there are sounds of metal being tapped or struck repeatedly, which could be related to the tools near the fire. There's also a brief moment where a squeaking sound is heard, possibly from a piece of machinery or equipment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 251.0736575126648
+      "processing_time": 239.57045006752014
     },
     {
-      "comment_index": 2636,
+      "comment_index": 5179,
       "video_id": "VVV4xeWBIxE",
       "comment": "00:59?? Was that a freaking dinosaur?",
       "language": "en",
@@ -469,24 +379,54 @@
         {
           "segment_index": 1,
           "time_range": "50.0s - 56.0s",
-          "query": "VISUAL: A person is working with clay on a flat stone surface outdoors. They're shaping the clay with their hands. The scene has some rocks and dirt around.The AUDIO: There's a repetitive tapping or cracking sound throughout the 6 seconds. It could be from something like a stick hitting against another object or a tool being used on the clay. No speech or other distinct sounds are heard.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "**Visual:** The video shows hands working on a flat stone surface outdoors. There's some dirt and small rocks around. The hands seem to be shaping or smoothing something with clay.\n\n**Audio:** You can hear the sound of something being tapped or struck repeatedly against wood. It gives off an impression of manual labor or crafting."
         },
         {
           "segment_index": 2,
           "time_range": "56.0s - 62.0s",
-          "query": "VISUAL: A person is working with clay on a stone surface outdoors. Their hands are shaping the clay into a bowl-like form. The ground around has some scattered leaves and small rocks. There's also a brown object partially visible to the left side of the frame.AUDIO: There are bird calls throughout the entire 6 seconds of the audio. It seems like they're in an outdoor setting where birds are present. No other distinct sounds or speech are heard.If you have any more questions about this or want to discuss something else related to it, feel free to let me know!"
+          "query": "Visually, there's someone working with clay on a stone surface outdoors. Their hands are shaping the clay into a bowl-like form. The scene has natural elements like rocks and dirt around.The audio includes bird chirping and some rustling noises, suggesting an outdoor setting. There s also a brief moment where something makes a sharp, high-pitched noise."
         },
         {
           "segment_index": 3,
           "time_range": "62.0s - 68.0s",
-          "query": "VISUAL: A person is working on a clay object outdoors. They're using their hands to shape it on a flat surface. The scene has some rocks and dirt around. There's also a small hole in the clay object.AUDIO: You can hear birds chirping in the background. It seems like there might be some kind of spray or liquid being used too, maybe for cleaning or shaping the clay. What do you think about this? Do you have any other observations?"
+          "query": "Visually, there's a person working on a large, round, light-colored stone or clay object. Their hands are actively shaping or carving it. The background seems to be an outdoor setting with some rocks and dirt. The person is wearing a dark-colored shirt. There's also a small, round, dark object in the center of the stone/clay piece. The lighting suggests it's daytime, with sunlight casting shadows.\n\nIn terms of audio, there are some bird sounds in the background, indicating an outdoor environment. There's also a faint, low-pitched, somewhat mechanical or electronic sound effect that plays intermittently throughout the 6 seconds."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 228.4602301120758
+      "processing_time": 181.1317059993744
     },
     {
-      "comment_index": 2637,
+      "comment_index": 5180,
+      "video_id": "VVV4xeWBIxE",
+      "comment": "\"3:12\"",
+      "language": "en",
+      "channel_name": "primitivetechnology9550",
+      "category": "making",
+      "likes": 48.0,
+      "comment_timestamp": 192.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "183.0s - 189.0s",
+          "query": "Sure! Here's a concise description of the video segment:.Visual: The video shows a shirtless man sitting outdoors near a fire pit. He appears to be in a natural, possibly forested, environment. There are some basic structures and tools around him, suggesting a primitive or survivalist setting. The man is engaged in some activity involving the fire pit, possibly preparing food or tending to a fire. The overall scene has a rustic, earthy feel with muted colors and natural elements like trees and rocks in the background.Auditory: The audio includes the sound of a fire burning, with crackling and occasional hissing noises. There are also some faint, indistinct sounds that could be natural elements like wind or distant wildlife, adding to the outdoor ambiance."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "189.0s - 195.0s",
+          "query": "Visually, there's a small stream flowing through a rocky area with some greenery around. A person's hands are shown holding a cup near the stream, possibly collecting water. The scene has a natural, outdoor feel with earthy tones like browns and greens. There's also a fire burning in the background, adding warmth to the scene. The person seems to be interacting with the water and the cup, suggesting they might be preparing to drink or cook something. The overall setting looks peaceful and rustic, like a camping or wilderness area."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "195.0s - 201.0s",
+          "query": "Visually, there's a person sitting outdoors, working with some clay or mud in bowls. They're using a stick to mix or shape the material. The setting seems to be a natural, possibly forested area with leaves and dirt around. There are also some stones and a small container nearby. The person is wearing shorts and a sleeveless top. The colors are mostly earthy tones like browns and greens.\n\nIn terms of audio, there's a repetitive tapping sound, like someone is knocking on a hard surface. It's a consistent, rhythmic noise that lasts throughout the 6 seconds."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 274.0480558872223
+    },
+    {
+      "comment_index": 5181,
       "video_id": "VVV4xeWBIxE",
       "comment": "Wait what was that gooey diarrhea looking stuff at 3:13?  Just mud?  It's pretty damn disgusting mud.  [edit] Iron Oxide Bacteria.  Seriously, I didn't make that up.  I read the description.  Crazy!!!!",
       "language": "en",
@@ -499,24 +439,24 @@
         {
           "segment_index": 1,
           "time_range": "184.0s - 190.0s",
-          "query": "VISUAL: There's a shirtless man sitting cross - legged on the ground. He's working with some clay or mud, shaping it into a bowl - like form. The setting looks like an outdoor area with trees around. There are also some wooden structures nearby.AUDIO: You can hear birds chirping in the background throughout the whole clip. It gives off a peaceful vibe. What do you think about this scene?"
+          "query": "Visually, there's a shirtless man sitting in a rustic outdoor setting. He's working with some kind of clay or mud, shaping it with his hands. The background shows a stone structure and lush greenery. There are also some tools and materials around him, like a wooden frame and a rope. The scene gives off a very natural, primitive vibe.\n\nIn terms of audio, there's a sound of something being rubbed against a hard surface, like a file or a scraper. It's a continuous, rhythmic noise that lasts throughout the 6 seconds."
         },
         {
           "segment_index": 2,
           "time_range": "190.0s - 196.0s",
-          "query": "VISUAL: There's a small stream flowing over rocks in a forested area. A person is seen using their hands to scoop water from the stream into a container. The scene has natural elements like trees, leaves, and rocks.AUDIO: You can hear birds chirping in the background throughout the video. There are no distinct speech or music heard."
+          "query": "Visual: The video shows a small stream flowing through a rocky area with some greenery around. There's also a person's hand visible, holding something near the water.\n\nAudio: You can hear birds chirping in the background."
         },
         {
           "segment_index": 3,
           "time_range": "196.0s - 202.0s",
-          "query": "VISUAL: There's a person sitting on the ground with some clay objects around them. They're using a stone to grind something in one of the clay bowls. The ground is covered with leaves and dirt. There are also other clay items like a cup filled with liquid and a cylindrical object nearby.AUDIO: You can hear the sound of the stone grinding against the material in the bowl. There are also some bird chirping sounds in the background.If you have any more questions about this or want to discuss it further, feel free to let me know!"
+          "query": "Visual: There's someone sitting on the ground with some pottery items around them. They seem to be working on something with their hands. The setting looks like an outdoor area with dirt and leaves.\n\nAudio: You can hear some kind of rhythmic tapping or knocking sound throughout the clip. It doesn't seem to be speech or any specific music."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 205.82102394104004
+      "processing_time": 161.5653579235077
     },
     {
-      "comment_index": 2638,
+      "comment_index": 5182,
       "video_id": "VVV4xeWBIxE",
       "comment": "How did you get that string at 2:29",
       "language": "en",
@@ -529,54 +469,24 @@
         {
           "segment_index": 1,
           "time_range": "140.0s - 146.0s",
-          "query": "VISUAL: There's a man squatting near some kind of primitive setup outdoors. He seems to be working on something made from clay or similar material, with wooden sticks involved. The background has trees and a bit of a dirt ground. There's also a small fire nearby.AUDIO: You can hear birds chirping throughout the clip. It's just that natural bird sounds without any other distinct noises. So, what do you think about this scene? Do you have any ideas on what he might be doing?"
+          "query": "Visually, there's a person squatting outdoors, working on something. They seem to be handling a clay pot or similar object. The setting looks like a rustic area with some wooden structures and natural elements around. There's also a small fire nearby, with some logs and embers visible. The person is shirtless and wearing shorts. The ground is dirt, and there are some plants and trees in the background. The overall scene gives off a primitive or survivalist vibe.\n\nIn terms of audio, there are some sounds of nature, like birds chirping and leaves rustling. There's also a faint, continuous hissing or buzzing sound, which could be from an insect or something similar."
         },
         {
           "segment_index": 2,
           "time_range": "146.0s - 152.0s",
-          "query": "VISUAL: The video shows hands working with sticks on the ground. There's also a man sitting near a fire pit, holding something in his hand. He appears to be in an outdoor setting with trees around.AUDIO: You can hear birds chirping throughout the video. There's no clear speech or music. It seems like just natural background noise.If you have any other thoughts about the video or want to discuss it further, feel free to let me know!"
+          "query": "Visually, the video shows a person's hands working with some thin, flexible material on a dark, possibly muddy surface. The hands are manipulating the material, perhaps tying or knotting it. There are some small objects and debris scattered around the surface. The person is wearing shorts and has a tattoo on their forearm.\n\nIn terms of audio, there are bird sounds in the background, suggesting an outdoor setting. There's no speech or music, just the natural sounds of birds chirping."
         },
         {
           "segment_index": 3,
           "time_range": "152.0s - 158.0s",
-          "query": "VISUAL: There's a man sitting on the ground outside near some trees. He's shirtless and wearing shorts. In front of him is a small fire with logs burning. He's using a stick to turn something inside a clay pot that's tied to a wooden frame. The background shows a simple structure made of mud or clay and there are some other wooden objects around.AUDIO: You can hear birds chirping and the sound of wood being moved or tapped. It seems like an outdoor setting with natural sounds. What do you think about it? Do you have any other questions related to this video?"
+          "query": "Visually, there's a shirtless man sitting on the ground in a forested area. He's working on something with his hands, possibly crafting or repairing an object. There are some tools and materials around him, like a piece of wood and a small fire burning nearby. The background is filled with trees and greenery, giving a natural, outdoor feel. The colors are mostly earthy tones, with the green of the trees and the brown of the ground and tools.The audio contains the sound of birds chirping, which adds to the peaceful, natural ambiance of the scene. There's also a faint rustling sound, likely from the wind or movement in the forest."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 311.03589510917664
+      "processing_time": 251.848237991333
     },
     {
-      "comment_index": 2639,
-      "video_id": "VVV4xeWBIxE",
-      "comment": "What is that at 3:11? I read it is iron oxide material but I've never seen that in a creek before? What does it come from?",
-      "language": "en",
-      "channel_name": "primitivetechnology9550",
-      "category": "making",
-      "likes": 18.0,
-      "comment_timestamp": 191.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "182.0s - 188.0s",
-          "query": "VISUAL: A man is sitting cross - legged on the ground. He's working with some clay or mud, shaping it into a bowl - like form. There's a small fire burning nearby. The setting looks like an outdoor area with trees and natural elements around.AUDIO: There's a sound effect that resembles a machine running or something mechanical being used. It's a continuous noise throughout the 6 seconds. No speech or other distinct sounds are heard.If you want to know more about this kind of activity or have any other questions related to it, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "188.0s - 194.0s",
-          "query": "VISUAL: There's a man sitting cross - legged on the ground near some primitive - looking structures like a clay oven or kiln. He seems to be working with firewood inside it. The setting looks like an outdoor area with trees around. There's also a small stream flowing over rocks nearby.AUDIO: You can hear crackling and sizzling noises from the firewood burning in the kiln. There's no speech or music, just those natural sounds. It gives off a very rustic and peaceful vibe.What do you think about this kind of scene? Do you find it interesting?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "194.0s - 200.0s",
-          "query": "VISUAL: A person is squatting on the ground with some clay pots around them. They're using their hands to mix something in one pot. There's also a stone hammer being used to crush or shape another object. The scene has a natural outdoor setting with leaves and dirt visible.AUDIO: There's no speech or music in the audio. You can hear the sound of the stone hammer hitting an object, which seems to be creating a rhythmic tapping noise.If you have any other questions about the video or want to discuss it further, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 265.77084255218506
-    },
-    {
-      "comment_index": 2640,
+      "comment_index": 5183,
       "video_id": "VVV4xeWBIxE",
       "comment": "Its amazing that this guy can basket weave and make pots and pans out of clay but can't take a shower ._. btw 3:14 WTF IS THAT",
       "language": "en",
@@ -589,21 +499,111 @@
         {
           "segment_index": 1,
           "time_range": "185.0s - 191.0s",
-          "query": "VISUAL: There's a man sitting cross - legged on the ground near some primitive - looking structures made of clay or mud. He seems to be working with fire, maybe starting it or tending to it. The setting looks like an outdoor area with trees around.AUDIO: You can hear a crackling sound throughout the clip, which is likely from the fire. There's also some background noise that could be wind or other natural sounds.If you have any thoughts about this or want to discuss more, feel free to share!"
+          "query": "Visually, there's someone sitting near a fire pit with flames flickering inside. The person seems to be focused on something around the fire. There are some natural elements like trees and rocks visible in the background. The scene looks quite rustic and outdoorsy. In terms of audio, it's mostly just the crackling of the fire. No distinct speech or other sound effects can be heard. It gives off a peaceful, solitary vibe. What do you think about such a setting?"
         },
         {
           "segment_index": 2,
           "time_range": "191.0s - 197.0s",
-          "query": "VISUAL: There's a small stream flowing over rocks in a forested area. A person is seen using their hands to scoop water from the stream into a clay cup. The scene has natural elements like rocks, leaves, and trees around.AUDIO: You can hear birds chirping in the background throughout the video. There are no distinct speech or music heard. It's mostly just nature sounds.If you have any other thoughts about the video or want to discuss it further, feel free to let me know!"
+          "query": "Visually, there's a small stream flowing over rocks in a forested area. A person is seen holding a bowl and scooping water from the stream. The scene has earthy tones like browns and greens, and the movement is mainly the water flowing and the person's hand scooping.\n\nIn terms of audio, there are sounds of birds chirping and leaves rustling, creating a natural, peaceful ambiance."
         },
         {
           "segment_index": 3,
           "time_range": "197.0s - 203.0s",
-          "query": "VISUAL: A person is sitting on the ground with some clay pots around them. They're using their hands to shape or work with something on a flat surface. There's also a stone nearby. The scene looks like it could be outdoors, maybe in a forest or garden setting.AUDIO: You can hear birds chirping in the background throughout the whole clip. It gives off a peaceful vibe. What do you think about the combination of these elements?"
+          "query": "Visually, there's a person sitting outdoors, working with some clay or mud in bowls. They're using a stick to mix or shape it. There are rocks and other natural elements around. The person is wearing shorts and a sleeveless top. The scene looks like it's in a forest or a natural setting, with trees and leaves visible in the background. The colors are mostly earthy tones, like browns and greens. The movement is mainly the person's hands and the stick as they work with the clay/mud.\n\nAudio-wise, there's a repetitive knocking or tapping sound throughout the 6 seconds. It's a consistent, rhythmic noise, like someone tapping on a hard surface. There's no speech or music, just this tapping sound."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 218.1651930809021
+      "processing_time": 232.53166699409485
+    },
+    {
+      "comment_index": 5184,
+      "video_id": "VVV4xeWBIxE",
+      "comment": "What is that at 3:11? I read it is iron oxide material but I've never seen that in a creek before? What does it come from?",
+      "language": "en",
+      "channel_name": "primitivetechnology9550",
+      "category": "making",
+      "likes": 18.0,
+      "comment_timestamp": 191.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "182.0s - 188.0s",
+          "query": "**Visual:** The video shows a shirtless man working with clay in an outdoor setting. He's shaping and manipulating the clay, possibly preparing it for some kind of pottery or construction. The background includes trees and a stone structure, suggesting a natural or rustic environment. There are also some tools and materials around him, like a wooden stick and a stone slab.\n\n**Audio:** The audio features a sound effect that resembles a spray or mist being released, which could be related to the man's work with the clay, perhaps to keep it moist or clean. There's also a faint, low-pitched hum in the background, possibly from a fan or some machinery."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "188.0s - 194.0s",
+          "query": "Visual: The scene shows a small stream flowing through a rocky area with some greenery around. There's also a person sitting near the stream, possibly engaging in an outdoor activity like fishing or just relaxing.\n\nAudio: The main sound is the gentle flow of water from the stream, creating a soothing ambiance. There might be some faint background noises that could be birds chirping or leaves rustling, adding to the natural setting."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "194.0s - 200.0s",
+          "query": "Visually, there's a person sitting outdoors, likely near a stream or water source. They're holding a small object in their hands, and there are some natural elements like rocks and leaves around. The person seems to be engaged in some kind of activity with the object, possibly related to the water nearby. There are also some containers or bowls on the ground, one of which appears to have a liquid in it. The overall scene gives off a rustic, natural vibe, with earthy tones dominating the color palette. The person is dressed casually, suitable for an outdoor setting. The scene is peaceful, with the sound of water and some rustling leaves adding to the serene atmosphere."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 226.92996788024902
+    },
+    {
+      "comment_index": 5185,
+      "video_id": "VVV4xeWBIxE",
+      "comment": "@1:00 it sounds like a bird being raped xD",
+      "language": "en",
+      "channel_name": "primitivetechnology9550",
+      "category": "making",
+      "likes": 12.0,
+      "comment_timestamp": 60.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "51.0s - 57.0s",
+          "query": "**Visual:** The video shows hands working on a flat stone surface outdoors. There's some kind of material being pressed or flattened with the hands.\n\n**Audio:** Sounds like something is being cracked or snapped, possibly wood or bone. It's a sharp, clear sound that repeats several times."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "57.0s - 63.0s",
+          "query": "**Visual:** The video shows hands working on a circular clay object placed on a flat stone surface outdoors. There's some dry ground with scattered leaves around.\n\n**Audio:** A bird is chirping throughout the short clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "63.0s - 69.0s",
+          "query": "**Visual:** The video shows a person sitting on the ground, working with clay. They are shaping a large, circular clay object, possibly a bowl or a plate. The person's hands are actively manipulating the clay, smoothing and refining its shape. The setting appears to be outdoors, with some natural elements like rocks and dirt visible around the person. The lighting suggests it might be daytime.\n\n**Audio:** There are sounds of birds chirping in the background, creating a peaceful and natural ambiance. No speech or other distinct sound effects are heard."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 146.68838000297546
+    },
+    {
+      "comment_index": 5186,
+      "video_id": "VVV4xeWBIxE",
+      "comment": "At about 0:50 I thought a pterodactyl was about to get you.",
+      "language": "en",
+      "channel_name": "primitivetechnology9550",
+      "category": "making",
+      "likes": 11.0,
+      "comment_timestamp": 50.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "41.0s - 47.0s",
+          "query": "Visually, there's a person sitting on the ground. They're holding a stick and a piece of wood, and they seem to be working on something. The ground is covered with dirt and some leaves. There's also a fire burning in front of them, with flames and smoke rising. The person is wearing shorts and a dark shirt. The overall scene looks like it's outdoors, possibly in a forest or a campsite. The colors are mostly earthy tones, with the orange of the fire standing out. There's a sense of calm and focus in the way the person is handling the objects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "47.0s - 53.0s",
+          "query": "Visually, there's a person sitting on the ground, and they're using a stick to stir something in a fire. The fire is small and has some orange flames. The ground around the fire is covered with dirt and some leaves. There are also some rocks nearby. The person is wearing shorts and a shirt, but their face isn't visible. The scene looks like it's outdoors, maybe in a forest or a campsite. The colors are mostly earthy tones - browns, greens, and the orange of the fire.Audibly, there are sounds of something being crunched or broken, like sticks or twigs. It's a pretty quiet sound, not too loud. There's also a faint background noise, maybe from wind or other distant sounds."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "53.0s - 59.0s",
+          "query": "**Visual:** The video shows hands working with clay on a flat stone surface outdoors. There's some dry vegetation around.\n\n**Audio:** You can hear the sound of something being tapped or struck sharply several times."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 236.08970642089844
     }
   ]
 }

@@ -1,230 +1,609 @@
 {
   "video_id": "X-6jMi4e-0Q",
   "total_comments": 20,
-  "successful_comments": 0,
-  "failed_comments": 20,
-  "success_rate": "0.0%",
-  "processing_time": 0.003667593002319336,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 1960,
+      "comment_index": 2412,
       "video_id": "X-6jMi4e-0Q",
       "comment": "4:41 Apparently Banksy doesn't know how to solder. That makes me wonder if the video is fake. (He's holding the soldering iron from the hot part, a great way to burn his fingers)",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 231.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
+      "comment_timestamp": 281.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "272.0s - 278.0s",
+          "query": "**Visual:** The video shows a person sitting indoors, wearing glasses and a plaid shirt. They appear to be speaking or reacting animatedly with their hands raised. In the background, there's a bookshelf filled with books, some stacked horizontally, and a few decorative items like a hat and a small plant on a table. There’s also a window with blinds partially open.\n\n**Audio:** The audio contains someone speaking, though the specific words aren't clear from just the description. It seems to be a conversation or monologue."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "278.0s - 284.0s",
+          "query": "**Visual:** The video shows someone working on a mechanical device with various tools and components visible. There's a stack of books and some art pieces in the background.\n\n**Audio:** The audio includes a person speaking, though their words aren't fully clear from just these six seconds. It seems to be a conversation or explanation about something related to the work being done."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "284.0s - 290.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 2 has a total capacity of 23.56 GiB of which 3.92 GiB is free. Including non-PyTorch memory, this process has 19.63 GiB memory in use. Of the allocated memory 19.04 GiB is allocated by PyTorch, and 284.19 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 337.4377341270447
     },
     {
-      "comment_index": 1961,
+      "comment_index": 2413,
       "video_id": "X-6jMi4e-0Q",
       "comment": "Plus 5:11 the razor blades are facing the wrong way, their sideways!",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 43.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
+      "comment_timestamp": 311.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "302.0s - 308.0s",
+          "query": "**Visual:** The video shows a framed artwork featuring a child reaching for a red balloon. The frame is ornate with intricate designs. In another scene, there's a woman wearing glasses sitting indoors, with books, a hat, and other items visible on shelves behind her.\n\n**Audio:** There is no discernible dialogue or music in the provided audio segment; it consists solely of background noise."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "308.0s - 314.0s",
+          "query": "**Visual:** The video shows a person sitting indoors, wearing glasses and a plaid shirt. Behind them is a desk with various items including books, a lamp, and some framed pictures or artwork on the wall.\n\n**Audio:** There is no discernible dialogue or sound effects; only background noise can be heard."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "314.0s - 320.0s",
+          "query": "**Visual:** The video shows a person working on a piece of art or craft, possibly involving wood or a similar material. There's also an Instagram post visible with comments and a quote attributed to Banksy about creativity.\n\n**Audio:** No distinct audio is heard apart from the background noise typical of a workspace environment."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 113.63508629798889
     },
     {
-      "comment_index": 1962,
+      "comment_index": 2414,
       "video_id": "X-6jMi4e-0Q",
       "comment": "2:19 i can see why he shreded it",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 35.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
+      "comment_timestamp": 139.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "130.0s - 136.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 10.32 GiB. GPU 0 has a total capacity of 23.56 GiB of which 9.30 GiB is free. Including non-PyTorch memory, this process has 14.25 GiB memory in use. Of the allocated memory 10.92 GiB is allocated by PyTorch, and 3.02 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "136.0s - 142.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 12.32 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.02 GiB is free. Including non-PyTorch memory, this process has 19.53 GiB memory in use. Of the allocated memory 18.64 GiB is allocated by PyTorch, and 585.69 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "142.0s - 148.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 22.55 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.02 GiB is free. Including non-PyTorch memory, this process has 19.53 GiB memory in use. Of the allocated memory 7.08 GiB is allocated by PyTorch, and 12.14 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 7.1158506870269775
     },
     {
-      "comment_index": 1963,
+      "comment_index": 2415,
       "video_id": "X-6jMi4e-0Q",
-      "comment": " [USER]  4:42 blades wouldn't cut in that orientation and you can't use a soldering iron while holding on to the heating element. this is staged af. and not very well either. people should honestly be mad about the false narrative that hiked up this art piece's price. but of course he gets a pass because it's \"performance art\" at this point.",
+      "comment": " @forg7430  4:42 blades wouldn't cut in that orientation and you can't use a soldering iron while holding on to the heating element. this is staged af. and not very well either. people should honestly be mad about the false narrative that hiked up this art piece's price. but of course he gets a pass because it's \"performance art\" at this point.",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 32.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
+      "comment_timestamp": 282.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "273.0s - 279.0s",
+          "query": "**Visual:** The scene shows a person sitting indoors, wearing glasses and a plaid shirt. Behind them is a desk with various items including books, a hat, and some framed pictures or artwork on the wall. There's also a lamp on the right side of the desk.\n\n**Audio:** The person appears to be speaking, though no specific words can be discerned from the provided information."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "279.0s - 285.0s",
+          "query": "**Visual:** The video shows someone working on a mechanical or electronic device. There's a person wearing gloves handling wires and components inside a wooden box with metal parts. Various tools and materials like screws, wires, and a yellow tool are visible around the workspace.\n\n**Audio:** The audio features a voice speaking, though the specific words aren't provided here. It seems to be explaining something related to the work being done in the video."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "285.0s - 291.0s",
+          "query": "**Visual:** The video shows various scenes related to art and auction settings. There's a person working on a wooden frame with tools, possibly preparing or restoring an artwork. Another scene depicts a group of people gathered around a table, seemingly discussing or examining something, likely artworks. The background includes walls with graffiti-like markings and a red tool box. The overall setting suggests an artistic or creative environment.\n\n**Audio:** The audio contains a voiceover saying \"that was the last lot in the auction.\" This indicates that the video is part of an auction event where items, presumably artworks, have been sold off one by one until the final item is presented for bidding."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 162.9424340724945
     },
     {
-      "comment_index": 1964,
+      "comment_index": 2416,
       "video_id": "X-6jMi4e-0Q",
       "comment": "Am i the only one who noticed that the auctioneer presses a button under the rostrum and starts the mechanism? 0:09",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 28.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
+      "comment_timestamp": 9.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "0.0s - 6.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 2 has a total capacity of 23.56 GiB of which 5.92 GiB is free. Including non-PyTorch memory, this process has 17.63 GiB memory in use. Of the allocated memory 11.04 GiB is allocated by PyTorch, and 6.27 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "6.0s - 12.0s",
+          "query": "**Visual:** The video shows an interior space with various objects like books stacked on shelves, a desk lamp, and some framed pictures or artworks leaning against the wall. There's also a person sitting in front of a camera, wearing glasses and a plaid shirt.\n\n**Audio:** No distinct dialogue or sound is heard; it appears to be silent throughout the clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "12.0s - 18.0s",
+          "query": "**Visual:** The video shows an auction scene with several people seated in rows, facing forward. In front of them is a podium where someone appears to be speaking or presenting. The setting looks like an indoor venue, possibly a conference hall or auditorium.\n\n**Audio:** There is no discernible dialogue or sound effects audible in the provided segment. The audio seems silent during these moments."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 327.4580421447754
     },
     {
-      "comment_index": 1965,
+      "comment_index": 2417,
       "video_id": "X-6jMi4e-0Q",
       "comment": "2:19 Why? WHY? WHY DID I NEED TO KNOW THIS? WHY DOES IT MATTER?",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 16.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
+      "comment_timestamp": 139.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "130.0s - 136.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 10.32 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.02 GiB is free. Including non-PyTorch memory, this process has 19.53 GiB memory in use. Of the allocated memory 10.92 GiB is allocated by PyTorch, and 8.30 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "136.0s - 142.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 12.32 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.02 GiB is free. Including non-PyTorch memory, this process has 19.53 GiB memory in use. Of the allocated memory 18.64 GiB is allocated by PyTorch, and 585.69 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "142.0s - 148.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 22.55 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.02 GiB is free. Including non-PyTorch memory, this process has 19.53 GiB memory in use. Of the allocated memory 7.08 GiB is allocated by PyTorch, and 12.14 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 6.653124809265137
     },
     {
-      "comment_index": 1966,
+      "comment_index": 2418,
       "video_id": "X-6jMi4e-0Q",
       "comment": "Take a look how he’s holding the soldering iron at 4:41? He would burn his fingers!",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 7.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
+      "comment_timestamp": 281.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "272.0s - 278.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 2 has a total capacity of 23.56 GiB of which 5.92 GiB is free. Including non-PyTorch memory, this process has 17.63 GiB memory in use. Of the allocated memory 11.05 GiB is allocated by PyTorch, and 6.28 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "278.0s - 284.0s",
+          "query": "**Visual:** The video shows someone working on a mechanical device with various tools and components visible. There's a stack of books and some art pieces in the background.\n\n**Audio:** The audio includes a person speaking, though their words aren't fully clear from just these six seconds. It seems to be a conversation or explanation about something related to the work being done."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "284.0s - 290.0s",
+          "query": "**Visual:** The video shows a group of people gathered around a large wooden frame with a rectangular cutout. One person is holding up a piece of cardboard over the cutout area while others stand nearby observing or assisting. The background appears to be an indoor setting with some tools and equipment visible.\n\n**Audio:** There is no distinct audio present in the video; it seems silent without any spoken words, music, or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 307.66219782829285
     },
     {
-      "comment_index": 1967,
+      "comment_index": 2419,
       "video_id": "X-6jMi4e-0Q",
       "comment": "wait... at 4:42 someone is \"using\" a soldering iron grabbing it by the iron?! That part heats like crazy. My heart is broken...",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 3.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
+      "comment_timestamp": 282.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "273.0s - 279.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 2 has a total capacity of 23.56 GiB of which 5.92 GiB is free. Including non-PyTorch memory, this process has 17.63 GiB memory in use. Of the allocated memory 11.07 GiB is allocated by PyTorch, and 6.25 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "279.0s - 285.0s",
+          "query": "**Visual:** The video shows someone working on a mechanical or electronic device. There's a person wearing gloves handling wires and components inside a wooden box with metal parts. Various tools and materials like screws, wires, and a yellow tool are visible around the workspace.\n\n**Audio:** The audio features a voice speaking, though the specific words aren't provided here. It seems to be explaining something related to the work being done in the video."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "285.0s - 291.0s",
+          "query": "**Visual:** The video shows various scenes related to art and auction settings. There's a person working on a wooden frame with tools, possibly preparing or restoring an artwork. Another scene depicts a group of people gathered around a table, seemingly discussing or examining something, likely artworks. The background includes walls with graffiti-like markings and a red tool box. The overall setting suggests an artistic or creative environment.\n\n**Audio:** The audio contains a voiceover saying \"that was the last lot in the auction.\" This indicates that the video is part of an auction event where items, presumably artworks, have been sold off one by one until the final item is presented for bidding."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 222.73379707336426
     },
     {
-      "comment_index": 1968,
+      "comment_index": 2420,
       "video_id": "X-6jMi4e-0Q",
       "comment": "4:42 how he hold the soldering iron tho",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 2.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
+      "comment_timestamp": 282.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "273.0s - 279.0s",
+          "query": "**Visual:** The scene shows a person sitting indoors, wearing glasses and a plaid shirt. Behind them is a desk with various items including books, a hat, and some framed pictures or artwork on the wall. There's also a lamp on the right side of the desk.\n\n**Audio:** The person appears to be speaking, though no specific words can be discerned from the provided information."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "279.0s - 285.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 2 has a total capacity of 23.56 GiB of which 5.92 GiB is free. Including non-PyTorch memory, this process has 17.63 GiB memory in use. Of the allocated memory 11.07 GiB is allocated by PyTorch, and 6.25 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "285.0s - 291.0s",
+          "query": "**Visual:** The video shows various scenes related to art and auction settings. There's a person working on a wooden frame with tools, possibly preparing or restoring an artwork. Another scene depicts a group of people gathered around a table, seemingly discussing or examining something, likely artworks. The background includes walls with graffiti-like markings and a red tool box. The overall setting suggests an artistic or creative environment.\n\n**Audio:** The audio contains a voiceover saying \"that was the last lot in the auction.\" This indicates that the video is part of an auction event where items, presumably artworks, have been sold off one by one until the final item is presented for bidding."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 252.78888297080994
     },
     {
-      "comment_index": 1969,
+      "comment_index": 2421,
       "video_id": "X-6jMi4e-0Q",
       "comment": "Banksy is now a video performance artist as well. See the 'performative soldering' at 4:42: he is grabbing the soldering iron by the heating element which when connected to electricity is more than able to cause third degree burns. So the video is more like a performance than a real demonstration of how the frame was made.",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 1.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
+      "comment_timestamp": 282.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "273.0s - 279.0s",
+          "query": "**Visual:** The scene shows a person sitting indoors, wearing glasses and a plaid shirt. Behind them is a desk with various items including books, a hat, and some framed pictures or artwork on the wall. There's also a lamp on the right side of the desk.\n\n**Audio:** The person appears to be speaking, though no specific words can be discerned from the provided information."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "279.0s - 285.0s",
+          "query": "**Visual:** The video shows someone working on a mechanical or electronic device. There's a person wearing gloves handling wires and components inside a wooden box with metal parts. Various tools and materials like screws, wires, and a yellow tool are visible around the workspace.\n\n**Audio:** The audio features a voice speaking, though the specific words aren't provided here. It seems to be explaining something related to the work being done in the video."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "285.0s - 291.0s",
+          "query": "**Visual:** The video shows various scenes related to art and auction settings. There's a person working on a wooden frame with tools, possibly preparing or restoring an artwork. Another scene depicts a group of people gathered around a table, seemingly discussing or examining something, likely artworks. The background includes walls with graffiti-like markings and a red tool box. The overall setting suggests an artistic or creative environment.\n\n**Audio:** The audio contains a voiceover saying \"that was the last lot in the auction.\" This indicates that the video is part of an auction event where items, presumably artworks, have been sold off one by one until the final item is presented for bidding."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 92.2132019996643
     },
     {
-      "comment_index": 1970,
-      "video_id": "X-6jMi4e-0Q",
-      "comment": "lol @ 4:42 he's holding the soldering iron by the metal",
-      "language": "en",
-      "channel_name": "theartassignment",
-      "category": "art/design",
-      "likes": 1.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1971,
-      "video_id": "X-6jMi4e-0Q",
-      "comment": "4:42 bruh, i don't think thats how you are suposed to use a sodering iron",
-      "language": "en",
-      "channel_name": "theartassignment",
-      "category": "art/design",
-      "likes": 1.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1972,
-      "video_id": "X-6jMi4e-0Q",
-      "comment": "10:24 just looking at that dollar with MONEY written on it made me think \"That's what Banksy would do\"",
-      "language": "en",
-      "channel_name": "theartassignment",
-      "category": "art/design",
-      "likes": 1.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1973,
+      "comment_index": 2422,
       "video_id": "X-6jMi4e-0Q",
       "comment": "4:42 how the hell was he hold the iron like that!?",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 1.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
+      "comment_timestamp": 282.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "273.0s - 279.0s",
+          "query": "**Visual:** The scene shows a person sitting indoors, wearing glasses and a plaid shirt. Behind them is a desk with various items including books, a hat, and some framed pictures or artwork on the wall. There's also a lamp on the right side of the desk.\n\n**Audio:** The person appears to be speaking, though no specific words can be discerned from the provided information."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "279.0s - 285.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 2 has a total capacity of 23.56 GiB of which 5.92 GiB is free. Including non-PyTorch memory, this process has 17.63 GiB memory in use. Of the allocated memory 11.07 GiB is allocated by PyTorch, and 6.25 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "285.0s - 291.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 2 has a total capacity of 23.56 GiB of which 5.92 GiB is free. Including non-PyTorch memory, this process has 17.63 GiB memory in use. Of the allocated memory 11.07 GiB is allocated by PyTorch, and 6.25 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 327.9097979068756
     },
     {
-      "comment_index": 1974,
+      "comment_index": 2423,
       "video_id": "X-6jMi4e-0Q",
-      "comment": "4:42 He touches the metal of the soldering iron ;-)",
+      "comment": "lol @ 4:42 he's holding the soldering iron by the metal",
+      "language": "en",
+      "channel_name": "theartassignment",
+      "category": "art/design",
+      "likes": 1.0,
+      "comment_timestamp": 282.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "273.0s - 279.0s",
+          "query": "**Visual:** The scene shows a person sitting indoors, wearing glasses and a plaid shirt. Behind them is a desk with various items including books, a hat, and some framed pictures or artwork on the wall. There's also a lamp on the right side of the desk.\n\n**Audio:** The person appears to be speaking, though no specific words can be discerned from the provided information."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "279.0s - 285.0s",
+          "query": "**Visual:** The video shows someone working on a mechanical or electronic device. There's a person wearing gloves handling wires and components inside a wooden box with metal parts. Various tools and materials like screws, wires, and a yellow tool are visible around the workspace.\n\n**Audio:** The audio features a voice speaking, though the specific words aren't provided here. It seems to be explaining something related to the work being done in the video."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "285.0s - 291.0s",
+          "query": "**Visual:** The video shows various scenes related to art and auction settings. There's a person working on a wooden frame with tools, possibly preparing or restoring an artwork. Another scene depicts a group of people gathered around a table, seemingly discussing or examining something, likely artworks. The background includes walls with graffiti-like markings and a red tool box. The overall setting suggests an artistic or creative environment.\n\n**Audio:** The audio contains a voiceover saying \"that was the last lot in the auction.\" This indicates that the video is part of an auction event where items, presumably artworks, have been sold off one by one until the final item is presented for bidding."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 67.36878633499146
+    },
+    {
+      "comment_index": 2424,
+      "video_id": "X-6jMi4e-0Q",
+      "comment": "10:24 just looking at that dollar with MONEY written on it made me think \"That's what Banksy would do\"",
+      "language": "en",
+      "channel_name": "theartassignment",
+      "category": "art/design",
+      "likes": 1.0,
+      "comment_timestamp": 624.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "615.0s - 621.0s",
+          "query": "**Visual:** The video shows a woman sitting indoors, likely in an office or study area. She is wearing glasses and a plaid shirt. Behind her, there's a desk with various items including books stacked on top, a baseball cap, and some framed pictures or artwork leaning against the wall.\n\n**Audio:** There is no discernible dialogue or sound effects; the audio appears to be silent during this segment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "621.0s - 627.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 7.21 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.02 GiB is free. Including non-PyTorch memory, this process has 19.53 GiB memory in use. Of the allocated memory 13.13 GiB is allocated by PyTorch, and 6.09 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "627.0s - 633.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 2 has a total capacity of 23.56 GiB of which 5.92 GiB is free. Including non-PyTorch memory, this process has 17.63 GiB memory in use. Of the allocated memory 11.07 GiB is allocated by PyTorch, and 6.25 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 166.38510608673096
+    },
+    {
+      "comment_index": 2425,
+      "video_id": "X-6jMi4e-0Q",
+      "comment": "4:42 bruh, i don't think thats how you are suposed to use a sodering iron",
+      "language": "en",
+      "channel_name": "theartassignment",
+      "category": "art/design",
+      "likes": 1.0,
+      "comment_timestamp": 282.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "273.0s - 279.0s",
+          "query": "**Visual:** The scene shows a person sitting indoors, wearing glasses and a plaid shirt. Behind them is a desk with various items including books, a hat, and some framed pictures or artwork on the wall. There's also a lamp on the right side of the desk.\n\n**Audio:** The person appears to be speaking, though no specific words can be discerned from the provided information."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "279.0s - 285.0s",
+          "query": "**Visual:** The video shows someone working on a mechanical or electronic device. There's a person wearing gloves handling wires and components inside a wooden box with metal parts. Various tools and materials like screws, wires, and a yellow tool are visible around the workspace.\n\n**Audio:** The audio features a voice speaking, though the specific words aren't provided here. It seems to be explaining something related to the work being done in the video."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "285.0s - 291.0s",
+          "query": "**Visual:** The video shows various scenes related to art and auction settings. There's a person working on a wooden frame with tools, possibly preparing or restoring an artwork. Another scene depicts a group of people gathered around a table, seemingly discussing or examining something, likely artworks. The background includes walls with graffiti-like markings and a red tool box. The overall setting suggests an artistic or creative environment.\n\n**Audio:** The audio contains a voiceover saying \"that was the last lot in the auction.\" This indicates that the video is part of an auction event where items, presumably artworks, have been sold off one by one until the final item is presented for bidding."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 86.68135809898376
+    },
+    {
+      "comment_index": 2426,
+      "video_id": "X-6jMi4e-0Q",
+      "comment": "Yo, is the guy soldering at 4:42? Im pretty sure he's holding it wrong",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 0.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
+      "comment_timestamp": 282.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "273.0s - 279.0s",
+          "query": "**Visual:** The scene shows a person sitting indoors, wearing glasses and a plaid shirt. Behind them is a desk with various items including books, a hat, and some framed pictures or artwork on the wall. There's also a lamp on the right side of the desk.\n\n**Audio:** The person appears to be speaking, though no specific words can be discerned from the provided information."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "279.0s - 285.0s",
+          "query": "**Visual:** The video shows someone working on a mechanical or electronic device. There's a person wearing gloves handling wires and components inside a wooden box with metal parts. Various tools and materials like screws, wires, and a yellow tool are visible around the workspace.\n\n**Audio:** The audio features a voice speaking, though the specific words aren't provided here. It seems to be explaining something related to the work being done in the video."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "285.0s - 291.0s",
+          "query": "**Visual:** The video shows various scenes related to art and auction settings. There's a person working on a wooden frame with tools, possibly preparing or restoring an artwork. Another scene depicts a group of people gathered around a table, seemingly discussing or examining something, likely artworks. The background includes walls with graffiti-like markings and a red tool box. The overall setting suggests an artistic or creative environment.\n\n**Audio:** The audio contains a voiceover saying \"that was the last lot in the auction.\" This indicates that the video is part of an auction event where items, presumably artworks, have been sold off one by one until the final item is presented for bidding."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 81.82495832443237
     },
     {
-      "comment_index": 1975,
+      "comment_index": 2427,
+      "video_id": "X-6jMi4e-0Q",
+      "comment": "3:19 pest control “many banksy pieces were created in an advanced state of intoxication” lol 4:04 read it properly please. “ does anyone actually take this kind of seriously?” it does not say “really.”",
+      "language": "en",
+      "channel_name": "theartassignment",
+      "category": "art/design",
+      "likes": 0.0,
+      "comment_timestamp": 199.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "190.0s - 196.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 12.28 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.02 GiB is free. Including non-PyTorch memory, this process has 19.53 GiB memory in use. Of the allocated memory 11.98 GiB is allocated by PyTorch, and 7.24 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "196.0s - 202.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 13.81 GiB. GPU 0 has a total capacity of 23.56 GiB of which 2.53 GiB is free. Including non-PyTorch memory, this process has 21.02 GiB memory in use. Of the allocated memory 20.25 GiB is allocated by PyTorch, and 470.35 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "202.0s - 208.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 24.56 GiB. GPU 0 has a total capacity of 23.56 GiB of which 2.53 GiB is free. Including non-PyTorch memory, this process has 21.02 GiB memory in use. Of the allocated memory 7.23 GiB is allocated by PyTorch, and 13.48 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 7.47752833366394
+    },
+    {
+      "comment_index": 2428,
+      "video_id": "X-6jMi4e-0Q",
+      "comment": "Pause @1:35... is that a 'self portrait' of the legend himself? Have we had Banksy's actual face this entire time & not realized it?? 🤯",
+      "language": "en",
+      "channel_name": "theartassignment",
+      "category": "art/design",
+      "likes": 0.0,
+      "comment_timestamp": 95.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "86.0s - 92.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.36 GiB. GPU 0 has a total capacity of 23.56 GiB of which 2.56 GiB is free. Including non-PyTorch memory, this process has 20.99 GiB memory in use. Of the allocated memory 14.37 GiB is allocated by PyTorch, and 6.30 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "92.0s - 98.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 10.32 GiB. GPU 0 has a total capacity of 23.56 GiB of which 2.56 GiB is free. Including non-PyTorch memory, this process has 20.99 GiB memory in use. Of the allocated memory 10.92 GiB is allocated by PyTorch, and 9.76 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "98.0s - 104.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 12.32 GiB. GPU 0 has a total capacity of 23.56 GiB of which 2.56 GiB is free. Including non-PyTorch memory, this process has 20.99 GiB memory in use. Of the allocated memory 18.64 GiB is allocated by PyTorch, and 2.03 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 5.450561046600342
+    },
+    {
+      "comment_index": 2429,
+      "video_id": "X-6jMi4e-0Q",
+      "comment": "am I the only one who noticed 4:42?? RIP hands",
+      "language": "en",
+      "channel_name": "theartassignment",
+      "category": "art/design",
+      "likes": 0.0,
+      "comment_timestamp": 282.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "273.0s - 279.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 6.54 GiB. GPU 2 has a total capacity of 23.56 GiB of which 6.14 GiB is free. Including non-PyTorch memory, this process has 17.41 GiB memory in use. Of the allocated memory 10.56 GiB is allocated by PyTorch, and 6.53 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "279.0s - 285.0s",
+          "query": "**Visual:** The video shows someone working on a mechanical or electronic device. There's a person wearing gloves handling wires and components inside a wooden box with metal parts. Various tools and materials like screws, wires, and a yellow tool are visible around the workspace.\n\n**Audio:** The audio features a voice speaking, though the specific words aren't provided here. It seems to be explaining something related to the work being done in the video."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "285.0s - 291.0s",
+          "query": "**Visual:** The video shows various scenes related to art and auction settings. There's a person working on a wooden frame with tools, possibly preparing or restoring an artwork. Another scene depicts a group of people gathered around a table, seemingly discussing or examining something, likely artworks. The background includes walls with graffiti-like markings and a red tool box. The overall setting suggests an artistic or creative environment.\n\n**Audio:** The audio contains a voiceover saying \"that was the last lot in the auction.\" This indicates that the video is part of an auction event where items, presumably artworks, have been sold off one by one until the final item is presented for bidding."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 379.19898104667664
+    },
+    {
+      "comment_index": 2430,
+      "video_id": "X-6jMi4e-0Q",
+      "comment": "4:41-4:43 wtf grabbing it by the part that’s supposed to be hot AF! 💁🏻‍♂️😂",
+      "language": "en",
+      "channel_name": "theartassignment",
+      "category": "art/design",
+      "likes": 0.0,
+      "comment_timestamp": 281.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "272.0s - 278.0s",
+          "query": "**Visual:** The video shows a person sitting indoors, wearing glasses and a plaid shirt. They appear to be speaking or reacting animatedly with their hands raised. In the background, there's a bookshelf filled with books, some stacked horizontally, and a few decorative items like a hat and a small plant on a table. There’s also a window with blinds partially open.\n\n**Audio:** The audio contains someone speaking, though the specific words aren't clear from just the description. It seems to be a conversation or monologue."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "278.0s - 284.0s",
+          "query": "**Visual:** The video shows someone working on a mechanical device with various tools and components visible. There's a stack of books and some art pieces in the background.\n\n**Audio:** The audio includes a person speaking, though their words aren't fully clear from just these six seconds. It seems to be a conversation or explanation about something related to the work being done."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "284.0s - 290.0s",
+          "query": "**Visual:** The video shows a group of people gathered around a large wooden frame with a rectangular cutout. One person is holding up a piece of cardboard over the cutout area while others stand nearby observing or assisting. The background appears to be an indoor setting with some tools and equipment visible.\n\n**Audio:** There is no distinct audio present in the video; it seems silent without any spoken words, music, or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 336.26934790611267
+    },
+    {
+      "comment_index": 2431,
       "video_id": "X-6jMi4e-0Q",
       "comment": "6:50 sounds so pretentious",
       "language": "en",
       "channel_name": "theartassignment",
       "category": "art/design",
       "likes": 0.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1976,
-      "video_id": "X-6jMi4e-0Q",
-      "comment": "4:42 Classic Banksy?",
-      "language": "en",
-      "channel_name": "theartassignment",
-      "category": "art/design",
-      "likes": 0.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1977,
-      "video_id": "X-6jMi4e-0Q",
-      "comment": "4:43 did anyone notice how he hold the soldering iron?...if it is on and he is actually soldering the wire it should be hot on the part where he was holding and he cannot hold it that way...pls correct me if im wrong...thanks..",
-      "language": "en",
-      "channel_name": "theartassignment",
-      "category": "art/design",
-      "likes": 0.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1978,
-      "video_id": "X-6jMi4e-0Q",
-      "comment": "Banksy was holding the soldering iron by the hot bit at 4:43",
-      "language": "en",
-      "channel_name": "theartassignment",
-      "category": "art/design",
-      "likes": 0.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1979,
-      "video_id": "X-6jMi4e-0Q",
-      "comment": "OMG. There's something about the way this woman talks! So many words and nothing to say ... Get to the POINT! @6:39 ... too. many. words!!! just SAY it already!!!",
-      "language": "en",
-      "channel_name": "theartassignment",
-      "category": "art/design",
-      "likes": 0.0,
-      "error": "Video file not found: X-6jMi4e-0Q",
-      "analysis_type": "failed"
+      "comment_timestamp": 410.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "401.0s - 407.0s",
+          "query": "**Visual:** The video shows two women wearing white gloves holding up a large framed artwork. The frame is ornate with gold detailing. Inside the frame is a black-and-white silhouette painting of a man throwing flowers forward. The background of the painting is plain white.\n\n**Audio:** There is no audible dialogue or music in the provided segment; only the sound of the women handling the frame can be heard."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "407.0s - 413.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 7.21 GiB. GPU 0 has a total capacity of 23.56 GiB of which 2.56 GiB is free. Including non-PyTorch memory, this process has 20.99 GiB memory in use. Of the allocated memory 13.13 GiB is allocated by PyTorch, and 7.54 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "413.0s - 419.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 10.32 GiB. GPU 0 has a total capacity of 23.56 GiB of which 2.56 GiB is free. Including non-PyTorch memory, this process has 20.99 GiB memory in use. Of the allocated memory 10.92 GiB is allocated by PyTorch, and 9.76 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 22.556641340255737
     }
   ]
 }

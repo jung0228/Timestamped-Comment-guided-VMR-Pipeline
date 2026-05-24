@@ -4,134 +4,13 @@
   "successful_comments": 20,
   "failed_comments": 0,
   "success_rate": "100.0%",
-  "processing_time": 8425.374933242798,
   "comments": [
     {
-      "comment_index": 4086,
-      "video_id": "hBMoPUAeLnY",
-      "comment": "After recent events in LA, Trump nailed it at 59:48.",
-      "language": "en",
-      "channel_name": "JoeRogan",
-      "category": "podcast",
-      "likes": 103.0,
-      "comment_timestamp": 3588.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "3579.0s - 3585.0s",
-          "query": "VISUAL: There's a man with a bald head wearing a black shirt sitting in front of a microphone. He seems to be talking or gesturing while speaking. Behind him is a wooden wall with a neon sign that says \"THE JOE ROGAN EXPERIENCE\" in yellow and red letters.AUDIO: The main thing heard is someone speaking about a poo app related to documented human feces in San Francisco. There are no other distinct sounds like music or sound effects. So, what do you think about this poo app?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "3585.0s - 3591.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "3591.0s - 3597.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 128.30791687965393
-    },
-    {
-      "comment_index": 4084,
-      "video_id": "hBMoPUAeLnY",
-      "comment": "Chapters 00:00:00 - Podcast Introduction 00:05:06 - Surreal Experience in Office 00:12:52 - First Days in Office 00:20:00 - Controversial Licensing 00:25:50 - Dangerous Nature of Presidency 00:34:30 - Crime Statistics and Reality 00:39:50 - China's Influence on Manufacturing 00:44:41 - Starlink and Disaster Relief 00:52:48 - Environmental Regulations Impact 01:00:01 - California's Water Issues 01:06:25 - Nuclear Power Discussion 01:12:09 - Nuclear vs. Wind Energy 01:19:25 - Election Integrity Concerns 01:23:59 - Cognitive Tests for Leaders 01:31:25 - Military Strategy Insights 01:38:31 - North Korea Relations 01:43:19 - Gang Violence Concerns 01:49:00 - UFC and Fighting Dynamics 01:58:05 - Health and Food Safety 02:03:20 - Metabolic Health Focus 02:17:00 - Election Integrity Claims 02:21:51 - Debate Format Critique 02:31:51 - Mail-in Ballots Risks 02:39:31 - Human Trafficking Issues 02:45:16 - UFO Sightings Insights 02:55:11 - Chip Manufacturing Issues",
-      "language": "en",
-      "channel_name": "JoeRogan",
-      "category": "podcast",
-      "likes": 152.0,
-      "comment_timestamp": 3985.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "3976.0s - 3982.0s",
-          "query": "VISUAL: There's a man with a bald head wearing a black shirt sitting in front of a microphone. Behind him is a sign that says \"THE JOE ROGAN EXPERIENCE\" in neon lights. The background has wooden panels. Then there's another scene where a man in a blue suit and yellow tie is speaking into a microphone against a red curtain backdrop.AUDIO: You can hear laughter at first, then someone talking about terminating a mandate related to media. It seems like they're discussing something serious or important. So, what do you think about this video?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "3982.0s - 3988.0s",
-          "query": "VISUAL: A man in a blue suit with a yellow tie is speaking into a microphone against a red curtain background. He seems to be addressing an audience or recording something.AUDIO: There's a male voice speaking clearly about doing something within his first day or two days, and then he asks about nuclear things. It sounds like a formal or professional setting. So, what do you think about this? Do you have any other thoughts on it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "3988.0s - 3994.0s",
-          "query": "VISUAL: There's a man with a bald head wearing a black shirt sitting in front of a microphone. He seems to be speaking or about to speak. Behind him is a wooden wall with a neon sign that says \"THE JOE ROGAN EXPERIENCE\" in bright yellow and red letters.AUDIO: The main thing heard is someone talking about nuclear power. It's just speech without any other distinct sounds like music or sound effects.So, what do you think about the content? Do you have any more questions related to it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 464.7737195491791
-    },
-    {
-      "comment_index": 4087,
-      "video_id": "hBMoPUAeLnY",
-      "comment": "Wow!!! 2:26:30 \"They are going to say they should have had a primary, and they are going to say she shouldn't have picked Waltz.\" That's exactly what they are saying now.",
-      "language": "en",
-      "channel_name": "JoeRogan",
-      "category": "podcast",
-      "likes": 101.0,
-      "comment_timestamp": 8790.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "8781.0s - 8787.0s",
-          "query": "VISUAL: There's a man in a blue suit with a yellow tie sitting at a table with a microphone in front of him. He has light-colored hair and is speaking into the microphone. The background is red curtains.AUDIO: A male voice is speaking confidently about winning and being ahead. It seems like he's talking to an audience or recording something. What do you think about his confidence?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "8787.0s - 8793.0s",
-          "query": "VISUAL: A man is sitting at a desk with a microphone in front of him. He's wearing a blue suit, white shirt, and yellow tie. There's a red curtain behind him.AUDIO: Someone is speaking, but it's not clear who or what they're saying. It seems like just regular speech without any special effects or background noise.If you want to know more about this video or have other questions, feel free to ask!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "8793.0s - 8799.0s",
-          "query": "VISUAL: A man is sitting at a desk with a microphone in front of him. He's wearing a blue suit, white shirt, and yellow tie. There's a red curtain behind him.AUDIO: Someone is speaking about having a primary election for a short term position and expressing regret over choosing certain individuals. It seems to be a political discussion.If you have any other thoughts or questions about this, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 300.9433476924896
-    },
-    {
-      "comment_index": 4088,
-      "video_id": "hBMoPUAeLnY",
-      "comment": "0:00 Trump before 2016 election 2:00 Leaving the Apprentice 4:08 Trump was loved on The View  4:45 What was it like when you got in office? 7:20 Trump on being in the White House 13:10 Trump focused on survival in office (impeachment) 13:45 Joe: \"What did you expect?\" 15:20 Trump as a democrat until early 90s 15:45 Trump on the two-party system 17:40 Trump on having to rely on people he campaigned against  18:10 Everyone wants an appointment 21:15 Trump on mistakes in office 22:45 Trump on John Bolton & Phil Ruffin 24:00 Trump on publicity, Joe speaks on what made Trump stand out 25:40 Danger of presidency & Trump assassination attempts 26:25 Trump speaks on China, Iran, Israel 28:15 Joe says they will twist Trump's words 28:48 \"Some of these women, they're so stupid\" 28:45 Talking again about how The View loved Trump 30:30 The media is killing their own credibility 32:00 Trump speaks on the editing of Kamala's answers 33:15 Trump on David Muir during debate 33:35 Joe: they fact checked Trump, not Kamala on \"no troops in warzone\" 34:35 Trump & Joe on the \"crime is soaring\" fact check 36:00 Trump speaks on Jonathan Diller's death & funeral 37:05 Trump on how hard it is to be a cop 37:30 Joe on PTSD/suicide for cops 37:40 Trump says we have to give cops back their dignity 37:55 on \"bad apples\" and defunding the police 38:50 on Kamala supporting transgender sex changes 39:40 Trump on cars being built in USA 40:45 Trump: the most beautiful word is \"tariff\" 42:10 1887 American has too much money 42:50 Trump compliments Elon Musk, rocket landing 44:05 Trump mentions space force 44:25 StarLink 44:50 Trump tell Joe he's not a \"Kamala person\" 46:05 42 billion wasted on Starlink 47:00 on tariffs & tax policy 48:30 Trump on effect of Covid 51:10 Trump speaks on the country's debt, assets 52:45 Trump on environmentalists 56:55 China doesn't do anything environmentally 58:40 Gavin Newson cleaning up before Xi Jinping visit 1:01:30 Tulare Lake in California 1:06:00 Trump will terminate CA mandate on ICE cars 1:06:25 on Nuclear energy 1:08:35 Trump on Anwar Alaskan oil 1:09:20 Trump says windmills are bad 1:11:35 Trump: \"I wanna be a whale psychiatrist\" 1:12:10 Trump on concrete, nuclear plants, over-regulation 1:13:35 Trump on his uncle, Dr. John Trump, dangers of nuclear energy 1:14:50 Trump on Biden, late age 1:16:45 Trump on polls 1:20:25 Joe: \"once they shot you, I had to bring you on\" 1:20:30 Trump shows his ear scar 1:21:00 Trump on attending Bo Nickel fight as president 1:21:30 on election fraud 1:23:15 Trump compared to Hitler 1:23:30 Trump says Kamala is low IQ, cognitive tests 1:24:35 Trump on Kamala's Anderson Cooper interview 1:25:35 Russian/Ukraine would not have happened under Trump 1:26:45 Trump: Putin doesn't respect Biden 1:27:10 Trump calls General Milley stupid 1:28:55 Trump: no soldier killed for 18 months 1:31:30 Trump on defeating ISIS 1:33:05 Trump likes to sit with AF1 pilots, \"better looking/taller than Tom Cruise\" lmao 1:35:50 Trump: \"central casting\" 1:38:30 Trump relationship with North Korea, Kim Jung Un 1:41:25 Trump on immigration, Springfield Ohio 1:44:25 Trump on Dana White, Joe: \"he's a big reason you're here\" 1:46:20 Trump asks Joe where he would be without UFC 1:49:00 Trump & Joe discuss UFC & boxing 1:52:00 Trump asks Joe who he thinks is the greatest fighter 1:54:55 Joe says you can only judge fighters at their peak 1:57:20 Joe on talking to fighters after a fight 1:57:50 Joe on RFK, making America healthy again 1:59:10 Trump on keeping RFK from oil discussions 2:01:25 Trump & Joe discuss medical & health industry 2:04:55 Trump discusses his health 2:08:10 Trump: I haven't taken a day off in ~54 days 2:10:35 Trump & Joe on bad press, media credibility 2:12:30 Trump is on TikTok 2:12:55 Joe: young people are rejecting the system 2:13:15 Joe: rebels are Republicans, liberals want to silence criticism 2:13:45 Joe & Trump on investigations against him 2:14:45 On putting Hillary in jail: \"I saved her from jail\" 2:15:23 Trump calls Comey a \"stupid son of a bitch\" 2:16:18 Trump says FBI is great, but not the \"top people\" 2:16:55 On Trump being robbed in 2020 2:19:35 On Russian Collusion  2:21:15 Trump & Joe discuss Kamala on podcast & debates 2:25:00 Trump on Rosie O'Donnell question 2:26:45 Trump on doing McDonalds  2:28:15 Trump on media lying, Kamala flipping 2:31:05 on 2020 election fraud 2:31:45 Elon Musk on election fraud 2:33:20 Joe asks Trump what can be done about it, voter ID 2:42:40 JFK files 2:45:10 Aliens, Area 51 2:49:20 Joe asks Trump if military might have hid things from him 2:50:30 Trump on nuclear weapons 2:51:10 Joe asks Trump what he will do about nuclear threats 2:52:55 Trump: \"Fine, I'll do it myself\" & Emmanuel Macron 2:54:05 Trump on Kamala becoming president \"bad things will happen\" 2:54:45 Trump on effectiveness of rhetoric for change 2:55:05 Joe: can we apply that same strategy to our phones 2:57:45 Trump has speech to attend but wants to continue podcast",
-      "language": "en",
-      "channel_name": "JoeRogan",
-      "category": "podcast",
-      "likes": 91.0,
-      "comment_timestamp": 9760.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "9751.0s - 9757.0s",
-          "query": "VISUAL: A man in a blue suit with a yellow tie is speaking into a microphone. He's gesturing with his hands while talking. The background has red curtains.AUDIO: There's a male voice speaking about voter ID requirements. It seems to be discussing the need for additional forms of identification.If you want to know more about this or have other questions related to it, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "9757.0s - 9763.0s",
-          "query": "VISUAL: There's a man in a blue suit with a yellow tie speaking into a microphone against a red curtain backdrop. Then it cuts to another man in a black shirt sitting at a desk with a microphone in front of him, talking. The background has a sign that says \"THE JOE ROGAN EXPERIENCE\" in neon lights.AUDIO: Someone is speaking about being a citizen of the country and agreeing on something not wanting a certain thing. It seems like they're having a conversation or interview. There's no music or sound effects, just their voices. So, what do you think about this? Do you have any other thoughts on the video?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "9763.0s - 9769.0s",
-          "query": "VISUAL: There's a man with a bald head wearing a black shirt sitting in front of a microphone. Behind him is a wooden wall with \"THE JOE ROGAN EXPERIENCE\" written on it in neon lights. The man seems to be speaking into the microphone.AUDIO: Someone is talking about the JFK files and mentions something related to showing them. It sounds like they're discussing some kind of evidence or information regarding the JFK files.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 417.8340952396393
-    },
-    {
-      "comment_index": 4081,
+      "comment_index": 2421,
       "video_id": "hBMoPUAeLnY",
       "comment": "59:50 Incredible that they’re talking about California’s management of tree brushes and water resources two months before the LA Inferno.",
       "language": "en",
-      "channel_name": "JoeRogan",
+      "channel_name": "joerogan",
       "category": "podcast",
       "likes": 339.0,
       "comment_timestamp": 3590.0,
@@ -140,88 +19,118 @@
         {
           "segment_index": 1,
           "time_range": "3581.0s - 3587.0s",
-          "query": "VISUAL: There's a man with a bald head wearing a black shirt sitting in front of a microphone. He seems to be talking or gesturing while speaking. Behind him is a wooden wall with a neon sign that says \"THE JOE ROGAN EXPERIENCE\" in yellow and red letters.AUDIO: The audio contains someone speaking about human feces being documented in San Francisco, mentioning it's related to a poo app and that it's everywhere. It's just a regular conversation without any background music or sound effects.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's a man speaking into a microphone. He's wearing a black shirt and gesturing with his hands. The background has a wooden panel with \"THE JOE ROGAN EXPERIENCE\" written in bright, colorful letters. There are also some other objects like a glass and a small plant on the table in front of him. The scene seems to be indoors, possibly in a studio or a room designed for recording podcasts or interviews. The lighting is warm and focused on the speaker, making him the main focus of the shot. There's also a small red light visible on the right side of the frame, which might be part of the recording equipment or decor."
         },
         {
           "segment_index": 2,
           "time_range": "3587.0s - 3593.0s",
-          "query": "VISUAL: There's a man with a bald head sitting in front of a microphone. He's wearing a black shirt. Behind him is a sign that says \"THE JOE ROGAN EXPERIENCE\" in neon lights. The background has wooden panels. Then there's another scene where a man in a blue suit and yellow tie is speaking into a microphone against a red curtain backdrop.AUDIO: Someone is talking about something being everywhere, and then they mention giving an example that might not be known to the listener. It seems like a casual conversation or interview setting.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visual: The video shows a man in a suit and tie speaking into a microphone. He's standing in front of a red curtain. There's a sign in the background that says \"THE JOE ROGAN EXPERIENCE.\" The man is gesturing with his hands as he speaks. The setting seems to be a stage or a studio.\n\nAudio: The audio is of a man speaking. He's talking about something, but the specific content isn't clear from just the 6 seconds. There are no other sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "3593.0s - 3599.0s",
-          "query": "VISUAL: There's a man in a blue suit with a yellow tie speaking into a microphone. He has his hands raised while talking. The background is red curtains.AUDIO: Someone is speaking, saying \"Actually as a student as a student of yours but but water.\" It seems like they're having some difficulty or hesitation in their speech.If you have any other thoughts about this video or want to discuss it further, feel free to let me know!"
+          "query": "Visually, there's a man in a blue suit and yellow tie speaking into a microphone. He's gesturing with his hands. The background is red curtains. There's also a sign that says \"THE JOE DOGAN EXPERIENCE\" in the background. The man seems to be in a formal setting, like a studio or a stage. There's also a bald man in a suit laughing in the background. The scene looks like it could be from a talk show or a similar event."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 535.4543678760529
+      "processing_time": 331.1088991165161
     },
     {
-      "comment_index": 4083,
-      "video_id": "hBMoPUAeLnY",
-      "comment": "Trump talking about California water problem, and cleaning up forrest at 59:58 - 1:06:00 \"All Newsom had to do was sign\"",
-      "language": "en",
-      "channel_name": "JoeRogan",
-      "category": "podcast",
-      "likes": 233.0,
-      "comment_timestamp": 3598.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "3589.0s - 3595.0s",
-          "query": "VISUAL: There's a man with light-colored hair wearing a blue suit and yellow tie speaking into a microphone. He has his hands raised while talking. The background is red curtains.AUDIO: Someone is speaking, saying \"Let me give you one that you may not know okay which I think you know everything actually as a student as a\". It seems like they're starting to introduce something new or different. So, what do you think about this? Do you have any ideas on what he might be talking about?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "3595.0s - 3601.0s",
-          "query": "VISUAL: There's a man in a suit with a yellow tie speaking into a microphone. He seems to be gesturing while talking. The background has a wooden wall with \"THE JOE ROGAN EXPERIENCE\" written on it.AUDIO: Someone is speaking, saying something about a student and water in Los Angeles. It sounds like they're having a conversation or interview.If you want to talk more about this video or have other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "3601.0s - 3607.0s",
-          "query": "VISUAL: A man with light-colored hair is speaking into a microphone. He's wearing a blue suit jacket, white shirt, and yellow tie. There's an American flag pin on his lapel. The background is red curtains.AUDIO: Someone is talking about not being able to get proper amounts of water, it being unbelievably expensive, and possibly having a house in Beverly Hills. It seems like they're discussing some kind of issue related to housing or living conditions.If you have any other thoughts or questions about this, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 499.90036725997925
-    },
-    {
-      "comment_index": 4082,
+      "comment_index": 2422,
       "video_id": "hBMoPUAeLnY",
       "comment": "Timestamps: 04:54 - Deciding to Run for President 12:55 - Experiencing the White House  15:04 - Transition to Political Background  26:19 - Challenges of Presidency 30:02 - Media Dynamics and Their Impact 30:06 - Media Credibility Issues 34:35 - Law Enforcement and Crime 40:47 - Tariffs and Economic Policy 45:07 - Starlink's Impact on Connectivity 57:56 - Environmental Concerns and Regulations 59:50 - Water Issues in LA 1:06:19 - The Promise of Nuclear Power  1:15:00 - Nuclear Power vs. Environmental Concerns 1:15:11 - Biden's Challenges and Election Dynamics 1:22:01 - Election Fraud Controversy 1:29:57 - Afghanistan Withdrawal Discussion 1:30:12 - Trump on Military Decisions  1:36:23 - Meeting with Generals in Iraq  1:41:30 - Border Policies and Migration Issues 1:45:14 - Dana White's Impact on UFC 1:58:02 - Health and Food Chemicals Discussion 2:00:10 - Collaborating with RFK Jr. 2:00:15 - Discussion on Health and Vaccines 2:08:30 - Trump's Campaign Passion and Commitment 2:14:35 - Political Investigations and Censorship ‍ 2:15:17 - Trump on Hillary Clinton's Legal Issues 2:17:01 - Discussion on 2020 Election Integrity  2:22:55 - Trump's Views on Presidential Debates 2:30:17 - Election Security Concerns  2:40:02 - The JFK Files and Secrecy 2:45:17 - Conversations about Aliens and UFOs 2:50:47 - Discussing Global Military Issues 2:57:48 - Ending the Interview and Future Plans  Made with snap-summary.com",
       "language": "en",
-      "channel_name": "JoeRogan",
+      "channel_name": "joerogan",
       "category": "podcast",
       "likes": 297.0,
-      "comment_timestamp": 3979.0,
+      "comment_timestamp": 6090.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "3970.0s - 3976.0s",
-          "query": "VISUAL: There's a man with a bald head wearing a black shirt sitting in front of a microphone. Behind him is a wooden wall with \"THE JOE ROGAN EXPERIENCE\" written on it in neon lights. He seems to be talking into the microphone.AUDIO: Someone is speaking about California having an announcement within a month asking people not to charge their Teslas. It's just speech without any other sounds like music or sound effects.If you have any more questions about this or want to discuss something else related to it, feel free to let me know!"
+          "time_range": "6081.0s - 6087.0s",
+          "query": "Well, I'm not sure if there's anything specific to describe about the visual or audio here. It seems like it might be missing some details? Maybe you could give me more information so I can help better?"
         },
         {
           "segment_index": 2,
-          "time_range": "3976.0s - 3982.0s",
-          "query": "VISUAL: There's a man with a bald head wearing a black shirt sitting in front of a microphone. Behind him is a sign that says \"THE JOE ROGAN EXPERIENCE\" in neon lights. The background has wooden panels. Then there's another scene where a man in a blue suit and yellow tie is speaking into a microphone against a red curtain backdrop.AUDIO: You can hear laughter at first, then someone talking about terminating a mandate related to media. It seems like they're discussing something serious or important. So, what do you think about this video?"
+          "time_range": "6087.0s - 6093.0s",
+          "query": "Visually, there's a bald man in a black shirt sitting in front of a microphone. Behind him, there's a wooden backdrop with a neon sign that says \"THE JOE ROGAN EXPERIENCE\" in bright colors. The man seems to be speaking into the microphone, and his hand is gesturing as he talks.\n\nIn terms of audio, it's a man speaking, likely the host of \"The Joe Rogan Experience.\" There are no other sounds like music or sound effects, just his speech."
         },
         {
           "segment_index": 3,
-          "time_range": "3982.0s - 3988.0s",
-          "query": "VISUAL: A man in a blue suit with a yellow tie is speaking into a microphone against a red curtain background. He seems to be addressing an audience or recording something.AUDIO: There's a male voice speaking clearly about doing something within his first day or two days, and then he asks about nuclear things. It sounds like a formal or professional setting. So, what do you think about this? Do you have any other thoughts on it?"
+          "time_range": "6093.0s - 6099.0s",
+          "query": "**Visual:** The video shows a man sitting in front of a microphone, speaking. He's wearing a black shirt. Behind him, there's a wooden wall with a sign that says \"THE JOE ROGAN EXPERIENCE\" in bright, colorful letters. The setting looks like a podcast or talk show studio.\n\n**Audio:** The audio features a man speaking. He seems to be discussing something related to a bill that was stopped from being passed, but he also mentions that the bill included something else."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 579.9637546539307
+      "processing_time": 302.05832719802856
     },
     {
-      "comment_index": 4085,
+      "comment_index": 2423,
+      "video_id": "hBMoPUAeLnY",
+      "comment": "Trump talking about California water problem, and cleaning up forrest at 59:58 - 1:06:00 \"All Newsom had to do was sign\"",
+      "language": "en",
+      "channel_name": "joerogan",
+      "category": "podcast",
+      "likes": 233.0,
+      "comment_timestamp": 3960.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "3951.0s - 3957.0s",
+          "query": "Visually, there's a person in a blue suit with a yellow tie speaking into a microphone. The background is red curtains. The person is gesturing with their hands while speaking. There's no other significant movement or objects in the scene.\n\nAudio-wise, there's a man speaking. He seems to be talking about California having a lot of water, but the people there not realizing it."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "3957.0s - 3963.0s",
+          "query": "Well, I can't actually watch videos or analyze them directly like that. But if you describe the video to me, I'd be happy to help break it down into those two parts for you! What do you think?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "3963.0s - 3969.0s",
+          "query": "Visual: A man is speaking into a microphone while sitting at a desk. There's a sign behind him that says \"THE JOE ROGAN EXPERIENCE\" with some wooden panels around it.\n\nAudio: Someone is talking about an announcement made regarding internal combustion engines not being available to buy after 2035."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 141.3316090106964
+    },
+    {
+      "comment_index": 2424,
+      "video_id": "hBMoPUAeLnY",
+      "comment": "Chapters 00:00:00 - Podcast Introduction 00:05:06 - Surreal Experience in Office 00:12:52 - First Days in Office 00:20:00 - Controversial Licensing 00:25:50 - Dangerous Nature of Presidency 00:34:30 - Crime Statistics and Reality 00:39:50 - China's Influence on Manufacturing 00:44:41 - Starlink and Disaster Relief 00:52:48 - Environmental Regulations Impact 01:00:01 - California's Water Issues 01:06:25 - Nuclear Power Discussion 01:12:09 - Nuclear vs. Wind Energy 01:19:25 - Election Integrity Concerns 01:23:59 - Cognitive Tests for Leaders 01:31:25 - Military Strategy Insights 01:38:31 - North Korea Relations 01:43:19 - Gang Violence Concerns 01:49:00 - UFC and Fighting Dynamics 01:58:05 - Health and Food Safety 02:03:20 - Metabolic Health Focus 02:17:00 - Election Integrity Claims 02:21:51 - Debate Format Critique 02:31:51 - Mail-in Ballots Risks 02:39:31 - Human Trafficking Issues 02:45:16 - UFO Sightings Insights 02:55:11 - Chip Manufacturing Issues",
+      "language": "en",
+      "channel_name": "joerogan",
+      "category": "podcast",
+      "likes": 152.0,
+      "comment_timestamp": 7085.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "7076.0s - 7082.0s",
+          "query": "Visually, there are two men sitting at a table in a studio-like setting. One is wearing a dark shirt and the other a suit with a yellow tie. There are microphones, a coffee cup, and some other items on the table. The background has a wooden panel design with a sign that says \"THE JOE ROGAN EXPERIENCE\" in bright colors. The man in the dark shirt is speaking and gesturing with his hands.\n\nAudio-wise, there's a man speaking, and the speech includes phrases like \"with Robert Kennedy right and I love\" and \"this make America healthy again yeah.\" The tone seems conversational."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "7082.0s - 7088.0s",
+          "query": "Visually, there are two men sitting at a table. One is bald and wearing a dark jacket, and the other has light-colored hair and is in a suit with a yellow tie. The table has various items like a microphone, a water bottle, and some other small objects. The background seems to be a room with wooden paneling and some shelves with items on them. The men appear to be engaged in a conversation, with the bald man gesturing with his hands while speaking.\n\nAudio - There's a man speaking, but the content of what he's saying isn't clear from this short segment. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "7088.0s - 7094.0s",
+          "query": "Visually, there's a man speaking into a microphone. He's wearing a black shirt and gesturing with his hands. The background has a wooden panel with \"THE JOE ROGAN EXPERIENCE\" written on it in bright yellow and red lights. There's also some kind of equipment or furniture partially visible behind him. The scene seems to be indoors, possibly in a studio or a room set up for a podcast or talk show.\n\nIn terms of audio, the man is speaking, but the specific words are not clear from this short segment. There are no other distinct sounds like music or sound effects. It's just the man's voice."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 357.1752378940582
+    },
+    {
+      "comment_index": 2425,
       "video_id": "hBMoPUAeLnY",
       "comment": "Came here for 59:48. Trump was right",
       "language": "en",
-      "channel_name": "JoeRogan",
+      "channel_name": "joerogan",
       "category": "podcast",
       "likes": 129.0,
       "comment_timestamp": 3588.0,
@@ -230,28 +139,88 @@
         {
           "segment_index": 1,
           "time_range": "3579.0s - 3585.0s",
-          "query": "VISUAL: There's a man with a bald head wearing a black shirt sitting in front of a microphone. He seems to be talking or gesturing while speaking. Behind him is a wooden wall with a neon sign that says \"THE JOE ROGAN EXPERIENCE\" in yellow and red letters.AUDIO: The main thing heard is someone speaking about a poo app related to documented human feces in San Francisco. There are no other distinct sounds like music or sound effects. So, what do you think about this poo app?"
+          "query": "Visually, there's a man speaking into a microphone. He's wearing a black shirt and gesturing with his hand. The background has a wooden texture with a sign that says \"THE JOE ROGAN EXPERIENCE\" in bright yellow and red lights. There are also some other objects on the table in front of him, like a glass and a small device.\n\nAudio-wise, there's a man speaking. The speech is clear and seems to be the main focus. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 2,
           "time_range": "3585.0s - 3591.0s",
-          "query": "VISUAL: There's a man with a bald head wearing a black shirt sitting in front of a microphone. Behind him is a wooden wall with \"THE JOE ROGAN EXPERIENCE\" written on it in neon lights. The scene then cuts to another man in a blue suit and yellow tie speaking into a microphone against a red curtain background.AUDIO: Someone is talking about something being everywhere and calling it \"bum crap.\" Then they mention giving an example that might not be known. What do you think about these two men?"
+          "query": "Visually, there are two men speaking into microphones. One is bald and wearing a black shirt, sitting in front of a wooden backdrop with \"THE JOE ROGAN EXPERIENCE\" written on it. The other man has blond hair, is wearing a blue suit and a yellow tie, and is standing in front of a red curtain. Both are gesturing with their hands while speaking.\n\nIn terms of audio, there's a man speaking, and he seems to be saying something like \"up and it's everywhere it's just bum crap everywhere but let me give you one that you may not know.\""
         },
         {
           "segment_index": 3,
           "time_range": "3591.0s - 3597.0s",
-          "query": "VISUAL: A man in a blue suit with a yellow tie is speaking into a microphone. He's gesturing with his hands while talking. The background has red curtains.AUDIO: There's a male voice speaking, saying \"Okay which I think you know everything actually as a student as a student of yours but\". It seems like he might be addressing someone who is a student of him. What do you think about it?"
+          "query": "Well, I'm not sure if there's actually anything to analyze from just these six seconds. There doesn't seem to be any clear visual or audio content that stands out. Maybe you could give me more details about it?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 460.40763330459595
+      "processing_time": 383.28586196899414
     },
     {
-      "comment_index": 4089,
+      "comment_index": 2426,
+      "video_id": "hBMoPUAeLnY",
+      "comment": "Wow!!! 2:26:30 \"They are going to say they should have had a primary, and they are going to say she shouldn't have picked Waltz.\" That's exactly what they are saying now.",
+      "language": "en",
+      "channel_name": "joerogan",
+      "category": "podcast",
+      "likes": 101.0,
+      "comment_timestamp": 8790.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "8781.0s - 8787.0s",
+          "query": "Visually, there's a person in a blue suit with a yellow tie, sitting in front of a red curtain. They're speaking into a microphone. The person seems to be in a formal setting, possibly a studio or a stage. There's no significant movement or action other than the person talking.\n\nAudio-wise, it's just the person speaking. The speech is clear and seems to be in English. There are no other sounds like music or background noise."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "8787.0s - 8793.0s",
+          "query": "Visually, there's a person in a blue suit with a yellow tie sitting in front of a microphone. The background is a red curtain. The person seems to be speaking or about to speak. There's no significant movement or action visible.\n\nAudio-wise, there's a voice speaking, but the content of the speech isn't clear from this short segment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "8793.0s - 8799.0s",
+          "query": "Visually, there's someone wearing a blue suit with a yellow tie sitting behind a microphone against a red curtain backdrop. The person seems to be speaking into the microphone.\n\nAudio-wise, it's just the man speaking without any background music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 196.76944088935852
+    },
+    {
+      "comment_index": 2427,
+      "video_id": "hBMoPUAeLnY",
+      "comment": "0:00 Trump before 2016 election 2:00 Leaving the Apprentice 4:08 Trump was loved on The View  4:45 What was it like when you got in office? 7:20 Trump on being in the White House 13:10 Trump focused on survival in office (impeachment) 13:45 Joe: \"What did you expect?\" 15:20 Trump as a democrat until early 90s 15:45 Trump on the two-party system 17:40 Trump on having to rely on people he campaigned against  18:10 Everyone wants an appointment 21:15 Trump on mistakes in office 22:45 Trump on John Bolton & Phil Ruffin 24:00 Trump on publicity, Joe speaks on what made Trump stand out 25:40 Danger of presidency & Trump assassination attempts 26:25 Trump speaks on China, Iran, Israel 28:15 Joe says they will twist Trump's words 28:48 \"Some of these women, they're so stupid\" 28:45 Talking again about how The View loved Trump 30:30 The media is killing their own credibility 32:00 Trump speaks on the editing of Kamala's answers 33:15 Trump on David Muir during debate 33:35 Joe: they fact checked Trump, not Kamala on \"no troops in warzone\" 34:35 Trump & Joe on the \"crime is soaring\" fact check 36:00 Trump speaks on Jonathan Diller's death & funeral 37:05 Trump on how hard it is to be a cop 37:30 Joe on PTSD/suicide for cops 37:40 Trump says we have to give cops back their dignity 37:55 on \"bad apples\" and defunding the police 38:50 on Kamala supporting transgender sex changes 39:40 Trump on cars being built in USA 40:45 Trump: the most beautiful word is \"tariff\" 42:10 1887 American has too much money 42:50 Trump compliments Elon Musk, rocket landing 44:05 Trump mentions space force 44:25 StarLink 44:50 Trump tell Joe he's not a \"Kamala person\" 46:05 42 billion wasted on Starlink 47:00 on tariffs & tax policy 48:30 Trump on effect of Covid 51:10 Trump speaks on the country's debt, assets 52:45 Trump on environmentalists 56:55 China doesn't do anything environmentally 58:40 Gavin Newson cleaning up before Xi Jinping visit 1:01:30 Tulare Lake in California 1:06:00 Trump will terminate CA mandate on ICE cars 1:06:25 on Nuclear energy 1:08:35 Trump on Anwar Alaskan oil 1:09:20 Trump says windmills are bad 1:11:35 Trump: \"I wanna be a whale psychiatrist\" 1:12:10 Trump on concrete, nuclear plants, over-regulation 1:13:35 Trump on his uncle, Dr. John Trump, dangers of nuclear energy 1:14:50 Trump on Biden, late age 1:16:45 Trump on polls 1:20:25 Joe: \"once they shot you, I had to bring you on\" 1:20:30 Trump shows his ear scar 1:21:00 Trump on attending Bo Nickel fight as president 1:21:30 on election fraud 1:23:15 Trump compared to Hitler 1:23:30 Trump says Kamala is low IQ, cognitive tests 1:24:35 Trump on Kamala's Anderson Cooper interview 1:25:35 Russian/Ukraine would not have happened under Trump 1:26:45 Trump: Putin doesn't respect Biden 1:27:10 Trump calls General Milley stupid 1:28:55 Trump: no soldier killed for 18 months 1:31:30 Trump on defeating ISIS 1:33:05 Trump likes to sit with AF1 pilots, \"better looking/taller than Tom Cruise\" lmao 1:35:50 Trump: \"central casting\" 1:38:30 Trump relationship with North Korea, Kim Jung Un 1:41:25 Trump on immigration, Springfield Ohio 1:44:25 Trump on Dana White, Joe: \"he's a big reason you're here\" 1:46:20 Trump asks Joe where he would be without UFC 1:49:00 Trump & Joe discuss UFC & boxing 1:52:00 Trump asks Joe who he thinks is the greatest fighter 1:54:55 Joe says you can only judge fighters at their peak 1:57:20 Joe on talking to fighters after a fight 1:57:50 Joe on RFK, making America healthy again 1:59:10 Trump on keeping RFK from oil discussions 2:01:25 Trump & Joe discuss medical & health industry 2:04:55 Trump discusses his health 2:08:10 Trump: I haven't taken a day off in ~54 days 2:10:35 Trump & Joe on bad press, media credibility 2:12:30 Trump is on TikTok 2:12:55 Joe: young people are rejecting the system 2:13:15 Joe: rebels are Republicans, liberals want to silence criticism 2:13:45 Joe & Trump on investigations against him 2:14:45 On putting Hillary in jail: \"I saved her from jail\" 2:15:23 Trump calls Comey a \"stupid son of a bitch\" 2:16:18 Trump says FBI is great, but not the \"top people\" 2:16:55 On Trump being robbed in 2020 2:19:35 On Russian Collusion  2:21:15 Trump & Joe discuss Kamala on podcast & debates 2:25:00 Trump on Rosie O'Donnell question 2:26:45 Trump on doing McDonalds  2:28:15 Trump on media lying, Kamala flipping 2:31:05 on 2020 election fraud 2:31:45 Elon Musk on election fraud 2:33:20 Joe asks Trump what can be done about it, voter ID 2:42:40 JFK files 2:45:10 Aliens, Area 51 2:49:20 Joe asks Trump if military might have hid things from him 2:50:30 Trump on nuclear weapons 2:51:10 Joe asks Trump what he will do about nuclear threats 2:52:55 Trump: \"Fine, I'll do it myself\" & Emmanuel Macron 2:54:05 Trump on Kamala becoming president \"bad things will happen\" 2:54:45 Trump on effectiveness of rhetoric for change 2:55:05 Joe: can we apply that same strategy to our phones 2:57:45 Trump has speech to attend but wants to continue podcast",
+      "language": "en",
+      "channel_name": "joerogan",
+      "category": "podcast",
+      "likes": 91.0,
+      "comment_timestamp": 1995.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1986.0s - 1992.0s",
+          "query": "**Visual:** The video shows Donald Trump speaking into a microphone while gesturing with his hands. He's wearing a blue suit jacket and a yellow tie. The background is red curtains.\n\n**Audio:** Trump is talking about something related to networks giving licenses that are worth something."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1992.0s - 1998.0s",
+          "query": "Visually, there's someone wearing a blue suit with a yellow tie speaking into a microphone against a red curtain backdrop. The person is gesturing with their hands while talking.\n\nAudio-wise, it's just the man speaking, no other sounds like music or background noise. His voice seems to be the main focus."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1998.0s - 2004.0s",
+          "query": "Visually, there's someone wearing a blue suit with a yellow tie speaking into a microphone against a red curtain backdrop. The person seems to be gesturing while talking.\n\nIn terms of audio, it sounds like they're having trouble getting their words out because others keep interrupting them. It's not clear who these interruptions come from or why."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 130.05648016929626
+    },
+    {
+      "comment_index": 2428,
       "video_id": "hBMoPUAeLnY",
       "comment": "At 52:00 Trump explaines how he saved the building of a huge LNG plant in Louisiana. This later saved Europe from freezing in winter because of the war with Russia. I live here in Europe and am ever so grateful to Trump even just for this. Let alone all the other great things he did. ❤🎉 Thank you Trump! American natural gas kept us warm in winter and still does.",
       "language": "en",
-      "channel_name": "JoeRogan",
+      "channel_name": "joerogan",
       "category": "podcast",
       "likes": 79.0,
       "comment_timestamp": 3120.0,
@@ -260,148 +229,28 @@
         {
           "segment_index": 1,
           "time_range": "3111.0s - 3117.0s",
-          "query": "VISUAL: A man with light-colored hair is speaking into a microphone. He's wearing a blue suit jacket, white shirt, and yellow tie. There's an American flag pin on his lapel. The background is red curtains.AUDIO: Someone is speaking about assets being enormous but also mentioning something about the \"the\". It seems like they're talking about some kind of situation or problem related to these assets. What do you think he might be referring to?"
+          "query": "Visually, there's someone wearing a blue suit with a yellow tie speaking into a microphone against a red curtain backdrop. The person seems to be gesturing while talking.\n\nAudio-wise, it's just the man speaking without any background music or sound effects. His voice is clear and he appears to be making some kind of statement or argument."
         },
         {
           "segment_index": 2,
           "time_range": "3117.0s - 3123.0s",
-          "query": "VISUAL: A man in a blue suit with a yellow tie is speaking into a microphone. He's gesturing with his hands while talking. The background has red curtains.AUDIO: There's a male voice speaking about paying off $35 trillion in debt and possibly giving something to the people. It seems like he's discussing economic or financial matters.If you have any other thoughts or questions about this, feel free to share!"
+          "query": "Visually, there's someone wearing a blue suit with a yellow tie speaking into a microphone. The background is red curtains. There aren't any other objects or people visible.\n\nIn terms of audio, it's just the person talking. No music, sound effects, or ambient sounds can be heard. It seems like they're delivering some kind of speech or statement."
         },
         {
           "segment_index": 3,
           "time_range": "3123.0s - 3129.0s",
-          "query": "VISUAL: A man with light-colored hair is speaking into a microphone. He's wearing a blue suit jacket, white shirt, and yellow tie. There's a small American flag pin on his lapel. The background consists of red curtains.AUDIO: Someone is speaking about tax reductions, wanting to get it down to fifteen percent. It seems like they're discussing economic policies.If you have any other thoughts or questions about this, feel free to share!"
+          "query": "Visually, there's someone wearing a blue suit with a yellow tie speaking into a microphone against a red curtain backdrop. The person seems to be gesturing while talking.\n\nAudio-wise, it's just the man speaking about tax reductions getting down to fifteen percent. There's no background music or other sounds."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 338.85152196884155
+      "processing_time": 142.0509970188141
     },
     {
-      "comment_index": 4092,
-      "video_id": "hBMoPUAeLnY",
-      "comment": "1:03:30 is the fire quote you are looking for",
-      "language": "en",
-      "channel_name": "JoeRogan",
-      "category": "podcast",
-      "likes": 45.0,
-      "comment_timestamp": 3810.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "3801.0s - 3807.0s",
-          "query": "VISUAL: There's a man with light-colored hair wearing a blue suit and yellow tie speaking into a microphone. He seems to be gesturing with his hands while talking. The background is red curtains.AUDIO: Someone is speaking, saying \"but it gets so I looked into it was the\". It sounds like they're having an emotional conversation or argument. What do you think about this?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "3807.0s - 3813.0s",
-          "query": "VISUAL: There's a man with light-colored hair wearing a blue suit and yellow tie speaking into a microphone. He has an American flag pin on his lapel. His hands are gesturing while he speaks. The background is red curtains.AUDIO: A male voice is speaking about having water for land and forests, mentioning that the forests are dry. It seems like there might be some kind of agreement or acknowledgment at the end, indicated by \"yeah.\" So, what do you think about this? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "3813.0s - 3819.0s",
-          "query": "VISUAL: There's a man with light-colored hair wearing a blue suit and yellow tie speaking into a microphone. He seems to be gesturing with his hands while talking. The background is red curtains.AUDIO: A male voice is speaking about water being dangerous and potentially routing it, mentioning billions. It sounds like he's discussing some serious topic related to water management or something similar.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 410.72782611846924
-    },
-    {
-      "comment_index": 4095,
-      "video_id": "hBMoPUAeLnY",
-      "comment": "30:00 stood out to me. “Be negative, that’s okay.” He’s permitting his friends and supporters to be critical so that they can be more well off. Politics aside, that response emits a level of security and self-confidence.",
-      "language": "en",
-      "channel_name": "JoeRogan",
-      "category": "podcast",
-      "likes": 31.0,
-      "comment_timestamp": 1800.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "1791.0s - 1797.0s",
-          "query": "VISUAL: There's a man with light-colored hair wearing a blue suit and yellow tie speaking into a microphone. He seems to be gesturing with his hands while talking. The background is red curtains.AUDIO: Someone is speaking, but it's not clear who or what they're saying. It could be a news report or an interview. There are no other distinct sounds like music or sound effects.If you have any more questions about this or want to discuss something else related to videos, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "1797.0s - 1803.0s",
-          "query": "VISUAL: A man in a blue suit with a yellow tie is speaking into a microphone. He's gesturing with his hands while talking. The background is red curtains.AUDIO: There's a male voice speaking about interviews and CNN calls. It seems to be discussing some kind of hiring situation.If you have any other thoughts or questions about it, feel free to share!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "1803.0s - 1809.0s",
-          "query": "VISUAL: A man in a blue suit with a yellow tie is speaking into a microphone. He's standing against a red curtain background. His expression seems serious or focused.AUDIO: There's a male voice speaking. The speech content is about someone not knowing what to do when they want to pay him a lot but he has to be negative towards them. The speaker says it's okay to be negative."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 361.47095823287964
-    },
-    {
-      "comment_index": 4093,
-      "video_id": "hBMoPUAeLnY",
-      "comment": "I love how Rogan affirms \"You're allowed to have an opinion.\" lol  (2:33:17) Great interview! The conversational format is really amazing, instead of \"talking points\" and teleprompters. Thanks Joe!👍",
-      "language": "en",
-      "channel_name": "JoeRogan",
-      "category": "podcast",
-      "likes": 42.0,
-      "comment_timestamp": 9197.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "9188.0s - 9194.0s",
-          "query": "VISUAL: A man in a blue suit with a yellow tie is speaking into a microphone. He's gesturing with his hands while talking. The background has red curtains.AUDIO: There's a male voice speaking, saying something about things going all over the place and needing two weeks to figure out who won an election.If you have any other thoughts or questions about it, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "9194.0s - 9200.0s",
-          "query": "VISUAL: There's a man in a blue suit with a yellow tie speaking into a microphone against a red curtain backdrop. Then it cuts to another man in a black shirt also speaking into a microphone, with \"THE JOE ROGAN EXPERIENCE\" sign behind him on a wooden wall.AUDIO: Someone is talking about an election being crooked, expressing their opinion that it's by design. The other person agrees and says they're allowed to have an opinion.So, what do you think about this? Do you agree with their opinions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "9200.0s - 9206.0s",
-          "query": "VISUAL: There's a man with a bald head wearing a black shirt sitting in front of a microphone. Behind him is a sign that says \"THE JOE ROGAN EXPERIENCE\" in neon lights. The background has wooden panels.AUDIO: Someone is speaking, but it's not clear who or what they're saying just from these few seconds.What do you think about this? Do you have any other questions related to it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 298.8813886642456
-    },
-    {
-      "comment_index": 4091,
-      "video_id": "hBMoPUAeLnY",
-      "comment": "1:03:29 For people who come to see them discuss CALIFORNIA WILD FIRES, following the devastating Palisades Fire happened yesterday.",
-      "language": "en",
-      "channel_name": "JoeRogan",
-      "category": "podcast",
-      "likes": 50.0,
-      "comment_timestamp": 3809.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "3800.0s - 3806.0s",
-          "query": "VISUAL: A man in a blue suit with a yellow tie is speaking into a microphone. He's gesturing with his hands while talking. The background has red curtains.AUDIO: There's a male voice speaking about water getting rid of something and looking into it to get it done. It seems like he's explaining or narrating an issue related to water. So, what do you think about this? Any thoughts on why they might be having trouble with the water?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "3806.0s - 3812.0s",
-          "query": "VISUAL: There's a man with light-colored hair wearing a blue suit and yellow tie speaking into a microphone. He has an American flag pin on his lapel. His hands are gesturing while he speaks. The background is red curtains.AUDIO: A male voice is speaking about having water for land and forests, mentioning that the forests are dry. It seems to be a serious discussion. So, what do you think about this? Do you have any other videos or questions related to this?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "3812.0s - 3818.0s",
-          "query": "VISUAL: There's a man with light-colored hair wearing a blue suit and yellow tie speaking into a microphone. He has an American flag pin on his lapel. His hands are gesturing while he speaks. The background is red curtains.AUDIO: A male voice is speaking about something dangerous related to water routing. It seems like there might be some concern or warning being expressed.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 380.9526867866516
-    },
-    {
-      "comment_index": 4090,
+      "comment_index": 2429,
       "video_id": "hBMoPUAeLnY",
       "comment": "59:57 Trump and Rogan discuss lack of water in LA CALIFORNIA",
       "language": "en",
-      "channel_name": "JoeRogan",
+      "channel_name": "joerogan",
       "category": "podcast",
       "likes": 77.0,
       "comment_timestamp": 3597.0,
@@ -410,58 +259,148 @@
         {
           "segment_index": 1,
           "time_range": "3588.0s - 3594.0s",
-          "query": "VISUAL: There's a man with blonde hair wearing a blue suit and yellow tie speaking into a microphone. He seems to be gesturing with his hands while talking. The background is red curtains.AUDIO: Someone is speaking, saying \"everywhere but let me give you one that you may not know okay which I think you know everything actually.\" It's just speech without any other sounds like music or sound effects.If you have any more questions about it or want to discuss something else related, feel free to let me know!"
+          "query": "Sure! So, visually, there's someone speaking into a microphone against a red curtain backdrop. The person is wearing a suit with a yellow tie. There s also some kind of sign or logo behind them that says \"THE JOE DOGAN EXPERIENCE.\".For the audio, it seems like they re talking about something related to \"Joe Rogan\" and maybe sharing an interesting fact or story. It feels like a casual conversation or podcast-style talk.What do you think? Any other details you noticed?"
         },
         {
           "segment_index": 2,
           "time_range": "3594.0s - 3600.0s",
-          "query": "VISUAL: There's a man in a blue suit with a yellow tie speaking into a microphone. He has light-colored hair. The background is red curtains.AUDIO: Someone is talking about being a student of someone else's, mentioning water. It seems like they're having a conversation or interview. What do you think about it?"
+          "query": "Visual: The video shows a person in a blue suit and yellow tie speaking into a microphone. The background is a red curtain. There's also a sign with \"THE JOE DOGAN EXPERIENCE\" visible. The person is gesturing with their hands while speaking.\n\nAudio: The audio contains speech, likely from the person in the suit. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "3600.0s - 3606.0s",
-          "query": "VISUAL: A man with light-colored hair is speaking into a microphone. He's wearing a blue suit jacket, white shirt, and yellow tie. There's a small American flag pin on his lapel. The background is red curtains.AUDIO: Someone is speaking about Los Angeles not having proper amounts of water, it being expensive, and there might be some other unspecified issue related to it.What do you think about the situation he mentioned?"
+          "query": "Visual: There's a man in a blue suit and yellow tie speaking into a microphone. He's gesturing with his hands. The background is a red curtain. The man has light-colored hair. The lighting is focused on him, making him the main focus of the shot. There's no other significant movement or objects in the frame.\n\nAudio: The man is speaking, and his words are about water in Los Angeles being expensive and not in proper amounts. The tone seems somewhat frustrated or concerned. There are no other sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 314.5559229850769
+      "processing_time": 220.07295441627502
     },
     {
-      "comment_index": 4096,
+      "comment_index": 2430,
       "video_id": "hBMoPUAeLnY",
-      "comment": "1:04:21 LITERALLY CALLED IT OUT ABOUT THE FOREST FIRE. Now look what happened!",
+      "comment": "1:03:29 For people who come to see them discuss CALIFORNIA WILD FIRES, following the devastating Palisades Fire happened yesterday.",
       "language": "en",
-      "channel_name": "JoeRogan",
+      "channel_name": "joerogan",
       "category": "podcast",
-      "likes": 27.0,
-      "comment_timestamp": 3861.0,
+      "likes": 50.0,
+      "comment_timestamp": 3809.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "3852.0s - 3858.0s",
-          "query": "VISUAL: A man in a blue suit with a yellow tie is speaking into a microphone. He's gesturing with his hands while talking. The background has red curtains.AUDIO: There's a male voice speaking about intense heat causing some charring at the bottom but assuring that things will be alright because they're soaking wet.If you have any other thoughts or questions about this video, feel free to share!"
+          "time_range": "3800.0s - 3806.0s",
+          "query": "Visual: A man with light-colored hair wearing a blue suit and yellow tie is speaking into a microphone. He's gesturing with his hands while talking. The background appears to be red curtains.\n\nAudio: There's a male voice speaking clearly over the microphone. It seems like he's delivering some kind of speech or presentation."
         },
         {
           "segment_index": 2,
-          "time_range": "3858.0s - 3864.0s",
-          "query": "VISUAL: There's a man with light-colored hair wearing a blue suit and yellow tie speaking into a microphone. He has an American flag pin on his lapel. His hands are gesturing while he speaks. The background is red curtains.AUDIO: Someone is speaking about something related to water and falling objects, comparing it to lighting a match. It seems like they're explaining or describing a situation.If you have any other thoughts or questions about this video, feel free to share!"
+          "time_range": "3806.0s - 3812.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze from that short time frame. There might be nothing visible or audible at all during those six seconds. But hey, if you have more details about it, like maybe some context or another part of the video, feel free to share!"
         },
         {
           "segment_index": 3,
-          "time_range": "3864.0s - 3870.0s",
-          "query": "VISUAL: A man in a blue suit with a yellow tie is speaking into a microphone. He's gesturing with his hands while talking. The background has red curtains.AUDIO: There's a male voice speaking, saying something about cleaning and maintaining forests with the head of Austria. It seems like he's making a point or giving an explanation.If you have any other thoughts or questions about it, feel free to share!"
+          "time_range": "3812.0s - 3818.0s",
+          "query": "Visually, there's someone wearing a blue suit with a yellow tie speaking into a microphone. The background is red curtains. There aren't any other objects or people visible.Action-wise, they're gesturing with their hands while talking.Audibly, it's just the person speaking. No other sounds like music or sound effects are present.What do you think about that? Do you have any other questions related to the video?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 407.8844680786133
+      "processing_time": 206.2983043193817
     },
     {
-      "comment_index": 4094,
+      "comment_index": 2431,
       "video_id": "hBMoPUAeLnY",
-      "comment": " [USER]  Listen what he is talking from 1:02:10",
+      "comment": "1:03:30 is the fire quote you are looking for",
       "language": "en",
-      "channel_name": "JoeRogan",
+      "channel_name": "joerogan",
+      "category": "podcast",
+      "likes": 45.0,
+      "comment_timestamp": 3810.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "3801.0s - 3807.0s",
+          "query": "Visual: The video shows a person in a blue suit with a yellow tie speaking into a microphone. The background is a red curtain. The person is gesturing with their hands while speaking.\n\nAudio: The audio contains speech, likely from the person in the suit. There are no other sounds or music in the background."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "3807.0s - 3813.0s",
+          "query": "Visually, there's a person in a blue suit with a yellow tie speaking into a microphone. The background is a red curtain. The person is gesturing with their hands while speaking. There's no other significant movement or objects in the scene.\n\nAudio-wise, there's a man speaking. The speech is clear and seems to be the main focus. There are no other sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "3813.0s - 3819.0s",
+          "query": "Visual: A person wearing a blue suit with a yellow tie is speaking into a microphone against a red curtain backdrop. The person's hands are gesturing while they speak.\n\nAudio: There is a male voice speaking, likely delivering a speech or presentation."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 172.08179903030396
+    },
+    {
+      "comment_index": 2432,
+      "video_id": "hBMoPUAeLnY",
+      "comment": "I love how Rogan affirms \"You're allowed to have an opinion.\" lol  (2:33:17) Great interview! The conversational format is really amazing, instead of \"talking points\" and teleprompters. Thanks Joe!👍",
+      "language": "en",
+      "channel_name": "joerogan",
+      "category": "podcast",
+      "likes": 42.0,
+      "comment_timestamp": 9197.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "9188.0s - 9194.0s",
+          "query": "Well, in the visual part, there's a man in a blue suit with a yellow tie. He's standing in front of a red curtain and speaking into a microphone. He's gesturing with his hands as he talks. In the audio part, it's just the man speaking. He seems to be talking about something that's causing confusion, like \"having it goes all over the place and down and around and they say we'll need two weeks to figure out who the hell won the.\" It's a bit of a jumbled sentence, but it gives a sense of some kind of competition or contest that's unclear. So, what do you think about this? Do you have any ideas about what he might be talking about?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "9194.0s - 9200.0s",
+          "query": "Visually, there's a man in a suit and tie speaking into a microphone. The background has a red curtain. There's also a sign that says \"THE JOE ROGAN EXPERIENCE.\" The man seems to be sitting down, possibly at a desk or table. The lighting is focused on him, making him the main focus of the shot. There's no significant movement in the scene, just the man speaking."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "9200.0s - 9206.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.85 GiB is free. Including non-PyTorch memory, this process has 15.70 GiB memory in use. Of the allocated memory 13.60 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 319.1351101398468
+    },
+    {
+      "comment_index": 2433,
+      "video_id": "hBMoPUAeLnY",
+      "comment": "59:56 WATER",
+      "language": "en",
+      "channel_name": "joerogan",
+      "category": "podcast",
+      "likes": 36.0,
+      "comment_timestamp": 3596.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "3587.0s - 3593.0s",
+          "query": "Visual: The video shows a man in a suit and tie speaking into a microphone. He's standing in front of a red curtain. There's a sign in the background that says \"THE JOE ROGAN EXPERIENCE.\" The man is gesturing with his hands as he speaks. The setting seems to be a stage or a studio.\n\nAudio: The audio is of a man speaking. He's talking about something, but the specific content isn't clear from just the 6 seconds. There are no other sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "3593.0s - 3599.0s",
+          "query": "Visually, there's a man in a blue suit and yellow tie speaking into a microphone. He's gesturing with his hands. The background is red curtains. There's also a sign that says \"THE JOE DOGAN EXPERIENCE\" in the background. The man seems to be in a formal setting, like a studio or a stage. There's also a bald man in a suit laughing in the background. The scene looks like it could be from a talk show or a similar event."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "3599.0s - 3605.0s",
+          "query": "Visually, there's a person in a blue suit and yellow tie speaking into a microphone. The background is a red curtain. The person is gesturing with their hands while speaking. There's no other significant movement or objects in the scene.\n\nAudio-wise, there's a man speaking. The speech is about not being able to get proper amounts of water in Los Angeles, and it's described as unbelievable."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 255.51291179656982
+    },
+    {
+      "comment_index": 2434,
+      "video_id": "hBMoPUAeLnY",
+      "comment": " @aimer730  Listen what he is talking from 1:02:10",
+      "language": "en",
+      "channel_name": "joerogan",
       "category": "podcast",
       "likes": 36.0,
       "comment_timestamp": 3730.0,
@@ -470,58 +409,88 @@
         {
           "segment_index": 1,
           "time_range": "3721.0s - 3727.0s",
-          "query": "VISUAL: There's a man with a bald head wearing a black shirt sitting in front of a microphone. He seems to be speaking into it. Behind him is a wooden wall with a neon sign that says \"THE JOE ROGAN EXPERIENCE\" in yellow and red letters.AUDIO: The main thing heard is someone talking about Thai forests burning down all over and mentioning the head of Austria's ideas related to Tulare Lake or something similar.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.05 GiB. GPU 1 has a total capacity of 23.56 GiB of which 2.99 GiB is free. Including non-PyTorch memory, this process has 20.56 GiB memory in use. Of the allocated memory 16.25 GiB is allocated by PyTorch, and 4.00 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 2,
           "time_range": "3727.0s - 3733.0s",
-          "query": "VISUAL: There's a man with a bald head wearing a black shirt sitting in front of a wooden wall with a neon sign that says \"THE JOE ROGAN EXPERIENCE\". He seems to be looking at something off - screen. There's also a computer screen showing some text about Tule Lake, which is a freshwater lake in California.AUDIO: Someone is speaking, but it's not clear who or what they're saying. It could be related to the content on the computer screen about Tule Lake. There are no other distinct sounds like music or sound effects.If you have any more questions about this video or want to discuss something else, feel free to let me know!"
+          "query": "Visually, there's a man in a black shirt sitting in front of a computer screen. The screen shows some text, and there's a neon sign in the background that says \"THE JOE ROGAN EXPERIENCE.\" The man seems to be looking at the screen and possibly typing or reading something. The setting looks like an office or a studio. The colors are mostly muted, with the neon sign being the brightest element. There's not much movement, just the man's slight head movements as he interacts with the screen.Audibly, there's a voice speaking, but the content of the speech isn't clear from this description. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "3733.0s - 3739.0s",
-          "query": "VISUAL: There's a man with a bald head wearing a black shirt sitting in front of a wooden wall with \"THE JOE ROGAN EXPERIENCE\" written on it in neon lights. He seems to be looking at something off - screen. There's also a computer screen showing some text about Tulare Lake.AUDIO: Someone is speaking, saying that Tulare Lake was one of the largest freshwater lakes west of the Mississippi River and asking for a photo of what it looked like back then.So, what do you think about this? Do you have any other questions related to this?"
+          "query": "Visually, there's a man in a black shirt sitting in front of a computer screen. He's looking at the screen, which shows some text. Behind him, there's a sign that says \"THE JOE ROGAN EXPERIENCE\" in bright yellow and red lights. The background seems to be a wooden wall. There's also a small white object on the left side of the frame, but it's not clear what it is. The man doesn't seem to be moving much, just looking at the screen. The colors are mainly the yellow and red of the sign, the black of the man's shirt, and the brown of the wooden wall. The overall scene looks like it might be from a podcast or interview setup."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 567.9691228866577
+      "processing_time": 323.82298946380615
     },
     {
-      "comment_index": 4097,
+      "comment_index": 2435,
       "video_id": "hBMoPUAeLnY",
-      "comment": "1:01:20 California wildfires 🔥",
+      "comment": "30:00 stood out to me. “Be negative, that’s okay.” He’s permitting his friends and supporters to be critical so that they can be more well off. Politics aside, that response emits a level of security and self-confidence.",
       "language": "en",
-      "channel_name": "JoeRogan",
+      "channel_name": "joerogan",
       "category": "podcast",
-      "likes": 26.0,
-      "comment_timestamp": 3680.0,
+      "likes": 31.0,
+      "comment_timestamp": 1800.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "3671.0s - 3677.0s",
-          "query": "VISUAL: There's a man with light-colored hair wearing a blue suit and yellow tie speaking into a microphone. He has an American flag pin on his lapel. His hands are gesturing while he speaks. The background is red curtains.AUDIO: A male voice is speaking about different types of land suitable for growing potatoes and corns, expressing admiration for farmers. It seems to be a calm and clear speech without any other distinct sounds or music. So, what do you think about this? Do you have any other videos you want me to analyze?"
+          "time_range": "1791.0s - 1797.0s",
+          "query": "Visually, there's someone wearing a blue suit with a yellow tie speaking into a microphone against a red curtain backdrop. The person is gesturing with their hands while talking.\n\nAudio-wise, it seems like they're delivering some kind of speech or statement. There aren't any other noticeable sounds besides the speech itself."
         },
         {
           "segment_index": 2,
-          "time_range": "3677.0s - 3683.0s",
-          "query": "VISUAL: A man with light-colored hair is speaking into a microphone. He's wearing a blue suit jacket, white shirt, and yellow tie. There's an American flag pin on his lapel. The background is red curtains.AUDIO: Someone is speaking, saying \"they're the greatest\" and then mentioning that they're getting killed because of a stupid administration. It seems to be a political or controversial statement.If you have any other thoughts about this video or want to discuss it further, feel free to let me know!"
+          "time_range": "1797.0s - 1803.0s",
+          "query": "Visually, there's someone speaking into a microphone against a red curtain backdrop. They're wearing a blue suit with a yellow tie. The person seems to be gesturing while talking.\n\nAudio-wise, it's just the man speaking. There doesn't seem to be any other background noise or music."
         },
         {
           "segment_index": 3,
-          "time_range": "3683.0s - 3689.0s",
-          "query": "VISUAL: There's a man with light-colored hair wearing a blue suit and yellow tie speaking into a microphone. He has an American flag pin on his lapel. His hands are gesturing while he speaks. The background is red curtains.AUDIO: Someone is speaking, saying \"So I see this and I said you gotta be kidding. I said you mean you have water and I look.\" It seems like they're reacting to something surprising or unexpected.What do you think about that reaction?"
+          "time_range": "1803.0s - 1809.0s",
+          "query": "Visually, there's someone wearing a blue suit with a yellow tie speaking into a microphone against a red curtain backdrop. The person seems to be standing still while talking.\n\nAudio-wise, it's just the man speaking clearly without any background noise or other sounds. He's saying something about being paid a lot but having to be negative."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 534.6620771884918
+      "processing_time": 128.5410132408142
     },
     {
-      "comment_index": 4098,
+      "comment_index": 2436,
+      "video_id": "hBMoPUAeLnY",
+      "comment": "1:04:21 LITERALLY CALLED IT OUT ABOUT THE FOREST FIRE. Now look what happened!",
+      "language": "en",
+      "channel_name": "joerogan",
+      "category": "podcast",
+      "likes": 27.0,
+      "comment_timestamp": 3861.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "3852.0s - 3858.0s",
+          "query": "Well, in the visual part, there's a person in a blue suit with a yellow tie. They're standing in front of a red curtain and speaking into a microphone. Their hands are moving as they talk, which suggests they're making some kind of point or explaining something. In the audio part, it's just the person speaking. There's no music or sound effects, just their voice. It seems like they're delivering a speech or some kind of presentation. What do you think about this? Do you have any other thoughts or questions?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "3858.0s - 3864.0s",
+          "query": "Well, I'm not sure if there's anything specific to analyze here. The video seems to be just showing someone speaking into a microphone against a red curtain background. There doesn't seem to be any other objects or actions really standing out. And for the audio, it looks like there might be some kind of speech going on, but without more details, it's hard to say exactly what is being said. What do you think? Do you have any other thoughts about this video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "3864.0s - 3870.0s",
+          "query": "Visually, there's someone wearing a blue suit with a yellow tie speaking into a microphone against a red curtain backdrop. The person is gesturing with their hands while talking.\n\nAudio-wise, it seems like they're delivering some kind of speech or statement. There aren't any other noticeable sounds besides the speech itself."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 205.1179394721985
+    },
+    {
+      "comment_index": 2437,
       "video_id": "hBMoPUAeLnY",
       "comment": "1:03:10 he literally explains it",
       "language": "en",
-      "channel_name": "JoeRogan",
+      "channel_name": "joerogan",
       "category": "podcast",
       "likes": 26.0,
       "comment_timestamp": 3790.0,
@@ -530,28 +499,88 @@
         {
           "segment_index": 1,
           "time_range": "3781.0s - 3787.0s",
-          "query": "VISUAL: A man in a blue suit with a yellow tie is speaking into a microphone. He's gesturing with his hands while talking. The background has red curtains.AUDIO: There's a male voice speaking about water and something related to Devin Nunez being a congressman. It seems like he's discussing some kind of situation or idea involving water and politics.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Well, I can't actually analyze that video for you since I don't have access to it. But if you describe what's happening visually or tell me what he says verbally, I'd be happy to help break it down into two parts! So, go ahead and share those details with me."
         },
         {
           "segment_index": 2,
           "time_range": "3787.0s - 3793.0s",
-          "query": "VISUAL: There's a man with light-colored hair wearing a blue suit and yellow tie speaking into a microphone. He seems to be gesturing with his hands while talking. The background is red curtains.AUDIO: A male voice is speaking about visiting a place because other congressmen asked him to go up there and visit their territory. It's just speech without any music or sound effects. So, what do you think about this? Any thoughts on why he might have been asked to visit?"
+          "query": "Sure! So, visually, there's someone wearing a blue suit with a yellow tie standing behind a microphone. The background is red curtains. In terms of audio, it seems like they're speaking, probably giving some kind of talk or presentation.What do you think about that? Any other details you noticed?"
         },
         {
           "segment_index": 3,
           "time_range": "3793.0s - 3799.0s",
-          "query": "VISUAL: There's a man with light-colored hair wearing a blue suit and yellow tie speaking into a microphone. He has an American flag pin on his lapel. The background is red curtains.AUDIO: Someone is speaking about how they kept saying that the land was beautiful but dry, thinking others were going through something similar. It seems like a narration or monologue. So, what do you think about this? Do you have any other videos to analyze?"
+          "query": "Visually, there's a person in a blue suit and yellow tie speaking into a microphone. The background is a red curtain. The person seems to be gesturing with their hands while speaking. There's no other significant movement or objects in the frame.\n\nAudio-wise, there's a man speaking. The speech is clear and seems to be the main focus. There are no other sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 442.76106119155884
+      "processing_time": 148.37544679641724
     },
     {
-      "comment_index": 4100,
+      "comment_index": 2438,
+      "video_id": "hBMoPUAeLnY",
+      "comment": "1:01:20 California wildfires 🔥",
+      "language": "en",
+      "channel_name": "joerogan",
+      "category": "podcast",
+      "likes": 26.0,
+      "comment_timestamp": 3680.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "3671.0s - 3677.0s",
+          "query": "**Visual:** The video shows Donald Trump speaking into a microphone while gesturing with his hands. He's wearing a blue suit jacket and a yellow tie. Behind him is a red curtain.\n\n**Audio:** Trump is talking about how some land is good for potatoes and corn, expressing admiration for farmers. There are no other noticeable sounds or music."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "3677.0s - 3683.0s",
+          "query": "Well, I can't really analyze that video for you because it's not available to me right now. But if you could describe it to me or share some details about it, I'd be happy to help! What do you think?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "3683.0s - 3689.0s",
+          "query": "Visually, there's a person in a blue suit with a yellow tie speaking into a microphone. The background is red curtains. The person is gesturing with their hands while speaking. There's no other significant movement or objects in the scene.\n\nAudio-wise, there's a man speaking. He says, \"So I see this and I said you gotta be kidding. I said you mean you have what and I look.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 155.05212664604187
+    },
+    {
+      "comment_index": 2439,
+      "video_id": "hBMoPUAeLnY",
+      "comment": "You're welcome: 00:15 - Joe and Trump discuss Trump’s appearance on The View in 2015, highlighting media treatment before and after his presidency 05:47 - Trump reflects on his transition from The Apprentice to running for president 12:41 - Joe asks Trump about his expectations upon entering office vs. the reality of governing 17:22 - Trump discusses the challenge of appointing officials as a political outsider 23:40 - Conversation on early political support and endorsements Trump received 28:33 - Joe references a viral video showing U.S. troops in combat zones, fact-checking debate claims about troop presence 32:14 - Discussion on 60 Minutes allegedly editing Kamala Harris’ response, calling it “fraudulent” 35:21 - Joe and Trump discuss media bias and the portrayal of politicians in debates 39:05 - Conversation on the impact of “defund the police” rhetoric on police morale 44:30 - Trump shares his admiration for Elon Musk; Joe mentions the video of the SpaceX rocket landing 50:02 - Trump proposes tariffs as an economic tool and suggests an alternative to income tax 56:21 - Discussion on The Apprentice and the public perception of Trump as a TV personality before politics 1:01:47 - Trump reviews his first-term economic policies and the impact of COVID-19 on U.S. growth 1:07:15 - Discussion on U.S. energy independence and Trump’s support for oil production 1:13:03 - Trump criticizes environmental restrictions for slowing down infrastructure 1:17:25 - Joe and Trump discuss the environmental and regulatory hurdles faced by businesses 1:19:36 - Joe highlights California’s water issues and environmental policy on rationing 1:25:55 - They discuss homelessness in cities and reactions to clean-ups for international visitors 1:32:11 - Trump shares his view on consultants profiting from environmental regulations 1:36:04 - Joe mentions viral footage related to military action and media reporting standards 1:39:47 - Trump discusses negotiating with world leaders, especially on trade 1:43:22 - Trump and Joe debate the role of tariffs and trade as a strategy 1:46:09 - Reflections on international relations and Trump’s goals for securing U.S. interests 1:52:50 - Discussion on how other countries perceive U.S. influence, particularly in regard to China 1:58:17 - Trump reflects on media portrayal over time and the shift in public perception 2:03:55 - Joe brings up a viral video used to fact-check recent government claims 2:05:40 - Discussion on new independent media gaining credibility over traditional outlets 2:12:26 - Joe emphasizes the public’s preference for authenticity in politicians, referencing Trump’s non-traditional approach 2:18:45 - Trump reflects on how former allies and celebrities have changed their stance on him 2:22:10 - Trump mentions old footage of him on Oprah, reflecting on the changes in public opinion 2:25:12 - Joe discusses how mainstream media shapes narratives and reinforces political biases 2:31:08 - Discussion on Elon Musk’s endorsement and Starlink’s role in disaster recovery 2:35:33 - Joe mentions SpaceX and other viral moments showcasing American innovation 2:38:01 - Trump talks about building U.S. infrastructure and his goals for economic resilience 2:43:30 - Trump critiques current environmental policies and advocates for U.S. energy solutions 2:50:14 - Joe raises concerns about distrust in institutions and the impact on American unity 2:56:40 - Trump discusses his vision for U.S. manufacturing and future economic growth 3:02:30 - Closing reflections on Trump’s journey from business to politics and his goals for a potential second term",
+      "language": "en",
+      "channel_name": "joerogan",
+      "category": "podcast",
+      "likes": 22.0,
+      "comment_timestamp": 2670.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "2661.0s - 2667.0s",
+          "query": "Well, I can't actually watch videos directly here. But if you describe them to me, I'll be happy to analyze them for you! What do you see?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "2667.0s - 2673.0s",
+          "query": "Well, I'm not sure if there's actually anything to analyze here. The instruction seems incomplete or incorrect. There's no mention of Starlink going down to North Carolina in that short clip. So, it's hard to give an accurate analysis based on just these few seconds.Does that help? If you have any other questions about something else, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "2673.0s - 2679.0s",
+          "query": "Visually, there's someone wearing a blue suit with a yellow tie speaking into a microphone against a red curtain backdrop. The person is gesturing with their hands while talking.\n\nAudio-wise, it's just the man speaking without any background music or sound effects. His voice seems to be the main focus."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 113.39390802383423
+    },
+    {
+      "comment_index": 2440,
       "video_id": "hBMoPUAeLnY",
       "comment": "1:03:00 Trump called it.  Today is 1/8/25 and CA is burning to the ground.",
       "language": "en",
-      "channel_name": "JoeRogan",
+      "channel_name": "joerogan",
       "category": "podcast",
       "likes": 22.0,
       "comment_timestamp": 3780.0,
@@ -560,51 +589,21 @@
         {
           "segment_index": 1,
           "time_range": "3771.0s - 3777.0s",
-          "query": "VISUAL: There's a bald man wearing a black shirt sitting in front of a microphone. He seems to be talking or recording something. Behind him is a wooden wall with a neon sign that says \"THE JOE ROGAN EXPERIENCE\" in yellow and red letters.AUDIO: The main thing heard is someone speaking. It sounds like they're having a conversation or doing an interview. There aren't any other distinct sounds like music or sound effects.If you want to know more about this kind of analysis or have another video to analyze, feel free to ask!"
+          "query": "**Visual:** There's a bald man in a black shirt sitting in front of a microphone. Behind him, there's a wooden wall with a neon sign that says \"THE JOE DOGAN EXPERIENCE.\" The man is talking and gesturing with his hands. The setting looks like a studio or a podcast room.\n\n**Audio:** The man is speaking, and his voice is clear. He seems to be discussing something related to lakes going dry, mentioning it a few times. There are no other sounds or music in the background."
         },
         {
           "segment_index": 2,
           "time_range": "3777.0s - 3783.0s",
-          "query": "VISUAL: There's a man with a bald head wearing a black shirt sitting in front of a microphone. Behind him is a sign that says \"THE JOE ROGAN EXPERIENCE\" in neon lights. The background has wooden panels. Then there's another scene where a man in a blue suit and yellow tie is speaking into a microphone against a red curtain backdrop.AUDIO: Someone is talking about water needs and land having more water, suggesting it could be like something else. It seems to be a discussion or interview type of setting. What do you think about these two scenes?"
+          "query": "Visually, there's a man in a suit and tie speaking into a microphone. He seems to be in a formal setting, possibly a studio or a stage, with a curtain backdrop. There's also a sign that says \"THE JOE ROGAN EXPERIENCE\" in the background. The man is gesturing with his hands while speaking.\n\nIn terms of audio, it's just the man speaking. There are no other sounds like music, sound effects, or ambient noises."
         },
         {
           "segment_index": 3,
           "time_range": "3783.0s - 3789.0s",
-          "query": "VISUAL: A man in a blue suit with a yellow tie is speaking into a microphone. He's gesturing with his hands while talking. The background has red curtains.AUDIO: There's a male voice speaking, saying something about being with Devin Nunez as a congressman and other congressmen going up. It seems like he's recounting an experience or story.If you have any more questions about it or want to discuss further, feel free to let me know."
+          "query": "Visually, there's a man in a blue suit and yellow tie speaking into a microphone. He's gesturing with his hands. The background is red curtains. There's no other significant movement or objects in the scene. In the audio, there's a man speaking, but the content of what he's saying isn't clear from this short segment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 520.2937397956848
-    },
-    {
-      "comment_index": 4099,
-      "video_id": "hBMoPUAeLnY",
-      "comment": "You're welcome: 00:15 - Joe and Trump discuss Trump’s appearance on The View in 2015, highlighting media treatment before and after his presidency 05:47 - Trump reflects on his transition from The Apprentice to running for president 12:41 - Joe asks Trump about his expectations upon entering office vs. the reality of governing 17:22 - Trump discusses the challenge of appointing officials as a political outsider 23:40 - Conversation on early political support and endorsements Trump received 28:33 - Joe references a viral video showing U.S. troops in combat zones, fact-checking debate claims about troop presence 32:14 - Discussion on 60 Minutes allegedly editing Kamala Harris’ response, calling it “fraudulent” 35:21 - Joe and Trump discuss media bias and the portrayal of politicians in debates 39:05 - Conversation on the impact of “defund the police” rhetoric on police morale 44:30 - Trump shares his admiration for Elon Musk; Joe mentions the video of the SpaceX rocket landing 50:02 - Trump proposes tariffs as an economic tool and suggests an alternative to income tax 56:21 - Discussion on The Apprentice and the public perception of Trump as a TV personality before politics 1:01:47 - Trump reviews his first-term economic policies and the impact of COVID-19 on U.S. growth 1:07:15 - Discussion on U.S. energy independence and Trump’s support for oil production 1:13:03 - Trump criticizes environmental restrictions for slowing down infrastructure 1:17:25 - Joe and Trump discuss the environmental and regulatory hurdles faced by businesses 1:19:36 - Joe highlights California’s water issues and environmental policy on rationing 1:25:55 - They discuss homelessness in cities and reactions to clean-ups for international visitors 1:32:11 - Trump shares his view on consultants profiting from environmental regulations 1:36:04 - Joe mentions viral footage related to military action and media reporting standards 1:39:47 - Trump discusses negotiating with world leaders, especially on trade 1:43:22 - Trump and Joe debate the role of tariffs and trade as a strategy 1:46:09 - Reflections on international relations and Trump’s goals for securing U.S. interests 1:52:50 - Discussion on how other countries perceive U.S. influence, particularly in regard to China 1:58:17 - Trump reflects on media portrayal over time and the shift in public perception 2:03:55 - Joe brings up a viral video used to fact-check recent government claims 2:05:40 - Discussion on new independent media gaining credibility over traditional outlets 2:12:26 - Joe emphasizes the public’s preference for authenticity in politicians, referencing Trump’s non-traditional approach 2:18:45 - Trump reflects on how former allies and celebrities have changed their stance on him 2:22:10 - Trump mentions old footage of him on Oprah, reflecting on the changes in public opinion 2:25:12 - Joe discusses how mainstream media shapes narratives and reinforces political biases 2:31:08 - Discussion on Elon Musk’s endorsement and Starlink’s role in disaster recovery 2:35:33 - Joe mentions SpaceX and other viral moments showcasing American innovation 2:38:01 - Trump talks about building U.S. infrastructure and his goals for economic resilience 2:43:30 - Trump critiques current environmental policies and advocates for U.S. energy solutions 2:50:14 - Joe raises concerns about distrust in institutions and the impact on American unity 2:56:40 - Trump discusses his vision for U.S. manufacturing and future economic growth 3:02:30 - Closing reflections on Trump’s journey from business to politics and his goals for a potential second term",
-      "language": "en",
-      "channel_name": "JoeRogan",
-      "category": "podcast",
-      "likes": 22.0,
-      "comment_timestamp": 4645.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "4636.0s - 4642.0s",
-          "query": "VISUAL: A man with light-colored hair is speaking into a microphone. He's wearing a blue suit jacket, white shirt, and yellow tie. There's a red curtain behind him. He seems to be gesturing with his hands while talking.AUDIO: Someone is speaking, saying something about interviewing \"like two hundred fifty one people\" and not wanting to get involved in certain cases. It sounds like they're discussing an interview process or some sort of selection method.If you have any other thoughts on this or want to discuss it further, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "4642.0s - 4648.0s",
-          "query": "VISUAL: A man with light-colored hair is speaking into a microphone. He's wearing a blue suit jacket, white shirt, and yellow tie. There's a small American flag pin on his lapel. The background consists of red curtains.AUDIO: Someone is speaking, saying \"myself in too much I think it's they sit there they make a deal they get a half a million bucks and they say.\" It seems like a conversation or interview. What do you think about this?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "4648.0s - 4654.0s",
-          "query": "VISUAL: A man in a blue suit with a yellow tie is speaking into a microphone. He's standing against a red curtain background. He gestures with his hands while talking.AUDIO: There's a male voice speaking, saying \"Trump's leading fifty one to forty nine they announce it everybody says oh do you understand yeah.\" It seems like he's explaining something about Trump's lead in some kind of poll or contest.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 330.8597536087036
+      "processing_time": 274.3231461048126
     }
   ]
 }

@@ -1,12 +1,162 @@
 {
   "video_id": "e8laLiWolGg",
   "total_comments": 20,
-  "successful_comments": 20,
-  "failed_comments": 0,
-  "success_rate": "100.0%",
+  "successful_comments": 17,
+  "failed_comments": 3,
+  "success_rate": "95.0%",
   "comments": [
     {
-      "comment_index": 3592,
+      "comment_index": 1761,
+      "video_id": "e8laLiWolGg",
+      "comment": "Una canción capaz de capturar la esencia de lo que representa realmente el futbol. Y es que no solo es una competencia más, es un evento en el cual todos, quienes disfrutamos de este deporte, nos sentimos identificados y conectados a través de la cultura. Agradezco a Dios por permitirme apreciar tan lindo evento. Así como La Copa de la Vida, Bamboo y Waka Waka; esta canción trae y traerá a la mente ese recuerdo de la gran categoría de los buenos mundiales vividos. Gracias FIFA, esta es la clase de CANCIONES que debes producir para un MUNDIAL; cualquiera que ame el futbol y escuche esta canción, le dará ganas de buscar un balón para ponerse a jugar. Saturday, December, 3  8:58AM GMT-5",
+      "language": "en",
+      "channel_name": "fifa",
+      "category": "sports",
+      "likes": 241.0,
+      "comment_timestamp": 538.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "529.0s - 535.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "535.0s - 541.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "541.0s - 547.0s",
+          "query": "Inference error: 'video_fps'"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.005557060241699219
+    },
+    {
+      "comment_index": 1762,
+      "video_id": "e8laLiWolGg",
+      "comment": "00:55 la parte más hermosa y nostálgica. Argentina campeón del mundo, mi país querido! Voy a recordar por siempre este campeonato con esta maravillosa canción!!!",
+      "language": "en",
+      "channel_name": "fifa",
+      "category": "sports",
+      "likes": 65.0,
+      "comment_timestamp": 55.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "46.0s - 52.0s",
+          "query": "Visually, there are people in a dimly lit room, possibly a club or party setting. Some are dancing, and there's a person in the foreground with a glowing blue light on their head. The background has colorful lights and a bar area. The scene is lively and energetic.\n\nAudibly, there's upbeat music playing throughout the segment. It's a dance track with a strong rhythm and some male vocals."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "52.0s - 58.0s",
+          "query": "Visual: The video shows a person in a dimly lit environment, possibly a club or a party setting. There's smoke in the air, and the person is wearing sunglasses and a patterned shirt. They seem to be dancing or moving rhythmically. The background is blurry, with some lights and other people visible, suggesting a lively, energetic atmosphere.\n\nAudio: The audio features music playing throughout the segment. It's upbeat and rhythmic, likely suitable for dancing or a party. There are no distinct speech or sound effects in this short clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "58.0s - 64.0s",
+          "query": "Visual: The video shows a group of people in a dimly lit room, possibly a bar or club. They are dancing and having fun. There are colorful lights and decorations in the background. The people are dressed casually, some wearing hats and sunglasses. The scene is lively and energetic.\n\nAudio: There is music playing in the background, creating a festive and upbeat atmosphere. The music seems to be a mix of different genres, adding to the dynamic feel of the video."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 283.54349732398987
+    },
+    {
+      "comment_index": 1763,
+      "video_id": "e8laLiWolGg",
+      "comment": "0:52 pura nostalgia",
+      "language": "en",
+      "channel_name": "fifa",
+      "category": "sports",
+      "likes": 49.0,
+      "comment_timestamp": 52.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "43.0s - 49.0s",
+          "query": "Visual: The video shows a group of people in a dimly lit room with colorful neon lights. They seem to be engaged in some kind of activity, possibly playing a game or socializing. The people are dressed casually, and there's a sense of movement and interaction among them. The colors are vibrant, with red, blue, and pink neon lights creating a lively atmosphere.\n\nAudio: There's music playing in the background throughout the video. It's upbeat and energetic, adding to the overall mood of the scene. There are no distinct speech or sound effects, just the continuous music."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "49.0s - 55.0s",
+          "query": "Visual: The video shows a lively nightclub scene. There are people dancing and having fun. The lighting is dim with colorful lights, creating a vibrant and energetic atmosphere. The crowd is diverse, with some people raising their hands and others moving rhythmically to the music. The background has some equipment and structures typical of a club setting.\n\nAudio: The audio features upbeat music playing throughout the segment. There are no distinct speech or sound effects, just the continuous music that matches the energetic vibe of the nightclub."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "55.0s - 61.0s",
+          "query": "Visual: The video shows a group of people dancing in a dimly lit room. There are colorful lights flashing around, creating a vibrant and energetic atmosphere. The people are dressed in various outfits, some in casual clothes and others in more elaborate attire. They seem to be enjoying themselves, moving rhythmically to the music. The scene gives off a party or club vibe.\n\nAudio: There is music playing in the background throughout the video. It's upbeat and lively, matching the energetic mood of the dancing people. There are no distinct speech or sound effects, just the continuous music."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 284.29796719551086
+    },
+    {
+      "comment_index": 1764,
+      "video_id": "e8laLiWolGg",
+      "comment": "0:40 la mejor parte 😎",
+      "language": "en",
+      "channel_name": "fifa",
+      "category": "sports",
+      "likes": 44.0,
+      "comment_timestamp": 40.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "31.0s - 37.0s",
+          "query": "Visually, there are several people in a dimly lit room. They seem to be in a group, some standing and some sitting. The lighting is mostly blue and orange, creating a somewhat eerie or intense atmosphere. There are some objects around, like what looks like a table or counter in the background. The people are mostly still, but there's a bit of movement as they shift their positions or look around.Audibly, there's music playing throughout the segment. It's a lively, upbeat type of music, possibly pop or dance music. There are no distinct speech or sound effects, just the continuous music."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "37.0s - 43.0s",
+          "query": "Sure! Here's a concise analysis of the video segment:.Visual: The video shows a group of people in what appears to be a lively, possibly club-like setting. There are bright lights and a crowd in the background. The people are dressed in colorful, casual clothing, and some are dancing or moving energetically. The overall scene is vibrant and dynamic, with a lot of movement and activity.Audio: The audio features music playing throughout the segment. There are no distinct speech or sound effects, just the continuous music."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "43.0s - 49.0s",
+          "query": "Sure! So, visually, there's a group of people gathered around a foosball table. They seem to be playing or watching it closely. The setting looks like an indoor space with some colorful lights in the background. There s also someone walking through a hallway with a suitcase, which gives off a travel vibe.Audience-wise, there s upbeat music playing throughout, creating a lively atmosphere. No specific speech is heard, just that energetic music.Anything else you want to know about the video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 250.5420868396759
+    },
+    {
+      "comment_index": 1765,
+      "video_id": "e8laLiWolGg",
+      "comment": "1:11 mi parte favorita de está joyita de canción: en unos años la nostalgia se va a sentir 🥺",
+      "language": "en",
+      "channel_name": "fifa",
+      "category": "sports",
+      "likes": 43.0,
+      "comment_timestamp": 71.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "62.0s - 68.0s",
+          "query": "Visual: The video shows a man in a suit and tie, wearing headphones, standing in front of a green screen with a soccer field diagram. He appears to be speaking or presenting. The background also includes some charts and a red light. There's a quick transition to a scene with people dancing in a dimly lit room with red lighting and smoke. The people are moving energetically, some raising their hands.\n\nAudio: The audio features music playing in the background throughout the video."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "68.0s - 74.0s",
+          "query": "Visual: The video shows a group of people in a dimly lit, colorful environment, likely a club or party setting. There are bright neon lights, and the people are dancing and moving energetically. The scene has a lively and vibrant atmosphere.\n\nAudio: The audio features music playing in the background, which seems to be upbeat and energetic, matching the mood of the visual. There are no distinct speech or sound effects heard."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "74.0s - 80.0s",
+          "query": "Visually, there are multiple people in the scene. They seem to be in a lively, possibly urban or club-like setting. Some are dancing, and there's a sense of movement and energy. The lighting is dim with colorful, possibly neon, accents. There are also some objects like what might be musical instruments or equipment in the background. The overall scene gives off a party or performance vibe.\n\nAudio-wise, there's music playing throughout the segment. It's upbeat and energetic, fitting the lively visual. There are also some voices, likely from the people in the scene, but they're not clearly audible enough to make out specific words."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 305.4233419895172
+    },
+    {
+      "comment_index": 1766,
       "video_id": "e8laLiWolGg",
       "comment": "0:48 start of every match 🔥🔥",
       "language": "en",
@@ -19,24 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "39.0s - 45.0s",
-          "query": "VISUAL: There's a man in a white shirt dancing energetically with sunglasses on. He seems to be having fun at some kind of party or event. The background is dark with colorful lights, like red and blue, creating a lively atmosphere. There are also other people around him, some standing still while others are moving too.AUDIO: The audio has a pop song playing throughout the 6 seconds. It's upbeat and has a catchy melody. There aren't any distinct lyrics or spoken words, just the instrumental music.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Visual: The video shows a group of people in a dimly lit, possibly club-like setting. There are several individuals, some standing and some sitting. The lighting is colorful, with reds and blues being prominent. The people seem to be engaged in conversation or socializing. There's a sense of movement as people shift positions and interact.\n\nAudio: The audio features music playing in the background, which is upbeat and energetic. There are no distinct speech or sound effects heard in this short segment."
         },
         {
           "segment_index": 2,
           "time_range": "45.0s - 51.0s",
-          "query": "VISUAL: There's a group of people playing foosball in a dimly lit room with neon lights. One person is kicking a ball on a stage-like area. The players seem to be having fun, cheering and laughing.AUDIO: There's upbeat music playing throughout the video. No specific speech or sound effects are heard. It's just the music that fills the background.If you have any other thoughts about the video or want to discuss it further, feel free to let me know!"
+          "query": "Visual: The video shows a dimly lit room with neon lights in red, blue, and yellow. There are people in the room, some standing and some sitting. One person is sitting at a table with a laptop, and another person is standing nearby. The overall atmosphere seems lively and energetic.\n\nAudio: There is music playing in the background throughout the video."
         },
         {
           "segment_index": 3,
           "time_range": "51.0s - 57.0s",
-          "query": "VISUAL: There's a man wearing sunglasses and a plaid shirt dancing in a dimly lit area with some neon lights. He seems to be having fun. Then there's another person in a white outfit also dancing. The scene has a lively vibe with movement from both individuals.AUDIO: There's music playing throughout the video. It's upbeat and energetic, matching the mood of the dancing. No specific speech or sound effects are heard.If you have any other thoughts about the video or want to discuss it further, feel free to let me know!"
+          "query": "Visual: The video shows a person in a dimly lit, possibly industrial or warehouse-like setting. There are some hanging objects and a person in the background. The person in the foreground is wearing a light-colored shirt and seems to be moving or dancing. The overall color palette is dark with some red and blue lighting.\n\nAudio: There is music playing in the background throughout the video."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 391.21040320396423
+      "processing_time": 281.52259039878845
     },
     {
-      "comment_index": 3593,
+      "comment_index": 1767,
       "video_id": "e8laLiWolGg",
       "comment": "0:53 best paaartttttttt, gonna miss this. thank u qatar !! <3 it’s been 2 months since the opening ceremony 💥",
       "language": "en",
@@ -49,24 +199,35 @@
         {
           "segment_index": 1,
           "time_range": "44.0s - 50.0s",
-          "query": "VISUAL: There's a group of people playing foosball in an indoor setting with colorful lights on the walls. The players seem to be having fun, cheering and clapping. One person is leaning over the table, actively playing. The scene has a lively atmosphere.AUDIO: There's upbeat music playing throughout the video. It gives off a cheerful vibe that matches the energetic mood of the people playing foosball.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "Sure! So, visually, there's a group of people gathered around a foosball table. They seem to be playing or watching it closely. The setting looks like an indoor space with some colorful lights in the background. There s also someone standing up near the table, possibly cheering or reacting to something. In terms of audio, I can hear music playing throughout the clip.Anything else you want me to focus on?"
         },
         {
           "segment_index": 2,
           "time_range": "50.0s - 56.0s",
-          "query": "VISUAL: There's a man wearing sunglasses and a white shirt. He seems to be dancing or moving rhythmically. The background is dark with some colorful lights, like red and blue. There are also some indistinct figures around him, possibly other dancers or people watching.AUDIO: I can hear music playing throughout the whole time. It has a lively feel to it. There aren't any distinct speech or sound effects that stand out.If you have any thoughts on this or want to discuss more about videos, feel free to share!"
+          "query": "Visual: The video shows a man in a white shirt and sunglasses standing in a dimly lit, possibly industrial or warehouse-like setting. There are some pipes and metal structures around him. The lighting is low, with some red and blue hues creating a moody atmosphere. The man seems to be looking around or reacting to something off-screen.\n\nAudio: The audio features music playing in the background, which is likely the main focus of the video. There are no distinct speech or sound effects, just the continuous music."
         },
         {
           "segment_index": 3,
           "time_range": "56.0s - 62.0s",
-          "query": "VISUAL: There's a group of people dancing energetically on a stage or dance floor. The lighting is dim with colorful spotlights creating a vibrant atmosphere. Some people are wearing casual clothes like t - shirts and jeans. They're moving their arms and bodies rhythmically to the music.AUDIO: There's upbeat music playing throughout the clip. It has a lively tempo and seems to be a pop song. No specific lyrics can be heard clearly.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Visual: The video shows a group of people in a dimly lit room. There are various objects like a no-smoking sign and some kind of machinery or equipment in the background. The people are moving around, some seem to be dancing or gesturing energetically. The colors are mostly dark with some red and blue lighting adding to the atmosphere. The movement is quite dynamic, with people in different positions and actions.\n\nAudio: There is music playing in the background throughout the video. It has a lively and upbeat tempo. There are no distinct speech or sound effects, just the continuous music."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 260.03107476234436
+      "processing_time": 264.6719238758087
     },
     {
-      "comment_index": 3594,
+      "comment_index": 1769,
+      "video_id": "e8laLiWolGg",
+      "comment": "00:00hs 01/01/2023.  toda Argentina brinda y baila con este tema....la alegria no tiene fin!!!!! Argentina te amo!!!!🇦🇷⭐️⭐️⭐️🇦🇷",
+      "language": "en",
+      "channel_name": "fifa",
+      "category": "sports",
+      "likes": 20.0,
+      "error": "Invalid timestamp (<= 0)",
+      "analysis_type": "failed"
+    },
+    {
+      "comment_index": 1768,
       "video_id": "e8laLiWolGg",
       "comment": "Have watched this video many times, but I always get goosebumps at 2:11😍",
       "language": "en",
@@ -79,24 +240,24 @@
         {
           "segment_index": 1,
           "time_range": "122.0s - 128.0s",
-          "query": "VISUAL: There's a group of people dancing on stage with colorful lights around them. The background has some kind of large, decorative structure. The dancers are moving energetically, and there's smoke or fog adding to the atmosphere.AUDIO: There's music playing throughout the video, which seems to be energetic and upbeat. No specific speech is heard in these 6 seconds. So, that's my analysis for you. What do you think about it? Do you have any other thoughts or questions related to this video?"
+          "query": "Visual: The video shows a group of people dancing energetically in a dimly lit space. There are bright red and blue lights creating a vibrant atmosphere. The dancers are dressed casually, some in jeans and t-shirts, others in more colorful outfits. The movement is fast-paced and synchronized, with the dancers raising their arms and stepping rhythmically. The background seems to be a large, possibly indoor venue, with a sense of depth and space.\n\nAudio: The audio features upbeat music playing throughout the video. The music has a lively tempo and a mix of different instruments, giving it a dynamic and engaging sound. There are no distinct speech or sound effects, just the continuous music."
         },
         {
           "segment_index": 2,
           "time_range": "128.0s - 134.0s",
-          "query": "VISUAL: There's a group of people dancing energetically on a stage with colorful lighting. The background seems like an indoor setting, possibly a club or concert venue. The dancers are dressed casually, some in light-colored outfits. The scene has a lively atmosphere.AUDIO: There is music playing throughout the video, creating an upbeat and energetic vibe. No specific speech or sound effects can be heard clearly. It's just the continuous music.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Visual: The video shows a group of people dancing energetically in a dimly lit room. They are dressed in colorful, patterned clothing. The background has a blue and red lighting effect, creating a vibrant and lively atmosphere. The dancers are moving rhythmically, some holding props like sticks or small instruments. The scene gives off a festive and celebratory vibe.\n\nAudio: There is music playing in the background, which seems to be upbeat and rhythmic, matching the energetic movements of the dancers. There are also some vocal elements, possibly singing or chanting, adding to the overall festive and lively mood of the video."
         },
         {
           "segment_index": 3,
           "time_range": "134.0s - 140.0s",
-          "query": "VISUAL: There's a group of people dancing energetically on a stage or platform. The lighting is dim with some bright spots highlighting them. They're dressed casually, like jeans and t - shirts. The background seems to be an indoor space, maybe a club or concert venue.AUDIO: There's upbeat music playing throughout the clip. It has a lively rhythm that matches the energetic dance moves of the people. No specific speech is heard, just the music. What do you think about it? Do you have any other videos you want me to analyze?"
+          "query": "Visually, there are several people in the video. They seem to be in a dimly lit environment, possibly a club or a party setting. The lighting is low, with some red and blue hues creating a moody atmosphere. The people are standing close together, some looking towards the camera while others are facing away. There's a sense of movement, as if they're dancing or swaying to the rhythm.\n\nIn terms of audio, there's music playing in the background. It's upbeat and energetic, likely contributing to the lively mood of the scene. There are no distinct speech sounds or sound effects that can be clearly identified within this short segment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 264.3172860145569
+      "processing_time": 299.3254418373108
     },
     {
-      "comment_index": 3595,
+      "comment_index": 1770,
       "video_id": "e8laLiWolGg",
       "comment": "02:33 the best Ozuna 🤩👊🏾",
       "language": "en",
@@ -109,24 +270,84 @@
         {
           "segment_index": 1,
           "time_range": "144.0s - 150.0s",
-          "query": "VISUAL: There's a person in a dark shirt with a white design on it, standing in a dimly lit area. Then there's a group of people dancing energetically in a crowded space with colorful lights. The scene has a lot of movement and energy.AUDIO: There's upbeat music playing throughout the video. No specific speech or sound effects are heard.If you have any other thoughts about the video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Sure! So, in the video, there are people dancing in a lively scene. They seem to be having fun, moving energetically. The background has a mix of colors, like red and blue, which gives it a vibrant feel. There's also a sense of motion, like they're in a dance club or something similar.Now, for the audio part, there's music playing throughout. It's upbeat and rhythmic, which matches the dancing. There are no specific sound effects or speech, just the music and the ambient noise of the people dancing. It's a pretty energetic vibe overall.What do you think about it?"
         },
         {
           "segment_index": 2,
           "time_range": "150.0s - 156.0s",
-          "query": "VISUAL: There's a group of people dancing energetically on stage. The main person is in the center, wearing sunglasses, a white shirt with a colorful patterned vest, and blue pants. They're surrounded by other dancers dressed in various outfits. The background has some lights and structures that look like they could be part of a concert or performance setup.AUDIO: I can hear music playing throughout the whole time. It seems to be an upbeat song, maybe pop or dance music. There are no distinct speech or sound effects in it.So, what do you think about this kind of performance? Do you enjoy energetic dances like this?"
+          "query": "Visual: The video shows a group of people dancing energetically. They seem to be in a lively, possibly club-like setting with dim lighting and colorful lights. The people are dressed casually, and their movements are dynamic, suggesting a party or celebration. There are also some objects like a microphone and what looks like a stage setup in the background. The colors are vibrant, with a mix of reds, blues, and other bright hues.\n\nAudio: The audio features music playing throughout the segment. It's upbeat and rhythmic, likely dance music, which matches the energetic vibe of the visual. There are no distinct speech or sound effects, just the continuous music."
         },
         {
           "segment_index": 3,
           "time_range": "156.0s - 162.0s",
-          "query": "VISUAL: There's a man in sunglasses and a colorful jacket dancing on stage with his arms outstretched. He has tattoos on both arms. Behind him, there are other people also dancing. The background is dark with some lights and smoke effects. The scene seems to be at a concert or party.AUDIO: There's music playing throughout the whole time. It's upbeat and energetic. No specific speech or sound effects can be heard.Anything else you want to know about the video?"
+          "query": "Visually, there's a man in sunglasses and a colorful outfit, possibly a performer, in the foreground. He seems to be singing or rapping into a microphone. In the background, there are other people, some of whom are also dancing or moving around. The setting looks like a stage or a performance area with lights and a large, illuminated structure behind the main performer. The colors are vibrant, with lots of bright lights and a mix of dark and colorful clothing on the people.Audibly, there's music playing, likely a pop or dance track. It has a lively rhythm and seems to be in Spanish. There are also some sound effects, like the sound of a camera or a flash, which might be from the performance or the recording."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 260.3764228820801
+      "processing_time": 261.6545889377594
     },
     {
-      "comment_index": 3596,
+      "comment_index": 1771,
+      "video_id": "e8laLiWolGg",
+      "comment": "1:12 lo mejor de lo mejor, hermoso coro 👌♥️ Esta debió ser la canción oficial del mundial le mete mas emoción, ya que al entrar a la cancha los equipos la ponen un pedazo , me di cuenta de eso♥️👌",
+      "language": "en",
+      "channel_name": "fifa",
+      "category": "sports",
+      "likes": 15.0,
+      "comment_timestamp": 72.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "63.0s - 69.0s",
+          "query": "Sure! So, here's my take:.Visually, there are two men wearing headphones and standing behind microphones. One is dressed in a suit with a tie, while the other has on a jacket. They seem to be engaged in some kind of discussion or presentation. The background shows a soccer field diagram and some posters.On the audio side, it starts off with music playing softly, then someone begins speaking. It seems like they're talking about something related to the visuals, maybe giving instructions or commentary.Does that help? Let me know if you want more details!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "69.0s - 75.0s",
+          "query": "**Visual:** The video shows a lively nightclub scene. There are people dancing energetically, with some individuals in the foreground wearing colorful, patterned clothing. The background is dimly lit with neon lights, creating a vibrant and dynamic atmosphere. The crowd appears to be enjoying themselves, moving rhythmically to the music.\n\n**Audio:** The audio features upbeat music playing throughout the segment. There are no distinct speech or sound effects, just the continuous music that complements the energetic visuals of the dancing crowd."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "75.0s - 81.0s",
+          "query": "Visual: The video shows a group of people dancing energetically in a dimly lit space with colorful lights flashing around them. They seem to be having fun, moving their bodies rhythmically to the beat.\n\nAudio: There's upbeat music playing throughout the clip, creating an energetic atmosphere that matches the lively dance moves of the people."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 183.15912246704102
+    },
+    {
+      "comment_index": 1772,
+      "video_id": "e8laLiWolGg",
+      "comment": "2:43 Un gol Un penal que cambió el panorama\" asi pasó en la final..",
+      "language": "en",
+      "channel_name": "fifa",
+      "category": "sports",
+      "likes": 15.0,
+      "comment_timestamp": 163.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "154.0s - 160.0s",
+          "query": "Visually, there's someone with long hair wearing sunglasses and a patterned outfit. They seem to be dancing or moving energetically. There are other people around them, some also appearing to dance. The background has bright lights and possibly fireworks or sparklers, giving it a festive feel.\n\nAudio-wise, there's upbeat music playing throughout the clip. It seems like a lively, energetic song that matches the mood of the visuals."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "160.0s - 166.0s",
+          "query": "Well, in the visual part, there are a bunch of people dancing in what looks like a club or a party setting. There are bright lights and a stage in the background. The people are moving around, some are dancing solo, others in groups. The colors are really vivid, with lots of bright lights and colorful outfits.The audio part? There's music playing, but it's hard to make out any specific lyrics or words. It's just a general, upbeat music that goes along with the dancing. There aren't any other distinct sounds or speech.What do you think about this description? Do you have any other questions about the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "166.0s - 172.0s",
+          "query": "Visually, there are people dancing in a room. The room seems to have a dark background with some light sources. The people are moving energetically, swaying and stepping to the rhythm. There are also some objects like chairs or tables in the room, but they're not the main focus. The colors are mostly muted, with some bright spots from the light sources. The movement is fast and lively, with the dancers' bodies in constant motion.Audibly, there's music playing in the background. It's upbeat and rhythmic, likely pop or dance music. There are no distinct speech or sound effects, just the continuous music."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 234.33856964111328
+    },
+    {
+      "comment_index": 1773,
       "video_id": "e8laLiWolGg",
       "comment": "According to me, 2:50 onwards is the best",
       "language": "en",
@@ -139,24 +360,24 @@
         {
           "segment_index": 1,
           "time_range": "161.0s - 167.0s",
-          "query": "VISUAL: There's a group of people dancing energetically in a dimly lit room with neon lights. They're wearing casual clothes like t - shirts, jeans, and sneakers. The background has some kind of patterned wall or screen. One person is in the foreground, really getting into it, moving their arms and legs in sync with others.AUDIO: There's upbeat music playing throughout the clip. It seems to be a lively song that matches the energetic vibe of the dancing. No specific lyrics can be made out from just listening to the audio.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Sure! So, here's a quick breakdown:.Visually, there s a group of people dancing energetically on a stage or platform. The lighting is bright with some colorful lights adding to the vibe. You can see different outfits among them, like casual clothes and some more flamboyant dancewear. There s also smoke or fog effects that enhance the scene.Audibly, it s a lively reggaeton track playing throughout. The beat is strong, and you can hear the singers rapping over it. There aren t any other distinct sounds besides the music.Anything else you want to know about the video?"
         },
         {
           "segment_index": 2,
           "time_range": "167.0s - 173.0s",
-          "query": "VISUAL: There's a person with long hair wearing sunglasses and a patterned shirt. They seem to be dancing or moving energetically. In another scene, there's someone on stage under bright lights, possibly performing. The background has some blurred figures, suggesting an audience or other performers.AUDIO: There's music playing throughout the video. It seems like a lively, upbeat song. No specific speech is heard in these 6 seconds.If you want to know more about the video or have any other questions, feel free to ask!"
+          "query": "Visually, there's a person on a stage, likely performing. They seem to be in the middle of a song, holding a microphone close to their mouth. The stage has bright lights shining down, creating a dramatic effect. There are also some blurred figures in the background, probably the audience or other performers. The colors are mainly dark with the bright stage lights adding contrast. The person on stage is moving slightly, swaying to the music, and appears to be singing or rapping.The audio is filled with music, which seems to be a lively, energetic song. There are no distinct speech or sound effects, just the continuous music."
         },
         {
           "segment_index": 3,
           "time_range": "173.0s - 179.0s",
-          "query": "VISUAL: There's a person on stage with their hands up, then they start singing into a microphone. The background is dark with some lights shining down. There's also a cityscape visible behind them.AUDIO: It's just music playing throughout the whole time. No other sounds like speech or sound effects are heard.If you want to talk more about this video or have any other questions, feel free to let me know!"
+          "query": "Visually, there's a person on a stage, likely performing. They're wearing a white shirt and dark pants. The stage has bright lights and smoke effects, creating a dramatic atmosphere. The person seems to be moving energetically, possibly dancing or gesturing to the music. The background is dark, which makes the stage lights and smoke stand out more. There are also some blurred shapes that might be musical instruments or equipment.Audibly, there's music playing in the background. It's upbeat and rhythmic, suitable for a performance. There are also some lyrics being sung, but they're in a language I'm not familiar with. The singer's voice is clear and powerful, adding to the overall energy of the scene."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 263.106812953949
+      "processing_time": 252.17828059196472
     },
     {
-      "comment_index": 3597,
+      "comment_index": 1774,
       "video_id": "e8laLiWolGg",
       "comment": "1:02 The most beautiful shot A world cup that will never be repeated 🇶🇦🇶🇦",
       "language": "en",
@@ -169,54 +390,24 @@
         {
           "segment_index": 1,
           "time_range": "53.0s - 59.0s",
-          "query": "VISUAL: There's a person in a white shirt dancing energetically with others around them. The background is dark with some red lighting creating an intense atmosphere. People seem to be moving quickly, suggesting a lively scene.AUDIO: There's music playing throughout the entire clip, likely energetic or upbeat given the context of the dancing. No specific speech or sound effects are heard.If you have any other thoughts about this video or want to discuss it further, feel free to let me know!"
+          "query": "Visual: The video shows a group of people in a dimly lit, possibly indoor setting. There's smoke or haze in the air, giving it a somewhat mysterious or intense atmosphere. The people are dressed casually, and some are moving around, suggesting a social gathering or event. The colors are mostly muted with some red and blue lighting adding to the ambiance. There's a sense of movement and interaction among the people.\n\nAudio: The audio features music playing in the background, which seems to be upbeat and energetic, likely contributing to the lively mood of the scene. There are no distinct speech or sound effects heard in this short segment."
         },
         {
           "segment_index": 2,
           "time_range": "59.0s - 65.0s",
-          "query": "VISUAL: There's a group of people on a subway or bus, some holding onto handrails. They seem to be dancing or moving energetically. The lighting is dim with red and blue hues. There's also a scene showing two men in a studio-like setting, one wearing a headset and speaking into a microphone, while the other gestures excitedly.AUDIO: There's music playing throughout the video. It has a lively feel to it. No specific speech or sound effects are heard apart from the music."
+          "query": "Visual: The video shows a group of people in a room. There are colorful objects hanging from the ceiling, and a digital clock is visible on the wall. The people seem to be engaged in some kind of activity, possibly related to sports or entertainment, given the setting. The room has a mix of bright and dim lighting, creating a dynamic visual effect.\n\nAudio: The audio features music playing in the background, which adds to the lively atmosphere of the scene. There are also some sounds of movement and possibly some dialogue or commentary, though it's not entirely clear what is being said."
         },
         {
           "segment_index": 3,
           "time_range": "65.0s - 71.0s",
-          "query": "VISUAL: There's a man in a suit with headphones on, looking surprised or shocked. Then it cuts to a group of people dancing in a dimly lit room with colorful lights. The scene has a lively party vibe.AUDIO: There's music playing throughout the whole time. It seems like an upbeat song, maybe for a dance party. No specific speech is heard.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Sure! So, visually, there's someone dancing in a dimly lit room with colorful lights around. The person is wearing glasses and has long hair. There are other people in the background also moving, though they're not as clear.In terms of audio, it seems like there s some kind of music playing, maybe something upbeat or energetic.What do you think about that? Any specific details you noticed?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 240.47230553627014
+      "processing_time": 257.0922977924347
     },
     {
-      "comment_index": 3598,
-      "video_id": "e8laLiWolGg",
-      "comment": "1:02 Anyone know who this guy?",
-      "language": "en",
-      "channel_name": "fifa",
-      "category": "sports",
-      "likes": 11.0,
-      "comment_timestamp": 62.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "53.0s - 59.0s",
-          "query": "VISUAL: There's a person in a white shirt dancing energetically with others around them. The background is dark with some red lighting creating an intense atmosphere. People seem to be moving quickly, suggesting a lively scene.AUDIO: There's music playing throughout the entire clip, likely energetic or upbeat given the context of the dancing. No specific speech or sound effects are heard.If you have any other thoughts about this video or want to discuss it further, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "59.0s - 65.0s",
-          "query": "VISUAL: There's a group of people on a subway or bus, some holding onto handrails. They seem to be dancing or moving energetically. The lighting is dim with red and blue hues. There's also a scene showing two men in a studio-like setting, one wearing a headset and speaking into a microphone, while the other gestures excitedly.AUDIO: There's music playing throughout the video. It has a lively feel to it. No specific speech or sound effects are heard apart from the music."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "65.0s - 71.0s",
-          "query": "VISUAL: There's a man in a suit with headphones on, looking surprised or shocked. Then it cuts to a group of people dancing in a dimly lit room with colorful lights. The scene has a lively party vibe.AUDIO: There's music playing throughout the whole time. It seems like an upbeat song, maybe for a dance party. No specific speech is heard.If you want to talk more about this video or have other questions, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 248.71220469474792
-    },
-    {
-      "comment_index": 3599,
+      "comment_index": 1775,
       "video_id": "e8laLiWolGg",
       "comment": "2:27 is this Andrew tate",
       "language": "en",
@@ -229,54 +420,84 @@
         {
           "segment_index": 1,
           "time_range": "138.0s - 144.0s",
-          "query": "VISUAL: There's a group of people dancing on stage. They're wearing colorful clothes like pink tops and jeans. The background has some lights and smoke effects. It looks like they're performing in front of an audience.AUDIO: There's upbeat music playing throughout the whole time. No specific speech or sound effects are heard.If you want to talk more about this video or have other questions, feel free to let me know."
+          "query": "Visually, there are people dancing in a lively setting. They seem to be enjoying themselves, moving energetically. The scene has a warm, possibly indoor lighting that gives off a festive vibe. There are some colorful elements, like clothing and decorations, adding to the dynamic feel. The movement is fast-paced and rhythmic, suggesting a dance party or similar event.Audibly, there's music playing in the background, which is upbeat and likely driving the dance moves. There are no distinct speech sounds, just the continuous music and the sounds of the dancers' movements."
         },
         {
           "segment_index": 2,
           "time_range": "144.0s - 150.0s",
-          "query": "VISUAL: There's a person in a dark shirt with a white design on it, standing in a dimly lit area. Then there's a group of people dancing energetically in a crowded space with colorful lights. The scene has a lot of movement and energy.AUDIO: There's upbeat music playing throughout the video. No specific speech or sound effects are heard.If you have any other thoughts about the video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Sure! So, in the video, there are people dancing in a lively scene. They seem to be having fun, moving energetically. The background has a mix of colors, like red and blue, which gives it a vibrant feel. There's also a sense of motion, like they're in a dance club or something similar.Now, for the audio part, there's music playing throughout. It's upbeat and rhythmic, which matches the dancing. There are no specific sound effects or speech, just the music and the ambient noise of the people dancing. It's a pretty energetic vibe overall.What do you think about it?"
         },
         {
           "segment_index": 3,
           "time_range": "150.0s - 156.0s",
-          "query": "VISUAL: There's a group of people dancing energetically on stage. The main person is in the center, wearing sunglasses, a white shirt with a colorful patterned vest, and blue pants. They're surrounded by other dancers dressed in various outfits. The background has some lights and structures that look like they could be part of a concert or performance setup.AUDIO: I can hear music playing throughout the whole time. It seems to be an upbeat song, maybe pop or dance music. There are no distinct speech or sound effects in it.So, what do you think about this kind of performance? Do you enjoy energetic dances like this?"
+          "query": "Sure! So, visually, there's a group of people dancing energetically. They seem to be having fun, with lots of movement and excitement. The scene looks lively, maybe at some kind of party or event.Audience-wise, it s mostly upbeat music playing throughout. There aren't any specific sound effects or speech that I can clearly make out.Anything else you want to know about the video?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 272.9283375740051
+      "processing_time": 235.55035829544067
     },
     {
-      "comment_index": 3600,
+      "comment_index": 1776,
       "video_id": "e8laLiWolGg",
-      "comment": "Addict dance to see start from >> 0:55 1:11 1:36 1:54 2:00 2:25 3:14",
+      "comment": "Quiero dejar este comentario para recordar a la tristeza y felicidad que sentí en este mundial, espero que el 2026 ría más de lo que llore, esto nos traerá demasiada nostalgia a todos.  que gane el mejor! Y espero poder ir al próximo -4/12/22 6:11PM :)",
       "language": "en",
       "channel_name": "fifa",
       "category": "sports",
-      "likes": 10.0,
-      "comment_timestamp": 71.0,
+      "likes": 11.0,
+      "comment_timestamp": 371.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "62.0s - 68.0s",
-          "query": "VISUAL: There's a man wearing headphones and a suit in front of a green board with some markings on it. He seems to be talking or reacting to something. Then there's another person also in a suit, looking at him. The background has a clock showing \"20:11:20\" and some papers pinned up.AUDIO: I can't really tell much about the audio from just these six seconds. It might be some kind of speech or narration, but not enough is heard to say for sure.If you want me to analyze more details or have any other questions, feel free to let me know."
+          "time_range": "362.0s - 368.0s",
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 2,
-          "time_range": "68.0s - 74.0s",
-          "query": "VISUAL: There's a group of people dancing energetically in a dimly lit room with colorful lights. The crowd is diverse, wearing casual clothes like jackets and jeans. Some are jumping, waving their arms, and moving rhythmically to the music.AUDIO: I can hear upbeat music playing throughout the clip. It has a lively tempo that matches the energetic dance moves of the people. There are no distinct speech or sound effects in this short segment.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
+          "time_range": "368.0s - 374.0s",
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 3,
-          "time_range": "74.0s - 80.0s",
-          "query": "VISUAL: There's a group of people dancing energetically in an industrial - looking space with pipes and beams visible. The lighting is dim with some colored lights adding to the atmosphere. The dancers are dressed casually, some in bright colors. They seem really into it, moving their arms and bodies rhythmically.AUDIO: It's just music playing throughout the clip, no distinct speech or sound effects. It has a lively, upbeat tempo that matches the dance moves. So, what do you think about this kind of scene? Do you like energetic dances like this?"
+          "time_range": "374.0s - 380.0s",
+          "query": "Inference error: 'video_fps'"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 274.00887274742126
+      "processing_time": 0.004953622817993164
     },
     {
-      "comment_index": 3601,
+      "comment_index": 1777,
+      "video_id": "e8laLiWolGg",
+      "comment": "3:12 tagliafico no hay jaboooon noooooooooo",
+      "language": "en",
+      "channel_name": "fifa",
+      "category": "sports",
+      "likes": 9.0,
+      "comment_timestamp": 192.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "183.0s - 189.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.06 GiB. GPU 1 has a total capacity of 23.56 GiB of which 2.99 GiB is free. Including non-PyTorch memory, this process has 20.56 GiB memory in use. Of the allocated memory 16.26 GiB is allocated by PyTorch, and 3.99 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "189.0s - 195.0s",
+          "query": "Visual: The video shows a person in a dark setting, possibly a stage or performance area. There are bright lights shining on them, creating a dramatic effect. The person seems to be moving energetically, perhaps dancing or performing some kind of physical activity. The background is mostly dark, with some blurred lights that suggest a cityscape or a large venue.\n\nAudio: The audio features music playing throughout the segment. There are no distinct speech or sound effects, just the continuous music."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "195.0s - 201.0s",
+          "query": "Visual: The video shows a group of people dancing in a dimly lit room. There are colorful lights flashing around, creating a lively and energetic atmosphere. The people are dressed casually, and they seem to be enjoying themselves, moving rhythmically to the music. The room has a modern, possibly urban feel to it.\n\nAudio: The audio features upbeat music playing in the background, which matches the energetic vibe of the scene. There are no distinct speech or sound effects, just the continuous music."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 307.56282353401184
+    },
+    {
+      "comment_index": 1778,
       "video_id": "e8laLiWolGg",
       "comment": "The best part of the music for me is the minute 2:33",
       "language": "en",
@@ -289,56 +510,56 @@
         {
           "segment_index": 1,
           "time_range": "144.0s - 150.0s",
-          "query": "VISUAL: There's a person in a dark shirt with a white design on it, standing in a dimly lit area. Then there's a group of people dancing energetically in a crowded space with colorful lights. The scene has a lot of movement and energy.AUDIO: There's upbeat music playing throughout the video. No specific speech or sound effects are heard.If you have any other thoughts about the video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Sure! So, in the video, there are people dancing in a lively scene. They seem to be having fun, moving energetically. The background has a mix of colors, like red and blue, which gives it a vibrant feel. There's also a sense of motion, like they're in a dance club or something similar.Now, for the audio part, there's music playing throughout. It's upbeat and rhythmic, which matches the dancing. There are no specific sound effects or speech, just the music and the ambient noise of the people dancing. It's a pretty energetic vibe overall.What do you think about it?"
         },
         {
           "segment_index": 2,
           "time_range": "150.0s - 156.0s",
-          "query": "VISUAL: There's a group of people dancing energetically on stage. The main person is in the center, wearing sunglasses, a white shirt with a colorful patterned vest, and blue pants. They're surrounded by other dancers dressed in various outfits. The background has some lights and structures that look like they could be part of a concert or performance setup.AUDIO: I can hear music playing throughout the whole time. It seems to be an upbeat song, maybe pop or dance music. There are no distinct speech or sound effects in it.So, what do you think about this kind of performance? Do you enjoy energetic dances like this?"
+          "query": "Visual: The video shows a group of people dancing energetically. They seem to be in a lively, possibly club-like setting with dim lighting and colorful lights. The people are dressed casually, and their movements are dynamic, suggesting a party or celebration. There are also some objects like a microphone and what looks like a stage setup in the background. The colors are vibrant, with a mix of reds, blues, and other bright hues.\n\nAudio: The audio features music playing throughout the segment. It's upbeat and rhythmic, likely dance music, which matches the energetic vibe of the visual. There are no distinct speech or sound effects, just the continuous music."
         },
         {
           "segment_index": 3,
           "time_range": "156.0s - 162.0s",
-          "query": "VISUAL: There's a man in sunglasses and a colorful jacket dancing on stage with his arms outstretched. He has tattoos on both arms. Behind him, there are other people also dancing. The background is dark with some lights and smoke effects. The scene seems to be at a concert or party.AUDIO: There's music playing throughout the whole time. It's upbeat and energetic. No specific speech or sound effects can be heard.Anything else you want to know about the video?"
+          "query": "Visually, there's a man in sunglasses and a colorful outfit, possibly a performer, in the foreground. He seems to be singing or rapping into a microphone. In the background, there are other people, some of whom are also dancing or moving around. The setting looks like a stage or a performance area with lights and a large, illuminated structure behind the main performer. The colors are vibrant, with lots of bright lights and a mix of dark and colorful clothing on the people.Audibly, there's music playing, likely a pop or dance track. It has a lively rhythm and seems to be in Spanish. There are also some sound effects, like the sound of a camera or a flash, which might be from the performance or the recording."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 265.61308336257935
+      "processing_time": 259.2391402721405
     },
     {
-      "comment_index": 3602,
+      "comment_index": 1779,
       "video_id": "e8laLiWolGg",
-      "comment": "0:35 a kid from the right side wears Argentina shirt meaning winning the world cup hidden in plain sight",
+      "comment": "3:29 igual me gusta",
       "language": "en",
       "channel_name": "fifa",
       "category": "sports",
       "likes": 6.0,
-      "comment_timestamp": 35.0,
+      "comment_timestamp": 209.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "26.0s - 32.0s",
-          "query": "VISUAL: There's a man with dreadlocks wearing sunglasses and a shiny jacket inside a bus. He seems to be dancing or moving energetically while holding onto a pole. The bus has seats on either side and some signs visible. The lighting is dim with orange and blue hues.AUDIO: There's music playing throughout the 6 seconds. It's upbeat and rhythmic, likely pop or dance music. No specific lyrics can be heard clearly.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
+          "time_range": "200.0s - 206.0s",
+          "query": "Sure! So, for the visual part:.There's a group of people dancing together at night. They seem to be having fun, moving energetically. The background has some colorful lights, like blue and red ones, which add to the lively vibe.For the audio part:.I can hear upbeat music playing throughout the clip. There aren't any specific words or speech, just the music.Anything else you want to know about it?"
         },
         {
           "segment_index": 2,
-          "time_range": "32.0s - 38.0s",
-          "query": "VISUAL: There's a group of people on a bus. One person is dancing energetically while others seem to be watching or moving around. The lighting inside the bus gives off a warm, somewhat dim vibe. There are some signs visible too.AUDIO: There's music playing throughout the clip. It has a rhythmic feel to it. No specific speech can be heard from the people in the video.Anything else you noticed or want to ask about?"
+          "time_range": "206.0s - 212.0s",
+          "query": "Visual: The video shows a group of people in a dimly lit room with neon lights forming geometric shapes. There are colorful lights and smoke effects, creating a vibrant and energetic atmosphere. The people appear to be dancing or moving rhythmically, suggesting a party or club setting. The colors are mainly blue, purple, and red, contributing to the lively mood.\n\nAudio: The audio features upbeat music playing throughout the segment. There are no distinct speech or sound effects, just the continuous music that complements the visual energy of the scene."
         },
         {
           "segment_index": 3,
-          "time_range": "38.0s - 44.0s",
-          "query": "VISUAL: There's a man with dreadlocks wearing sunglasses and a patterned shirt. He seems to be singing or shouting. The background is dark with some colorful lights, like blue and red. There are other people around him, some dancing. It looks like they're at a party or club scene.AUDIO: I can't really tell much about the audio from just these six seconds. But it might have some kind of music playing in the background. What do you think? Do you want me to analyze more of the video?"
+          "time_range": "212.0s - 218.0s",
+          "query": "Visually, the video shows a group of people dancing energetically in what seems to be a club or party setting. The lighting is vibrant, with bright, colorful lights flashing around. The people are dressed in colorful, flashy outfits, and some are wearing sunglasses. The overall scene is lively and full of movement.\n\nAudio-wise, there is upbeat music playing in the background, likely pop or dance music, which matches the energetic vibe of the visual. There are no distinct speech sounds or sound effects in this short segment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 253.3162043094635
+      "processing_time": 262.8941993713379
     },
     {
-      "comment_index": 3603,
+      "comment_index": 1780,
       "video_id": "e8laLiWolGg",
-      "comment": " [USER]  listen 00:17 redone is the name of the man who's made it",
+      "comment": " @husainyard  listen 00:17 redone is the name of the man who's made it",
       "language": "en",
       "channel_name": "fifa",
       "category": "sports",
@@ -349,261 +570,21 @@
         {
           "segment_index": 1,
           "time_range": "8.0s - 14.0s",
-          "query": "VISUAL: The video shows a nighttime cityscape with tall buildings lit up in various colors like blue, red, and green. There are large billboards on some buildings displaying images and text. Cars can be seen driving along the streets below.AUDIO: There's music playing throughout the video, and at one point, there's also applause heard. It seems to be a lively atmosphere. So, what do you think about this kind of urban scene?"
+          "query": "Visually, it looks like a nighttime cityscape. There are tall buildings with bright lights and some large screens displaying colorful images. The scene has a futuristic vibe with neon lights and a sense of movement from the buildings and screens. There are also some smaller lights and structures that seem to be part of the urban environment. The overall color scheme is dominated by dark tones with pops of neon colors like pink, blue, and green. There's a sense of activity, but it's hard to make out specific details of people or objects clearly.Audibly, there's music playing in the background, and it seems to be upbeat and energetic. There are also some sounds that could be from a crowd, like cheering or clapping, but it's not very clear. It gives off a lively, possibly celebratory atmosphere."
         },
         {
           "segment_index": 2,
           "time_range": "14.0s - 20.0s",
-          "query": "VISUAL: The video shows an aerial view of a large stadium at night with bright lights illuminating it. Then there's a scene inside a club or concert venue with colorful lights and a stage setup. There are holographic images of two men on display, one labeled \"GIMS\" and the other \"OZUNA.\" AUDIO: Music is playing throughout the entire clip. It seems to be energetic and possibly related to the performance or event taking place. What do you think about these descriptions? Do you have any other thoughts or questions regarding the video?"
+          "query": "Visual: The video shows a nighttime scene of a brightly lit stadium. There are multiple illuminated panels with images of a person's face on them. The panels are arranged in a row, and the stadium appears to be a large, modern sports venue. The lighting is vibrant, with a mix of blue and white hues dominating the scene. The camera seems to be moving, giving a dynamic view of the stadium and the panels.\n\nAudio: The audio features music playing in the background, creating an energetic and lively atmosphere. There are no distinct speech or sound effects, just the continuous music."
         },
         {
           "segment_index": 3,
           "time_range": "20.0s - 26.0s",
-          "query": "VISUAL: There's a sign with \"GIMS X GZUNA\" on it. Then there's a soccer goal at night. A man wearing sunglasses and a jacket is standing near some equipment. The lighting is dim with colorful lights around.AUDIO: There's music playing throughout the video. No specific speech or sound effects are heard. It's just the music.If you have any other questions about the video or want to discuss something else, feel free to let me know!"
+          "query": "Visual: The video shows a person in a dark, possibly industrial or tech-related setting. There are various objects around, like machinery or equipment. The person seems to be interacting with something, maybe adjusting or operating it. The lighting is dim with some colored lights, creating a somewhat futuristic or high-tech vibe. The person is wearing a dark outfit with some reflective or metallic elements.\n\nAudio: There's music playing in the background throughout the video. It has a rhythmic, possibly electronic or pop feel to it. There are also some spoken words, but they're not very clear. The overall sound is energetic and matches the visual vibe of the video."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 257.2585139274597
-    },
-    {
-      "comment_index": 3604,
-      "video_id": "e8laLiWolGg",
-      "comment": "Hello everyone, I have 23 years old now, I'm writing this comment in 18\\12\\2022 at 01:19 AM. yesterday it was the match between Morocco and croatie who were playing for the third place, today it will be  the match between argentina and france. And i'll admit that the Qatar world cup 2022 will forever remain in my heart and memory , it's such the best world cup i have seen so far. surely this amazing song will be a such a nostalgie within 5 years. i'll come back here to see my comment if i still alive of course HAHAHA LOL",
-      "language": "en",
-      "channel_name": "fifa",
-      "category": "sports",
-      "likes": 5.0,
-      "comment_timestamp": 79.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "70.0s - 76.0s",
-          "query": "VISUAL: There's a group of people dancing energetically in a dimly lit room with neon lights. They're moving their arms and bodies to the rhythm. The scene has a lively and vibrant feel.AUDIO: There's upbeat music playing throughout the clip, creating an energetic atmosphere. No specific speech or sound effects are heard apart from the music. So, what do you think about this kind of setting? Do you like it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "76.0s - 82.0s",
-          "query": "VISUAL: There's a group of people dancing energetically in a dimly lit room with colorful lights. They're wearing casual clothes like t - shirts and jeans. The camera moves around them, capturing their lively dance moves.AUDIO: There's upbeat electronic music playing throughout the clip. It has a fast tempo and a catchy rhythm. No specific lyrics or dialogue can be heard.If you want to talk more about this video or have other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "82.0s - 88.0s",
-          "query": "VISUAL: There's an elderly woman with short hair dancing on a bus. She seems to be having fun. Then it cuts to a group of people dancing on stage under colorful lights. They're all moving energetically.AUDIO: There's music playing throughout the whole time. It has a lively rhythm that matches the energetic dancing in the video.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 228.5741674900055
-    },
-    {
-      "comment_index": 3605,
-      "video_id": "e8laLiWolGg",
-      "comment": "5:45 Am here in Egypt 19th of December what a night what a day after my legend football player Messi won the world cup 💪🏅🏆 Vamos Argentina from Egypt  🇪🇬 ❤️💙 🇦🇷",
-      "language": "en",
-      "channel_name": "fifa",
-      "category": "sports",
-      "likes": 5.0,
-      "comment_timestamp": 345.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "336.0s - 342.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "342.0s - 348.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "348.0s - 354.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.1013634204864502
-    },
-    {
-      "comment_index": 3606,
-      "video_id": "e8laLiWolGg",
-      "comment": "1:52 the best part",
-      "language": "en",
-      "channel_name": "fifa",
-      "category": "sports",
-      "likes": 4.0,
-      "comment_timestamp": 112.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "103.0s - 109.0s",
-          "query": "VISUAL: There's a man in a white shirt and sunglasses dancing energetically with his arms raised. He seems to be having a great time. The background is dark, maybe a club or party setting. There are other people around him, some also moving. The lighting is dim with colorful lights adding to the lively atmosphere.AUDIO: There's upbeat electronic dance music playing throughout the clip. It has a strong beat and a catchy melody that matches the energetic vibe of the scene. No specific lyrics can be heard.If you have any thoughts on this or want to discuss more about it, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "109.0s - 115.0s",
-          "query": "VISUAL: There's a man wearing sunglasses and a patterned jacket standing on stairs. Then it cuts to two people dancing together, one holding a pole with sparks flying from it. The background has red lighting and some smoke. There's also another person dancing alone in a dark space with red lights.AUDIO: There's music playing throughout the whole time. No specific speech or sound effects are heard.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "115.0s - 121.0s",
-          "query": "VISUAL: There's a person dancing in a dimly lit room with red lighting. They're wearing dark clothes and seem to be moving energetically. The background has some indistinct shapes and objects, like maybe musical equipment or furniture. There's also another person partially visible on the left side of the frame.AUDIO: I can hear music playing throughout the whole time. It seems to be an upbeat song with a strong rhythm. There aren't any distinct speech or sound effects that stand out.If you have any other thoughts about this video or want to discuss it further, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 306.8609793186188
-    },
-    {
-      "comment_index": 3607,
-      "video_id": "e8laLiWolGg",
-      "comment": "1:28 epic moment of this song👍",
-      "language": "en",
-      "channel_name": "fifa",
-      "category": "sports",
-      "likes": 4.0,
-      "comment_timestamp": 88.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "79.0s - 85.0s",
-          "query": "VISUAL: There's a group of people on a bus. They seem to be dancing or moving energetically. The lighting is dim with some colorful lights, probably from the bus interior. You can see the seats and handrails clearly.AUDIO: There's music playing throughout the clip. It has an upbeat tempo and seems like it could be pop or dance music. No specific lyrics or speech are heard.If you want to talk more about this video or have other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "85.0s - 91.0s",
-          "query": "VISUAL: There's a group of people dancing energetically on a stage with bright lights and smoke effects. The dancers are wearing colorful outfits. One person is doing a handstand while others are jumping and moving around. The scene has a lively and dynamic feel.AUDIO: There's upbeat music playing throughout the video. It seems to be some kind of pop or dance music, creating an energetic atmosphere. There are no distinct speech or sound effects heard.If you have any other thoughts about the video or want to discuss it further, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "91.0s - 97.0s",
-          "query": "VISUAL: There's a man wearing sunglasses and a patterned jacket dancing energetically on stage. He seems to be performing for an audience. The background has some colorful lights and smoke effects. There are also other people visible, possibly part of the performance or the audience.AUDIO: There is music playing throughout the video. It's upbeat and rhythmic, likely fitting with the energetic dance moves of the performer.If you have any more questions about the video or want to discuss it further, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 259.5755047798157
-    },
-    {
-      "comment_index": 3608,
-      "video_id": "e8laLiWolGg",
-      "comment": "IT'S A STUNNING MOMENT 😜, WORLD CUP QATAR FIFA 2022⚽,  THANK YOU QATAR 🇶🇦🙏❤️ GOODBYE DECEMBER 18 2022 23:23",
-      "language": "en",
-      "channel_name": "fifa",
-      "category": "sports",
-      "likes": 4.0,
-      "comment_timestamp": 1403.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "1394.0s - 1400.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "1400.0s - 1406.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "1406.0s - 1412.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.10159587860107422
-    },
-    {
-      "comment_index": 3609,
-      "video_id": "e8laLiWolGg",
-      "comment": "1:05 my home girl <3",
-      "language": "en",
-      "channel_name": "fifa",
-      "category": "sports",
-      "likes": 4.0,
-      "comment_timestamp": 65.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "56.0s - 62.0s",
-          "query": "VISUAL: There's a group of people dancing energetically on a stage or dance floor. The lighting is dim with colorful spotlights creating a vibrant atmosphere. Some people are wearing casual clothes like t - shirts and jeans. They're moving their arms and bodies rhythmically to the music.AUDIO: There's upbeat music playing throughout the clip. It has a lively tempo and seems to be a pop song. No specific lyrics can be heard clearly.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "62.0s - 68.0s",
-          "query": "VISUAL: There's a man wearing headphones and a suit in front of a green board with some markings on it. He seems to be talking or reacting to something. Then there's another person also in a suit, looking at him. The background has a clock showing \"20:11:20\" and some papers pinned up.AUDIO: I can't really tell much about the audio from just these six seconds. It might be some kind of speech or narration, but not enough is heard to say for sure.If you want me to analyze more details or have any other questions, feel free to let me know."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "68.0s - 74.0s",
-          "query": "VISUAL: There's a group of people dancing energetically in a dimly lit room with colorful lights. The crowd is diverse, wearing casual clothes like jackets and jeans. Some are jumping, waving their arms, and moving rhythmically to the music.AUDIO: I can hear upbeat music playing throughout the clip. It has a lively tempo that matches the energetic dance moves of the people. There are no distinct speech or sound effects in this short segment.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 268.409725189209
-    },
-    {
-      "comment_index": 3610,
-      "video_id": "e8laLiWolGg",
-      "comment": "Me in the bathroom i listen to it 0:54",
-      "language": "en",
-      "channel_name": "fifa",
-      "category": "sports",
-      "likes": 3.0,
-      "comment_timestamp": 54.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "45.0s - 51.0s",
-          "query": "VISUAL: There's a group of people playing foosball in a dimly lit room with neon lights. One person is kicking a ball on a stage-like area. The players seem to be having fun, cheering and laughing.AUDIO: There's upbeat music playing throughout the video. No specific speech or sound effects are heard. It's just the music that fills the background.If you have any other thoughts about the video or want to discuss it further, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "51.0s - 57.0s",
-          "query": "VISUAL: There's a man wearing sunglasses and a plaid shirt dancing in a dimly lit area with some neon lights. He seems to be having fun. Then there's another person in a white outfit also dancing. The scene has a lively vibe with movement from both individuals.AUDIO: There's music playing throughout the video. It's upbeat and energetic, matching the mood of the dancing. No specific speech or sound effects are heard.If you have any other thoughts about the video or want to discuss it further, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "57.0s - 63.0s",
-          "query": "VISUAL: There's a group of people dancing energetically on a stage or dance floor. The lighting is dim with colorful spotlights creating a vibrant atmosphere. Some people are raising their arms while others are swaying to the rhythm. The crowd seems really into it.AUDIO: There's upbeat music playing throughout the clip. It has a lively tempo that matches the energetic vibe of the dancing scene. No specific lyrics or dialogue can be heard from the audio. So, what do you think about this kind of video? Do you enjoy watching such energetic performances?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 271.595326423645
-    },
-    {
-      "comment_index": 3611,
-      "video_id": "e8laLiWolGg",
-      "comment": "01:21 thé best",
-      "language": "en",
-      "channel_name": "fifa",
-      "category": "sports",
-      "likes": 3.0,
-      "comment_timestamp": 81.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "72.0s - 78.0s",
-          "query": "VISUAL: There's a group of people dancing energetically in a dimly lit space with colorful lights. They're wearing casual clothes like t - shirts and jeans. The scene has a lively vibe.AUDIO: There's upbeat music playing throughout the clip, along with some cheering from an unseen crowd. It seems to be a party or club setting. So, what do you think about it? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "78.0s - 84.0s",
-          "query": "VISUAL: There's a group of people dancing energetically on a bus. They're all dressed casually, some with colorful outfits. The lighting is dim with blue and red hues, creating a lively atmosphere. You can see the bus interior like seats and poles. One person stands out in an orange shirt, jumping high while others around him dance too.AUDIO: There's upbeat music playing throughout the clip. No specific speech or sound effects are heard. It's just the music that fills the space.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "84.0s - 90.0s",
-          "query": "VISUAL: There's a group of people dancing energetically on a stage with colorful lights and smoke effects. The dancers are dressed in various outfits, some in bright colors like reds and blues. One person is doing a handstand while others are jumping or moving dynamically. The background has large windows showing an outdoor scene at night.AUDIO: There's upbeat music playing throughout the video, along with some singing that seems to be in French. It gives off a lively and energetic vibe.If you have any other thoughts about the video or want to discuss it further, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 277.1455476284027
+      "processing_time": 334.46122646331787
     }
   ]
 }

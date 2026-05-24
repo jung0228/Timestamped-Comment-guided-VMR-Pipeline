@@ -6,7 +6,7 @@
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 3612,
+      "comment_index": 1741,
       "video_id": "E39GIysMevQ",
       "comment": "0:26 ' If humanity decided that drilling into the center of the earth was number one priority, how deep could we drill with modern day technology?' You asked that question and never answered it in the whole video? You just showed holes that exist today? What the actual fuck?",
       "language": "en",
@@ -19,24 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "17.0s - 23.0s",
-          "query": "VISUAL: There's an excavator on a construction site. It's loading dirt into a dump truck. The ground is uneven with some piles of dirt. The sky looks overcast.AUDIO: Someone is speaking about how deep we could dig with modern technology. There are no other distinct sounds like music or sound effects. So, what do you think about digging deeper?"
+          "query": "Visually, the video shows a construction site with a large excavator digging into the ground. There are piles of dirt around, and the sky looks overcast. The excavator is yellow and is actively moving its arm to dig deeper into the earth. There are no people visible in the scene.\n\nAudio-wise, there's a voiceover asking \"How deep could we dig?\" in a neutral tone. There are no other sounds like music or sound effects."
         },
         {
           "segment_index": 2,
           "time_range": "23.0s - 29.0s",
-          "query": "VISUAL: There's an animated scene with a red arrow pointing downwards from above some rocks on grassy ground. The background is light blue. There's also a measurement shown at one point saying \"1.8m， 6ft.\". AUDIO: Someone is speaking about digging from the Earth's surface. It seems to be a discussion or explanation about how deep we could dig. So, what do you think about this? Do you have any ideas on how far we could actually dig?"
+          "query": "Visually, the video shows a red arrow pointing downwards against a light blue background. There are some brownish objects at the bottom, which could be rocks or soil. The arrow seems to be moving downward, suggesting a sense of depth or descent. The overall color scheme is quite simple, with the red arrow standing out against the blue and brown elements.Audibly, there is a male voice speaking. The speech is clear and seems to be in English. The tone of the voice is neutral, and there are no other sound effects or ambient noises in the audio."
         },
         {
           "segment_index": 3,
           "time_range": "29.0s - 35.0s",
-          "query": "VISUAL: There's a red arrow pointing down towards a grassy area with some rocks on top. Below that is a grave marked \"RIP\" and another one next to it. The ground is brownish and there's a blue sky above.AUDIO: Someone is speaking about the standard grave depth being 1.8 meters or 6 feet in Western culture.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a pixelated scene with a large red arrow pointing downwards. Below the arrow, there are two gravestones with \"RIP\" inscribed on them. The background is a light blue sky, and the ground is a mix of green and brown, with some rocks scattered around. The scene is static, with no movement.\n\n**Audio:** There is a voiceover in the audio, saying, \"point eight meters and we arrive at the standard grave depth in western culture so if you're afraid of zombies this is.\" The voice is calm and informative."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 204.62180757522583
+      "processing_time": 272.0282082557678
     },
     {
-      "comment_index": 3613,
+      "comment_index": 1742,
       "video_id": "E39GIysMevQ",
       "comment": "4:07 “Honey where are you?” “Oh I’m falling to my doom darling.”",
       "language": "en",
@@ -49,24 +49,54 @@
         {
           "segment_index": 1,
           "time_range": "238.0s - 244.0s",
-          "query": "VISUAL: The video shows an image with \"Moab Khotsong Mine\" written on it. There's a phone icon next to it showing a distance of 3，132m or 1.9 miles. Then there's another image with \"25 Seconds\" written on it. It also has a distance of 3，600m or 2.2 miles. There's a white line separating these two images.AUDIO: I can't really tell what's being said in the audio since no specific words were mentioned. But there might be some background noise or music playing.If you have any other questions about this video or want to discuss something else related to it, feel free to let me know."
+          "query": "I'm sorry, but I can't analyze the video segment you've described. I don't have the ability to perceive visual or auditory content. If you have any other questions or need assistance with something else, feel free to ask!"
         },
         {
           "segment_index": 2,
           "time_range": "244.0s - 250.0s",
-          "query": "VISUAL: There's an image on screen with a pixelated background. On the left side, it says \"Deepest Organism\" and shows a depth measurement of 3, 600 meters or 2.2 miles. The right side has a black and white microscopic view of some kind of organism. It looks like a round, segmented worm - like thing.AUDIO: Someone is speaking about a multellular organism being found alive at great depths. They mention that it's a \"freaky looking worm.\" So, what do you think about this discovery? Do you find it interesting?"
+          "query": "Visually, the video shows a close - up of a strange, worm - like organism. It has a segmented body with a somewhat translucent appearance. The background is dark, which makes the organism stand out. There's a red arrow pointing to it, emphasizing its significance. The text \"Deepest Organism\" and \"3,600m (2.2mi)\" are also visible, indicating its depth and location.\n\nAudio - wise, there's no distinct speech or music. The only sound is a faint, almost inaudible whispering or murmuring in the background."
         },
         {
           "segment_index": 3,
           "time_range": "250.0s - 256.0s",
-          "query": "VISUAL: The video shows a pixelated background with a white vertical line dividing it into two sections. In one section, there's an image of a skull-like structure at different magnifications. There are also some numbers indicating distances like \"3,600m\" and \"4,000m\". AUDIO: A man is speaking about how humans have been deeper than a certain point, mentioning that 4,000 meters down is the deepest part. He seems to be explaining something related to depth or exploration. What do you think about this? Do you know any other interesting facts about deep exploration?"
+          "query": "**Visual:** The video shows a pixelated image of a person digging in a cave. The cave walls are brown with some blue specks. There are measurements on the left side indicating distances like \"3,600m\" and \"4,000m\". The person is using a pickaxe to dig.\n\n**Audio:** There is a male voice speaking in English. He says, \"human beings themselves have been even deeper than this 4,000 meters down is the deepest part.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 345.6630024909973
+      "processing_time": 307.3431191444397
     },
     {
-      "comment_index": 3614,
+      "comment_index": 1743,
+      "video_id": "E39GIysMevQ",
+      "comment": "1:05. Wait. Crocodiles dig holes???????",
+      "language": "en",
+      "channel_name": "RealLifeLore",
+      "category": "documentary",
+      "likes": 560.0,
+      "comment_timestamp": 65.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "56.0s - 62.0s",
+          "query": "**Visual:** The video shows a pixelated image of the Paris Catacombs. There are various measurements of depth in meters and feet displayed, like 1.8m, 4m, 6m, 12m, and 20m. A green arrow points downward, indicating the direction to the catacombs. The catacombs' entrance is shown with a skull and crossbones symbol.\n\n**Audio:** There is no audio in this video segment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "62.0s - 68.0s",
+          "query": "Visually, the video shows a pixelated scene with a vertical shaft in the center. The walls are made of brown and gray blocks, and there are some green elements at the top. There are also some numbers and text indicating measurements like \"40m, 131ft\" and \"Paris Catacombs.\" The scene seems to be from a video game or a digital representation of a catacomb.Audibly, there is a voice speaking in English. The speech is about doubling a distance to 40 meters and seeing the deepest swimming pool."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "68.0s - 74.0s",
+          "query": "Visually, the video shows a pixelated scene with a pool of water and a wall. There's a measurement of \"40m (131ft)\" next to the wall. The pool is filled with water, and there's a small figure that seems to be a hand or a similar object near the pool. The wall is made of brown and gray blocks. The overall color scheme is earthy tones.\n\nAudio - There's no distinct speech or music in the audio. The only sound is a voiceover saying \"World if you drained this pool and jumped into it from the top it would take nearly 3 seconds before you\"."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 235.80788469314575
+    },
+    {
+      "comment_index": 1744,
       "video_id": "E39GIysMevQ",
       "comment": "3:19 imagine helding a concert at 1,410m deep",
       "language": "en",
@@ -79,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "190.0s - 196.0s",
-          "query": "VISUAL: The video shows an illustration of a concert scene underground. There's a blue cave-like structure with three stick - figure musicians inside. One is playing guitar, another is singing into a microphone, and the third is drumming. The background has a pixelated brown texture. There's also some text that says \"Deepest Concert\" above the cave. Then it transitions to show the depth measurement \"1,642m, 5,387ft\" on the left side of the screen.AUDIO: A man is speaking about the deepest concert in Finland being at a depth of 1,642 meters. He mentions \"agonizer\" which seems like a typo or mispronunciation of something else. It's just his voice without any other sound effects or music. So, what do you think about this unusual concert?"
+          "query": "Well, in the video, visually, there's a pixelated image of a concert scene. You can see a person playing a guitar and another person playing drums. The background is a blue sky with some clouds. There's also a white vertical line separating the concert scene from a brownish area. The colors are mainly blue, brown, and white. There's no movement in the video, it's just a still image. As for the audio, there's a male voice speaking. He says something about the depth of Lake Baikal being 1, 642 meters. There are no other sounds like music or sound effects. So, what do you think about this video?"
         },
         {
           "segment_index": 2,
           "time_range": "196.0s - 202.0s",
-          "query": "VISUAL: The video shows two different pixelated images side - by - side. On the left is an image with brownish - orange squares, representing Lake Baikal's depth measurement of 1，642m or 5，387ft. On the right, there's another pixelated image showing a canyon scene with rock formations and some blue sky visible at the top.AUDIO: There's a male voice speaking in English about Lake Baikal being the deepest lake on Earth, located in Russia, and mentioning its depth of 1，857 meters down. It also mentions the Grand Canyon briefly."
+          "query": "I'm sorry, but I can't analyze the video segment you've provided. The description you've given seems to be a mix of text and numbers, not a video. Could you please clarify or provide the actual video segment?"
         },
         {
           "segment_index": 3,
           "time_range": "202.0s - 208.0s",
-          "query": "VISUAL: The video shows two sides separated by a white line. On one side, there's a brown pixelated background with \"Grand Canyon\" written on it along with some measurements like \"1,857m, 1.15mi\". On the other side, there's an image of a canyon with rock formations and the same \"Grand Canyon\" text. Then it switches to show another scene with a dark cave interior labeled \"Deepest Cave\", also with measurements \"2,197m, 1.4mi\". AUDIO: There is a man speaking about the deepest part of the Grand Canyon being the deepest known cave on earth located at that depth. He mentions these measurements. What do you think about this? Do you have any other questions related to this?"
+          "query": "Visual: The video shows a split-screen. On the left side, there are pixelated brown blocks with some blue specks, and on the right side, there's a cave-like structure with a light source at the bottom. The text \"Grand Canyon\" is displayed on the right side. There's also text indicating measurements like \"1,857m (1.15mi)\" and \"2,197m (1.4mi)\".\n\nAudio: There is a male voice speaking in English, saying \"Deepest part of the Grand Canyon the deepest known cave on earth is located 2000 100\"."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 409.9237542152405
+      "processing_time": 316.0468113422394
     },
     {
-      "comment_index": 3615,
+      "comment_index": 1745,
       "video_id": "E39GIysMevQ",
       "comment": "3:21, notice how the drummer looks like a dick?",
       "language": "en",
@@ -109,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "192.0s - 198.0s",
-          "query": "VISUAL: The video shows a pixelated Minecraft - like scene with a vertical white line separating two areas. On one side is a brown blocky texture, while on the other there's a blue area with silhouettes of musicians playing instruments. There's also some text indicating measurements next to the white line.AUDIO: Someone says \"1，642 meters down is the depth of the deepest lake on earth Lake Baikal.\" It's just that spoken sentence without any background noise or music.If you have any thoughts about this or want to discuss more, feel free to let me know!"
+          "query": "Visual: The video shows a pixelated image of a lake, with a text overlay stating \"Depth of Lake Baikal\" and the measurement \"1,642m (5,387ft)\". The lake appears to be a deep blue color, and the surrounding area is a brownish pixelated texture. There are no people or other objects visible in the video. The overall scene is static, with no movement.\n\nAudio: There is no audible speech, music, sound effects, or ambient sounds in the video. It is completely silent."
         },
         {
           "segment_index": 2,
           "time_range": "198.0s - 204.0s",
-          "query": "VISUAL: The video shows two pixelated images side - by - side. On the left is an image labeled \"Depth of Lake Baikal\" with measurements in meters and feet. On the right is an image labeled \"Grand Canyon\" also with depth measurements in meters and miles. There's a white vertical line separating the two images.AUDIO: Someone is speaking about the depths of Lake Baikal and the Grand Canyon. They mention that Lake Baikal is 1，642 meters deep or 5，387 feet deep, and the deepest part of the Grand Canyon is 1，857 meters down or 1.15 miles down.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 7.28 GiB. GPU 1 has a total capacity of 23.56 GiB of which 955.00 MiB is free. Including non-PyTorch memory, this process has 22.62 GiB memory in use. Of the allocated memory 20.62 GiB is allocated by PyTorch, and 1.69 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 3,
           "time_range": "204.0s - 210.0s",
-          "query": "VISUAL: The video shows a pixelated image on one side with \"Deepest Cave\" written next to it along with measurements in meters and miles. On the other side, there's an actual cave scene with people exploring it using lights. There are also some words like \"Grand Canyon\" visible.AUDIO: A man is speaking about the deepest known cave being located at a certain depth. He mentions the measurement clearly."
+          "query": "Visually, the video shows a split image. On the left, there's a pixelated texture that resembles a cave wall, with a label indicating \"Deepest Cave\" and measurements in meters and miles. On the right, there's a dark, narrow cave passage with a light source at the bottom, giving a sense of depth and darkness. The colors are mostly shades of brown and dark gray, with the light source providing a bit of contrast.Audibly, there's a male voice speaking in English. He says, \"The deepest known cave on earth is located 2, 197 meters beneath the surface.\" The tone is informative and neutral."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 295.0626757144928
+      "processing_time": 331.4841980934143
     },
     {
-      "comment_index": 3616,
+      "comment_index": 1746,
       "video_id": "E39GIysMevQ",
       "comment": "The drummer at 3:18 looks like a penis",
       "language": "en",
@@ -139,24 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "189.0s - 195.0s",
-          "query": "VISUAL: The video shows an illustration of a concert scene underground. There's a blue cave-like structure with stick figures playing musical instruments - one on guitar, another singing into a microphone, and someone drumming. The background is pixelated brown squares. There's also some text indicating depth measurements like \"1,410m\" and \"1,642m\". AUDIO: A male voice speaks about something related to a band called Agonizer from Finland performing at a deep location, mentioning depths of 1,642 meters. It seems to be explaining or narrating facts about this event. So, what do you think about such deep concerts? Do you find it interesting?"
+          "query": "Well, I'm not sure if there's actually any video to analyze here. The text just says \"Deepest Concert\" with some measurements about Finland. There's no mention of anything visual or audio related that I can tell from this text. So, it seems like we don't have enough information to describe what happens visually or audibly. What do you think? Maybe there was something else in the video that wasn't mentioned?"
         },
         {
           "segment_index": 2,
           "time_range": "195.0s - 201.0s",
-          "query": "VISUAL: The video shows a pixelated image on one side with a blue background on the other. There's some text about Lake Baikal's depth in both meters and feet. It also has numbers like \"1,857m\" and \"1,642m\". AUDIO: Someone is speaking about the depth of Lake Baikal in Russia, mentioning it's the deepest lake on earth and giving its depths in meters and feet. So, what do you think about Lake Baikal? Have you ever heard of it before?"
+          "query": "I'm sorry, but I can't analyze the video segment you've mentioned. If you have any other questions or need assistance with something else, feel free to ask!"
         },
         {
           "segment_index": 3,
           "time_range": "201.0s - 207.0s",
-          "query": "VISUAL: The video shows two pixelated images side - by - side. On the left is a brownish - orange blocky texture with \"1，857m， 1.15mi\" written on it. On the right, there's another similar texture with \"Grand Canyon\" written over it. There's also an image of a cave entrance below that text.AUDIO: Someone is speaking about the depth of the Grand Canyon and caves. They mention \"1，857 meters down is the deepest part of the Grand Canyon.\" Then they say something about the deepest known cave on Earth being located somewhere else. It seems like they're comparing these depths.If you have any thoughts or questions about this, feel free to share!"
+          "query": "**Visual:** The video shows a pixelated image with \"Grand Canyon\" written on it. There's also some text indicating measurements like \"1,857m (1.15mi)\".\n\n**Audio:** Someone is speaking about the Grand Canyon being the deepest known cave on Earth."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 333.9862506389618
+      "processing_time": 219.53406691551208
     },
     {
-      "comment_index": 3617,
+      "comment_index": 1747,
       "video_id": "E39GIysMevQ",
       "comment": "2:39 I found a vertical cave in Minecraft exactly like that one. Can confirm that falling to the bottom causes death.",
       "language": "en",
@@ -169,54 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "150.0s - 156.0s",
-          "query": "VISUAL: The video shows a pixelated image on the left side with a measurement of \"603m，1978ft\" at the bottom. On the right side, there's an illustration of a cliff face labeled \"VRTIGLAVICA\". There's also a red arrow pointing to a specific spot on the cliff. A skyscraper is shown next to the cliff diagram, giving a sense of scale.AUDIO: Someone is speaking about falling from the top of the One World Trade Center in New York, mentioning that it would take over 11 seconds to fall."
+          "query": "I'm sorry, I can't analyze videos directly. But if you describe the video to me, I'd be happy to help!"
         },
         {
           "segment_index": 2,
           "time_range": "156.0s - 162.0s",
-          "query": "VISUAL: The video shows a Minecraft - like scene with a vertical shaft. There's an image on the right side showing a skyscraper labeled \"VRTIGLAVICA\" and some measurements. The left side has a pixelated background with a white line representing the fall distance. Text says \"11 second fall\" and gives distances in meters and feet.AUDIO: Someone is speaking about a Chilean mine disaster, mentioning that it happened at 700 meters deep. It seems to be a narration or explanation related to the visuals. So, what do you think about this kind of content? Do you have any other videos you want me to analyze?"
+          "query": "Visual: The video shows a pixelated image with a vertical white line separating two different sections. On one side is a brownish texture representing the ground or earth, while on the other side there's an illustration of a tall building with a spire at the top. There's also some text indicating measurements like \"11 second fall\" and distances such as \"700m\".Audio: There seems to be no distinct audio mentioned here, just the description of the visuals."
         },
         {
           "segment_index": 3,
           "time_range": "162.0s - 168.0s",
-          "query": "VISUAL: The video shows an illustration of a mine entrance with a blue tent-like structure over it. There's a figure standing inside the tent. The ground is made up of brown blocks. There's also some text that says \"Chilean Mine Disaster\" and gives measurements like \"700m, 2,297ft\". AUDIO: Someone is speaking about miners being trapped for 69 days back in 2010 at a depth of 970 meters. It seems to be a narration or explanation related to the Chilean mine disaster. What do you think about this event? Do you know any other details about it?"
+          "query": "Visually, it shows an illustration of a mine entrance with \"Chilean Mine Disaster\" written above it. There's also some text indicating measurements like \"700m, 2,297ft.\" The scene seems to depict a mining site.\n\nAudio-wise, there is no clear indication of any specific sounds or speech in these six seconds. It might be silent or just not audible within that short clip."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 323.5002419948578
+      "processing_time": 192.93201732635498
     },
     {
-      "comment_index": 3618,
-      "video_id": "E39GIysMevQ",
-      "comment": "3:18 now that's underground music",
-      "language": "en",
-      "channel_name": "RealLifeLore",
-      "category": "documentary",
-      "likes": 124.0,
-      "comment_timestamp": 198.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "189.0s - 195.0s",
-          "query": "VISUAL: The video shows an illustration of a concert scene underground. There's a blue cave-like structure with stick figures playing musical instruments - one on guitar, another singing into a microphone, and someone drumming. The background is pixelated brown squares. There's also some text indicating depth measurements like \"1,410m\" and \"1,642m\". AUDIO: A male voice speaks about something related to a band called Agonizer from Finland performing at a deep location, mentioning depths of 1,642 meters. It seems to be explaining or narrating facts about this event. So, what do you think about such deep concerts? Do you find it interesting?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "195.0s - 201.0s",
-          "query": "VISUAL: The video shows a pixelated image on one side with a blue background on the other. There's some text about Lake Baikal's depth in both meters and feet. It also has numbers like \"1,857m\" and \"1,642m\". AUDIO: Someone is speaking about the depth of Lake Baikal in Russia, mentioning it's the deepest lake on earth and giving its depths in meters and feet. So, what do you think about Lake Baikal? Have you ever heard of it before?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "201.0s - 207.0s",
-          "query": "VISUAL: The video shows two pixelated images side - by - side. On the left is a brownish - orange blocky texture with \"1，857m， 1.15mi\" written on it. On the right, there's another similar texture with \"Grand Canyon\" written over it. There's also an image of a cave entrance below that text.AUDIO: Someone is speaking about the depth of the Grand Canyon and caves. They mention \"1，857 meters down is the deepest part of the Grand Canyon.\" Then they say something about the deepest known cave on Earth being located somewhere else. It seems like they're comparing these depths.If you have any thoughts or questions about this, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 332.7668511867523
-    },
-    {
-      "comment_index": 3619,
+      "comment_index": 1748,
       "video_id": "E39GIysMevQ",
       "comment": "4:08: \"Hey honey, what are you doing?\" \"Eh, i am falling down the mine\"",
       "language": "en",
@@ -229,24 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "239.0s - 245.0s",
-          "query": "VISUAL: The video shows two side - by - side images. On the left is an image of a phone with \"Moab Khotsong Mine\" written above it and some measurements below. On the right, there's an image of a structure that looks like a mine shaft going down into the ground. There's also a measurement of \"3,132m, 1.9mi\" next to it. Then it cuts to another pair of images. The left one has \"Deepest Organism\" written on it along with a measurement of \"3,600m, 2.2mi\". The right image seems to be a close - up view of something small and round, possibly related to the organism mentioned.AUDIO: There's no clear audio described here. It just says \"higher phone call even further down at three thousand six hundred meters is the deepest point that a multi -\". This doesn't seem to match the visuals shown in the video.What do you think about these descriptions? Do they make sense based on what you saw?"
+          "query": "I'm sorry, but I can't analyze the video segment you've described. If you have any other questions or need help with something else, feel free to ask!"
         },
         {
           "segment_index": 2,
           "time_range": "245.0s - 251.0s",
-          "query": "VISUAL: There's an image on the right side showing a close - up of some kind of organism under magnification. It looks like a worm or something similar with a textured surface. On the left side, there's text that says \"Deepest Organism\" along with a measurement of depth, 3, 600 meters, which is about 2. 2 miles.AUDIO: The audio has someone speaking, saying \"cellular organism has been found alive this freaky looking worm but human beings themselves.\" It seems to be a narration or explanation related to the visuals.What do you think about this organism? Have you heard of anything like it before?"
+          "query": "I'm sorry, but I can't analyze the video segment you mentioned. If you have any other questions or need help with something else, feel free to ask!"
         },
         {
           "segment_index": 3,
           "time_range": "251.0s - 257.0s",
-          "query": "VISUAL: The video shows a pixelated brown wall with a white vertical line down the middle. There's some kind of image or icon on the right side that seems to be related to mining. It has \"Deepest Mine\" written above it and an illustration of someone mining with a pickaxe. There are also some numbers like \"3,600m， 2.2mi\" and \"4,000m， 2.5mi\" displayed at different points.AUDIO: A man is speaking about mines being deeper than something, mentioning \"4,000 meters down is the deepest part of the deepest mine.\".If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's a white vertical line on a brown pixelated background. There are some small blue dots scattered around it. On the right side, there's an illustration of two figures digging with pickaxes in a yellow area labeled \"Deepest Mine.\" Below that, there are some green dots representing gold.\n\nAudio-wise, I can't really tell much from just these six seconds. It seems like there might be some kind of narration or explanation about mining depth, but without more context, it's hard to say for sure."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 386.5359194278717
+      "processing_time": 251.8794150352478
     },
     {
-      "comment_index": 3620,
+      "comment_index": 1749,
       "video_id": "E39GIysMevQ",
       "comment": "2:54 69 days, hehe, no? O-ok I’ll see myself out.",
       "language": "en",
@@ -259,24 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "165.0s - 171.0s",
-          "query": "VISUAL: The video shows a pixelated image with a vertical white line in the middle. On one side is a brown blocky texture representing earth or rock. On the other side, there's a blue area with a sun symbol on it. There's also some text at the bottom left corner that says \"970m， 0.6mi.\" AUDIO: There's no speech or music in the audio. Just the sound of the video playing. What do you think about this video? Do you have any other questions related to it?"
+          "query": "Visually, the video shows a close - up of a pixelated image. On the left side, there are brown blocks with some lighter and darker shades. In the middle, there's a white vertical line. On the right side, there's a blue area with a yellow sun - like shape on it. There are no people or actions in the video. The colors are mainly brown, white, and blue. There's no movement in the video. The audio is just a voice saying \"970 meters down is the deepest hole ever dug that still has an open sky above it.\""
         },
         {
           "segment_index": 2,
           "time_range": "171.0s - 177.0s",
-          "query": "VISUAL: The video shows an aerial view of the Bingham Canyon Open Pit Mine in Utah. It's a large, deep pit with steep sides. There are roads and some machinery visible inside it. The surrounding area has mountains in the background.AUDIO: A man is speaking about the mine, mentioning its depth and comparing it to the height of the Burj Khalifa. He also mentions that it's located in Utah.So, what do you think about this mine? Do you know anything else about it?"
+          "query": "I'm sorry, I can't view videos directly. However, if you describe the video to me, I'd be happy to help analyze it!"
         },
         {
           "segment_index": 3,
           "time_range": "177.0s - 183.0s",
-          "query": "VISUAL: The video shows an open-pit mine with steep, layered walls. There's a road winding through it. In the background, there are snow - capped mountains under a blue sky. There's also a graphic of Burj Khalifah on the right side.AUDIO: A man is speaking about the Burj Khalifah being the tallest building in the world and having over 100 more meters to reach the surface. He seems to be explaining something related to the building's height.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "I'm sorry, but I can't analyze the video segment you mentioned. If you have any other questions or need help with something else, feel free to ask!"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 259.7672505378723
+      "processing_time": 214.79742074012756
     },
     {
-      "comment_index": 3621,
+      "comment_index": 1750,
       "video_id": "E39GIysMevQ",
       "comment": "USA: I am not going to dig a deeper hole than russia. There is oil and gas USA: say no more! 5:53",
       "language": "en",
@@ -289,24 +289,54 @@
         {
           "segment_index": 1,
           "time_range": "344.0s - 350.0s",
-          "query": "VISUAL: The video shows a close - up view of a Minecraft - like blocky terrain with brown and gray blocks. There's a white vertical line on one side and some black lines on another. There are also numbers indicating distances in meters and miles. The name \"Z44 - Chavyo\" is written at the bottom right.AUDIO: A male voice speaks about passing by an oil and gas well called Z44 - Chavyo that has drilled down to a depth of 12, 000 meters. It seems to be describing something related to the video content.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "I'm sorry, but I can't analyze the video segment you've provided. It seems to be a distorted or corrupted image rather than a video. If you have a clear video, I'd be happy to help analyze it."
         },
         {
           "segment_index": 2,
           "time_range": "350.0s - 356.0s",
-          "query": "VISUAL: The video shows a pixelated Minecraft-like texture with measurements like \"12,262m\" and \"7.6mi\". There's also an image of Dubai's Burj Khalifa with a red arrow pointing to it and text saying \"15 of these!\". AUDIO: There's some kind of narration or explanation about stacking something equivalent to 15 Burj Khalifas on top of another thing. It seems to be related to the visuals shown. What do you think about that? Do you have any other questions regarding this video?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 6.11 GiB. GPU 1 has a total capacity of 23.56 GiB of which 2.79 GiB is free. Including non-PyTorch memory, this process has 20.76 GiB memory in use. Of the allocated memory 19.05 GiB is allocated by PyTorch, and 1.39 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 3,
           "time_range": "356.0s - 362.0s",
-          "query": "VISUAL: The video shows a cityscape with tall buildings, including one very prominent skyscraper. There's also some water visible near the buildings. The sky is clear and blue.AUDIO: A man is speaking about something related to digging holes in the crust. He mentions that it represents the deepest hole humanity has ever dug.So, what do you think about this? Do you have any other questions or thoughts on it?"
+          "query": "Well, I'm not sure if there's actually any video to analyze here. The text doesn't seem to describe a video at all. It just gives some measurements and a name \"Z44-Chavyo\". So, I can't really give you a proper analysis based on that. Maybe you could check again?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 282.74106454849243
+      "processing_time": 221.07409930229187
     },
     {
-      "comment_index": 3622,
+      "comment_index": 1751,
+      "video_id": "E39GIysMevQ",
+      "comment": "6:24 g o o g l e  e a r t h",
+      "language": "en",
+      "channel_name": "RealLifeLore",
+      "category": "documentary",
+      "likes": 49.0,
+      "comment_timestamp": 384.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "375.0s - 381.0s",
+          "query": "Oh, I see what you're asking! So, visually, it looks like there's an image of Earth from space with two cities labeled - Lisbon on one side and Astana on the other. It seems to be showing some kind of comparison or connection between these two places. Hmm. As for the audio, there s just someone speaking about humanity venturing somewhere new. But that s pretty much all we can gather from those six seconds.Anything else you noticed or want to ask about?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "381.0s - 387.0s",
+          "query": "Sorry, I can't analyze that video since it's not available to me. But if you describe it to me or share more details about what was shown, I'd be happy to help!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "387.0s - 393.0s",
+          "query": "Sorry, I can't analyze the video segment as you've described it. Could you provide more details or clarify what you're asking?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 167.35217666625977
+    },
+    {
+      "comment_index": 1752,
       "video_id": "E39GIysMevQ",
       "comment": "Who else read \"orgasm\" at 4:20?",
       "language": "en",
@@ -319,84 +349,24 @@
         {
           "segment_index": 1,
           "time_range": "251.0s - 257.0s",
-          "query": "VISUAL: The video shows a pixelated brown wall with a white vertical line down the middle. There's some kind of image or icon on the right side that seems to be related to mining. It has \"Deepest Mine\" written above it and an illustration of someone mining with a pickaxe. There are also some numbers like \"3,600m， 2.2mi\" and \"4,000m， 2.5mi\" displayed at different points.AUDIO: A man is speaking about mines being deeper than something, mentioning \"4,000 meters down is the deepest part of the deepest mine.\".If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's a white vertical line on a brown pixelated background. There are some small blue dots scattered around it. On the right side, there's an illustration of two figures digging with pickaxes in a yellow area labeled \"Deepest Mine.\" Below that, there are some green dots representing gold.\n\nAudio-wise, I can't really tell much from just these six seconds. It seems like there might be some kind of narration or explanation about mining depth, but without more context, it's hard to say for sure."
         },
         {
           "segment_index": 2,
           "time_range": "257.0s - 263.0s",
-          "query": "VISUAL: The video shows an image split into two parts. On one side is a pixelated brown background with \"4,000m， 2.5mi\" written on it. On the other side, there's a silhouette of a person mining in a yellow area labeled \"Deepest Mine\". AUDIO: There's no specific audio mentioned here. So, I can't describe any speech, music or sound effects. What do you think about this? Do you have any other videos to analyze?"
+          "query": "Well, in the video, visually, there's a tunnel with wooden beams and a person silhouetted, holding a pickaxe, digging. The tunnel is dimly lit. There's also a sign that says \"Deepest Mine\" and some text at the bottom saying \"Trip Time is >1 Hour\". The colors are mostly brown and gray, with some yellow for the sign. There's not much movement in the tunnel, just the person digging. In terms of audio, there's no speech or music. It's just the sound of the pickaxe hitting the ground and some ambient tunnel sounds. So, what do you think about this? Do you have any other questions?"
         },
         {
           "segment_index": 3,
           "time_range": "263.0s - 269.0s",
-          "query": "VISUAL: The video shows a long, narrow tunnel with wooden beams on the sides. There's some kind of lighting inside, making it look somewhat dim. You can see the tunnel stretching into the distance.AUDIO: There is no distinct audio mentioned here. It seems like there might be some background noise or static, but nothing clear enough to identify specifically.If you have any other questions about this or need more details, feel free to ask!"
+          "query": "**Visual:** The video shows an underground tunnel with wooden beams forming its structure. There's a sign indicating \"Trip Time is >1 Hour\" and another showing \"66°C, 151°F\". The tunnel appears dimly lit.\n\n**Audio:** No distinct audio elements can be identified from this short segment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 260.85006046295166
+      "processing_time": 208.68088340759277
     },
     {
-      "comment_index": 3623,
-      "video_id": "E39GIysMevQ",
-      "comment": "4:08  -OW SHIT im going to die AND MISS MY PHONE CALL!!!!",
-      "language": "en",
-      "channel_name": "RealLifeLore",
-      "category": "documentary",
-      "likes": 44.0,
-      "comment_timestamp": 248.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "239.0s - 245.0s",
-          "query": "VISUAL: The video shows two side - by - side images. On the left is an image of a phone with \"Moab Khotsong Mine\" written above it and some measurements below. On the right, there's an image of a structure that looks like a mine shaft going down into the ground. There's also a measurement of \"3,132m, 1.9mi\" next to it. Then it cuts to another pair of images. The left one has \"Deepest Organism\" written on it along with a measurement of \"3,600m, 2.2mi\". The right image seems to be a close - up view of something small and round, possibly related to the organism mentioned.AUDIO: There's no clear audio described here. It just says \"higher phone call even further down at three thousand six hundred meters is the deepest point that a multi -\". This doesn't seem to match the visuals shown in the video.What do you think about these descriptions? Do they make sense based on what you saw?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "245.0s - 251.0s",
-          "query": "VISUAL: There's an image on the right side showing a close - up of some kind of organism under magnification. It looks like a worm or something similar with a textured surface. On the left side, there's text that says \"Deepest Organism\" along with a measurement of depth, 3, 600 meters, which is about 2. 2 miles.AUDIO: The audio has someone speaking, saying \"cellular organism has been found alive this freaky looking worm but human beings themselves.\" It seems to be a narration or explanation related to the visuals.What do you think about this organism? Have you heard of anything like it before?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "251.0s - 257.0s",
-          "query": "VISUAL: The video shows a pixelated brown wall with a white vertical line down the middle. There's some kind of image or icon on the right side that seems to be related to mining. It has \"Deepest Mine\" written above it and an illustration of someone mining with a pickaxe. There are also some numbers like \"3,600m， 2.2mi\" and \"4,000m， 2.5mi\" displayed at different points.AUDIO: A man is speaking about mines being deeper than something, mentioning \"4,000 meters down is the deepest part of the deepest mine.\".If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 396.89947175979614
-    },
-    {
-      "comment_index": 3624,
-      "video_id": "E39GIysMevQ",
-      "comment": "4:20 thought it said orgasm   Edit: It’s sad this is the most likes I’ve gotten",
-      "language": "en",
-      "channel_name": "RealLifeLore",
-      "category": "documentary",
-      "likes": 40.0,
-      "comment_timestamp": 260.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "251.0s - 257.0s",
-          "query": "VISUAL: The video shows a pixelated brown wall with a white vertical line down the middle. There's some kind of image or icon on the right side that seems to be related to mining. It has \"Deepest Mine\" written above it and an illustration of someone mining with a pickaxe. There are also some numbers like \"3,600m， 2.2mi\" and \"4,000m， 2.5mi\" displayed at different points.AUDIO: A man is speaking about mines being deeper than something, mentioning \"4,000 meters down is the deepest part of the deepest mine.\".If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "257.0s - 263.0s",
-          "query": "VISUAL: The video shows an image split into two parts. On one side is a pixelated brown background with \"4,000m， 2.5mi\" written on it. On the other side, there's a silhouette of a person mining in a yellow area labeled \"Deepest Mine\". AUDIO: There's no specific audio mentioned here. So, I can't describe any speech, music or sound effects. What do you think about this? Do you have any other videos to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "263.0s - 269.0s",
-          "query": "VISUAL: The video shows a long, narrow tunnel with wooden beams on the sides. There's some kind of lighting inside, making it look somewhat dim. You can see the tunnel stretching into the distance.AUDIO: There is no distinct audio mentioned here. It seems like there might be some background noise or static, but nothing clear enough to identify specifically.If you have any other questions about this or need more details, feel free to ask!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 248.57414412498474
-    },
-    {
-      "comment_index": 3625,
+      "comment_index": 1753,
       "video_id": "E39GIysMevQ",
       "comment": "4:06 Man:Oh hey honey what im i doing? Oh just falling to my death.",
       "language": "en",
@@ -409,54 +379,24 @@
         {
           "segment_index": 1,
           "time_range": "237.0s - 243.0s",
-          "query": "VISUAL: The video shows a phone on a brown pixelated background labeled \"Moab Khotsong Mine\" with a distance of 3，132m， 1.9mi. There's also an elevator-like structure going down into a mine, marked \"25 Seconds\". Then it switches to another scene showing a different depth of the mine at 3，600m， 2.2mi. The elevator is still visible going down.AUDIO: A man speaks about receiving and missing a phone call further down at 3，600 meters. It seems like he's talking about communication challenges in deep mines.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "I'm sorry, but I can't analyze the video segment you've described. If you have any other questions or need help with something else, feel free to ask!"
         },
         {
           "segment_index": 2,
           "time_range": "243.0s - 249.0s",
-          "query": "VISUAL: There's a pixelated background with shades of brown and gray squares. On the right side, there's an image of a round, textured organism under a microscope. It has a rough surface with some protrusions. There's also a red arrow pointing to it.AUDIO: A man is speaking about the deepest point where a multicellular organism was found alive, which is 3, 600 meters or 2.2 miles deep. He describes the organism as \"freaky - looking.\" What do you think about that? Do you have any other questions related to this?"
+          "query": "I'm sorry, but I can't view videos. However, if you describe the video to me, I can help analyze it!"
         },
         {
           "segment_index": 3,
           "time_range": "249.0s - 255.0s",
-          "query": "VISUAL: The video shows a pixelated background with a red arrow pointing to an image of a round organism at first. Then it transitions to another pixelated scene with a white vertical line in the middle. There's no movement or action within these scenes.AUDIO: A man is speaking about worms and humans going deeper than something, mentioning \"4000 meters down.\" There are no other sounds like music or sound effects. So, what do you think about this? Do you have any other videos for me to analyze?"
+          "query": "I'm sorry, I can't view videos directly. But if you describe the video to me, I'd be happy to help analyze it!"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 289.01283144950867
+      "processing_time": 247.74701833724976
     },
     {
-      "comment_index": 3626,
-      "video_id": "E39GIysMevQ",
-      "comment": "4:20 This Freaking Looking Worm",
-      "language": "en",
-      "channel_name": "RealLifeLore",
-      "category": "documentary",
-      "likes": 30.0,
-      "comment_timestamp": 260.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "251.0s - 257.0s",
-          "query": "VISUAL: The video shows a pixelated brown wall with a white vertical line down the middle. There's some kind of image or icon on the right side that seems to be related to mining. It has \"Deepest Mine\" written above it and an illustration of someone mining with a pickaxe. There are also some numbers like \"3,600m， 2.2mi\" and \"4,000m， 2.5mi\" displayed at different points.AUDIO: A man is speaking about mines being deeper than something, mentioning \"4,000 meters down is the deepest part of the deepest mine.\".If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "257.0s - 263.0s",
-          "query": "VISUAL: The video shows an image split into two parts. On one side is a pixelated brown background with \"4,000m， 2.5mi\" written on it. On the other side, there's a silhouette of a person mining in a yellow area labeled \"Deepest Mine\". AUDIO: There's no specific audio mentioned here. So, I can't describe any speech, music or sound effects. What do you think about this? Do you have any other videos to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "263.0s - 269.0s",
-          "query": "VISUAL: The video shows a long, narrow tunnel with wooden beams on the sides. There's some kind of lighting inside, making it look somewhat dim. You can see the tunnel stretching into the distance.AUDIO: There is no distinct audio mentioned here. It seems like there might be some background noise or static, but nothing clear enough to identify specifically.If you have any other questions about this or need more details, feel free to ask!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 261.7162547111511
-    },
-    {
-      "comment_index": 3627,
+      "comment_index": 1754,
       "video_id": "E39GIysMevQ",
       "comment": "3:20 the man with the drums looks dirty",
       "language": "en",
@@ -469,24 +409,24 @@
         {
           "segment_index": 1,
           "time_range": "191.0s - 197.0s",
-          "query": "VISUAL: The video shows an illustration of a concert scene with three stick - figure musicians on stage. There's also some pixelated brown background that seems to represent soil or earth. The depth is marked at different points, like \"1，410m\" and \"1，642m\". AUDIO: A man speaks about the depth of Lake Baikal being 1，642 meters down in Finland. He mentions it's the deepest lake on Earth. So, what do you think about this? Do you know any other interesting facts about lakes?"
+          "query": "Visually, the video shows a pixelated image of a lake with a sign that says \"Deepest Concert.\" There are two pixelated figures, one playing a guitar and the other playing drums, standing in front of a blue area representing the lake. The background is a brownish texture, possibly representing the shore or land. The text \"Depth of Lake Baikal\" is also visible, along with some measurements like \"1,642m\" and \"5,387ft.\".Audio: There is a male voice speaking in English. He says, \"in Finland 1,642 meters down is the depth of the deepest lake on Earth.\""
         },
         {
           "segment_index": 2,
           "time_range": "197.0s - 203.0s",
-          "query": "VISUAL: The video shows a pixelated image with a brownish texture on one side and blue on the other. There's some text that says \"Depth of Lake Baikal\" and gives measurements like \"1,642m, 5,387ft\". Then it changes to show another measurement for Grand Canyon, \"1,857m, 1.15mi\", also with a similar pixelated background. No people or movement are visible.AUDIO: There is a male voice speaking about Lake Baikal in Russia being deep at 1,857 meters down, which is the deepest part of the Grand Canyon. It seems to be an informational narration."
+          "query": "I'm sorry, but I can't analyze the video segment you've provided. The description you've given seems to be a mix of text and numbers, not a video. Could you please clarify or provide the actual video segment?"
         },
         {
           "segment_index": 3,
           "time_range": "203.0s - 209.0s",
-          "query": "VISUAL: The video shows two different images side - by - side. On the left is an image with a brown pixelated background labeled \"Deepest Cave\" and some measurements. On the right, there's another pixelated brown background with \"Grand Canyon\" written on it, also showing some measurements. Then it switches to show a dark cave interior with a person exploring it using lights.AUDIO: There's no distinct speech or music in the audio. Just some kind of ambient noise that could be from the cave exploration. What do you think about these images? Do they seem interesting to you?"
+          "query": "Visually, the video shows a split-screen. On the left side, there are brown and orange pixelated blocks, with text indicating measurements like \"1,857m\" and \"1,857m\". On the right side, there's a dark cave scene with a light source, and the text \"Grand Canyon Deepest Cave\" is displayed. The right side also shows a depth measurement of \"2,197m\" and \"1.4mi\".\n\nAudio-wise, there's a male voice speaking in English. He says, \"Grand Canyon the deepest known cave on earth is located 2,197 meters\"."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 310.9553210735321
+      "processing_time": 349.9068615436554
     },
     {
-      "comment_index": 3628,
+      "comment_index": 1755,
       "video_id": "E39GIysMevQ",
       "comment": "1:38 - you stand on the platform in Kiev, notice some green fluid dripping from the ceiling...",
       "language": "en",
@@ -499,24 +439,24 @@
         {
           "segment_index": 1,
           "time_range": "89.0s - 95.0s",
-          "query": "VISUAL: There's an illustration showing a tree trunk with blue roots extending deep into the ground. The depth is marked as 122 meters or 400 feet. The background has a pixelated texture like Minecraft blocks.AUDIO: A man speaks about the deepest known point that a plant's roots have ever reached, mentioning a fig tree in South Africa.If you want to talk more about plants or anything else related, feel free to ask!"
+          "query": "Visually, the video shows a close - up of a tree trunk with a label indicating \"122m, 400ft\" and \"Deepest Roots.\" The roots are depicted in a light blue color, spreading out from the trunk. There are no people or other objects in the scene. The background is a mix of brown and grayish - brown squares, resembling a pixelated or block - like texture.Audibly, there is a voiceover speaking in English about the deepest known point that a plant's roots have ever reached, specifically mentioning a fig tree in South Africa. The voiceover is clear and informative."
         },
         {
           "segment_index": 2,
           "time_range": "95.0s - 101.0s",
-          "query": "VISUAL: The video shows a pixelated brown surface with a white vertical line in the middle. As it goes down, there's a transition to a blue underwater scene. There are no objects or people visible, just these two distinct scenes.AUDIO: There is some kind of narration about reaching 220 meters down and arriving at the deepest river in the world, the Congo River in Africa. No other specific sounds like music or sound effects are mentioned.If you have any more questions about this or want to discuss something else related to videos, feel free to let me know!"
+          "query": "Visually, the video shows a pixelated image of a river. The river is brownish in color, and there's a white vertical line in the middle, possibly indicating a depth marker. The depth is labeled as 220 meters, 720 feet, on the left side of the image. The background on the right side is a gradient of blue, suggesting the river is deep enough to be underwater.Audibly, there's a male voice speaking in English. He says, \"220 meters down and we arrive at the deepest river in the world the Congo River in Africa.\""
         },
         {
           "segment_index": 3,
           "time_range": "101.0s - 107.0s",
-          "query": "VISUAL: The video shows a pixelated image with a white vertical line on a brown background. There's also an illustration of a tunnel entrance made of stone bricks. Text appears next to it saying \"Deepest Train Tunnel\" and some measurements like \"240m, 787ft\". Then there's a map with a red arrow pointing at a specific location.AUDIO: Someone is speaking about riding through the deepest railway tunnel in the world that connects the Japanese islands at 240 meters. It seems like they're explaining something related to the visuals shown.Does that help? If you have any other questions or need more details, feel free to ask!"
+          "query": "Visually, the video shows a pixelated image of a tunnel entrance. The tunnel is made of brown and gray blocks, with a white archway. There are some labels on the left side indicating distances in meters and feet. The tunnel entrance is dark, suggesting it goes deep underground. There are no people or other objects visible in the tunnel itself. The overall color scheme is earthy tones with the white of the tunnel entrance standing out.\n\nAudio - There is no speech or music in the audio. The only sound is a brief, low-pitched beep or click that occurs at the beginning of the segment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 291.80664229393005
+      "processing_time": 273.36735916137695
     },
     {
-      "comment_index": 3629,
+      "comment_index": 1756,
       "video_id": "E39GIysMevQ",
       "comment": "At 4:16 who thought the text said deepest orgasim",
       "language": "en",
@@ -529,24 +469,24 @@
         {
           "segment_index": 1,
           "time_range": "247.0s - 253.0s",
-          "query": "VISUAL: There's an image of a strange-looking worm on a brown pixelated background. The words \"Deepest Organism\" are written above it. There's also some text at the bottom left saying \"3,600m， 2.2mi.\" A red arrow points to the worm.AUDIO: Someone is speaking about how humans have been even deeper than where this worm lives. It seems like they're talking about exploration or something related to depth. So, what do you think about this? Do you know any other deep - dwelling organisms?"
+          "query": "Visual: The video shows an image of a deep-sea organism with a long, segmented body. It's labeled \"Deepest Organism\" and has measurements indicating its depth at 3,600 meters or about 2.2 miles. There's also a red arrow pointing to it.\n\nAudio: There is no distinct audio mentioned here."
         },
         {
           "segment_index": 2,
           "time_range": "253.0s - 259.0s",
-          "query": "VISUAL: The video shows a pixelated brown wall with a white vertical line down the middle. There's an illustration at the bottom right showing a miner with a pickaxe digging into a yellow area labeled \"Deepest Mine.\" The depth is marked as \"4,000m， 2.5mi\" on the left side.AUDIO: A man speaks about the deepest mine on Earth being located 4, 000 meters deep. He mentions that it's also the deepest part of the deepest mine on Earth.If you have any other questions or need more details, feel free to ask!"
+          "query": "Visually, the video shows a pixelated image of a mine shaft. There are two sections of the shaft, one on the left and one on the right. The left section has a label \"4,000m (2.5mi)\" indicating the depth. The right section has the text \"Deepest Mine\" and an illustration of a miner with a pickaxe digging into a yellow area, suggesting the depth. The colors are mostly shades of brown and orange, typical of a mine setting. There's no movement or action depicted in the video.\n\nAudio - There is no audio in this video segment."
         },
         {
           "segment_index": 3,
           "time_range": "259.0s - 265.0s",
-          "query": "VISUAL: The video shows an underground tunnel with wooden supports on either side. There's a light at the end of the tunnel. It looks quite dark inside. There's also some text that says \"Deepest Mine\" and \"Trip Time is >1 Hour\". AUDIO: I can't really tell much from just these six seconds. There might be some background noise or faint sounds, but it's hard to say for sure. What do you think about this? Do you have any other questions related to the video?"
+          "query": "Visual: The video shows a dark, narrow tunnel with wooden beams and a rough, uneven floor. There's a silhouette of a person with a pickaxe, suggesting mining or excavation work. The tunnel is dimly lit, with a few light sources creating a somewhat eerie atmosphere. The text \"Deepest Mine\" and \"Trip Time is >1 Hour\" are visible, indicating the depth and duration of the journey. The overall color scheme is dark and earthy, with browns and blacks dominating.\n\nAudio: There's no distinct speech or music in the audio. The only sound is the ambient noise of the tunnel, possibly echoing or the sound of the person working. It's a quiet, somewhat tense sound that complements the visual of the dark tunnel."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 265.11106038093567
+      "processing_time": 287.08423924446106
     },
     {
-      "comment_index": 3630,
+      "comment_index": 1757,
       "video_id": "E39GIysMevQ",
       "comment": "3:22 Dethklok has entered the chat. \"Hold my beer.\"",
       "language": "en",
@@ -559,24 +499,24 @@
         {
           "segment_index": 1,
           "time_range": "193.0s - 199.0s",
-          "query": "VISUAL: The video shows a pixelated brown surface on the left side with some lighter patches. There's a white vertical line separating it from a blue background on the right. Text appears on the blue background saying \"Depth of Lake Baikal\" along with measurements \"1,642m，5,387ft\". AUDIO: Someone is speaking about the depth of Lake Baikal being 1, 642 meters or 5, 387 feet. It's just speech without any other sounds like music or sound effects. What do you think about Lake Baikal? Have you ever heard of it before?"
+          "query": "Visually, the video shows a pixelated image of a lake. On the left side, there's a brownish area that looks like the shore or land. On the right side, there's a blue area representing the water. There are no people or objects in motion. The colors are mainly brown and blue, with a white vertical line separating the two areas. The text \"Depth of Lake Baikal\" is displayed in white on the blue side, with measurements in meters and feet below it. The text \"1.642m, 5,387ft\" is also shown on the left side."
         },
         {
           "segment_index": 2,
           "time_range": "199.0s - 205.0s",
-          "query": "VISUAL: The video shows two pixelated images side - by - side. On the left is a brownish - orange blocky texture with some blue squares scattered around. There's also a white line separating it from the right image which has a similar blocky texture but with more visible details like rock formations at the bottom. There are numbers \"1，857m\" and \"1.15mi\" on both sides of the white line.AUDIO: A male voice speaks about the depth of Lake Baikal being 1，642 meters and then mentions that the deepest part of the Grand Canyon is 1，857 meters down. It seems to be an informational narration. So, what do you think about these depths? Do you know any other interesting facts related to them?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.05 GiB. GPU 1 has a total capacity of 23.56 GiB of which 2.99 GiB is free. Including non-PyTorch memory, this process has 20.56 GiB memory in use. Of the allocated memory 16.25 GiB is allocated by PyTorch, and 4.00 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 3,
           "time_range": "205.0s - 211.0s",
-          "query": "VISUAL: The video shows a pixelated background with a vertical white line separating two images. On one side is an image of a cave entrance with some text indicating \"Deepest Cave\" and its depth of 1.4 miles. On the other side is an image of a deep cave interior with people exploring it using flashlights.AUDIO: There's a voiceover saying that the deepest cave on Earth is located 2， 197 meters beneath the surface in Georgia.If you have any thoughts or questions about this video, feel free to share!"
+          "query": "Visually, the video shows a cave interior. There are walls with a rough, textured appearance, and the cave seems quite dark. There's a light source, possibly a flashlight, illuminating part of the cave, revealing its depth and the rocky formations. The cave looks narrow and deep, with a sense of mystery and exploration. There are no people or other objects visible in the video, just the cave itself.Audibly, there is a voiceover in the background. The voiceover is likely providing information about the cave, such as its depth and location. The tone of the voiceover seems informative and educational."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 320.7753143310547
+      "processing_time": 273.3440444469452
     },
     {
-      "comment_index": 3631,
+      "comment_index": 1758,
       "video_id": "E39GIysMevQ",
       "comment": "0:43 look at this Minecraft crap",
       "language": "en",
@@ -589,21 +529,81 @@
         {
           "segment_index": 1,
           "time_range": "34.0s - 40.0s",
-          "query": "VISUAL: There's a red arrow pointing down towards two gravestones labeled \"RIP\". The ground is pixelated with grass blocks on top and dirt underneath. Rocks are scattered at the top edge. There's also an image of Pharaoh Tutankhamun next to some measurements like \"1.8m, 6ft\" and \"4m, 13 ft\".\n\nAUDIO: A man speaks about zombies coming from a certain depth, mentioning \"4 meters down\" and arriving at a specific depth related to Tutankhamun. It seems like he's explaining something about the depth of zombies compared to Tutankhamun's tomb depth.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a pixelated scene with a large red arrow pointing downwards. There are gravestones labeled \"RIP\" and a golden mask, possibly representing Tutankhamun's. The background is a light blue sky with some brown rocks at the bottom. The scene seems to be set in a desert-like environment.\n\n**Audio:** There is a male voice speaking in English. The speech is about zombies coming from a depth of 4 meters down. The tone is somewhat serious and informative."
         },
         {
           "segment_index": 2,
           "time_range": "40.0s - 46.0s",
-          "query": "VISUAL: There's an illustration showing a Minecraft - like scene with grass blocks, dirt blocks, and some rocks on top. A red arrow points down to a white block representing Pharaoh Tutankhamun's tomb. There are measurements next to it, like \"1.8m, 4m, 6m\" which seem to indicate depth levels. The background is blue.AUDIO: Someone is speaking about Pharaoh Tutankhamun's tomb being discovered at a certain depth below the surface. It mentions reaching a maximum depth of six meters.If you have any other thoughts or questions about this, feel free to share!"
+          "query": "Visually, the video shows a pixelated scene with a red arrow pointing downwards. There are different layers of terrain, including grass, dirt, and stone. A pharaoh Tutankhamun figure is visible on the right side. The background is a light blue sky with some clouds. There are also some measurement labels like \"1.8m (6ft)\" and \"4m (13ft)\" indicating depth levels.\n\nAudio: There is no distinct audio mentioned in the description."
         },
         {
           "segment_index": 3,
           "time_range": "46.0s - 52.0s",
-          "query": "VISUAL: There's an illustration showing different depths underground with measurements like \"1.8m, 4m, 6m\" and \"12m\". There's also a red arrow pointing down and a black pickaxe icon. A tombstone labeled \"RIP\" is shown at one depth. An image of a crocodile appears next to \"Crocodile Burrows\" text. The background has grass blocks and dirt blocks.AUDIO: Someone is speaking about how deep metal detectors can detect signals from, mentioning that at 12 meters we can find the deepest burrows dug by something. It seems to be explaining something related to archaeology or excavation.If you have any other thoughts or questions about this, feel free to share!"
+          "query": "**Visual:** The video shows a cross-section view of soil layers with different depths marked. There's an illustration of a crocodile burrow at the bottom right corner. Arrows indicate depth measurements like \"1.8m\" for 6 feet, \"4m\" for 13 feet, etc., up to \"12m\" or 39 feet.\n\n**Audio:** No distinct audio is heard apart from the background which seems to be related to the topic being discussed about crocodile burrows and their depths."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 369.29814624786377
+      "processing_time": 249.13211798667908
+    },
+    {
+      "comment_index": 1759,
+      "video_id": "E39GIysMevQ",
+      "comment": "As of right now, 12,376m (5:57)",
+      "language": "en",
+      "channel_name": "RealLifeLore",
+      "category": "documentary",
+      "likes": 16.0,
+      "comment_timestamp": 357.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "348.0s - 354.0s",
+          "query": "I'm sorry, but I can't analyze the video segment you've described. If you have any other questions or need further assistance, feel free to ask!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "354.0s - 360.0s",
+          "query": "I'm sorry, I can't analyze that video because it's not available to me. If you could describe the content or share more details about it, I'd be happy to help!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "360.0s - 366.0s",
+          "query": "Visual: The video shows a pixelated image with a brownish texture, possibly representing a surface like soil or a wall. There are some white and light blue elements scattered across it. There are also some text boxes with measurements like \"12.262m (7.6mi)\" and \"12.376m (7.7mi)\". The text \"Z44-Chavyo\" is also visible. The overall look is very blocky and reminiscent of a video game or digital art.\n\nAudio: The audio consists of a male voice speaking. The speech is in English and seems to be explaining something related to the visuals, mentioning measurements and extending something down to 70, 000 meters below the Earth's surface."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 210.8009171485901
+    },
+    {
+      "comment_index": 1760,
+      "video_id": "E39GIysMevQ",
+      "comment": "3:57 how the cool kids do everything",
+      "language": "en",
+      "channel_name": "RealLifeLore",
+      "category": "documentary",
+      "likes": 15.0,
+      "comment_timestamp": 237.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "228.0s - 234.0s",
+          "query": "**Visual:** The video shows a Minecraft-style scene. There's a large, teal-colored structure that resembles a mine shaft. The background is made up of brown, pixelated blocks, typical of Minecraft's terrain. The structure has a door at the top and seems to be a vertical tunnel. There's text on the left side that says \"Moab Khotsong Mine\" and some measurements below it. On the right side, there's a timer that reads \"25 Seconds.\"\n\n**Audio:** The audio consists of a male voice speaking. The speech is in English and says, \"Reach the bottom but if you fell into it from the top it would take you 25 entire seconds for you to hit the.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "234.0s - 240.0s",
+          "query": "I'm sorry, but I can't analyze the video segment you mentioned. Could you please provide more details or clarify what you're asking?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "240.0s - 246.0s",
+          "query": "Well, in the video, visually, there are some pixelated images. On the left side, there's a pixelated phone icon with some text below it. On the right side, there's a pixelated image of a fingerprint. There's also a vertical white line separating these two images. The background seems to be made up of brown and teal pixelated squares. There's no movement in the video, it's just these static images. As for the audio, there's no speech or music. It's just a silent video. So, what do you think about this video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 292.83317375183105
     }
   ]
 }

@@ -1,0 +1,590 @@
+{
+  "video_id": "Lj4Od9D4puc",
+  "total_comments": 20,
+  "successful_comments": 19,
+  "failed_comments": 1,
+  "success_rate": "95.0%",
+  "comments": [
+    {
+      "comment_index": 15346,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "0:00 “So Apple is going to hate me for making this video,”                                             Apple: we never liked you",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 2900.0,
+      "error": "Invalid timestamp (<= 0)",
+      "analysis_type": "failed"
+    },
+    {
+      "comment_index": 15345,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "0:01 \"so apple's gonna hate me for making this video\"  Don't they already hate you for all the times you've roasted them ?",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 4800.0,
+      "comment_timestamp": 1.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "0.0s - 0.0s",
+          "query": "Visually, there's someone standing in a room with green walls. There are shelves filled with various items like boxes and equipment. The person is wearing a green shirt and seems to be holding something white. The scene looks like it could be some kind of workshop or lab.\n\nIn terms of audio, I can hear a man speaking. It starts right at the beginning and continues until about halfway through the clip. There's also background music playing throughout most of that time."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "0.0s - 4.0s",
+          "query": "**Visual:** The video shows a close-up view of a black smartphone with a cracked screen lying on a metallic surface. There's some kind of machinery or equipment around it, possibly related to repair or testing. The background is somewhat blurred.\n\n**Audio:** Music is playing throughout the entire 6 seconds of the video. It seems like an instrumental track without any lyrics."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "4.0s - 10.0s",
+          "query": "Visually, it seems like there's some kind of reflective surface with light patterns on it. There might be a person or something else partially visible through that reflection. The overall scene looks pretty dark and unclear though.Audibly, there s just background music playing without any distinct speech or other sounds. It gives off a calm vibe. What do you think about it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 184.8892378807068
+    },
+    {
+      "comment_index": 15347,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "5:09 \"So obviously I'm not a professional, I'm just showing that the machine actually works. Someone who does this on a regular basis would do a much cleaner job.\" Meanwhile, those professionals are watching this video as a tutorial.",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 1500.0,
+      "comment_timestamp": 309.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "300.0s - 306.0s",
+          "query": "Well, I don't actually have access to videos or audio right now. But if we were to analyze it based on your description, for the visual part, there'd be hands holding something that looks like a camera lens cover. The person seems to be adjusting or fitting it onto the camera lens. For the audio, there's just someone speaking about recommending a glass cover for the camera lens. They mention they'll show what they mean shortly. What do you think? Do you want me to help with anything else related to this?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "306.0s - 312.0s",
+          "query": "Well, I can't actually analyze videos directly here. But if you describe the video to me, I'd be happy to help break it down into those two parts for you! What do you see?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "312.0s - 318.0s",
+          "query": "Sure! So, visually, it looks like someone is working on something mechanical or electronic. Their hands are holding an object that seems to be disassembled or being repaired. There's some kind of tool involved too, maybe a screwdriver or pliers. The surface they're working on has some marks or stains, which could mean it's been used before.The audio? Hmm, I can't really tell much from just those few seconds. But if there was any sound, it might be related to the work - like tools clinking together or something being adjusted.What do you think about this? Do you have more details or another part of the video to share?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 237.39888191223145
+    },
+    {
+      "comment_index": 15348,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "1:58 Apple is literally about to gun this man down",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 233.0,
+      "comment_timestamp": 118.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "109.0s - 115.0s",
+          "query": "Visual: The video shows a close-up of a damaged iPhone with its screen shattered into many cracks. It's placed on some kind of metal surface with holes around it. There doesn't seem to be any movement or action involving people.\n\nAudio: No distinct speech, music, sound effects, or ambient sounds can be heard in this short clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "115.0s - 121.0s",
+          "query": "Visual: The video shows a close-up of a severely cracked iPhone screen. The cracks radiate outward from a central point, making it difficult to use. There's also some metal or plastic structure around the phone.\n\nAudio: Someone is speaking, saying something like \"after saving ourselves about five hundred or six hundred dollars Apple if you're watching you can totally buy one.\" It seems like they might be talking about repairing or replacing an expensive device."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "121.0s - 127.0s",
+          "query": "Visual: The video shows a close-up of a broken phone screen with cracks spreading across it. There's also some machinery or equipment visible around the phone, like cables and possibly a workbench. The background seems to be an indoor workspace.\n\nAudio: There is no distinct speech or music in the audio. Instead, there are some mechanical noises that could be related to the operation of the equipment seen near the phone."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 226.94772863388062
+    },
+    {
+      "comment_index": 15349,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "6:56 \"It's easier to clean up when it's wet\". Guess we can all agree there.",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 166.0,
+      "comment_timestamp": 416.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "407.0s - 413.0s",
+          "query": "Sure! So, for the visual part, there's someone holding an iPhone with a red strap attached to it. They're using something like a cloth or tissue to clean underneath the phone's screen. There are also some other objects on the table around them, like earphones and another piece of paper or label. The background is mostly just the tabletop.Anything else you want to know about the video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "413.0s - 419.0s",
+          "query": "Sure! So, visually, there's someone holding an iPhone with a red case. You can also see some pens and markers on the table. There s another hand reaching towards something off-screen. The background is mostly white, which makes everything stand out clearly.Audience-wise, it seems like there might be some conversation happening, maybe about cleaning or organizing things. But overall, it feels pretty quiet.What do you think? Do you have any other questions about it?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "419.0s - 425.0s",
+          "query": "**Visual:** The video shows someone holding an iPhone in their hand. In the background, there's some office equipment like a computer monitor and other items on desks. There seems to be a machine or tool near where they're working.\n\n**Audio:** Someone is speaking about water resistance, mentioning that even though glue has been applied in the same pattern Apple uses, it might not work effectively."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 202.4286060333252
+    },
+    {
+      "comment_index": 15350,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "6:57 that's what she said",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 147.0,
+      "comment_timestamp": 417.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "408.0s - 414.0s",
+          "query": "Sure! So, here's a quick breakdown:.Visually, there s someone holding an iPhone with a black case on it. They re using something to clean underneath the phone's glass. You can also spot some other objects like earbuds and a cleaning tool nearby.Audibly, there s just one person speaking, saying \"minutes we'll use isopropyl alcohol to clean up the seepage from underneath the glass.\".Does that help? Let me know if you need more details!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "414.0s - 420.0s",
+          "query": "Visual: A hand is holding an iPhone with a red case on it. There's also some kind of black device attached to the phone. The background seems to be a table or desk surface with various items like pens and possibly other small objects scattered around.\n\nAudio: Someone is speaking, but I can't make out the exact words from just these six seconds. It might be giving instructions or explaining something related to the phone or the device attached to it."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "420.0s - 426.0s",
+          "query": "**Visual:** The video shows someone holding an iPhone in their hand. You can see the back of the phone with the Apple logo clearly visible. In the background, there's some office equipment like desks, chairs, and possibly other electronic devices or tools.\n\n**Audio:** There is no distinct audio mentioned here, so I assume it might be silent or just the sound of the person handling the phone."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 187.957049369812
+    },
+    {
+      "comment_index": 15351,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "6:50 my reflection on the phone when the battery dies",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 64.0,
+      "comment_timestamp": 410.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "401.0s - 407.0s",
+          "query": "Well, I'm not sure if there's any audio to describe here. As for the visuals, it looks like someone is handling some kind of device or gadget with their hands. There might be other objects around too, but that's about all I can tell from just these six seconds. What do you think? Do you have more details about the video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "407.0s - 413.0s",
+          "query": "Sure! So, for the visual part, there's someone holding an iPhone with a red strap attached to it. They're using something like a cloth or tissue to clean underneath the phone's screen. There are also some other objects on the table around them, like earphones and another piece of paper or label. The background is mostly just the tabletop.Anything else you want to know about the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "413.0s - 419.0s",
+          "query": "Sure! So, visually, there's someone holding an iPhone with a red case. You can also see some pens and markers on the table. There s another hand reaching towards something off-screen. The background is mostly white, which makes everything stand out clearly.Audience-wise, it seems like there might be some conversation happening, maybe about cleaning or organizing things. But overall, it feels pretty quiet.What do you think? Do you have any other questions about it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 206.19037318229675
+    },
+    {
+      "comment_index": 15352,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "4:39 when you're used to ruining phones and forgot that you're fixing it",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 40.0,
+      "comment_timestamp": 279.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "270.0s - 276.0s",
+          "query": "**Visual:** The video shows hands working on a damaged phone case. One hand holds the case while the other uses a tool to pry it apart. There's visible damage like cracks and broken pieces inside the case.\n\n**Audio:** No distinct speech or music is heard. Just some faint background noise that could be from the tool being used or the environment around."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "276.0s - 282.0s",
+          "query": "Oh, okay. So, visually, it looks like someone is handling some kind of electronic device or component. You can see hands manipulating something that seems to be made of metal and has some sort of screen or display on it. There's also some debris or residue around, which makes me think maybe they're fixing or repairing it. Hmm. as for the audio, there doesn't seem to be any distinct speech, music, or sound effects. Just general background noise, probably from the environment where this is happening.Anything else you noticed? Or need help with?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "282.0s - 288.0s",
+          "query": "Well, I'm not sure if there's any audio to describe here. As for the visual part, it seems like someone is working on some kind of electronic device or maybe a camera. They're using tools, probably trying to remove something from underneath the camera lens. The device looks pretty damaged with some broken pieces around. But again, without more details, that's all I can say. What do you think about it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 213.81051182746887
+    },
+    {
+      "comment_index": 15353,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "1:59  apple : *buys one* also apple : *doubles the price*",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 40.0,
+      "comment_timestamp": 119.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "110.0s - 116.0s",
+          "query": "**Visual:** The video shows a close-up view of a damaged smartphone with its screen shattered into many cracks. It's placed on a metallic surface with some holes around it. There doesn't seem to be any movement or action involving people.\n\n**Audio:** No distinct audio is heard apart from the background noise which might include some faint mechanical or workshop sounds, possibly related to the repair process."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "116.0s - 122.0s",
+          "query": "Visual: The video shows a close-up of a severely cracked iPhone screen. You can clearly see the cracks radiating from a central point across the entire display.\n\nAudio: There's no distinct audio mentioned here, just the sound of the camera focusing on the damaged phone."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "122.0s - 128.0s",
+          "query": "Visual: The video shows a close-up of a damaged phone screen with cracks spreading across it. There's also some equipment or machinery visible around the phone, possibly related to repair or testing.\n\nAudio: No distinct speech or music is heard. However, there might be faint background noise typical of an indoor workspace."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 113.34909796714783
+    },
+    {
+      "comment_index": 15354,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "8:10 RIP king of random rest up",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 35.0,
+      "comment_timestamp": 490.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "481.0s - 487.0s",
+          "query": "Sure! So, visually, there's a split-screen showing two different views of a phone repair process. On one side, it looks like the phone is being worked on with some tools around, maybe in a workshop or lab setting. The other side shows someone holding up a repaired phone, probably after the work was done. There aren't any specific colors that stand out much, just typical workshop stuff like grays and blacks. As for movement, things seem pretty steady - no big jumps or anything.The audio? Well, there s not really any distinct sound from the video itself. Just a bit of background noise, maybe from the workshop or something like that.Anything else you want to know about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "487.0s - 493.0s",
+          "query": "**Visual:** The video shows two images side by side labeled \"Before\" and \"After.\" In the \"Before\" image, there's a damaged phone screen with cracks. In the \"After\" image, the same phone has a repaired or new screen that looks intact. There s also a person holding up a black object, possibly related to the repair process.\n\n**Audio:** A man is speaking, likely explaining something about the repair process. He seems enthusiastic, using phrases like \"cheaper than Apple repair\" and mentioning playing with liquid nitrogen."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "493.0s - 499.0s",
+          "query": "Visual: A man is sitting in an office chair holding up a black object with a hose attached to it. The background shows some office equipment like shelves and a machine on a table. There's also a green wall behind him. Audio: Someone is speaking about how using something is much easier now and has a feeling these machines will become really popular soon."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 247.77070927619934
+    },
+    {
+      "comment_index": 15355,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "4:06 \"I can slowly wedge the pieces of glass away from the back\" GLASS EXPLODES",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 20.0,
+      "comment_timestamp": 246.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "237.0s - 243.0s",
+          "query": "Visually, there's someone holding a damaged phone with a cracked screen. You can also see some colorful sticks and a knife on the table around it. The person is using their fingers to manipulate the phone, probably examining or trying to fix it. There aren't any distinct sounds mentioned in the audio part."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "243.0s - 249.0s",
+          "query": "Visual: The video shows hands holding a damaged phone with a cracked screen. There's also some kind of tool being used to pry apart the phone's components. Various colored objects like pens or markers can be seen on the table around the phone.\n\nAudio: No distinct speech, music, or sound effects are heard during these six seconds. It seems mostly silent except for any faint background noise that might be present."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "249.0s - 255.0s",
+          "query": "Visual: A person is holding a damaged phone with a cracked screen. They seem to be examining it closely. There's also some debris on the table around them.\n\nAudio: The main sound is someone speaking about how if the glass was completely crackless, the laser would have cut through it perfectly."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 169.69883942604065
+    },
+    {
+      "comment_index": 15356,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "0:56 I see what you did there😂",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 18.0,
+      "comment_timestamp": 56.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "47.0s - 53.0s",
+          "query": "**Visual:** A bald man wearing a green shirt is standing indoors. He's holding something white in his right hand while talking to the camera. The background shows shelves with various items, some boxes, and a green wall.\n\n**Audio:** The man speaks about removing back glass and repairing phones for $20. There are no other noticeable sounds or music in the clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "53.0s - 59.0s",
+          "query": "**Visual:** A man is standing indoors, likely in an office or store setting. He's wearing a green shirt and holding something small in his hand. The background shows shelves with various items, some boxes, and a green wall.\n\n**Audio:** The man is speaking about Apple charging $600 to replace the battery on an iPhone 11. There are no other noticeable sounds besides his speech."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "59.0s - 65.0s",
+          "query": "Visually, there's a bald man wearing a green shirt standing indoors. He seems to be talking or explaining something while gesturing with his hands. The background shows shelves filled with various items, some white drawers, and a green wall. There s also a piece of colorful abstract art hanging on the wall.\n\nIn terms of audio, he is speaking throughout the clip. It doesn t seem like there s any background music or sound effects. Just his voice. What do you think about it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 198.39071369171143
+    },
+    {
+      "comment_index": 15357,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "Title: “Easiest Iphone repair”  7:57 “This repair is complex and expensive”",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 17.0,
+      "comment_timestamp": 477.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "468.0s - 474.0s",
+          "query": "**Visual:** A man is sitting in an office-like setting with green walls. He's wearing a dark green shirt and holding up a black object that looks like a piece of equipment or tool. There are shelves filled with various items behind him.\n\n**Audio:** The man speaks clearly while showing off the object he's holding. His tone suggests enthusiasm about it."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "474.0s - 480.0s",
+          "query": "Oh, okay! So, visually, there's someone holding up two phones side - by - side. One looks all smashed up with cracks everywhere, while the other is all fixed up and looking normal. The background seems to be some kind of workshop or repair place, with tools and stuff around. There s also another person sitting on a white couch, wearing glasses on their head, and they re talking about how cool lasers are for repairs.Now, for the audio, it s just that guy talking about lasers being cool for repairs. No music or anything else really stands out.What do you think? Anything specific you noticed?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "480.0s - 486.0s",
+          "query": "Oh, I see what you're asking! So, for the visual part, there's basically two images side by side. On the left, it shows an iPhone with its screen cracked - yikes! And on the right, same phone, but now it looks all fixed up. It's like before and after a repair job. For the audio part, hmm, I didn't really catch any speech or anything else going on. Just silence. Does that help? Let me know if you need more details!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 258.5563530921936
+    },
+    {
+      "comment_index": 15358,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "0:55 \"They just want you to buy a new phone\" And.... that's a fact",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 16.0,
+      "comment_timestamp": 55.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "46.0s - 52.0s",
+          "query": "**Visual:** A bald man wearing a green shirt is standing indoors. The background shows shelves with various items, some white drawers, and a green wall. He seems to be talking or explaining something while gesturing with his hands.\n\n**Audio:** There's a male voice speaking throughout the clip. The speech content appears to involve instructions about repairing a phone for around $20, mentioning removing the back glass."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "52.0s - 58.0s",
+          "query": "Visually, there's a man with a shaved head wearing a green shirt. He's holding up an iPhone 11 and talking about how Apple charges $600 to replace its glass. The background shows some shelves with various items, like boxes and containers, and a green wall. There's also a picture hanging on the wall. The scene seems to be set indoors, possibly in a store or office.\n\nAudio-wise, it's just the man speaking clearly about why Apple charges so much for replacing the phone's glass. No other voices or music are heard. It's pretty straightforward dialogue without any extra sound effects or ambient noises."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "58.0s - 64.0s",
+          "query": "**Visual:** A bald man wearing a green shirt is standing indoors. He's holding something small in his hand and appears to be talking or explaining something. The background shows shelves with various items, some white drawers, and a green wall. There's also a piece of abstract art hanging on the wall.\n\n**Audio:** The man is speaking, likely about removing glass from being subject to extreme temperatures. His tone seems explanatory."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 264.40307354927063
+    },
+    {
+      "comment_index": 15359,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "1:29 The S in LASER stands for \"STIMulated\" not \"simulated\" what would it \"simulate\"? It uses radiation to \"stimulate\" the emission of light.",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 14.0,
+      "comment_timestamp": 89.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "80.0s - 86.0s",
+          "query": "Visual: The video shows a workspace with various tools and equipment. There's an all - in - one multifunctional laser machine on a table. You can also see some shelves filled with items in the background. The room has green walls and white cabinets. There are some papers and other small objects scattered around.\n\nAudio: A man is speaking about the laser machine, explaining its features. He uses phrases like \"this guy right here\" to refer to it."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "86.0s - 92.0s",
+          "query": "Oh, okay! So, visually, there's some kind of machine or tool with a bunch of colored pencils on it. You can also spot an iPhone lying around. There aren't any people in the scene, just these objects. The colors? Well, there are different shades from the pencils - like blue, green, orange, etc. And for movement, nothing really stands out except maybe the phone being moved a bit.Now, about the audio. Hmm, I didn't catch anything specific. Just general background noise, probably from the machine or something else in the room.Anything else you noticed that you want to talk about?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "92.0s - 98.0s",
+          "query": "Visually, there's an iPhone on a metal surface with some colorful pencils around it. There are also black rectangular objects labeled \"JerryRigEverything.\" The iPhone has a cracked screen and is being tested or examined. The red laser light is shining on top of its glass cover.\n\nAudio-wise, I can't really tell much because the audio isn't provided. So, no specific sounds to describe here."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 214.68242192268372
+    },
+    {
+      "comment_index": 15360,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "5:46 So that's why my Switch didn't have a logo after I got it repaired...",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 10.0,
+      "comment_timestamp": 346.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "337.0s - 343.0s",
+          "query": "Sure! So, visually, there's someone holding an iPhone case with an Apple logo on it. They seem to be working on or showing off some kind of machine or device that has \"REWA\" written on it. There are other tools and items around too.In terms of audio, I can't really tell much from just those few seconds.What do you think about this? Do you have any more questions or need further details?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "343.0s - 349.0s",
+          "query": "**Visual:** The video shows someone holding an iPhone with its back cover removed. They're placing it into or taking it out of some kind of machine that seems to be used for cleaning or repairing phone screens. There's also another hand visible, possibly assisting or operating the machine.\n\n**Audio:** No distinct audio is heard apart from the background noise which could include machinery sounds and faint conversation."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "349.0s - 355.0s",
+          "query": "Well, visually, there's someone holding two iPhones. One is white and the other seems to be a different color. They're standing near some kind of machine or equipment with hoses and wires. The background has green walls and shelves filled with various items. There's also a yellow object on the table.The audio doesn't really have any distinct sounds that I can make out.Anything else you want to know about it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 220.9231197834015
+    },
+    {
+      "comment_index": 15361,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "0:57 '' They just want you to buy a new phone'' LOL ROAST 100",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 9.0,
+      "comment_timestamp": 57.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "48.0s - 54.0s",
+          "query": "Sure! So, visually, there's someone standing indoors with shelves and some items on them. The person is holding up a phone. In terms of audio, they're talking about repairing something for $20 and mentioning that removing glass is difficult and impractical.Anything else you need help with?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "54.0s - 60.0s",
+          "query": "**Visual:** A bald man wearing a green shirt is talking to the camera while holding something small in his hand. He's standing indoors with shelves filled with various items behind him. The background includes a green wall and some framed pictures.\n\n**Audio:** There's a voice speaking English about Apple charging $600 for replacing an iPhone 11 battery. It also mentions that third-party services can remove the warranty."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "60.0s - 66.0s",
+          "query": "Visually, there's a bald man wearing a green shirt standing indoors. The room has white walls with some colorful artwork hanging on them. There are shelves filled with various items like boxes and containers. The floor seems to be tiled.\n\nAudio-wise, he is speaking directly to the camera. His voice is clear and steady. There doesn't seem to be any background noise or music playing during his speech. It's just him talking without any interruptions."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 206.28101801872253
+    },
+    {
+      "comment_index": 15362,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "2:48 the moment you were waiting for.",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 8.0,
+      "comment_timestamp": 168.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "159.0s - 165.0s",
+          "query": "**Visual:** The video shows a close-up view of a computer screen displaying some kind of software interface with various buttons and options. There's also a physical object on a table that looks like it might be related to the software - possibly a device or tool used for cutting out shapes. The background seems to be an office or workshop setting.\n\n**Audio:** Someone is speaking, giving instructions about positioning something correctly before starting a process. The tone suggests they're guiding someone through a step-by-step procedure."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "165.0s - 171.0s",
+          "query": "Visual: The video shows a close-up view of some electronic devices on a perforated metal surface. There's a computer screen displaying data like frequency and power levels. A device with labels \"JennyRigEverything\" is visible among other gadgets.\n\nAudio: Someone is speaking throughout the clip, though the content isn't clear from just these six seconds. It seems to be a continuous voiceover or narration."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "171.0s - 177.0s",
+          "query": "Well, I'm not seeing any video here to analyze. You could try uploading it again or describing it more clearly so that I can help you out better. What's the video about?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 189.402667760849
+    },
+    {
+      "comment_index": 15363,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "7:54 His voice while saying \"lasers are pretty cool\" is kinda creepy. Makes you think what he might do if he has one that can burn anyone and everyone.",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 8.0,
+      "comment_timestamp": 474.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "465.0s - 471.0s",
+          "query": "Visually, there's a man sitting in an office chair. He has glasses on his head and is wearing a green shirt. There are shelves with various items behind him, including some boxes and equipment. The walls are painted green.\n\nIn terms of audio, he speaks about buying something for $20 bucks instead of a $2000 machine because it's suitable for their repair shop where they do lots of similar tasks regularly."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "471.0s - 477.0s",
+          "query": "**Visual:** A man is sitting in an office chair wearing safety goggles on his head. He's holding up a smartphone with a blue screen towards the camera. The background shows shelves filled with small compartments, some equipment like a machine labeled \"REWA\", and green walls.\n\n**Audio:** The man speaks about something related to technology, mentioning lasers specifically. His tone seems enthusiastic. There are no other noticeable sounds besides his voice."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "477.0s - 483.0s",
+          "query": "Sure! So, visually, there's an iPhone with a cracked screen on a table covered in white dots. Then, someone holds up another iPhone that looks all fixed up. The \"Before\" label is under the broken one, and \"After\" is under the repaired one. In terms of audio, it seems like there s some kind of narration or explanation going on, probably about how the repair was done. It might include details about the process or the cost involved.What do you think? Do you have any other questions about it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 196.1413073539734
+    },
+    {
+      "comment_index": 15364,
+      "video_id": "Lj4Od9D4puc",
+      "comment": "8:23 oof that didn’t age well",
+      "language": "en",
+      "channel_name": "JerryRigEverything",
+      "category": "technology",
+      "likes": 7.0,
+      "comment_timestamp": 503.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "494.0s - 500.0s",
+          "query": "Visual: The video shows a close-up of a smartphone on a metallic surface with holes. There's some kind of machinery or device next to it. The phone has a black case and is lying flat.\n\nAudio: A person speaks about how these machines will likely become very popular soon. They mention leaving a link for something related to them."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "500.0s - 506.0s",
+          "query": "**Visual:** The video shows a close-up of a damaged smartphone with its screen cracked. It's placed on a metallic surface with some screws around it. There seems to be no movement or action involving any characters.\n\n**Audio:** The only sound is someone speaking about checking out pricing for technology, mentioning that prices tend to decrease over time due to technological advancements."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "506.0s - 512.0s",
+          "query": "Oh, okay. So, visually, there's like a close-up shot of some kind of electronic device with a cracked screen. You can also spot social media icons at the bottom left corner. Then it cuts to someone talking directly to the camera, probably explaining something about the device or the situation. The person seems pretty engaged, maybe even a bit excited. There aren't any other objects or people really visible in that second scene. As for the audio, it's just the voice of the person speaking, no background music or anything else going on.Anything specific you want me to focus on?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 238.30412006378174
+    }
+  ]
+}

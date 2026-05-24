@@ -4,10 +4,9 @@
   "successful_comments": 20,
   "failed_comments": 0,
   "success_rate": "100.0%",
-  "processing_time": 7865.597388744354,
   "comments": [
     {
-      "comment_index": 4141,
+      "comment_index": 2901,
       "video_id": "jHbyQ_AQP8c",
       "comment": "0:17 flat-earthers triggered",
       "language": "en",
@@ -20,174 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "8.0s - 14.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a dark shirt against a black background. He seems to be talking or explaining something. His mouth is moving, and he makes some gestures with his hands.AUDIO: The audio has someone speaking, likely the same man from the visuals. It sounds like he's discussing something related to earthquakes, maybe giving an explanation or asking a question about it.What do you think about that? Do you have any other videos you want me to analyze?"
+          "query": "Well, I'm not sure what you're referring to specifically in this 6-second video segment. Could you give me a bit more context? Maybe describe what you see in the video? That way, I can help you better."
         },
         {
           "segment_index": 2,
           "time_range": "14.0s - 20.0s",
-          "query": "VISUAL: There's a man with glasses and a beard talking against a black background. Then an image of Earth rotating in space appears, showing continents and oceans.\n\nAUDIO: A male voice is speaking about the Earth's rotation, explaining how it causes night and day and that it spins quickly."
+          "query": "Visually, there's a man with glasses and a beard in a dark shirt. He seems to be talking or presenting something. The background is mostly dark. Then, there's a scene of the Earth from space, showing its blue oceans and green continents, with stars in the background.Audibly, there's a man speaking about the Earth's rotation and how it causes day and night. The speech is clear and informative."
         },
         {
           "segment_index": 3,
           "time_range": "20.0s - 26.0s",
-          "query": "VISUAL: There's an Earth rotating slowly against a starry background. The continents are visible, with green landmasses and blue oceans. It looks like a digital or animated representation.AUDIO: A man is speaking about the Earth spinning at over 1000 miles per hour at the equator. His voice seems calm and informative.If you have any other thoughts on this or want to discuss something else related to it, feel free to let me know!"
+          "query": "Visually, the video shows a rotating Earth against a starry space background. The continents are visible, with blue oceans and green landmasses. The Earth rotates slowly, giving a sense of its movement.Audibly, there's a male voice speaking in English. He says, \"at the equator the earth is spinning at more than 1, 000 miles per hour.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 288.06087708473206
+      "processing_time": 228.97025322914124
     },
     {
-      "comment_index": 4145,
-      "video_id": "jHbyQ_AQP8c",
-      "comment": "3:03 “did you feel that?”   Me:  Vsauce: “well the bbc”   Me: WOAHHH",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 427.0,
-      "comment_timestamp": 183.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "174.0s - 180.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a black shirt. He seems to be talking or reacting to something. The background is dark at first, then it changes to an outdoor scene with a crowd of people around him.AUDIO: Someone is speaking, but I can't make out the exact words from just these few seconds. It doesn't seem like there's any music or sound effects.If you want me to analyze more about this video or have other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "180.0s - 186.0s",
-          "query": "VISUAL: There's a man with glasses and a beard standing among a crowd. He seems to be speaking or gesturing. The crowd is diverse, with different ages and styles of clothing. They're all looking towards him. The background looks like an outdoor setting, maybe near some buildings.AUDIO: Someone is speaking, and then there's a sound effect that could be a jump or some kind of impact. It's short and sudden.What do you think about it? Do you have any other thoughts on the video?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "186.0s - 192.0s",
-          "query": "VISUAL: There's a man with glasses and a beard speaking to a crowd. He gestures while talking. The crowd looks at him, some smiling. The background seems like an outdoor area with buildings.AUDIO: A male voice is speaking about something related to BBC and a large number of people. It mentions a distance of a kilometer and a half away from where it was registered as a point. What do you think about this? Do you have any other thoughts on the video?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 441.90757751464844
-    },
-    {
-      "comment_index": 4148,
-      "video_id": "jHbyQ_AQP8c",
-      "comment": "3:25 the girl on the left was wearing the most 2012 outfit I've seen today",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 400.0,
-      "comment_timestamp": 205.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "196.0s - 202.0s",
-          "query": "VISUAL: There's a man with glasses and a beard speaking to a crowd. He seems to be making some hand gestures while talking. The background shows other people, some looking at him, others just standing around.AUDIO: A male voice is speaking about something related to an earthquake in Japan. It's not clear if there are any sound effects or music in the audio. Well, that's all I can say based on these two short segments. What do you think about it? Do you have any other questions?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "202.0s - 208.0s",
-          "query": "VISUAL: There's a group of people standing together outdoors. They seem to be listening to someone who is speaking. The person speaking is gesturing with his hands. The crowd looks diverse in terms of age and clothing styles. The background shows some buildings or structures.AUDIO: Someone is talking about how awesome we all are compared to the size of the Earth, but also mentions that we're not much. It seems like there might be some ambient noise from the surroundings too.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "208.0s - 214.0s",
-          "query": "VISUAL: There's a man with glasses and a beard talking against a black background. Then it cuts to a webpage from \"The Straight Dope\" showing an article about jumping off chairs in China. The page has various elements like buttons for social media sharing, a search bar, and some cartoon illustrations.AUDIO: A male voice is speaking throughout the video. It seems to be explaining something related to energy and collective action. There are no other distinct sounds or music in the audio.If you have any more questions about this video or want to discuss it further, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 519.1647107601166
-    },
-    {
-      "comment_index": 4147,
-      "video_id": "jHbyQ_AQP8c",
-      "comment": "Everyone jump at 4:05pm",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 408.0,
-      "comment_timestamp": 245.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "236.0s - 242.0s",
-          "query": "VISUAL: A man with glasses and a beard is holding a bunch of playing cards. He's looking at the camera while holding them. He then points to one card and seems to be explaining something.AUDIO: There's a male voice speaking throughout the video. It starts with \"I've got ten of them here\" and continues with \"let's say you choose this one boom congrats\". The tone is kind of playful and engaging.If you have any other thoughts or questions about the video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "242.0s - 248.0s",
-          "query": "VISUAL: A man with glasses and a beard is holding a deck of cards. He's wearing a dark shirt. The background is black.AUDIO: There's a male voice speaking, saying \"Congratulations we have just decimated this deck of cards why well because.\" It seems like he's explaining something about the cards. What do you think about it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "248.0s - 254.0s",
-          "query": "VISUAL: A man with glasses and a beard is holding up some playing cards. He's wearing a dark shirt. The background is black.AUDIO: There's a voiceover saying \"technically decimate does not mean obliterate completely desa ten it\". It seems like an explanation or definition of a word. So, what do you think about that? Do you have any other questions related to this?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 333.0331621170044
-    },
-    {
-      "comment_index": 4144,
-      "video_id": "jHbyQ_AQP8c",
-      "comment": "3:27 That elmo kid, is 18 now.",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 448.0,
-      "comment_timestamp": 207.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "198.0s - 204.0s",
-          "query": "VISUAL: There's a man with glasses and a beard speaking to a crowd. He seems to be gesturing while talking. The crowd is diverse, with different ages and styles of clothing. The background looks like an outdoor setting, possibly near some buildings.AUDIO: A male voice is speaking, but it's not clear what he's saying exactly. It could be related to the earthquake mentioned in the caption.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "204.0s - 210.0s",
-          "query": "VISUAL: There's a group of people standing together outdoors. They seem to be listening to someone who is speaking and gesturing. The background looks like an old building with stone walls.AUDIO: A man is speaking. He says something about being awesome compared to the size of the earth, but not much, and then tells them not to get too discouraged. It seems like he might be giving some kind of motivational talk or lecture.What do you think about that? Do you have any other thoughts on the video?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "210.0s - 216.0s",
-          "query": "VISUAL: A man with glasses and a beard is talking against a black background. He seems to be explaining something.AUDIO: There's a male voice speaking throughout the video. It sounds like he's discussing some kind of calculation or analysis related to energy and a \"collective jump.\".If you want to know more about what he might be calculating specifically, feel free to ask!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 420.9817752838135
-    },
-    {
-      "comment_index": 4146,
-      "video_id": "jHbyQ_AQP8c",
-      "comment": "4:36 \"His background is brighter than your future.\" -Some cultured guy on the internet",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 416.0,
-      "comment_timestamp": 276.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "267.0s - 273.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a dark shirt against a black background. He seems to be talking or reacting to something.AUDIO: Someone is speaking, saying \"you decimated that quiz\" and then \"since we've been talking about crowds let's talk about.\" It sounds like they're having a conversation or giving some kind of feedback.If you want to know more about this video or have other questions, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "273.0s - 279.0s",
-          "query": "VISUAL: There's a YouTube logo at first, then it cuts to a man with glasses and a beard talking against a black background. He seems to be gesturing while speaking.AUDIO: The audio has some kind of narration or explanation about \"YouTube crowds\" and \"view count\". It's not clear if there's any music or other sound effects. So, yeah, that's pretty much it. What do you think about the content?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "279.0s - 285.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a black shirt against a dark background. He seems to be talking or presenting something.AUDIO: Someone is speaking about Dunbar's Number, which is an estimation related to social relationships. It's just speech without any other sounds like music or sound effects.If you want to know more about Dunbar's Number or have other questions, feel free to ask!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 330.6495432853699
-    },
-    {
-      "comment_index": 4142,
+      "comment_index": 2902,
       "video_id": "jHbyQ_AQP8c",
       "comment": "4:16 - 4:30 should I show this to my parents?",
       "language": "en",
@@ -200,24 +49,24 @@
         {
           "segment_index": 1,
           "time_range": "247.0s - 253.0s",
-          "query": "VISUAL: A man with glasses and a beard is holding up some playing cards. He's wearing a dark shirt. The background is black.AUDIO: There's a male voice speaking about \"decimate\" not meaning to obliterate completely. It seems like he's explaining something related to language or definitions.What do you think about that? Do you have any other videos you want me to analyze?"
+          "query": "Visually, there's a man with glasses and a beard. He's holding a bunch of cards in his right hand. The background is black. He seems to be talking or explaining something, maybe about the cards he's holding. There's no other significant movement or objects in the scene.\n\nAudio-wise, there's a man speaking. He's talking about something related to \"decimate\" and \"obliterate completely.\" The speech is clear and seems to be the main focus of the audio. There are no other sound effects or music."
         },
         {
           "segment_index": 2,
           "time_range": "253.0s - 259.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a black shirt against a black background. He seems to be talking or explaining something.AUDIO: The main thing heard is someone speaking about \"Deci = 10\" meaning taking away one tenth of something. It also mentions something about quizzes. What do you think he might be explaining?"
+          "query": "Visual: A man with glasses and a beard is talking against a black background.\n\nAudio: There's male speech throughout the clip."
         },
         {
           "segment_index": 3,
           "time_range": "259.0s - 265.0s",
-          "query": "VISUAL: There's a man with glasses and a beard talking against a black background. He seems to be speaking directly to the camera. Then there's a close - up shot of a paper with \"ANSWERS\" written on it, some numbers circled, and a red highlighter mark. The lighting is warm, making the paper look yellowish.AUDIO: A male voice is speaking throughout the video. It sounds like he's explaining something about getting only ten percent on an assignment, which results in an F grade. There's no other sound effect or music in the audio.So, what do you think about this video? Do you have any other questions related to it?"
+          "query": "Visually, there's a man with glasses and a beard in a black shirt. He seems to be talking or reacting to something. The background is mostly dark. There's also a quick glimpse of a yellowish background with some red markings and text that says \"ANSWERS\".Audio-wise, there's a man speaking, and it sounds like he's talking about getting a low score on something, mentioning \"10%\" and \"F\". There's also some music playing in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 424.14056491851807
+      "processing_time": 197.8640100955963
     },
     {
-      "comment_index": 4143,
+      "comment_index": 2903,
       "video_id": "jHbyQ_AQP8c",
       "comment": "I absolutely love this out of context line at 0:34 of Vsauce just assaulting you.",
       "language": "en",
@@ -230,24 +79,174 @@
         {
           "segment_index": 1,
           "time_range": "25.0s - 31.0s",
-          "query": "VISUAL: There's an image of a figure skater on ice wearing a blue outfit with a long skirt. The background is black. The skater has one leg extended back and arms out to the sides.AUDIO: A man is speaking about how a spinning ice skater can speed up by moving mass closer to the axis of rotation. He seems to be explaining something related to physics or skating techniques.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visual: A man with glasses and a beard is talking while gesturing. There's also an image of a figure skater in blue on ice to his right. The background behind him seems dark.\n\nAudio: The man is speaking throughout the clip. No other distinct sounds or music are heard."
         },
         {
           "segment_index": 2,
           "time_range": "31.0s - 37.0s",
-          "query": "VISUAL: There's a man with glasses and a beard talking directly to the camera. He seems to be explaining something. In the top right corner, there's an inset image showing a figure skater on ice. The background is black.AUDIO: A male voice is speaking about the center and the earth being no different. It sounds like he's giving some kind of explanation or lecture.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "Well, I can't actually watch videos directly here. But if you describe them to me, I'd be happy to help analyze them! What do you see in the video?"
         },
         {
           "segment_index": 3,
           "time_range": "37.0s - 43.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a black shirt against a dark background. He seems to be talking or explaining something while gesturing with his hands.AUDIO: The audio contains a voice speaking about moving mass closer to Earth's center and its effect on Earth's rotation. It's just speech without any other sounds like music or sound effects.So, what do you think about that? Do you have any other videos for me to analyze?"
+          "query": "Visually, there's a man with glasses and a beard. He's wearing a dark shirt and is talking while gesturing with his hands. The background is completely black. There's no other object or person in the frame. The man seems to be explaining something, possibly related to physics or astronomy, given the context of the speech. The audio is just his speech, no other sounds like music or sound effects. He's talking about moving mass closer to Earth's center and how it would affect Earth's rotation. It's a pretty straightforward explanation. What do you think about that?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 427.54157066345215
+      "processing_time": 151.07672214508057
     },
     {
-      "comment_index": 4149,
+      "comment_index": 2904,
+      "video_id": "jHbyQ_AQP8c",
+      "comment": "3:27 That elmo kid, is 18 now.",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 448.0,
+      "comment_timestamp": 207.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "198.0s - 204.0s",
+          "query": "Visually, there's a man with glasses and a beard in the foreground. He seems to be speaking or reacting to something. Behind him, there's a crowd of people, some looking at him, others in different directions. The crowd is diverse in terms of clothing and expressions. The background is somewhat blurry, but it looks like an outdoor setting, possibly a street or a public area. The colors are mostly muted, with some pops of brighter colors from the people's clothes. There's a sense of movement in the crowd, as if they're all in a hurry or reacting to something.The audio is a man speaking, but it's difficult to make out the exact words due to the background noise. The speech seems to be in English, but it's not clear what he's saying. There are no distinct sound effects or music, just the man's voice and the ambient noise of the crowd."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "204.0s - 210.0s",
+          "query": "Visually, there's a large group of people standing together outdoors. They seem to be in a public place, like a park or a square. The people are dressed casually, with some wearing t-shirts, jeans, and hats. There's a mix of ages and genders in the group. The background shows some buildings and possibly a fence or gate. The lighting suggests it's daytime, with natural sunlight.\n\nIn terms of audio, there's a man speaking. He has a calm and somewhat encouraging tone. He says something like, \"We're all awesome compared to the size of the earth. We're not much, but don't get too discouraged.\" There's no background music or sound effects, just the man's voice."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "210.0s - 216.0s",
+          "query": "Well, I'm not sure if there's actually a video here to analyze. But based on your description, it seems like there might be some kind of website or webpage shown with text about China jumping off chairs at once. And then there's someone speaking, maybe answering questions.Does that help? If you have more details or another question, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 250.32542371749878
+    },
+    {
+      "comment_index": 2905,
+      "video_id": "jHbyQ_AQP8c",
+      "comment": "3:03 “did you feel that?”   Me:  Vsauce: “well the bbc”   Me: WOAHHH",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 427.0,
+      "comment_timestamp": 183.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "174.0s - 180.0s",
+          "query": "Well, visually, there's a man with glasses and a beard standing against a black background. He seems to be talking or reacting to something. Then it cuts to a scene where he's surrounded by a crowd of people who all seem to be doing the same hand gesture - raising their hands up and then down again. The crowd looks diverse, with different ages and appearances.Audience-wise, I can't really tell much from just these six seconds. There might be some background noise since we're seeing so many people together, but no distinct speech or music is audible.What do you think about that? Do you have any other thoughts on the video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "180.0s - 186.0s",
+          "query": "Visually, there's a group of people standing together outdoors. They seem to be in some kind of gathering or event. The background looks like it could be an urban area with buildings. There s one person in the foreground who stands out because he s closer to the camera.\n\nIn terms of audio, someone is speaking. It seems like they re giving instructions or making an announcement, possibly counting down \"one, two, three.\" Then there s a sound effect that follows right after the count, which might be related to whatever action was being prepared for."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "186.0s - 192.0s",
+          "query": "Visually, there's a group of people gathered together. They seem to be interacting with one another, possibly engaged in some kind of activity or discussion. The background looks like an outdoor setting, maybe near a building or street. There aren't any really distinct objects standing out.\n\nIn terms of audio, it seems like someone is speaking. It could be giving instructions or explaining something related to the scene. There doesn't appear to be much else going on in the way of sound effects or music."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 124.53221201896667
+    },
+    {
+      "comment_index": 2906,
+      "video_id": "jHbyQ_AQP8c",
+      "comment": "4:36 \"His background is brighter than your future.\" -Some cultured guy on the internet",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 416.0,
+      "comment_timestamp": 276.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "267.0s - 273.0s",
+          "query": "Sure! So here's how I'd break down that short video segment:.Visually, there s someone with glasses and a beard looking directly at the camera against a black background. Then it quickly fades to white.Audibly, there seems to be no specific sound or music described.Anything else you d like me to clarify?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "273.0s - 279.0s",
+          "query": "Visual: A man with glasses and a beard is talking against a black background. He's wearing a dark shirt.\n\nAudio: There s some kind of narration or explanation being given, but it's not clear what specifically is being said from just these few seconds. It doesn t seem to be music or any other distinct sound effect."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "279.0s - 285.0s",
+          "query": "Visual: A man with glasses and a beard is talking against a black background.\n\nAudio: There's male speech throughout the clip."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 141.46859121322632
+    },
+    {
+      "comment_index": 2907,
+      "video_id": "jHbyQ_AQP8c",
+      "comment": "Everyone jump at 4:05pm",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 408.0,
+      "comment_timestamp": 245.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "236.0s - 242.0s",
+          "query": "Visually, there's a man with glasses and a beard holding playing cards against a black background. He seems to be showing off his cards. The audio has someone speaking, likely explaining something about choosing a card. It feels like an instructional or entertaining card trick setup."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "242.0s - 248.0s",
+          "query": "Visual: A man with glasses and a beard is holding up a deck of cards fanned out in his hand against a black background.\n\nAudio: There's some kind of narration or explanation being given about something related to the cards he's holding. It seems like it might be explaining why they've been \"decimated.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "248.0s - 254.0s",
+          "query": "Visual: A man with glasses and a beard is holding up some cards against a black background. Then it cuts to just him talking.\n\nAudio: There's someone speaking, but I can't make out the words clearly from this short clip. It seems like there might be some kind of narration or explanation going on."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 122.5570068359375
+    },
+    {
+      "comment_index": 2908,
+      "video_id": "jHbyQ_AQP8c",
+      "comment": "3:25 the girl on the left was wearing the most 2012 outfit I've seen today",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 400.0,
+      "comment_timestamp": 205.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "196.0s - 202.0s",
+          "query": "Visually, there's a man with glasses and a beard in the foreground. He's making hand gestures. Behind him, there are several other people, some looking at the camera. The background seems to be an outdoor area with a yellowish wall. The colors are mostly muted, with the man's shirt being a darker color and the others wearing lighter ones like yellow and black. There's some movement as the people are standing around.The audio is just the man speaking. He seems to be talking about something related to earthquakes, but it's not clear exactly what he's saying. There are no other sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "202.0s - 208.0s",
+          "query": "**Visual:** The video shows a large group of people standing together outdoors. They are diverse in appearance, with different clothing styles like t-shirts, jeans, and hats. Some are holding bags or other items. The background appears to be a building with large windows. The people seem to be gathered for some event or activity, but there's no clear indication of what it is. The overall scene is busy and lively.\n\n**Audio:** There is a man speaking in the background. His voice is clear and he seems to be addressing the group. The speech is the main audio element, and there are no other distinct sound effects or music. The ambient sounds are minimal, suggesting the focus is on the man's speech."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "208.0s - 214.0s",
+          "query": "Visually, there's a man with glasses and a beard. He seems to be talking or presenting something. The background is dark, which makes him stand out. There's also a website interface shown, with text and some cartoonish drawings. The text on the website is in English, and it looks like it's related to some kind of information or advice, possibly about trading or finance, given the mention of \"trade\" and \"energy.\".Audio - The man is speaking, and his voice is clear. There's also some background music playing, which is kind of upbeat and energetic. It seems to match the tone of the website content."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 248.0039541721344
+    },
+    {
+      "comment_index": 2909,
       "video_id": "jHbyQ_AQP8c",
       "comment": "5:03 That awkward moment when you notice you have 230 more people you can hold a real relationship with",
       "language": "en",
@@ -260,204 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "294.0s - 300.0s",
-          "query": "VISUAL: A man with glasses and a beard is talking against a black background. He seems to be explaining something.AUDIO: There's a male voice speaking about acquaintances, mentioning social contact and how everyone relates to each other in a network. It's just his voice without any music or sound effects. So, what do you think about this? Any thoughts on the content?"
+          "query": "**Visual:** The video shows a webpage from NPR with a headline about Facebook and the number of friends one might have. There are images of people walking and an iPhone app. The background is dark.\n\n**Audio:** There is no audible speech or sound effects in the video."
         },
         {
           "segment_index": 2,
           "time_range": "300.0s - 306.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a dark shirt against a black background. He seems to be talking or presenting something.AUDIO: Someone is speaking about numbers being between 100 and 230. It's just speech without any other sounds like music or sound effects.If you have more questions about it or want to discuss further, feel free to let me know."
+          "query": "Visually, there's just one person with glasses and a beard against a black background. There aren't any other objects or movement visible.\n\nAudio-wise, it seems like someone is speaking, though I can't make out the exact words from your description. The speech might be about numbers between 100 and 230."
         },
         {
           "segment_index": 3,
           "time_range": "306.0s - 312.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a dark shirt against a black background. He seems to be talking or explaining something.AUDIO: A male voice is speaking about YouTube videos receiving more than 230 views from different people.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there's a man with glasses and a beard wearing a black shirt against a dark background. He seems to be talking or reacting to something.\n\nAudio-wise, it's just his voice speaking without any other sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 286.81844329833984
+      "processing_time": 191.8827087879181
     },
     {
-      "comment_index": 4155,
-      "video_id": "jHbyQ_AQP8c",
-      "comment": "lol 6:35 ... Hello Charlie from Supernatural xD",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 152.0,
-      "comment_timestamp": 395.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "386.0s - 392.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a dark shirt against a black background. He seems to be talking or explaining something, moving his hands a bit.AUDIO: It's just someone speaking about falling three meters and pulling the earth up. No other sounds like music or sound effects are present.So, what do you think about that? Any thoughts on why he might be saying such things?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "392.0s - 398.0s",
-          "query": "VISUAL: There's a man with glasses and a beard talking against a black background at first. Then it cuts to him standing next to a woman with long red hair. They're both wearing black shirts. The man is gesturing with his hands while speaking.AUDIO: A male voice is speaking about something related to the width of a proton. It seems like he's explaining or discussing some scientific concept. There's no other sound effect or music in the audio.If you want to know more about what they might be talking about specifically, feel free to ask me."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "398.0s - 404.0s",
-          "query": "VISUAL: There's a man with glasses and a beard talking to a woman with long red hair. The man is gesturing with his hands while speaking. They're standing against a plain wall. The woman is wearing a black t - shirt with some text on it.AUDIO: A male voice is speaking throughout the clip. It seems like he's having a conversation or explaining something. There are no other distinct sounds apart from the man's speech.If you have any more questions about the video or want to discuss it further, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 449.15140080451965
-    },
-    {
-      "comment_index": 4154,
-      "video_id": "jHbyQ_AQP8c",
-      "comment": "0:35 make the day shorter by getting on the ground when I go to school, EVERY BODY GET ON GROUND SO WE CAN SKIP SCHOOL!!!",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 159.0,
-      "comment_timestamp": 35.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "26.0s - 32.0s",
-          "query": "VISUAL: There's a man with glasses and a beard talking. He has his hands up near his face at one point. In the background, there's an image of a figure skater on ice, wearing a blue dress and brown tights. The skater is standing still on one leg.AUDIO: A male voice is speaking about how a spinning ice skater can speed up by moving mass closer to the center. It seems like he's explaining some physics principle related to skating.If you want to talk more about this or have other questions, feel free to let me know."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "32.0s - 38.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a dark shirt. He seems to be talking or explaining something while gesturing with his hands. The background is black.AUDIO: A male voice is speaking, likely explaining something related to physics or science based on the context provided in the speech subtitles. It doesn't seem like there are any other distinct sounds or music.If you have any more questions about this video or anything else, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "38.0s - 44.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a black shirt against a dark background. He seems to be talking or explaining something. His head moves slightly as he speaks.AUDIO: The main thing heard is someone speaking about Earth's rotation getting faster when closer to Earth's center. It's just that spoken phrase without any other distinct sounds like music or sound effects.So, what do you think about this? Do you have any other videos for me to analyze?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 491.494971036911
-    },
-    {
-      "comment_index": 4153,
-      "video_id": "jHbyQ_AQP8c",
-      "comment": "3:55 Choose the right card, and I will free your family",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 177.0,
-      "comment_timestamp": 235.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "226.0s - 232.0s",
-          "query": "VISUAL: There's a man with glasses and a beard talking directly to the camera. He seems to be explaining something. Then it cuts to an image of Earth from space, showing a portion of its surface with landmasses and clouds.AUDIO: The man is speaking throughout the video. There are no other sounds like music or sound effects. It's just his voice. What do you think he might be talking about?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "232.0s - 238.0s",
-          "query": "VISUAL: A man with glasses and a beard is holding some cards. He seems to be talking or explaining something. The background is black.AUDIO: There's a voice speaking, saying \"To make yourself feel more powerful pick a card I've got ten of them here let's\". It sounds like he might be giving instructions or advice related to choosing a card for power. So, what do you think about this? Do you have any ideas on how to use this concept in your own life?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "238.0s - 244.0s",
-          "query": "VISUAL: A man with glasses and a beard is holding playing cards. He's wearing a dark shirt. He seems to be showing off his cards, maybe during a card trick or game. The background is black.AUDIO: There's some kind of narration or explanation going on, possibly related to the card trick or game he's doing. It could also just be general commentary. What do you think about it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 417.0415062904358
-    },
-    {
-      "comment_index": 4156,
-      "video_id": "jHbyQ_AQP8c",
-      "comment": "0:45 now I know why night feels shorter... During nighttime everyone is laying down...",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 142.0,
-      "comment_timestamp": 45.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "36.0s - 42.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a dark shirt. He seems to be talking or explaining something while gesturing with his hands. The background is completely black.AUDIO: A male voice is speaking about moving mass closer to Earth's center and how it would speed up Earth's spin. It's just him talking without any other sounds like music or sound effects.So, what do you think about that? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "42.0s - 48.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a black shirt against a dark background. He seems to be talking or explaining something while gesturing with his hands.AUDIO: The main thing heard is someone speaking about rotation making a day shorter and then mentioning a change that would be made to Earth's rotation. There's no music or other sound effects, just the speech. So, what do you think about this? Do you have any ideas on how to make the day shorter through rotation changes?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "48.0s - 54.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a black shirt against a dark background. He seems to be talking or explaining something.AUDIO: The audio has someone speaking about something being \"way smaller than we could even measure\" and that it is calculable and its impact can be calculated. It's just speech without any other sounds like music or sound effects.So, what do you think about this? Do you have any other videos for me to analyze?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 417.5518810749054
-    },
-    {
-      "comment_index": 4152,
-      "video_id": "jHbyQ_AQP8c",
-      "comment": "2:04 Your Welcome",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 182.0,
-      "comment_timestamp": 124.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "115.0s - 121.0s",
-          "query": "VISUAL: There's a map showing California with Los Angeles highlighted in red. Then it cuts to a man with glasses and a beard talking against a black background.AUDIO: The man is speaking, but I can't make out his words clearly from just these few seconds.What do you think about that? Do you have any other questions related to this video?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "121.0s - 127.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a black shirt against a dark background. He seems to be talking or reacting to something.AUDIO: Someone is speaking, saying \"Every single person on earth okay so then we jump what happens.\" It's just speech without any other sounds like music or sound effects.If you have more questions about it or want to discuss further, feel free to let me know."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "127.0s - 133.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a dark shirt against a black background. He seems to be talking or reacting to something.AUDIO: Someone is speaking, saying \"Unfortunately not much I mean we're all awesome.\" It has an exasperated tone. What do you think about it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 324.0234684944153
-    },
-    {
-      "comment_index": 4151,
-      "video_id": "jHbyQ_AQP8c",
-      "comment": "\"Vaginal Fantasy Book Club\", what the hell is that? (6:50)",
-      "language": "en",
-      "channel_name": "Vsauce",
-      "category": "knowledge",
-      "likes": 190.0,
-      "comment_timestamp": 410.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "401.0s - 407.0s",
-          "query": "VISUAL: There's a man with glasses and a beard talking to a woman with red hair. They're standing against a speckled wall. The man is gesturing with his hands while speaking. The woman is smiling and looking at him.AUDIO: A male voice is speaking about affecting the earth and having power. It seems like he's making an important point. There's no background music or other sound effects. Just the man's speech.If you want to talk more about this video or have any other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "407.0s - 413.0s",
-          "query": "VISUAL: There's a man with glasses and a beard talking to a woman with long red hair. They're standing against a gray wall. The man is gesturing with his hands while speaking. The woman is wearing a black t - shirt with some pink text on it.AUDIO: A man is speaking about checking out a new channel called \"Geek and Sundry Felicia's\" which he says is one of his new favorite things. There's also background music playing throughout the clip.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "413.0s - 419.0s",
-          "query": "VISUAL: There's a man with glasses and a beard standing next to a woman with long red hair. They're both wearing black clothes. The man is talking while gesturing with his hand. Then there's a scene where someone is holding up a gray box labeled \"sauce\" against a white wall that has green paint splatters on it.AUDIO: You can hear some speech from the man and woman at first, then there's a short bit of music playing towards the end."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 414.7133219242096
-    },
-    {
-      "comment_index": 4150,
+      "comment_index": 2910,
       "video_id": "jHbyQ_AQP8c",
       "comment": "1:48 - well, if everyone did that... right now... we’d all be dead.",
       "language": "en",
@@ -470,84 +289,234 @@
         {
           "segment_index": 1,
           "time_range": "99.0s - 105.0s",
-          "query": "VISUAL: There's an aerial view of a cityscape with tall buildings. Then it cuts to a man talking against a black background. He has glasses and a beard, wearing a dark shirt. The camera focuses on him as he speaks.AUDIO: Someone is speaking, saying \"Everyone all of us into the state of Texas but that's living not\". It seems like they're making a statement or argument about moving to Texas. What do you think about this?"
+          "query": "Well, I'm not sure if there's anything specific to describe visually or audibly from just that short clip. It seems like it might be a bit too quick for me to pick out any details. But hey, if you can give me more info about what was shown or said, I'd be happy to help further!"
         },
         {
           "segment_index": 2,
           "time_range": "105.0s - 111.0s",
-          "query": "VISUAL: There's a map showing different cities on it. The map has four sections with city names like Paris, San Francisco, New York, and London. Each section shows the city's location within the United States. The background is white.AUDIO: A man is speaking. He seems to be talking about something related to standing around in a crowd and doing a jump if every person alive stood shoulder - to - shoulder. His voice is clear and he uses some hand gestures while speaking.What do you think about that? Do you have any other questions or thoughts?"
+          "query": "**Visual:** The video shows a map of the United States with different states highlighted in various colors. There are also some text labels on the map indicating the names of the states. The background is white, and the map is the main focus.\n\n**Audio:** There is a man speaking in the audio. He seems to be talking about something related to the map, possibly explaining the highlighted states or giving some information about them. The speech is clear and audible."
         },
         {
           "segment_index": 3,
           "time_range": "111.0s - 117.0s",
-          "query": "VISUAL: There's a man with glasses and a beard talking directly to the camera. He seems to be gesturing while speaking. Then an animated map of California appears on screen, highlighting Los Angeles in red.AUDIO: The man is speaking, likely explaining something related to the map shown. There are no other noticeable sounds or music in the background.What do you think he might be discussing about Los Angeles?"
+          "query": "Visual: A man with glasses and a beard is talking directly to the camera against a black background. He's wearing a dark shirt.\n\nAudio: The man is speaking, likely explaining something related to Los Angeles fitting into it. There are no other noticeable sounds or music."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 414.6026427745819
+      "processing_time": 199.68618154525757
     },
     {
-      "comment_index": 4160,
+      "comment_index": 2911,
       "video_id": "jHbyQ_AQP8c",
-      "comment": "0:35 Me: ಠ‿ಠ Also me at school: *Convinces everyone to lay down*",
+      "comment": "\"Vaginal Fantasy Book Club\", what the hell is that? (6:50)",
       "language": "en",
       "channel_name": "Vsauce",
       "category": "knowledge",
-      "likes": 116.0,
+      "likes": 190.0,
+      "comment_timestamp": 410.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "401.0s - 407.0s",
+          "query": "**Visual:** The video shows two people standing against a textured gray wall. One person is wearing a black shirt and gesturing with their hands while speaking. The other person, wearing a black shirt with a pink design, is standing beside them, listening. The scene appears to be indoors, and there's no significant movement or change in the background.\n\n**Audio:** The audio features a male voice speaking. The speech is clear and seems to be the main focus of the video. There are no other noticeable sound effects or background music."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "407.0s - 413.0s",
+          "query": "Visually, there are two people standing in front of a textured gray wall. One is wearing a black shirt with a pink design and text, and the other is in a black jacket and glasses. They seem to be interacting, possibly talking or presenting something. The audio features a man speaking, saying \"you all should go check out geek and sundry Felicia's new channel it's one of my new favorite things.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "413.0s - 419.0s",
+          "query": "Well, in the visual part, there are two people standing in front of a gray wall. One person is wearing a black shirt and glasses, and the other is in a black shirt with pink text. They seem to be talking to each other. Then, there's a quick cut to a hand holding a paintbrush, and green paint is splattered on a white surface. In the audio part, there's a woman speaking, and she says \"and as always thanks for watching.\" There's also some music playing in the background. What do you think about this video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 294.34808254241943
+    },
+    {
+      "comment_index": 2912,
+      "video_id": "jHbyQ_AQP8c",
+      "comment": "2:04 Your Welcome",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 182.0,
+      "comment_timestamp": 124.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "115.0s - 121.0s",
+          "query": "Visual: The video shows a map highlighting California with Los Angeles pinpointed within it. Then there's an image of a man wearing glasses and a beard, dressed in dark clothing.\n\nAudio: A voice is heard saying \"It would be an incredible sight to behold.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "121.0s - 127.0s",
+          "query": "Well, I can't actually analyze that video for you since I don't have access to it. But if you describe what's happening visually or audibly, I'd be happy to help break it down into two parts! So, go ahead and tell me more about what you're seeing or hearing."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "127.0s - 133.0s",
+          "query": "Visually, there's just one person with glasses and a beard against a black background. The person seems to be talking or reacting to something.\n\nAudio-wise, it's mostly someone speaking, no other distinct sounds like music or sound effects. It feels like they're having a conversation or making some kind of statement."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 110.92332601547241
+    },
+    {
+      "comment_index": 2913,
+      "video_id": "jHbyQ_AQP8c",
+      "comment": "3:55 Choose the right card, and I will free your family",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 177.0,
+      "comment_timestamp": 235.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "226.0s - 232.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze from that video since it seems like just a number is given without any context or visuals. But let me try.Anything else you'd like to know?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "232.0s - 238.0s",
+          "query": "Visually, there's a man with glasses and a beard. He's holding a bunch of cards in his hand. The background is dark. There's also a planet visible in the background, which looks like Earth. The man seems to be talking or explaining something, possibly about the cards he's holding. He's wearing a dark shirt. The planet is mostly brown and gray with some white areas, suggesting clouds or landmasses. The man's facial expression looks a bit serious or focused. The cards he's holding are white with black designs on them, but the details of the designs aren't clear from this short clip. The overall scene gives off a mysterious or educational vibe, like he might be teaching about something related to the cards and the planet."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "238.0s - 244.0s",
+          "query": "Visual: A man with glasses and a beard is holding playing cards. He's wearing a dark shirt against a black background.\n\nAudio: There's some kind of announcement or instruction being spoken over the video, possibly related to choosing something."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 201.73566365242004
+    },
+    {
+      "comment_index": 2914,
+      "video_id": "jHbyQ_AQP8c",
+      "comment": "0:35 make the day shorter by getting on the ground when I go to school, EVERY BODY GET ON GROUND SO WE CAN SKIP SCHOOL!!!",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 159.0,
       "comment_timestamp": 35.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
           "time_range": "26.0s - 32.0s",
-          "query": "VISUAL: There's a man with glasses and a beard talking. He has his hands up near his face at one point. In the background, there's an image of a figure skater on ice, wearing a blue dress and brown tights. The skater is standing still on one leg.AUDIO: A male voice is speaking about how a spinning ice skater can speed up by moving mass closer to the center. It seems like he's explaining some physics principle related to skating.If you want to talk more about this or have other questions, feel free to let me know."
+          "query": "Visual: There's a man with glasses and a beard in the foreground. He's gesturing with his hands. In the background, there's a picture of a figure skater in a blue outfit, standing on ice. The skater has her arms crossed in front of her. The background is mostly dark.\n\nAudio: The man is speaking, but the content of his speech isn't clear from this description. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 2,
           "time_range": "32.0s - 38.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a dark shirt. He seems to be talking or explaining something while gesturing with his hands. The background is black.AUDIO: A male voice is speaking, likely explaining something related to physics or science based on the context provided in the speech subtitles. It doesn't seem like there are any other distinct sounds or music.If you have any more questions about this video or anything else, feel free to let me know!"
+          "query": "Well, I'm not sure if there's anything specific to describe visually or audibly from just that short clip. It seems like it might be a bit too quick for me to pick out clear details. But hey, if you can give me more info about what happens next or any other parts of the video, I'd be happy to help further!"
         },
         {
           "segment_index": 3,
           "time_range": "38.0s - 44.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a black shirt against a dark background. He seems to be talking or explaining something. His head moves slightly as he speaks.AUDIO: The main thing heard is someone speaking about Earth's rotation getting faster when closer to Earth's center. It's just that spoken phrase without any other distinct sounds like music or sound effects.So, what do you think about this? Do you have any other videos for me to analyze?"
+          "query": "Well, I'm not sure if there's actually anything to describe visually or audibly from just that one sentence. It doesn't seem like it gives enough information about what's happening in the video. Maybe you could give me more details?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 451.64725065231323
+      "processing_time": 210.82398295402527
     },
     {
-      "comment_index": 4158,
+      "comment_index": 2915,
       "video_id": "jHbyQ_AQP8c",
-      "comment": "4:03 did anyone else pick the 6 of spades?!",
+      "comment": "6:40 Bye Felicia!!",
       "language": "en",
       "channel_name": "Vsauce",
       "category": "knowledge",
-      "likes": 122.0,
-      "comment_timestamp": 243.0,
+      "likes": 155.0,
+      "comment_timestamp": 400.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "234.0s - 240.0s",
-          "query": "VISUAL: There's a man with glasses and a beard holding a bunch of playing cards. He seems to be talking or explaining something while showing the cards. The background is black.AUDIO: A male voice is speaking, saying \"Pick a card I've got ten of them here let's say you choose this.\" It sounds like he might be doing some kind of magic trick or game.If you want to talk more about this video or have other questions, feel free to ask!"
+          "time_range": "391.0s - 397.0s",
+          "query": "Visually, there are two people standing in front of a textured wall. One is wearing a black shirt and the other a black shirt with a pink design. They seem to be interacting, possibly talking or presenting something. The background is a light grayish color with a pattern that looks like small, raised dots or bumps.\n\nIn terms of audio, there's a voice speaking, but the content of the speech isn't clear from this short segment. There are no distinct sound effects or music."
         },
         {
           "segment_index": 2,
-          "time_range": "240.0s - 246.0s",
-          "query": "VISUAL: A man with glasses and a beard is holding a deck of cards. He's wearing a dark shirt. He seems to be performing some kind of card trick or showing off his cards. The background is black.AUDIO: There's a voiceover saying \"one boom congratulations we have just decimated this deck of cards.\" It has an excited tone.What do you think about it? Do you want to know more about card tricks?"
+          "time_range": "397.0s - 403.0s",
+          "query": "**Visual:** The video shows two people standing against a plain, textured wall. One person is wearing a black shirt with pink text, and the other is in a dark jacket. They seem to be interacting, with the person in the jacket gesturing with their hands. The lighting is even, and there are no other objects or scenery visible.\n\n**Audio:** There is a voiceover in the background, but the content of the speech is not clear from the provided information. The voiceover seems to be continuous throughout the 6 seconds."
         },
         {
           "segment_index": 3,
-          "time_range": "246.0s - 252.0s",
-          "query": "VISUAL: A man with glasses and a beard is holding up some playing cards. He's wearing a dark shirt and has a black background behind him. He seems to be talking or explaining something while showing the cards.AUDIO: There's a voice speaking over the video. The speaker says \"Why? Well because technically decimate does not mean obliterate completely.\".If you have any other questions about the video or want to discuss it further, feel free to let me know!"
+          "time_range": "403.0s - 409.0s",
+          "query": "Visually, there are two people standing in front of a textured gray wall. One is wearing a black shirt and glasses, and the other is in a black shirt with pink text. The person in glasses is gesturing with their hands while speaking. The other person is standing still, listening. The lighting is even, and there are no other objects or movement in the background.\n\nIn terms of audio, there is a man speaking. He seems to be talking about something related to power, mentioning \"as much as it affected you\" and \"you've got that kind of power.\" He also mentions \"speaking of power\" and suggests that others should \"go check out geek.\" The tone is somewhat casual and conversational."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 344.5621819496155
+      "processing_time": 270.71207761764526
     },
     {
-      "comment_index": 4157,
+      "comment_index": 2916,
+      "video_id": "jHbyQ_AQP8c",
+      "comment": "lol 6:35 ... Hello Charlie from Supernatural xD",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 152.0,
+      "comment_timestamp": 395.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "386.0s - 392.0s",
+          "query": "Visually, there's a man with glasses and a beard wearing a black shirt against a dark background. He seems to be talking or explaining something. There aren't any other objects or significant movement visible.\n\nIn terms of audio, it's just his voice speaking without any additional music, sound effects, or ambient noises. It's mainly him talking about how falling three meters would pull the Earth up."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "392.0s - 398.0s",
+          "query": "Visually, there are two people standing in front of a textured gray wall. One is wearing a black shirt with pink text, and the other is wearing a black shirt with a white collar. They seem to be talking or presenting something. The background is plain and doesn't have any other objects or movement.\n\nIn terms of audio, there's a voice speaking, but the content of the speech isn't clear from this description. There's also some background music playing, which seems to be instrumental."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "398.0s - 404.0s",
+          "query": "Visually, there are two people standing in front of a textured gray wall. One is wearing a black shirt and the other a black t-shirt with pink text. They seem to be interacting, with the person in the black shirt gesturing with their hands. The scene is simple, with no other objects or movement in the background.\n\nAudio-wise, there's a voice speaking, but the content of the speech isn't clear from this short segment. There are no distinct sound effects or music, just the voice."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 214.90270400047302
+    },
+    {
+      "comment_index": 2917,
+      "video_id": "jHbyQ_AQP8c",
+      "comment": "0:45 now I know why night feels shorter... During nighttime everyone is laying down...",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 142.0,
+      "comment_timestamp": 45.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "36.0s - 42.0s",
+          "query": "Visually, there's a man with glasses and a beard. He's wearing a dark shirt and seems to be talking or explaining something. He's using hand gestures while speaking. The background is completely black, which makes him stand out clearly. There's no other object or person in the frame. The man's facial expressions and hand movements suggest he's engaged in what he's saying.Audibly, there's a male voice speaking. The speech is clear and seems to be in English. The tone of the voice suggests he might be explaining or instructing something. There are no other sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "42.0s - 48.0s",
+          "query": "Sure! So, for the visual part, there's just one person in it. They're wearing glasses and have facial hair. The background is completely black. For the audio part, it seems like someone is speaking. There aren't any other sounds or music.Anything else you need help with?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "48.0s - 54.0s",
+          "query": "Visual: A man with glasses and a beard is talking against a black background.\n\nAudio: There's just his voice speaking, no other sounds like music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 145.42538738250732
+    },
+    {
+      "comment_index": 2918,
       "video_id": "jHbyQ_AQP8c",
       "comment": "1:20 Come on, we both know there are only 7 thousand million people on Earth...",
       "language": "en",
@@ -560,24 +529,54 @@
         {
           "segment_index": 1,
           "time_range": "71.0s - 77.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a black shirt against a dark background. He seems to be talking or explaining something. His hands move a bit as he speaks.AUDIO: The audio has some music playing in the background. There's also a male voice speaking, though it's not clear what he says exactly.What do you think about the video? Do you have any other questions related to it?"
+          "query": "Visually, there's a man with glasses and a beard wearing a dark shirt against a black background. He seems to be speaking or reacting to something.\n\nAudio-wise, it sounds like he's talking about a \"giant geological event.\" There might be some background noise or music, but it's not very clear."
         },
         {
           "segment_index": 2,
           "time_range": "77.0s - 83.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a dark shirt against a black background. He seems to be talking or reacting to something.AUDIO: A male voice is speaking about humans and the Earth, mentioning there are over seven billion of us now.What do you think about that? Do you have any other thoughts on the video?"
+          "query": "Visually, there's just one person with glasses and a beard against a black background. They seem to be talking or speaking directly to the camera.\n\nAudio-wise, it's mainly someone speaking, likely the same person from the visuals. There doesn't seem to be any other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "83.0s - 89.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a dark shirt against a black background. He seems to be talking or reacting to something.AUDIO: A male voice is speaking, saying \"If we all got together in one place and jumped well what would that even look like interestingly.\" It has an excited tone.What do you think about that idea?"
+          "query": "Visually, there's a man with glasses and a beard in a black shirt. He seems to be talking or reacting to something. The background is completely black. There's no other object or person visible. The man's mouth is moving, suggesting he's speaking or reacting. There's no music or sound effects, just his voice."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 295.47379183769226
+      "processing_time": 167.97618055343628
     },
     {
-      "comment_index": 4159,
+      "comment_index": 2919,
+      "video_id": "jHbyQ_AQP8c",
+      "comment": "4:03 did anyone else pick the 6 of spades?!",
+      "language": "en",
+      "channel_name": "Vsauce",
+      "category": "knowledge",
+      "likes": 122.0,
+      "comment_timestamp": 243.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "234.0s - 240.0s",
+          "query": "Visual: A man with glasses and a beard is holding a bunch of playing cards in his right hand. He's wearing a dark shirt and is in front of a black background. He seems to be speaking or reacting to something. The cards are mostly face-down, but some are partially turned over.\n\nAudio: There's a man speaking in a somewhat excited or animated tone. The speech is the main focus, and there are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "240.0s - 246.0s",
+          "query": "Visual: A man with glasses and a beard is holding up cards against a black background. He looks surprised or excited.\n\nAudio: There's no distinct speech or music, just some kind of sound effect that could be related to the action of the cards being manipulated. It might be a \"whoosh\" or something similar."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "246.0s - 252.0s",
+          "query": "Visually, there's a man with glasses and a beard. He's holding a bunch of cards in his right hand. He seems to be talking or explaining something. The background is completely black. There's no other significant movement or objects in the scene.\n\nIn terms of audio, there's a man speaking. He's talking about something related to \"decimate\" and \"obliterate completely.\" The speech is clear and seems to be the main focus of the audio. There's no music or sound effects, just the man's voice."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 206.74959993362427
+    },
+    {
+      "comment_index": 2920,
       "video_id": "jHbyQ_AQP8c",
       "comment": "He answers the question at 2:16",
       "language": "en",
@@ -590,21 +589,21 @@
         {
           "segment_index": 1,
           "time_range": "127.0s - 133.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a dark shirt against a black background. He seems to be talking or reacting to something.AUDIO: Someone is speaking, saying \"Unfortunately not much I mean we're all awesome.\" It has an exasperated tone. What do you think about it?"
+          "query": "Visually, there's just one person with glasses and a beard against a black background. The person seems to be talking or reacting to something.\n\nAudio-wise, it's mostly someone speaking, no other distinct sounds like music or sound effects. It feels like they're having a conversation or making some kind of statement."
         },
         {
           "segment_index": 2,
           "time_range": "133.0s - 139.0s",
-          "query": "VISUAL: There's a man with glasses and a beard wearing a dark shirt against a black background. He seems to be talking or explaining something. His head moves slightly as he speaks.AUDIO: The main thing heard is someone speaking about the mass of Earth compared to the collective mass of all people on Earth, saying it's like nothing. There are no other distinct sounds or music in the audio.If you have any more questions about this or want to discuss something else related to videos, feel free to let me know!"
+          "query": "Visually, there's a man with glasses and a beard in a dark setting. He seems to be talking or reacting to something. There aren't any other objects or people visible in the frame. The background is completely black, which makes the man stand out more. There's no clear indication of movement within the frame itself, but the man's facial expressions suggest some kind of action or reaction.Audibly, there's a man speaking. The speech is clear and seems to be the main focus. There are no other sounds like music, sound effects, or ambient noises. The speech is the only thing heard in this short clip."
         },
         {
           "segment_index": 3,
           "time_range": "139.0s - 145.0s",
-          "query": "VISUAL: A man with glasses and a beard is talking against a black background. He seems to be explaining something related to physics.AUDIO: There's a voiceover that says \"Dot Physics calculated that if all of us were to get together in one location and all jump 30 centimeters into the air.\" It's a clear, calm male voice. What do you think about this calculation? Do you have any other questions or thoughts on it?"
+          "query": "Visual: A man with glasses and a beard is talking directly to the camera against a black background.\n\nAudio: The man speaks clearly about physics concepts related to jumping and gravity."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 370.00597381591797
+      "processing_time": 206.57375836372375
     }
   ]
 }

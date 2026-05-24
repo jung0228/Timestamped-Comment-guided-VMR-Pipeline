@@ -1,230 +1,609 @@
 {
   "video_id": "48h57PspBec",
   "total_comments": 20,
-  "successful_comments": 0,
-  "failed_comments": 20,
-  "success_rate": "0.0%",
-  "processing_time": 0.003892183303833008,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 3104,
+      "comment_index": 621,
       "video_id": "48h57PspBec",
       "comment": "0:47 I gotta respect the cameraman.",
       "language": "en",
       "channel_name": "MrBeast",
       "category": "variety show",
       "likes": 180.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
+      "comment_timestamp": 47.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "38.0s - 44.0s",
+          "query": "Visual: The video shows a boat on water with some people standing on it. There's also a dock or pier nearby. The water looks calm.\n\nAudio: I can hear voices talking over background noise. It seems like there might be some kind of conversation going on."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "44.0s - 50.0s",
+          "query": "Well, in the visual part, there's a boat on the water. There are some people on it, and it looks like they're having a bit of a rough time. The boat seems to be tipping over or sinking. The water is a bit choppy too. The colors are mainly the blue of the water and the white of the boat. And the movement is quite chaotic, with the boat tilting and the people struggling.On the audio side, there's a man shouting, and then there's a loud explosion. It's quite a jarring sound. There's also some background noise, probably from the water and the boat."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "50.0s - 56.0s",
+          "query": "Visual: The video shows someone swimming in water with trees visible in the background. There's also some kind of structure or object floating on the surface.\n\nAudio: You can hear voices speaking over the sound of water splashing. It seems like there might be some music playing too, but it's not very clear."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 179.52206015586853
     },
     {
-      "comment_index": 3105,
+      "comment_index": 622,
       "video_id": "48h57PspBec",
       "comment": "The Miami Heat’s rookie Jaime casually making a cameo 7:36 is crazy",
       "language": "en",
       "channel_name": "MrBeast",
       "category": "variety show",
       "likes": 161.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
+      "comment_timestamp": 456.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "447.0s - 453.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 5.34 GiB. GPU 1 has a total capacity of 23.56 GiB of which 4.01 GiB is free. Including non-PyTorch memory, this process has 19.54 GiB memory in use. Of the allocated memory 18.01 GiB is allocated by PyTorch, and 1.22 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "453.0s - 459.0s",
+          "query": "Visual: The video shows a group of people on a boat. They seem to be having fun, laughing and chatting. There are some colorful objects in the foreground, like boxes of gummies and chocolate bars. The background has a blue sky with some clouds, and the water is visible too. The people are mostly shirtless, wearing swimwear. The scene looks lively and cheerful.\n\nAudio: There's a man speaking in the audio. He's talking about trying the best chocolate bars, cookies, and gummies. The tone is enthusiastic. There's also some background music playing, which adds to the fun and relaxed atmosphere of the scene."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "459.0s - 465.0s",
+          "query": "Visual: The video shows two people standing behind a table filled with various snack products. The table has colorful packages of snacks like gummies and other treats. The background seems to be a plain, light-colored wall. The people are casually dressed, one in a sleeveless shirt and the other in a red and black shirt. There are floating fish and bubbles in the background, giving a playful feel. The text \"feastables.com\" is prominently displayed at the bottom of the screen.\n\nAudio: There's a man speaking in the background, but the content of his speech isn't clear from this short segment. The overall audio seems to be a mix of speech and possibly some ambient noise, but it's not distinct enough to identify specific sounds."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 292.32757329940796
     },
     {
-      "comment_index": 3106,
+      "comment_index": 623,
       "video_id": "48h57PspBec",
       "comment": "0:45 the boat literally just became a titanic🚢🚣😵😢",
       "language": "en",
       "channel_name": "MrBeast",
       "category": "variety show",
       "likes": 151.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
+      "comment_timestamp": 45.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "36.0s - 42.0s",
+          "query": "Visual: The video shows a boat on water. There are people on the boat, and it seems to be sinking. The water is calm, and the boat is white with some blue accents. The people are standing and looking around, possibly reacting to the sinking. The boat has a cabin and an open deck area.\n\nAudio: There's a man speaking in the background. He says something like \"this is even worth a dollar oh we're actually sinking oh the boat literally started sinking right when we put it in.\" The tone seems panicked or concerned."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "42.0s - 48.0s",
+          "query": "Visually, there's a boat in the water. A person is on the boat, and it seems like they're trying to get off or move around. The water is calm, and the boat is white. There are some greenish-blue areas in the water, possibly reflections or something in the water. The sky is clear, suggesting it's a sunny day. The boat has some railings and a small cabin area. The person on the boat is wearing dark clothing.\n\nIn terms of audio, there's a man speaking. He seems to be giving instructions or shouting, possibly to someone on the boat or nearby. The speech is clear and audible over the background noise of the water and the boat's movement."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "48.0s - 54.0s",
+          "query": "Visual: A boat is seen sinking into water with some people around it. The water looks choppy and there's a sense of urgency or distress.\n\nAudio: There's shouting and splashing sounds, indicating panic or struggle related to the sinking boat situation."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 225.4832320213318
     },
     {
-      "comment_index": 3107,
+      "comment_index": 624,
       "video_id": "48h57PspBec",
-      "comment": "7:36 just casually sees an NBA player on a yacht",
+      "comment": "10:35 \"you ladies alright\" jit ahh 😭🙏",
       "language": "en",
       "channel_name": "MrBeast",
       "category": "variety show",
-      "likes": 144.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
+      "likes": 102.0,
+      "comment_timestamp": 635.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "626.0s - 632.0s",
+          "query": "Visual: The video shows a group of people walking on a deck. There are several individuals, some wearing hats and sunglasses. The deck has a wooden surface. In the background, there's a large body of water and a clear sky. There's also a sign that says \"$300 MILLION\" on the deck. The people seem to be casually strolling, possibly on a boat or a large yacht. The overall scene gives off a relaxed, vacation-like vibe.\n\nAudio: The audio includes a man speaking. He says, \"to go up through the master of the camera.\" There's also some background noise, like the sound of the water and maybe some distant voices or ambient sounds from the deck."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "632.0s - 638.0s",
+          "query": "**Visual:** The video shows a man standing on a luxurious yacht deck with a helicopter pad visible. There's also an image of a football superimposed over him. The background includes the ocean and sky.\n\n**Audio:** Someone is speaking about something costing $300 million related to a yacht and mentions Tom Brady being there."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "638.0s - 644.0s",
+          "query": "**Visual:** The video shows a group of people on a wooden deck by the sea. There are at least five individuals, some shirtless, wearing hats and sunglasses. They seem to be playing a game, possibly a variation of catch, as one person throws a ball or object to another. The background features the ocean and a clear sky, suggesting a sunny day. The deck has railings and some furniture.\n\n**Audio:** The audio includes a man speaking, likely commenting on the game or interacting with the players. There are also sounds of the ball or object being thrown and caught, along with the ambient noise of the sea and wind."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 236.36755800247192
     },
     {
-      "comment_index": 3108,
+      "comment_index": 625,
       "video_id": "48h57PspBec",
       "comment": "0:42  the Titanic???",
       "language": "en",
       "channel_name": "MrBeast",
       "category": "variety show",
       "likes": 99.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
+      "comment_timestamp": 42.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "33.0s - 39.0s",
+          "query": "**Visual:** The video shows a boat on water. There are some people on the boat, and it seems to be moving. The boat has a white exterior. The water is calm, and there are some green areas in the background, possibly trees or grass. The overall scene looks like it's during the day.\n\n**Audio:** There is a man speaking in the audio. He seems to be talking about something related to the boat or the situation, but it's not entirely clear what he's saying. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "39.0s - 45.0s",
+          "query": "Visually, there's a boat in the water. People are on the boat, and it seems to be sinking. The water is blue, and the boat is white. There are some structures on the boat, like railings and a small cabin. The people are moving around, trying to deal with the situation. The scene looks chaotic as the boat is sinking.Audibly, there's a man speaking. His voice is clear and he seems to be giving instructions or reacting to the situation. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "45.0s - 51.0s",
+          "query": "Well, in the visual part, there's a boat that's sinking in the water. You can see the water splashing around it, and there are some people nearby, probably trying to help or just watching. The colors are mainly the blue of the water and the white of the boat. The movement is mainly the sinking of the boat and the water's motion.In the audio part, there's some music playing in the background. It's not very clear what kind of music it is, but it gives a sort of dramatic or tense feel to the scene. There's also some speech, but it's hard to make out what's being said because of the music and the overall noise."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 279.75357604026794
     },
     {
-      "comment_index": 3109,
+      "comment_index": 626,
       "video_id": "48h57PspBec",
-      "comment": "2:21 “You’re so American”😂😂😂",
+      "comment": "MASSIVE yacht? 2:36",
       "language": "en",
       "channel_name": "MrBeast",
       "category": "variety show",
-      "likes": 96.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
+      "likes": 97.0,
+      "comment_timestamp": 156.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "147.0s - 153.0s",
+          "query": "Visual: The video shows a luxurious yacht with a man standing on the deck. There are people lounging on the yacht's seating area. The background features a city skyline and water. The text \"$1 MILLION\" and \"$10 MILLION\" appear on the screen. The overall scene is bright and sunny.\n\nAudio: There is a man speaking, but the content of his speech isn't clear from the provided information. The audio also includes some background sounds, possibly from the yacht's engine or other ambient noises on the boat."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "153.0s - 159.0s",
+          "query": "**Visual:** The video shows a large yacht with various smaller boats labeled with different amounts of money floating around it. There's also a man standing on a dock pointing towards something off-screen.\n\n**Audio:** A male voice is speaking, saying \"I've been on so far just wait until you see the next one it's massive and because it's so massive.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "159.0s - 165.0s",
+          "query": "Visual: The video shows several young men standing on a dock near a large yacht. One man is speaking to the camera while others look around or interact with him. There's also some text overlay that says \"$25 MILLION\" and \"x150\". The background includes other boats and water.\n\nAudio: A man is speaking enthusiastically about inviting friends for fun. He mentions something about the boat being able to hold 150 people. There's no specific music or sound effects, just his voice and some ambient noise from the surroundings."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 193.90694403648376
     },
     {
-      "comment_index": 3110,
+      "comment_index": 627,
       "video_id": "48h57PspBec",
       "comment": "@7:34 you can see Jaime Jaquez Jr the Miami heat rookie",
       "language": "en",
       "channel_name": "MrBeast",
       "category": "variety show",
       "likes": 91.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
+      "comment_timestamp": 454.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "445.0s - 451.0s",
+          "query": "**Visual:** The video shows two men on a boat. One is wearing sunglasses and a white t-shirt with a graphic print, while the other is shirtless, wearing blue swim trunks. They seem to be enjoying themselves near a body of water with buildings visible in the background.\n\n**Audio:** There's some shouting and conversation happening, along with the sound of water splashing against the boat. It seems like they're having an energetic time out there."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "451.0s - 457.0s",
+          "query": "Well, in the visual part, there are a bunch of people on a boat. They seem to be having a good time, laughing and chatting. Some are shirtless, and there's a guy with a tattoo on his arm. The background shows the sea and a clear sky. Oh, and there's a red arrow pointing to something that says \"FEASTABLES.\".In the audio part, there's a man speaking. He says \"string one festival bar delivered\" and then \"if you want to try.\" It sounds like he might be promoting something related to the festival. So, what do you think about this video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "457.0s - 463.0s",
+          "query": "Visual: The video shows a man standing behind a table filled with various snack products like chocolate bars, cookies, and gummies. There are logos of different stores like Walmart, 7-Eleven, and Albertsons on the table. The background seems to be an indoor setting with some blurred elements.\n\nAudio: A man is speaking, saying something about the best chocolate bars, cookies, and gummies available at Walmart, 7-Eleven, and Albertsons stores."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 297.0007207393646
     },
     {
-      "comment_index": 3111,
-      "video_id": "48h57PspBec",
-      "comment": "7:34 Is that Jamie Jaquez😂",
-      "language": "en",
-      "channel_name": "MrBeast",
-      "category": "variety show",
-      "likes": 76.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 3112,
+      "comment_index": 628,
       "video_id": "48h57PspBec",
       "comment": "3:08 Nolan said \"this is the best yacht so far\" That's Nolan first yacht",
       "language": "en",
       "channel_name": "MrBeast",
       "category": "variety show",
       "likes": 69.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
+      "comment_timestamp": 188.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "179.0s - 185.0s",
+          "query": "Visually, there are people in a room with modern furniture like sofas and tables. There's a man in a white shirt smiling and pointing towards something. The room has a large window letting in natural light. The colors are mostly neutral with some colorful accents. The movement seems to be people casually interacting in the room.Audibly, there's a man speaking, and it sounds like he's explaining something. There's also background music playing softly."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "185.0s - 191.0s",
+          "query": "**Visual:** The video shows a luxurious bedroom with a large bed, a mirror, and some furniture. Then it cuts to a man in a control room, possibly on a ship, with various buttons and screens around him. He seems to be operating the controls. The scene then shifts to a large yacht floating on the water. The yacht has multiple decks and appears to be quite spacious.\n\n**Audio:** There is a voiceover saying \"$25 MILLION\" and \"seven bedrooms.\" The man in the control room is speaking, but his words are not fully audible. The background has some ambient sounds, possibly of the ship's machinery or the water."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "191.0s - 197.0s",
+          "query": "**Visual:** The video shows a group of people in what seems to be a modern, well-lit room. There are two men in the foreground, one sitting and the other standing. The room has a large window, a lamp, and some furniture. The text \"$25 MILLION\" and \"CHOCOLATE!\" are prominently displayed. The people appear to be engaged in some kind of interaction, possibly a conversation or an argument.\n\n**Audio:** There is a man speaking, and his voice is clear and audible. The speech includes phrases like \"it's not feasible\" and \"thank you for saving my life.\" The tone of the speech suggests urgency or distress. There are also some sound effects, possibly indicating tension or conflict."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 322.97892928123474
     },
     {
-      "comment_index": 3113,
+      "comment_index": 629,
       "video_id": "48h57PspBec",
       "comment": "7:35 thats jaime jaquez jr of the miami heat, one of the best young players in the NBA",
       "language": "en",
       "channel_name": "MrBeast",
       "category": "variety show",
       "likes": 63.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
+      "comment_timestamp": 455.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "446.0s - 452.0s",
+          "query": "**Visual:** The video shows a man and a woman on a boat. The man is wearing sunglasses and a white shirt, while the woman is in a bikini. They seem to be enjoying themselves, possibly dancing or moving to the music. The background is a body of water with a city skyline in the distance. There are also some text overlays with arrows pointing to different parts of the scene, like \"FEASTABLES\" and \"DRONE.\"\n\n**Audio:** There's a man speaking in the background, but the words are unclear. It sounds like he might be talking about something related to the scene, maybe giving instructions or commentary. The overall tone seems upbeat, like there's music playing too, though it's hard to tell for sure."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "452.0s - 458.0s",
+          "query": "Visually, there are several people on a boat. They seem to be having a good time, laughing and chatting. One person is pointing towards something in the distance. The background shows the ocean and a clear sky. There are also some colorful objects, like a yellow and red package, which might be snacks or drinks. The overall scene gives off a fun, relaxed vibe.Audibly, there's a man speaking, and he seems to be promoting something, possibly a product. He's saying things like \"if you want to try the best chocolate bars.\" The speech is clear and confident. There's also some background noise, like the sound of the boat's engine and the ocean waves."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "458.0s - 464.0s",
+          "query": "Sure! Here's a breakdown of the video segment:.Visually, the video shows a display of various products, likely snacks or treats, with the \"feastables\" logo prominently featured. There are multiple logos of different stores like Walmart, 7-Eleven, and Albertsons visible, suggesting these products are available at these stores. The background seems to be a stylized image of a cityscape or a beach scene, giving a vibrant and colorful look to the display. The products are arranged neatly, and there are some people in the background, possibly store employees or models, interacting with the products or the display. The colors are bright and eye-catching, with a lot of pinks, blues, and yellows.Audibly, there is a voiceover that says, \"cookies and gummies on the planet go to Walmart 7-Eleven or any Albertsons stores right now or go to feastables.com.\" This voiceover is clear and informative, providing details about where the products can be purchased."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 263.58632349967957
     },
     {
-      "comment_index": 3114,
+      "comment_index": 630,
+      "video_id": "48h57PspBec",
+      "comment": "9:35 hahaha clink",
+      "language": "en",
+      "channel_name": "MrBeast",
+      "category": "variety show",
+      "likes": 51.0,
+      "comment_timestamp": 575.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "566.0s - 572.0s",
+          "query": "Visual: A large white yacht is floating on blue water. There's someone swimming near it. The person seems to be wearing some kind of gear or equipment.\n\nAudio: Someone is speaking, saying \"Hey can we eat some food? When you get back.\" It sounds like they're asking about having a meal after returning from somewhere."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "572.0s - 578.0s",
+          "query": "Visually: The video shows a group of people sitting around a table, likely on a boat given the visible water and railing in the background. They're dressed casually, some in white shirts. The table is set with plates, glasses, and what seems to be a floral centerpiece. The people are engaged in conversation and toasting with their glasses. The overall scene gives off a relaxed, social vibe.\n\nAudio: There's a man speaking, and he says, \"Boys, we must act like rich billionaires.\" The tone is playful and somewhat exaggerated. There's also laughter and the sound of glasses clinking, which adds to the jovial atmosphere."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "578.0s - 584.0s",
+          "query": "**Visual:** The video shows a group of people sitting around a table outdoors, possibly on a boat or near water. They seem to be having a meal together, with plates, glasses, and cutlery visible. One person is wearing a white shirt and appears to be talking animatedly while gesturing with their hands.\n\n**Audio:** There's a conversation happening among the people at the table. It includes phrases like \"million dollar ship\" and \"I'm not gonna take care of.\" The tone seems casual and friendly."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 186.74580073356628
+    },
+    {
+      "comment_index": 631,
       "video_id": "48h57PspBec",
       "comment": "bro felt what the titanic survivors felt 0:39",
       "language": "en",
       "channel_name": "MrBeast",
       "category": "variety show",
       "likes": 48.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
+      "comment_timestamp": 39.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "30.0s - 36.0s",
+          "query": "Visually, there are two people on a boat. One is standing near the edge, holding a white object, possibly a surfboard or a piece of equipment. The other is bent over, seemingly working on something on the boat. The background shows water and some greenery. The boat has a white canopy and a wooden interior. The colors are mostly muted, with the white of the boat and the water standing out. There's some movement as the people are actively engaged with the boat and its surroundings.Audibly, there's a man speaking. His voice is clear and he seems to be giving instructions or commenting on something. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "36.0s - 42.0s",
+          "query": "Visual: The video shows a boat on water. There's some kind of structure or object inside the boat that seems to be causing it to sink. The water around is calm.\n\nAudio: Someone is speaking, saying \"Oh this isn't even sinking oh the boat literally started sinking right when we put it.\" It sounds like they're surprised or alarmed about the situation with the boat."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "42.0s - 48.0s",
+          "query": "Visually, there's a boat in the water. A person is on the boat, and it seems like they're trying to get off or move around. The water is calm, and the boat is white. There are some greenish-blue areas in the water, possibly reflections or something in the water. The sky is clear, suggesting it's a sunny day. The boat has some railings and a small cabin area. The person on the boat is wearing dark clothing.\n\nIn terms of audio, there's a man speaking. He seems to be giving instructions or shouting, possibly to someone on the boat or nearby. The speech is clear and audible over the background noise of the water and the boat's movement."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 237.53336644172668
     },
     {
-      "comment_index": 3115,
+      "comment_index": 632,
       "video_id": "48h57PspBec",
       "comment": "0:56 Is this the new Titanic?😂❤",
       "language": "en",
       "channel_name": "MrBeast",
       "category": "variety show",
       "likes": 47.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
+      "comment_timestamp": 56.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "47.0s - 53.0s",
+          "query": "Well, visually, there's a boat that seems to be sinking or capsizing in some water. You can see the water splashing around it, and there are some people in the water too. The colors are mainly blue from the water and white from the boat. There's also some greenish tint near where the boat is. As for movement, the boat is definitely moving erratically, probably due to the sinking or capsizing.Anything else you want to know about the video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "53.0s - 59.0s",
+          "query": "Visual: The video shows a man in water, looking surprised or shocked. There's a dollar sign and the text \"I PAID A DOLLAR FOR THAT!\" overlaid on the image. In the background, there's a large yacht floating on water. The scene seems to be outdoors, possibly near a lake or sea, with some greenery visible in the distance. The water is relatively calm.\n\nAudio: There's a man speaking, but the content of his speech isn't clear from the provided information. The overall tone seems to be somewhat dramatic or intense, given the man's expression and the text overlay."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "59.0s - 65.0s",
+          "query": "Visual: The video shows various boats on water. There's a large yacht with \"$1 BILLION\" written over it, smaller boats around it, and some dollar signs floating above them. The background has palm trees and buildings.\n\nAudio: A man is speaking throughout the video."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 164.539888381958
     },
     {
-      "comment_index": 3116,
+      "comment_index": 633,
       "video_id": "48h57PspBec",
-      "comment": "7:36 yo is that Jaime Jaquez??? 😮😮😮",
+      "comment": "8:22 Hahaha, that's the best reaction I've ever seen!",
       "language": "en",
       "channel_name": "MrBeast",
       "category": "variety show",
       "likes": 46.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
+      "comment_timestamp": 502.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "493.0s - 499.0s",
+          "query": "Visual: The video shows a large yacht with multiple rooms visible. There are people walking around on the deck, and the interior of the yacht is shown with various rooms like bedrooms and lounges. The colors are mostly light and airy, with a lot of white and beige tones. The movement is smooth, showing different parts of the yacht.\n\nAudio: There's a voiceover saying \"WELCOME ABOARD!\" in a friendly and welcoming tone. There's also background music that adds to the luxurious feel of the video."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "499.0s - 505.0s",
+          "query": "Visually, there are several people on a boat. They seem to be enjoying themselves, with some standing and others sitting. The boat is large, and the ocean is visible in the background. The people are dressed casually, and there's a sense of leisure in the scene. The colors are mostly natural tones, with the blue of the ocean and the white of the boat standing out.\n\nIn terms of audio, there's a conversation happening. One person is speaking, and it sounds like they're discussing something related to the boat, possibly its size or features. The tone is casual and friendly."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "505.0s - 511.0s",
+          "query": "Visual: The video shows a luxurious yacht with a large pool on the deck. There are people standing and moving around on the yacht. The background includes the ocean and some land in the distance. The yacht has a modern design with wooden flooring and white and blue seating areas. The text \"$300 MILLION\" is displayed, indicating the yacht's value. The overall scene is bright and sunny.\n\nAudio: There is a voiceover saying \"5 FLOORS\" and then \"Crazy there are six floors a massive pool and a hot tub with a view this is nice.\" The voice is clear and enthusiastic."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 275.6772997379303
     },
     {
-      "comment_index": 3117,
-      "video_id": "48h57PspBec",
-      "comment": "7:35 BRO THEY DIDNT EVEN REALISE THAT JAIME JAQUEZ JR WAS OM THE BOAT????",
-      "language": "en",
-      "channel_name": "MrBeast",
-      "category": "variety show",
-      "likes": 46.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 3118,
-      "video_id": "48h57PspBec",
-      "comment": "Is that James Jaquez Jr. 7:36? 😂",
-      "language": "en",
-      "channel_name": "MrBeast",
-      "category": "variety show",
-      "likes": 45.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 3119,
+      "comment_index": 634,
       "video_id": "48h57PspBec",
       "comment": "0:29 Jimmy:ICEBERG, RIGHT AHEAD!",
       "language": "en",
       "channel_name": "MrBeast",
       "category": "variety show",
       "likes": 43.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
+      "comment_timestamp": 29.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "20.0s - 26.0s",
+          "query": "**Visual:** The video shows two men standing near a body of water, possibly a lake or a river. One man is wearing a black shirt and the other is in a white shirt with a cap. They seem to be having a conversation. There's a boat in the background, and the surrounding area has trees and a clear sky.\n\n**Audio:** The audio contains a conversation between the two men. One of them mentions something about \"storage\" and \"costing $18,000 a year to store.\" The other responds with \"correct\" and \"interesting.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "26.0s - 32.0s",
+          "query": "Visually, there are people on a boat. One person is standing on the deck, and another is near the edge. The boat is white and seems to be in a body of water. There are trees and some buildings in the background. The water looks calm, and the sky is clear. The people are wearing dark clothing. The boat has a small cabin area with windows.On the audio side, there's a man speaking. He seems to be talking about something related to the boat, mentioning that it only costs one dollar. The speech is clear and the man's voice is calm. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "32.0s - 38.0s",
+          "query": "**Visual:** The video shows a person in a boat. There's a man standing on the boat, and another person is partially visible. The boat seems to be on water, and there are some objects inside, like a bucket and some equipment. The scene looks a bit chaotic, with things scattered around. The colors are mostly muted, with the water being a grayish-blue.\n\n**Audio:** There's a man speaking in the background. His voice is clear and he seems to be talking about something related to being on the water. There are no other distinct sounds like music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 227.48181438446045
     },
     {
-      "comment_index": 3120,
+      "comment_index": 635,
       "video_id": "48h57PspBec",
-      "comment": "7:35  Is that Jaime Jaquez?!",
+      "comment": "1:42 IT THAT BLIPPI",
       "language": "en",
       "channel_name": "MrBeast",
       "category": "variety show",
-      "likes": 33.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
+      "likes": 40.0,
+      "comment_timestamp": 102.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "93.0s - 99.0s",
+          "query": "Sure! So, visually, there's a large yacht on water with some people around it. You can see the city skyline in the background. There s also someone standing on the deck of the boat, looking out at the water. The water looks calm, and the sky is clear.Audibly, I hear some shouting or yelling from one person, maybe excitedly talking about something related to the yacht or the scene. There might be some ambient noise like wind or water splashing too.What do you think? Do you want me to focus more on any specific part?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "99.0s - 105.0s",
+          "query": "**Visual:** The video shows a boat speeding across water. There are people on the boat, some standing and others sitting. The background includes a cityscape with tall buildings. The water is a clear blue-green, and the boat is white with a red stripe. The boat is moving at a high speed, creating a wake behind it. The sky is clear and blue.\n\n**Audio:** There is music playing in the background, and there are some sounds of water splashing as the boat moves."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "105.0s - 111.0s",
+          "query": "Visual: The video shows a large yacht floating on the water. There are people on the yacht, some standing and others sitting. The water is a greenish-blue color, and the sky is clear and blue. The yacht has a sleek, modern design with a white and black color scheme. The people on the yacht seem to be enjoying themselves, possibly chatting or looking around.\n\nAudio: There is a voiceover in the background, saying \"now we're going to the ten million dollar one million see ya it's gonna be.\" The voice is clear and confident. There are no other distinct sounds or music in the audio."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 294.35948395729065
     },
     {
-      "comment_index": 3121,
+      "comment_index": 636,
+      "video_id": "48h57PspBec",
+      "comment": "7:52 relatable",
+      "language": "en",
+      "channel_name": "MrBeast",
+      "category": "variety show",
+      "likes": 40.0,
+      "comment_timestamp": 472.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "463.0s - 469.0s",
+          "query": "Visually, there are two men standing behind a table filled with various food items. One man is wearing a dark sleeveless shirt and the other is in a red and black sleeveless shirt. They seem to be presenting or promoting something. The background has a light-colored wall with some decorations. The table has colorful packages of food products on it. The overall scene looks like a promotional or product showcase setting.\n\nAudio-wise, there's a voice speaking in English. The speaker says, \"we're gonna feastables.com right now if you want to order online.\" There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "469.0s - 475.0s",
+          "query": "**Visual:** The video shows two men standing in what looks like a room with a light-colored wall. One man is wearing a dark hoodie and a green beanie, while the other is in a dark t-shirt. There are some colorful boxes on a surface in front of them. The man in the hoodie is talking and gesturing with his hands, while the other man listens and smiles. The scene is well-lit, and the colors are bright and clear.\n\n**Audio:** The audio includes a man speaking, saying \"chocolate so why wouldn't you get these nuts.\" There's also laughter from the other man, and the overall tone seems light-hearted and casual."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "475.0s - 481.0s",
+          "query": "Visual: The video shows a boat sailing on the water. There are two people on the boat, one wearing a blue shirt and the other in a gray hoodie. The water is a deep blue-green color, and the sky is clear with some clouds. The boat is moving forward, leaving a trail of white water behind it. The two people seem to be enjoying the ride, with one of them raising their arm in excitement. The background includes a distant shoreline with buildings and a cityscape.\n\nAudio: There is a sound of a motorboat engine running in the background. The main audio is a man shouting \"At the end of the day Nolan finally found us.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 271.94153356552124
+    },
+    {
+      "comment_index": 637,
       "video_id": "48h57PspBec",
       "comment": "5:00 is that the gut from the rookie,",
       "language": "en",
       "channel_name": "MrBeast",
       "category": "variety show",
       "likes": 33.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
+      "comment_timestamp": 300.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "291.0s - 297.0s",
+          "query": "Visually, there's a large yacht on the water. It's white and yellow, with a flag on top. The background shows a city skyline with tall buildings. The water is a clear blue-green. There are some people on the yacht, but they're not clearly visible. The yacht seems to be moving forward.The audio has a man speaking, but the words are unclear. There's also some background noise, like the sound of water and possibly a motorboat engine."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "297.0s - 303.0s",
+          "query": "Visual: The video shows a large yacht on the water. There are people on the yacht, some standing and some sitting. The background has a city skyline with tall buildings. The water is a clear blue. There are also some text overlays, like \"$50 MILLION\" and \"PETE DAVIDSON\".\n\nAudio: There's a man speaking in the audio. He says, \"20 person crew with this homeless person I found.\" The tone seems somewhat casual."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "303.0s - 309.0s",
+          "query": "Visually, there are people in a room. One person is holding a phone and seems to be interacting with others. There are some objects on a table, like a bowl and a plate with food. The room has a modern look with white walls and some framed pictures. The lighting is bright, probably from ceiling lights.Audibly, there's a man speaking. He says something like \"Given this remote that can call the crew at any time, send what you call me no I just wanted to show how this works.\" The tone seems a bit hesitant or uncertain."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 232.8178014755249
     },
     {
-      "comment_index": 3122,
+      "comment_index": 638,
+      "video_id": "48h57PspBec",
+      "comment": "0:43 titanic",
+      "language": "en",
+      "channel_name": "MrBeast",
+      "category": "variety show",
+      "likes": 33.0,
+      "comment_timestamp": 43.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "34.0s - 40.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze here. The prompt seems incomplete or incorrect. If you have another video segment for me to analyze, that would be great!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "40.0s - 46.0s",
+          "query": "Visual: The video shows a boat on water with several people on it. One person is seen jumping off the boat into the water. There's also an aerial view of the boat moving across the water.\n\nAudio: You can hear voices talking over background noise, possibly from other boats or the wind. There might be some splashing sounds when the person jumps into the water."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "46.0s - 52.0s",
+          "query": "Visually, there's a boat in a body of water. It seems to be moving or has just been in an accident, as it's partially submerged. The water looks clear and blue. There are some people around the boat, possibly trying to help or assess the situation. The scene looks like it could be in a lake or a calm sea area. The colors are mainly blue from the water and white from the boat. There's a sense of urgency or concern in the actions of the people around the boat.Audibly, there's a loud explosion or crash sound. It's a very intense and sudden noise that dominates the audio. There's also some shouting, which could be from the people around the boat reacting to the explosion. The overall sound is quite chaotic and alarming."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 174.79403686523438
+    },
+    {
+      "comment_index": 639,
       "video_id": "48h57PspBec",
       "comment": "Here’s the Titanic movie 👉 0:41",
       "language": "en",
       "channel_name": "MrBeast",
       "category": "variety show",
       "likes": 32.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
+      "comment_timestamp": 41.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "32.0s - 38.0s",
+          "query": "**Visual:** The video shows two men on a boat. One man is standing near the front, while the other is closer to the middle. There's some kind of structure or equipment visible inside the boat. The water around them appears calm.\n\n**Audio:** There's a conversation happening between the two men. It seems like they're discussing something related to the boat or their activity on it. No specific music or sound effects are noticeable apart from the natural sounds of the environment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "38.0s - 44.0s",
+          "query": "Visual: The video shows a boat on water with some people standing on it. There's also a dock or pier nearby. The water looks calm.\n\nAudio: I can hear voices talking over background noise. It seems like there might be some kind of conversation going on."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "44.0s - 50.0s",
+          "query": "Well, in the visual part, there's a boat on the water. There are some people on it, and it looks like they're having a bit of a rough time. The boat seems to be tipping over or sinking. The water is a bit choppy too. The colors are mainly the blue of the water and the white of the boat. And the movement is quite chaotic, with the boat tilting and the people struggling.On the audio side, there's a man shouting, and then there's a loud explosion. It's quite a jarring sound. There's also some background noise, probably from the water and the boat."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 179.81633806228638
     },
     {
-      "comment_index": 3123,
+      "comment_index": 640,
       "video_id": "48h57PspBec",
       "comment": "0:17 ~ what?",
       "language": "en",
       "channel_name": "MrBeast",
       "category": "variety show",
       "likes": 32.0,
-      "error": "Video file not found: 48h57PspBec",
-      "analysis_type": "failed"
+      "comment_timestamp": 17.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "8.0s - 14.0s",
+          "query": "Visual: The video shows a large yacht on the water. There are people on the yacht, some of whom appear to be enjoying the surroundings. The water is a clear blue, and there's a city skyline in the background. The yacht is quite big, with multiple decks and a prominent structure at the front. The overall scene gives off a luxurious and relaxing vibe.\n\nAudio: The audio features a voiceover saying, \"I'm gonna show you the difference between this and a $300 million mega yacht.\" The voice is clear and confident. There are no other distinct sounds or music in the audio."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "14.0s - 20.0s",
+          "query": "**Visual:** The video shows two men standing on a dock near a large yacht. One man is wearing a black shirt and shorts while the other is dressed in white with a cap. They appear to be having a conversation. In the background, there's another boat visible on the water.\n\n**Audio:** There is dialogue between the two men, likely discussing something related to boats or yachts. The tone seems casual and conversational."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "20.0s - 26.0s",
+          "query": "**Visual:** The video shows two men standing near a body of water, possibly a lake or a river. One man is wearing a black shirt and the other is in a white shirt with a cap. They seem to be having a conversation. There's a boat in the background, and the surrounding area has trees and a clear sky.\n\n**Audio:** The audio contains a conversation between the two men. One of them mentions something about \"storage\" and \"costing $18,000 a year to store.\" The other responds with \"correct\" and \"interesting.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 191.3559901714325
     }
   ]
 }

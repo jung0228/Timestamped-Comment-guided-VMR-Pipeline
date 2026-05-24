@@ -1,0 +1,609 @@
+{
+  "video_id": "s-6T11fVxZA",
+  "total_comments": 20,
+  "successful_comments": 17,
+  "failed_comments": 3,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 6411,
+      "video_id": "s-6T11fVxZA",
+      "comment": "4:38 everday i drive with 120 mph to work no problem at all",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 2.0,
+      "comment_timestamp": 278.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "269.0s - 275.0s",
+          "query": "**Visual:** The video shows two individuals seated at a news desk. Behind them is a large screen displaying an image with the words \"NOT SO FASTO\" prominently featured. Both individuals appear to be engaged in conversation or presenting something.\n\n**Audio:** There's a voiceover saying, \"she is going ahead and file suit and I'm glad that she's doing it I mean it's absolutely ridiculous.\" The tone suggests frustration or disbelief about the situation being discussed."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "275.0s - 281.0s",
+          "query": "**Visual:** The video shows two people sitting at a news desk. There's a large screen behind them displaying a man's face with the words \"NOT SO FASTO\" in bold letters. The setting appears to be a news studio with a blue backdrop. The two individuals seem to be engaged in a discussion or presentation, with one person gesturing while speaking.\n\n**Audio:** The audio features a woman speaking. Her speech is clear and seems to be addressing the topic of harassment and driving at high speeds."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "281.0s - 287.0s",
+          "query": "**Visual:** The video shows a news studio setting. There are two people seated at a desk, one woman and one man. The woman is wearing a black sleeveless top and has long hair. The man is in a suit. Behind them is a large screen displaying a person's face with the words \"NOT SO FASTO\" partially visible. The background is predominantly blue with some lighting effects.\n\n**Audio:** A woman is speaking. She says, \"per hour on the highway that's so unbelievably unsafe and I love that she actually did her job she didn't look.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 230.50619530677795
+    },
+    {
+      "comment_index": 6412,
+      "video_id": "s-6T11fVxZA",
+      "comment": "01:32  Cute !!! ;D That's why I LOVE women !!!",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 1.0,
+      "comment_timestamp": 92.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "83.0s - 89.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.86 GiB is free. Including non-PyTorch memory, this process has 15.69 GiB memory in use. Of the allocated memory 13.60 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "89.0s - 95.0s",
+          "query": "Visually, there's a man and a woman sitting at a desk with papers in front of them. Behind them is a screen showing another person's face. The background has blue lighting.\n\nAudibly, someone says \"Not so fast\" followed by laughter. Then they comment on how good-looking the other person looks."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "95.0s - 101.0s",
+          "query": "**Visual:** The video shows two people sitting at a news desk. There's a screen behind them displaying an image with the words \"NOT SO FASTO.\" The setting looks like a typical news studio.\n\n**Audio:** Someone is speaking, saying something about not knowing if it's a cop or not. It seems to be a conversation between the two people on the desk."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 235.40681886672974
+    },
+    {
+      "comment_index": 6413,
+      "video_id": "s-6T11fVxZA",
+      "comment": "4:40 - USA is a straaaange country. 120 miles per hour, what is that, only 200km/hour? I LOVE driving 250KM/hour, Autobahn is my friend.",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 280.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "271.0s - 277.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.34 GiB. GPU 1 has a total capacity of 23.56 GiB of which 2.34 GiB is free. Including non-PyTorch memory, this process has 21.21 GiB memory in use. Of the allocated memory 16.63 GiB is allocated by PyTorch, and 4.27 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "277.0s - 283.0s",
+          "query": "**Visual:** The video shows two people sitting at a news desk. There's a large screen behind them displaying a man's face with the words \"NOT SO FASTO\" partially visible. The setting appears to be a news studio with a blue backdrop. The two individuals seem to be engaged in a discussion or presentation, with one gesturing while speaking.\n\n**Audio:** The audio contains a voice speaking, saying, \"just to go after and harass her and by the way no one should be driving 120 miles per hour on the highway that's so un.\" The tone suggests a serious or concerned discussion, possibly related to road safety or legal matters."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "283.0s - 289.0s",
+          "query": "**Visual:** The scene shows three individuals seated at a table against a blue backdrop. One person is gesturing with their hands while speaking. There's some text partially visible on the screen.\n\n**Audio:** Someone is talking about someone else doing their job well without looking out for him because he's a cop."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 228.10994744300842
+    },
+    {
+      "comment_index": 6414,
+      "video_id": "s-6T11fVxZA",
+      "comment": "3:08 Not just florida, def not just  south florida were you listening?",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 188.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "179.0s - 185.0s",
+          "query": "**Visual:** The video shows a text overlay with a statement about police harassment over a period of three months. The text mentions that officers from 25 different agencies accessed someone's driver's license information more than 200 times. The background appears to be a blurred image, possibly of a news studio or a similar setting.\n\n**Audio:** There is a voiceover in the audio, likely a news anchor or reporter, discussing the information presented in the text overlay. The tone seems to be informative and somewhat concerned."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "185.0s - 191.0s",
+          "query": "**Visual:** The video shows two people sitting at a desk in a studio setting. Behind them is a large screen displaying a man's face with the words \"NOT SO FAST\" overlaid. The two individuals appear to be engaged in a discussion or interview. The studio has a blue backdrop, and there are papers and a microphone on the desk. The man on the screen seems to be the focus of their conversation.\n\n**Audio:** The audio features a man speaking. He says, \"paranoid it seems like half the cops in South Florida were checking out where she lives and.\" The tone suggests a serious or investigative context."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "191.0s - 197.0s",
+          "query": "**Visual:** The video shows two people sitting at a news desk. There's a large screen behind them displaying a man's face with the words \"NOT SO FASTO\" partially visible. The desk has some papers and a microphone. The background is blue with some lighting effects. The two people seem to be engaged in a discussion or presentation.\n\n**Audio:** The audio contains a voice speaking, but the content of the speech is not clear from the provided information. There are no distinct sound effects or music."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 281.93139457702637
+    },
+    {
+      "comment_index": 6415,
+      "video_id": "s-6T11fVxZA",
+      "comment": "5:25 good. Very good. Because going by what you just said, she broke the law just trying to catch up to the Police officer that was speeding, speeding herself. Breaking the law, to uphold the law? I'm dying to hear your counter argument. She should face the same exact punishment as the speeding Police Officer because she was speeding just to catch him.  And we ALL know the biggest assholes in law enforcement are the state police not the local police. Now we know they are both the biggest assholes and cunts.",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 325.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "316.0s - 322.0s",
+          "query": "**Visual:** The video shows a man in a dark suit jacket and a light-colored shirt. He appears to be speaking and gesturing with his hands. The background is a solid blue color. There are no other visible objects or people in the frame.\n\n**Audio:** The audio consists of a man speaking. He seems to be discussing something, possibly related to someone being reassigned to road patrol in Broward. The tone suggests a formal or professional context."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "322.0s - 328.0s",
+          "query": "Visually, there's a man in a dark suit sitting in front of a blue background. He seems to be speaking and gesturing with his hands. The lighting is focused on him, making him the main focus against the blue backdrop. There aren't any other objects or people visible in the frame.\n\nIn terms of audio, the man is speaking, but the content of his speech is not clear from the provided information. There are no other sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "328.0s - 334.0s",
+          "query": "Visually, there's a man in a dark suit jacket and a light-colored shirt. He's standing against a blue background. He's talking and using hand gestures while speaking. There aren't any other objects or people visible in the frame. The man seems to be the main focus of the video.Audibly, the man is speaking. There are no other sounds like music or sound effects. The speech is the only thing heard in the audio."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 254.37934708595276
+    },
+    {
+      "comment_index": 6416,
+      "video_id": "s-6T11fVxZA",
+      "comment": "comedian416  I think only person said that. From what I saw he broke 3 or 4 laws. I don't think cops should allowed to moonlight. You really need to be alert to make the snap judgement calls as a cop. You can't do that if you're tired. I moonlighted for 2 years at the age of 23  I left my house at 5:30 am everyday and didn't get home until 11:45 pm. I was in good shape and I remember how worn out I felt all the time. ",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 330.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "321.0s - 327.0s",
+          "query": "**Visual:** The video shows a man in a dark suit and light-colored shirt. He's seated, and his hands are clasped together. The background is a solid blue color. There's no significant movement or action from the man.\n\n**Audio:** The audio consists of a male voice speaking. The speech is clear and seems to be in English."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "327.0s - 333.0s",
+          "query": "Well, in the video, there's a man in a suit talking. He seems to be gesturing with his hands as he speaks. The background is blue, which gives it a sort of studio-like feel. There's no music or sound effects, just the man's speech. He's talking about someone who still works for the Highway Patrol and they say she's fine overall, but they took a job from her. So, what do you think about this?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "333.0s - 339.0s",
+          "query": "Visually, there's a man in a dark suit jacket and a light-colored shirt. He's standing against a blue background. He seems to be talking and gesturing with his hands. There aren't any other objects or people visible in the frame. The scene is pretty simple, just the man in front of the blue backdrop."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 243.21366357803345
+    },
+    {
+      "comment_index": 6417,
+      "video_id": "s-6T11fVxZA",
+      "comment": "TheSmithDorian I did not research this article and I do not care to. If she requested reassignment because of what you say I would still consider that a form of harassment. She had every right to point her gun at him until she was sure he was indeed a police officer. The law is a Federal law and weather she sues the state or Federal Govt. I am not sure and do not care. He was a reckless endangerment to all those on that road and he got what he deserved. Most Police officers act the same as she did after a high speed chase and I would have loved to see her use a tasser on him, thats what they do to us civilians. I am not a fan of Hiway Patrol to begin with. I feel it is a waste of tax paying dollars, but it is what it is and most of them are wound tight to begin with. (ones I have met any way). I had guns drawn on me for not pulling over after two blocks and was not speeding, all I did was an illegal u-turn on a deserted road at 11:30 p.m. three blocks from home. And yes I was given a warning for the u-turn and for not stopping imeadately. My point is the same he got what he had comming weather you think she over reacted is your opinion, just as mine is she acted like any other Police Officer I have ever seen.",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 690.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "681.0s - 687.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "687.0s - 693.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "693.0s - 699.0s",
+          "query": "Inference error: 'video_fps'"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.00462031364440918
+    },
+    {
+      "comment_index": 6418,
+      "video_id": "s-6T11fVxZA",
+      "comment": "yes a pothead thats up at 3:00 AM that makes perfect sense",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 180.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "171.0s - 177.0s",
+          "query": "Visual: The video shows two people sitting at a desk in a studio setting. There's a large screen behind them displaying text. The people seem to be hosts or presenters, possibly for a news or talk show. The background is dark with some blue lighting. The text on the screen is about police harassment over a three-month period.\n\nAudio: The audio includes a voiceover that reads out the text displayed on the screen. The voiceover is clear and informative, providing details about the police harassment incident."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "177.0s - 183.0s",
+          "query": "Sorry, I can't analyze that video since it's not available to me. If you have any other questions or need help with something else, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "183.0s - 189.0s",
+          "query": "**Visual:** The video shows two people sitting at a news desk. There's a large screen behind them displaying a man's face with the words \"NOT SO FAST\" overlaid. The setting appears to be a news studio with a blue backdrop. The two individuals seem to be engaged in a discussion or presentation, with one person gesturing while speaking.\n\n**Audio:** The audio features a man speaking. He says, \"she was right to be paranoid it seems like half the cops in South Florida were checking out.\" The tone suggests a serious or investigative context."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 223.6797022819519
+    },
+    {
+      "comment_index": 6419,
+      "video_id": "s-6T11fVxZA",
+      "comment": "Captions at 3:57   'It's a Naruto'",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 237.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "228.0s - 234.0s",
+          "query": "**Visual:** The video shows two people sitting at a desk in a studio setting. Behind them is a large screen displaying the words \"NOT SO FASTO\" in bold letters. The desk has some papers and a microphone on it. The background is predominantly blue with some lighting effects.\n\n**Audio:** The audio features a man speaking. He seems to be discussing something, possibly related to a legal or political context, as he mentions lawyers and the government."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "234.0s - 240.0s",
+          "query": "**Visual:** The video shows three people sitting at a news desk. There's a large screen behind them displaying the words \"NOT SO FASTO\" in bold letters. The people appear to be engaged in a discussion, with one person gesturing while speaking. The setting looks like a typical news studio with a blue backdrop.\n\n**Audio:** The audio features a man speaking, saying, \"wait a minute wait a minute this is like if you look up somebody's driver license for profit it's a no no no.\" The tone suggests he's emphasizing a point or expressing concern."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "240.0s - 246.0s",
+          "query": "**Visual:** The video shows two people sitting at a news desk. Behind them is a large screen displaying the words \"NOT SO FASTO\" in bold letters. The setting appears to be a news studio with a blue backdrop. The individuals seem to be engaged in a discussion or interview, with one person gesturing while speaking.\n\n**Audio:** The audio features a person speaking, saying, \"but it doesn't say that in the law doesn't say only for profit like for example if you look up their driver's license to harass them at their.\" The speech is clear and seems to be part of a conversation or debate."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 268.9722900390625
+    },
+    {
+      "comment_index": 6420,
+      "video_id": "s-6T11fVxZA",
+      "comment": "4:02 there is written :\"Naruto\"",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 242.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "233.0s - 239.0s",
+          "query": "**Visual:** The video shows two people sitting at a desk in a studio setting. Behind them is a large screen displaying a man's face with the words \"NOT SO FASTO\" in bold letters. The desk has some papers and a microphone on it. The background is predominantly blue with some lighting effects.\n\n**Audio:** There is a male voice speaking, saying, \"and insane hey wait a minute wait a minute this is like if you look up somebody's driver license for profit.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "239.0s - 245.0s",
+          "query": "**Visual:** The video shows two people sitting at a desk in a studio setting. Behind them is a large screen displaying a man's face with the words \"NOT SO FASTO\" in bold letters. The desk has some papers and a microphone on it. The background is blue with some lighting effects.\n\n**Audio:** There is a conversation happening between the two people. One person is speaking, and the other seems to be listening or responding. The speech is in English, and the tone suggests a discussion or debate."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "245.0s - 251.0s",
+          "query": "**Visual:** The video shows two people sitting at a news desk. There's a large screen behind them displaying the words \"NOT SO FASTO\" in bold letters. The setting appears to be a news studio with a blue backdrop. The two individuals seem to be engaged in a discussion or presentation, with one gesturing while speaking.\n\n**Audio:** The audio features a man speaking. He says, \"arrest them at their house yeah that's exactly what the law should cover so she deserves the five hundred.\" The tone suggests a serious or formal discussion, likely related to legal matters."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 278.08037519454956
+    },
+    {
+      "comment_index": 6421,
+      "video_id": "s-6T11fVxZA",
+      "comment": "Dakarn \" WHAAAT?!?!  If you go 120mph on the Interstate and don't stop for nearly 5 minutes when a trooper tries to pull you over, your ass is going to jail!  Do not pass go, do not collect $200\"  He was charged with misdemeanor reckless driving. He wasn't charged with speeding.  His ass didn't go to jail. What does that tell you? Here's a clue (since you don't seem to have one)  *) the Miami cop passed the Trooper at 6:28:14.  *) The chase ends at 6:35:35  *) Time elapsed 7 minutes 21 seconds  *) Length of the chase according to the police was 4 minutes 57 seconds.",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 23735.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "23726.0s - 23732.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "23732.0s - 23738.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "23738.0s - 23744.0s",
+          "query": "Inference error: 'video_fps'"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.005234479904174805
+    },
+    {
+      "comment_index": 6422,
+      "video_id": "s-6T11fVxZA",
+      "comment": "1:40 she did know it was a cop?",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 100.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "91.0s - 97.0s",
+          "query": "**Visual:** The video shows two people sitting at a news desk. Behind them is a large screen displaying a man's face with the words \"NOT SO FASTO\" partially visible. The setting appears to be a news studio with a blue backdrop. The two individuals seem to be engaged in a conversation or discussion, possibly related to the content on the screen.\n\n**Audio:** There is a woman speaking, and she seems to be laughing or chuckling. The speech is likely part of a news segment or commentary."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "97.0s - 103.0s",
+          "query": "**Visual:** The video shows two people sitting at a news desk. There's a large screen behind them displaying a man's face with the words \"NOT SO FASTO\" partially visible. The setting appears to be a news studio with a blue backdrop. The two individuals seem to be engaged in a discussion or interview, with one gesturing while speaking.\n\n**Audio:** The audio includes a man speaking, likely the host or interviewer, and a woman responding. The man's speech is clear and seems to be part of a conversation or interview. The woman's response is also audible, indicating an interactive dialogue."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "103.0s - 109.0s",
+          "query": "**Visual:** The video shows two people sitting at a news desk. There's a large screen behind them displaying a man's face with the words \"NOT SO FASTO\" partially visible. The setting appears to be a news studio with a blue backdrop. The two individuals seem to be engaged in a discussion or presentation.\n\n**Audio:** The audio includes a conversation between the two people at the desk. One person is speaking, and the other is listening or responding. The speech is clear and seems to be part of a news segment or discussion."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 313.3225576877594
+    },
+    {
+      "comment_index": 6423,
+      "video_id": "s-6T11fVxZA",
+      "comment": "She deserves the silver star.my favorite cop.the best dam cop out there. I love it.I got her 6:00 any day any time.anywhere. so watch out.",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 360.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "351.0s - 357.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "357.0s - 363.0s",
+          "query": "Inference error: 'video_fps'"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "363.0s - 369.0s",
+          "query": "Inference error: 'video_fps'"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.0047130584716796875
+    },
+    {
+      "comment_index": 6424,
+      "video_id": "s-6T11fVxZA",
+      "comment": "1:04 \"It is a Miami Police\"  @ 1:39 dumb guy \"at first she does not know if it is a cop or not\" -_- dumb ass, now this whole video is tainted.....",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 64.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "55.0s - 61.0s",
+          "query": "Visually, the video shows a nighttime highway scene. There are cars driving on the road, with headlights illuminating the path ahead. The sky is dark, and the road is lined with streetlights. The camera seems to be mounted on a vehicle, possibly a police cruiser, as it moves forward along the highway. The overall color palette is dominated by dark blues and blacks, with bright white and yellow from the headlights and streetlights.\n\nIn terms of audio, there is a male voice speaking, but the content of the speech is not clear from this short segment. There are no distinct sound effects or music. The background is mostly the sound of the vehicle moving and the distant hum of other cars."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "61.0s - 67.0s",
+          "query": "Visually, the video shows a nighttime highway scene. There are cars driving on the road, with headlights illuminating the path ahead. The road is marked with white lines, and there are streetlights lining the sides. The sky appears dark, indicating it's night. The camera seems to be mounted on a vehicle, possibly a police car, as it moves forward along the highway. There's a blue graphic overlay on the left side of the screen, possibly from a news network, with a world map design. The right side has a grid pattern, also likely from the network's branding. The timestamp in the top left corner reads \"10/11/2011 06:34:10\". The bottom right corner has the text \"TTN NETWORK\".\n\nAudibly, there's a voiceover saying, \"TROOPER: It is a Miami Police...\", but the rest of the sentence is cut off. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "67.0s - 73.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze here. The prompt seems incomplete or incorrect. If you have another question or need help with something else, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 226.97749781608582
+    },
+    {
+      "comment_index": 6425,
+      "video_id": "s-6T11fVxZA",
+      "comment": "3:06 maybe she's a moron . And they were simply make sure she wasn't pointing her gun at herself. ",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 186.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "177.0s - 183.0s",
+          "query": "Sorry, I can't analyze that video since it's not available to me. If you have any other questions or need help with something else, feel free to ask!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "183.0s - 189.0s",
+          "query": "**Visual:** The video shows two people sitting at a news desk. There's a large screen behind them displaying a man's face with the words \"NOT SO FAST\" overlaid. The setting appears to be a news studio with a blue backdrop. The two individuals seem to be engaged in a discussion or presentation, with one person gesturing while speaking.\n\n**Audio:** The audio features a man speaking. He says, \"she was right to be paranoid it seems like half the cops in South Florida were checking out.\" The tone suggests a serious or investigative context."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "189.0s - 195.0s",
+          "query": "**Visual:** The video shows two individuals seated at a news desk with papers and microphones in front of them. Behind them is a large screen displaying an image of a man's face along with the words \"NOT SO FAST.\" Both individuals appear to be engaged in conversation or presenting something.\n\n**Audio:** There is no discernible dialogue or sound effect heard during these six seconds. It seems like there might have been some background noise that wasn't captured clearly enough for analysis."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 162.61898159980774
+    },
+    {
+      "comment_index": 6426,
+      "video_id": "s-6T11fVxZA",
+      "comment": "Pause the vid at 1:29 and look at Jabba the Hutt to the right lmao.",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 89.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "80.0s - 86.0s",
+          "query": "**Visual:** The video shows a nighttime scene from inside a car. There's a police officer standing outside near the vehicle. The car has its lights on, illuminating the area around it. The background is dark with some faint lights visible.\n\n**Audio:** A voice can be heard saying \"TROOPER: Put hands out the window!\" followed by \"Stop.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "86.0s - 92.0s",
+          "query": "**Visual:** The video shows two people sitting at a news desk. Behind them is a large screen displaying an image with the words \"NOT SO FAST\" prominently shown.\n\n**Audio:** There's dialogue between the two individuals on the desk, though it's fragmented and doesn't form coherent sentences. It seems like they're having a conversation or discussion about something."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "92.0s - 98.0s",
+          "query": "Sure! So, visually, there's a man and a woman sitting at a desk with some papers on it. Behind them is a screen showing another person's face. The background has blue lighting. In terms of audio, someone says \"not so fast\" and laughs.Anything else you want to know about it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 145.85876202583313
+    },
+    {
+      "comment_index": 6427,
+      "video_id": "s-6T11fVxZA",
+      "comment": "Haha, lol. Naruto at 3:59. ",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 239.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "230.0s - 236.0s",
+          "query": "**Visual:** The video shows two people sitting at a desk in what looks like a news studio. There's a large screen behind them displaying a man's face with the words \"NOT SO FASTO\" in bold letters. The desk has some papers and a microphone on it. The background is mostly blue with some lighting effects.\n\n**Audio:** The audio features a man speaking. He seems to be making a point or argument, saying something like \"there's lawyers defending the other side\" and then pausing, as if emphasizing a point."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "236.0s - 242.0s",
+          "query": "**Visual:** The video shows three people sitting at a news desk. There's a large screen behind them displaying \"NOT SO FASTO.\" One person is speaking while gesturing with their hands.\n\n**Audio:** Someone is talking about something related to profit, mentioning that it doesn't say certain things in the law."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "242.0s - 248.0s",
+          "query": "**Visual:** The video shows two people sitting at a desk in a studio setting. There's a screen behind them with an image of a man in a suit and tie, along with the words \"NOT SO FASTO.\" They seem to be engaged in some kind of discussion or presentation.\n\n**Audio:** Someone is speaking, saying something about looking up someone's driver's license to harass them at their house. It seems like they're making a point or explaining something related to that topic."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 205.62103962898254
+    },
+    {
+      "comment_index": 6428,
+      "video_id": "s-6T11fVxZA",
+      "comment": "2:19 Best sub-titles ever.... \"in her call the sock\"  LMAO",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 139.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "130.0s - 136.0s",
+          "query": "**Visual:** The video shows a text overlay with a quote. The quote reads: \"Random telephone calls on her cell phone. Some were threats and some were prank calls, including orders for pizza. Unfamiliar vehicles and police cars sat idling in her cul-de-sac. She was afraid to open her mailbox.\" The background appears to be a blurred, dark setting, possibly a street or alley.\n\n**Audio:** There is no distinct sound or music in the audio portion of this segment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "136.0s - 142.0s",
+          "query": "I'm sorry, I can't analyze videos directly. But if you describe the video to me, I'd be happy to help!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "142.0s - 148.0s",
+          "query": "**Visual:** The video shows a news studio setting. There are two people seated at a desk, likely anchors or reporters. The background has a blue and black color scheme with a screen displaying text. The text on the screen seems to be part of a news headline or caption. The overall scene suggests a news broadcast environment.\n\n**Audio:** The audio features a woman speaking. Her tone and the content of her speech indicate she is discussing a situation that has caused worry for someone. The speech is clear and seems to be part of a news report or commentary."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 198.53692770004272
+    },
+    {
+      "comment_index": 6429,
+      "video_id": "s-6T11fVxZA",
+      "comment": "1:07 \"\"...fire play she chases him lights flashing,  engines creamy...\"\" - CC",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 67.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "58.0s - 64.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze here. The prompt seems incomplete or incorrect. Maybe you could double-check it? If you have another question or need help with something else, feel free to let me know!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "64.0s - 70.0s",
+          "query": "Visual: The video shows a nighttime highway scene. There are cars driving on the road, with headlights illuminating the path ahead. The sky is dark, and the road is lit by the vehicle lights. The camera seems to be mounted on a car, capturing the view from the driver's perspective. The road has multiple lanes, and there are occasional signs visible. The overall atmosphere is somewhat tense, possibly due to the police chase indicated by the flashing lights and the sound of a siren.\n\nAudio: The audio includes a police siren blaring loudly, which is a clear indication of a police chase. There's also some background noise, likely from the moving vehicles and the environment. The siren is the dominant sound, creating a sense of urgency and alertness."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "70.0s - 76.0s",
+          "query": "**Visual:** The video shows a nighttime driving scene. There are cars on the road, with headlights illuminating the path ahead. The camera seems to be mounted on a vehicle, capturing the view through the windshield. The road is relatively clear, and the cars are moving at a steady pace. The background is dark, typical of a night drive.\n\n**Audio:** There is a male voice speaking in the background. The speech is clear and seems to be providing commentary or narration about the driving situation. The tone suggests he might be describing the actions of the driver or the traffic conditions."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 256.44067573547363
+    },
+    {
+      "comment_index": 6430,
+      "video_id": "s-6T11fVxZA",
+      "comment": "i take it the person that subbed this is a naruto fan? i say this cuz at 4:00 he says no no no but it says naruto instead,,",
+      "language": "en",
+      "channel_name": "TheYoungTurks",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 240.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "231.0s - 237.0s",
+          "query": "**Visual:** The video shows two people sitting at a desk in what looks like a news studio. There's a large screen behind them displaying the words \"NOT SO FASTO\" in bold letters. The man on the right is gesturing with his hands while speaking, and the woman on the left is listening attentively, occasionally nodding. The desk has some papers and a microphone on it. The background is mostly blue with some lighting effects.\n\n**Audio:** The audio features a man speaking. He seems to be making a point or explaining something, using phrases like \"defending the other side\" and \"wait a minute.\" His tone suggests he's trying to clarify or correct something."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "237.0s - 243.0s",
+          "query": "**Visual:** The video shows three people sitting at a news desk. There's a large screen behind them displaying the words \"NOT SO FASTO.\" The setting appears to be a news studio with a blue backdrop. The people are engaged in a discussion, with one person gesturing while speaking.\n\n**Audio:** The audio features a conversation. One person is speaking, and the other two are listening. The speech is about something related to a driver's license, mentioning that it's not for profit."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "243.0s - 249.0s",
+          "query": "**Visual:** The video shows two people sitting at a news desk. There's a large screen behind them displaying the words \"NOT SO FASTO\" in bold letters. The setting appears to be a news studio with a blue backdrop. The two individuals seem to be engaged in a discussion or interview, with one person gesturing while speaking.\n\n**Audio:** The audio features a man speaking. He says, \"For example, if you look up their driver's license to harass them at their house, yeah, that's exactly what the law should.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 273.1679720878601
+    }
+  ]
+}

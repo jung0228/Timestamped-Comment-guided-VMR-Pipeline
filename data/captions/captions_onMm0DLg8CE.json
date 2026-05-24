@@ -4,160 +4,9 @@
   "successful_comments": 20,
   "failed_comments": 0,
   "success_rate": "100.0%",
-  "processing_time": 7151.006525039673,
   "comments": [
     {
-      "comment_index": 4245,
-      "video_id": "onMm0DLg8CE",
-      "comment": "0:05 I bet Chewy is smiling on the inside (literally).",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 47.0,
-      "comment_timestamp": 5.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "0.0s - 2.0s",
-          "query": "VISUAL: Two men in suits are on a talk show set with a cityscape background. One man is holding up a black - and - white photo featuring four people, including Chewbacca from Star Wars. The other man looks at him while he speaks.AUDIO: There's a man speaking, and there's applause in the background. It seems like an interview or discussion about the photo being shown.What do you think about that photo?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "2.0s - 8.0s",
-          "query": "VISUAL: A person is holding up an old black - and - white photo showing four people smiling together. The background looks like it's from a spaceship or some kind of futuristic setting with lots of buttons and controls. There's also someone sitting on a couch next to another person who seems to be talking about the photo.AUDIO: There's applause and then a woman speaking. It sounds like she might be asking questions related to the photo. What do you think about that?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "8.0s - 14.0s",
-          "query": "VISUAL: There's two men in suits on a talk show set. One is sitting behind a desk with a photo in front of him, gesturing while talking. The other man sits across from him, listening and nodding. The background shows a cityscape at night through large windows.AUDIO: A male voice is speaking about working with young Harrison Ford, mentioning it was a beginning for everyone involved. It seems like an interview or discussion on a talk show. What do you think about that?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 364.3371932506561
-    },
-    {
-      "comment_index": 4246,
-      "video_id": "onMm0DLg8CE",
-      "comment": "1:18 Here's where Mark gives the audience the finger, his index finger",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 27.0,
-      "comment_timestamp": 78.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "69.0s - 75.0s",
-          "query": "VISUAL: There's a man sitting on a couch in front of a window with a cityscape view at night. He has gray hair, a beard, is wearing a black suit jacket, white shirt, and light blue tie. He's talking and gesturing with his hands.AUDIO: A male voice is speaking, saying \"All through it and he turns to me says hey kid it ain't that kind of movie.\".If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "75.0s - 81.0s",
-          "query": "VISUAL: A man is sitting on a talk show set. He's wearing a suit with a light blue tie. He has gray hair and a beard. He gestures with his right hand while talking. The background shows a cityscape at night through large windows.AUDIO: There's laughter from an audience throughout the clip. It seems like he might be telling a joke or something funny. What do you think about it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "81.0s - 87.0s",
-          "query": "VISUAL: There's a man with gray hair wearing a black suit and light blue tie sitting on a chair. He seems to be talking or reacting to something. The background shows a cityscape at night through large windows.AUDIO: Someone is speaking, saying \"If people are looking at your hair we're all in big trouble.\" Then there's laughter from an audience. What do you think about it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 369.9624276161194
-    },
-    {
-      "comment_index": 4248,
-      "video_id": "onMm0DLg8CE",
-      "comment": "1:10 Basically, the logic that every star wars fan denies...",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 19.0,
-      "comment_timestamp": 70.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "61.0s - 67.0s",
-          "query": "VISUAL: There's a man with gray hair wearing a black suit and light blue tie sitting on a talk show set. He has a microphone clipped to his shirt. The background shows a cityscape at night through large windows. He's gesturing with his hands while speaking.AUDIO: A male voice is speaking, saying something about continuity and a trash compactor. It seems like he's talking about a scene from a movie or something similar.What do you think about it? Do you have any other thoughts or questions related to this?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "67.0s - 73.0s",
-          "query": "VISUAL: There's a man with gray hair wearing a black suit and light blue tie sitting on a couch. He has his hands up near his head, then lowers them while talking. The background shows a cityscape at night through large windows.AUDIO: A male voice is speaking about having wet, matted hair covered in dirt and someone saying \"Hey kid.\" What do you think about that scene?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "73.0s - 79.0s",
-          "query": "VISUAL: There's a man with gray hair wearing a black suit and light blue tie sitting on a chair. He seems to be talking or reacting to something. The background shows a cityscape at night through large windows.AUDIO: You can hear laughter throughout the clip. It starts around 1.9 seconds and continues until about 7.05 seconds. There might also be some speech from the man, but it's not clear.What do you think about the scene? Any thoughts?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 454.3363037109375
-    },
-    {
-      "comment_index": 4242,
-      "video_id": "onMm0DLg8CE",
-      "comment": "Hamill's Ford impression, 1:10-1:35.",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 210.0,
-      "comment_timestamp": 95.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "86.0s - 92.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "92.0s - 98.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "98.0s - 104.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.2886199951171875
-    },
-    {
-      "comment_index": 4244,
-      "video_id": "onMm0DLg8CE",
-      "comment": "3:58 \"Laser swords\" hahaha how many superfans got a nosebleed at that moment?",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 51.0,
-      "comment_timestamp": 238.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "229.0s - 235.0s",
-          "query": "VISUAL: There's two men on a talk show set. One is sitting in a chair, gesturing with his hands while talking. The other man is behind a desk, also gesturing and speaking. They seem to be having an animated conversation. The background shows a cityscape at night through large windows.AUDIO: You can hear applause and cheering from an audience, along with some speech from the men on stage. It seems like they're responding to something funny or exciting that happened during their chat.If you want to know more about the context of this video, feel free to ask me!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "235.0s - 241.0s",
-          "query": "VISUAL: There are two men in suits having a conversation on a talk show set. One man is sitting behind a desk while the other sits in a chair. They seem to be engaged in a lively discussion. The background shows a cityscape at night with lights visible through large windows.AUDIO: A male voice is speaking about going on shows and getting sidetracked talking about Wookiees and lasers. It's just his voice, no other sounds like music or sound effects. So, what do you think about that? Do you have any similar experiences?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "241.0s - 247.0s",
-          "query": "VISUAL: A man in a suit is sitting on a talk show set with a cityscape background through large windows. He's talking animatedly, using hand gestures like pointing and clenching fists. Another person, also in a suit, is partially visible to his right.AUDIO: There's a male voice speaking, saying \"swords and I come off I go oh I didn't even mention nightfall well there you go nightfall.\" The tone seems light-hearted, possibly humorous. There's laughter from an unseen audience at the end.What do you think about the scene? Any thoughts or questions?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 586.7505178451538
-    },
-    {
-      "comment_index": 4241,
+      "comment_index": 3693,
       "video_id": "onMm0DLg8CE",
       "comment": "2:54 Sounds like he let out a bit of his Joker impersonation.",
       "language": "en",
@@ -170,24 +19,54 @@
         {
           "segment_index": 1,
           "time_range": "165.0s - 171.0s",
-          "query": "VISUAL: A man with light-colored hair and a beard is sitting on a couch. He's wearing a black suit jacket over a white shirt with a blue tie. His hands are gesturing as he speaks. The background shows a cityscape at night through large windows.The AUDIO: There's a male voice speaking. It seems to be talking about something funny that was on a human level, mentioning risking lives to rescue someone. What do you think about it?"
+          "query": "**Visual:** The video shows a man sitting on a couch against a backdrop that resembles a nighttime cityscape with illuminated buildings visible through large windows. He is wearing a dark suit jacket over a white shirt paired with a light blue tie. His hands are gesturing as he speaks.\n\n**Audio:** A male voice is speaking, saying \"on a human level I mean we risk our lives to rescue the.\" The tone suggests a serious or reflective conversation."
         },
         {
           "segment_index": 2,
           "time_range": "171.0s - 177.0s",
-          "query": "VISUAL: A man with gray hair and beard is sitting on a couch, wearing a black suit, white shirt, and light blue tie. He's gesturing with his hands while talking. The background shows a cityscape at night through large windows.AUDIO: There's a male voice speaking, saying \"Princess she takes a look at what we came in and says you can't invest I mean who says things like.\" It seems to be a conversation or interview setting. What do you think about it?"
+          "query": "Visual: A man in a suit and tie is seated, gesturing with his hands while speaking. The background shows a cityscape at night with illuminated buildings. The setting appears to be a talk show or interview setup.\n\nAudio: The man is speaking, and his words are in English. He seems to be making a humorous or surprising statement, indicated by the laughter in the audio."
         },
         {
           "segment_index": 3,
           "time_range": "177.0s - 183.0s",
-          "query": "VISUAL: Two men in suits are sitting on a talk show set with a cityscape background through large windows. One man is gesturing while talking to the other who's listening. There s a desk between them with some papers and a microphone on it.AUDIO: The audio has two men speaking, one seems to be making a joke about robots arguing over whose fault something is, and the other responds with \"Yeah.\" It also includes laughter from both men."
+          "query": "**Visual:** The video shows two men in a talk show setting. One is seated on a couch, gesturing with his hands while talking, and the other is sitting behind a desk, listening and occasionally responding. The background features a cityscape at night with illuminated buildings. The men are dressed formally in suits.\n\n**Audio:** The audio includes a conversation between the two men. The man on the couch is speaking animatedly, using hand gestures, while the man behind the desk listens and responds. There are no other noticeable sound effects or music."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 436.2488520145416
+      "processing_time": 186.10172510147095
     },
     {
-      "comment_index": 4243,
+      "comment_index": 3694,
+      "video_id": "onMm0DLg8CE",
+      "comment": "1:10 impression.",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 220.0,
+      "comment_timestamp": 70.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "61.0s - 67.0s",
+          "query": "**Visual:** A man is sitting at a desk on a talk show set with city lights visible through large windows behind him. He's wearing a suit and tie, gesturing with his hands while speaking.\n\n**Audio:** The man is talking, likely responding to someone or making a point during the show. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "67.0s - 73.0s",
+          "query": "**Visual:** The video shows a man in a suit sitting in what looks like a talk show or interview setting. He has light-colored hair and is gesturing with his hands while speaking. The background features a cityscape at night with lights visible through large windows. The man is seated on a gray chair.\n\n**Audio:** The audio includes a man speaking. His speech seems to be the main focus, and there are no other distinct sounds or music in the background."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "73.0s - 79.0s",
+          "query": "Visually, there's a man in a suit sitting, gesturing with his hands. The background looks like a nighttime cityscape through a window. The colors are mostly dark with some blue tones. There's no significant movement apart from the man's hand gestures.Audibly, there's a man speaking, and then laughter from an unseen audience."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 122.0645399093628
+    },
+    {
+      "comment_index": 3695,
       "video_id": "onMm0DLg8CE",
       "comment": "1:35 he even got the head turn that Harrison does lmao",
       "language": "en",
@@ -200,24 +79,114 @@
         {
           "segment_index": 1,
           "time_range": "86.0s - 92.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "query": "**Visual:** The video shows a man in a suit sitting in a studio setting, likely on a talk show. He has gray hair and a beard. The background features a cityscape at night with lights visible through large windows. There are two chairs visible, one occupied by the man and another empty. The man appears to be speaking and gesturing with his hands.\n\n**Audio:** The audio includes laughter and applause from an unseen audience, suggesting a positive and engaging interaction. There is also speech from the man, though the specific words are not provided."
         },
         {
           "segment_index": 2,
           "time_range": "92.0s - 98.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "query": "**Visual:** The video shows two men in a talk show setting. One is seated on a couch, and the other is behind a desk. The background features a cityscape at night. The man on the couch is gesturing with his hands while speaking, and the man behind the desk is listening attentively.\n\n**Audio:** There is speech from the man on the couch, followed by applause from an unseen audience. The man behind the desk then speaks, and laughter can be heard."
         },
         {
           "segment_index": 3,
           "time_range": "98.0s - 104.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.87 GiB is free. Including non-PyTorch memory, this process has 15.68 GiB memory in use. Of the allocated memory 13.59 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.522047758102417
+      "processing_time": 277.50156259536743
     },
     {
-      "comment_index": 4247,
+      "comment_index": 3696,
+      "video_id": "onMm0DLg8CE",
+      "comment": "3:58 \"Laser swords\" hahaha how many superfans got a nosebleed at that moment?",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 51.0,
+      "comment_timestamp": 238.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "229.0s - 235.0s",
+          "query": "**Visual:** The scene shows two men on a talk show set. One is seated behind a desk with a microphone, while the other sits across from him in a chair. They appear to be engaged in conversation, gesturing with their hands. The background features large windows showing an urban night skyline.\n\n**Audio:** There's applause heard at one point during the conversation between the two men."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "235.0s - 241.0s",
+          "query": "**Visual:** The video shows two men in a talk show setting. One is seated on a couch, and the other is behind a desk. The background has a cityscape at night. The man on the couch is wearing a suit and tie, and the man behind the desk is also in a suit. They seem to be engaged in a conversation.\n\n**Audio:** There is a man speaking, and he is talking about getting sidetracked on shows while discussing Wookiees and lasers."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "241.0s - 247.0s",
+          "query": "**Visual:** The scene shows a man sitting at a desk on what appears to be a talk show set. He's wearing a suit with a light blue tie. There are chairs around him, and behind him is a backdrop that looks like a nighttime cityscape through windows.\n\n**Audio:** A male voice speaks, saying \"swords I didn't even mention nightfall.\" The tone seems conversational, possibly humorous or light-hearted."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 128.07051491737366
+    },
+    {
+      "comment_index": 3697,
+      "video_id": "onMm0DLg8CE",
+      "comment": "0:05 I bet Chewy is smiling on the inside (literally).",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 47.0,
+      "comment_timestamp": 5.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "0.0s - 2.0s",
+          "query": "Visually, there are two men in suits sitting in a studio setting. One is seated on a chair, and the other is behind a desk. The background shows a cityscape at night. The man behind the desk is holding a microphone and appears to be speaking or interviewing the other man. The lighting is bright, typical of a TV studio.\n\nIn the audio, there is a man speaking, likely the host or interviewer. The speech is clear and seems to be part of a conversation or interview. There are no other noticeable sound effects or music."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "2.0s - 8.0s",
+          "query": "Visually, there's someone holding up a black-and-white photo showing several people smiling inside some kind of spacecraft or high-tech room with lots of buttons and screens. The people look happy and relaxed.\n\nAudibly, I can hear applause from an audience, which suggests that this might be during a talk show or similar event where the photo is being shown. There's also some background chatter."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "8.0s - 14.0s",
+          "query": "Visually, there's a black and white photo being held up, showing a group of people smiling and posing together. In the background, there's a cityscape at night. Then, it cuts to a talk show set with two men in suits sitting on a couch and a host at a desk. The host is holding the photo and talking to the guests. The set has a brick wall and a window showing the city lights outside. The lighting is warm and focused on the people on the set. There's applause from an unseen audience in the audio. The host is speaking, and there's a moment of silence before he continues talking."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 211.78493785858154
+    },
+    {
+      "comment_index": 3698,
+      "video_id": "onMm0DLg8CE",
+      "comment": "1:18 Here's where Mark gives the audience the finger, his index finger",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 27.0,
+      "comment_timestamp": 78.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "69.0s - 75.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.87 GiB is free. Including non-PyTorch memory, this process has 15.68 GiB memory in use. Of the allocated memory 13.59 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "75.0s - 81.0s",
+          "query": "**Visual:** A man is sitting at a desk on a talk show set with cityscape windows behind him. He's wearing a suit and tie, gesturing with his hands while speaking.\n\n**Audio:** There's laughter from an unseen audience, followed by applause. The man seems to be making a joke or telling something amusing."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "81.0s - 87.0s",
+          "query": "**Visual:** The video shows a man in a suit sitting in what looks like a talk show setting. He has light-colored hair and is gesturing with his hands while speaking. The background has a cityscape at night with lights visible through large windows. There are two chairs, one on each side of him.\n\n**Audio:** The man is speaking, and his words are \"If people are looking at your hair, we're all in big trouble.\" There's laughter from someone off-camera, suggesting the statement might be humorous."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 211.3446078300476
+    },
+    {
+      "comment_index": 3699,
       "video_id": "onMm0DLg8CE",
       "comment": "1:00 what a legend",
       "language": "en",
@@ -230,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "51.0s - 57.0s",
-          "query": "VISUAL: There are two men in suits sitting on a talk show set. One is gesturing with his hands while talking, and the other is listening and laughing. The background shows a cityscape at night through large windows.The AUDIO: A man is speaking, saying \"That out later.\" There's also laughter from both men. It seems like they're having a light-hearted conversation. What do you think about their interaction?"
+          "query": "**Visual:** The video shows two men in suits sitting on a talk show set. One is seated behind a desk with a microphone, while the other sits across from him in a chair. They appear to be engaged in conversation, gesturing with their hands. The background features large windows showing an urban night scene.\n\n**Audio:** There's laughter heard at one point during the conversation between the two men."
         },
         {
           "segment_index": 2,
           "time_range": "57.0s - 63.0s",
-          "query": "VISUAL: There's a man with gray hair and beard wearing a black suit and light blue tie sitting on a couch. He seems to be talking and gesturing with his hands. The background shows a cityscape at night through large windows.AUDIO: A male voice is speaking about getting out of a trash compactor scene that hadn't been filmed yet. It sounds like he's discussing continuity issues related to filming. So, what do you think about this? Do you have any other videos or questions for me?"
+          "query": "**Visual:** The scene shows a man sitting at a desk on what appears to be a talk show set. He's wearing a suit with a light blue tie. Behind him is a backdrop depicting a nighttime cityscape through large windows. There are two empty chairs beside him.\n\n**Audio:** A male voice is speaking, likely the host or interviewer, but no specific words can be discerned from just these six seconds."
         },
         {
           "segment_index": 3,
           "time_range": "63.0s - 69.0s",
-          "query": "VISUAL: There's a man with gray hair wearing a black suit and light blue tie sitting on a chair. He seems to be talking and gesturing with his hands. The background shows a cityscape at night through large windows.AUDIO: A male voice is speaking, saying \"Well wait a second this is right after we got out of the trash compactor shouldn't my hair be all wet and matted with schmutz?\".No music or other sound effects are heard. What do you think about it?"
+          "query": "**Visual:** A man is sitting on a talk show set with a cityscape backdrop at night. He's wearing a suit and tie, gesturing with his hands while speaking.\n\n**Audio:** The man is talking, likely making jokes or sharing anecdotes, given the context of a talk show. There's no background music or other distinct sounds."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 393.8753311634064
+      "processing_time": 135.30232453346252
     },
     {
-      "comment_index": 4249,
+      "comment_index": 3700,
       "video_id": "onMm0DLg8CE",
       "comment": "1:04 Cinemasins : \"It's a free real estate. \"",
       "language": "en",
@@ -260,54 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "55.0s - 61.0s",
-          "query": "VISUAL: There's a man sitting on a couch in front of a window with a cityscape view at night. He has gray hair and is wearing a black suit with a light blue tie. He seems to be talking and gesturing with his hands.AUDIO: The man is speaking about filming a scene after getting out of a trash compactor, but they hadn't filmed that particular scene yet.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a man in a suit sitting in what looks like a talk show setting. He has gray hair and is gesturing with his hands while speaking. The background has a cityscape at night with lights visible through windows. There are two chairs, one occupied by the man and the other empty.\n\n**Audio:** The man is speaking, likely talking about a scene from a movie or TV show. He mentions something about filming after getting out of a trash compactor. There are no other sounds or music in the audio."
         },
         {
           "segment_index": 2,
           "time_range": "61.0s - 67.0s",
-          "query": "VISUAL: There's a man with gray hair wearing a black suit and light blue tie sitting on a talk show set. He has a microphone clipped to his shirt. The background shows a cityscape at night through large windows. He's gesturing with his hands while speaking.AUDIO: A male voice is speaking, saying something about continuity and a trash compactor. It seems like he's talking about a scene from a movie or something similar.What do you think about it? Do you have any other thoughts or questions related to this?"
+          "query": "**Visual:** A man is sitting at a desk on a talk show set with city lights visible through large windows behind him. He's wearing a suit and tie, gesturing with his hands while speaking.\n\n**Audio:** The man is talking, likely responding to someone or making a point during the show. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "67.0s - 73.0s",
-          "query": "VISUAL: There's a man with gray hair wearing a black suit and light blue tie sitting on a couch. He has his hands up near his head, then lowers them while talking. The background shows a cityscape at night through large windows.AUDIO: A male voice is speaking about having wet, matted hair covered in dirt and someone saying \"Hey kid.\" What do you think about that scene?"
+          "query": "**Visual:** The video shows a man in a suit sitting in what looks like a talk show or interview setting. He has light-colored hair and is gesturing with his hands while speaking. The background features a cityscape at night with lights visible through large windows. The man is seated on a gray chair.\n\n**Audio:** The audio includes a man speaking. His speech seems to be the main focus, and there are no other distinct sounds or music in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 410.9369475841522
+      "processing_time": 190.6057379245758
     },
     {
-      "comment_index": 4251,
-      "video_id": "onMm0DLg8CE",
-      "comment": "1:11 mark Hemel on Harris Ford impression",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 8.0,
-      "comment_timestamp": 71.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "62.0s - 68.0s",
-          "query": "VISUAL: There's a man sitting on a talk show set. He has gray hair and is wearing a suit with a light blue tie. He's gesturing with his hands while speaking. The background shows a cityscape at night through large windows.AUDIO: A male voice is speaking, saying something about continuity and a trash compactor, wondering why his hair isn't wet after getting out of it. It seems like he's making a joke or commenting on a movie scene.If you have any other thoughts or questions about this, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "68.0s - 74.0s",
-          "query": "VISUAL: A man is sitting on a couch, wearing a suit with a light blue tie. He has gray hair and a beard. His hands are raised near his face at first, then he lowers them while talking. The background shows a cityscape through large windows at night.AUDIO: There's a male voice speaking, saying \"battered with schmutz all through it and he turns to me and says hey kid it ain't that.\".The scene seems like an interview or talk show setting. What do you think about it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "74.0s - 80.0s",
-          "query": "VISUAL: There's a man sitting on a talk show set. He has gray hair and is wearing a black suit with a white shirt and light blue tie. He seems to be talking and gesturing with his right hand. The background shows a cityscape at night through large windows.AUDIO: You can hear laughter from an audience throughout the clip. It starts around 1 second into the video and continues until about 7 seconds. There's also some applause towards the end. What do you think about it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 482.80895805358887
-    },
-    {
-      "comment_index": 4250,
+      "comment_index": 3701,
       "video_id": "onMm0DLg8CE",
       "comment": "Notice how the audience reacted to Hamill gently shushing the audience at 1:19. That's respect, people.",
       "language": "en",
@@ -320,114 +259,54 @@
         {
           "segment_index": 1,
           "time_range": "70.0s - 76.0s",
-          "query": "VISUAL: There's a man with gray hair wearing a black suit and light blue tie sitting on a couch. He has a microphone clipped to his shirt. The background shows a cityscape at night through large windows. He gestures with his hands while talking.AUDIO: A male voice is speaking, saying \"and he turns to me says hey kid it ain't that kind of movie.\" There's also laughter heard after the speech."
+          "query": "Visually, there's a man sitting on a talk show set with a cityscape backdrop at night. He's wearing a suit and tie, gesturing while speaking. The setting includes chairs and a table.\n\nIn terms of audio, he's talking, likely engaging in conversation or delivering a monologue. There's laughter from an unseen audience towards the end."
         },
         {
           "segment_index": 2,
           "time_range": "76.0s - 82.0s",
-          "query": "VISUAL: A man is sitting on a talk show set. He's wearing a suit with a light blue tie. He has gray hair and a beard. He gestures with his right hand while speaking. The background shows a cityscape at night through large windows.AUDIO: There's laughter from an audience throughout the clip. The man speaks during these moments of laughter."
+          "query": "Visually, there's a man in a suit sitting at a desk, gesturing with his hand. The background shows a cityscape at night through a window. The lighting is warm and focused on the man. There are chairs around the desk, and the overall setting looks like a talk show or interview setup.\n\nIn terms of audio, there's laughter from an unseen audience, suggesting a humorous or light-hearted moment in the conversation."
         },
         {
           "segment_index": 3,
           "time_range": "82.0s - 88.0s",
-          "query": "VISUAL: A man with gray hair, wearing a black suit and light blue tie, is sitting on a talk show set. He's gesturing with his right hand while talking. The background shows a cityscape at night through large windows. There are two empty chairs beside him.AUDIO: Someone says \"Hit your hair we're all in big trouble\" followed by laughter and applause. Then there's more speech. What do you think about it?"
+          "query": "**Visual:** A man with gray hair is sitting at a table on a talk show set. He's wearing a black suit jacket over a white shirt with a light blue tie. The background shows a cityscape through large windows behind him.\n\n**Audio:** There's laughter from an unseen audience, followed by applause."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 355.2004997730255
+      "processing_time": 185.53890657424927
     },
     {
-      "comment_index": 4255,
+      "comment_index": 3702,
       "video_id": "onMm0DLg8CE",
-      "comment": "Mark's 3PO impression sounds a lot like Stewie Griffin.  3:19",
+      "comment": "1:11 mark Hemel on Harris Ford impression",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
-      "likes": 4.0,
-      "comment_timestamp": 199.0,
+      "likes": 8.0,
+      "comment_timestamp": 71.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "190.0s - 196.0s",
-          "query": "VISUAL: A man with gray hair and beard is sitting on a couch wearing a black suit, white shirt, and light blue tie. He's gesturing with his right hand while talking. The background shows a cityscape at night through large windows.The AUDIO: There's a male voice speaking about Bud Abbott and Luke Costello. It seems like he's making some kind of point or statement related to them. What do you think about it?"
+          "time_range": "62.0s - 68.0s",
+          "query": "**Visual:** A man is sitting at a desk on a talk show set with cityscape windows behind him. He's wearing a suit and tie, gesturing with his hands while speaking.\n\n**Audio:** The man is talking, likely discussing something related to a trash compactor incident based on the subtitles provided. There are no other noticeable sounds or music."
         },
         {
           "segment_index": 2,
-          "time_range": "196.0s - 202.0s",
-          "query": "VISUAL: There's a man sitting on a couch in front of a window with a night cityscape view. He has gray hair, a beard, is wearing a black suit jacket, white shirt, and light blue tie. He gestures with his hands while talking.AUDIO: The man is speaking, and there's laughter from someone off - camera. It seems like he's having a conversation about getting into trouble because of a friend who sells something. What do you think about it?"
+          "time_range": "68.0s - 74.0s",
+          "query": "Visually, there's a man sitting at a desk with his hands raised near his face, looking somewhat distressed or frustrated. He has light-colored hair and is wearing a dark suit with a white shirt and blue tie. The background shows a cityscape at night through large windows.\n\nIn terms of audio, he speaks directly to someone off-camera, saying \"and he turns to me says hey kid it ain't.\" His tone seems slightly annoyed or exasperated. There are no other noticeable sounds like music or sound effects."
         },
         {
           "segment_index": 3,
-          "time_range": "202.0s - 208.0s",
-          "query": "VISUAL: A man is sitting on a couch, talking animatedly with his hands gesturing. He's wearing a suit and tie. The background shows a cityscape at night through large windows.AUDIO: There's a male voice speaking, saying \"you yeah I'm not going to knock it out of the park but I leave it to George Lucas to write a script where the\". It seems like he's having a conversation or interview. What do you think about this? Do you have any other videos for me to analyze?"
+          "time_range": "74.0s - 80.0s",
+          "query": "Visually, there's a man in a suit sitting at a desk, gesturing with his hand. The background looks like a studio set with a cityscape view through windows. The lighting is bright, typical of a talk show or interview setting. There's also laughter heard in the audio."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 402.6406059265137
+      "processing_time": 185.43237209320068
     },
     {
-      "comment_index": 4254,
-      "video_id": "onMm0DLg8CE",
-      "comment": "At the 0:55, MARK HAMILL nails his HARRISON FORD voice impression.",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 5.0,
-      "comment_timestamp": 55.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "46.0s - 52.0s",
-          "query": "VISUAL: A man in a suit is sitting on a talk show set, talking and gesturing with his hands. There's another person across from him at a desk. The background shows a cityscape through large windows. The lighting is bright, typical for a studio setting.AUDIO: There's laughter and conversation happening throughout the clip. It seems like a light-hearted moment during an interview or discussion."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "52.0s - 58.0s",
-          "query": "VISUAL: There's two men on a talk show set. One is sitting on a couch, gesturing with his hands while talking. The other man is behind a desk, listening and reacting. The background shows a cityscape at night through large windows.AUDIO: A man is speaking, and there's laughter from an audience in between his words. It seems like he's sharing something funny or interesting during the conversation.If you want to know more about the context or have any other questions related to this, feel free to ask!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "58.0s - 64.0s",
-          "query": "VISUAL: A man is sitting on a talk show set. He's wearing a suit with a light blue tie. There are two chairs around him, one empty. The background shows a cityscape at night through large windows.AUDIO: Someone is speaking about getting out of a trash compactor scene that hadn't been filmed yet. They mention looking for continuity and then say \"wait a sec.\" It seems like they're recalling an incident during filming. So, what do you think about this? Do you have any similar experiences?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 362.084677696228
-    },
-    {
-      "comment_index": 4256,
-      "video_id": "onMm0DLg8CE",
-      "comment": "3:01 Only until J.K. Rowling writes the next Star Wars movie",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 4.0,
-      "comment_timestamp": 181.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "172.0s - 178.0s",
-          "query": "VISUAL: There's a man with gray hair and a beard wearing a suit and tie sitting on a couch. He looks like he's talking or reacting to something. The background shows a cityscape at night through large windows. There's another person across from him who seems to be listening or responding.AUDIO: A male voice is speaking, saying \"takes a look at what we came in and says you came in that I mean who says things like yeah.\" It sounds like there's some kind of conversation going on between these two people.What do you think about it? Do you have any other thoughts or questions related to this video?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "178.0s - 184.0s",
-          "query": "VISUAL: There are two men on a talk show set. One is sitting behind a desk with a microphone, while the other is seated in a chair facing him. They're both dressed formally. The background shows a cityscape at night through large windows. The man in the chair is gesturing with his hands as he speaks.AUDIO: A male voice is speaking about robots arguing over whose fault it is and mentions being a straight man. There's laughter from someone off - camera."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "184.0s - 190.0s",
-          "query": "VISUAL: There's a man with gray hair and a beard sitting on a couch. He's wearing a black suit jacket, white shirt, and light blue tie. He seems to be talking and gesturing with his right hand. The background shows a window with a night cityscape view.AUDIO: A male voice is speaking, saying \"funnier than mine but it gives you know if you appreciate comedy.\" It's a calm tone. So, what do you think about this? Do you have any other videos for me to analyze?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 393.2757611274719
-    },
-    {
-      "comment_index": 4253,
+      "comment_index": 3703,
       "video_id": "onMm0DLg8CE",
       "comment": "0:43 the force in public.",
       "language": "en",
@@ -440,24 +319,24 @@
         {
           "segment_index": 1,
           "time_range": "34.0s - 40.0s",
-          "query": "VISUAL: A man is sitting on a chair in front of a window with a cityscape view at night. He's wearing a suit and tie. The background has a dark blue color scheme with some lights visible through the window.AUDIO: There's a male voice speaking in English. It seems like he's talking about something positive, mentioning \"hit it off\" and \"perfect.\" The tone suggests satisfaction or approval.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "**Visual:** A man is sitting on a talk show set. He's wearing a dark suit with a light blue tie. The background shows a cityscape at night through large windows.\n\n**Audio:** Someone is speaking, saying \"and we just immediately hit it off it was perfect.\""
         },
         {
           "segment_index": 2,
           "time_range": "40.0s - 46.0s",
-          "query": "VISUAL: A man with gray hair and beard is sitting on a chair, wearing a black suit and light blue tie. He's gesturing with his right hand while talking. The background shows a cityscape at night through large windows. There are two chairs visible behind him.AUDIO: Someone is speaking about Harrison having a firm grasp of an overview and thinks he'd make a good director. It seems to be a calm discussion. So, what do you think about Harrison's potential as a director?"
+          "query": "**Visual:** The video shows a man in a suit sitting in what looks like a talk show setting. He has gray hair and is gesturing with his hands while speaking. The background has a cityscape at night with lights visible through a window. There are two chairs, one of which he is sitting in.\n\n**Audio:** The man is speaking, likely talking about someone named Harrison and mentioning his ability to grasp things firmly. The tone seems to be positive and appreciative."
         },
         {
           "segment_index": 3,
           "time_range": "46.0s - 52.0s",
-          "query": "VISUAL: A man in a suit is sitting on a talk show set, talking and gesturing with his hands. There's another person across from him at a desk. The background shows a cityscape through large windows. The lighting is bright, typical for a studio setting.AUDIO: There's laughter and conversation happening throughout the clip. It seems like a light-hearted moment during an interview or discussion."
+          "query": "**Visual:** The video shows a man in a suit sitting in what appears to be a talk show setting. He has gray hair and a beard. He's gesturing with his hands while speaking. The background includes a window-like structure with a cityscape view. There are other people in the scene, including someone in a dark suit who seems to be reacting to the man's actions.\n\n**Audio:** The audio includes laughter and speech. The man is speaking, and there's a sound effect of laughter, likely from the audience or other participants."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 354.6084246635437
+      "processing_time": 219.20354175567627
     },
     {
-      "comment_index": 4252,
+      "comment_index": 3704,
       "video_id": "onMm0DLg8CE",
       "comment": "0:45 True! He's so lazy he lands on the taxiway when piloting to get to the hangar faster.",
       "language": "en",
@@ -470,84 +349,54 @@
         {
           "segment_index": 1,
           "time_range": "36.0s - 42.0s",
-          "query": "VISUAL: A man is sitting on a gray couch against a backdrop that looks like a cityscape at night with lights visible through large windows. He's wearing a black suit jacket, white shirt, and light blue tie. His hair is grayish-brown and he has a beard. He seems to be talking and gesturing with his hands.AUDIO: There's a male voice speaking in English. The speech content is about hitting it off immediately and something being perfect, mentioning Harrison having a really firm something, but the exact word isn't clear from just these few seconds.If you want to know more about the context or have any other questions related to this, feel free to ask!"
+          "query": "**Visual:** A man is sitting at a desk on a talk show set with a cityscape backdrop visible through large windows behind him. He's wearing a dark suit, white shirt, and light blue tie. His hair is grayish-white, and he has a beard.\n\n**Audio:** The man speaks clearly, his voice calm and measured. There are no other distinct sounds or music in the background."
         },
         {
           "segment_index": 2,
           "time_range": "42.0s - 48.0s",
-          "query": "VISUAL: A man with gray hair and a beard is sitting on a couch wearing a black suit, white shirt, and light blue tie. He's gesturing with his right hand while talking. The background shows a cityscape at night through large windows. There's another empty gray couch next to him.AUDIO: Someone is speaking, saying \"like the overview I think he'd make a really good director if he weren't so lazy.\" Then there's laughter."
+          "query": "**Visual:** The video shows a man in a suit sitting in what appears to be a talk show setting. He has gray hair and is gesturing with his hands while speaking. The background features a cityscape at night with illuminated buildings. There are two chairs visible, one on each side of the man.\n\n**Audio:** The man is speaking, and his words are in English. He seems to be making a comment about someone's potential as a director, mentioning that they would be good if they weren't lazy. The tone is conversational, and there is laughter from someone off-camera."
         },
         {
           "segment_index": 3,
           "time_range": "48.0s - 54.0s",
-          "query": "VISUAL: There's a man in a suit sitting on a talk show set with a cityscape background. He gestures while talking. Another person is partially visible across from him at a desk.AUDIO: Laughter can be heard throughout the clip. The man speaks during the laughter."
+          "query": "Visual: The video shows a man in a suit sitting on a talk show set. He's gesturing with his hands while speaking. There are other people in the background, also dressed formally, seated and engaged in conversation. The set has a cityscape backdrop with lights.\n\nAudio: Laughter and conversation can be heard, indicating a light-hearted, possibly humorous exchange."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 375.3325710296631
+      "processing_time": 293.17120265960693
     },
     {
-      "comment_index": 4258,
+      "comment_index": 3705,
       "video_id": "onMm0DLg8CE",
-      "comment": "2:06 The way Mark Hamill is sitting there makes my knee pain ... o.O",
+      "comment": "At the 0:55, MARK HAMILL nails his HARRISON FORD voice impression.",
       "language": "en",
       "channel_name": "LateNightSeth",
       "category": "variety show",
-      "likes": 3.0,
-      "comment_timestamp": 126.0,
+      "likes": 5.0,
+      "comment_timestamp": 55.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "117.0s - 123.0s",
-          "query": "VISUAL: There's a man with gray hair and a beard wearing a black suit, white shirt, and light blue tie. He has his hands outstretched while talking. The background shows a cityscape at night through large windows. There's also a gray chair next to him.AUDIO: A male voice is speaking, saying \"Sir Alec Guinness to my left is an eight-foot guy in a dog costume.\" It seems like he's making a joke or comment about something unusual. What do you think about it?"
+          "time_range": "46.0s - 52.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.86 GiB is free. Including non-PyTorch memory, this process has 15.69 GiB memory in use. Of the allocated memory 13.60 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 2,
-          "time_range": "123.0s - 129.0s",
-          "query": "VISUAL: There's a man in a suit sitting on a talk show set with a cityscape background through large windows. He seems to be talking or reacting to something, using hand gestures. Another person is also present, likely the host, who appears to be responding to him.AUDIO: The audio includes laughter from an unseen source, possibly the audience, and some dialogue between the two men on screen. It sounds like they're having a light-hearted conversation. What do you think about it?"
+          "time_range": "52.0s - 58.0s",
+          "query": "**Visual:** The scene shows two men in suits sitting on a talk show set. One is seated behind a desk with a microphone, while the other sits across from him in a chair. They appear to be engaged in conversation, gesturing with their hands. The background features large windows showing an urban night skyline.\n\n**Audio:** There's laughter heard during the interaction between the two men, suggesting they're sharing a joke or amusing anecdote."
         },
         {
           "segment_index": 3,
-          "time_range": "129.0s - 135.0s",
-          "query": "VISUAL: There are two men in suits having a conversation on a talk show set. One is sitting behind a desk with a microphone, gesturing while talking. The other man sits across from him, listening attentively. The background shows a cityscape at night through large windows.AUDIO: A male voice is speaking about a script that includes words like \"lightsaber\" and \"Death Star\", finding it absurd before reading it. It seems to be discussing something related to a fictional or movie context."
+          "time_range": "58.0s - 64.0s",
+          "query": "**Visual:** A man is sitting at a desk, wearing a suit with a light blue tie. He has gray hair and a beard. The background shows a nighttime cityscape through large windows behind him.\n\n**Audio:** There's male speech throughout the clip. It seems like he's talking about filming something related to \"trash compactor\" and mentions continuity issues."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 437.72077918052673
+      "processing_time": 183.9302613735199
     },
     {
-      "comment_index": 4260,
-      "video_id": "onMm0DLg8CE",
-      "comment": "This clip is 4:20 long, and I'm watching it on April 20. Happy 420 everyone! 😁",
-      "language": "en",
-      "channel_name": "LateNightSeth",
-      "category": "variety show",
-      "likes": 3.0,
-      "comment_timestamp": 260.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "251.0s - 257.0s",
-          "query": "VISUAL: There's a man in a suit sitting against a blue background with some yellow and green stripes. He has short gray hair and is smiling. The words \"SUBSCRIBE NOW\", \"MORE CLIPS\" and \"WATCH EPISODES\" appear on the screen.AUDIO: There's music playing throughout the whole time. It seems to be instrumental music without any lyrics. What do you think about it? Do you like this kind of music?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "257.0s - 263.0s",
-          "query": "VISUAL: There's a man sitting on a chair against a blue background with some yellow stripes. He has short gray hair, is wearing a dark suit jacket, white shirt, and a patterned tie. His hands are clasped together in his lap.AUDIO: There's no speech or dialogue in the audio. Just instrumental music playing in the background.What do you think about it? Do you have any other videos to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "263.0s - 269.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 135.78578424453735
-    },
-    {
-      "comment_index": 4257,
+      "comment_index": 3706,
       "video_id": "onMm0DLg8CE",
       "comment": "3:25 what is he gonna do? Fire me? lololol i love Mark ❤❤❤",
       "language": "en",
@@ -560,24 +409,174 @@
         {
           "segment_index": 1,
           "time_range": "196.0s - 202.0s",
-          "query": "VISUAL: There's a man sitting on a couch in front of a window with a night cityscape view. He has gray hair, a beard, is wearing a black suit jacket, white shirt, and light blue tie. He gestures with his hands while talking.AUDIO: The man is speaking, and there's laughter from someone off - camera. It seems like he's having a conversation about getting into trouble because of a friend who sells something. What do you think about it?"
+          "query": "**Visual:** A man is sitting on a talk show set with a cityscape backdrop at night. He's wearing a suit and tie, gesturing while speaking.\n\n**Audio:** The man is talking about someone getting into trouble due to their friend. There's laughter from an unseen audience."
         },
         {
           "segment_index": 2,
           "time_range": "202.0s - 208.0s",
-          "query": "VISUAL: A man is sitting on a couch, talking animatedly with his hands gesturing. He's wearing a suit and tie. The background shows a cityscape at night through large windows.AUDIO: There's a male voice speaking, saying \"you yeah I'm not going to knock it out of the park but I leave it to George Lucas to write a script where the\". It seems like he's having a conversation or interview. What do you think about this? Do you have any other videos for me to analyze?"
+          "query": "**Visual:** The scene shows a man sitting on a talk show set with a cityscape backdrop at night. He's wearing a dark suit jacket over a white shirt and tie. His hands are gesturing as he speaks.\n\n**Audio:** There is male speech throughout the clip."
         },
         {
           "segment_index": 3,
           "time_range": "208.0s - 214.0s",
-          "query": "VISUAL: There's a man with gray hair and beard wearing a suit sitting on a talk show set. He gestures while talking. Another person is also present, reacting to him. The background shows a cityscape at night through large windows.AUDIO: A man speaks about robots getting better lines than him, causing laughter from both him and another person. It seems like they're having a light-hearted conversation."
+          "query": "**Visual:** The video shows two men in a talk show setting. One man is seated on a couch, wearing a suit and tie, and appears to be speaking. The other man, also in a suit, is seated behind a desk, likely the host, and is engaged in conversation with the guest. The background features a cityscape at night with illuminated buildings. The scene is well-lit, focusing on the two individuals.\n\n**Audio:** The audio includes dialogue between the two men. The guest seems to be making a humorous or light-hearted comment, which prompts laughter from the host. The conversation appears casual and friendly, typical of a talk show format."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 399.1175904273987
+      "processing_time": 150.2835395336151
     },
     {
-      "comment_index": 4259,
+      "comment_index": 3707,
+      "video_id": "onMm0DLg8CE",
+      "comment": "3:01 Only until J.K. Rowling writes the next Star Wars movie",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 4.0,
+      "comment_timestamp": 181.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "172.0s - 178.0s",
+          "query": "**Visual:** The video shows a man in a suit and tie, gesturing with his hands while speaking. He appears to be on a talk show set, with a cityscape backdrop visible through large windows. Another person, also in a suit, is seated nearby, listening and reacting.\n\n**Audio:** The man is speaking, and his words are somewhat humorous or sarcastic, as indicated by the laughter from the audience. The tone is light-hearted and conversational."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "178.0s - 184.0s",
+          "query": "Visually, there are two men in suits sitting in a studio setting. One is seated on a chair, and the other is behind a desk. The background shows a cityscape at night with lit buildings. The man on the chair is gesturing with his hands while speaking, and the man behind the desk is listening and nodding. The colors are mostly dark with the city lights providing some illumination. There's a sense of movement from the man gesturing.\n\nIn terms of audio, there's a man speaking, likely the one on the chair. He seems to be having a conversation or interview. The tone is conversational, and there are no other distinct sounds or music."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "184.0s - 190.0s",
+          "query": "**Visual:** The video shows a man sitting at a desk on a talk show set. He's wearing a dark suit with a light blue tie. His hair is grayish-white. There are chairs around him, and behind him, there's a large window showing a nighttime cityscape.\n\n**Audio:** A male voice speaks in English, saying \"funnier than mine if you appreciate comedy.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 286.27607893943787
+    },
+    {
+      "comment_index": 3708,
+      "video_id": "onMm0DLg8CE",
+      "comment": "Mark's 3PO impression sounds a lot like Stewie Griffin.  3:19",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 4.0,
+      "comment_timestamp": 199.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "190.0s - 196.0s",
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk, gesturing with his hands while speaking. The background appears to be a cityscape at night, with lights visible through large windows. The man has gray hair and is wearing a white shirt with a blue tie.\n\n**Audio:** The audio contains a man speaking, likely in a conversational tone. The speech seems to be the main focus, with no other significant sounds or music in the background."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "196.0s - 202.0s",
+          "query": "**Visual:** A man is sitting on a talk show set with a cityscape backdrop at night. He's wearing a suit and tie, gesturing while speaking.\n\n**Audio:** The man is talking about someone getting into trouble due to their friend. There's laughter from an unseen audience."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "202.0s - 208.0s",
+          "query": "**Visual:** The scene shows a man sitting on a talk show set with a cityscape backdrop at night. He's wearing a dark suit jacket over a white shirt and tie. His hands are gesturing as he speaks.\n\n**Audio:** There is male speech throughout the clip."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 140.69327068328857
+    },
+    {
+      "comment_index": 3709,
+      "video_id": "onMm0DLg8CE",
+      "comment": "1:07 Schmutz? Lol",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 3.0,
+      "comment_timestamp": 67.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "58.0s - 64.0s",
+          "query": "**Visual:** The scene shows a man sitting at a desk on what appears to be a talk show set. He's wearing a suit with a light blue tie. Behind him is a backdrop depicting a nighttime cityscape through large windows. There are two chairs visible beside him.\n\n**Audio:** A male voice speaks clearly over background noise that resembles studio ambiance or faint audience chatter."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "64.0s - 70.0s",
+          "query": "**Visual:** A man is sitting at a desk on a talk show set with city lights visible through large windows behind him. He's wearing a suit and tie, gesturing with his hands while speaking.\n\n**Audio:** The man is talking, likely making jokes or comments based on his gestures and facial expressions. There's no background music or other distinct sounds."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "70.0s - 76.0s",
+          "query": "Visually, there's a man in a suit sitting in a chair, gesturing with his hand. The background shows a cityscape at night with lights. The man seems to be talking or reacting to something. There are also two empty chairs beside him. The colors are mostly dark with some blue tones from the city lights. The movement is mainly the man's hand gesture and his slight body movements as he speaks.\n\nAudio-wise, there's a man speaking, and then laughter can be heard. The speech seems to be in a conversational tone."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 172.26992273330688
+    },
+    {
+      "comment_index": 3710,
+      "video_id": "onMm0DLg8CE",
+      "comment": "2:06 The way Mark Hamill is sitting there makes my knee pain ... o.O",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 3.0,
+      "comment_timestamp": 126.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "117.0s - 123.0s",
+          "query": "**Visual:** A man in a suit is sitting on a couch, gesturing with his hands while speaking. The background shows a nighttime cityscape through large windows.\n\n**Audio:** There's laughter heard during the man's speech."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "123.0s - 129.0s",
+          "query": "**Visual:** The video shows two men in a talk show setting. One man is seated on a couch, wearing a suit and tie, and appears to be speaking animatedly with his hands raised. The other man is seated behind a desk, also in a suit, and seems to be responding or engaging in conversation. The background features a cityscape at night with illuminated buildings. The overall scene suggests a typical late-night talk show environment.\n\n**Audio:** The audio includes dialogue between the two men. The man on the couch is speaking with enthusiasm, and the man behind the desk is also speaking, likely responding to the first man. There are no noticeable sound effects or music in the audio."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "129.0s - 135.0s",
+          "query": "Visually: The video shows two men in suits sitting in a studio setting. One is seated behind a desk, and the other is in a chair. The background has a cityscape at night. The man behind the desk is gesturing with his hands while speaking, and the other man is listening attentively.\n\nAudio: The audio features a man speaking, likely a host or interviewer, in a calm and professional tone. There are no other distinct sounds or music in the background."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 222.6757209300995
+    },
+    {
+      "comment_index": 3711,
+      "video_id": "onMm0DLg8CE",
+      "comment": "This clip is 4:20 long, and I'm watching it on April 20. Happy 420 everyone! 😁",
+      "language": "en",
+      "channel_name": "LateNightSeth",
+      "category": "variety show",
+      "likes": 3.0,
+      "comment_timestamp": 260.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "251.0s - 257.0s",
+          "query": "Visually, there's a man dressed in a suit standing against a dark blue background with yellow stripes. The man is smiling and looking directly at the camera.\n\nAudio-wise, there's upbeat music playing throughout the clip. There aren't any specific speech or sound effects mentioned."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "257.0s - 263.0s",
+          "query": "I'm sorry, but I can't analyze the video segment you've described. Could you please provide more details or clarify what you mean by \"this 6-second video segment\"?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "263.0s - 269.0s",
+          "query": "Inference error: 'video_fps'"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 136.8447196483612
+    },
+    {
+      "comment_index": 3712,
       "video_id": "onMm0DLg8CE",
       "comment": "0:08 [goosebumps of nostalgia intensifying strongly]",
       "language": "en",
@@ -590,21 +589,21 @@
         {
           "segment_index": 1,
           "time_range": "0.0s - 5.0s",
-          "query": "VISUAL: Two men in suits are on a talk show set with a cityscape background. One man is holding up a black - and - white photo featuring four people, including Chewbacca from Star Wars. The other man looks at him while he speaks.AUDIO: There's a man speaking, and there's applause in the background. It seems like an interview or discussion about the photo being shown.What do you think about that photo?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.88 GiB is free. Including non-PyTorch memory, this process has 15.67 GiB memory in use. Of the allocated memory 13.58 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 2,
           "time_range": "5.0s - 11.0s",
-          "query": "VISUAL: A person is holding up an old black - and - white photo showing four people smiling together. The background looks like it's from a spaceship or some kind of futuristic setting with lots of buttons and controls. There's also someone sitting on a couch next to another person who seems to be talking about the photo.AUDIO: There's applause and then a woman speaking. It sounds like she might be asking questions related to the photo. What do you think about that?"
+          "query": "Visually, there's a black and white photo being held up. It shows a group of people, including a person in a Chewbacca costume, smiling and posing together. The background seems to be a spaceship or some kind of futuristic setting with various controls and panels. The photo is framed in black.\n\nAudibly, there's a voice saying \"Oh, what fun you guys are having!\" and then applause from an unseen audience."
         },
         {
           "segment_index": 3,
           "time_range": "11.0s - 17.0s",
-          "query": "VISUAL: There's two men in suits on a talk show set. One is sitting behind a desk with a photo in front of him, gesturing while talking. The other man sits across from him, listening and nodding. The background shows a cityscape at night through large windows.AUDIO: A male voice is speaking about working with young Harrison Ford, mentioning it was a beginning for everyone involved. It seems like an interview or discussion on a talk show. What do you think about that?"
+          "query": "**Visual:** The video shows two men in a talk show setting. One is seated on a couch, and the other is behind a desk. The background features a cityscape at night. The man on the couch is wearing a suit and tie, and the man behind the desk is also in a suit. They appear to be engaged in a conversation.\n\n**Audio:** The audio includes a man speaking, likely the host, asking about working with Harrison Ford. The tone suggests a casual, conversational style typical of a talk show."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 432.4963297843933
+      "processing_time": 235.33860778808594
     }
   ]
 }

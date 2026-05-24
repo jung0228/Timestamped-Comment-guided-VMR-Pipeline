@@ -6,7 +6,7 @@
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 3401,
+      "comment_index": 3753,
       "video_id": "P73REgj-3UE",
       "comment": "0:41 Reported for sexual content.",
       "language": "en",
@@ -19,24 +19,54 @@
         {
           "segment_index": 1,
           "time_range": "32.0s - 38.0s",
-          "query": "VISUAL: A person is using a hammer to chip away at a piece of wood on a log. The background shows trees and greenery. The person's hands are visible, holding the hammer and working on the wood.AUDIO: There are sounds of hammering throughout the 6 seconds. No other distinct sounds or speech are heard.If you have any more questions about this or want to discuss something else related to videos, feel free to let me know!"
+          "query": "Visual: A person is chopping wood with an axe in a forest setting. The person's hands and the axe are clearly visible as they strike the log.\n\nAudio: There are rhythmic tapping or knocking sounds throughout the clip."
         },
         {
           "segment_index": 2,
           "time_range": "38.0s - 44.0s",
-          "query": "VISUAL: A person is working with logs in a forest setting. They're using their hands to manipulate the logs, possibly shaping or preparing them for some purpose. The background shows trees and greenery.AUDIO: There's a repetitive tapping sound throughout the 6 seconds. It could be from a tool hitting something or someone tapping on an object. No other distinct sounds like speech or music are present.If you want to know more about this kind of analysis or have any other questions related to videos, feel free to ask!"
+          "query": "Visually, there's a person in a forest setting. They're holding a long, cylindrical object, possibly a stick or a tool, and they're using it to tap or strike something. The forest has trees and some rocks or logs on the ground. The person's hands are visible, and they seem to be focused on their task. The colors are mostly earthy tones, like browns and greens, typical of a forest environment. There's some movement as the person manipulates the object.Audibly, there are sounds of tapping or striking, likely from the person using the object. There's also some ambient noise, probably from the wind or other natural forest sounds. No speech or music is heard."
         },
         {
           "segment_index": 3,
           "time_range": "44.0s - 50.0s",
-          "query": "VISUAL: There's a man in shorts near a fire pit with logs and rocks around it. He's using a stick to manipulate something over the flames. The background is a forested area with lots of greenery.AUDIO: You can hear some kind of impact sounds throughout the clip. It seems like there might be a bit of wind too. What do you think about that?"
+          "query": "Well, in the visual part, there's a man in a forest. He's standing near a fire, and he's holding a stick. He seems to be doing something with the stick, maybe poking the fire or using it for some other purpose. The forest around him is full of trees, and the fire is making a nice, warm glow. Oh, and there are some rocks nearby too.Now, for the audio part, it's pretty quiet. There's just a faint crackling sound from the fire, and that's about it. No music or speech, just the natural sounds of the forest and the fire crackling. It's a really peaceful scene. So, what do you think about this video?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 201.53348183631897
+      "processing_time": 213.63556838035583
     },
     {
-      "comment_index": 3402,
+      "comment_index": 3754,
+      "video_id": "P73REgj-3UE",
+      "comment": "12:24 I came",
+      "language": "en",
+      "channel_name": "primitivetechnology9550",
+      "category": "making",
+      "likes": 286.0,
+      "comment_timestamp": 744.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "735.0s - 741.0s",
+          "query": "Well, I can't actually watch videos directly here. But if you describe it to me, I'll be happy to help analyze it! What do you see?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "741.0s - 747.0s",
+          "query": "Well, I can't actually watch videos directly here. But if you describe it to me, I'll be happy to analyze it for you! What do you see?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "747.0s - 753.0s",
+          "query": "Visually, the video shows a rustic, earthy building with a window that has vertical bars. The structure appears to be made of natural materials like mud or clay, and there's a wooden beam above the window. The surrounding area seems to be a forested or natural setting, with greenery visible in the background. There are no people or animals in the scene, and the overall atmosphere is quite serene and quiet.\n\nIn terms of audio, there are no distinct sounds or speech. The audio is mostly silent, with only faint, ambient noises that could be from the natural environment, like rustling leaves or distant wildlife sounds."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 126.78659462928772
+    },
+    {
+      "comment_index": 3755,
       "video_id": "P73REgj-3UE",
       "comment": "meanwhile im in bed watching youtube at 3:07 am",
       "language": "en",
@@ -49,24 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "178.0s - 184.0s",
-          "query": "VISUAL: There's a shirtless man sitting cross - legged on the ground in a forested area. He has dark shorts on. In front of him is a rock with a long stick resting on it. The man is using his hands to manipulate something small near the stick. The background shows trees and some greenery.AUDIO: You can hear birds chirping and leaves rustling in the wind. It seems like there might be some kind of natural ambiance or possibly a light breeze. What do you think about this scene?"
+          "query": "Visually, there's a shirtless man sitting cross-legged on the ground in a forest. He's wearing dark shorts. He's holding a stick and appears to be working on something on the ground, possibly shaping or carving it. The forest around him has trees and some scattered leaves on the ground. The colors are mostly greens and browns, typical of a forest setting. The movement is mainly focused on the man's hands as he works with the stick.\n\nIn terms of audio, there are some sounds of wind, possibly rustling leaves, and some faint bird chirping in the background. There's no speech or music, just the natural sounds of the forest."
         },
         {
           "segment_index": 2,
           "time_range": "184.0s - 190.0s",
-          "query": "VISUAL: There's a shirtless man sitting cross - legged on the ground in a forested area. He has dark shorts on. He's holding two sticks and seems to be working with them, maybe making something or demonstrating a technique. The background is filled with trees and greenery.AUDIO: You can hear some kind of clicking or snapping sound throughout the 6 seconds. It could be from the man's actions with the sticks or something else in the environment. There's no clear speech or music in the audio.If you have any other thoughts about the video or want to discuss it further, feel free to let me know!"
+          "query": "Visually, there's a shirtless man sitting cross-legged on the ground in a forest. He's wearing dark shorts and appears to be handling something small in his hands. The forest around him has trees and some scattered leaves on the ground. There's also a rock or piece of wood in front of him. The man seems to be focused on whatever he's doing with his hands.\n\nIn terms of audio, there are sounds of something being crinkled or rustled, like paper or plastic. There's also a brief moment of wind noise."
         },
         {
           "segment_index": 3,
           "time_range": "190.0s - 196.0s",
-          "query": "VISUAL: There's a shirtless man sitting cross - legged on the ground in a forested area. He has dark shorts on. In front of him is a rock with some sticks around it. He's holding two thin sticks and seems to be manipulating them with his hands. The background shows trees and greenery.AUDIO: You can hear birds chirping throughout the clip. It's a natural outdoor sound. What do you think about this scene? Do you have any other observations or questions?"
+          "query": "Visually, there's a shirtless man sitting on the ground in a forest. He's wearing black shorts and appears to be handling some kind of rope or cord. The forest around him has trees and some scattered leaves on the ground. The lighting suggests it's daytime, and the colors are mostly greens and browns from the natural surroundings. There's also a rock or piece of wood in front of him on the ground. The man seems to be focused on the rope, possibly tying or untangling it.Action-wise, he's manipulating the rope with his hands, moving it around and adjusting it. His movements are deliberate and seem to be part of some task he's engaged in.Audibly, there are some sounds of nature, like leaves rustling and possibly some birds chirping in the background. There's also a faint crackling or snapping sound, which could be from the rope or something else in the forest."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 234.30654311180115
+      "processing_time": 268.32997584342957
     },
     {
-      "comment_index": 3403,
+      "comment_index": 3756,
       "video_id": "P73REgj-3UE",
       "comment": "12:25 If you know what i mean ( ° ͜ ʖ °)",
       "language": "en",
@@ -79,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "736.0s - 742.0s",
-          "query": "VISUAL: There's a man building or working on a small mud hut in a forested area. He's shirtless and wearing shorts. The hut has a sloped roof made of wood. He seems to be applying some kind of material to the walls or roof. The trees around are green and leafy.AUDIO: You can hear birds chirping in the background throughout the whole clip. It gives off a peaceful, natural vibe. What do you think about it? Do you have any other observations?"
+          "query": "Visually, there's a man in a forest. He's shirtless, wearing shorts, and seems to be working on a small, rustic-looking hut. He's using a tool, possibly a hammer or something similar, to fix or build the hut. The hut has a thatched roof and is surrounded by trees. The ground is covered with leaves and dirt. The man is focused on his task, moving around the hut as he works.Audibly, there are sounds of leaves rustling, which suggests the presence of wind or movement in the forest. There's also a faint, continuous background noise, possibly from insects or other forest wildlife."
         },
         {
           "segment_index": 2,
           "time_range": "742.0s - 748.0s",
-          "query": "VISUAL: There's an old mud house with a door made of wooden slats. The door is open, showing some dark interior. Outside the door, there are stones on the ground. The scene seems to be outdoors, possibly in a forest or jungle area.AUDIO: There are some insect noises throughout the clip. It doesn't seem like any specific speech or music is present. Just those natural sounds from the insects.If you have any other thoughts about this video or want to discuss it further, feel free to let me know!"
+          "query": "Visual: The video shows an old, rustic structure made of mud bricks with a wooden door. There's some vegetation around it. Inside, there seems to be a dimly lit space.\n\nAudio: There are no distinct sounds or speech heard in this short clip. It's mostly silent."
         },
         {
           "segment_index": 3,
           "time_range": "748.0s - 754.0s",
-          "query": "VISUAL: There's a person standing behind a door made of vertical wooden slats on a mud wall. The person is holding onto the top of the door frame with both hands. The background shows some greenery outside the building.AUDIO: There are some rustling and clicking sounds throughout the clip. It seems like there might be some kind of mechanism or device involved. What do you think about it?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.86 GiB is free. Including non-PyTorch memory, this process has 15.69 GiB memory in use. Of the allocated memory 13.60 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 216.55136251449585
+      "processing_time": 227.60319304466248
     },
     {
-      "comment_index": 3404,
+      "comment_index": 3757,
       "video_id": "P73REgj-3UE",
       "comment": "10:50 it's sounds like he's torturing a bird",
       "language": "en",
@@ -109,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "641.0s - 647.0s",
-          "query": "VISUAL: There's a man lying on the ground near some rocks and a fire. He then sits up and starts working with clay or mud, shaping it around the rocks. The setting seems to be outdoors, maybe in a forest or jungle area.AUDIO: You can hear some kind of crackling noise throughout the whole 6 seconds. It could be from a fire or something similar.What do you think about this scene? Do you have any other videos you want me to analyze?"
+          "query": "Visually, there's a man in a forest setting. He's shirtless, wearing black shorts, and appears to be working on a stone structure. He's using his hands to manipulate something on the ground near the fire. The background is filled with trees and greenery. The ground is covered with stones and dirt. There's a fire burning in the foreground, and the man seems to be focused on his task. The overall color palette is earthy, with lots of browns, greens, and grays.Audibly, there are sounds of fire crackling and burning. There's also the sound of something being tapped or tapped on, possibly the man's tool or the structure he's working on. The overall sound is quite natural and peaceful."
         },
         {
           "segment_index": 2,
           "time_range": "647.0s - 653.0s",
-          "query": "VISUAL: A man is squatting outdoors near some rocks and a structure made of mud or clay. He's working on it with his hands. There are trees and greenery around him. The scene looks like he might be building something primitive.AUDIO: You can hear birds chirping and some kind of impact sounds, like someone hitting something hard. It seems to be an outdoor setting too.What do you think about this? Do you have any other videos you want me to analyze?"
+          "query": "**Visual:** The video shows a shirtless man working outdoors in a forested area. He's kneeling on the ground, handling some rocks or stones near a partially constructed stone structure. There are trees and greenery around him.\n\n**Audio:** Sounds of footsteps can be heard, followed by the distinct noise of something being smashed or broken."
         },
         {
           "segment_index": 3,
           "time_range": "653.0s - 659.0s",
-          "query": "VISUAL: There's a man in shorts digging into the ground with his hands. He then pours water from a container onto the dug area. The setting seems to be outdoors, possibly in a forest or wooded area, with some rocks and trees around.AUDIO: You can hear the sound of water being poured and some background noise that might be wind or other natural sounds. There's also a bit of music playing in the background.If you have any thoughts on this or want to discuss more about it, feel free to share!"
+          "query": "Visually, there's a person in shorts squatting in a forested area. They're digging into the ground with a stick. The ground is covered with dirt and some scattered debris. There are trees and bushes around, creating a natural, outdoor setting. The person seems focused on their task, and the lighting suggests it's daytime.Audibly, there are sounds of footsteps crunching on the ground, and then a splash, like water being poured or something being dropped into a puddle. There's also a brief moment of silence."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 228.1233355998993
+      "processing_time": 232.66948890686035
     },
     {
-      "comment_index": 3405,
+      "comment_index": 3758,
       "video_id": "P73REgj-3UE",
       "comment": "3:55 SILENCE! the tile council will decide your fate",
       "language": "en",
@@ -139,24 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "226.0s - 232.0s",
-          "query": "VISUAL: A person is squatting outdoors near some logs and rocks. They're using their foot to push or move something on the ground. There's smoke coming from behind them, suggesting there might be a fire or some kind of burning activity. The background shows trees and greenery, indicating it's likely in a forested area.AUDIO: You can hear birds chirping throughout the clip. There's also a faint rustling sound that could be leaves moving or something similar. It seems like a peaceful outdoor setting with natural sounds. So, what do you think about this scene? Do you have any other videos you want me to analyze?"
+          "query": "Visually, there's a person in a forest setting. They're squatting and appear to be handling some rocks or stones on the ground. The person is wearing shorts and has a bare arm visible. The forest around has trees and some wooden structures, possibly a small hut or shelter. There's also smoke or steam rising in the background, suggesting a fire or some kind of cooking activity. The ground is covered with dirt and leaves, typical of a forest floor. The colors are mostly earthy tones like browns and greens, with the person's skin tone contrasting against the darker ground and the lighter wood of the structures. The movement is mainly the person's hands and arms as they manipulate the stones or rocks on the ground. The overall scene gives off a vibe of someone camping or doing some outdoor activity in a forest."
         },
         {
           "segment_index": 2,
           "time_range": "232.0s - 238.0s",
-          "query": "VISUAL: There's someone squatting near some logs and a stone slab in an outdoor setting with trees around. They're holding something in their hands. Then it cuts to a fire pit with flames burning brightly inside, surrounded by wooden structures and some pots nearby.AUDIO: You can hear birds chirping throughout the entire clip. It seems like there might be some background noise too, maybe from wind or other natural elements. What do you think about this scene?"
+          "query": "Visually, there's a person in shorts near a fire pit. They're holding something over the fire. The fire pit has a circular stone structure around it, and there's a pot on the ground nearby. The background shows some trees and greenery. The person seems to be doing something with the fire, maybe cooking or starting a fire. The colors are mostly earthy tones like browns and greens, with the bright orange of the fire standing out. There's movement from the person and the flames in the fire.Audibly, there are birds chirping in the background, creating a peaceful, natural ambiance."
         },
         {
           "segment_index": 3,
           "time_range": "238.0s - 244.0s",
-          "query": "VISUAL: There's a fire burning in a makeshift stone pit surrounded by wooden logs. A man is standing near it, wearing shorts and no shirt. He seems to be tending to something on the ground next to some clay pots. The setting looks like a forest or jungle with lots of greenery around.AUDIO: You can hear birds chirping and leaves rustling in the background. It gives off a peaceful, natural vibe. What do you think about the scene?"
+          "query": "**Visual:** The video shows a person in a forest setting. They are working with some kind of primitive tools or materials, possibly making or repairing something. There are trees, dirt, and some basic structures around. The person is focused on their task, moving their hands and tools actively.\n\n**Audio:** The audio is mostly silent, with only faint natural sounds like rustling leaves or birds chirping in the background. There's no speech or music."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 252.01322627067566
+      "processing_time": 282.63734579086304
     },
     {
-      "comment_index": 3406,
+      "comment_index": 3759,
       "video_id": "P73REgj-3UE",
       "comment": "6:11 Super surprised and impressed you built a rocket stove out of found materials that's capable of getting your tiles red hot. That's just insanely cool, I never would have thought possible.",
       "language": "en",
@@ -169,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "362.0s - 368.0s",
-          "query": "VISUAL: There's a person crouching near an open fire pit made from stones. They're adding wood to the fire with their hands. The fire is burning brightly inside a black structure that looks like it might be a primitive stove or oven. The ground around the fire pit has some scattered rocks and debris. The background shows trees and greenery, suggesting it's outdoors.AUDIO: You can hear the crackling and popping of the fire. There's also some faint rustling, possibly from leaves or branches moving in the wind.If you have any other thoughts about the video or want to discuss something related, feel free to let me know!"
+          "query": "Visually, there's a person in a forest setting. They're crouching near a fire, which is burning brightly with orange flames. The person seems to be interacting with the fire, possibly adjusting or tending to it. The forest around has trees and some scattered branches on the ground. The colors are mostly earthy tones, with the bright orange of the fire standing out. There's also a black object, maybe a pot or container, near the fire. The movement is mainly the person's actions around the fire and the flames flickering.\n\nIn terms of audio, there are no distinct sounds like speech or music. The only sound is the crackling and hissing of the fire. It's a pretty quiet, natural sound."
         },
         {
           "segment_index": 2,
           "time_range": "368.0s - 374.0s",
-          "query": "VISUAL: A person is crouching near an open fire pit made from logs and rocks. They're adding wood to the flames with their hands. There's a large tree trunk next to the fire pit. The ground around it has some scattered leaves and twigs. The background shows a forested area with lots of trees.AUDIO: There are sounds of something being crunched or crushed throughout the 6 seconds. It could be the sound of the wood being added to the fire or other natural noises in the forest.If you have any more questions about this video or want to discuss something else related to it, feel free to let me know!"
+          "query": "Visually, there's a person in a forest setting. They're crouching near a fire, handling some kind of object, possibly wood or a tool. The fire is burning brightly, and there are trees and other forest elements around. The person seems to be focused on their task, and the ground is covered with leaves and dirt. The colors are mostly earthy tones, with the orange of the fire standing out.Audibly, there are sounds of something being scratched or scraped, like a tool being used on a surface. There's also a faint, distant sound that could be a bird or some other natural noise."
         },
         {
           "segment_index": 3,
           "time_range": "374.0s - 380.0s",
-          "query": "VISUAL: There's a stone structure in a forested area with some fire burning inside it. A person is using a stick to stir or adjust something in the fire. The scene has trees around and natural light coming through. The color scheme is mostly earthy tones like browns and greens.AUDIO: You can hear some kind of scraping or scratching sound throughout the 6 seconds. It doesn't seem to be speech or any other distinct sound effect. It might be related to the action happening in the video, like the stirring in the fire. So, what do you think about this? Any thoughts on why there might be that sound?"
+          "query": "Visually, the video shows a close-up of a fire pit with glowing embers and some rocks around it. There are also some tools or objects being used near the fire. The scene seems to be outdoors, possibly in a forested area. The colors are mainly the orange and red of the fire, with the dark of the surrounding area. There's movement from the tools or objects being handled near the fire.\n\nIn terms of audio, there are no distinct sounds or speech. It's mostly the ambient sounds of the fire crackling and possibly some rustling from the surrounding environment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 304.3109610080719
+      "processing_time": 277.74966311454773
     },
     {
-      "comment_index": 3407,
+      "comment_index": 3760,
       "video_id": "P73REgj-3UE",
       "comment": "when bae says I can touch the booty 2:46",
       "language": "en",
@@ -199,54 +229,54 @@
         {
           "segment_index": 1,
           "time_range": "157.0s - 163.0s",
-          "query": "VISUAL: There's a shirtless man sitting cross - legged on the ground in a forested area. He has some mud or clay on his hands and is working with it on a stone surface. The background shows trees and greenery.AUDIO: You can hear birds chirping throughout the clip. There's also a single thud sound towards the end."
+          "query": "**Visual:** The video shows someone sitting outdoors in a forested area. They're shirtless and wearing shorts. There's some kind of object or material on the ground near them that they seem to be handling with their hands.\n\n**Audio:** The only audible thing is birds chirping in the background."
         },
         {
           "segment_index": 2,
           "time_range": "163.0s - 169.0s",
-          "query": "VISUAL: There's a shirtless man sitting on the ground in a forested area. He has some mud or clay in front of him and is using his hands to shape it. The background shows trees and greenery.AUDIO: You can hear birds chirping and some kind of tapping or hitting sound. It seems like there might be wind too. What do you think about that scene?"
+          "query": "Visually, there's a shirtless man in a forest. He's sitting on a rock, holding a large piece of clay or mud. He seems to be shaping or working with it. The forest around him has tall trees and the ground is covered with dirt and some scattered rocks. The colors are mostly earthy tones like browns and greens. There's a sense of calm and focus in his actions.Audibly, there are sounds of birds chirping and leaves rustling in the background. There are also some generic impact sounds, like tapping or hitting, which could be from the man working with the clay or other objects in the forest."
         },
         {
           "segment_index": 3,
           "time_range": "169.0s - 175.0s",
-          "query": "VISUAL: A man is sitting cross - legged on the ground in a forested area. He's shirtless and wearing dark shorts. He has a stick in his hand and appears to be working with it, maybe making something or shaping it. There are trees and greenery around him.AUDIO: The only sound heard is the crackling of firewood burning. It seems like there might be some wind noise too. What do you think about this scene?"
+          "query": "Visually, there's a shirtless man sitting cross-legged on the ground in a forest. He's holding a stick and appears to be working on something on a rock in front of him. The forest around him has lots of green trees and the ground is covered with leaves and dirt. The man is focused on his task, and his movements are slow and deliberate. There are no other people or animals visible in the scene. The colors are mostly greens and browns, typical of a forest setting. The lighting seems natural, like it's daytime.Audibly, there are sounds of wind blowing and leaves rustling. It's a natural, outdoor sound that gives the scene a peaceful and serene atmosphere. There's no speech or music in the audio."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 176.93858575820923
+      "processing_time": 191.4727065563202
     },
     {
-      "comment_index": 3408,
+      "comment_index": 3761,
       "video_id": "P73REgj-3UE",
-      "comment": "10:50 It sounded like the bird is being hit instead of the wooden stick😂😂😂",
+      "comment": "10:42 Like a boss",
       "language": "en",
       "channel_name": "primitivetechnology9550",
       "category": "making",
-      "likes": 69.0,
-      "comment_timestamp": 650.0,
+      "likes": 50.0,
+      "comment_timestamp": 642.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "641.0s - 647.0s",
-          "query": "VISUAL: There's a man lying on the ground near some rocks and a fire. He then sits up and starts working with clay or mud, shaping it around the rocks. The setting seems to be outdoors, maybe in a forest or jungle area.AUDIO: You can hear some kind of crackling noise throughout the whole 6 seconds. It could be from a fire or something similar.What do you think about this scene? Do you have any other videos you want me to analyze?"
+          "time_range": "633.0s - 639.0s",
+          "query": "Visually, there's a person sitting on the ground in a forested area. They're shirtless and wearing black shorts. In front of them, there's a small fire burning on a stone platform. The person is holding a pot and appears to be cooking or preparing something. The background is filled with trees and greenery. The overall color scheme is earthy with lots of greens and browns.Audibly, there's the sound of sizzling, which is likely the food being cooked in the pot. There's also some faint rustling, probably from the wind or movement in the forest."
         },
         {
           "segment_index": 2,
-          "time_range": "647.0s - 653.0s",
-          "query": "VISUAL: A man is squatting outdoors near some rocks and a structure made of mud or clay. He's working on it with his hands. There are trees and greenery around him. The scene looks like he might be building something primitive.AUDIO: You can hear birds chirping and some kind of impact sounds, like someone hitting something hard. It seems to be an outdoor setting too.What do you think about this? Do you have any other videos you want me to analyze?"
+          "time_range": "639.0s - 645.0s",
+          "query": "Visually, there's a person in a forest setting. They're sitting on the ground, wearing shorts, and appear to be working with some kind of clay or mud, shaping it into a bowl-like form. The background is filled with trees and rocks, and there's a fire burning nearby. The colors are mostly earthy tones, with the green of the trees and the gray of the rocks and firewood.\n\nIn terms of audio, there are sounds of fire crackling and popping, which are the main auditory elements. There's no speech or music in this segment."
         },
         {
           "segment_index": 3,
-          "time_range": "653.0s - 659.0s",
-          "query": "VISUAL: There's a man in shorts digging into the ground with his hands. He then pours water from a container onto the dug area. The setting seems to be outdoors, possibly in a forest or wooded area, with some rocks and trees around.AUDIO: You can hear the sound of water being poured and some background noise that might be wind or other natural sounds. There's also a bit of music playing in the background.If you have any thoughts on this or want to discuss more about it, feel free to share!"
+          "time_range": "645.0s - 651.0s",
+          "query": "**Visual:** The video shows someone working outdoors in a forested area. They're building or repairing something using mud and stones. There's a lot of greenery around.\n\n**Audio:** You can hear footsteps crunching on gravel or dirt throughout the clip."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 233.76932573318481
+      "processing_time": 195.34961318969727
     },
     {
-      "comment_index": 3409,
+      "comment_index": 3762,
       "video_id": "P73REgj-3UE",
       "comment": "1:35 Tripophobia warning.",
       "language": "en",
@@ -259,54 +289,24 @@
         {
           "segment_index": 1,
           "time_range": "86.0s - 92.0s",
-          "query": "VISUAL: There's a shirtless man sitting cross - legged outdoors. He has a rock in front of him on which he's working with his hands. The background is filled with greenery like trees and bushes. He seems to be focused on his task.AUDIO: You can hear birds chirping throughout the entire 6 seconds of the video. It gives off a peaceful vibe. So, what do you think about this scene? Do you have any other videos or scenes you want me to analyze?"
+          "query": "Visually, there's a shirtless man sitting outdoors, surrounded by greenery. He's working on a large stone with a smaller stone in his hand, likely shaping or carving it. There's also a black pot nearby. The man's movements are focused on the stone. The scene is set in a natural, forest-like environment. The colors are mostly greens from the trees and browns from the stones and the man's skin. There's no clear indication of the time of day, but it seems to be daytime due to the natural light.Audibly, there are bird sounds in the background, creating a peaceful, natural ambiance. There's no speech or music, just the natural sounds of the birds."
         },
         {
           "segment_index": 2,
           "time_range": "92.0s - 98.0s",
-          "query": "VISUAL: A shirtless man is sitting cross - legged outdoors. He's using two sticks to poke into a clay object on the ground. The scene has greenery around. There's also a large clay pot nearby.AUDIO: You can hear birds chirping and some kind of impact or thumping sound. It seems like there might be a small animal moving around too.What do you think about that? Any thoughts or questions?"
+          "query": "Visually, there's a person sitting outdoors, working on a large stone. They seem to be using a tool to carve or shape it. The person is shirtless and wearing shorts. The background is a forested area with trees and some scattered objects on the ground. There's also a black bucket or container nearby. The colors are mostly earthy tones, with the green of the trees and the gray of the stone and the person's skin. The movement is mainly focused on the person's hands as they work on the stone.Action-wise, the person is actively engaged in carving or shaping the stone, using a tool that looks like a chisel or similar implement. Their movements are deliberate and focused, showing concentration on the task. The scene is set in a natural, outdoor environment, suggesting a possible primitive or survivalist context."
         },
         {
           "segment_index": 3,
           "time_range": "98.0s - 104.0s",
-          "query": "VISUAL: There's a man in shorts squatting on the ground in a forested area. He's digging into the soil with his hands. Then he picks up a large log and places it down. After that, he grabs a circular object from under the log and examines it closely.AUDIO: You can hear birds chirping and leaves rustling in the background. There are also some generic impact sounds throughout the clip.What do you think about this scene? Do you have any other videos to analyze?"
+          "query": "Visually, there's a man in a forest. He's shirtless and wearing shorts. He's kneeling on the ground, digging with a shovel. The forest around him has trees and some dirt. There are also some rocks and plants visible. The man seems focused on his digging task. There's a watermark in the bottom right corner of the video that says \"MAJESTYONLINE.COM\". The colors are mostly earthy tones like browns and greens, typical of a forest setting. The movement is mainly the man's digging action with the shovel.Audibly, there are footsteps and some rustling sounds. The footsteps are likely from the man walking around in the forest. The rustling could be from leaves or branches moving, possibly due to the man's movements or a gentle breeze. There's also a brief moment of a bird chirping."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 218.7664704322815
+      "processing_time": 245.3001251220703
     },
     {
-      "comment_index": 3410,
-      "video_id": "P73REgj-3UE",
-      "comment": "1:35 trypophobia?",
-      "language": "en",
-      "channel_name": "primitivetechnology9550",
-      "category": "making",
-      "likes": 35.0,
-      "comment_timestamp": 95.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "86.0s - 92.0s",
-          "query": "VISUAL: There's a shirtless man sitting cross - legged outdoors. He has a rock in front of him on which he's working with his hands. The background is filled with greenery like trees and bushes. He seems to be focused on his task.AUDIO: You can hear birds chirping throughout the entire 6 seconds of the video. It gives off a peaceful vibe. So, what do you think about this scene? Do you have any other videos or scenes you want me to analyze?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "92.0s - 98.0s",
-          "query": "VISUAL: A shirtless man is sitting cross - legged outdoors. He's using two sticks to poke into a clay object on the ground. The scene has greenery around. There's also a large clay pot nearby.AUDIO: You can hear birds chirping and some kind of impact or thumping sound. It seems like there might be a small animal moving around too.What do you think about that? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "98.0s - 104.0s",
-          "query": "VISUAL: There's a man in shorts squatting on the ground in a forested area. He's digging into the soil with his hands. Then he picks up a large log and places it down. After that, he grabs a circular object from under the log and examines it closely.AUDIO: You can hear birds chirping and leaves rustling in the background. There are also some generic impact sounds throughout the clip.What do you think about this scene? Do you have any other videos to analyze?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 216.07502150535583
-    },
-    {
-      "comment_index": 3411,
+      "comment_index": 3763,
       "video_id": "P73REgj-3UE",
       "comment": "2:47 me when I see a nice butt",
       "language": "en",
@@ -319,54 +319,24 @@
         {
           "segment_index": 1,
           "time_range": "158.0s - 164.0s",
-          "query": "VISUAL: There's a shirtless man sitting cross - legged on the ground in a forested area. He has some rocks around him and is handling a piece of clay or mud. The background shows trees and greenery.AUDIO: You can hear birds chirping throughout the clip. There's also a sound effect that resembles something being hit or tapped."
+          "query": "**Visual:** The video shows someone sitting on a stone in a forested area. They're shirtless and wearing shorts. There's some dirt or mud around them, and they seem to be handling something with their hands.\n\n**Audio:** You can hear birds chirping throughout the clip. It gives off a peaceful outdoor vibe."
         },
         {
           "segment_index": 2,
           "time_range": "164.0s - 170.0s",
-          "query": "VISUAL: A shirtless man is sitting cross - legged on the ground in a forested area. He's working with some mud or clay, shaping it into something. There are trees around him, and he seems to be focused on his task.AUDIO: There are sounds of wood being tapped or struck repeatedly throughout the clip. It gives off an impression of someone working on a project that involves some sort of manual labor."
+          "query": "Visually, there's a shirtless man sitting cross-legged in a forest. He's holding a large rock in his hands. The forest around him has tall trees and the ground is covered with dirt and some scattered leaves. The man seems to be focused on the rock, possibly preparing to do something with it. There are no other people or animals visible in the scene. The colors are mostly earthy tones, with the green of the trees and the brown of the dirt and rock standing out. The movement is mainly the man's slight adjustments with the rock and his breathing, which is audible.\n\nIn terms of audio, there are sounds of something being tapped or hit repeatedly, like a hammer on a hard surface. There's also a brief moment of wind noise, suggesting it might be a windy day in the forest."
         },
         {
           "segment_index": 3,
           "time_range": "170.0s - 176.0s",
-          "query": "VISUAL: There's a shirtless man sitting cross - legged on the ground in a forested area. He has short hair and is wearing black shorts. He's holding two sticks, one in each hand, and appears to be working with them. The background shows trees and some greenery.AUDIO: You can hear wind blowing throughout the clip. There are also some generic impact sounds, like something being tapped or hit. It seems there might be a fire crackling in the distance too.What do you think about the scene? Do you have any other observations?"
+          "query": "Visual: A shirtless man is sitting cross-legged on the ground in a forested area. He's holding some long sticks or branches. The background shows trees and greenery.\n\nAudio: There are wind noises throughout the clip."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 197.23691487312317
+      "processing_time": 196.348473072052
     },
     {
-      "comment_index": 3412,
-      "video_id": "P73REgj-3UE",
-      "comment": "10:50 why is he killing the poor thing! 😂",
-      "language": "en",
-      "channel_name": "primitivetechnology9550",
-      "category": "making",
-      "likes": 33.0,
-      "comment_timestamp": 650.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "641.0s - 647.0s",
-          "query": "VISUAL: There's a man lying on the ground near some rocks and a fire. He then sits up and starts working with clay or mud, shaping it around the rocks. The setting seems to be outdoors, maybe in a forest or jungle area.AUDIO: You can hear some kind of crackling noise throughout the whole 6 seconds. It could be from a fire or something similar.What do you think about this scene? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "647.0s - 653.0s",
-          "query": "VISUAL: A man is squatting outdoors near some rocks and a structure made of mud or clay. He's working on it with his hands. There are trees and greenery around him. The scene looks like he might be building something primitive.AUDIO: You can hear birds chirping and some kind of impact sounds, like someone hitting something hard. It seems to be an outdoor setting too.What do you think about this? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "653.0s - 659.0s",
-          "query": "VISUAL: There's a man in shorts digging into the ground with his hands. He then pours water from a container onto the dug area. The setting seems to be outdoors, possibly in a forest or wooded area, with some rocks and trees around.AUDIO: You can hear the sound of water being poured and some background noise that might be wind or other natural sounds. There's also a bit of music playing in the background.If you have any thoughts on this or want to discuss more about it, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 234.6268241405487
-    },
-    {
-      "comment_index": 3413,
+      "comment_index": 3764,
       "video_id": "P73REgj-3UE",
       "comment": "+s0alaih He does talk, as long as you understand him. Heres 2 examples. First example 10:33 hes telling us that its hot and that the fire heats it. Which means that the rest of the reenforced part is warm but not hot as its not directly above a fire and its reenforced. Second example 13:05, hes showing us what hes grabbing and explaining how he got the fire on the stick so easily incase people ask in comment section. 2 examples, shows that he talks. he has his own special way of communication and thats what makes him better then the rest. He doesnt carry on talking non-stop to keep us entertained. He probs doesnt talk because his subscribers arent there to hear someone talking on and on, theyre here to see someone build shit.",
       "language": "en",
@@ -379,24 +349,24 @@
         {
           "segment_index": 1,
           "time_range": "776.0s - 782.0s",
-          "query": "VISUAL: There's an outdoor scene with a small stone structure that looks like a hut or shelter. It has a flat roof made of tiles or slabs. The walls seem to be made of mud or clay. In front of it, there's a fire burning on some stones. The ground around is dirt and there are trees in the background.AUDIO: You can hear birds chirping throughout the clip. There's also a short bit of music playing at one point."
+          "query": "Visual: The video shows a small mud hut nestled in a forested area. There's a fire burning inside the hut through an opening at its base. The surrounding trees and foliage suggest it's set in a natural, possibly remote location.\n\nAudio: No distinct sounds or speech can be heard apart from some faint background noise that might be wind rustling leaves or distant wildlife noises."
         },
         {
           "segment_index": 2,
           "time_range": "782.0s - 788.0s",
-          "query": "VISUAL: There's an old mud house with a thatched roof in a forest setting. The camera then moves to show a tree trunk up close. The scene is quite natural and rustic.AUDIO: You can hear some kind of insect buzzing throughout the clip. It gives off a sort of peaceful, outdoor vibe.If you have any other thoughts or questions about it, feel free to share!"
+          "query": "Visual: The video shows a tree trunk with rough bark texture. There's some greenery visible around it, suggesting an outdoor setting like a forest or park.\n\nAudio: No distinct sounds can be heard from this short clip. It seems to be mostly silent apart from any faint background noises that aren't clearly identifiable."
         },
         {
           "segment_index": 3,
           "time_range": "788.0s - 794.0s",
-          "query": "VISUAL: A hand is shown touching tree bark in a forest setting. There's also a person working on something near a small hut made of natural materials like mud and wood. The scene has trees and foliage around.AUDIO: There are some clicking or snapping sounds throughout the clip. It seems to be an outdoor environment with nature sounds present too.If you have any other thoughts about this video or want to discuss it further, feel free to let me know!"
+          "query": "Visually, there's a hand reaching out and touching a tree trunk. The tree has some moss or lichen on it. The background seems to be a forested area with other trees and possibly some undergrowth. There's also a small wooden structure visible in the background, which looks like a shed or a small cabin. The colors are mostly earthy tones, greens, browns, and grays. The movement is mainly the hand touching the tree and the camera panning a bit to show the surroundings.Audibly, there are some sounds of nature, like birds chirping and leaves rustling. There's also a sound effect that resembles a twig snapping or something similar."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 207.02583718299866
+      "processing_time": 191.40465354919434
     },
     {
-      "comment_index": 3414,
+      "comment_index": 3765,
       "video_id": "P73REgj-3UE",
       "comment": "9:30 OMG! A PLANE... QUICK... SIGNAL FOR RESCUE!!!",
       "language": "en",
@@ -409,84 +379,24 @@
         {
           "segment_index": 1,
           "time_range": "561.0s - 567.0s",
-          "query": "VISUAL: There's a man building something under a wooden shelter in a forest. He's moving around, arranging stones on the ground. The shelter has a thatched roof made from branches and leaves. The background is filled with trees and greenery.AUDIO: You can hear some kind of rhythmic tapping or thumping sound throughout the video. It doesn't seem to be speech or music. It might be related to the man's actions, like tapping on the stones or the shelter structure. What do you think about it?"
+          "query": "Visually, there's a person in a forest setting. They're working on the ground, possibly digging or arranging something. The forest has trees and some rocks around. There's a structure with a thatched roof in the background. The person is wearing shorts and a t-shirt, and they seem to be focused on their task. The ground is covered with dirt and some scattered rocks. The colors are mostly earthy tones, greens from the trees, and browns from the dirt and rocks. The movement is mainly the person's actions as they work on the ground.Audibly, there are sounds of something being tapped or struck repeatedly. It's a rhythmic tapping sound, like someone is hitting something with a tool or their hand. There's also a faint rustling sound, probably from the wind or movement in the forest."
         },
         {
           "segment_index": 2,
           "time_range": "567.0s - 573.0s",
-          "query": "VISUAL: A man is squatting on the ground, arranging large rocks into a structure under a wooden shelter in a forested area. The scene has natural lighting with trees around.AUDIO: There's some kind of impact sound throughout the clip, like something being tapped or hit repeatedly. No clear speech or music can be heard. What do you think about that? Any thoughts on why there might be that sound?"
+          "query": "Visually, there's a man in a forested area. He's shirtless, wearing shorts, and appears to be working with some stones. He's bending over, moving the stones around. The background has trees and a simple wooden structure. The colors are mostly earthy tones, greens from the trees, browns of the wood and stones, and the man's skin tone. There's a sense of movement as he interacts with the stones.Audibly, there are some sounds of nature, like rustling leaves or birds chirping. There's also a brief moment of a door closing."
         },
         {
           "segment_index": 3,
           "time_range": "573.0s - 579.0s",
-          "query": "VISUAL: There's a man squatting near some stacked stones under a wooden shelter in a forested area. He seems to be working on or inspecting the stones. The background is filled with trees and greenery.AUDIO: You can hear birds chirping and some kind of tapping or knocking sound. It gives off a peaceful outdoor vibe.What do you think about the scene? Do you have any other observations?"
+          "query": "Visually, there's a man in a forested area. He's shirtless and wearing shorts. He's crouching and appears to be arranging or working with some stones on the ground. The background shows trees and a simple wooden structure with a thatched roof. The ground is uneven and covered with dirt and rocks. The colors are mostly earthy tones like browns and greens.\n\nIn terms of audio, there are sounds of birds chirping and leaves rustling, suggesting a natural, outdoor setting. There's also a faint, low hum, possibly from a distant source like a generator or a small machine."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 218.8389241695404
+      "processing_time": 272.37917923927307
     },
     {
-      "comment_index": 3415,
-      "video_id": "P73REgj-3UE",
-      "comment": "1:35 tryphophobia alert",
-      "language": "en",
-      "channel_name": "primitivetechnology9550",
-      "category": "making",
-      "likes": 26.0,
-      "comment_timestamp": 95.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "86.0s - 92.0s",
-          "query": "VISUAL: There's a shirtless man sitting cross - legged outdoors. He has a rock in front of him on which he's working with his hands. The background is filled with greenery like trees and bushes. He seems to be focused on his task.AUDIO: You can hear birds chirping throughout the entire 6 seconds of the video. It gives off a peaceful vibe. So, what do you think about this scene? Do you have any other videos or scenes you want me to analyze?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "92.0s - 98.0s",
-          "query": "VISUAL: A shirtless man is sitting cross - legged outdoors. He's using two sticks to poke into a clay object on the ground. The scene has greenery around. There's also a large clay pot nearby.AUDIO: You can hear birds chirping and some kind of impact or thumping sound. It seems like there might be a small animal moving around too.What do you think about that? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "98.0s - 104.0s",
-          "query": "VISUAL: There's a man in shorts squatting on the ground in a forested area. He's digging into the soil with his hands. Then he picks up a large log and places it down. After that, he grabs a circular object from under the log and examines it closely.AUDIO: You can hear birds chirping and leaves rustling in the background. There are also some generic impact sounds throughout the clip.What do you think about this scene? Do you have any other videos to analyze?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 223.38786268234253
-    },
-    {
-      "comment_index": 3416,
-      "video_id": "P73REgj-3UE",
-      "comment": "12:25 YouTube: dEmOnEtIzEd",
-      "language": "en",
-      "channel_name": "primitivetechnology9550",
-      "category": "making",
-      "likes": 26.0,
-      "comment_timestamp": 745.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "736.0s - 742.0s",
-          "query": "VISUAL: There's a man building or working on a small mud hut in a forested area. He's shirtless and wearing shorts. The hut has a sloped roof made of wood. He seems to be applying some kind of material to the walls or roof. The trees around are green and leafy.AUDIO: You can hear birds chirping in the background throughout the whole clip. It gives off a peaceful, natural vibe. What do you think about it? Do you have any other observations?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "742.0s - 748.0s",
-          "query": "VISUAL: There's an old mud house with a door made of wooden slats. The door is open, showing some dark interior. Outside the door, there are stones on the ground. The scene seems to be outdoors, possibly in a forest or jungle area.AUDIO: There are some insect noises throughout the clip. It doesn't seem like any specific speech or music is present. Just those natural sounds from the insects.If you have any other thoughts about this video or want to discuss it further, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "748.0s - 754.0s",
-          "query": "VISUAL: There's a person standing behind a door made of vertical wooden slats on a mud wall. The person is holding onto the top of the door frame with both hands. The background shows some greenery outside the building.AUDIO: There are some rustling and clicking sounds throughout the clip. It seems like there might be some kind of mechanism or device involved. What do you think about it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 230.43416166305542
-    },
-    {
-      "comment_index": 3417,
+      "comment_index": 3766,
       "video_id": "P73REgj-3UE",
       "comment": "1:36 tripophobia",
       "language": "en",
@@ -499,54 +409,24 @@
         {
           "segment_index": 1,
           "time_range": "87.0s - 93.0s",
-          "query": "VISUAL: There's a shirtless man sitting cross - legged outdoors. He has a rock in front of him on which he's working with his hands. The background is filled with greenery like trees and plants. There's also a black pot to his left.AUDIO: You can hear birds chirping throughout the entire 6 seconds. It seems like there might be some other faint sounds too, but it's hard to tell precisely.What do you think about this scene? Do you have any other observations or questions?"
+          "query": "Visually, there's a shirtless man sitting outdoors, surrounded by greenery. He's working on a large stone, using a smaller stone to chip away at it. There's also a black pot nearby. The man's movements are focused on shaping the stone. The scene is set in a natural, forest-like environment. The colors are mostly greens from the foliage and browns from the stones and the man's skin. The man's actions are deliberate and precise as he chips the stone. There's no speech or music in the audio. Just the sound of the stones hitting each other and some faint rustling of leaves in the background."
         },
         {
           "segment_index": 2,
           "time_range": "93.0s - 99.0s",
-          "query": "VISUAL: A shirtless man is sitting on the ground in a forested area. He's working with some clay or mud, shaping it into a circular object with multiple holes. There's a large rock nearby. The scene has lots of greenery around.AUDIO: There are birds chirping and footsteps crunching on gravel throughout the clip."
+          "query": "Visually, there's a shirtless man sitting on the ground in a forested area. He's working on a large stone, using a tool to carve or shape it. The background is filled with trees and greenery. There's also a black pot-like object to the left of him. The man seems focused on his task, and the stone is quite large, taking up most of the space in front of him. The colors are mostly earthy tones, with the green of the trees and the gray of the stone and the man's skin. The movement is mainly from the man's hands as he works on the stone.Audibly, there are birds chirping in the background, creating a peaceful forest ambiance. There's also a sound effect that resembles a small object being tapped or dropped, possibly related to the man's activity."
         },
         {
           "segment_index": 3,
           "time_range": "99.0s - 105.0s",
-          "query": "VISUAL: There's a man squatting on the ground in a forested area. He's shirtless and wearing shorts. He's holding a large piece of wood or a log. The background has trees and some greenery.AUDIO: You can hear birds chirping and some rustling noises, like leaves moving. It seems to be an outdoor natural setting.If you have any other thoughts about the video or want to discuss it further, feel free to let me know!"
+          "query": "**Visual:** A shirtless man is squatting on the ground in a forested area. He's wearing shorts and appears to be working with some rocks or stones. The background shows trees and natural vegetation.\n\n**Audio:** There are bird chirping sounds throughout the clip."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 201.7248499393463
+      "processing_time": 232.38648867607117
     },
     {
-      "comment_index": 3418,
-      "video_id": "P73REgj-3UE",
-      "comment": "Trollsquad57 0:41 to my girl friend",
-      "language": "en",
-      "channel_name": "primitivetechnology9550",
-      "category": "making",
-      "likes": 21.0,
-      "comment_timestamp": 41.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "32.0s - 38.0s",
-          "query": "VISUAL: A person is using a hammer to chip away at a piece of wood on a log. The background shows trees and greenery. The person's hands are visible, holding the hammer and working on the wood.AUDIO: There are sounds of hammering throughout the 6 seconds. No other distinct sounds or speech are heard.If you have any more questions about this or want to discuss something else related to videos, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "38.0s - 44.0s",
-          "query": "VISUAL: A person is working with logs in a forest setting. They're using their hands to manipulate the logs, possibly shaping or preparing them for some purpose. The background shows trees and greenery.AUDIO: There's a repetitive tapping sound throughout the 6 seconds. It could be from a tool hitting something or someone tapping on an object. No other distinct sounds like speech or music are present.If you want to know more about this kind of analysis or have any other questions related to videos, feel free to ask!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "44.0s - 50.0s",
-          "query": "VISUAL: There's a man in shorts near a fire pit with logs and rocks around it. He's using a stick to manipulate something over the flames. The background is a forested area with lots of greenery.AUDIO: You can hear some kind of impact sounds throughout the clip. It seems like there might be a bit of wind too. What do you think about that?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 198.8185932636261
-    },
-    {
-      "comment_index": 3419,
+      "comment_index": 3767,
       "video_id": "P73REgj-3UE",
       "comment": "What is the purpose of putting hot coal in the holes you drilled at 0:43?",
       "language": "en",
@@ -559,24 +439,24 @@
         {
           "segment_index": 1,
           "time_range": "34.0s - 40.0s",
-          "query": "VISUAL: A person is using a hammer to split wood on a log. The background shows trees and greenery. The person's hands are visible as they hold the hammer and work on the log.AUDIO: There are sounds of hammering throughout the 6 seconds. No other distinct sounds or speech are heard.If you have any more questions about this or want to discuss something else related to videos, feel free to let me know!"
+          "query": "Visually, there's a person in a forest setting. They're holding a large, rough, brown object, possibly a piece of wood or a tool, and they're using it to hit a smaller, similarly colored object on a tree trunk. The forest around them is filled with green trees and some fallen branches on the ground. The person is wearing shorts and a dark shirt. There's a lot of movement as they're actively hitting the objects together.Audibly, there are repetitive, rhythmic tapping sounds. It's like someone is tapping a hammer or similar object on a hard surface. There's no speech or music in the audio."
         },
         {
           "segment_index": 2,
           "time_range": "40.0s - 46.0s",
-          "query": "VISUAL: A person is working with logs in a forest setting. They're using tools to shape or cut the logs. There's a fire burning nearby, and some rocks are arranged around it. The person seems focused on their task.AUDIO: There are sounds of wood being worked on, like scraping and tapping noises. You can also hear birds chirping in the background. It gives off a natural, outdoor vibe.If you want to know more about this kind of activity or have other questions related to it, feel free to ask!"
+          "query": "Well, let's break it down. Visually, there's someone handling some wooden objects outdoors. You can see trees around, so it looks like they're in a forest or something similar. There's also fire burning nearby, with flames licking at logs. The person seems to be doing some kind of work with those wooden pieces, maybe preparing them for something. As for the audio, I don't really hear any distinct speech or music. But there might be some faint natural sounds from the environment, like rustling leaves or birds chirping. What do you think about that? Do you have any other observations?"
         },
         {
           "segment_index": 3,
           "time_range": "46.0s - 52.0s",
-          "query": "VISUAL: A man is in a forest setting. He's shirtless, wearing black shorts, and barefoot. He's holding a long piece of wood and appears to be working on it near a small fire. There are trees all around him, creating a natural backdrop.AUDIO: The only sound heard is some kind of tapping or knocking noise, like something being hit repeatedly. It's a consistent, rhythmic sound throughout the 6 seconds. What do you think he might be doing with that wood?"
+          "query": "Visually, there's a man in a forest. He's shirtless, wearing shorts, and seems to be working on something. There are trees and greenery around him. He's holding a long stick or pole, and it looks like he's using it to interact with something on the ground. The ground is covered with dirt and some scattered leaves. The colors are mostly greens and browns, typical of a forest setting. The man's movements are focused and deliberate as he works with the stick.\n\nIn terms of audio, there's a sound effect that resembles a tap or a light impact. It's a short, sharp noise, not continuous. There's no speech or music in the audio."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 217.55282855033875
+      "processing_time": 229.59183716773987
     },
     {
-      "comment_index": 3420,
+      "comment_index": 3768,
       "video_id": "P73REgj-3UE",
       "comment": "Was there a purpose to the tree sap he gathered @ 13:10?",
       "language": "en",
@@ -589,21 +469,141 @@
         {
           "segment_index": 1,
           "time_range": "781.0s - 787.0s",
-          "query": "VISUAL: There's a small mud hut with a thatched roof in a forest setting. The camera then moves to show a tree trunk up close.AUDIO: You can hear some kind of insect buzzing throughout the clip. It seems like there might be birds chirping too, but it's not very clear.If you want to talk more about this or have other questions, feel free to let me know!"
+          "query": "Visually, the video shows a small, rustic hut made of mud and straw, situated in a forested area. The hut has a thatched roof and a small entrance. The surrounding trees are tall and dense, creating a natural, secluded environment. There are no people or animals visible in the scene. The colors are earthy, with browns and greens dominating the palette. The movement is minimal, mainly the gentle sway of the trees in the breeze.\n\nIn terms of audio, there are no distinct sounds or speech. The only audible element is the ambient sound of wind rustling through the leaves."
         },
         {
           "segment_index": 2,
           "time_range": "787.0s - 793.0s",
-          "query": "VISUAL: A hand is shown touching a tree trunk covered with some kind of dark substance. The background seems to be an outdoor forest area with trees and leaves. There's no clear movement other than the hand touching the tree.AUDIO: There are some clicking or snapping sounds throughout the 6 seconds. No speech or music is heard. It could be something like twigs snapping or insects buzzing.What do you think about this? Do you have any other videos for me to analyze?"
+          "query": "Visually, there's a hand reaching out and touching a tree trunk. The background seems to be a forested area with some blurred trees and foliage. The colors are mostly earthy tones like browns and greens. There's a sense of gentle movement as the hand interacts with the tree.\n\nIn terms of audio, there are some faint sounds of insects buzzing, which gives a sense of being in a natural, outdoor setting. There's also a brief moment of a click, possibly from a camera or some device."
         },
         {
           "segment_index": 3,
           "time_range": "793.0s - 799.0s",
-          "query": "VISUAL: There's a man in shorts standing outside a small mud hut in a forested area. He's bending over near some stones with a fire burning on them. The hut has a triangular roof and is surrounded by trees.AUDIO: You can hear birds chirping throughout the clip. It seems like there might be some background noise too, maybe from wind or other natural elements.What do you think about the scene? Do you have any other observations?"
+          "query": "**Visual:** The video shows a person in a forest setting, working near a small, rustic hut made of natural materials like mud and wood. The person is bending over, seemingly tending to something on the ground. The hut has a thatched roof and a single door. The surrounding area is filled with trees and greenery, suggesting a natural, outdoor environment. The person is wearing shorts and a light-colored shirt.\n\n**Audio:** There are sounds of birds chirping and other natural ambient noises, creating a peaceful, serene atmosphere typical of a forest."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 216.71749567985535
+      "processing_time": 269.62578797340393
+    },
+    {
+      "comment_index": 3769,
+      "video_id": "P73REgj-3UE",
+      "comment": "What's that dust you use for stone and clay? 3:20",
+      "language": "en",
+      "channel_name": "primitivetechnology9550",
+      "category": "making",
+      "likes": 15.0,
+      "comment_timestamp": 200.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "191.0s - 197.0s",
+          "query": "Visually, there's a shirtless man sitting on the ground in a forest. He's holding a stick and appears to be manipulating it with his hands. The forest around him has trees and some scattered leaves on the ground. The colors are mostly greens and browns, typical of a forest setting. There's a rock in front of him on the ground.\n\nIn terms of audio, there are some faint sounds of nature, like leaves rustling or birds chirping, but it's not very clear. There's also a brief, quiet moment where it seems like there's no sound at all."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "197.0s - 203.0s",
+          "query": "Visually, there's a person sitting on the ground in a forested area. They're shirtless and wearing shorts. The person is holding a stick and appears to be doing something with it, like poking or tapping on a rock in front of them. The background is filled with trees and greenery, and the ground is covered with leaves and dirt. There's also a small fire burning in the background, with smoke rising from it. The colors are mostly earthy tones, with the green of the trees and the brown of the ground and firewood.\n\nIn terms of audio, there are some sounds of nature, like birds chirping and leaves rustling. There's also a faint crackling sound, which could be from the fire."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "203.0s - 209.0s",
+          "query": "Visually, there's a person in shorts squatting in a forest. They're handling some kind of object on the ground, which looks like a piece of wood or a tool. The forest around has trees and some rocks. The person seems to be focused on what they're doing.Audibly, there are sounds of something being tapped or hit, like a hammer or stick hitting a surface. There are also some bird sounds in the background, indicating it's outdoors."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 283.920832157135
+    },
+    {
+      "comment_index": 3770,
+      "video_id": "P73REgj-3UE",
+      "comment": "11:11 Peekaboo",
+      "language": "en",
+      "channel_name": "primitivetechnology9550",
+      "category": "making",
+      "likes": 15.0,
+      "comment_timestamp": 671.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "662.0s - 668.0s",
+          "query": "Visually, there's a man in a forested area. He's shirtless and seems to be working on something on the ground. There are trees and some kind of structure in the background. The ground is covered with dirt and there are some objects like a bucket and a large piece of wood or stone. The man is focused on his task, moving his hands around the object on the ground. The colors are mostly earthy tones - browns, greens, and the gray of the stone or wood. The movement is mainly the man's hands and body as he works.The audio is mostly the sound of leaves rustling, which suggests there's a gentle breeze in the forest. There's also a faint, distant sound that could be an animal or insect."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "668.0s - 674.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 3.76 GiB. GPU 1 has a total capacity of 23.56 GiB of which 3.66 GiB is free. Including non-PyTorch memory, this process has 19.89 GiB memory in use. Of the allocated memory 15.86 GiB is allocated by PyTorch, and 3.72 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "674.0s - 680.0s",
+          "query": "Visual: The video shows someone digging into muddy ground with their bare hands. There's some debris like twigs around. The person is wearing shorts.\n\nAudio: You can hear the sound of something being tapped or hit repeatedly throughout the clip."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 236.43604135513306
+    },
+    {
+      "comment_index": 3771,
+      "video_id": "P73REgj-3UE",
+      "comment": "13:23 \"Helllloooo guys, welcome to my house tour!\"",
+      "language": "en",
+      "channel_name": "primitivetechnology9550",
+      "category": "making",
+      "likes": 15.0,
+      "comment_timestamp": 803.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "794.0s - 800.0s",
+          "query": "**Visual:** The video shows a man in a forested area. He's working on a small, rustic-looking hut made of natural materials like mud and wood. The man is bending over, possibly arranging or tending to something near the ground. The hut has a sloped roof and a single small window. The surrounding area is filled with trees and greenery. The man is wearing shorts and a light-colored shirt. There's also a small stone structure with a fire burning inside it nearby.\n\n**Audio:** The audio features the sounds of birds chirping and other forest wildlife noises. There are no distinct speech, music, or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "800.0s - 806.0s",
+          "query": "**Visual:** The video shows a man in a forest setting. He's shirtless and wearing shorts, standing in front of a small, rustic hut made of mud and straw. The hut has a thatched roof and a single door. The man is holding a stick and appears to be moving around the hut. The surrounding area is filled with trees and greenery. There's also a small fire pit with flames visible near the hut.\n\n**Audio:** The audio includes natural sounds of birds chirping and leaves rustling, suggesting a peaceful, outdoor environment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "806.0s - 812.0s",
+          "query": "Visually, the video shows a dark scene with a fire burning brightly. The fire is the main focus, with its orange and yellow flames flickering. The background is mostly obscured by the darkness, but there seems to be some kind of structure or object near the fire, possibly a pipe or a piece of equipment. There are no people visible in this segment.\n\nIn terms of audio, there are no distinct sounds or speech. The only thing that can be heard is the crackling and hissing of the fire."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 273.52967143058777
+    },
+    {
+      "comment_index": 3772,
+      "video_id": "P73REgj-3UE",
+      "comment": "10:51 almost sounds like he is stabbing a bird",
+      "language": "en",
+      "channel_name": "primitivetechnology9550",
+      "category": "making",
+      "likes": 13.0,
+      "comment_timestamp": 651.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "642.0s - 648.0s",
+          "query": "Visual: A person is building something with stones in an outdoor setting, possibly a forest or wooded area. There's also some kindling burning nearby.\n\nAudio: The only audible thing seems to be the crackling of the fire."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "648.0s - 654.0s",
+          "query": "Visually, there's a man in a forest setting. He's shirtless, wearing shorts, and appears to be working on something on the ground. There are trees and some rocks around. He's using his hands to manipulate what looks like a piece of wood or a similar object. The scene is outdoors, and the forest gives a natural, earthy feel. The colors are mostly greens and browns, typical of a forest environment. There's movement as the man is actively working with the object.Audibly, there are sounds of footsteps, which suggest someone is walking. Then, there are the sounds of something being cracked or snapped, possibly the object the man is working with. There's also a brief moment of silence."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "654.0s - 660.0s",
+          "query": "Visual: There's someone digging into the ground with their hands in an outdoor setting that looks like a forest or jungle area. The person is shirtless and wearing shorts. There are trees and some rocks around.\n\nAudio: You can hear birds chirping in the background throughout the clip."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 170.69362831115723
     }
   ]
 }

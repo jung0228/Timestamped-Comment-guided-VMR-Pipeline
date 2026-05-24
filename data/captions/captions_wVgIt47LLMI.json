@@ -2,11 +2,11 @@
   "video_id": "wVgIt47LLMI",
   "total_comments": 20,
   "successful_comments": 20,
-  "failed_comments": 14,
+  "failed_comments": 0,
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 4361,
+      "comment_index": 5387,
       "video_id": "wVgIt47LLMI",
       "comment": "0:43 If your turn on subtitles it says “This Is where i planted my chopsticks yesterday”",
       "language": "en",
@@ -19,54 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "34.0s - 40.0s",
-          "query": "VISUAL: There's a man sitting near a fire pit with some kind of shelter made from branches and leaves behind him. He seems to be in a forested area. Another person is chopping wood nearby. The scene has greenery all around.AUDIO: You can hear some rustling and impact sounds, like someone moving or working. There's also a bit of background noise that could be wind or other natural sounds.If you want to talk more about this video or have any other questions, feel free to let me know!"
+          "query": "**Visual:** The video shows a man in a forest setting. He's shirtless, wearing red shorts, and appears to be walking or moving through the trees. There are tall trees around him, and the ground is covered with greenery. The man seems to be in motion, possibly exploring or searching for something. The lighting suggests it might be daytime.\n\n**Audio:** There are no distinct sounds or speech in this segment. The audio is mostly silent, with only faint natural sounds like rustling leaves or birds chirping, which are common in a forest environment."
         },
         {
           "segment_index": 2,
           "time_range": "40.0s - 46.0s",
-          "query": "VISUAL: There's a man in red shorts and no shirt chopping bamboo with an axe in a forested area. He's wearing a backpack. The ground is covered with green plants and there are tall bamboo trees around him.AUDIO: You can hear the sound of the axe hitting the bamboo and some rustling noises from the plants. There's also a short bit of music playing in the background.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "Visual: The video shows someone walking through a forested area with tall trees and greenery around. They seem to be carrying something on their back.\n\nAudio: There's some rustling noise, possibly from leaves or branches moving, along with footsteps. It seems like there might be a faint background sound too, maybe wind or birds chirping."
         },
         {
           "segment_index": 3,
           "time_range": "46.0s - 52.0s",
-          "query": "VISUAL: There's a man in red shorts chopping wood with an axe in a forested area. He's shirtless and has a backpack on. The trees around him are tall and thin, and there's greenery on the ground.AUDIO: You can hear the sound of the axe hitting the wood and some rustling noises from the forest. There's also a bit of background noise that could be wind or other natural sounds.If you have any more questions about the video or want to discuss it further, feel free to let me know!"
+          "query": "**Visual:** The video shows a person running through a forested area with trees and greenery around. They're wearing red shorts and appear to be moving quickly.\n\n**Audio:** There's some rustling and impact sounds, possibly from branches or leaves being disturbed by the runner's movement. No distinct speech or music is heard."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 245.8184061050415
+      "processing_time": 165.70787262916565
     },
     {
-      "comment_index": 4363,
-      "video_id": "wVgIt47LLMI",
-      "comment": "Typo at 6:09. must have* (or must've)",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 106.0,
-      "comment_timestamp": 369.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "360.0s - 366.0s",
-          "query": "VISUAL: There's an outdoor scene with some people on a hillside near a building that looks like it might be abandoned or under construction. One person is riding a bicycle up the hill while others seem to be working around the area. The sky is cloudy. Then there's a close - up shot inside a pipe where someone is crouching down, holding something small in their hand.AUDIO: You can hear a motorcycle engine starting up and idling throughout the clip. There's also some background noise that could be from wind or other machinery. What do you think about this video? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "366.0s - 372.0s",
-          "query": "VISUAL: There's a man in red shorts washing something in a large pipe filled with water. He then gets on a small motorcycle with red wheels and rides out of the pipe. The background shows some kind of structure or building outside the pipe.AUDIO: You can hear an engine revving up throughout the entire 6 seconds. It starts off slow and then picks up speed towards the end.What do you think about this scene? Do you have any other videos to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "372.0s - 378.0s",
-          "query": "VISUAL: There's someone riding a motorcycle through a tunnel. The person is wearing red shorts and white shoes. They ride out of the tunnel onto a sandy area with some green plants around. Then another person jumps over the first one who is still on the motorcycle.AUDIO: There's music playing throughout the whole time. It has a fast tempo and seems to be instrumental. No speech or other distinct sounds are heard.If you have any thoughts about this analysis or want to discuss more about it, feel free to let me know."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 260.35833621025085
-    },
-    {
-      "comment_index": 4362,
+      "comment_index": 5388,
       "video_id": "wVgIt47LLMI",
       "comment": "4:27 When you're new to a game and your friend already knows all the crafting recipes...",
       "language": "en",
@@ -79,24 +49,54 @@
         {
           "segment_index": 1,
           "time_range": "258.0s - 264.0s",
-          "query": "VISUAL: There's a shirtless man sitting on a log outdoors. He's working with some bamboo pieces, arranging them around a large wooden object that looks like it could be a drum or something similar. Another shirtless man is sitting further back, holding a stick and looking at his arm which has a bandage on it. The background shows trees and greenery.AUDIO: You can hear a repetitive chopping sound throughout the 6 seconds. It seems to be from the first man working with the bamboo. There's no speech or other distinct sounds besides the chopping. So, what do you think about this scene? Any thoughts or questions?"
+          "query": "Visually, there are two shirtless men in an outdoor setting. One is sitting on a wooden structure, holding a large log, and appears to be working on it. The other is standing nearby, also handling a log. The background shows trees and some scattered logs on the ground. The colors are mostly natural tones like browns and greens. There's a sense of movement as the men are engaged in their tasks.\n\nIn terms of audio, there are sounds of chopping wood, likely from the men working. There's also some wind noise, indicating an outdoor environment."
         },
         {
           "segment_index": 2,
           "time_range": "264.0s - 270.0s",
-          "query": "VISUAL: There's a shirtless man sitting outdoors near some bamboo objects on a log. He seems to be working with them, maybe making or repairing something. In the background, another person is also shirtless, sitting on a stool and holding a stick. The setting looks like it could be a forest or a rural area with trees around.AUDIO: You can hear some kind of rhythmic tapping or hitting sounds throughout the 6 seconds. It might be related to the work the men are doing. There's no clear speech or music in there.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "**Visual:** The video shows two shirtless men in an outdoor setting. One man is sitting on a log, working on a piece of wood with a tool, possibly a chisel or hammer. The other man is sitting on a stool nearby, holding a long stick or tool. The background has trees and greenery, suggesting a forest or park-like area. There are also some wooden logs and tools scattered around.\n\n**Audio:** The audio features the sound of a hammer hitting a hard surface, likely the wood being worked on. There are no other distinct sounds or speech."
         },
         {
           "segment_index": 3,
           "time_range": "270.0s - 276.0s",
-          "query": "VISUAL: There's a shirtless man in red shorts working on some bamboo objects on a log outdoors. Another man is sitting nearby with a stick. The background has trees and greenery.AUDIO: You can hear some kind of mechanism or tool being used, like it might be a saw or something similar. It's not clear if there's any speech or other distinct sounds. So, that's about it for the analysis. What do you think about the scene?"
+          "query": "**Visual:** The video shows two shirtless men in an outdoor setting. One is sitting on a wooden stool, holding a stick and appearing to be working on something. The other is standing, focused on a large piece of wood on a table. There are various tools and materials around, like bamboo tubes and a hammer. The background has trees and greenery, suggesting a natural, possibly rural environment. The colors are earthy and natural, with lots of browns and greens.\n\n**Audio:** The audio includes some generic impact sounds, like tapping or knocking, and a brief, unclear sound effect that could be a small explosion or a loud bang. There's no speech or music in the audio."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 277.3932273387909
+      "processing_time": 241.0201394557953
     },
     {
-      "comment_index": 4364,
+      "comment_index": 5389,
+      "video_id": "wVgIt47LLMI",
+      "comment": "Typo at 6:09. must have* (or must've)",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 106.0,
+      "comment_timestamp": 369.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "360.0s - 366.0s",
+          "query": "Visually, there's a person in a dark outfit crouching inside a large pipe. You can see the pipe's interior, with some debris on the ground. Outside the pipe, there are some buildings and a cloudy sky. There's also a motorcycle parked nearby. The person seems to be looking around or searching for something. The colors are mostly muted, with the dark clothing of the person contrasting against the lighter background of the pipe and sky. The movement is mainly the person's slight crouching and looking around inside the pipe, and the motorcycle is stationary outside.Audibly, there's a sound effect that starts around the 4-second mark. It's a high-pitched, somewhat eerie noise, like a strange electronic beep or a distorted voice. It's short and then fades out. There's also some background noise, but it's not very clear."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "366.0s - 372.0s",
+          "query": "Visually, there's a person inside a large, dark tunnel. They seem to be working on something on the ground. In the background, there's a motorcycle with red wheels. The person is wearing dark clothing. The tunnel is dimly lit, and the overall scene looks a bit chaotic with some debris on the ground. There's also a glimpse of a blue curtain or fabric in the background.Audibly, there's the sound of a motorcycle engine starting up and then idling. It's a clear, distinct sound."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "372.0s - 378.0s",
+          "query": "Visually, there's a person riding a motorcycle through a tunnel. The tunnel is dark, and you can see the motorcycle's wheels and part of the rider. Outside the tunnel, there's some greenery and a building in the background. The rider seems to be moving at a decent speed. The colors are mostly muted due to the tunnel's darkness, but there are some brighter spots from the outside environment. There's also a bit of water or liquid on the ground inside the tunnel.Audibly, there's a loud engine revving sound, which is the motorcycle's engine. It starts off slow, then gets louder and faster, and then there's a sudden stop. There's also a brief moment of what sounds like a small explosion or a loud bang."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 279.02323269844055
+    },
+    {
+      "comment_index": 5390,
       "video_id": "wVgIt47LLMI",
       "comment": "7:00 \"I'm sorry, you said what?\"",
       "language": "en",
@@ -109,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "411.0s - 417.0s",
-          "query": "VISUAL: There's a group of people working outside near some kind of makeshift shelter or structure made from branches and leaves. They seem to be doing tasks like chopping wood with axes. The setting is outdoors, surrounded by trees. There's also a t-shirt hanging on a wooden frame in another scene, showing a graphic design with a person riding a horse and some text around it.AUDIO: I can hear some shouting and grunting, probably from the people working. There's also background music playing throughout the clip."
+          "query": "Visually, there are people in a forested area. Some are near a small wooden structure, and others are moving around. The scene has green trees and a dirt ground. There's a yellow logo with a geometric design that appears briefly. The overall color scheme is natural, with lots of greens and browns.\n\nIn terms of audio, there are screams and some kind of impact sounds. It sounds like there might be a tense or chaotic situation happening."
         },
         {
           "segment_index": 2,
           "time_range": "417.0s - 423.0s",
-          "query": "VISUAL: There's a wooden frame with two dark blue long-sleeved shirts on it. One has a graphic design featuring a figure on horseback and some text around it. The other shirt just has \"CORRIDOR\" written on it. In the background, there's an alleyway with buildings and a person riding a bike passing by.AUDIO: A man is speaking, saying he's not advertising but a shirt salesman trying to sell one of those shirts. It seems like he's talking directly to the camera or someone watching him. There's no music or sound effects, just his voice and the ambient noise from the bike in the background.If you have any more questions about this video or anything else, feel free to let me know!"
+          "query": "Visual: The video shows a shirt hanging on a wooden frame in the foreground. The shirt is dark blue with a colorful graphic design on it. In the background, there's a street scene with a person riding a bicycle. The setting appears to be an urban area with buildings and some graffiti on the walls. The lighting suggests it's daytime.\n\nAudio: There's a man speaking in English. He says, \"All right, real talk, guys. This is not an advertisement. I am but a meager shirt salesman trying to sell you one of these.\""
         },
         {
           "segment_index": 3,
           "time_range": "423.0s - 429.0s",
-          "query": "VISUAL: There are two men outside. One is holding up a black shirt with some design on it while the other sits on a bike. The background has buildings with graffiti. The man with the shirt seems to be showing it off, moving his hands around it.AUDIO: A male voice is speaking about shirts being printed for someone, mentioning they're limited edition and directing viewers to a website called Corridor Digital Store.So, what do you think about these shirts? Do you like the design?"
+          "query": "Visual: The video shows two shirtless men in an alleyway. One is holding a black shirt with \"CORRIDORDIGITAL STORE\" printed on it. The other man is standing nearby. There are some colorful graffiti on the walls and a wooden fence in the background. The scene has a casual, urban feel.\n\nAudio: A man is speaking, saying \"500 shirts we got printed just for you this is limited edition stuff guys head on over to corridor digital store.\" The speech is clear and direct."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 266.40438318252563
+      "processing_time": 282.8531987667084
     },
     {
-      "comment_index": 4365,
+      "comment_index": 5391,
       "video_id": "wVgIt47LLMI",
       "comment": "i love how there is a ton of smoke coming out of that bike but at 6:44 its suddenly super environmentally friendly",
       "language": "en",
@@ -139,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "395.0s - 401.0s",
-          "query": "VISUAL: There's a man on a red motorcycle in a forested area. He's shirtless and wearing shorts. There's smoke around him, and he seems to be struggling with something on the bike. There's also an orange bag on the ground nearby.AUDIO: I can't really tell much from just these six seconds. It might be some kind of music or sound effects playing, but it's hard to say for sure.What do you think about that? Do you have any other details about the video?"
+          "query": "**Visual:** The scene shows someone riding an orange motorcycle through a forested area. There's smoke coming from the bike, suggesting it might be malfunctioning or performing some kind of stunt. Trees and greenery surround the path.\n\n**Audio:** You can hear the engine revving up, which is likely the motorcycle's engine. It seems to be accelerating or preparing for something."
         },
         {
           "segment_index": 2,
           "time_range": "401.0s - 407.0s",
-          "query": "VISUAL: There's a man on a bicycle with red wheels. He seems to be in some kind of outdoor setting, maybe a forest or park. There are trees around him. Another person is standing behind him, holding something that looks like a bag or a piece of equipment. The ground is covered with dirt and grass.AUDIO: You can hear a loud engine revving up and then stopping abruptly. There's also some shouting in the background. It gives off an intense vibe.What do you think about it? Do you have any other thoughts or questions?"
+          "query": "Visually, there are two shirtless men in a forested area. One is riding a bicycle with red wheels, and the other is standing nearby. There's also a small wooden structure in the background. The scene has a lot of greenery, and the ground is mostly dirt. The men seem to be engaged in some kind of activity, possibly related to the bicycle.\n\nIn terms of audio, there's a loud explosion sound that dominates the clip. It's quite intense and lasts for most of the 6 seconds. There's also some shouting and screaming, which adds to the chaotic atmosphere created by the explosion."
         },
         {
           "segment_index": 3,
           "time_range": "407.0s - 413.0s",
-          "query": "VISUAL: There's a man on a small motorcycle with red wheels. He's shirtless, wearing blue shorts and boots. Another person is standing nearby. In the background, there's a makeshift hut made of branches and leaves, surrounded by trees. Some other people can be seen near the hut, doing various things like sitting or walking around. The ground looks like dirt with some grass patches.AUDIO: You can hear a loud engine revving up and then screeching, followed by a series of screams. It seems really intense.What do you think about it? Do you have any other questions related to this video?"
+          "query": "Visually, there are people in a forested area. Some are riding motorcycles, and there's a small wooden structure in the background. The scene has a mix of greenery and dirt paths. The people seem to be moving around, possibly in a group. The colors are mostly natural tones of green, brown, and the dark colors of the motorcycles.Audibly, there are screams and shouts, which seem to be reactions to something happening in the scene. There's also a sound effect that resembles an explosion or a loud bang. The overall atmosphere sounds chaotic and intense."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 274.54095125198364
+      "processing_time": 246.6905174255371
     },
     {
-      "comment_index": 4366,
+      "comment_index": 5392,
       "video_id": "wVgIt47LLMI",
       "comment": "I just realized Sam is whistling \"Music of the Night\" from Phantom of the Opera at 1:35.",
       "language": "en",
@@ -169,24 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "86.0s - 92.0s",
-          "query": "VISUAL: There's a man squatting on the ground. He's wearing red shorts and boots. In front of him is some kind of wooden frame structure made from bamboo or similar material. Another person can be seen in the background, sitting on something and working with their hands. The setting appears to be outdoors, with grass and trees around.AUDIO: There are some impact sounds throughout the 6 seconds, like things being hit or tapped. No clear speech or music is heard. It seems more like a series of random noises.If you have any other thoughts about the video or want to discuss it further, feel free to let me know!"
+          "query": "Visually, there's a shirtless man in red shorts squatting on the ground. He's positioned near some wooden sticks arranged in a star-like shape. In the background, another person is sitting on a pile of greenery. The setting appears to be outdoors, with trees and grass visible. The man in the foreground seems to be interacting with the wooden sticks, possibly arranging or moving them. The other person in the background is relatively still, just sitting there.Audibly, there are sounds of something being tapped or tapped repeatedly, like a stick or a similar object. There's also a brief moment of a whooshing sound, which could be from a quick movement or an object being thrown or moved quickly."
         },
         {
           "segment_index": 2,
           "time_range": "92.0s - 98.0s",
-          "query": "VISUAL: There's a man squatting on the ground in an outdoor setting with some trees around. He's wearing red shorts and black boots. In front of him is a structure made of wooden sticks laid out on the dirt. Another person can be seen in the background, sitting on something and working on a piece of cloth or fabric.AUDIO: You can hear some kind of mechanical clicking or tapping sounds throughout the 6 seconds. It doesn't seem to be any specific speech or music. What do you think about it? Do you have any other observations?"
+          "query": "Visually, there's a shirtless man in red shorts squatting on the ground. He's surrounded by wooden sticks arranged in a pattern. In the background, another person is sitting on the grass. The setting seems to be outdoors, with trees and greenery around. There's also a door opening and closing in the audio."
         },
         {
           "segment_index": 3,
           "time_range": "98.0s - 104.0s",
-          "query": "VISUAL: There's a man in red shorts squatting on the ground near some wooden sticks arranged like a frame. He stands up and walks towards another person sitting on a log. The background has green grass, trees, and a pile of branches.AUDIO: You can hear birds chirping and leaves rustling. It seems to be an outdoor setting with natural sounds. So, what do you think about this scene?"
+          "query": "**Visual:** The video shows a person in red shorts walking on a dirt path. There are wooden structures on the ground, and another person in a beige jacket is sitting on a bench in the background. The setting appears to be outdoors with some greenery around. The person in red shorts seems to be moving towards the wooden structures.\n\n**Audio:** There are some ambient sounds, possibly of nature like rustling leaves or birds chirping, but no distinct speech or music is heard."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 255.50651168823242
+      "processing_time": 313.34507942199707
     },
     {
-      "comment_index": 4367,
+      "comment_index": 5393,
       "video_id": "wVgIt47LLMI",
       "comment": "Subtitles at 6:42 ;)",
       "language": "en",
@@ -199,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "393.0s - 399.0s",
-          "query": "VISUAL: There's an orange bag on the ground in a forested area with green grass and trees. A man runs towards some people who seem to be in distress or fighting near a blue smoke cloud. He picks up the bag and runs away from the scene.AUDIO: There's music playing throughout the video."
+          "query": "Visual: The video shows a forest scene with trees and greenery. There's a person in the middle of the forest, and they seem to be holding or interacting with something that's causing smoke to billow out. The smoke is thick and blue. The person is wearing dark clothing. The ground is covered with grass and some patches of dirt. The overall color palette is dominated by greens and browns from the forest, with the blue smoke adding a contrasting color.\n\nAudio: There are no distinct speech or music in the audio. The main sound is the sound of an engine revving up, which starts towards the end of the segment."
         },
         {
           "segment_index": 2,
           "time_range": "399.0s - 405.0s",
-          "query": "VISUAL: There's a shirtless man on a motorcycle with a chainsaw-like device attached to it. He's riding through a forested area. Another person is also present, standing near some makeshift structures made from branches and leaves. The ground has patches of grass and dirt. The trees around are green.AUDIO: You can hear an engine revving up and then stopping abruptly. There's also a shout or scream at the end. It seems like there might be some kind of struggle or accident happening. What do you think about this scene?"
+          "query": "Visually, there are two people in a forested area. One is riding a bicycle, and the other is standing nearby. The trees are green, and the ground is covered with grass and some fallen leaves. The person on the bike is wearing shorts and a tank top, while the other person is in darker clothing. The scene seems calm and natural.\n\nIn terms of audio, there's a sound of a motorcycle engine revving up, which is quite loud and dominant. There's also a brief shout or scream, possibly from surprise or excitement."
         },
         {
           "segment_index": 3,
           "time_range": "405.0s - 411.0s",
-          "query": "VISUAL: There's a man on a bicycle with another person riding behind him. They're in an outdoor setting with trees around. The man in front is wearing red shorts and sandals, while the one behind has a brown outfit. In the background, there's some kind of makeshift structure made from branches and leaves. Other people can be seen moving around in the distance.AUDIO: I hear shouting and screaming throughout the entire 6 seconds. It seems like it could be some sort of distress or excitement. What do you think about this scene?"
+          "query": "**Visual:** The video shows a man in red shorts and a white shirt riding a bicycle in a forested area. There's a small wooden hut in the background. The man appears to be in motion, pedaling the bike. The trees are green, and the ground is covered with dirt and some grass. The lighting suggests it's daytime.\n\n**Audio:** There are sounds of shouting and screaming, possibly indicating distress or excitement. There's also a sound effect that resembles a crash or impact, which could be related to the man on the bike."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 220.8106951713562
+      "processing_time": 262.82327032089233
     },
     {
-      "comment_index": 4368,
+      "comment_index": 5394,
       "video_id": "wVgIt47LLMI",
       "comment": "6:39 zombie tasting some smoke (almost throw up)",
       "language": "en",
@@ -229,24 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "390.0s - 396.0s",
-          "query": "VISUAL: There's a person in an orange shirt and shorts running through a forested area with green grass and trees. In the foreground, there's some kind of red object on the ground. The person seems to be moving quickly, almost like they're in a hurry or being chased.AUDIO: There's music playing throughout the entire 6 seconds of the video. No specific speech is heard, just the continuous music. What do you think about the scene? Does it seem like something from a movie or TV show?"
+          "query": "Visually, there's a person in a red shirt and beige pants walking through a forested area. The ground is covered with green grass and there are trees around. There's also a small, orange and black object on the ground. The person seems to be moving forward, possibly walking or hiking. The scene is outdoors, likely during the day as there's enough light.\n\nIn terms of audio, there's a sound effect that starts around 4.02 seconds into the video. It's a kind of hissing or static noise that lasts until about 6.02 seconds. There's also some background noise, but it's not very clear what it is."
         },
         {
           "segment_index": 2,
           "time_range": "396.0s - 402.0s",
-          "query": "VISUAL: There's a man on a red motorcycle in a forested area. He's shirtless and there's smoke around him. He rides off to the right.AUDIO: You can hear an engine revving up and then some kind of explosion or loud bang. It's all very intense. So, what do you think about it?"
+          "query": "Visual: A shirtless man is riding a motorcycle through a forested area with lots of greenery around him. There's smoke coming from the ground near where he rides. The scene looks quite chaotic.\n\nAudio: You can hear the sound of an engine revving up, which seems to be related to the motorcycle being ridden."
         },
         {
           "segment_index": 3,
           "time_range": "402.0s - 408.0s",
-          "query": "VISUAL: There's a man on a wooden bike with red wheels. He's shirtless, wearing red shorts and sandals. Another person is behind him, also shirtless, holding onto something. They're in an outdoor area with trees around. There's some kind of structure made from branches or sticks in the background.AUDIO: You can hear shouting and some kind of mechanical noise throughout the 6 seconds. It seems like there might be some sort of struggle or excitement going on. What do you think about it?"
+          "query": "**Visual:** The scene shows two shirtless men on bicycles in an outdoor setting with trees around. One man is riding while the other seems to be pushing or adjusting something on his bike. There's also some kind of makeshift structure in the background.\n\n**Audio:** You can hear shouting and screaming throughout the clip. It gives off a chaotic vibe."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 224.18120741844177
+      "processing_time": 185.3170051574707
     },
     {
-      "comment_index": 4369,
+      "comment_index": 5395,
       "video_id": "wVgIt47LLMI",
       "comment": "Was it me or did I hear the Minecraft zombie sound at 0:10 yoo wtf why does this actually have likes",
       "language": "en",
@@ -259,24 +259,24 @@
         {
           "segment_index": 1,
           "time_range": "1.0s - 7.0s",
-          "query": "VISUAL: There's a dirt path surrounded by green grass and trees. A person wearing red shorts is running along the path from right to left.AUDIO: You can hear wind blowing and some kind of impact or thumping sound. What do you think about it?"
+          "query": "**Visual:** The video shows a person running through a forested area with tall trees and greenery around. There's also some kind of structure or object visible among the trees.\n\n**Audio:** The only audible thing is wind blowing into a microphone."
         },
         {
           "segment_index": 2,
           "time_range": "7.0s - 13.0s",
-          "query": "VISUAL: There's a group of men running through a forested area. One man is shirtless and wearing red shorts, while others are in different colored shirts and pants. They seem to be in a hurry or fleeing from something. The trees around them are green and dense.AUDIO: You can hear some kind of animal growling and screaming in the background throughout the entire clip. It gives off an intense, possibly dangerous vibe.What do you think might be happening in that scene?"
+          "query": "Visually, there are several people running through a forested area. They seem to be in a hurry, possibly fleeing from something. The trees are tall and green, and the ground is covered with grass and dirt paths. The people are mostly shirtless and wearing shorts. The scene gives off a sense of urgency and chaos.\n\nIn terms of audio, there are sounds of running, shouting, and what sounds like a growling or roaring animal. There's also some kind of impact sound, like something being hit or dropped. It's a pretty intense and chaotic audio scene."
         },
         {
           "segment_index": 3,
           "time_range": "13.0s - 19.0s",
-          "query": "VISUAL: There's a man in a red shirt and beige pants walking through a forested area with green grass and trees. He seems to be carrying something in his hands. Then he throws it down on the ground. After that, another person wearing a blue cap appears, crouching near some rocks and sticks, possibly tending to a fire or campfire.AUDIO: You can hear some kind of animal making noises like neighing and growling throughout the clip. There's also background noise from the wind and rustling leaves. Oh, and there's a short piece of music playing at the end of the six seconds. So, what do you think about this scene? Any thoughts or questions?"
+          "query": "Visually, there's someone walking through a forested area with trees around. They seem to be carrying something on their back. The ground is covered with grass and leaves. There s also some kind of structure or object lying on the ground near them.Audibly, it starts off with some rustling noises, then turns into screams. It seems like there might be some sort of surprise or danger happening. What do you think could have caused those screams?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 223.62635684013367
+      "processing_time": 171.84131479263306
     },
     {
-      "comment_index": 4370,
+      "comment_index": 5396,
       "video_id": "wVgIt47LLMI",
       "comment": "2:58 How my summer tires are made.  Awesome video, guys, we know how hard you worked on it!",
       "language": "en",
@@ -289,24 +289,24 @@
         {
           "segment_index": 1,
           "time_range": "169.0s - 175.0s",
-          "query": "VISUAL: There's a shirtless man sitting on a wooden chair outdoors. He has red shorts on and is holding some kind of long, thin object in his hands. Next to him, there's a basket with a sign that says \"PARTS\" and it seems to have some animal legs or something similar inside. The background looks like a forested area with lots of greenery.AUDIO: I can't really tell what's being said because there's no speech. But there are some generic impact sounds throughout the 6 seconds. It might be from the man doing something with the objects he's holding. What do you think about this? Do you have any other observations?"
+          "query": "**Visual:** The video shows a shirtless man sitting on a wooden bench in a forested area. He's holding a large, orange, cylindrical object, possibly a musical instrument like a didgeridoo. There's a basket labeled \"FARTS\" next to him, containing various items. The background has trees and some wooden structures. The man seems to be preparing to play the instrument. There's also a small painting or picture leaning against a tree trunk.\n\n**Audio:** The audio includes the sound of leaves rustling and a soft, ambient forest sound. There are no distinct speech or music sounds in this segment."
         },
         {
           "segment_index": 2,
           "time_range": "175.0s - 181.0s",
-          "query": "VISUAL: There's a man sitting on a chair outdoors. He's shirtless, wearing red shorts and gray boots. He has tattoos on his arms. In front of him is a basket labeled \"PARTS\" with some objects inside. There's also a picture frame leaning against something nearby. The background shows trees and plants, suggesting it's in a forest or garden area. The man seems to be handling some kind of rope or string, possibly tying up an object that looks like a doll or toy figure.AUDIO: I can't really tell what specific sounds there are from just these six seconds. It might be some natural outdoor sounds like wind rustling leaves or birds chirping, but without more context, it's hard to say for sure.If you have any other thoughts about the video or want to discuss it further, feel free to let me know!"
+          "query": "**Visual:** The video shows a shirtless man sitting on a wooden bench in a forested area. He's wearing red shorts and sandals. There's a basket labeled \"FARTS\" nearby, and he's holding a red object, possibly a toy or a piece of cloth. The background has trees and some scattered items like a picture frame and a basket. The man seems to be interacting with the red object, maybe playing with it or examining it. The scene has a somewhat humorous or absurd vibe.\n\n**Audio:** There are no distinct sounds or speech in this segment. The only audio is the sound of the man's movements, like shifting on the bench and handling the red object."
         },
         {
           "segment_index": 3,
           "time_range": "181.0s - 187.0s",
-          "query": "VISUAL: There's a man squatting down in an outdoor setting with some trees around. He's shirtless, wearing red shorts and boots. In front of him is a lifebuoy that he seems to be interacting with. To his right, there's a basket labeled \"PARTIE\" with some pumpkins or gourds inside. There's also a framed picture on a tree trunk behind him.AUDIO: You can hear some kind of impact sounds throughout the 6 seconds. It could be something like a stick hitting a surface or similar. There's no clear speech or music in the audio.If you have any other thoughts about the video or want to discuss it further, feel free to let me know!"
+          "query": "**Visual:** The video shows a shirtless man in red shorts. He's in a forested area, sitting on a log. There's a basket labeled \"FARTS\" nearby, and he's interacting with a lifebuoy. The scene has a natural, outdoor feel with lots of greenery.\n\n**Audio:** There are no distinct sounds or speech in this short segment. It's mostly the ambient sounds of nature, like rustling leaves and possibly some distant animal noises."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 374.9169588088989
+      "processing_time": 287.1207685470581
     },
     {
-      "comment_index": 4371,
+      "comment_index": 5397,
       "video_id": "wVgIt47LLMI",
       "comment": "2:23 just realised by Sam in the background that this is sequel to the tank that destroyed mee-maw’s house",
       "language": "en",
@@ -319,54 +319,54 @@
         {
           "segment_index": 1,
           "time_range": "134.0s - 140.0s",
-          "query": "VISUAL: There's a man sitting on a stool outdoors. He has no shirt on, red shorts, and sandals. He's holding something round and blackish-brown in his hands. Another person is standing behind him, wearing a light blue shirt and dark pants, and seems to be doing some kind of work with wood. There's also a basket labeled \"PARTS\" next to him.AUDIO: You can hear some rustling and crunching sounds throughout the 6 seconds. It gives off an outdoor vibe. What do you think about it? Do you have any other observations or questions?"
+          "query": "Visually, there's a man sitting on a log, shirtless, wearing red shorts and sandals. He's holding a stick and appears to be in a forested area. There's a basket nearby with a sign that says \"FARTS\". Another person in a blue shirt and jeans is walking in the background, carrying something. The ground is dirt, and there are trees around.\n\nIn terms of audio, there are sounds of chewing and a faint background noise, possibly from wind or other natural elements."
         },
         {
           "segment_index": 2,
           "time_range": "140.0s - 146.0s",
-          "query": "VISUAL: There's a man sitting on a wooden stool outdoors. He's shirtless, wearing red shorts and brown boots. He's holding something round and black in his hands. Another person is standing behind him, chopping wood with an axe. There are some logs on the ground near them. There's also a basket labeled \"PARIS\" next to the seated man.AUDIO: You can hear chopping sounds throughout the 6 seconds. It seems like there might be some background noise too, maybe from wind or other outdoor elements.If you have any thoughts about this or want to discuss more, feel free to let me know."
+          "query": "**Visual:** The video shows a man sitting on a wooden stool outdoors, wearing red shorts and brown sandals. He's holding a small object in his hands, possibly a tool or a piece of fruit. There's a basket labeled \"FARTS\" next to him, containing various items like a gourd and a red object. Another person in a blue shirt and jeans is standing in the background, chopping wood with an axe. The setting appears to be a forested area with trees and greenery around.\n\n**Audio:** The audio features a rhythmic, repetitive sound effect that resembles a pig oinking. It's a consistent sound throughout the 6 seconds."
         },
         {
           "segment_index": 3,
           "time_range": "146.0s - 152.0s",
-          "query": "VISUAL: There's a shirtless man sitting on a stool outdoors. He has a red loincloth on. In front of him is a basket labeled \"PARIS\" with some items inside. Another person in blue clothes and a cap is standing behind him, working on something. The background shows trees and plants. The man on the stool is holding a spider web - like object and then drops it onto a piece of wood on the ground.AUDIO: You can hear some kind of clicking or tapping sounds throughout the 6 seconds. It doesn't seem to be any speech or music. What do you think about this scene?"
+          "query": "**Visual:** The video shows a man sitting on a stool in a forested area. He's shirtless, wearing red shorts and boots. There's a basket labeled \"FARTS\" beside him, and another person is working in the background, chopping wood. The setting is outdoors, with trees and natural light.\n\n**Audio:** There are sounds of crickets and other insects buzzing, suggesting a natural, outdoor environment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 311.342591047287
+      "processing_time": 361.4690566062927
     },
     {
-      "comment_index": 4372,
+      "comment_index": 5398,
       "video_id": "wVgIt47LLMI",
-      "comment": "2:06 Parts or Farts 😂😂😂😂",
+      "comment": "0:11 Minecraft Zombie sound",
       "language": "en",
       "channel_name": "Corridor",
       "category": "making",
-      "likes": 18.0,
-      "comment_timestamp": 126.0,
+      "likes": 26.0,
+      "comment_timestamp": 11.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "117.0s - 123.0s",
-          "query": "VISUAL: There's a man in red shorts and blue jeans working on a wooden structure outdoors. He seems to be assembling or fixing it. The ground is dirt with some grass around. There's also a pile of branches or twigs nearby.AUDIO: You can hear some kind of impact sounds throughout the 6 seconds. It could be something being hit or broken. There's no clear speech or music in there.What do you think about the scene? Any thoughts?"
+          "time_range": "2.0s - 8.0s",
+          "query": "Visually, there's a man running through a forested area. He's wearing a brown shirt and red shorts. The forest has tall trees with green leaves, and there's some grass and dirt on the ground. The man is moving quickly, his arms pumping as he runs.Audibly, there are footsteps crunching on gravel, and then a thump, which could be the man landing on the ground or something else falling."
         },
         {
           "segment_index": 2,
-          "time_range": "123.0s - 129.0s",
-          "query": "VISUAL: A person is holding some sticks together with rope. Then there's a guy sitting on a log, wearing red shorts and boots, in a forest-like setting. There's a basket labeled \"PARTS\" next to him. He seems to be handling something small in his hands.AUDIO: There are sounds like crumpling paper and a whip cracking. It gives off an intense or dramatic vibe.What do you think about it? Do you have any other thoughts or questions?"
+          "time_range": "8.0s - 14.0s",
+          "query": "Visually, there are multiple people in a forested area. Some are running, and there's a sense of urgency or excitement. The trees are green and the ground is covered with grass and dirt. The people are wearing different colored clothes, like red and brown. There's also a sense of movement, like running and possibly jumping or falling.\n\nIn terms of audio, there are sounds of movement, like footsteps and maybe some rustling. There's also a scream, which adds to the sense of urgency or fear."
         },
         {
           "segment_index": 3,
-          "time_range": "129.0s - 135.0s",
-          "query": "VISUAL: There's a man sitting on a wooden stump in an outdoor setting with some trees around. He's shirtless, wearing red shorts and sandals. Next to him is a basket labeled \"PARTS\" containing various items like a piece of wood and something wrapped in cloth. The man picks up a round object from a small pile of stones or rocks nearby. Another person walks into the frame from the left side, wearing jeans and a white top.AUDIO: You can hear some kind of rhythmic tapping or clicking sound throughout the clip. It doesn't seem to be speech or any specific music."
+          "time_range": "14.0s - 20.0s",
+          "query": "Visually, there's a man in a forested area. He's wearing a blue shirt and beige pants. He's standing near a small fire pit with some logs and a piece of cloth on the ground. There are trees and greenery around him. The scene seems peaceful, with the man appearing to be in a natural, outdoor setting. There's also a dog in the background, looking towards the man. The colors are mostly greens from the trees and grass, with the brown of the man's pants and the fire pit adding contrast. The movement is mainly the man's slight movements as he stands there, and the dog's head turning towards him.Audibly, there's a scream followed by laughter. The scream is loud and sudden, and the laughter seems to be a reaction to the scream. There are also some rustling sounds, likely from the trees or bushes in the wind."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 249.8491337299347
+      "processing_time": 255.12190961837769
     },
     {
-      "comment_index": 4373,
+      "comment_index": 5399,
       "video_id": "wVgIt47LLMI",
       "comment": "2:39 i can’t stop laughing",
       "language": "en",
@@ -379,24 +379,24 @@
         {
           "segment_index": 1,
           "time_range": "150.0s - 156.0s",
-          "query": "VISUAL: There's a man sitting on a stool outdoors. He's shirtless, wearing red shorts and brown boots. Another person is standing behind him, working on something with their hands. There's also a basket labeled \"PARIS\" nearby with some items inside. The setting seems to be a natural area with trees and plants around.AUDIO: You can hear some kind of clicking or tapping sounds throughout the 6 seconds. It doesn't seem like there's any speech or music involved. Just those repetitive clicking/tapping noises.If you have any other thoughts about this video or want to discuss it further, feel free to let me know!"
+          "query": "**Visual:** The video shows a man in red underwear sitting on a chair in a forested area. There's another person in the background, seemingly working on something. The man in the foreground is holding a large wooden object, possibly a gourd or a similar item. There's a basket labeled \"FARTS\" nearby. The setting is outdoors, with trees and natural elements around. The man in the background is wearing a light blue shirt and jeans, and he appears to be focused on his task.\n\n**Audio:** There are no distinct sounds or speech in this 6-second segment. The audio is silent."
         },
         {
           "segment_index": 2,
           "time_range": "156.0s - 162.0s",
-          "query": "VISUAL: There's a man sitting on a wooden chair outdoors. He has no shirt on, wearing red shorts and brown boots. Another man is standing behind him, also without a shirt, wearing blue jeans. The seated man is holding something in his hands. There's a basket with some items inside to the right of the seated man. The background shows trees and some kind of structure made of branches or bamboo.AUDIO: You can hear some kind of impact sounds throughout the 6 seconds. It seems like there might be a bit of a struggle or fight going on between the two men. What do you think about it?"
+          "query": "**Visual:** The video shows two men outdoors in a natural setting with trees around. One man is sitting on a makeshift chair or stool, shirtless, wearing red shorts and boots. He has a long object, possibly a stick or tool, in his hand. Another man stands nearby, also shirtless, wearing jeans and a white sleeveless top. There's a basket labeled \"FARIS\" next to them containing some items. The ground looks muddy.\n\n**Audio:** There are no distinct sounds like speech or music. Instead, there are generic impact sounds, like something being tapped or hit, followed by a short burst of laughter."
         },
         {
           "segment_index": 3,
           "time_range": "162.0s - 168.0s",
-          "query": "VISUAL: There's a man sitting on a stool outdoors, holding some cloth and meat. Another shirtless guy is standing nearby with his hands on his hips. There's a basket labeled \"PARIS\" next to them with more meat. The background has trees and a makeshift structure.AUDIO: Just some generic outdoor sounds like wind and maybe some distant noises. No distinct speech or music though.If you want to talk more about this video or have other questions, feel free to ask!"
+          "query": "**Visual:** The video shows two shirtless men in a forested area. One is sitting on a log, holding a large wooden instrument, possibly a didgeridoo, and there's a basket labeled \"PARTS\" nearby. The other man is standing and appears to be adjusting or handling something. The setting is outdoors with trees and natural light.\n\n**Audio:** There are no distinct sounds or speech in this 6-second segment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 305.6079640388489
+      "processing_time": 250.79195070266724
     },
     {
-      "comment_index": 4374,
+      "comment_index": 5400,
       "video_id": "wVgIt47LLMI",
       "comment": "6:46 \"If meemaw taught me anything, it was never leave a family member behind\" lol, they literally left meemaw",
       "language": "en",
@@ -409,84 +409,24 @@
         {
           "segment_index": 1,
           "time_range": "397.0s - 403.0s",
-          "query": "VISUAL: There's a man on a red motorcycle in a forested area. He's shirtless and wearing shorts. There's smoke around him, like from an explosion or something. Another person is running towards him. The ground has some debris scattered about.AUDIO: You can hear the sound of a motorcycle engine revving up. There's also some shouting in the background. It seems like there might be other voices too, but it's not clear.What do you think happened in that scene?"
+          "query": "Visually, there's a person riding a motorcycle through a forested area. The trees are green and the ground is covered with grass and some fallen leaves. The rider is wearing a helmet and seems to be moving at a moderate speed. There's also a bit of smoke or mist around the motorcycle, possibly from the engine or some other source. The overall scene gives off a sense of adventure and freedom.\n\nIn terms of audio, there's a sound effect that starts around 3.5 seconds into the video. It's a loud, sharp noise, kind of like a sudden burst or a loud bang. It's not clear what exactly is making this sound, but it adds an element of surprise or tension to the scene."
         },
         {
           "segment_index": 2,
           "time_range": "403.0s - 409.0s",
-          "query": "VISUAL: There's a man on a bicycle with red wheels. He's wearing red shorts and is pedaling. Another person is sitting behind him on the bike. They're in an outdoor area with trees around. There's also some kind of structure made from branches or wood in the background. The ground looks like dirt or mud.AUDIO: You can hear a high-pitched whining noise throughout the whole clip. It doesn't seem to be any specific speech or music. Just that constant whine.If you have any other thoughts about the video or want to discuss it further, feel free to let me know!"
+          "query": "**Visual:** The scene shows two shirtless men riding bicycles on a dirt path surrounded by trees. One man is wearing red shorts while the other has blue ones. There's also a small wooden hut visible in the background with some items placed around it.\n\n**Audio:** You can hear shouting and screaming from one of the men, along with the sound of bicycle tires skidding or scraping against the ground."
         },
         {
           "segment_index": 3,
           "time_range": "409.0s - 415.0s",
-          "query": "VISUAL: There's a group of people in an outdoor setting with trees around. They seem to be doing some kind of activity near a makeshift structure made of branches. One person is running towards the camera while others are engaged in different tasks like carrying or handling objects. The ground looks muddy and there are some scattered items around.AUDIO: You can hear screams and some kind of impact sounds throughout the 6 seconds. It gives off a chaotic vibe. What do you think about it?"
+          "query": "Visually, there are people in a forested area. Some are near a small, rustic-looking hut. There's a mix of greenery and dirt paths. The people seem to be engaged in some kind of activity, possibly related to the hut. The colors are mostly natural greens and browns, with some clothing colors visible.\n\nIn terms of audio, there's a loud scream followed by some kind of impact sound. It sounds like something might have been dropped or knocked over."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 253.55834317207336
+      "processing_time": 192.83907389640808
     },
     {
-      "comment_index": 4375,
-      "video_id": "wVgIt47LLMI",
-      "comment": "7:00 What???",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 13.0,
-      "comment_timestamp": 420.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "411.0s - 417.0s",
-          "query": "VISUAL: There's a group of people working outside near some kind of makeshift shelter or structure made from branches and leaves. They seem to be doing tasks like chopping wood with axes. The setting is outdoors, surrounded by trees. There's also a t-shirt hanging on a wooden frame in another scene, showing a graphic design with a person riding a horse and some text around it.AUDIO: I can hear some shouting and grunting, probably from the people working. There's also background music playing throughout the clip."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "417.0s - 423.0s",
-          "query": "VISUAL: There's a wooden frame with two dark blue long-sleeved shirts on it. One has a graphic design featuring a figure on horseback and some text around it. The other shirt just has \"CORRIDOR\" written on it. In the background, there's an alleyway with buildings and a person riding a bike passing by.AUDIO: A man is speaking, saying he's not advertising but a shirt salesman trying to sell one of those shirts. It seems like he's talking directly to the camera or someone watching him. There's no music or sound effects, just his voice and the ambient noise from the bike in the background.If you have any more questions about this video or anything else, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "423.0s - 429.0s",
-          "query": "VISUAL: There are two men outside. One is holding up a black shirt with some design on it while the other sits on a bike. The background has buildings with graffiti. The man with the shirt seems to be showing it off, moving his hands around it.AUDIO: A male voice is speaking about shirts being printed for someone, mentioning they're limited edition and directing viewers to a website called Corridor Digital Store.So, what do you think about these shirts? Do you like the design?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 283.946204662323
-    },
-    {
-      "comment_index": 4376,
-      "video_id": "wVgIt47LLMI",
-      "comment": "0:37 how do they edit the video so good !",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 11.0,
-      "comment_timestamp": 37.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "28.0s - 34.0s",
-          "query": "VISUAL: There's two men in an outdoor setting with trees around. One man is shirtless wearing red shorts and boots, he's bending over near some kind of fire pit. The other man is sitting on a log, wearing a cap, a light-colored long-sleeve shirt, and dark pants. He seems to be talking or reacting to something. There's also a small tent-like structure made of branches behind them. There are various objects like baskets, logs, and a stuffed toy near the fire pit.AUDIO: You can hear some rustling and impact sounds throughout the 6 seconds. It could be from movement or handling of objects. There's no clear speech or music in these few seconds."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "34.0s - 40.0s",
-          "query": "VISUAL: There's a man sitting near a fire pit with some kind of shelter made from branches and leaves behind him. He seems to be in a forested area. Another person is chopping wood nearby. The scene has greenery all around.AUDIO: You can hear some rustling and impact sounds, like someone moving or working. There's also a bit of background noise that could be wind or other natural sounds.If you want to talk more about this video or have any other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "40.0s - 46.0s",
-          "query": "VISUAL: There's a man in red shorts and no shirt chopping bamboo with an axe in a forested area. He's wearing a backpack. The ground is covered with green plants and there are tall bamboo trees around him.AUDIO: You can hear the sound of the axe hitting the bamboo and some rustling noises from the plants. There's also a short bit of music playing in the background.If you have any other thoughts or questions about the video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 261.38505029678345
-    },
-    {
-      "comment_index": 4378,
+      "comment_index": 5401,
       "video_id": "wVgIt47LLMI",
       "comment": "5:23 We love the Earth It is our planet",
       "language": "en",
@@ -499,54 +439,84 @@
         {
           "segment_index": 1,
           "time_range": "314.0s - 320.0s",
-          "query": "VISUAL: There's a group of shirtless men in a forested area. They're working on some kind of wooden structure with bamboo pipes sticking out of it. One man is using a tool to work on the wood. The background has trees and greenery.AUDIO: There's a loud, high-pitched screeching noise throughout the entire clip. It doesn't seem like there's any speech or other normal sounds. What do you think about that?"
+          "query": "Visually, there are people in a forested area. They seem to be working with wooden logs, possibly building or crafting something. The scene has a lot of greenery, and the ground is covered with leaves and branches. The people are dressed casually, and there's a sense of activity as they move around the logs.\n\nIn terms of audio, there are some sound effects that resemble the breaking of wood or other natural sounds. There's also a brief moment of shouting or yelling, which could be from one of the people in the scene."
         },
         {
           "segment_index": 2,
           "time_range": "320.0s - 326.0s",
-          "query": "VISUAL: There's a group of people working on some kind of makeshift vehicle or contraption made from wood and bamboo. It has wheels that look like they're made from tires. The people seem to be adjusting or fixing it. The setting is outdoors with trees around.AUDIO: You can hear an engine revving up and then idling. There's also some background noise, probably from the outdoor environment. No clear speech or music is heard.If you have any other thoughts about the video or want to discuss more details, feel free to let me know!"
+          "query": "**Visual:** The video shows several people working outdoors with wooden logs. They seem to be engaged in some kind of construction or woodworking activity. There's a mix of standing and sitting positions among them.\n\n**Audio:** You can hear an engine starting up and then idling. It's likely from machinery used for the work being done."
         },
         {
           "segment_index": 3,
           "time_range": "326.0s - 332.0s",
-          "query": "VISUAL: There's a man on a red bicycle in an outdoor setting with trees around. He rides off to the left side of the frame. Another man is standing nearby holding a long stick. There's smoke coming from something in front of them.AUDIO: There's some kind of electronic music playing throughout the clip. It has a sort of glitchy or distorted feel to it.If you have any other thoughts about the video or want to discuss more details, feel free to let me know!"
+          "query": "Visually, there's a man in a red shirt and shorts riding a red bicycle in a rural area with trees and a small wooden structure in the background. He seems to be struggling a bit as he rides. There's also a cow in the background, and the ground is dirt. The colors are mostly earthy tones, with the red of the bicycle and shirt standing out. The movement is mainly the man cycling and the cow standing still.\n\nIn terms of audio, there's a sound effect that starts around 4 seconds in, which sounds like a loud bang or explosion, followed by laughter. There's also some music playing in the background throughout the video."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 255.96455097198486
+      "processing_time": 222.39065384864807
     },
     {
-      "comment_index": 4377,
+      "comment_index": 5402,
       "video_id": "wVgIt47LLMI",
-      "comment": "0:10 ohhhhhhh that sound..",
+      "comment": "1:54  Ducks",
       "language": "en",
       "channel_name": "Corridor",
       "category": "making",
       "likes": 11.0,
-      "comment_timestamp": 10.0,
+      "comment_timestamp": 114.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "1.0s - 7.0s",
-          "query": "VISUAL: There's a dirt path surrounded by green grass and trees. A person wearing red shorts is running along the path from right to left.AUDIO: You can hear wind blowing and some kind of impact or thumping sound. What do you think about it?"
+          "time_range": "105.0s - 111.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 3.75 GiB. GPU 1 has a total capacity of 23.56 GiB of which 3.68 GiB is free. Including non-PyTorch memory, this process has 19.87 GiB memory in use. Of the allocated memory 15.84 GiB is allocated by PyTorch, and 3.72 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 2,
-          "time_range": "7.0s - 13.0s",
-          "query": "VISUAL: There's a group of men running through a forested area. One man is shirtless and wearing red shorts, while others are in different colored shirts and pants. They seem to be in a hurry or fleeing from something. The trees around them are green and dense.AUDIO: You can hear some kind of animal growling and screaming in the background throughout the entire clip. It gives off an intense, possibly dangerous vibe.What do you think might be happening in that scene?"
+          "time_range": "111.0s - 117.0s",
+          "query": "**Visual:** The video shows a person in red shorts and a white shirt operating a wooden contraption in an outdoor setting with dirt and greenery. The contraption appears to be some kind of homemade machine, possibly for grinding or crushing something. The person is actively pushing or pulling on the machine, and there's a pile of wood or debris in the background. The scene is set in a natural, possibly rural area.\n\n**Audio:** There are sounds of exertion, like grunts and shouts, likely from the person operating the machine. There's also a brief, sharp sound effect, possibly a tool hitting something or a part of the machine malfunctioning. The overall sound is somewhat chaotic, reflecting the effort and possibly some minor mishaps during the operation."
         },
         {
           "segment_index": 3,
-          "time_range": "13.0s - 19.0s",
-          "query": "VISUAL: There's a man in a red shirt and beige pants walking through a forested area with green grass and trees. He seems to be carrying something in his hands. Then he throws it down on the ground. After that, another person wearing a blue cap appears, crouching near some rocks and sticks, possibly tending to a fire or campfire.AUDIO: You can hear some kind of animal making noises like neighing and growling throughout the clip. There's also background noise from the wind and rustling leaves. Oh, and there's a short piece of music playing at the end of the six seconds. So, what do you think about this scene? Any thoughts or questions?"
+          "time_range": "117.0s - 123.0s",
+          "query": "**Visual:** The video shows a person in a red shirt and dark pants working on a wooden structure outdoors. The ground is dirt, and there are some green plants around. The person seems to be using tools, possibly for construction or repair. The wooden structure looks like it might be part of a larger project, like a frame or a small building.\n\n**Audio:** There are sounds of something being snapped or broken, like a twig or a small branch. There's also a brief shout or yell, possibly from the person working or someone nearby."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 226.54859924316406
+      "processing_time": 276.97397089004517
     },
     {
-      "comment_index": 4379,
+      "comment_index": 5403,
+      "video_id": "wVgIt47LLMI",
+      "comment": "0:37 how do they edit the video so good !",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 11.0,
+      "comment_timestamp": 37.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "28.0s - 34.0s",
+          "query": "**Visual:** The video shows two people in an outdoor setting. One person, wearing red shorts and no shirt, is standing and appears to be handling something on the ground. The other person, dressed in a beige shirt and blue pants, is sitting on a log near a fire. The background includes trees and some makeshift structures, possibly for shelter or storage. There are also some baskets and other items around.\n\n**Audio:** The audio features the sound of something sizzling and crackling, likely food being cooked over the fire. There are no distinct speech or music elements in this short segment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "34.0s - 40.0s",
+          "query": "**Visual:** The video shows a man in a forest setting. He's shirtless, wearing red shorts, and appears to be walking or moving through the trees. There are tall trees around him, and the ground is covered with greenery. The man seems to be in motion, possibly exploring or searching for something. The lighting suggests it might be daytime.\n\n**Audio:** There are no distinct sounds or speech in this segment. The audio is mostly silent, with only faint natural sounds like rustling leaves or birds chirping, which are common in a forest environment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "40.0s - 46.0s",
+          "query": "Visual: The video shows someone walking through a forested area with tall trees and greenery around. They seem to be carrying something on their back.\n\nAudio: There's some rustling noise, possibly from leaves or branches moving, along with footsteps. It seems like there might be a faint background sound too, maybe wind or birds chirping."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 288.1863315105438
+    },
+    {
+      "comment_index": 5404,
       "video_id": "wVgIt47LLMI",
       "comment": "5:55 if you turn on subtitles here it says theysee me rollin",
       "language": "en",
@@ -559,51 +529,81 @@
         {
           "segment_index": 1,
           "time_range": "346.0s - 352.0s",
-          "query": "VISUAL: There's an old bus on a hillside with some other dilapidated structures around it. The sky is dark and cloudy. There are also some bushes or plants at the bottom of the hill. The scene seems to be outdoors during dusk or early evening.AUDIO: You can hear wind blowing and thunder rumbling in the background. It gives off a stormy atmosphere.What do you think about this scene? Do you have any other videos you want me to analyze?"
+          "query": "Visually, there's an outdoor scene with some buildings or structures on a hillside. The sky is dark and cloudy, suggesting it might be evening or an impending storm. There aren't any visible people or distinct actions happening.\n\nIn terms of audio, I can hear wind blowing throughout those six seconds. It gives off a sense of being outdoors and possibly a bit breezy."
         },
         {
           "segment_index": 2,
           "time_range": "352.0s - 358.0s",
-          "query": "VISUAL: There's an outdoor scene with some kind of construction or industrial area on a hillside. You can see a few vehicles like buses and trucks parked there. There are also some tall structures that look like they might be part of a building under construction. The ground is covered with dry grass and dirt. A person wearing red walks across the scene from left to right.AUDIO: There's a sound effect that starts at about 1.9 seconds into the clip. It's not clear what it is specifically, but it could be something like a mechanical noise or a warning signal. Then there's a short piece of music starting around 5.8 seconds.If you have any thoughts or questions about this analysis, feel free to let me know!"
+          "query": "Visually, the video shows a cityscape with buildings and cranes. The sky is dark and cloudy, suggesting an impending storm. There are some trees and bushes in the foreground, and the overall color palette is muted with shades of brown and gray. There's no clear action or movement of people or objects in this short segment.\n\nIn terms of audio, there's a sound effect that resembles a loud bang or explosion, which could be a part of the storm or some other dramatic event. There's also a brief moment of what sounds like a person screaming or shouting, adding to the sense of urgency or alarm."
         },
         {
           "segment_index": 3,
           "time_range": "358.0s - 364.0s",
-          "query": "VISUAL: There's an outdoor scene with some people on a hillside near a building that looks like it might be under construction or abandoned. One person is riding a bike while others seem to be walking around or doing something nearby. The sky is cloudy and there are some trees or bushes in the background. The ground has patches of grass and dirt.AUDIO: I can't really tell much from just these six seconds. It seems like there might be some kind of engine noise or mechanical sounds, but not sure if it's related to the visuals or not.So, what do you think about this? Do you have any other videos for me to analyze?"
+          "query": "**Visual:** The scene shows an outdoor area with some old, dilapidated trailers or mobile homes on a grassy slope. There's dirt and some scattered debris around. A person is riding a bicycle through a tunnel-like structure made from a large pipe. Another individual appears to be walking or running nearby.\n\n**Audio:** The audio includes a sound effect that resembles a motorcycle engine starting up, followed by a short burst of music playing softly in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 322.8841030597687
+      "processing_time": 182.40842628479004
     },
     {
-      "comment_index": 4380,
+      "comment_index": 5405,
       "video_id": "wVgIt47LLMI",
-      "comment": "2:37 I’m dead after he turns around 🤣🤣🤣🤣🤣🤣🤣🤣",
+      "comment": "2:02  Captions: Munckin Tombstones  XD",
       "language": "en",
       "channel_name": "Corridor",
       "category": "making",
-      "likes": 9.0,
-      "comment_timestamp": 157.0,
+      "likes": 8.0,
+      "comment_timestamp": 122.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "148.0s - 154.0s",
-          "query": "VISUAL: There's a man sitting on a chair outdoors. He's shirtless, wearing red shorts and brown boots. In front of him is a wooden stump with a spiderweb-like structure on it. To his right, there's a basket labeled \"PARIS\" containing some items like a bottle and a yellow object. Another person in a blue shirt and jeans is standing behind him, holding a picture frame and placing it against a tree trunk. The background has greenery and a thatched roof structure.AUDIO: You can hear some kind of mechanism or device making clicking noises throughout the 6 seconds. It doesn't seem to be related to any spoken words or music.If you have any other thoughts about this video or want to discuss something else, feel free to let me know!"
+          "time_range": "113.0s - 119.0s",
+          "query": "**Visual:** The video shows a person in red shorts and a white shirt standing near a wooden structure that resembles a small, makeshift frame or frame-like object. The ground is dirt, and there's some greenery in the background. The person seems to be interacting with the structure, possibly pushing or pulling it. There are also some scattered pieces of wood or debris on the ground.\n\n**Audio:** The audio includes a man's voice shouting or yelling, and there are some impact sounds, like banging or thumping."
         },
         {
           "segment_index": 2,
-          "time_range": "154.0s - 160.0s",
-          "query": "VISUAL: There's a man sitting on a chair outdoors. He has no shirt on, wearing red shorts and brown boots. He's holding something in his hands that looks like it could be food or some kind of object. Another person is standing behind him, wearing a light blue t - shirt and jeans. There's also a basket with a sign that says \"PARTS\" next to him. The background seems to be a natural setting with trees and plants.AUDIO: I can't really tell what's being said because there's no speech. But there are some generic impact sounds throughout the 6 seconds. It might be from things being moved around or some kind of activity happening off - screen.What do you think about this scene? Do you have any other questions related to it?"
+          "time_range": "119.0s - 125.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 3.96 GiB. GPU 1 has a total capacity of 23.56 GiB of which 3.21 GiB is free. Including non-PyTorch memory, this process has 20.34 GiB memory in use. Of the allocated memory 16.12 GiB is allocated by PyTorch, and 3.91 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 3,
-          "time_range": "160.0s - 166.0s",
-          "query": "VISUAL: There's a man sitting on a stool outdoors, holding some cloth items. He has a red loincloth on. Another shirtless man stands behind him, wearing blue jeans with a picture frame attached to his waistband. The setting looks like a forest or jungle area with trees around. There's also a basket labeled \"PARIS\" nearby containing a stuffed animal. The ground is dirt. AUDIO: You can hear a sound effect that seems like a thud or smack. It's short and abrupt. What do you think about it?"
+          "time_range": "125.0s - 131.0s",
+          "query": "**Visual:** The video shows a man sitting outdoors in a natural setting. He's shirtless, wearing red shorts and boots. There's a basket labeled \"FARTS\" beside him, and he's holding a stick. The background has trees and some wooden structures. The man seems to be interacting with the stick, possibly in a playful or humorous way.\n\n**Audio:** There are no distinct sounds or speech in this segment. The audio is mostly silent, with only faint ambient noises of nature, like rustling leaves or distant bird sounds."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 355.79095101356506
+      "processing_time": 300.22200560569763
+    },
+    {
+      "comment_index": 5406,
+      "video_id": "wVgIt47LLMI",
+      "comment": "0:38  Those are the most fragile bamboo sticks i have ever seen😂great video though😃👌",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 8.0,
+      "comment_timestamp": 38.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "29.0s - 35.0s",
+          "query": "**Visual:** The video shows two men in a rustic outdoor setting. One man is shirtless, wearing red shorts, and appears to be walking or moving around. The other man is sitting on a log, wearing a cap, a light-colored shirt, and dark pants. There's a fire burning in the foreground, and the background includes trees and a makeshift wooden structure. Various objects like a pot, a container, and some tools are visible around the fire area.\n\n**Audio:** The audio includes the sound of water dripping and some faint, indistinct noises that could be related to the environment or the activities of the people in the scene."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "35.0s - 41.0s",
+          "query": "**Visual:** The scene shows two shirtless men working in an outdoor garden or farm setting. One man is bending over near some plants, possibly tending to them, while the other walks past him carrying something on his back. There's lush greenery around, with trees and various plants visible.\n\n**Audio:** The only audible element seems to be natural background noise like rustling leaves or perhaps distant bird calls, indicating it might be daytime outdoors. No distinct speech or music can be heard within these six seconds."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "41.0s - 47.0s",
+          "query": "**Visual:** The scene shows a person walking through a forested area with tall trees and greenery around. They appear to be holding something in their hands.\n\n**Audio:** There's some rustling noise, possibly from leaves or branches moving, along with faint impact sounds that could indicate footsteps or objects being handled."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 229.25271010398865
     }
   ]
 }

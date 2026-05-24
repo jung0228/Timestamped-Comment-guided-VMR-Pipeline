@@ -4,10 +4,9 @@
   "successful_comments": 20,
   "failed_comments": 0,
   "success_rate": "100.0%",
-  "processing_time": 5718.894079208374,
   "comments": [
     {
-      "comment_index": 3450,
+      "comment_index": 601,
       "video_id": "3mnSDifDSxQ",
       "comment": "7:44 Sounded like it could be a yo mama joke",
       "language": "en",
@@ -20,24 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "455.0s - 461.0s",
-          "query": "VISUAL: The video shows a starry sky with constellations at first. Then it transitions to an illustration comparing Rho Cassiopeiae to the Sun. There's a big, bright yellow star representing Rho Cassiopeiae on one side, and a smaller orange star labeled \"Sun\" on the other side. A diagram also shows how they compare in size.AUDIO: There is some narration about the mass and radius comparison between Rho Cassiopeiae and the Sun. It mentions that Rho Cassiopeiae has around 40 solar masses and is about 500 times the radius of Earth from the Sun.If you have any thoughts or questions about this analysis, feel free to share!"
+          "query": "Visually, the video shows a large, bright yellow star with a glowing aura, set against a dark blue background dotted with stars. There are also some smaller celestial objects, like a planet and a cube-like shape, labeled \"Rho Cassiopeiae\" and \"Sun.\" The overall scene gives a sense of space and astronomy.\n\nAudio-wise, there's a male voice speaking in English. He says, \"from Earth at 40 solar masses this star is around 500 times the radius.\" The tone is informative, likely explaining something about the star's size relative to the Sun."
         },
         {
           "segment_index": 2,
           "time_range": "461.0s - 467.0s",
-          "query": "VISUAL: The video shows two stars labeled \"Pistol Star\" and \"Rho Cassiopeiae.\" The Pistol Star is blue with some red elements, while Rho Cassiopeiae is bright yellow. There's also an Earth-like planet shown with a colorful surface. The background has a grid pattern and some small dots that look like stars.AUDIO: There's no clear speech or music in the audio. Just some kind of sound effect at the end, maybe a whoosh or something similar.What do you think about these two stars? Do you know anything else about them?"
+          "query": "Visually, the video shows a comparison between two celestial bodies. On the left, there's a blue sphere labeled \"Pistol Star\" with a smaller red sphere next to it. On the right, there's a larger, brighter yellow sphere labeled \"Rho Cassiopeiae.\" The background is a dark blue, suggesting a space setting. The objects are static, but there's a sense of scale and brightness difference between them. There's also a scene of Earth and the Moon in space, with Earth partially illuminated by the Sun. The colors are mainly blue, yellow, and white, with some red and black in the background.Audibly, there's a male voice speaking. The speech is in English and seems to be explaining something related to the celestial bodies shown in the video. The tone is informative."
         },
         {
           "segment_index": 3,
           "time_range": "467.0s - 473.0s",
-          "query": "VISUAL: There's an animated depiction of a planet, probably Earth, with a blue and orange color scheme. It has some red streaks coming off it. Then there's a bright yellow sun with white rings around it. The background is dark, like space, with small white dots that look like stars.AUDIO: A man is speaking over the visuals. He says something about being inside the Sun if you were as close to it as the planet is, which would be very dangerous.So, what do you think about this? Do you have any other questions related to the video?"
+          "query": "Visual: The video shows a large, bright yellow sphere, which is the Sun, and a smaller, dark sphere, which is Earth, moving towards each other. There are also some small, colorful particles or debris floating around. The background is a dark, starry space.\n\nAudio: There is a man speaking in the audio, but the content of what he says isn't clear from the description."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 278.9348907470703
+      "processing_time": 295.4921841621399
     },
     {
-      "comment_index": 3451,
+      "comment_index": 602,
       "video_id": "3mnSDifDSxQ",
       "comment": "10:17 - 10:36 shat my pants",
       "language": "en",
@@ -50,24 +49,54 @@
         {
           "segment_index": 1,
           "time_range": "608.0s - 614.0s",
-          "query": "VISUAL: The video shows an animated scene with a blue background filled with stars. There are glowing, wavy lines that seem to be some kind of energy or light trails. They have bright spots along them, like stars or lights. The overall look is very dreamy and magical.AUDIO: There's a man speaking over music playing in the background. It seems like he might be narrating something related to the visuals. But since there's no talking in the journey mentioned, it could also just be the music without any spoken words.If you want to talk more about this video or anything else, feel free to let me know!"
+          "query": "Visual: The video shows a series of abstract, flowing shapes in a dark blue background. These shapes are translucent and have a glowing effect, with some parts highlighted in bright colors like orange and yellow. There are also small, scattered light spots throughout the scene. The shapes seem to be moving and changing in form, creating a sense of fluid motion.\n\nAudio: The audio includes a musical track that plays continuously throughout the video. There are no distinct speech or sound effects, just the music."
         },
         {
           "segment_index": 2,
           "time_range": "614.0s - 620.0s",
-          "query": "VISUAL: The video shows an Earth model on a grid - like surface with some glowing elements around it. Then, a larger planet labeled \"Jupiter\" appears next to Earth. After that, a red star named \"Barnard's Star\" is shown near Jupiter. The background remains consistent throughout.AUDIO: There's a male voice speaking about how Earth is big and has many large things in it. The speech is accompanied by music playing in the background."
+          "query": "Visually, the video shows a globe labeled \"Earth\" on a blue grid background. There are also some red and orange circular shapes, possibly representing celestial bodies or other objects. The globe rotates slowly. The background is a solid blue color with a grid pattern. There are no people or other moving objects in the video.Audibly, there is a male voice speaking. The speech is in English and seems to be describing something related to the visuals, mentioning \"Earth\" and \"large things.\" There is also background music playing throughout the video."
         },
         {
           "segment_index": 3,
           "time_range": "620.0s - 626.0s",
-          "query": "VISUAL: The video shows an animated depiction of celestial bodies like Barnard's Star, Jupiter, Sirius A, and the Sun. There are also some abstract shapes and patterns around them. The background is blue with a grid pattern. The objects seem to be moving or rotating in space.AUDIO: There's music playing throughout the entire 6 seconds of the video. No specific speech or sound effects can be heard.Anything else you'd like to know about this video?"
+          "query": "**Visual:** The video shows a colorful, abstract scene with various celestial bodies labeled. There are large, glowing orbs representing planets or stars, with one labeled \"Barnard's Star\" and another \"Jupiter.\" The background is a grid-like pattern with a blue hue, and there are also some smaller, circular shapes and lines that seem to represent orbits or connections between the celestial bodies.\n\n**Audio:** The audio features music playing throughout the 6-second segment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 254.3720076084137
+      "processing_time": 263.33305835723877
     },
     {
-      "comment_index": 3452,
+      "comment_index": 603,
+      "video_id": "3mnSDifDSxQ",
+      "comment": "0:41 I feel targeted...",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 519.0,
+      "comment_timestamp": 41.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "32.0s - 38.0s",
+          "query": "Well, I'm not sure if there's actually any content to analyze here. It seems like it might be an empty or non-existent video segment. So, I can't really describe what's visually happening or what's being said in the audio. Maybe check again?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "38.0s - 44.0s",
+          "query": "Visually, the video shows a diagram comparing Jupiter, Earth, and a Brown Dwarf. The planets are depicted with their characteristic colors and features. There's a grid-like background. The Brown Dwarf is shown with a reddish-orange hue and some yellowish spots, while Jupiter is blue and orange with white clouds, and Earth is mostly blue with white clouds. There's no movement in the video, it's a static image.\n\nAudio-wise, there's a male voice speaking. The speech is in English and seems to be explaining something about the transition towards stars, mentioning brown dwarfs as failed stars."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "44.0s - 50.0s",
+          "query": "Visually, the video shows a comparison of celestial bodies. There are three main objects: a brown dwarf, Jupiter, and Earth. The brown dwarf is the largest, with a reddish-orange glow. Jupiter is next, with its characteristic blue and orange bands. Earth is the smallest, depicted in a more realistic color. The background is a dark blue with a grid pattern. The objects are arranged in a way that shows their relative sizes.\n\nAudio-wise, there is a male voice speaking. The speech is in English and seems to be explaining something about the celestial bodies shown in the video. The tone is informative."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 294.7760682106018
+    },
+    {
+      "comment_index": 604,
       "video_id": "3mnSDifDSxQ",
       "comment": "Can we just appreciate how WELL it is done?! They have even distinguished a star's atmosphere from it's surface, like in 4:00 for example",
       "language": "en",
@@ -80,24 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "231.0s - 237.0s",
-          "query": "VISUAL: The video shows two celestial bodies labeled \"Sun\" and \"Sirius A\". The Sun is depicted with an orange color and some dark spots on its surface. Sirius A has a bright yellow-orange glow around it. There's also a small red object near the Sun. The background is a dark purple grid pattern.AUDIO: There's a narration about the temperature of Sirius A being nearly 10， 000°C and how that makes it shine 25 times brighter than the Sun.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Sure! So, visually, there's an image showing two celestial bodies labeled \"Sun\" on one side and \"Sirius A\" on the other. The Sun is depicted with its surface temperature marked at nearly 10, 000°C. Sirius A looks like it has a bright yellow-orange glow. There aren't any people or movement shown in this static image.As for the audio, I didn't hear anything specific mentioned.Anything else you want to know about this?"
         },
         {
           "segment_index": 2,
           "time_range": "237.0s - 243.0s",
-          "query": "VISUAL: The video shows two celestial bodies labeled \"Sun\" and \"Sirius A\". The Sun is orange with some darker spots on it, while Sirius A is blueish - green with lighter patches. There's also a grid pattern in the background. The Sun has a lifespan of 10 billion years mentioned next to it, and Sirius A has a lifespan of 2.5 billion years next to it.AUDIO: There's a male voice speaking over the visuals. He says something about burning a heart reducing its total lifespan by four times to 2.5 billion years. It seems like he might be talking about Sirius A's lifespan being reduced due to some kind of burning or destruction.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, the video shows two celestial bodies labeled \"Sun\" and \"Sirius A\". The Sun is depicted as a bright orange sphere with darker spots, while Sirius A is a blue sphere with smaller, lighter blue spheres around it. There's a grid-like background in blue. The Sun and Sirius A seem to be in a static position relative to each other, with no visible movement or actions taking place.\n\nAudio-wise, there's a male voice speaking in English. The speech content is about the Sun's brightness and lifespan, mentioning that burning it reduces its total lifespan by four times. The tone of the voice is informative."
         },
         {
           "segment_index": 3,
           "time_range": "243.0s - 249.0s",
-          "query": "VISUAL: The video shows two celestial bodies side - by - side against a blue grid background. One is labeled \"Sun\" with an orange color and some surface details like spots or craters. The other is labeled \"Sirius A\" with a bluish - white color and also has surface features. Then it transitions to show another celestial body named \"β Centauri\", which is blue and has a lot of bright circular patterns on its surface.AUDIO: There's a male voice speaking about stars close to ten times the mass of our Sun having surface temperatures around 105 billion years. It seems like he's explaining something scientific related to these celestial objects.If you have any thoughts or questions about this analysis, feel free to share!"
+          "query": "Visually, the video shows two celestial bodies. On the left is a bright, orange sphere labeled \"Sun\" with a lifespan of 10 billion years. On the right is a larger, blue sphere labeled \"Sirius A\" with a lifespan of 8 billion years. The background is a dark blue with small white dots resembling stars. There's also a close-up of a blue sphere with a glowing surface, labeled \"8 Centauri\", with a lifespan of 0.5 billion years. The blue sphere has a textured surface with white and purple rings and dots, and there are small white dots around it, possibly representing stars or other celestial bodies. The overall color scheme is dominated by blues and oranges, with a sense of depth and space.\n\nAudio: There is a male voice speaking in English. The speech is clear and the tone is informative."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 381.66363883018494
+      "processing_time": 304.30226039886475
     },
     {
-      "comment_index": 3453,
+      "comment_index": 605,
       "video_id": "3mnSDifDSxQ",
       "comment": "1:20 Narrator: \"But we want to talk about stars, not failed wannabe stars\" Brown Dwarf: 😢",
       "language": "en",
@@ -110,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "71.0s - 77.0s",
-          "query": "VISUAL: The video shows an animation of deuterium fusion with red and yellow spheres representing atoms or molecules. There's also a depiction of a glowing brown dwarf against a starry background.AUDIO: A man is speaking about brown dwarfs being like glowy gas giants. He mentions that they slowly glow a little. It seems to be an explanatory narration related to astronomy.What do you think about these descriptions? Do you have any other questions regarding the video?"
+          "query": "Visually, the video shows a close-up of a small, glowing object labeled \"Deuterium Fusion.\" It's surrounded by a cluster of red and yellow spheres, possibly representing atoms or particles. The background is a warm, orange-yellow hue, giving a sense of heat or energy. There's no movement of the main object, just a static display of the fusion process.\n\nAudio-wise, there's a male voice speaking in English. He says, \"Slowly and the object glow a little so.\" The tone is neutral, and there are no other sounds or music in the audio."
         },
         {
           "segment_index": 2,
           "time_range": "77.0s - 83.0s",
-          "query": "VISUAL: There's an animated planet with red and orange stripes against a dark starry background. It has two eyes that blink. Then it starts to rotate, revealing its other side which is mostly yellow with some red and orange details. The rotation continues until we can't see any of the original face anymore.AUDIO: A man speaks about stars not fitting into categories very well. He seems to be talking about something related to astronomy or space exploration. There's no music or sound effects, just his voice. What do you think he might be referring to?"
+          "query": "Visually, the video shows a glowing, red planet with some orange and yellow streaks. It's set against a dark, starry background. There's a small, white, circular object moving around the planet. The planet seems to be rotating slowly. The colors are mainly red, orange, and yellow, with the dark background adding contrast.Audibly, there's a man speaking in a calm, steady voice. The speech is in English, but the content isn't clear from the description. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "83.0s - 89.0s",
-          "query": "VISUAL: There's an animated sun with a bright orange color and some darker spots on it. It has a glowing aura around it. The words \"MAIN SEQUENCE STARS\" appear over the sun.AUDIO: A man is speaking about \"failed wannabe stars\" and then mentions \"main sequence stars.\" There's also background music playing throughout the clip.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, the video shows a large, glowing orange sphere with the words \"MAIN SEQUENCE STARS\" prominently displayed in the center. The sphere has a textured, almost bubbly appearance, and there are smaller, similar orange shapes surrounding it. The background is a dark blue, resembling space, with a few faint stars visible. There are no people or actions depicted in the video. The overall color scheme is dominated by orange and blue."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 261.98434710502625
+      "processing_time": 255.0247449874878
     },
     {
-      "comment_index": 3454,
+      "comment_index": 606,
       "video_id": "3mnSDifDSxQ",
       "comment": "9:54 “Giving its  gas back to the galaxy” You know, I something of a star myself",
       "language": "en",
@@ -140,24 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "585.0s - 591.0s",
-          "query": "VISUAL: There's an animated sun-like object with bright orange and yellow flames and patterns on it. It's surrounded by a red background filled with various shapes like circles and ovals in different shades of red and orange. The whole scene has a glowing effect.AUDIO: A man is speaking about a \"hotter hypergiant phase\" and something about accumulating heavy elements in its core before. It seems to be some kind of scientific or educational narration.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, the video shows a bright, fiery red background with swirling patterns and a glowing, almost spherical object in the center. This object has a face-like appearance with eyes and a mouth, and it seems to be pulsating or changing in some way. There are also some smaller, star-like points of light scattered around.\n\nAudio-wise, there's a voiceover speaking in English. The speech is about a star going through a phase where it cools down and then moves into a hotter hypergiant phase, accumulating heavy elements in its core."
         },
         {
           "segment_index": 2,
           "time_range": "591.0s - 597.0s",
-          "query": "VISUAL: The video shows an explosion with bright orange and yellow flames shooting outwards against a red background. There are also some dark shapes that seem to be floating around. Then it transitions to a blue background where there's a white light source at the center surrounded by swirling patterns in blue and orange. The overall scene gives off a cosmic or space - like vibe.AUDIO: There is a male voice speaking about a core collapse supernova and how it gives its gas back to the galaxy. It seems to be explaining something scientific. What do you think about this kind of content? Do you have any other videos you want me to analyze?"
+          "query": "Visually, the video shows a bright, glowing object at the center, surrounded by a burst of light and energy. It looks like a star or a celestial body. There are also some dark, swirling patterns around it, possibly representing gas or dust. The colors are mainly bright yellows and oranges, with some reds and blues in the background. The movement is mainly the expansion and contraction of the light and energy around the central object.\n\nAudio - There's no distinct speech or music in the audio. The only sound is a soft, ambient noise, possibly representing the sound of the explosion or the energy being released."
         },
         {
           "segment_index": 3,
           "time_range": "597.0s - 603.0s",
-          "query": "VISUAL: There's an abstract, blue, amorphous shape with a yellow core that seems to be emitting some sort of energy or light. It has a wavy, flowing appearance. The background is dark blue with small white dots scattered around.AUDIO: A man is speaking about gas forming another generation of stars of all sizes. There's no other sound effect or music in the audio. So, what do you think about this? Do you have any other videos for me to analyze?"
+          "query": "Visually, the video shows a blue, amorphous shape with a yellow core that seems to be pulsating or moving. There are small white dots scattered around it, possibly representing stars or other celestial bodies. The background is a dark blue, giving the impression of space. The shape appears to be slowly expanding or contracting.\n\nAudio-wise, there's a male voice speaking in English. The speech is about gas forming another generation of stars of all sizes. The tone is informative and seems to be part of an educational or documentary-style narration."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 268.08081126213074
+      "processing_time": 279.7335810661316
     },
     {
-      "comment_index": 3455,
+      "comment_index": 607,
       "video_id": "3mnSDifDSxQ",
       "comment": "6:17 Gacrux: Now Sun won't be able to defeat me Sun: this is not even my final form",
       "language": "en",
@@ -170,24 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "368.0s - 374.0s",
-          "query": "VISUAL: There's an orange circular object with a star-like pattern in the center on a blue background. The object seems to be rotating slowly. It has some sort of flame or glowing effect around its edges.AUDIO: A man is speaking about \"layers swelling in a giant phase\" and how these stars become truly giant. There's no other sound except for his voice.If you have any thoughts or questions about this analysis, feel free to share!"
+          "query": "Visually, there's a large orange circle with a red border in the center of the frame. It has a pattern of smaller orange shapes inside it, radiating outward from the center. The background is a blue grid pattern. The circle seems to be the main focus, and there's no movement or change in the scene within this 6-second segment. There are no people or other objects present, just this central orange circle and the blue grid background."
         },
         {
           "segment_index": 2,
           "time_range": "374.0s - 380.0s",
-          "query": "VISUAL: There's an orange circular object with a pattern that looks like a sun or star. It has a glowing outer edge. Then it changes to red with some sort of rings inside. A blue sphere appears next to it.AUDIO: Someone is speaking about \"Gac rocks\" being only 30% more massive than the Sun. The speech is clear and informative.If you have any other questions about the video or want to discuss something else, feel free to let me know!"
+          "query": "Visual: The video shows an illustration of a red celestial body with a glowing orange halo around it. There's also a smaller blue object nearby. The background is a patterned blue surface.\n\nAudio: There seems to be some kind of narration or explanation playing over the visuals, possibly describing the celestial bodies shown."
         },
         {
           "segment_index": 3,
           "time_range": "380.0s - 386.0s",
-          "query": "VISUAL: There's an illustration of a red star labeled \"Gacrux\" with a lifespan of 10 million years. It has a glowing blue object near it that looks like the Sun. The red star is shown swelling, getting bigger and bigger. The background is a grid pattern on a blue surface.AUDIO: A man speaks about Gacrux having swollen to about 84 times its radius when the Sun enters the last stage. There's no other sound effect or music in the audio.If you have any more questions about this or want to discuss something else related to astronomy, feel free to let me know!"
+          "query": "Visually, there's a large red sphere with a glowing orange outline and some circular patterns on its surface. It's set against a blue grid-like background. There's also a smaller blue sphere with a glowing effect near the red one. The red sphere seems to be expanding or pulsating. The overall color scheme is mainly red, blue, and orange, with a lot of bright, glowing elements. There's no clear action or movement of people or objects, just the two spheres and the background. The scene gives off a somewhat abstract, almost otherworldly vibe.Audibly, there's a voiceover saying \"It has swollen to about 84 times its radius still when the Sun enters the last stage.\" The voice is calm and informative, likely explaining something scientific. There are no other sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 269.472026348114
+      "processing_time": 245.2193899154663
     },
     {
-      "comment_index": 3456,
+      "comment_index": 608,
       "video_id": "3mnSDifDSxQ",
       "comment": "1:37 \"we don't show the entire process here\" what? are you afraid people are gonna make illegal stars in their own backyard?",
       "language": "en",
@@ -200,24 +229,24 @@
         {
           "segment_index": 1,
           "time_range": "88.0s - 94.0s",
-          "query": "VISUAL: The video shows an orange sphere with \"MAIN SEQUENCE STARS\" written on it. Then there's a brown dwarf next to a cube labeled \"Brown Dwarf.\" The brown dwarf has a glowing core. There's also some kind of grid or pattern in the background.AUDIO: A man is speaking about large gas balls passing a certain mass threshold and their cores becoming hot. He seems to be explaining something scientific.If you want to talk more about this video or have other questions, feel free to let me know."
+          "query": "Visually, the video shows a large gas ball, which is likely a brown dwarf, and a cube-like structure. The gas ball is glowing with a reddish-orange hue, and the cube is a solid blue color. There's also a background that seems to be a grid or pattern, possibly representing space. The gas ball is positioned near the cube, and there's some kind of interaction or movement between them, like the gas ball might be approaching or interacting with the cube.\n\nAudio - There's a male voice speaking in the background. The speech is in English and seems to be explaining something related to the video content, possibly about the gas ball and the cube. The tone is informative."
         },
         {
           "segment_index": 2,
           "time_range": "94.0s - 100.0s",
-          "query": "VISUAL: The video shows an illustration of a brown dwarf with a glowing core. There's also a cube-like structure next to it. Then there's a scene with colorful spheres floating around, some red, yellow, and purple. A cluster of these spheres is highlighted in the center, labeled \"Proton-Proton Chain.\" The background is bright yellow.AUDIO: Someone is speaking about hydrogen being fused to helium in cores that are dense enough to ignite. It seems like they're explaining something scientific. There are no other distinct sounds or music.If you want to talk more about this video or have any other questions, feel free to let me know!"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.87 GiB is free. Including non-PyTorch memory, this process has 15.68 GiB memory in use. Of the allocated memory 13.59 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 3,
           "time_range": "100.0s - 106.0s",
-          "query": "VISUAL: The video shows an animated depiction of a star undergoing some kind of energy release process. There's a cross - section view with arrows indicating the direction of energy flow. The background is a grid pattern. The color scheme includes orange, yellow, and red tones.AUDIO: A male voice speaks about stars releasing tremendous amounts of energy and mentions that those doing so are called main sequence stars. There are no other sound effects or music in the audio. So, what do you think about this? Any thoughts on the star's energy release?"
+          "query": "Visual: The video shows a bright, glowing object that resembles a star. It has a yellowish-orange core with a red outer layer. There are lines radiating outward from the core, suggesting energy being emitted. The background is a deep blue with a grid-like pattern. The object seems to be rotating slowly, giving a sense of movement. The overall color scheme is dominated by warm tones like yellow and orange against the cool blue background. There are no people or other objects in the video, just this star-like object and the background. Audio: The audio consists of a male voice speaking. The speech is in English and says, \"releasing tremendous amounts of energy stars that do that are called main sequence stars.\" The tone of the voice is neutral, and there are no other sounds or music in the audio."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 301.7941756248474
+      "processing_time": 283.1087508201599
     },
     {
-      "comment_index": 3457,
+      "comment_index": 609,
       "video_id": "3mnSDifDSxQ",
       "comment": "0:44 \"Failed stars that are a huge disappointment to their mums\" Great...now I'm relating to a star",
       "language": "en",
@@ -230,54 +259,54 @@
         {
           "segment_index": 1,
           "time_range": "35.0s - 41.0s",
-          "query": "VISUAL: There's an animated scene with two planets. One planet is mostly red with blue and orange stripes, and it has some circular patterns on its surface. The other planet is brownish-red with yellowish-orange spots. They seem to be interacting or moving towards each other. The background is a purple grid pattern.AUDIO: A man speaks over the visuals. He says \"Just much much less of it.\" Then he continues with \"The transition towards stars begins with brown.\" It seems like he might be explaining something related to astronomy or space science.If you have any thoughts about this analysis or want to discuss more about the video, feel free to share!"
+          "query": "Visually, there's a large, colorful object that looks like a stylized planet or a ball with red, blue, and yellow stripes. It rotates slowly against a purple background with a grid pattern. There's also a small, yellow, star-like object near the bottom left corner of the frame. The overall scene is simple and somewhat abstract.\n\nAudio - There's a male voice speaking in English. The speech is clear and seems to be part of a conversation or narration. The tone is neutral, not overly emotional."
         },
         {
           "segment_index": 2,
           "time_range": "41.0s - 47.0s",
-          "query": "VISUAL: The video shows three celestial bodies labeled \"Brown Dwarf\", \"Jupiter\", and \"Earth\". They're on a purple grid background. The Brown Dwarf is larger than Jupiter and Earth, with a reddish-orange color and some glowing spots. Jupiter has blue and orange stripes. Earth is smaller and mostly red. There's also a cube-like object that appears later.AUDIO: A man speaks about dwarfs being failed stars and a huge disappointment to their mums. He mentions they have between 30 and something else, but it's cut off.So, what do you think about these celestial objects? Do you find them interesting?"
+          "query": "Well, I'm not sure if there's anything specific to describe about the visual or audio here. It seems like it might be missing some details? Maybe you could give me more information so we can talk about it further?"
         },
         {
           "segment_index": 3,
           "time_range": "47.0s - 53.0s",
-          "query": "VISUAL: The video shows an illustration of planets on a purple grid background. There's Jupiter with its characteristic stripes, Earth, and a brown dwarf. Then it transitions to a space scene with multiple colorful planets floating around. One planet has rings like Saturn. The colors are mainly reds, blues, and purples.AUDIO: A man is speaking about mass comparisons involving Jupiter and other celestial bodies. He mentions \"times the mass of Jupiter\" and \"threw them at each other.\" It seems he's explaining something scientific related to planetary masses.So, what do you think about these kinds of scientific illustrations? Do they help you understand complex concepts better?"
+          "query": "Visually, the video shows a 3D rendering of celestial bodies. There are three main objects: a large brown dwarf, a smaller planet resembling Jupiter, and a cube-like object. The background is a starry space scene. The objects are moving slightly, giving a sense of rotation or floating in space. The colors are primarily shades of blue, red, and brown, with a grid pattern on the floor.\n\nAudio-wise, there is a male voice speaking. The speech is in English and seems to be explaining something related to the celestial bodies shown in the video. The tone is informative."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 370.67463088035583
+      "processing_time": 271.48909306526184
     },
     {
-      "comment_index": 3458,
+      "comment_index": 610,
       "video_id": "3mnSDifDSxQ",
       "comment": "0:14 Earth 0:23 Jupiter 0:41 Brown Dwarf 1:27 Main Sequence Stars 2:22 Red Dwarf 3:10 Sun 3:47 Sirius A 4:02 B Centauri 4:40 R136a1 5:54 Red Giants 6:14 Gamma Crucis (Gacrux) 6:43 Hypergiants 7:07 Pistol Star 7:25 Rho Cassiopeiae 8:49 Stephenson 2-18 10:13 Size Comparison",
       "language": "en",
       "channel_name": "Kurzgesagt",
       "category": "knowledge",
       "likes": 254.0,
-      "comment_timestamp": 227.0,
+      "comment_timestamp": 190.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "218.0s - 224.0s",
-          "query": "VISUAL: There's an animated blue sphere with various circular patterns on it. It seems to be floating against a dark background filled with small white dots that look like stars. The sphere is glowing and has some sort of energy or movement around it.AUDIO: A man is speaking about how small changes in mass can produce enormous changes in a main - sequence star's brightness. There's no other sound effect or music in the audio.What do you think about this? Do you have any other videos you want me to analyze?"
+          "time_range": "181.0s - 187.0s",
+          "query": "Visually, the video shows a star system with a bright star labeled \"Sun\" and a smaller, dimmer star labeled \"Barnard's Star.\" There are also some purple nebulae and other stars in the background. The colors are mainly dark blue for the space background, with the stars appearing in shades of white, red, and purple. The movement is mainly the stars and nebulae appearing to orbit around the Sun and Barnard's Star.\n\nAudio - There is a voiceover in the audio, explaining that Barnard's Star shines too dimly to be seen without a telescope. The speaker also mentions that they made a whole video on red dwarfs if you want to learn more."
         },
         {
           "segment_index": 2,
-          "time_range": "224.0s - 230.0s",
-          "query": "VISUAL: The video shows two celestial bodies, one labeled \"Sun\" which is orange with some darker spots on its surface, and another labeled \"Sirius A\" which is blueish - white. They're both surrounded by small cubes and bubbles. There's also a red sphere near the Sun. The background has a grid pattern and some stars.The AUDIO: There's a male voice speaking about Sirius being the brightest star in the night sky, having two solar masses and a radius of 1.7 times something, though it's not clear what that 'something' is from just the audio. It seems like he might be explaining some astronomical facts.If you have any other thoughts or questions about this video, feel free to share!"
+          "time_range": "187.0s - 193.0s",
+          "query": "Visually, the video shows a vibrant, abstract scene with a mix of red, orange, and yellow colors. There are circular shapes and patterns that seem to be moving or pulsating. The overall effect is quite dynamic and energetic.\n\nAudio-wise, there is a male voice speaking in English. The speech is clear and seems to be explaining something, possibly related to the visuals. There are no other distinct sounds or music in the audio."
         },
         {
           "segment_index": 3,
-          "time_range": "230.0s - 236.0s",
-          "query": "VISUAL: The video shows two celestial bodies labeled \"Sun\" and \"Sirius A\". The Sun is depicted with an orange color and some dark spots on its surface. Sirius A has a blueish - white appearance with bubbles or rings around it. There are also small cubes near them. The background is a dark purple grid pattern.AUDIO: There's a male voice speaking about Sirius A being 20 times the size of the Sun and having a surface temperature of nearly 10, 000 degrees Celsius, making it shine brightly.If you have any other thoughts or questions about this video, feel free to share!"
+          "time_range": "193.0s - 199.0s",
+          "query": "Visually, there's an orange sphere with some darker patches on it, surrounded by a glowing aura against a dark blue background filled with small white dots resembling stars. There aren't any people or specific actions depicted.\n\nAudio-wise, I can't really tell much from just these six seconds since no distinct speech, music, or sound effects are audible. It seems like there might be nothing happening acoustically during this short clip."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 297.6303436756134
+      "processing_time": 222.15857553482056
     },
     {
-      "comment_index": 3459,
+      "comment_index": 611,
       "video_id": "3mnSDifDSxQ",
       "comment": "Friend: what planet or a star in the universe are you?  Me: 0:40",
       "language": "en",
@@ -290,24 +319,24 @@
         {
           "segment_index": 1,
           "time_range": "31.0s - 37.0s",
-          "query": "VISUAL: The video shows an illustration of Jupiter and Earth on a purple grid background. Jupiter is much larger than Earth, with colorful stripes. There's also a small cube labeled \"m\" near Earth. The camera zooms in on Jupiter, then it splits into two halves to show its internal structure, revealing hydrogen gas, H₂, inside.AUDIO: A man speaks about Jupiter being more massive than Earth and made of similar stuff to the Sun, just less so.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a large, colorful sphere labeled \"Jupiter\" with various patterns on it. There's also an Earth-like object nearby, smaller than Jupiter, with some details like landmasses visible. The background is a purple grid pattern.\n\n**Audio:** There seems to be no distinct audio mentioned here, so I can't describe any specific sounds or speech."
         },
         {
           "segment_index": 2,
           "time_range": "37.0s - 43.0s",
-          "query": "VISUAL: There's an illustration of a planet with red, blue, and orange stripes on it. Then another object appears next to it - a brownish-red sphere labeled \"Brown Dwarf.\" Below that is a small blue dot labeled \"Earth.\" The background is purple with a grid pattern.AUDIO: A man speaks about the transition towards stars starting with brown dwarfs, which are failed stars. He mentions they're not quite stars yet.So, what do you think about these celestial objects? Do you have any other questions related to them?"
+          "query": "Well, in the video, visually, there are these three spheres. One is labeled \"Jupiter\", another \"Brown Dwarf\", and the third \"Earth\". They're all on a blue background with a sort of grid pattern. The spheres are mostly red and blue with some orange and yellow. There's also a small yellow sphere near Jupiter. The movement is just the spheres rotating slowly.An audio-wise, there's a man speaking. He's talking about the transition towards stars, mentioning brown dwarfs, which are failed stars. The speech is clear and informative. There's no music or sound effects, just the man's voice."
         },
         {
           "segment_index": 3,
           "time_range": "43.0s - 49.0s",
-          "query": "VISUAL: The video shows an illustration comparing Jupiter, Earth, and a Brown Dwarf. There's a large brown dwarf with orange and red patterns on it, next to a smaller blue planet labeled Earth and a medium - sized planet with stripes labeled Jupiter. A cube is also shown near these celestial bodies.AUDIO: Someone says \"huge disappointment their mums they have between 13 and 90 times the mass of jupiter.\" It seems like there might be some kind of narration or explanation about these objects. What do you think about this? Do you want to discuss more about the video?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.86 GiB is free. Including non-PyTorch memory, this process has 15.69 GiB memory in use. Of the allocated memory 13.60 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 262.23342394828796
+      "processing_time": 260.61467695236206
     },
     {
-      "comment_index": 3460,
+      "comment_index": 612,
       "video_id": "3mnSDifDSxQ",
       "comment": "0:42 hey! He's doing his best ok. Never stop smiling brown dwarf. Dont listen to the mean old kurzgesagt. Your giant interstellar cloud mom is very proud of you.",
       "language": "en",
@@ -320,24 +349,24 @@
         {
           "segment_index": 1,
           "time_range": "33.0s - 39.0s",
-          "query": "VISUAL: There's an animated planet with colorful stripes on it. It has some small circular features too. A small object is also visible near the bottom left corner. The background is purple with a grid pattern.AUDIO: Someone is speaking about something related to the sun and less of its stuff. There's no music or other sound effects. Just that speech. So, what do you think about this? Do you have any questions?"
+          "query": "Visually, the video shows a colorful, abstract heart shape rotating against a blue grid background. The heart has horizontal stripes in various colors like red, blue, and yellow. There's also a small, yellow, star-like object near the bottom left corner of the frame.\n\nAudio-wise, there's a male voice speaking in English. The speech is clear and seems to be explaining something, but without more context, it's hard to determine the exact topic. The tone is neutral, not overly emotional."
         },
         {
           "segment_index": 2,
           "time_range": "39.0s - 45.0s",
-          "query": "VISUAL: The video shows three spheres against a purple background with a grid pattern. One sphere is labeled \"Jupiter\" and has blue and orange stripes. Another is labeled \"Earth\" and is smaller than Jupiter. The third one is labeled \"Brown Dwarf\" and is larger than Earth, with a reddish-brown color and some yellow spots. There's also a small blue dot near Earth.AUDIO: A man speaks about brown dwarfs being failed stars that disappoint their mothers. It seems like he's explaining something related to astronomy or space science.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, the video shows a blue background with three celestial bodies labeled. There's a brown dwarf, Jupiter, and Earth. The brown dwarf is larger and has a reddish-orange glow, while Jupiter and Earth are smaller, with Jupiter having blue and orange stripes. The Earth is shown in a more realistic color. There's no movement or action in the video, just these three objects against the blue backdrop.\n\nAudio - There's a male voice speaking in English. The speech is about brown dwarfs being failed stars, describing them as a \"huge disappointment.\" The tone seems somewhat disappointed or matter - of - fact."
         },
         {
           "segment_index": 3,
           "time_range": "45.0s - 51.0s",
-          "query": "VISUAL: The video shows an illustration comparing Jupiter, Earth, and a Brown Dwarf. There's also a cube with some symbols on it. The planets have different colors and patterns. The background is dark blue with a grid pattern.AUDIO: A man is speaking about the mass of these celestial bodies compared to Jupiter. He mentions that they range from 13 to 90 times Jupiter's mass.So, what do you think about this comparison? Do you want to know more about any specific planet or object?"
+          "query": "**Visual:** The video shows a 3D rendering of celestial bodies. There are three main objects: a large, orange and red planet labeled \"Jupiter,\" a smaller, blue and orange planet labeled \"Earth,\" and a larger, brownish object labeled \"Brown Dwarf.\" The background is a dark blue grid pattern, giving a space-like feel. The objects are stationary, and there's no visible movement or action.\n\n**Audio:** The audio consists of a male voice speaking. The speech is in English and discusses the masses of celestial bodies, mentioning that they have between 13 and 90 times the mass of Jupiter. The tone is informative and educational."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 250.44133234024048
+      "processing_time": 284.0274591445923
     },
     {
-      "comment_index": 3461,
+      "comment_index": 613,
       "video_id": "3mnSDifDSxQ",
       "comment": "kurzgesagt: we are about to release our newest video on stars- brown dwarfs: exists  kurzgesagt: note taken  1:10",
       "language": "en",
@@ -350,24 +379,24 @@
         {
           "segment_index": 1,
           "time_range": "61.0s - 67.0s",
-          "query": "VISUAL: There's an illustration of a brown dwarf on the left side with a glowing orange surface and some red patterns. Next to it is a cube labeled \"m\" that seems to be absorbing or interacting with the brown dwarf. The background has a grid pattern. Then there's a scene showing two spheres colliding against an orange backdrop filled with small yellow dots.AUDIO: A man speaks about how something doesn't make things much bigger but increases density inside, which in turn raises pressure.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Sure! So, for the visual part, it looks like there's an orange sphere labeled \"Brown Dwarf\" next to a blue cube with some symbols on it. The background has a grid pattern. Then, the scene changes to show the same orange sphere now glowing brighter and more intense, almost like it's being cut open or something. There are also small yellow dots floating around.For the audio part, I can't really tell much because it doesn't say anything.Does that help? Let me know if you want me to clarify anything!"
         },
         {
           "segment_index": 2,
           "time_range": "67.0s - 73.0s",
-          "query": "VISUAL: The video shows some red spheres moving around on an orange background. There's also a yellow sphere with a label \"p+\" and another one labeled \"D\". Then there's a reaction where two red spheres collide to form a new object labeled \"He\" in the center. The background is filled with more red and yellow spheres moving about.AUDIO: There's no distinct speech or music in the audio. Just some kind of ambient noise that could be from the movement of the spheres or other mechanical sounds.If you have any other questions about this video or anything else, feel free to let me know!"
+          "query": "Visually, the video shows a bright orange background filled with red and yellow spheres. There's a central area with a white circle and a yellow sphere labeled \"He\". The spheres seem to be moving around in a somewhat chaotic manner. There are no people or other objects in the video. The colors are mainly orange, red, and yellow, with the white and yellow in the center standing out. The movement of the spheres gives a sense of energy and activity.Audibly, there is a male voice speaking in English. The speech is clear and the voice seems calm. There are no other sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "73.0s - 79.0s",
-          "query": "VISUAL: There's an orange background with red and yellow spheres floating around. In the center, there's a cluster of spheres labeled \"Deuterium Fusion\" and \"He\". Then it transitions to a glowing red planet-like object with orange stripes against a dark starry background.AUDIO: A man is speaking about brown dwarfs being a sort of glowy gas giant that don't fit into any category.Anything else you noticed or want to ask about?"
+          "query": "Visually, the video shows a glowing, orange-red sphere with a central core emitting light. There are also some smaller, similar-looking spheres in the background. The overall color scheme is dominated by warm tones like orange and red, with a dark backdrop that makes the glowing spheres stand out. The movement seems to be a slow, almost pulsating glow from the central core of the main sphere.\n\nIn terms of audio, there is a male voice speaking. The speech is clear and seems to be explaining something, possibly related to the visual content. The tone is informative, and there are no other sound effects or music in the audio."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 266.0412504673004
+      "processing_time": 191.13761067390442
     },
     {
-      "comment_index": 3462,
+      "comment_index": 614,
       "video_id": "3mnSDifDSxQ",
       "comment": "7:45 I like how he says “you” instead of “we” like the Kurzgesagt studio isn’t even on earth. wait, is he trying to tell us something?",
       "language": "en",
@@ -380,114 +409,24 @@
         {
           "segment_index": 1,
           "time_range": "456.0s - 462.0s",
-          "query": "VISUAL: There's an illustration of a star labeled \"Rho Cassiopeiae\" next to a larger depiction of it. The star is bright yellow with some orange and white spots on its surface. There's also a comparison diagram showing Rho Cassiopeiae relative to the Sun. The background has a blue grid pattern.AUDIO: A man speaks about the star being around 500 times the radius of the Sun at 40 solar masses. It seems like he might be explaining something scientific related to stars. So, what do you think about this star? Do you know any other interesting stars?"
+          "query": "Visually, the video shows a large, bright yellow star dominating the frame. There's also a smaller, reddish-orange sphere labeled \"Sun\" and a blue cube labeled \"Rho Cassiopeiae.\" The background is a dark blue with a subtle pattern. The star seems to be glowing intensely, with some light effects around it.\n\nAudio-wise, there's a male voice speaking. He says, \"at 40 solar masses this star is around 500 times the radius of the Sun.\""
         },
         {
           "segment_index": 2,
           "time_range": "462.0s - 468.0s",
-          "query": "VISUAL: The video shows two celestial bodies labeled \"Pistol Star\" and \"Rho Cassiopeiae.\" The Pistol Star is blue with some white spots and a small red object nearby. Rho Cassiopeiae is much larger, yellowish - orange, and has a brightness level of 500, 000 times that of the Sun. There's also an Earth-like planet shown with a crescent shape, and it seems to be orbiting around something. The background is dark blue with a grid pattern.AUDIO: There's a male voice speaking about how bright Rho Cassiopeiae would be if the Earth were closer to it. He mentions it being 500, 000 times brighter than its current brightness.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, the video shows a bright, glowing celestial body labeled \"Rho Cassiopeiae\" and a smaller, blue object labeled \"Pistol Star.\" There are also some smaller, red and orange particles or debris floating around. The background is a dark blue, dotted with small white stars. The overall scene gives a sense of space and the vastness of the universe.\n\nAudio-wise, there is a male voice speaking. The speech is in English and seems to be explaining something related to the celestial bodies shown in the video."
         },
         {
           "segment_index": 3,
           "time_range": "468.0s - 474.0s",
-          "query": "VISUAL: There's an image of a planet with a blue and red surface, surrounded by colorful streaks that look like comets or meteors. It moves closer to a bright yellow sun. The sun is very large and dominates the scene. The background is dark, suggesting space.AUDIO: A man speaks over the visuals, saying \"to the Sun it'd be incinerated and you would be very dead.\" There's also some music playing in the background.What do you think about this video? Do you have any other questions related to it?"
+          "query": "Visually, the video shows a bright, glowing sphere that resembles the Sun. There are also some smaller, colorful objects that seem to be moving around it. The overall color scheme is dominated by yellow and orange tones, giving it a warm, intense look. The movement is quite dynamic, with the smaller objects appearing to orbit or interact with the larger sphere.\n\nAudio-wise, there's a man speaking in the background. His voice is clear and he seems to be explaining something, possibly related to the visuals. The speech is the main audio element, and there are no other distinct sound effects or music."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 323.3962051868439
+      "processing_time": 297.25812435150146
     },
     {
-      "comment_index": 3463,
-      "video_id": "3mnSDifDSxQ",
-      "comment": "0:40 YouTube: why are you reporting this? Me: I’m in this and I don’t like it",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 119.0,
-      "comment_timestamp": 40.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "31.0s - 37.0s",
-          "query": "VISUAL: The video shows an illustration of Jupiter and Earth on a purple grid background. Jupiter is much larger than Earth, with colorful stripes. There's also a small cube labeled \"m\" near Earth. The camera zooms in on Jupiter, then it splits into two halves to show its internal structure, revealing hydrogen gas, H₂, inside.AUDIO: A man speaks about Jupiter being more massive than Earth and made of similar stuff to the Sun, just less so.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "37.0s - 43.0s",
-          "query": "VISUAL: There's an illustration of a planet with red, blue, and orange stripes on it. Then another object appears next to it - a brownish-red sphere labeled \"Brown Dwarf.\" Below that is a small blue dot labeled \"Earth.\" The background is purple with a grid pattern.AUDIO: A man speaks about the transition towards stars starting with brown dwarfs, which are failed stars. He mentions they're not quite stars yet.So, what do you think about these celestial objects? Do you have any other questions related to them?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "43.0s - 49.0s",
-          "query": "VISUAL: The video shows an illustration comparing Jupiter, Earth, and a Brown Dwarf. There's a large brown dwarf with orange and red patterns on it, next to a smaller blue planet labeled Earth and a medium - sized planet with stripes labeled Jupiter. A cube is also shown near these celestial bodies.AUDIO: Someone says \"huge disappointment their mums they have between 13 and 90 times the mass of jupiter.\" It seems like there might be some kind of narration or explanation about these objects. What do you think about this? Do you want to discuss more about the video?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 284.63114309310913
-    },
-    {
-      "comment_index": 3464,
-      "video_id": "3mnSDifDSxQ",
-      "comment": "0:44 the brown star being a huge disappointment. Me: same",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 116.0,
-      "comment_timestamp": 44.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "35.0s - 41.0s",
-          "query": "VISUAL: There's an animated scene with two planets. One planet is mostly red with blue and orange stripes, and it has some circular patterns on its surface. The other planet is brownish-red with yellowish-orange spots. They seem to be interacting or moving towards each other. The background is a purple grid pattern.AUDIO: A man speaks over the visuals. He says \"Just much much less of it.\" Then he continues with \"The transition towards stars begins with brown.\" It seems like he might be explaining something related to astronomy or space science.If you have any thoughts about this analysis or want to discuss more about the video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "41.0s - 47.0s",
-          "query": "VISUAL: The video shows three celestial bodies labeled \"Brown Dwarf\", \"Jupiter\", and \"Earth\". They're on a purple grid background. The Brown Dwarf is larger than Jupiter and Earth, with a reddish-orange color and some glowing spots. Jupiter has blue and orange stripes. Earth is smaller and mostly red. There's also a cube-like object that appears later.AUDIO: A man speaks about dwarfs being failed stars and a huge disappointment to their mums. He mentions they have between 30 and something else, but it's cut off.So, what do you think about these celestial objects? Do you find them interesting?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "47.0s - 53.0s",
-          "query": "VISUAL: The video shows an illustration of planets on a purple grid background. There's Jupiter with its characteristic stripes, Earth, and a brown dwarf. Then it transitions to a space scene with multiple colorful planets floating around. One planet has rings like Saturn. The colors are mainly reds, blues, and purples.AUDIO: A man is speaking about mass comparisons involving Jupiter and other celestial bodies. He mentions \"times the mass of Jupiter\" and \"threw them at each other.\" It seems he's explaining something scientific related to planetary masses.So, what do you think about these kinds of scientific illustrations? Do they help you understand complex concepts better?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 355.65960144996643
-    },
-    {
-      "comment_index": 3465,
-      "video_id": "3mnSDifDSxQ",
-      "comment": "9:54 : On a stargazing date  Her: \"Ew wtf is that smell?\"  Me: \"I'm giving my gas back to the galaxy\"",
-      "language": "en",
-      "channel_name": "Kurzgesagt",
-      "category": "knowledge",
-      "likes": 107.0,
-      "comment_timestamp": 594.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "585.0s - 591.0s",
-          "query": "VISUAL: There's an animated sun-like object with bright orange and yellow flames and patterns on it. It's surrounded by a red background filled with various shapes like circles and ovals in different shades of red and orange. The whole scene has a glowing effect.AUDIO: A man is speaking about a \"hotter hypergiant phase\" and something about accumulating heavy elements in its core before. It seems to be some kind of scientific or educational narration.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "591.0s - 597.0s",
-          "query": "VISUAL: The video shows an explosion with bright orange and yellow flames shooting outwards against a red background. There are also some dark shapes that seem to be floating around. Then it transitions to a blue background where there's a white light source at the center surrounded by swirling patterns in blue and orange. The overall scene gives off a cosmic or space - like vibe.AUDIO: There is a male voice speaking about a core collapse supernova and how it gives its gas back to the galaxy. It seems to be explaining something scientific. What do you think about this kind of content? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "597.0s - 603.0s",
-          "query": "VISUAL: There's an abstract, blue, amorphous shape with a yellow core that seems to be emitting some sort of energy or light. It has a wavy, flowing appearance. The background is dark blue with small white dots scattered around.AUDIO: A man is speaking about gas forming another generation of stars of all sizes. There's no other sound effect or music in the audio. So, what do you think about this? Do you have any other videos for me to analyze?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 283.24911975860596
-    },
-    {
-      "comment_index": 3466,
+      "comment_index": 615,
       "video_id": "3mnSDifDSxQ",
       "comment": "10:13 \"The universe is big; there are many large things in it.\" Cue ominous Latin(?) chanting  This last bit sums up the whole video... in a nutshell. It's both humbling and epic at the same time.",
       "language": "en",
@@ -500,111 +439,171 @@
         {
           "segment_index": 1,
           "time_range": "604.0s - 610.0s",
-          "query": "VISUAL: There's an abstract, flowing blue shape with a bright yellow center that seems to be glowing. It has a wavy form and is surrounded by small white dots. The background is dark blue, like space, with some stars and other similar shapes floating around.AUDIO: There's a voiceover saying \"of birth and death again to light up our universe let's make this journey.\" The tone is calm and reflective.So, what do you think about this video? Do you have any other questions or thoughts on it?"
+          "query": "Visually, the video shows a blue, snake-like creature with a glowing yellow head. It's moving through a starry, dark space. There are also some small, colorful stars and light effects around it. The creature seems to be the main focus, and it's moving in a winding, flowing manner.Audibly, there's a voiceover in the background. The voice is calm and measured, and it seems to be guiding or narrating the journey of the creature. The voice is the only sound in the audio part."
         },
         {
           "segment_index": 2,
           "time_range": "610.0s - 616.0s",
-          "query": "VISUAL: The video shows an animated scene with a blue background filled with glowing stars and sparkles. There are also some abstract shapes that look like flowing water or clouds. It has a magical, dreamy feel.AUDIO: There's a man speaking over a musical background. The speech is about the universe being big and there being many things in it. The music seems to be calm and atmospheric.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "Visual: The video shows a blue, wavy, abstract shape with some orange and white highlights. It seems to be floating or moving in a dark background. There are also some small, bright spots scattered around, possibly stars or lights. The overall look is somewhat ethereal and otherworldly.\n\nAudio: There is no speech in this segment. The audio consists of music playing in the background."
         },
         {
           "segment_index": 3,
           "time_range": "616.0s - 622.0s",
-          "query": "VISUAL: The video shows a small Earth model next to a larger Jupiter model on a blue grid background. Then, a big orange star labeled \"Barnard's Star\" appears, with the Earth and Jupiter models moving closer to it. The colors are mainly blue for the grid, red and yellow for Barnard's Star, and various colors for the Earth and Jupiter models.AUDIO: There is no speech or sound effects in the audio. Just some music playing throughout the 6 seconds.If you have any other questions about this video or anything else, feel free to let me know!"
+          "query": "Visually, there's an image showing Earth and Jupiter with some colorful patterns on them. The background is blue with a grid-like pattern. There aren't any moving objects or people in it. Audio - It seems like there might be some kind of narration or explanation happening over the visuals, but I can't really make out specific words from just these six seconds."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 257.5693690776825
+      "processing_time": 201.19003176689148
     },
     {
-      "comment_index": 3467,
+      "comment_index": 616,
       "video_id": "3mnSDifDSxQ",
-      "comment": "0:42 \"failed stars that are disappointments to their mothers.\"  Sounds much like me",
+      "comment": "6:27 When the loser protagonist reveals his true power to his bullies.",
       "language": "en",
       "channel_name": "Kurzgesagt",
       "category": "knowledge",
-      "likes": 83.0,
-      "comment_timestamp": 42.0,
+      "likes": 69.0,
+      "comment_timestamp": 387.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "33.0s - 39.0s",
-          "query": "VISUAL: There's an animated planet with colorful stripes on it. It has some small circular features too. A small object is also visible near the bottom left corner. The background is purple with a grid pattern.AUDIO: Someone is speaking about something related to the sun and less of its stuff. There's no music or other sound effects. Just that speech. So, what do you think about this? Do you have any questions?"
+          "time_range": "378.0s - 384.0s",
+          "query": "Visually, the video shows a large, red, glowing celestial body, which seems to be a star. It has a bright, fiery appearance with a blue, glowing object nearby. The background is a grid-like pattern in shades of blue. The red star appears to be expanding or pulsating, giving off a sense of movement and energy. The blue object seems to be interacting with the star, possibly orbiting or being affected by its glow.\n\nAudio-wise, there is a male voice speaking in English. The speech is clear and seems to be providing information about the celestial bodies shown in the video. The tone is informative, likely explaining the characteristics or phenomena related to the star and the blue object."
         },
         {
           "segment_index": 2,
-          "time_range": "39.0s - 45.0s",
-          "query": "VISUAL: The video shows three spheres against a purple background with a grid pattern. One sphere is labeled \"Jupiter\" and has blue and orange stripes. Another is labeled \"Earth\" and is smaller than Jupiter. The third one is labeled \"Brown Dwarf\" and is larger than Earth, with a reddish-brown color and some yellow spots. There's also a small blue dot near Earth.AUDIO: A man speaks about brown dwarfs being failed stars that disappoint their mothers. It seems like he's explaining something related to astronomy or space science.If you have any other thoughts or questions about this video, feel free to share!"
+          "time_range": "384.0s - 390.0s",
+          "query": "**Visual:** The video shows a stylized, animated depiction of celestial bodies. There are spheres with various colors and patterns, including a large blue sphere with white rings and a smaller orange sphere. The background is a grid-like pattern in shades of blue. The spheres seem to be floating and moving slightly.\n\n**Audio:** There is a male voice speaking in English. The speech is about the Sun entering the last stage of its life and swelling to become even bigger."
         },
         {
           "segment_index": 3,
-          "time_range": "45.0s - 51.0s",
-          "query": "VISUAL: The video shows an illustration comparing Jupiter, Earth, and a Brown Dwarf. There's also a cube with some symbols on it. The planets have different colors and patterns. The background is dark blue with a grid pattern.AUDIO: A man is speaking about the mass of these celestial bodies compared to Jupiter. He mentions that they range from 13 to 90 times Jupiter's mass.So, what do you think about this comparison? Do you want to know more about any specific planet or object?"
+          "time_range": "390.0s - 396.0s",
+          "query": "Visually, the video shows two celestial bodies, one orange and one blue, colliding against a blue grid-like background. The orange one has a bright, glowing surface with darker patches, while the blue one has a more solid, less reflective appearance. They seem to be in a collision or interaction phase, with some sort of energy or force between them. There are no people or other objects in the scene, just these two celestial bodies and the background.\n\nAudio - There is no speech or music in the audio. The only sound is a continuous, low-pitched, somewhat eerie hum or drone that plays throughout the 6 seconds."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 256.7100074291229
+      "processing_time": 308.67960119247437
     },
     {
-      "comment_index": 3468,
+      "comment_index": 617,
       "video_id": "3mnSDifDSxQ",
-      "comment": "0:41  \"What's the problem?\" I'm in this picture and I don't like it.",
+      "comment": "0:01, that would imo be the most satisfying live wallpaper/background ever.",
       "language": "en",
       "channel_name": "Kurzgesagt",
       "category": "knowledge",
-      "likes": 77.0,
-      "comment_timestamp": 41.0,
+      "likes": 68.0,
+      "comment_timestamp": 1.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "32.0s - 38.0s",
-          "query": "VISUAL: There's an animated planet with colorful stripes on it. It rotates slowly against a purple grid - like background. A small figure is also visible near the bottom left corner.AUDIO: Someone is speaking about something being made of similar stuff to our Sun but much less of it. The tone seems informative. What do you think about this? Do you have any other questions related to this?"
+          "time_range": "0.0s - 0.0s",
+          "query": "Inference error: 'video_fps'"
         },
         {
           "segment_index": 2,
-          "time_range": "38.0s - 44.0s",
-          "query": "VISUAL: There's an animation showing three celestial bodies on a blue grid background. One is labeled \"Jupiter\", another \"Brown Dwarf\", and the smallest one \"Earth\". The Brown Dwarf has a glowing orange color with some darker patches. The other two have more colorful patterns.JUST A MINUTE! If you want to know more about these celestial bodies or anything else related, feel free to ask."
+          "time_range": "0.0s - 4.0s",
+          "query": "Visually, the video shows a dark, starry sky with swirling blue and green nebula-like formations. There are also some small, bright orange and yellow stars scattered around. The overall scene has a cosmic, dreamy feel to it.\n\nAudio - There's a man speaking in the background, but the content of his speech isn't clear from this short segment."
         },
         {
           "segment_index": 3,
-          "time_range": "44.0s - 50.0s",
-          "query": "VISUAL: The video shows an illustration comparing Jupiter, Earth, and a Brown Dwarf. There's also a cube with some symbols on it. The planets are labeled clearly. The background is purple with a grid pattern.AUDIO: A man speaks about the mass of these celestial bodies, mentioning they have between 13 and 90 times the mass of Jupiter.So, what do you think about this comparison? Do you find it interesting?"
+          "time_range": "4.0s - 10.0s",
+          "query": "Visually, the video shows a dark blue background with swirling, cloud-like shapes. There are bright, glowing spots scattered throughout, resembling stars. The overall scene has a cosmic, starry feel to it.Audibly, there's a voiceover that says \"and why is it that large and what are stars anyway things that would be.\" The voice is calm and informative, likely explaining something about stars."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 198.22103595733643
+      "processing_time": 262.09676337242126
     },
     {
-      "comment_index": 3469,
+      "comment_index": 618,
       "video_id": "3mnSDifDSxQ",
-      "comment": "9:54 ''giving its gas back to the galaxy'' me whenever I eat taco bell.",
+      "comment": "\"The size of the ball is how bad 2020 will be\"  January 1, 2020: Oh it can't be that ba- 10:14",
       "language": "en",
       "channel_name": "Kurzgesagt",
       "category": "knowledge",
-      "likes": 70.0,
-      "comment_timestamp": 594.0,
+      "likes": 66.0,
+      "comment_timestamp": 614.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "585.0s - 591.0s",
-          "query": "VISUAL: There's an animated sun-like object with bright orange and yellow flames and patterns on it. It's surrounded by a red background filled with various shapes like circles and ovals in different shades of red and orange. The whole scene has a glowing effect.AUDIO: A man is speaking about a \"hotter hypergiant phase\" and something about accumulating heavy elements in its core before. It seems to be some kind of scientific or educational narration.If you have any other thoughts or questions about this video, feel free to share!"
+          "time_range": "605.0s - 611.0s",
+          "query": "Visually, the video shows a blue, wavy, snake - like shape with a glowing orange center. It's set against a dark blue background with small, twinkling stars. There are also some other similar shapes in the background, but they're less prominent. The movement is smooth and flowing, like the shape is swimming or floating.\n\nAudio - wise, there's a male voice speaking. The speech is in English and seems to be part of a larger narrative or explanation. The tone is calm and measured. There's no background music or sound effects, just the man's voice."
         },
         {
           "segment_index": 2,
-          "time_range": "591.0s - 597.0s",
-          "query": "VISUAL: The video shows an explosion with bright orange and yellow flames shooting outwards against a red background. There are also some dark shapes that seem to be floating around. Then it transitions to a blue background where there's a white light source at the center surrounded by swirling patterns in blue and orange. The overall scene gives off a cosmic or space - like vibe.AUDIO: There is a male voice speaking about a core collapse supernova and how it gives its gas back to the galaxy. It seems to be explaining something scientific. What do you think about this kind of content? Do you have any other videos you want me to analyze?"
+          "time_range": "611.0s - 617.0s",
+          "query": "Visually, the video shows a blue background with some abstract shapes and sparkles. There's a globe labeled \"Earth\" in the center. The globe has different colors representing continents and oceans. The overall scene seems to be related to space or astronomy.\n\nAudio - There's no speech or music in the audio. Just some ambient sounds, possibly of a quiet environment."
         },
         {
           "segment_index": 3,
-          "time_range": "597.0s - 603.0s",
-          "query": "VISUAL: There's an abstract, blue, amorphous shape with a yellow core that seems to be emitting some sort of energy or light. It has a wavy, flowing appearance. The background is dark blue with small white dots scattered around.AUDIO: A man is speaking about gas forming another generation of stars of all sizes. There's no other sound effect or music in the audio. So, what do you think about this? Do you have any other videos for me to analyze?"
+          "time_range": "617.0s - 623.0s",
+          "query": "Visually, the video shows a colorful, abstract representation of celestial bodies. There are large, rounded shapes with vibrant colors like orange, red, and blue, and they seem to be floating or moving against a dark, grid-like background. The shapes have a somewhat organic, almost liquid appearance. There are also labels on some of the shapes, such as \"Jupiter\" and \"Earth.\" The overall look is quite artistic and otherworldly.\n\nIn terms of audio, there is music playing throughout the video. The music has a somewhat dramatic or epic feel to it, with a steady rhythm and possibly some orchestral elements. There are no spoken words or other distinct sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 269.07793641090393
+      "processing_time": 297.2961354255676
+    },
+    {
+      "comment_index": 619,
+      "video_id": "3mnSDifDSxQ",
+      "comment": "8:47 Is the largest star we know Some star at the other end of the universe: Hold my beer",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 62.0,
+      "comment_timestamp": 527.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "518.0s - 524.0s",
+          "query": "Visual: The video shows an animated scene with a blue bird-like character and a red and orange object resembling a virus or cell on a computer screen. There are also some other objects like a ruler and a jar with a label. The background is dark with some glowing elements. The bird-like character seems to be interacting with the objects on the screen.\n\nAudio: There is a male voice speaking in English. The speech is about how certain parts make things harder to measure as science progresses and instruments improve."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "524.0s - 530.0s",
+          "query": "Visually, there are two cartoonish birds in a futuristic setting. One bird is blue and the other is yellow. They're interacting with a large computer screen that displays a glowing, abstract orange and red shape. The background has a dark blue color with some circuit-like patterns. There are also some smaller objects and lights around, giving it a high-tech feel. The birds seem to be focused on the screen, possibly manipulating or observing something on it.Audibly, there's a male voice speaking in English. The speech is clear and seems to be explaining or narrating something related to the visuals."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "530.0s - 536.0s",
+          "query": "I'm sorry, I can't analyze videos directly. But if you describe the video to me, I'd be happy to help!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 202.5168616771698
+    },
+    {
+      "comment_index": 620,
+      "video_id": "3mnSDifDSxQ",
+      "comment": "0:14 Well, it's true planets would like to be stars, they just don't have enough material.",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 62.0,
+      "comment_timestamp": 14.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "5.0s - 11.0s",
+          "query": "Visually, the video shows a dark, starry night sky with swirling blue and green clouds. There are small, bright, star-like lights scattered throughout the scene. The overall color scheme is dark with pops of blue and green. There's no movement of people or objects, just the static display of the sky and clouds.Audibly, there's a voiceover saying \"and what are stars anyway things that would like to be stars.\" The voice is calm and neutral, and there are no other sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "11.0s - 17.0s",
+          "query": "Visually, the video shows a colorful globe spinning against a dark, starry background. The globe has different colored continents and oceans. There's no movement of people or other objects in the scene. The colors are bright and varied, with blues, greens, yellows, and reds. The globe rotates slowly, giving a sense of its size and shape.\n\nAudio - There's a male voice speaking in English. The speech is clear and calm. The content of the speech is about starting a journey with Earth, not to learn anything, just to get a vague sense of scale."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "17.0s - 23.0s",
+          "query": "Visually, the video shows a colorful, abstract scene. There are large, wavy shapes in various colors like blue, red, and orange. The background is dark, making the colors of the shapes stand out. There's also a small, round object that resembles a planet or a ball with a blue and orange pattern. The shapes seem to be moving or shifting in some way.\n\nAudio - There's a male voice speaking in English. The speech is clear and seems to be explaining something. The tone is informative."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 250.29028034210205
     }
   ]
 }

@@ -1,0 +1,609 @@
+{
+  "video_id": "IMxciOsAoPY",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 15019,
+      "video_id": "IMxciOsAoPY",
+      "comment": "8:07 \"I make a living hurting your feelings\" lol",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 142.0,
+      "comment_timestamp": 487.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "478.0s - 484.0s",
+          "query": "Visually, there's a man sitting at a desk with various items on it like papers, a calculator, and some books. Behind him are shelves filled with more books, a football helmet, and other objects. The background has wooden paneling and a large letter \"R\" on the wall.\n\nAudio-wise, he seems to be speaking into a headset microphone, likely talking about something related to planning or following plans for adults versus children. There doesn't seem to be any music or sound effects, just his voice."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "484.0s - 490.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 6.32 GiB is free. Including non-PyTorch memory, this process has 17.23 GiB memory in use. Of the allocated memory 16.77 GiB is allocated by PyTorch, and 149.20 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "490.0s - 496.0s",
+          "query": "Visual: A man is sitting at a desk with various items like papers, a calculator, and a pen on it. He's wearing headphones and appears to be speaking into a microphone. Behind him, there are shelves filled with books, a football helmet, and other objects. The background includes a large letter \"R\" on the wall.\n\nAudio: Someone is speaking, saying \"I don't give a crap about your feelings.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 432.7916810512543
+    },
+    {
+      "comment_index": 15020,
+      "video_id": "IMxciOsAoPY",
+      "comment": "Tonya Henry not a call/video but an article he read during a podcast a few days ago. Go to the 3 hour stream video from 03-03-17 and skip to 7:22 enjoy, I surely did 😂😂",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 20.0,
+      "comment_timestamp": 442.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "433.0s - 439.0s",
+          "query": "Visually, there's a man sitting at a desk with various items around him like books on shelves, a football helmet, and some papers on the table. The background has wooden paneling and a large letter \"R\" on the wall. There's also a TV screen showing something blue.\n\nAudibly, someone is speaking, saying things like \"we're broke because we don't have any money.\" It seems to be a straightforward statement without much additional context or emotion from the speaker."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "439.0s - 445.0s",
+          "query": "Visual: A man is sitting at a desk with various items on it like papers, a calculator, and some books. He's wearing headphones and seems to be speaking or reacting to something. There are shelves behind him filled with books, a football helmet, and other objects.\n\nAudio: The main audio features someone saying \"but it's all gone we don't have any money\" in a somewhat sad or resigned tone."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "445.0s - 451.0s",
+          "query": "Visually, there's a man sitting at a desk with various items on it like papers, a calculator, and some pens. He has headphones on and is gesturing with his hands while speaking. Behind him, shelves hold books, a football helmet, and other objects. The background includes a large letter \"R\" on the wall.\n\nAudio-wise, he's talking about money and Congress, mentioning that they can't just print money. His tone seems somewhat frustrated or emphatic. There's no background music or sound effects, just his voice."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 234.80900192260742
+    },
+    {
+      "comment_index": 15021,
+      "video_id": "IMxciOsAoPY",
+      "comment": "5:00.  Going out to eat is bad enough but now a lot of folks have dinner delivered by Uber Eats or Doordash.   Too expensive!!!!!",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 14.0,
+      "comment_timestamp": 300.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "291.0s - 297.0s",
+          "query": "Visual: A man is sitting at a desk with his arms crossed. He's wearing headphones and there are various items on the desk like papers, a calculator, and some pens. Behind him, shelves hold books, a football helmet, and other objects. The background has wooden paneling.\n\nAudio: Someone is speaking, saying \"not making decisions because we're operating on about a four-year-old level meaning we im\". It seems to be a continuous speech without any noticeable pauses or changes in tone."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "297.0s - 303.0s",
+          "query": "Visually, there's a man sitting at a desk with his arms crossed. He has headphones on and is looking towards something off-camera to his left. The desk has some papers, a calculator, and other small items scattered around. Behind him, shelves hold books, a football helmet, and other objects. There s also a large letter \"R\" on the wall next to wooden paneling.\n\nIn terms of audio, it seems like he might be speaking or reacting to something, but without more context from the full video, I can't say for sure if it's speech or just some kind of noise."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "303.0s - 309.0s",
+          "query": "**Visual:** A man is sitting at a desk with his arms crossed. He's wearing a headset. There are shelves behind him filled with various items like books, a football helmet, and other objects. The room has wooden paneling on one side and a large screen or monitor to the left. On the desk, there are papers, a calculator, and some other small items.\n\n**Audio:** Someone is speaking, saying \"eat we gotta go out to eat cuz I'm tired I work hard.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 268.27383947372437
+    },
+    {
+      "comment_index": 15022,
+      "video_id": "IMxciOsAoPY",
+      "comment": "Lmao call the whaambulance 5:20-5:30 😂",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 6.0,
+      "comment_timestamp": 325.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "316.0s - 322.0s",
+          "query": "Visual: There's a man sitting at a desk with his arms crossed. He has on a headset. The background shows shelves filled with books, a football helmet, and other items. On the desk, there are papers, a calculator, and some other small objects. The setting looks like an office or studio.\n\nAudio: A male voice is speaking, saying \"you'd be around the hospital some of you we all work hard when.\" It seems to be a casual conversation or narration."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "322.0s - 328.0s",
+          "query": "Visual: A man is sitting at a desk with his arms crossed. He's wearing headphones and there are various items on the desk like papers, a calculator, and some pens. Behind him, shelves hold books, a football helmet, and other objects. The background has wooden paneling and a large letter \"R\" on the wall.\n\nAudio: Someone is speaking, saying \"you poor little thing cuz let me tell you what\". It seems to be a casual or conversational tone."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "328.0s - 334.0s",
+          "query": "Visually, there's a man sitting at a desk with his arms crossed. He has on a headset and is speaking into it. The background shows shelves filled with books, a football helmet, and some other items. There s also a large letter \"R\" on the wall to his right. On the desk, there are papers, a calculator, and a pen.\n\nIn terms of audio, someone is speaking, saying something about age and income, but I can't make out all the details clearly. It seems like they're talking about being 26 years old and making $30, 000 a year."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 256.48083758354187
+    },
+    {
+      "comment_index": 15023,
+      "video_id": "IMxciOsAoPY",
+      "comment": "7:34-7:39.; In other words, \"Live within your means.\".",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 5.0,
+      "comment_timestamp": 456.5,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "447.5s - 453.5s",
+          "query": "Visual: A man is sitting at a desk with various items on it like papers, a calculator, and a pen. He's wearing headphones and has his arms crossed over his chest. Behind him, there are shelves filled with books, a football helmet, and other objects. The background includes a large letter \"R\" on the wall.\n\nAudio: Someone is speaking, saying \"money not in Congress you can't just print it in the basement.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "453.5s - 459.5s",
+          "query": "Visually, there's a man sitting at a desk with various items on it like papers, a calculator, and some pens. He has headphones on and is gesturing with his hands while speaking. Behind him, shelves hold books, a football helmet, and other objects. The background also features a large letter \"R\" on the wall. There s a TV screen to his left showing something blue.On the audio side, he's talking about living below one's means, having plans, and being intentional. It seems like motivational or financial advice. What do you think about that?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "459.5s - 465.5s",
+          "query": "**Visual:** The scene shows a man sitting at a desk in an office-like setting. He's wearing headphones with a microphone attached to them. There are shelves behind him filled with various items like books, a football helmet, and other objects. On his desk, there are papers, a glass of water, and some electronic devices.\n\n**Audio:** A male voice is speaking about making $30, 000 or $130, 000 a year and saving money."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 425.62809586524963
+    },
+    {
+      "comment_index": 15024,
+      "video_id": "IMxciOsAoPY",
+      "comment": "If you are replaying 0:49 yes he did say LEASE a dog.",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 5.0,
+      "comment_timestamp": 49.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "40.0s - 46.0s",
+          "query": "Visual: A man is sitting at a desk with various items on it like papers, a calculator, and some books. He's wearing headphones and seems to be speaking into a microphone. There are shelves behind him filled with books, a football helmet, and other objects. The room has wooden paneling.\n\nAudio: Someone is speaking, but the content isn't clear from just these six seconds. It could be a conversation or an announcement."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "46.0s - 52.0s",
+          "query": "Sure! So, for the visual part:.There's someone sitting at a desk with headphones on. The desk has some papers, a calculator, and other stuff like that. Behind them, there are shelves filled with books, a football helmet, and more items. There s also a big \"R\" on the wall to their right.For the audio part:.The person is speaking into a microphone, probably talking about something related to the objects around them.Does that help? Let me know if you want to dive deeper into any part!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "52.0s - 58.0s",
+          "query": "Visually, there's an older man sitting at a desk with headphones on. He has some papers, a calculator, and other items like a TV screen showing blue light behind him. There s also a shelf with books and a football helmet nearby. The background includes wooden paneling and a large letter \"R\" on the wall.\n\nAudio-wise, he seems to be speaking about making $90, 000 a year. It sounds like he might be discussing financial matters or income-related topics."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 210.87174654006958
+    },
+    {
+      "comment_index": 15025,
+      "video_id": "IMxciOsAoPY",
+      "comment": "5:26 I feel personally attacked",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 5.0,
+      "comment_timestamp": 326.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "317.0s - 323.0s",
+          "query": "Visually, there's someone sitting at a desk with various items like papers, a calculator, and a pen on it. There are shelves behind them filled with books, a football helmet, and other objects. The person is wearing headphones and seems to be speaking or presenting something. The background has a large \"R\" logo on the wall.\n\nIn terms of audio, I can hear someone talking, likely the person at the desk. It sounds like they're discussing work-related things based on their tone and the context of the setting."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "323.0s - 329.0s",
+          "query": "Visual: A man is sitting at a desk with his arms crossed. He's wearing headphones and appears to be speaking into a microphone. There are shelves behind him filled with various items like books, a football helmet, and other objects. The desk has some papers, a calculator, and a pen on it.\n\nAudio: Someone is speaking, saying \"you poor thing cuz let me tell you what that going out to eat looks.\" It seems like they're talking about something related to dining out."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "329.0s - 335.0s",
+          "query": "Oh, okay. So, visually, there's someone sitting at a desk with their arms crossed. They're wearing headphones and seem to be talking or presenting something. The background has shelves filled with books, a football helmet, and some other items. There s also a large letter \"R\" on the wall. On the desk, there are papers, a calculator, and a glass with a drink.Now for the audio—there's just one person speaking, and they re saying something about age and income. It seems like they might be discussing financial advice or something similar.What do you think? Any thoughts on that?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 282.44365406036377
+    },
+    {
+      "comment_index": 15026,
+      "video_id": "IMxciOsAoPY",
+      "comment": "9:33 ITS TIME TO STOP",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 4.0,
+      "comment_timestamp": 573.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "564.0s - 570.0s",
+          "query": "Visually, there's someone sitting at a desk with various items like papers, a glass, and some electronic devices on it. The background has shelves filled with books, helmets, and other objects. There s also a large letter \"R\" on the wall. The person is wearing headphones and seems to be talking or presenting something.\n\nAudio-wise, I can hear a man speaking, likely narrating or explaining something related to the visuals. It doesn t seem like there are any other distinct sounds besides his voice."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "570.0s - 576.0s",
+          "query": "Visually, there's a man sitting at a desk in a studio setting. He has headphones on and is gesturing with his hand while speaking. The background includes shelves with books and some decorative items. There s also a large screen to his left displaying \"SEY SHOOW\". On the desk, there are papers, a glass, and other small objects.\n\nIn terms of audio, it seems like he's talking about something related to results and stopping normal stuff. It sounds like a serious or informative tone."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "576.0s - 582.0s",
+          "query": "**Visual:** The video shows a man sitting at a desk in a studio setting. He's wearing headphones and appears to be speaking or presenting something. There are shelves with various items behind him, including books and decorative objects. A large screen on his left displays \"Dave Ramsey Show\" along with some additional text about streaming times.\n\n**Audio:** The main audio features a man talking, likely introducing or promoting the Dave Ramsey Show. The background includes soft music and occasional sound effects like applause or cheering from an unseen audience."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 290.8983988761902
+    },
+    {
+      "comment_index": 15027,
+      "video_id": "IMxciOsAoPY",
+      "comment": "@5:50 clearly you've never been to a walmart in nj or pa...the things you will see...lol",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 4.0,
+      "comment_timestamp": 350.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "341.0s - 347.0s",
+          "query": "Visual: A man is sitting at a desk with his arms crossed. He's wearing headphones and there are shelves behind him filled with various items like books, a football helmet, and other objects. The desk has papers, a calculator, and some other small items on it.\n\nAudio: Someone is speaking, saying \"you can't afford you bebop your butt down to the pet store and buy something you can't afford.\" It seems like they're talking about not being able to afford something, possibly related to pets or animals."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "347.0s - 353.0s",
+          "query": "Visually, there's someone sitting at a desk with various items like papers, a calculator, and some books around. There are shelves behind them filled with more books and other objects. The person is wearing headphones and seems to be speaking or reacting to something. The background has a large \"R\" on it.\n\nIn terms of audio, I can hear someone talking about going to Walmart for entertainment. It sounds like they're explaining or commenting on something related to that."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "353.0s - 359.0s",
+          "query": "Visual: A man is sitting at a desk with his arms crossed. He's wearing headphones and there are shelves behind him filled with various items like books, a football helmet, and other objects. The desk has some papers, a calculator, and a pen on it.\n\nAudio: There's someone speaking, but I can't make out the exact words from just these six seconds. It seems to be a normal conversation or monologue without any background music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 187.79447150230408
+    },
+    {
+      "comment_index": 15028,
+      "video_id": "IMxciOsAoPY",
+      "comment": "5:57-6:03.; Dave Ramsey channeling his inner Jeff Foxworthy, I see...",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 3.0,
+      "comment_timestamp": 360.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "351.0s - 357.0s",
+          "query": "Visual: A man is sitting at a desk with his arms crossed. He's wearing headphones and there are shelves behind him filled with various items like books, a football helmet, and other objects. The desk has some papers, a calculator, and a pen on it.\n\nAudio: Someone is speaking angrily, saying \"Walmart give me a break.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "357.0s - 363.0s",
+          "query": "Visual: A man is sitting at a desk with his arms crossed. He's wearing headphones and there are shelves behind him filled with various items like books, a football helmet, and other objects. There's also a large letter \"R\" on the wall to his right. The desk has some papers, a calculator, and a pen on it.\n\nAudio: Someone is speaking, but without more details about the content or tone, I can't give specifics."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "363.0s - 369.0s",
+          "query": "Visually, there's a man sitting at a desk with his arms crossed. He has headphones on and is speaking into a microphone. The background shows shelves filled with books, a football helmet, and other items. There s also a large letter \"R\" on the wall behind him. On the desk, there are papers, a calculator, and some other small objects.\n\nIn terms of audio, it seems like he's talking about payments coming out, possibly in a financial or business context. It doesn t seem to be music or any other sound effects. Just his voice and the background noise from the room."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 229.28903651237488
+    },
+    {
+      "comment_index": 15029,
+      "video_id": "IMxciOsAoPY",
+      "comment": "4:29 \"I'm a cuss word in some of y'all's houses.\"  😆",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 2.0,
+      "comment_timestamp": 269.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "260.0s - 266.0s",
+          "query": "**Visual:** A man is sitting at a desk in a studio setting. He's wearing headphones and appears to be speaking or presenting something. There are shelves behind him with various items like books, a football helmet, and other objects. The desk has some papers, a calculator, and a glass with a drink on it.\n\n**Audio:** Someone is speaking, saying \"your mama loves that car I'll just tell.\" It seems like casual conversation or commentary."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "266.0s - 272.0s",
+          "query": "Visually, there's a man sitting at a desk with headphones on. He has some papers, a pen, and other items like a glass and a cup on the desk. There are shelves behind him filled with books, a football helmet, and other objects. The background includes wooden panels and a large letter \"R\" on the wall. The scene is indoors, likely a studio or office setting.Audibly, someone is speaking, saying something about a story being repeated over the last twenty-five years and mentioning a cuss word in some houses. It seems to be a conversation or interview type of situation."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "272.0s - 278.0s",
+          "query": "Visually, there's a man sitting at a desk with various items on it like papers, a calculator, and some pens. He has headphones on and is speaking into a microphone. There are shelves behind him filled with books, a football helmet, and other objects. The background includes a large \"R\" logo on the wall and a TV screen to his left. The color scheme seems mostly neutral with some wood tones.\n\nIn terms of audio, he's talking about having a gift for everyone. His voice is clear and steady, suggesting he might be hosting or presenting something. There doesn't seem to be any music or sound effects, just his speech."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 261.3941557407379
+    },
+    {
+      "comment_index": 15030,
+      "video_id": "IMxciOsAoPY",
+      "comment": "Casey Schoch there are days that I don’t work until 1pm and those days I sleep late so that I only eat one big meal around 4:30 👍🏻",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 2.0,
+      "comment_timestamp": 270.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "261.0s - 267.0s",
+          "query": "Visually, there's a man sitting at a desk with various items on it like papers, a calculator, and some pens. He has headphones on and is speaking into a microphone. Behind him, shelves hold books, a football helmet, and other objects. The background includes a large \"R\" logo on the wall.\n\nIn terms of audio, someone is speaking, likely the same person at the desk. There doesn't seem to be any background music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "267.0s - 273.0s",
+          "query": "Visually, there's a man sitting at a desk with headphones on. He has some papers, a pen, and other items like a calculator and a glass of water on his desk. Behind him, shelves hold books, a football helmet, and some framed pictures. The background includes wooden panels and a large letter \"R\" on the wall. There s also a TV screen to his left.\n\nIn terms of audio, it seems like he might be speaking or narrating something, though I can t make out specific words from just that short clip. It doesn t seem like there s any music or sound effects. What do you think about the setting?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "273.0s - 279.0s",
+          "query": "Visual: A man is sitting at a desk with various items on it like papers, a pen, and some electronic devices. He's wearing headphones and appears to be speaking or communicating through them. There are shelves behind him filled with books, a football helmet, and other objects. The background includes a large letter \"R\" on the wall.\n\nAudio: Someone is speaking, saying \"that's fine I've got it I'm okay.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 231.58365774154663
+    },
+    {
+      "comment_index": 15031,
+      "video_id": "IMxciOsAoPY",
+      "comment": "4:00 I don't know about that. I made about $85K gross and I bought a \"used car\" that ran me $184K out the door. I did pay cash and I am debt free. Don't spend money you don't have.",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 1.0,
+      "comment_timestamp": 240.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "231.0s - 237.0s",
+          "query": "**Visual:** The scene shows an older man sitting at a desk in what appears to be a studio or office setting. He's wearing headphones and speaking into a microphone. There are shelves behind him with various items like books, a football helmet, and other objects. On his desk, there are papers, a calculator, and some other small items.\n\n**Audio:** The main audio is someone talking about \"getting in front of it\" and looking at one's situation before making decisions. It seems to be a motivational or instructional type of speech."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "237.0s - 243.0s",
+          "query": "Visual: A man is sitting at a desk in a studio setting. He's wearing headphones and appears to be speaking or presenting something. There are shelves behind him with various items like books, a football helmet, and other objects. The desk has papers, a calculator, and some other small items on it.\n\nAudio: Someone is speaking, likely the same person seen visually. The speech seems to be related to making decisions, mentioning \"decision\" multiple times."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "243.0s - 249.0s",
+          "query": "**Visual:** A man is sitting at a desk in an office-like setting. He's wearing headphones and appears to be speaking or presenting something. The background includes shelves with books, a football helmet, and other items. There's also a large letter \"R\" on the wall behind him.\n\n**Audio:** Someone is speaking, saying \"$85,000 a year is stupid whether you paid cash.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 210.88871026039124
+    },
+    {
+      "comment_index": 15032,
+      "video_id": "IMxciOsAoPY",
+      "comment": "1:56 answers many peoples  situations.  Try 21,000/yr. I sure wish you'd do a show on fixed income. I want a show on that!!!!",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 1.0,
+      "comment_timestamp": 116.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "107.0s - 113.0s",
+          "query": "Visually, there's a man sitting at a desk with headphones on. He has some papers, a calculator, and other items like a cup and a pen on the desk. Behind him, shelves have books, a football helmet, and more objects. The background includes a large \"R\" logo on the wall and a blue screen to his left.\n\nIn terms of audio, it seems like someone is speaking about income, kids, and healthcare. But without hearing the exact words, I can't give a detailed transcription."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "113.0s - 119.0s",
+          "query": "Visual: A man is sitting at a desk with various items on it like papers, a calculator, and a pen. He's wearing headphones and appears to be speaking into a microphone. There are shelves behind him filled with books, a football helmet, and other objects. The background has wooden paneling.\n\nAudio: Someone is speaking about qualifying for Medicaid."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "119.0s - 125.0s",
+          "query": "**Visual:** A man is sitting at a desk in an office setting. He's wearing headphones and appears to be speaking into a microphone or headset. There are shelves behind him with various items like books, a football helmet, and other objects. The desk has papers, a calculator, and some other small items on it.\n\n**Audio:** Someone is talking about going back to work and having to pay for daycare if they do so."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 176.20827412605286
+    },
+    {
+      "comment_index": 15033,
+      "video_id": "IMxciOsAoPY",
+      "comment": "4:58 Dave does the most on-point Droopy impression I've ever heard.",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 1.0,
+      "comment_timestamp": 298.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "289.0s - 295.0s",
+          "query": "Visually, there's someone sitting at a desk with various items on it like papers, a calculator, and some pens. There are shelves behind them filled with books, a football helmet, and other objects. The person seems to be talking or presenting something. The background has wooden paneling and a large letter \"R\" on the wall. The color scheme is mostly warm tones from the wood and the blue screen on one side.Audibly, there s a man speaking about not being sane when making decisions due to operating on limited information. It sounds like he might be discussing decision - making processes or strategies."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "295.0s - 301.0s",
+          "query": "Visual: A man is sitting at a desk with his arms crossed. He's wearing headphones and there are shelves behind him filled with various items like books, a football helmet, and other objects. The desk has some papers, a calculator, and a pen on it.\n\nAudio: Someone is speaking, saying \"level our butts off I'm tired.\" It seems to be a casual or informal tone."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "301.0s - 307.0s",
+          "query": "Visual: A man is sitting at a desk with his arms crossed. He's wearing headphones and appears to be speaking into a microphone. The background shows shelves filled with books, a football helmet, and other items. There s also a large letter \"R\" on the wall behind him.\n\nAudio: Someone is speaking, saying \"it's got to eat we gotta go out to eat.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 216.4884295463562
+    },
+    {
+      "comment_index": 15034,
+      "video_id": "IMxciOsAoPY",
+      "comment": "4:38",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 278.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "269.0s - 275.0s",
+          "query": "Visually, there's a man sitting at a desk with headphones on. He has some papers, a calculator, and other items like a glass of water on his desk. Behind him, shelves hold books, a football helmet, and more objects. The background includes a large \"R\" logo on the wall and a blue screen to his left.\n\nIn terms of audio, it seems like he might be speaking or reacting to something, but without more context from the full video, I can't say for sure if there's any specific dialogue or just general noise."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "275.0s - 281.0s",
+          "query": "Visually, there's a man sitting at a desk with various items around him like books on shelves, a football helmet, and some papers on the table. He has headphones on and seems to be speaking into something. The background includes wooden paneling and a large letter \"R\" on the wall.\n\nIn terms of audio, he is talking, likely narrating or presenting something. There doesn't seem to be any other distinct sounds besides his voice."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "281.0s - 287.0s",
+          "query": "**Visual:** A man is sitting at a desk with various items on it like papers, a calculator, and a pen. He's wearing headphones and appears to be speaking or reacting to something. Behind him, there are shelves filled with books, a football helmet, and other objects. The room has wooden paneling.\n\n**Audio:** Someone is speaking, likely the same person at the desk. The speech seems to be in English and could be discussing a situation or event."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 213.7261221408844
+    },
+    {
+      "comment_index": 15035,
+      "video_id": "IMxciOsAoPY",
+      "comment": "Stopped the clip at 4:49. Dave sleeping like a baby. LOL.",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 289.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "280.0s - 286.0s",
+          "query": "Visually, there's a man sitting at a desk with various items on it like papers, a calculator, and some books. He has headphones on and is gesturing while speaking. The background shows shelves filled with books and other objects. There s also a large \"R\" on the wall behind him.\n\nIn terms of audio, he seems to be talking about something, possibly giving advice or explaining a concept. His tone suggests he might be emphasizing certain points during his speech."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "286.0s - 292.0s",
+          "query": "Visual: A man is sitting at a desk with his arms crossed. He's wearing headphones and there are shelves behind him filled with various items like books, a football helmet, and other objects. The desk has papers, a calculator, and some other small items on it.\n\nAudio: Someone is speaking, saying \"possible way was gonna make that decision\" followed by \"but the thing is that we're not sane.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "292.0s - 298.0s",
+          "query": "Visual: A man is sitting at a desk with his arms crossed. He's wearing headphones and there are shelves behind him filled with various items like books, a football helmet, and other objects. The desk has papers, a calculator, and some pens on it. There s also a large letter \"R\" on the wall to the right.\n\nAudio: Someone is speaking, but without more details about their words or tone, I can't really say much about that part."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 196.1819519996643
+    },
+    {
+      "comment_index": 15036,
+      "video_id": "IMxciOsAoPY",
+      "comment": "Just saw this for the first time and 8:05 was my favorite part, died laughing😂😂",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 485.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "476.0s - 482.0s",
+          "query": "**Visual:** A man is sitting at a desk in a studio setting. He's wearing headphones and has his arms crossed over his chest. There are shelves behind him with various items like books, a football helmet, and other objects. The desk has papers, a calculator, and some other small items on it.\n\n**Audio:** Someone is speaking, but without more context from the full video, I can't determine the exact content or tone of the speech."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "482.0s - 488.0s",
+          "query": "Visually, there's a man sitting at a desk with various items on it like papers, a calculator, and some pens. He has headphones on and is gesturing with his hands while speaking. Behind him, shelves hold books, a football helmet, and other objects. The background includes wooden panels and a large letter \"R\" on the wall.\n\nIn terms of audio, someone is talking about how everyone seems to be worried about their feelings these days, and then says they're not worried about something else. There's no specific music or sound effects, just that person speaking."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "488.0s - 494.0s",
+          "query": "Visually, there's someone sitting at a desk with various items like papers, a calculator, and a pen on it. There are shelves behind them filled with books, a football helmet, and other objects. The person is wearing headphones and appears to be speaking into a microphone.\n\nIn terms of audio, I can hear someone talking, though without more context from the full video, it's hard to say exactly what they're saying or if there's any background noise or music involved."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 242.72148728370667
+    },
+    {
+      "comment_index": 15037,
+      "video_id": "IMxciOsAoPY",
+      "comment": "6:10 It might not be a $10K purchase, but it could be a few expensive purchases and then the rest is Credit Card Interest that you pay every month because you make the minimum monthly payment. How effing stupid is that?",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 370.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "361.0s - 367.0s",
+          "query": "Visually, there's a man sitting at a desk with his arms crossed. He has headphones on and is speaking into a microphone. The background shows shelves filled with books, a football helmet, and other items. There s also a large \"R\" on the wall behind him. On the desk, there are papers, a calculator, and some pens. The scene seems to be set up for a broadcast or recording.\n\nAudio-wise, it s just the man talking. His voice is clear and he seems to be delivering some kind of commentary or news report. There aren t any other voices or music playing in the background. It feels like a straightforward spoken delivery without much variation."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "367.0s - 373.0s",
+          "query": "Visually, there's a man sitting at a desk with his arms crossed. He has headphones on and is looking directly at the camera. The background shows shelves filled with books, a football helmet, and some other items. There s also a large letter \"R\" on the wall behind him. On the desk, there are papers, a calculator, and a pen.\n\nIn terms of audio, it seems like he's speaking, possibly talking to someone over the phone or recording something. His tone suggests he might be frustrated or annoyed."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "373.0s - 379.0s",
+          "query": "**Visual:** A man is sitting at a desk with his arms crossed. He's wearing a headset and appears to be speaking into it. The background shows shelves filled with books, a football helmet, and other items. There's also a large letter \"R\" on the wall behind him.\n\n**Audio:** Someone is speaking, saying something about not going $10, 000 in debt for one purchase and mentioning that they don't run or use something."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 259.0634138584137
+    },
+    {
+      "comment_index": 15038,
+      "video_id": "IMxciOsAoPY",
+      "comment": "5:05 Best Breaking Bad's Walter Jr's impersonation",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 305.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "296.0s - 302.0s",
+          "query": "Visual: A man is sitting at a desk with his arms crossed. He's wearing headphones and there are shelves behind him filled with various items like books, a football helmet, and other objects. The desk has some papers and a calculator on it. There s also a large letter \"R\" on the wall to the right.\n\nAudio: Someone says \"I'm tired.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "302.0s - 308.0s",
+          "query": "Sure! So here's how I'd break it down:.Visually: There s someone sitting at a desk with shelves behind them filled with books and other items. The person is wearing headphones and has their arms crossed on the desk.Audibly: You can hear some background noise, like maybe a TV or computer fan, but no specific speech or music is mentioned.Does that help? Let me know if you need more details!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "308.0s - 314.0s",
+          "query": "Visually, there's a man sitting at a desk with his arms crossed. He has on a headset and is looking directly at the camera. The background shows shelves filled with books, a football helmet, and some other items. There s also a large letter \"R\" on the wall behind him. On the desk, there are papers, a calculator, and a pen.\n\nIn terms of audio, it seems like someone is speaking, possibly giving instructions or making an announcement about calling an ambulance because they all work hard. It feels like a serious tone based on the words spoken."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 187.9756691455841
+    }
+  ]
+}

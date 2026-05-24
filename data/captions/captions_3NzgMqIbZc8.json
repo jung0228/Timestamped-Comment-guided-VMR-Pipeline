@@ -1,0 +1,609 @@
+{
+  "video_id": "3NzgMqIbZc8",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 13453,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "9:15 \"You have to cut as deeply as you can\"  Sounds like a great advice. But i guess the caller thought about his wrists after hearing that.",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 39.0,
+      "comment_timestamp": 555.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "546.0s - 552.0s",
+          "query": "Visually, there's someone sitting at a desk with a laptop, wearing headphones and speaking into a microphone. The background is blue with \"Dave Ramsey Show\" written on it. There are papers and a pen on the desk too. The person seems to be talking or presenting something.\n\nAudio-wise, I can hear a man speaking clearly. It sounds like he might be giving advice or discussing financial matters related to student loans."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "552.0s - 558.0s",
+          "query": "I'm sorry, I can't analyze that video since it's not provided here. But if you describe it to me or share more details about what happens in those six seconds, I'd be happy to help break it down for you!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "558.0s - 564.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 95.24383044242859
+    },
+    {
+      "comment_index": 13454,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "0:10   That was a very convincing “better than i deserve”",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 18.0,
+      "comment_timestamp": 10.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1.0s - 7.0s",
+          "query": "Visual: A man is sitting at a desk in a studio setting. The background has shelves with various items on them. There's also a large screen behind him displaying \"DAVE RAMSEY\". The overall color scheme includes blue and brown tones.\n\nAudio: Someone says \"Justin is with us in Florida hi Justin\" during this short clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "7.0s - 13.0s",
+          "query": "**Visual:** A man is sitting at a desk in a studio setting. He's wearing headphones and appears to be speaking into a microphone. The background features a large screen with \"DAVE RAMSEY\" displayed prominently. There are shelves on either side of him holding some items.\n\n**Audio:** Someone asks Dave how he's doing, and Dave responds that he's better than he deserves. Then someone else asks what's up."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "13.0s - 19.0s",
+          "query": "Visual: A man is sitting at a desk with a laptop, papers, and a mug on it. He's wearing headphones and speaking into a microphone. The background has \"DAVE RAMSEY SHOW\" written on it.\n\nAudio: Someone is asking Dave Ramsey about their recent graduation from residency."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 183.152006149292
+    },
+    {
+      "comment_index": 13455,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "2:47 First time I’ve seen Dave speechless, he even mumbled a bit and was being as nice as possible trying to boost this guy’s morale. I hate seeing this and I always tell my friends to be careful with student loans, this is what happens! Like Dave said I can’t believe the government allows this.",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 9.0,
+      "comment_timestamp": 167.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "158.0s - 164.0s",
+          "query": "**Visual:** A man wearing headphones is seated at a desk with a laptop and a water bottle. The background features a blue screen with \"DAVE RAMSEY SHOW\" prominently displayed. Text on the screen reads, \"I'm $1 million in student loan debt! Justin | Florida.\"\n\n**Audio:** Someone is speaking, saying, \"that's what we're praying for otherwise I'm just uh.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "164.0s - 170.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 7.04 GiB. GPU 1 has a total capacity of 23.56 GiB of which 5.20 GiB is free. Including non-PyTorch memory, this process has 18.35 GiB memory in use. Of the allocated memory 15.13 GiB is allocated by PyTorch, and 2.91 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "170.0s - 176.0s",
+          "query": "Sure! Let's break it down:.Visually, there's a man sitting at a desk with a laptop open in front of him. He has headphones on and is speaking into a microphone. The background is blue with \"DAVE RAMSEY SHOW\" written in large letters. There's also some text overlay that says \"I'm $1 million in student loan debt!\" and mentions Justin from Florida.Audio-wise, he seems to be talking about his student loan debt, specifically mentioning \"$1 million.\" It sounds like he might be sharing his financial situation or discussing related topics."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 356.4398515224457
+    },
+    {
+      "comment_index": 13456,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "Dave almost passed out at 0:37",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 8.0,
+      "comment_timestamp": 37.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "28.0s - 34.0s",
+          "query": "Visual: A man is sitting at a desk with a laptop, some papers, and a water bottle. He's wearing headphones and speaking into a microphone. The background has \"DAVE RAMSEY SHOW\" written on it.\n\nAudio: There's a conversation happening where someone says something about having $1 million in student loan debt, and another person responds with \"No sir.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "34.0s - 40.0s",
+          "query": "Visual: A man is sitting at a desk with a laptop, wearing headphones and speaking into a microphone. He's dressed in a blue shirt and has a cup on the table beside him. The background features a large screen displaying \"DAVE RAMSEY SHOW\" in bold letters.\n\nAudio: Someone is speaking, saying \"I'm $1 million in student loan debt!\" followed by \"Justin Florida.\" There's also some background noise that seems like static or interference."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "40.0s - 46.0s",
+          "query": "**Visual:** A man is sitting at a desk with a laptop open in front of him. He's wearing headphones and speaking into a microphone attached to them. The background has \"DAVE RAMSEY SHOW\" written on it in large letters. There's also a blue banner at the bottom that says \"I'm $1 million in student loan debt! Justin Florida.\"\n\n**Audio:** Someone is talking about calculating their interest rates and end date for something related to student loans."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 206.17059707641602
+    },
+    {
+      "comment_index": 13457,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "0:47 This man has the heart of a father, he really cares for those who call.",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 6.0,
+      "comment_timestamp": 47.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "38.0s - 44.0s",
+          "query": "Visually, there's a man sitting at a desk with a laptop, a blue tumbler, and some papers on it. He's wearing headphones and has a microphone attached to them. The background is mostly blue with \"DAVE RAMSEY SHOW\" written in large letters.\n\nIn terms of audio, someone is speaking about having $1 million in student loan debt. It seems like they're sharing their financial situation or asking for advice related to it."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "44.0s - 50.0s",
+          "query": "Visually, there's a man sitting at a desk with a laptop and a mug on it. He's wearing headphones and has his hands covering his face. The background is blue with \"DAVE RAMSEY SHOW\" written prominently.\n\nIn terms of audio, someone says, \"I'm $1 million in student loan debt!\" followed by \"Justin Florida.\" There doesn't seem to be any other significant sounds or music in that short clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "50.0s - 56.0s",
+          "query": "Visual: A man wearing headphones is sitting at a desk with a laptop and a water bottle. He's dressed in a blue shirt and appears to be on a talk show set with \"Dave Ramsey Show\" displayed prominently behind him.\n\nAudio: The speaker mentions having $1 million in student loan debt. There's no background music or other sound effects; it's just the speaker talking."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 199.07618236541748
+    },
+    {
+      "comment_index": 13458,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "Dave putting his head down at 0:42 says it all.   What an unbelievable amount of debt and foolish decisions.  I hope that this guy will make it somehow.",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 5.0,
+      "comment_timestamp": 42.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "33.0s - 39.0s",
+          "query": "Visual: A man wearing headphones is seated at a desk with a laptop in front of him. He's dressed in a blue shirt and appears to be speaking into a microphone attached to his headset. The background features a large screen displaying \"DAVE RAMSEY SHOW\" in bold letters.\n\nAudio: The man speaks clearly, saying, \"I'm $1 million in student loan debt!\" followed by a sigh. There's no other audible sound or music in the clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "39.0s - 45.0s",
+          "query": "Visually, there's a man sitting at a desk with a laptop open in front of him. He has on headphones and is speaking into a microphone attached to them. The background is blue with \"DAVE RAMSEY SHOW\" written prominently. There s also a tumbler on the table next to him.\n\nIn terms of audio, he's talking about having $1 million in student loan debt. It seems like he might be discussing financial advice or sharing his own experiences related to student loans."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "45.0s - 51.0s",
+          "query": "Visual: A man wearing headphones is sitting at a desk with a laptop and a blue tumbler. He's wearing a blue shirt and has his hands covering his face. The background is a bright blue screen with \"DAVE RAMSEY SHOW\" written on it.\n\nAudio: Someone is speaking about having $1 million in student loan debt, mentioning that their interest is around $5800 a month."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 399.52009534835815
+    },
+    {
+      "comment_index": 13459,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "I love Dave's reaction @4:10 - we're all Dave at that moment.",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 4.0,
+      "comment_timestamp": 250.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "241.0s - 247.0s",
+          "query": "**Visual:** A man is seated at a desk with a laptop, papers, and a blue tumbler. He's wearing a headset and appears to be speaking into it. The background has a blue screen with some text on it.\n\n**Audio:** Someone is talking about having $1 million in student loan debt. The speaker mentions not buying a house or leasing a new BMW."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "247.0s - 253.0s",
+          "query": "**Visual:** A man is sitting at a desk with a laptop, papers, and a mug. He's wearing headphones and speaking into a microphone. The background has a blue screen with some text on it.\n\n**Audio:** Someone says \"I'm $1 million in student loan debt!\" in a somewhat panicked tone. There's no other significant sound or music in the clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "253.0s - 259.0s",
+          "query": "**Visual:** A man is sitting at a desk with a laptop, papers, and a blue mug that says \"R\" on it. He's wearing a headset and appears to be speaking into a microphone. The background has a large screen displaying the name \"DAVE RAMSEY.\" There's also some text overlaying the image saying \"$1 million in student loan debt!\" and mentioning Justin from Florida.\n\n**Audio:** Someone is talking about having $1 million in student loan debt, which causes them anxiety. They mention it's not even their debt."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 261.5454535484314
+    },
+    {
+      "comment_index": 13460,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "8:23 Haha, I have about 12k left on my student loan debt",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 4.0,
+      "comment_timestamp": 503.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "494.0s - 500.0s",
+          "query": "**Visual:** A man is seated at a desk with a laptop, papers, and a blue tumbler. He's wearing headphones and appears to be speaking into a microphone. The background features a large screen displaying \"RAMSEY\" in light blue letters on a darker blue backdrop.\n\n**Audio:** Someone is speaking, saying, \"I'm $1 million in student loan debt!\" followed by \"Justin Florida.\" There's also a brief moment where someone says, \"Thank you for the call,\" and then mentions opening phones at triple eight eight."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "500.0s - 506.0s",
+          "query": "**Visual:** A man is sitting at a desk with a laptop, papers, and a water bottle. He's wearing headphones and speaking into a microphone. The background has a blue screen with \"RAMSEY SHOW\" written on it.\n\n**Audio:** Someone is talking about being worried about $12,000 in student loans."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "506.0s - 512.0s",
+          "query": "**Visual:** The video shows a man sitting at a desk with a laptop, some papers, and a water bottle on it. He's wearing headphones and speaking into a microphone. Behind him is a large screen displaying \"DAVE RAMSEY SHOW\" in bold letters against a blue background.\n\n**Audio:** A male voice speaks clearly over the microphone, saying something like \"that guy was for you today a million dollars.\" There are no other noticeable sounds or music in the clip."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 128.8126871585846
+    },
+    {
+      "comment_index": 13461,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "1:50 actually if he is now starting to make 250k a year with 1 mln dollars in student debt he is not that bad. He can pay it off quite easily within the next 5 years or so and still have high income. That's not too bad if you think about it. If I were 1mln in debt and was earning only 50k then that would be a problem :D It's all about approach. This guy will be fine as long as he watch his expenses and won't lose his licence :)",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 3.0,
+      "comment_timestamp": 110.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "101.0s - 107.0s",
+          "query": "**Visual:** A man is sitting at a desk with a laptop in front of him. He's wearing headphones and has a microphone attached to them. There's a blue tumbler on the table next to him. The background is predominantly blue with \"DAVE RAMSEY SHOW\" written in large letters.\n\n**Audio:** Someone says, \"Are you married?\" followed by another person responding, \"April.\" Then there's a pause before someone asks, \"And what will you be making?\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "107.0s - 113.0s",
+          "query": "**Visual:** A man is sitting at a desk with a microphone headset on. He's wearing a blue shirt and has his hands clasped together. There's a laptop to his right and a dark-colored tumbler on the table. The background is predominantly blue with \"DAVE RAMSEY SHOW\" written in large letters.\n\n**Audio:** Someone says, \"I'm $1 million in student loan debt!\" followed by \"Justin Florida.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "113.0s - 119.0s",
+          "query": "Visual: A man is sitting at a desk with a laptop, wearing headphones and speaking into a microphone. He's dressed in a blue shirt and has his hands clasped together on the table. There's a tumbler next to him.\n\nAudio: Someone is talking about having $1 million in student loan debt. The speaker mentions Justin from Florida."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 227.10708332061768
+    },
+    {
+      "comment_index": 13462,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "1:32 my god the stress of this kind of debt must be soul-crushing. So sad for him, no judgements.",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 2.0,
+      "comment_timestamp": 92.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "83.0s - 89.0s",
+          "query": "Visually, there's a man sitting at a desk with a laptop and a blue tumbler on it. He's wearing headphones and has his hands clasped together while speaking into a microphone. The background is mostly blue with \"DAVE RAMSEY SHOW\" written in large letters.\n\nIn terms of audio, he seems to be talking about student loan debt, specifically mentioning $1 million in student loans. There doesn't seem to be any other significant sounds or music playing during these six seconds."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "89.0s - 95.0s",
+          "query": "**Visual:** The video shows a man sitting at a desk with a laptop and a blue tumbler on it. He's wearing headphones and speaking into a microphone. Behind him is a large screen displaying \"DAVE RAMSEY SHOW\" in bold letters against a blue background.\n\n**Audio:** A male voice speaks about having $1 million in student loan debt. The tone suggests concern or frustration. There are no other significant sounds besides his speech."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "95.0s - 101.0s",
+          "query": "**Visual:** A man is sitting at a desk with a laptop open in front of him. He's wearing headphones and has his hands clasped together on the table. The background features a large blue screen with \"DAVE RAMSEY SHOW\" written in white letters.\n\n**Audio:** Someone is speaking, saying, \"um so what is your income going to.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 154.03863501548767
+    },
+    {
+      "comment_index": 13463,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "0:44 Whenever Dave grabs his head like that, you can tell he feels the caller's pain too.",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 2.0,
+      "comment_timestamp": 44.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "35.0s - 41.0s",
+          "query": "Visually: A man is sitting at a desk with a laptop in front of him. He's wearing headphones and has a microphone attached to them. There's a blue tumbler on the table next to him. The background is mostly blue with \"DAVE RAMSEY SHOW\" written in large letters.\n\nAudio: Someone is speaking about having $1 million in student loan debt. The speaker seems to be expressing frustration or concern."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "41.0s - 47.0s",
+          "query": "**Visual:** A man is sitting at a desk with a laptop open in front of him. He's wearing headphones and has a microphone attached to them. There's a blue tumbler on the desk next to his hand. The background is predominantly blue with large white letters spelling \"DAVE RAMSEY SHOW.\" At the bottom left corner, there's a logo with an \"R\" inside a circle.\n\n**Audio:** Someone is speaking about having $1 million in student loan debt. The speaker mentions calculating interest rates and interest."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "47.0s - 53.0s",
+          "query": "Visually, there's a man sitting at a desk with \"DAVE RAMSEY SHOW\" prominently displayed on the backdrop behind him. He appears to be wearing headphones and is holding his hands up near his face, possibly in frustration or contemplation. There s also a laptop and a water bottle on the desk.\n\nIn terms of audio, it seems like someone is speaking about having $1 million in student loan debt, mentioning that it costs around $800 a month. The tone suggests concern or distress regarding the financial situation."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 212.47272276878357
+    },
+    {
+      "comment_index": 13464,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "0:45 you can hear Dave silently screaming",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 2.0,
+      "comment_timestamp": 45.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "36.0s - 42.0s",
+          "query": "Visual: A man wearing headphones is seated at a desk with a laptop and a blue mug on it. He's dressed in a blue shirt and has a microphone attached to his headset. The background features a large screen displaying \"DAVE RAMSEY SHOW\" in bold letters.\n\nAudio: Someone is speaking about having $1 million in student loan debt."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "42.0s - 48.0s",
+          "query": "**Visual:** A man is sitting at a desk with a laptop and a tumbler on it. He's wearing headphones and speaking into a microphone. The background has \"DAVE RAMSEY SHOW\" written prominently. There's also some text overlay that says \"I'm $1 million in student loan debt! Justin | Florida.\"\n\n**Audio:** Someone is speaking about having $1 million in student loan debt."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "48.0s - 54.0s",
+          "query": "Visually, there's a man wearing headphones sitting at a desk with a laptop and a water bottle. He has his hands covering his face while looking down. The background is blue with \"DAVE RAMSEY SHOW\" written on it.\n\nIn terms of audio, someone is speaking about having $1 million in student loan debt."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 161.95511746406555
+    },
+    {
+      "comment_index": 13465,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "I really vibe with what he says at 7:42 \"I like jslike tlike\"",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 1.0,
+      "comment_timestamp": 462.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "453.0s - 459.0s",
+          "query": "Visually, there's a man sitting at a desk with his arms crossed. He has headphones on and is wearing a blue shirt. Behind him is a large screen displaying \"DAVE RAMSEY SHOW\" in big letters. There s also some text on the screen mentioning \"$1 million in student loan debt!\" and \"Justin | Florida.\" On the desk, there s a laptop and a small cylindrical object.\n\nIn terms of audio, someone is speaking, likely discussing financial topics related to student loans based on the text on the screen. The overall tone seems serious and focused on financial advice or discussion."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "459.0s - 465.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 4.60 GiB is free. Including non-PyTorch memory, this process has 18.95 GiB memory in use. Of the allocated memory 16.77 GiB is allocated by PyTorch, and 1.87 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "465.0s - 471.0s",
+          "query": "**Visual:** The video shows a man sitting at a desk with a laptop and a mug on it. He's wearing headphones and appears to be speaking into a microphone. There is a large \"Dave Ramsey Show\" logo behind him. A caption at the bottom reads, \"I'm $1 million in student loan debt! Justin Florida.\"\n\n**Audio:** Someone is speaking about cleaning up corners, getting rid of mosquitoes, and then mentioning something related to a bear hunt."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 554.8470425605774
+    },
+    {
+      "comment_index": 13466,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "4:15 that said all right there for me",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 1.0,
+      "comment_timestamp": 255.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "246.0s - 252.0s",
+          "query": "Visually, there's a man sitting at a desk with a laptop, some papers, and a blue tumbler. He's wearing a headset and has a beard. The background is mostly blue with some wooden panels.\n\nAudio-wise, he says \"I'm $1 million in student loan debt!\" in a somewhat strained voice, indicating stress or frustration. There's no other significant sound effect or music."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "252.0s - 258.0s",
+          "query": "**Visual:** A man is seated at a desk with a laptop, papers, and a blue mug. He's wearing headphones and speaking into a microphone. The background has a large screen displaying \"RAMSEY\" in light blue letters on a darker blue backdrop.\n\n**Audio:** Someone is talking about having $1 million in student loan debt, mentioning that it gives them anxiety even though it doesn't belong to them."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "258.0s - 264.0s",
+          "query": "**Visual:** A man is seated at a desk with a laptop and a mug on it. He's wearing headphones and speaking into a microphone. The background has \"DAVE RAMSEY SHOW\" written prominently.\n\n**Audio:** Someone is talking about having $1 million in student loan debt. They mention that while it's a large amount (\"horrible news\"), there's also something positive to be found (\"wonderful news\")."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 159.43845462799072
+    },
+    {
+      "comment_index": 13467,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "Jesus love you, he died on the cross for you, accept him as your lord and savior he can change everything. For God so loved the world that he gave his only son, so that everyone who believes in him may not perish but may have eternal life\" (Jn 3:16\"  But you must repent too. From that time Jesus went about preaching and saying, Let your hearts be turned from sin, for the kingdom of heaven is near. (Matthew 4:17)$",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 1.0,
+      "comment_timestamp": 226.5,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "217.5s - 223.5s",
+          "query": "**Visual:** A man is sitting at a desk with a laptop open in front of him. He's wearing headphones and speaking into a microphone. The background is blue with \"Dave Ramsey Show\" written on it in large letters. There's also some text overlay that says \"$1 million in student loan debt!\" and mentions Justin from Florida.\n\n**Audio:** Someone is speaking about having $1 million in student loan debt. The speaker seems to be discussing an extreme situation related to income."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "223.5s - 229.5s",
+          "query": "Visually, there's a man wearing headphones sitting at a desk with a laptop and a blue tumbler on it. He has a microphone attached to his headset and is gesturing while speaking. The background is mostly blue with \"DAVE RAMSEY SHOW\" written in large letters.\n\nIn terms of audio, he seems to be talking about student loan debt, specifically mentioning $1 million in debt. There doesn't seem to be any other significant sounds or music playing."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "229.5s - 235.5s",
+          "query": "Sure! So here's how I'd break it down:.Visually, there s a man sitting at a desk with a laptop, wearing headphones and speaking into a microphone. The background is blue with \"Dave Ramsey Show\" written on it. There s also some text overlay that says he has $1 million in student loan debt.Audibly, the man is talking about his student loan debt, and there might be some background noise or music from the show itself.Anything else you want to know?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 266.2430353164673
+    },
+    {
+      "comment_index": 13468,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "0:40 -- well, hopefully he calculated it wrong and I'm shocked he still has a fiance.",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 1.0,
+      "comment_timestamp": 40.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "31.0s - 37.0s",
+          "query": "Visual: A man is sitting at a desk with a laptop open in front of him. He's wearing headphones and has a microphone attached to them. There's a blue tumbler on the desk next to his hand. The background is predominantly blue with large white letters spelling \"DAVE RAMSEY SHOW.\" At the bottom of the screen, there's a banner that says \"I'm $1 million in student loan debt! Justin Florida.\"\n\nAudio: Someone is speaking, saying, \"sir no sir what were you thinking hmm well I wasn't thinking clearly.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "37.0s - 43.0s",
+          "query": "Sure! So, visually, there's a man sitting at a desk with a laptop open in front of him. He has on headphones and is speaking into a microphone. The background behind him shows \"DAVE RAMSEY SHOW\" written out clearly. There s also some text overlay that says, \"I'm $1 million in student loan debt!\" and mentions Justin from Florida.Audibly, he seems to be talking about his student loan debt situation. It sounds like he might be discussing financial advice or sharing his own experiences related to it.What do you think about that? Do you have any similar experiences?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "43.0s - 49.0s",
+          "query": "**Visual:** A man is sitting at a desk with a laptop and a tumbler on it. He's wearing headphones and has his hands clasped together. The background features large blue letters spelling \"RAMSEY SHOW.\" There's also some text overlay that says \"I'm $1 million in student loan debt!\" and mentions Justin from Florida.\n\n**Audio:** Someone is speaking about having $1 million in student loan debt."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 246.73757004737854
+    },
+    {
+      "comment_index": 13469,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "3:54 wow, dude actually called in to hear this",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 1.0,
+      "comment_timestamp": 234.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "225.0s - 231.0s",
+          "query": "**Visual:** A man wearing headphones is seated at a desk with a laptop and a water bottle. He's dressed in a blue shirt and appears to be speaking or presenting something. The background features large \"Dave Ramsey Show\" branding in light blue on a darker blue backdrop.\n\n**Audio:** Someone is speaking about having $1 million in student loan debt. The tone suggests concern or seriousness regarding financial matters."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "231.0s - 237.0s",
+          "query": "**Visual:** A man wearing headphones is seated at a desk with a laptop and a blue tumbler on it. The background has \"DAVE RAMSEY SHOW\" written prominently. There's also a caption that says, \"I'm $1 million in student loan debt! Justin Florida.\"\n\n**Audio:** Someone is speaking, saying, \"Just like a broke college student because you're a broke.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "237.0s - 243.0s",
+          "query": "**Visual:** A man is sitting at a desk with a laptop, wearing headphones and speaking into a microphone. He's dressed in a blue shirt and has a cup on the table next to him. The background features a large screen displaying \"RAMSEY SHOW\" in bold letters.\n\n**Audio:** Someone is speaking about having $1 million in student loan debt. The speaker mentions that with such debt, one cannot afford vacations or buying a house."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 77.95801186561584
+    },
+    {
+      "comment_index": 13470,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "8:45 you and I have nothing insured but the stress of unforgivable debt upon a recent graduate who will do more good if he wasn't in debilitating debt. And you saying anything but praise for someone to sacrifice ten years to become a medical professional that is highly specialised is just beyond ungrateful. This is why you have braindrain to Europe.",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 525.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "516.0s - 522.0s",
+          "query": "**Visual:** A man is sitting at a desk with \"DAVE RAMSEY SHOW\" displayed prominently on the background screen. He's wearing headphones and has his hands clasped together near his face. There s a laptop to his right, some papers scattered around, and a blue tumbler on the desk.\n\n**Audio:** The audio contains speech, likely from the man at the desk, though no specific words can be discerned from just these six seconds."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "522.0s - 528.0s",
+          "query": "Visually, there's a man sitting at a desk with \"Dave Ramsey Show\" displayed prominently behind him on a blue screen. He wears headphones and has his hands clasped together near his face. On the desk, there's a laptop to his right, some papers scattered around, and a dark-colored tumbler with a logo on it.\n\nIn terms of audio, I can't really tell what he's saying or if there's any background noise since no specific audio details were provided for that short clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "528.0s - 534.0s",
+          "query": "**Visual:** A man is sitting at a desk with a laptop, papers, and a water bottle on it. He's wearing headphones and appears to be speaking into a microphone attached to them. The background has \"DAVE RAMSEY SHOW\" written on it.\n\n**Audio:** Someone is speaking, expressing hope that someone will succeed or win."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 214.1434769630432
+    },
+    {
+      "comment_index": 13471,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "0:32 Dave : \"What were you thinking?\"  Caller : \"I wasn't thinking...\"  I give it to him, he has self-awareness",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 32.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "23.0s - 29.0s",
+          "query": "**Visual:** A man is sitting at a desk with a blue background that has \"DAVE RAMSEY SHOW\" written on it. He's wearing headphones and speaking into a microphone attached to them. There's a laptop open in front of him, some papers, and a water bottle on the desk.\n\n**Audio:** The man is talking, likely discussing something related to loans or finances based on the context provided."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "29.0s - 35.0s",
+          "query": "Visual: A man wearing headphones is sitting at a desk with a laptop, papers, and a blue tumbler. He's dressed in a blue shirt and has a beard. The background is bright blue with \"DAVE RAMSEY SHOW\" written on it.\n\nAudio: There's a conversation happening between two people. One person says something about having $1 million in student loan debt, and then there's a response like \"You're kidding?\" followed by some other dialogue that's harder to make out clearly."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "35.0s - 41.0s",
+          "query": "Visually: A man is sitting at a desk with a laptop in front of him. He's wearing headphones and has a microphone attached to them. There's a blue tumbler on the table next to him. The background is mostly blue with \"DAVE RAMSEY SHOW\" written in large letters.\n\nAudio: Someone is speaking about having $1 million in student loan debt. The speaker seems to be expressing frustration or concern."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 207.87459230422974
+    },
+    {
+      "comment_index": 13472,
+      "video_id": "3NzgMqIbZc8",
+      "comment": "0:44 - 0:50 this reaction says it all",
+      "language": "en",
+      "channel_name": "TheRamseyShow",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 47.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "38.0s - 44.0s",
+          "query": "Visually, there's a man sitting at a desk with a laptop, a blue tumbler, and some papers on it. He's wearing headphones and has a microphone attached to them. The background is mostly blue with \"DAVE RAMSEY SHOW\" written in large letters.\n\nIn terms of audio, someone is speaking about having $1 million in student loan debt. It seems like they're sharing their financial situation or asking for advice related to it."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "44.0s - 50.0s",
+          "query": "Visually, there's a man sitting at a desk with a laptop and a mug on it. He's wearing headphones and has his hands covering his face. The background is blue with \"DAVE RAMSEY SHOW\" written prominently.\n\nIn terms of audio, someone says, \"I'm $1 million in student loan debt!\" followed by \"Justin Florida.\" There doesn't seem to be any other significant sounds or music in that short clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "50.0s - 56.0s",
+          "query": "Visual: A man wearing headphones is sitting at a desk with a laptop and a water bottle. He's dressed in a blue shirt and appears to be on a talk show set with \"Dave Ramsey Show\" displayed prominently behind him.\n\nAudio: The speaker mentions having $1 million in student loan debt. There's no background music or other sound effects; it's just the speaker talking."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 179.5143256187439
+    }
+  ]
+}

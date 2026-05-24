@@ -1,0 +1,189 @@
+{
+  "video_id": "OREmRD7qK48",
+  "total_comments": 6,
+  "successful_comments": 6,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 18855,
+      "video_id": "OREmRD7qK48",
+      "comment": "0:59 😅",
+      "language": "en",
+      "channel_name": "AlJazeeraEnglish",
+      "category": "news",
+      "likes": 1.0,
+      "comment_timestamp": 59.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "50.0s - 56.0s",
+          "query": "Visual: The video shows a crowded street scene with many people walking or standing around. There are police officers among them, some wearing helmets and vests. The background includes buildings and signs, suggesting an urban setting. The overall atmosphere seems busy.\n\nAudio: There is no distinct speech audible. However, there's background noise that could be from the crowd, possibly some distant chatter or city sounds. A whistle can also be heard towards the end."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "56.0s - 62.0s",
+          "query": "**Visual:** The video shows a group of police officers in riot gear standing together. They're wearing helmets and vests labeled \"POLICE.\" Some officers have their backs to the camera while others face it. There's also someone taking photos or videos with a smartphone visible among them.\n\n**Audio:** The audio includes background music playing throughout the entire clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "62.0s - 68.0s",
+          "query": "**Visual:** The video shows a group of police officers in riot gear standing in formation on a city street. There are tall buildings with colorful facades in the background. Some people appear to be holding signs or banners, suggesting a protest or demonstration.\n\n**Audio:** The audio includes background chatter from the crowd and possibly some music playing faintly. There is also a voiceover that seems to be providing commentary or narration about the situation."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 174.17054653167725
+    },
+    {
+      "comment_index": 18856,
+      "video_id": "OREmRD7qK48",
+      "comment": "1:27",
+      "language": "en",
+      "channel_name": "AlJazeeraEnglish",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 87.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "78.0s - 84.0s",
+          "query": "Sure! So, visually, there's a group of people sitting together. One person is wearing glasses and has gray hair. The others seem to be in different colored shirts. There s also someone in a red shirt raising their fist up. In terms of audio, it looks like there might be some shouting or yelling going on.What do you think about that?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "84.0s - 90.0s",
+          "query": "Visual: A group of people are shown with their hands raised, possibly cheering or celebrating. They seem to be outdoors at night, given the dark background. The crowd looks diverse.\n\nAudio: There's upbeat music playing throughout the short clip. No distinct speech is heard."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "90.0s - 96.0s",
+          "query": "Inference error: nframes should in interval [2, 1], but got 0."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 94.09900140762329
+    },
+    {
+      "comment_index": 18857,
+      "video_id": "OREmRD7qK48",
+      "comment": "We are proud of ' 1:31 AL Jazeera ' that present our news to international society! Thanks for being with General people of bangladesh.",
+      "language": "en",
+      "channel_name": "AlJazeeraEnglish",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 91.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "82.0s - 88.0s",
+          "query": "Visual: The video shows a group of people cheering and raising their fists in celebration or protest. They appear to be outdoors at night, with some wearing hats and casual clothing. The crowd is diverse, with different ages and genders represented.\n\nAudio: There's upbeat music playing throughout the clip, adding to the energetic atmosphere created by the cheering crowd. No specific speech can be heard clearly due to the noise from the crowd."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "88.0s - 94.0s",
+          "query": "Visual: The image shows an orange background with a white logo that resembles stylized Arabic calligraphy at the top center. Below it is \"ALJAZEERA\" written in uppercase letters inside a white rectangle. Underneath, there's smaller text saying \"FOLLOW\", \"LIKE\", \"SHARE\", and \"COMMENT\". There are no visible objects or people moving.\n\nAudio: A short piece of music plays during these six seconds."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "94.0s - 100.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 215.58882594108582
+    },
+    {
+      "comment_index": 18858,
+      "video_id": "OREmRD7qK48",
+      "comment": "0:19 😢",
+      "language": "en",
+      "channel_name": "AlJazeeraEnglish",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 19.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "10.0s - 16.0s",
+          "query": "**Visual:** The video shows police officers in riot gear advancing through a crowded street. They're wearing helmets and carrying shields and batons. There's a large group of protesters visible in the background, some holding signs. The scene appears tense, with the police moving forward assertively.\n\n**Audio:** The audio includes shouting from the crowd, likely chants or cries for help. There's also the sound of footsteps and occasional impact noises, possibly from batons hitting shields or other objects. Music can be heard faintly in the background, adding to the chaotic atmosphere."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "16.0s - 22.0s",
+          "query": "Visually, there's a crowd of people outside offices related to an opposition political party called BNP. People seem to be engaged in some form of protest or demonstration, with raised hands visible among them. The scene appears busy, with various individuals wearing different colored clothes.\n\nIn terms of audio, there is background chatter from the crowd, likely discussing the situation at hand. There might also be some music playing faintly, adding to the overall atmosphere of the event."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "22.0s - 28.0s",
+          "query": "Visually, there's a group of police officers standing in formation on a street. They're wearing uniforms with \"POLICE\" written on their vests and holding shields. In front of them, some people are walking past. There are also posters or banners visible in the background.\n\nIn terms of audio, I can hear shouting and possibly some music playing faintly in the distance. The overall atmosphere seems tense based on the visuals and the context provided in the caption about rising tension since a rally was called for Saturday."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 429.72094893455505
+    },
+    {
+      "comment_index": 18859,
+      "video_id": "OREmRD7qK48",
+      "comment": "0:32",
+      "language": "en",
+      "channel_name": "AlJazeeraEnglish",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 32.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "23.0s - 29.0s",
+          "query": "Visual: The video shows a group of police officers standing in formation on a street. They're wearing uniforms with \"POLICE\" written on their vests and holding shields. There's also a person in yellow clothing walking past them. In the background, there are some buildings with posters or banners.\n\nAudio: You can hear shouting and some background noise, possibly from a crowd or protest. There might be some music playing faintly too."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "29.0s - 35.0s",
+          "query": "Visually, there's an elderly woman with glasses waving at the camera. She has gray hair covered partially by a white headscarf. The background is blurred, suggesting an outdoor setting.\n\nIn terms of audio, I can't really tell much about it since no specific details were provided for that part."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "35.0s - 41.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 2.42 GiB is free. Including non-PyTorch memory, this process has 21.13 GiB memory in use. Of the allocated memory 16.84 GiB is allocated by PyTorch, and 3.98 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 492.1706533432007
+    },
+    {
+      "comment_index": 18860,
+      "video_id": "OREmRD7qK48",
+      "comment": ".....     0:31 0:31",
+      "language": "en",
+      "channel_name": "AlJazeeraEnglish",
+      "category": "news",
+      "likes": 0.0,
+      "comment_timestamp": 31.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "22.0s - 28.0s",
+          "query": "Visually, there's a group of police officers standing in formation on a street. They're wearing uniforms with \"POLICE\" written on their vests and holding shields. In front of them, some people are walking past. There are also posters or banners visible in the background.\n\nIn terms of audio, I can hear shouting and possibly some music playing faintly in the distance. The overall atmosphere seems tense based on the visuals and the context provided in the caption about rising tension since a rally was called for Saturday."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "28.0s - 34.0s",
+          "query": "Visual: The video shows a woman wearing glasses and a white headscarf waving at the camera with a smile. There's a background that seems to be outdoors, possibly during an event or gathering.\n\nAudio: The audio includes music playing throughout the clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "34.0s - 40.0s",
+          "query": "**Visual:** The video shows a woman wearing glasses and traditional attire waving at the camera with a smile. Behind her is a crowd of people, some holding signs or banners. There's also a man speaking directly to the camera.\n\n**Audio:** A man speaks in the foreground, saying \"We are going to make the December 10 rally a success.\" The background includes chatter from the crowd and possibly other speeches or announcements."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 170.2495048046112
+    }
+  ]
+}

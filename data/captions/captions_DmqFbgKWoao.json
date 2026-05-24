@@ -1,230 +1,590 @@
 {
   "video_id": "DmqFbgKWoao",
   "total_comments": 20,
-  "successful_comments": 0,
-  "failed_comments": 20,
-  "success_rate": "0.0%",
-  "processing_time": 0.0037755966186523438,
+  "successful_comments": 19,
+  "failed_comments": 1,
+  "success_rate": "95.0%",
   "comments": [
     {
-      "comment_index": 1900,
+      "comment_index": 2981,
       "video_id": "DmqFbgKWoao",
       "comment": "16:11 \"Visualize what you want to draw in your head\" TIGER BALLS",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 397.0,
-      "error": "Video file not found: DmqFbgKWoao",
-      "analysis_type": "failed"
+      "comment_timestamp": 971.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "962.0s - 968.0s",
+          "query": "**Visual:** The video shows a person sitting at a desk with books on shelves behind them. They appear to be engaged in some activity involving their hands near their face. There is also an illustration overlay that seems to depict a comic strip or cartoon-like scene.\n\n**Audio:** The audio includes speech from the person at the desk, though no specific words can be discerned. There are no other notable sounds like music or background noise."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "968.0s - 974.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.26 GiB. GPU 0 has a total capacity of 23.56 GiB of which 999.00 MiB is free. Including non-PyTorch memory, this process has 22.57 GiB memory in use. Of the allocated memory 18.47 GiB is allocated by PyTorch, and 3.79 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "974.0s - 980.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.53 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.43 GiB is free. Including non-PyTorch memory, this process has 17.12 GiB memory in use. Of the allocated memory 9.95 GiB is allocated by PyTorch, and 6.86 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 21.287718057632446
     },
     {
-      "comment_index": 1901,
+      "comment_index": 2982,
       "video_id": "DmqFbgKWoao",
-      "comment": "19:08 look at that callus on his middle finger from just holding the pen over the years this makes you realize just how much he is drawing",
+      "comment": "5:40 intuitive understanding over mathematical measurement = freeer feeling   8:30 reference every stroke to be a guideline fir perspective instead of needing a perfect mathematically correct vanishing point lines  Always think when you draw something, where is the upper &lower VP?  Where is the left and right VP? And from there try to FIRST draw the parts in the subject that can indicate those VP For Kim frog helmet he started with the front side if helmet which indicated right VP then the right side of helmet slightly indicated left side VP The toad eyes on helmet (when thinking about the square than hold sit inside) will tell where the upper VP is  Then the glasses give a reinforcement of where the right and left VP are   6:35 also can use contour lines to indicate form but also help reinforce VP for yourself throughout the drawing   9:30 once you are always thinking about objects as where they are in perspective/ “mastering the cube” Then you will improve very fast",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
-      "likes": 138.0,
-      "error": "Video file not found: DmqFbgKWoao",
-      "analysis_type": "failed"
+      "likes": 190.0,
+      "comment_timestamp": 570.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "561.0s - 567.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 27.72 GiB. GPU 0 has a total capacity of 23.56 GiB of which 15.19 GiB is free. Including non-PyTorch memory, this process has 8.36 GiB memory in use. Of the allocated memory 7.21 GiB is allocated by PyTorch, and 865.53 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "567.0s - 573.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 31.08 GiB. GPU 0 has a total capacity of 23.56 GiB of which 13.79 GiB is free. Including non-PyTorch memory, this process has 9.76 GiB memory in use. Of the allocated memory 7.32 GiB is allocated by PyTorch, and 2.12 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "573.0s - 579.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 34.63 GiB. GPU 0 has a total capacity of 23.56 GiB of which 13.47 GiB is free. Including non-PyTorch memory, this process has 10.08 GiB memory in use. Of the allocated memory 7.44 GiB is allocated by PyTorch, and 2.33 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 42.53689694404602
     },
     {
-      "comment_index": 1902,
+      "comment_index": 2984,
       "video_id": "DmqFbgKWoao",
       "comment": "Short answer: you can't Long answer: 0:00",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 68.0,
-      "error": "Invalid timestamp",
+      "error": "Invalid timestamp (<= 0)",
       "analysis_type": "failed"
     },
     {
-      "comment_index": 1903,
+      "comment_index": 2983,
+      "video_id": "DmqFbgKWoao",
+      "comment": "19:08 look at that callus on his middle finger from just holding the pen over the years this makes you realize just how much he is drawing",
+      "language": "en",
+      "channel_name": "ProkoTV",
+      "category": "art/design",
+      "likes": 138.0,
+      "comment_timestamp": 1148.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1139.0s - 1145.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 22.06 GiB. GPU 0 has a total capacity of 23.56 GiB of which 13.47 GiB is free. Including non-PyTorch memory, this process has 10.08 GiB memory in use. Of the allocated memory 6.99 GiB is allocated by PyTorch, and 2.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1145.0s - 1151.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 25.07 GiB. GPU 0 has a total capacity of 23.56 GiB of which 13.79 GiB is free. Including non-PyTorch memory, this process has 9.76 GiB memory in use. Of the allocated memory 7.11 GiB is allocated by PyTorch, and 2.34 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1151.0s - 1157.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 28.27 GiB. GPU 0 has a total capacity of 23.56 GiB of which 13.84 GiB is free. Including non-PyTorch memory, this process has 9.71 GiB memory in use. Of the allocated memory 7.23 GiB is allocated by PyTorch, and 2.18 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 37.428551197052
+    },
+    {
+      "comment_index": 2985,
       "video_id": "DmqFbgKWoao",
       "comment": "9:23 \"I found that if you have the fundamentals down, the speed of progress accelerates much more quickly. I improved very fast once I understood the shape of a cube. In it was perspective: mass, shape and shadow.\"",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 44.0,
-      "error": "Video file not found: DmqFbgKWoao",
-      "analysis_type": "failed"
+      "comment_timestamp": 563.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "554.0s - 560.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 24.05 GiB. GPU 0 has a total capacity of 23.56 GiB of which 13.84 GiB is free. Including non-PyTorch memory, this process has 9.71 GiB memory in use. Of the allocated memory 7.07 GiB is allocated by PyTorch, and 2.33 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "560.0s - 566.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 27.18 GiB. GPU 0 has a total capacity of 23.56 GiB of which 13.84 GiB is free. Including non-PyTorch memory, this process has 9.71 GiB memory in use. Of the allocated memory 7.19 GiB is allocated by PyTorch, and 2.21 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "566.0s - 572.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 30.51 GiB. GPU 0 has a total capacity of 23.56 GiB of which 13.53 GiB is free. Including non-PyTorch memory, this process has 10.02 GiB memory in use. Of the allocated memory 7.30 GiB is allocated by PyTorch, and 2.40 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 38.99620985984802
     },
     {
-      "comment_index": 1904,
+      "comment_index": 2986,
       "video_id": "DmqFbgKWoao",
       "comment": "7:27 someone need to teach him minecraft, I wanna see what he create.",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 13.0,
-      "error": "Video file not found: DmqFbgKWoao",
-      "analysis_type": "failed"
+      "comment_timestamp": 447.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "438.0s - 444.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 163.87 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.02 GiB is free. Including non-PyTorch memory, this process has 17.53 GiB memory in use. Of the allocated memory 16.67 GiB is allocated by PyTorch, and 561.21 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "444.0s - 450.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 12.32 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.02 GiB is free. Including non-PyTorch memory, this process has 17.53 GiB memory in use. Of the allocated memory 6.55 GiB is allocated by PyTorch, and 10.67 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "450.0s - 456.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 14.59 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.02 GiB is free. Including non-PyTorch memory, this process has 17.53 GiB memory in use. Of the allocated memory 6.66 GiB is allocated by PyTorch, and 10.56 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 26.186468362808228
     },
     {
-      "comment_index": 1905,
+      "comment_index": 2987,
       "video_id": "DmqFbgKWoao",
       "comment": "0:55 what??? Look closely",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 11.0,
-      "error": "Video file not found: DmqFbgKWoao",
-      "analysis_type": "failed"
+      "comment_timestamp": 55.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "46.0s - 52.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 9.59 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.02 GiB is free. Including non-PyTorch memory, this process has 17.53 GiB memory in use. Of the allocated memory 15.71 GiB is allocated by PyTorch, and 1.51 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "52.0s - 58.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 2 has a total capacity of 23.56 GiB of which 3.91 GiB is free. Including non-PyTorch memory, this process has 19.64 GiB memory in use. Of the allocated memory 19.04 GiB is allocated by PyTorch, and 290.52 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "58.0s - 64.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 2 has a total capacity of 23.56 GiB of which 5.91 GiB is free. Including non-PyTorch memory, this process has 17.64 GiB memory in use. Of the allocated memory 11.07 GiB is allocated by PyTorch, and 6.26 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 294.11830496788025
     },
     {
-      "comment_index": 1906,
-      "video_id": "DmqFbgKWoao",
-      "comment": "16:59 yonghwan kim was a Korean children story illustrator (70 ~ 80s). His paintings are very similar to the Kim Jung Gi.(Many animals, accessories, Props, A variety of expressions, and chaos atmospheres, ETC.)  Kim said. My favorite drawings are by American legendary illustrator Norman Rockwell (1894-1978) and painter Yong-hwan Kim(1912-1998).",
-      "language": "en",
-      "channel_name": "ProkoTV",
-      "category": "art/design",
-      "likes": 7.0,
-      "error": "Video file not found: DmqFbgKWoao",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1907,
+      "comment_index": 2988,
       "video_id": "DmqFbgKWoao",
       "comment": "He literally has blisters on his fingers from holding the pencils...what a legend 19:12",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 7.0,
-      "error": "Video file not found: DmqFbgKWoao",
-      "analysis_type": "failed"
+      "comment_timestamp": 1152.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1143.0s - 1149.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 24.05 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.02 GiB is free. Including non-PyTorch memory, this process has 17.53 GiB memory in use. Of the allocated memory 7.07 GiB is allocated by PyTorch, and 10.15 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1149.0s - 1155.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 27.18 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.33 GiB is free. Including non-PyTorch memory, this process has 17.22 GiB memory in use. Of the allocated memory 7.19 GiB is allocated by PyTorch, and 9.73 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1155.0s - 1161.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 30.51 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.33 GiB is free. Including non-PyTorch memory, this process has 17.22 GiB memory in use. Of the allocated memory 7.30 GiB is allocated by PyTorch, and 9.61 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 38.52704930305481
     },
     {
-      "comment_index": 1908,
+      "comment_index": 2989,
+      "video_id": "DmqFbgKWoao",
+      "comment": "16:59 yonghwan kim was a Korean children story illustrator (70 ~ 80s). His paintings are very similar to the Kim Jung Gi.(Many animals, accessories, Props, A variety of expressions, and chaos atmospheres, ETC.)  Kim said. My favorite drawings are by American legendary illustrator Norman Rockwell (1894-1978) and painter Yong-hwan Kim(1912-1998).",
+      "language": "en",
+      "channel_name": "ProkoTV",
+      "category": "art/design",
+      "likes": 7.0,
+      "comment_timestamp": 1019.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1010.0s - 1016.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 35.85 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.37 GiB is free. Including non-PyTorch memory, this process has 17.18 GiB memory in use. Of the allocated memory 8.03 GiB is allocated by PyTorch, and 8.84 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1016.0s - 1022.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 6.91 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.37 GiB is free. Including non-PyTorch memory, this process has 17.18 GiB memory in use. Of the allocated memory 9.07 GiB is allocated by PyTorch, and 7.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1022.0s - 1028.0s",
+          "query": "I'm sorry, I can't analyze videos directly from images or descriptions. However, if you describe the content to me, I'd be happy to help summarize it!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 28.838968515396118
+    },
+    {
+      "comment_index": 2990,
       "video_id": "DmqFbgKWoao",
       "comment": "9:54 he basically said, \"I just draw in fish eye to flex\" LOLLL",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 6.0,
-      "error": "Video file not found: DmqFbgKWoao",
-      "analysis_type": "failed"
+      "comment_timestamp": 594.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "585.0s - 591.0s",
+          "query": "**Visual:** The video shows two men sitting at a table in an art studio or office space. One man is wearing glasses and a black shirt, while the other is dressed in a gray button-up shirt. They appear to be engaged in a conversation, with the man in gray gesturing with his hands as he speaks. Behind them, there are shelves filled with various items like books, art supplies, and framed pictures.\n\n**Audio:** There is no background music or sound effects; only the voices of the two men can be heard discussing something. Their conversation seems focused and serious."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "591.0s - 597.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 12.28 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.37 GiB is free. Including non-PyTorch memory, this process has 17.18 GiB memory in use. Of the allocated memory 11.98 GiB is allocated by PyTorch, and 4.89 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "597.0s - 603.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.53 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.37 GiB is free. Including non-PyTorch memory, this process has 17.18 GiB memory in use. Of the allocated memory 9.95 GiB is allocated by PyTorch, and 6.92 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 21.939987897872925
     },
     {
-      "comment_index": 1909,
-      "video_id": "DmqFbgKWoao",
-      "comment": "What he says at 15:12 is KEY for anyone wanting to draw or paint more loosely and fluidly. He basically says that he used to draw very tightly and meticulously. Repetition of this technique is what led to an intuitive understanding of form until he no longer needed to have an iron grip on what he was drawing. The understanding was inside him so he could draw the lines as quickly and fluidly as he felt like and it would still turn out looking correct. If you feel like you draw too “tight” just keep practicing over and over and really try to internalize the form, without thinking too much about the tightness or looseness. Before you can draw loosely you draw tightly, even a savant like Kim Jung Gi.",
-      "language": "en",
-      "channel_name": "ProkoTV",
-      "category": "art/design",
-      "likes": 5.0,
-      "error": "Video file not found: DmqFbgKWoao",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1910,
+      "comment_index": 2991,
       "video_id": "DmqFbgKWoao",
       "comment": "2:10 men of culture",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 5.0,
-      "error": "Video file not found: DmqFbgKWoao",
-      "analysis_type": "failed"
+      "comment_timestamp": 130.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "121.0s - 127.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 10.24 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.37 GiB is free. Including non-PyTorch memory, this process has 17.18 GiB memory in use. Of the allocated memory 6.43 GiB is allocated by PyTorch, and 10.44 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "127.0s - 133.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 12.32 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.37 GiB is free. Including non-PyTorch memory, this process has 17.18 GiB memory in use. Of the allocated memory 6.55 GiB is allocated by PyTorch, and 10.32 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "133.0s - 139.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 14.59 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.37 GiB is free. Including non-PyTorch memory, this process has 17.18 GiB memory in use. Of the allocated memory 6.66 GiB is allocated by PyTorch, and 10.21 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 26.367279291152954
     },
     {
-      "comment_index": 1911,
+      "comment_index": 2992,
       "video_id": "DmqFbgKWoao",
       "comment": "1:37 I have not heard of this perspective names😂😂😂",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 5.0,
-      "error": "Video file not found: DmqFbgKWoao",
-      "analysis_type": "failed"
+      "comment_timestamp": 97.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "88.0s - 94.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 35.85 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.37 GiB is free. Including non-PyTorch memory, this process has 17.18 GiB memory in use. Of the allocated memory 8.03 GiB is allocated by PyTorch, and 8.84 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "94.0s - 100.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 52.22 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.37 GiB is free. Including non-PyTorch memory, this process has 17.18 GiB memory in use. Of the allocated memory 9.17 GiB is allocated by PyTorch, and 7.70 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "100.0s - 106.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 71.66 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.37 GiB is free. Including non-PyTorch memory, this process has 17.18 GiB memory in use. Of the allocated memory 10.50 GiB is allocated by PyTorch, and 6.37 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 13.618626117706299
     },
     {
-      "comment_index": 1912,
+      "comment_index": 2993,
       "video_id": "DmqFbgKWoao",
       "comment": "5:33 I have a question for you Stan, I think I have heard you mentioning \"the math behind perspective\", but I saw Marshall's videos, I've read enough of perspective books to understand the basic concepts like vanishing points, horizon line, etc. but I've never seen math used beyond the basic concepts of perpendicular, parallel, oblique and at most angle measurements. Is that all there is? or is there a point where you really get deep into trigonometry?  In computer graphics you have a view matrix, a projection matrix and a model matrix that map 3d coordinates to 2d coordinates in the projection plane, I understand enough of it to look deeper and find how it could be done on paper, there's a lot of sine and cosine calculations, angles to radians, vectors, matrices and even quaternions, which I get, but I still feel like I am missing the glue between human drawing and computer drawing, and \"the math behind perspective drawing\" just seems to be it, yet I am not able to find math past elementary school math in perspective drawing, just a lot of intuition. Thank you and best regards!",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 5.0,
-      "error": "Video file not found: DmqFbgKWoao",
-      "analysis_type": "failed"
+      "comment_timestamp": 333.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "324.0s - 330.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 11.61 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.37 GiB is free. Including non-PyTorch memory, this process has 17.18 GiB memory in use. Of the allocated memory 6.51 GiB is allocated by PyTorch, and 10.36 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "330.0s - 336.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 13.81 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.37 GiB is free. Including non-PyTorch memory, this process has 17.18 GiB memory in use. Of the allocated memory 6.62 GiB is allocated by PyTorch, and 10.24 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "336.0s - 342.0s",
+          "query": "**Visual:** The video shows a series of detailed pencil sketches. There are various scenes including people sitting at tables, a crowd of people standing together, and some abstract line drawings that seem to depict movement or chaos. The lines are very intricate and there's a lot of detail.\n\n**Audio:** There is no discernible dialogue or music in the video. It appears to be completely silent."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 41.960214376449585
     },
     {
-      "comment_index": 1913,
+      "comment_index": 2994,
+      "video_id": "DmqFbgKWoao",
+      "comment": "What he says at 15:12 is KEY for anyone wanting to draw or paint more loosely and fluidly. He basically says that he used to draw very tightly and meticulously. Repetition of this technique is what led to an intuitive understanding of form until he no longer needed to have an iron grip on what he was drawing. The understanding was inside him so he could draw the lines as quickly and fluidly as he felt like and it would still turn out looking correct. If you feel like you draw too “tight” just keep practicing over and over and really try to internalize the form, without thinking too much about the tightness or looseness. Before you can draw loosely you draw tightly, even a savant like Kim Jung Gi.",
+      "language": "en",
+      "channel_name": "ProkoTV",
+      "category": "art/design",
+      "likes": 5.0,
+      "comment_timestamp": 912.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "903.0s - 909.0s",
+          "query": "**Visual:** The video shows two large black-and-white sketches displayed side by side on a screen. One sketch depicts an outdoor scene with trees, buildings, and people walking around. The other shows a more detailed interior space, possibly a church or cathedral, with intricate architectural elements like columns and arches.\n\n**Audio:** There is no audible speech, music, or sound effects in the video; it appears to be completely silent."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "909.0s - 915.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 10.32 GiB. GPU 0 has a total capacity of 23.56 GiB of which 6.37 GiB is free. Including non-PyTorch memory, this process has 17.18 GiB memory in use. Of the allocated memory 10.92 GiB is allocated by PyTorch, and 5.95 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "915.0s - 921.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 12.32 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.29 GiB is free. Including non-PyTorch memory, this process has 19.26 GiB memory in use. Of the allocated memory 18.64 GiB is allocated by PyTorch, and 307.91 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 56.8581657409668
+    },
+    {
+      "comment_index": 2995,
       "video_id": "DmqFbgKWoao",
       "comment": "What was he doing at 2:20",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 5.0,
-      "error": "Video file not found: DmqFbgKWoao",
-      "analysis_type": "failed"
+      "comment_timestamp": 140.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "131.0s - 137.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 13.81 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.29 GiB is free. Including non-PyTorch memory, this process has 19.26 GiB memory in use. Of the allocated memory 6.62 GiB is allocated by PyTorch, and 12.32 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "137.0s - 143.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 16.21 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.29 GiB is free. Including non-PyTorch memory, this process has 19.26 GiB memory in use. Of the allocated memory 6.74 GiB is allocated by PyTorch, and 12.21 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "143.0s - 149.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 18.80 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.29 GiB is free. Including non-PyTorch memory, this process has 19.26 GiB memory in use. Of the allocated memory 6.86 GiB is allocated by PyTorch, and 12.09 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 30.334587335586548
     },
     {
-      "comment_index": 1914,
+      "comment_index": 2996,
       "video_id": "DmqFbgKWoao",
-      "comment": "I was surprised. 16:59 yonghwan kim was a Korean children story illustrator (70 ~ 80s). His paintings are very similar to the Kim Jung Gi.(Many animals, accessories, Props, A variety of expressions, and chaos atmospheres, ETC.) Kim said. My favorite drawings are by American legendary illustrator Norman Rockwell (1894-1978) and painter Yong-hwan Kim(1912-1998).",
+      "comment": "1:28 which perspective should i use 4:10 perspective theory 6:23 perspective 6:39 cross contour lines 7:27 the three axes 9:45 fisheye perspective  9:56 fisheye structure  13:21 visualization  18:15 humanize a creature 19:50 micro designs",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
-      "likes": 4.0,
-      "error": "Video file not found: DmqFbgKWoao",
-      "analysis_type": "failed"
+      "likes": 5.0,
+      "comment_timestamp": 596.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "587.0s - 593.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 2 has a total capacity of 23.56 GiB of which 5.91 GiB is free. Including non-PyTorch memory, this process has 17.64 GiB memory in use. Of the allocated memory 11.10 GiB is allocated by PyTorch, and 6.23 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "593.0s - 599.0s",
+          "query": "**Visual:** The video shows a man sitting at a desk with a bookshelf filled with books behind him. He is wearing glasses and a black shirt, and he appears to be speaking or explaining something while gesturing with his hands.\n\n**Audio:** There is no background music or sound effects; only the man's voice can be heard, likely providing information or narration related to the visuals."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "599.0s - 605.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 12.28 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.29 GiB is free. Including non-PyTorch memory, this process has 19.26 GiB memory in use. Of the allocated memory 11.98 GiB is allocated by PyTorch, and 6.97 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 178.65683507919312
     },
     {
-      "comment_index": 1915,
-      "video_id": "DmqFbgKWoao",
-      "comment": "19:06 You know you dont draw enough if you don't have imprint on your fingers :)",
-      "language": "en",
-      "channel_name": "ProkoTV",
-      "category": "art/design",
-      "likes": 4.0,
-      "error": "Video file not found: DmqFbgKWoao",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1916,
+      "comment_index": 2997,
       "video_id": "DmqFbgKWoao",
       "comment": "God what an absolute freaking madman! Love him so much. Also who else thinks that the gangster frog at 18:54 is so freaking awesome",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 4.0,
-      "error": "Video file not found: DmqFbgKWoao",
-      "analysis_type": "failed"
+      "comment_timestamp": 1134.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1125.0s - 1131.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 15.80 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.29 GiB is free. Including non-PyTorch memory, this process has 19.26 GiB memory in use. Of the allocated memory 6.72 GiB is allocated by PyTorch, and 12.23 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1131.0s - 1137.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 18.36 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.29 GiB is free. Including non-PyTorch memory, this process has 19.26 GiB memory in use. Of the allocated memory 6.84 GiB is allocated by PyTorch, and 12.11 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1137.0s - 1143.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 21.11 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.29 GiB is free. Including non-PyTorch memory, this process has 19.26 GiB memory in use. Of the allocated memory 6.95 GiB is allocated by PyTorch, and 11.99 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 31.919614553451538
     },
     {
-      "comment_index": 1917,
+      "comment_index": 2998,
       "video_id": "DmqFbgKWoao",
-      "comment": "14:59 bro really says the inside of a human brain might be \"too boring\" fucking god tier",
+      "comment": "19:06 You know you dont draw enough if you don't have imprint on your fingers :)",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
-      "likes": 3.0,
-      "error": "Video file not found: DmqFbgKWoao",
-      "analysis_type": "failed"
+      "likes": 4.0,
+      "comment_timestamp": 1146.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1137.0s - 1143.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 21.11 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.29 GiB is free. Including non-PyTorch memory, this process has 19.26 GiB memory in use. Of the allocated memory 6.95 GiB is allocated by PyTorch, and 11.99 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1143.0s - 1149.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 24.05 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.29 GiB is free. Including non-PyTorch memory, this process has 19.26 GiB memory in use. Of the allocated memory 7.07 GiB is allocated by PyTorch, and 11.88 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1149.0s - 1155.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 27.18 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.29 GiB is free. Including non-PyTorch memory, this process has 19.26 GiB memory in use. Of the allocated memory 7.19 GiB is allocated by PyTorch, and 11.76 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 36.20861029624939
     },
     {
-      "comment_index": 1918,
+      "comment_index": 2999,
+      "video_id": "DmqFbgKWoao",
+      "comment": "I was surprised. 16:59 yonghwan kim was a Korean children story illustrator (70 ~ 80s). His paintings are very similar to the Kim Jung Gi.(Many animals, accessories, Props, A variety of expressions, and chaos atmospheres, ETC.) Kim said. My favorite drawings are by American legendary illustrator Norman Rockwell (1894-1978) and painter Yong-hwan Kim(1912-1998).",
+      "language": "en",
+      "channel_name": "ProkoTV",
+      "category": "art/design",
+      "likes": 4.0,
+      "comment_timestamp": 1019.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1010.0s - 1016.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 35.85 GiB. GPU 0 has a total capacity of 23.56 GiB of which 4.29 GiB is free. Including non-PyTorch memory, this process has 19.26 GiB memory in use. Of the allocated memory 8.03 GiB is allocated by PyTorch, and 10.92 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1016.0s - 1022.0s",
+          "query": "**Visual:** The video shows a series of black-and-white sketches that transition into colorful illustrations. Initially, there's a detailed sketch of a bustling cityscape with various figures and buildings. As it progresses, the scene shifts to more abstract and vibrant drawings, including a woman's face and a child-like figure holding a blue object.\n\n**Audio:** There is no discernible dialogue or spoken words in the audio portion of the video. Instead, there seems to be background music playing throughout the entire clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1022.0s - 1028.0s",
+          "query": "I'm sorry, I can't analyze videos directly from images or descriptions. However, if you describe the content to me, I'd be happy to help summarize it!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 73.80688261985779
+    },
+    {
+      "comment_index": 3000,
       "video_id": "DmqFbgKWoao",
       "comment": "2:15 I love his art, but wtf is that drawing on the right",
       "language": "en",
       "channel_name": "ProkoTV",
       "category": "art/design",
       "likes": 3.0,
-      "error": "Video file not found: DmqFbgKWoao",
-      "analysis_type": "failed"
-    },
-    {
-      "comment_index": 1919,
-      "video_id": "DmqFbgKWoao",
-      "comment": "2:16 what is bro doing😅",
-      "language": "en",
-      "channel_name": "ProkoTV",
-      "category": "art/design",
-      "likes": 3.0,
-      "error": "Video file not found: DmqFbgKWoao",
-      "analysis_type": "failed"
+      "comment_timestamp": 135.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "126.0s - 132.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 191.37 GiB. GPU 0 has a total capacity of 23.56 GiB of which 861.00 MiB is free. Including non-PyTorch memory, this process has 22.71 GiB memory in use. Of the allocated memory 18.49 GiB is allocated by PyTorch, and 3.91 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "132.0s - 138.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 14.20 GiB. GPU 0 has a total capacity of 23.56 GiB of which 13.16 GiB is free. Including non-PyTorch memory, this process has 10.39 GiB memory in use. Of the allocated memory 6.64 GiB is allocated by PyTorch, and 3.44 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "138.0s - 144.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 16.63 GiB. GPU 0 has a total capacity of 23.56 GiB of which 13.16 GiB is free. Including non-PyTorch memory, this process has 10.39 GiB memory in use. Of the allocated memory 6.76 GiB is allocated by PyTorch, and 3.32 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 28.35760235786438
     }
   ]
 }

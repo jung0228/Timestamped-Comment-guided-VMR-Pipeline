@@ -1,0 +1,609 @@
+{
+  "video_id": "UtsfUAHkyWQ",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 19219,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "At 1:16 the last Pringle can standing",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 650.0,
+      "comment_timestamp": 76.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "67.0s - 73.0s",
+          "query": "Visual: The video shows two men working on loading or unloading items from a Walmart truck. There's a large pile of colorful cans stacked inside the open back of the truck. One man is reaching into the truck while another stands nearby.\n\nAudio: Background music plays throughout the entire clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "73.0s - 79.0s",
+          "query": "Visual: The video shows two large mascots, one white with black spots resembling a panda, and another dressed like a superhero with red cape and mask. They're surrounded by various colorful objects that seem to be thrown or scattered around them. There's also a hand reaching out from the bottom right corner.\n\nAudio: You can hear cheering and clapping in the background, along with some shouting and music playing throughout."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "79.0s - 85.0s",
+          "query": "Visual: The video shows a person sitting on a chair with a ping pong ball in hand, ready to play or perform some trick shots. There's also an image of a slingshot being used for a trick shot.\n\nAudio: Music is playing throughout the clip, setting a lively tone. A voice can be heard saying \"we made a sling shot watch this.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 167.3826310634613
+    },
+    {
+      "comment_index": 19220,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "Garrett is always in his own world 😂😂 2:40",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 600.0,
+      "comment_timestamp": 160.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "151.0s - 157.0s",
+          "query": "Visual: The video shows a large cylindrical object with \"Snickers\" branding on it. There's also a red fire extinguisher visible. People can be seen walking around near these objects.\n\nAudio: Music is playing throughout the clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "157.0s - 163.0s",
+          "query": "**Visual:** The video shows five men standing behind a large red object that resembles a surfboard or a similar long item with white designs on it. They appear to be outdoors, possibly in a park or open area with trees visible in the background. One man is wearing a pink shirt, another in blue, one in black, one in maroon, and the last in green.\n\n**Audio:** There's a male voice speaking over some background music. He says, \"Ladies and gentlemen, we've got an idea and we're not sure if it's a good one.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "163.0s - 169.0s",
+          "query": "Visual: There's a group of men standing behind a large Pringles can that has been decorated with various designs. They seem to be posing for the camera or getting ready for some kind of contest. The background shows an outdoor setting with trees and sky.\n\nAudio: You can hear someone speaking, probably introducing or commenting on the event. It seems like there might be some music playing softly in the background too."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 123.80545687675476
+    },
+    {
+      "comment_index": 19221,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "7:20 that face you make when you get trolled",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 415.0,
+      "comment_timestamp": 440.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "431.0s - 437.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "437.0s - 443.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "443.0s - 449.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.003631114959716797
+    },
+    {
+      "comment_index": 19222,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "dont worry tt you'll get your high five next time..😂 5:02",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 371.0,
+      "comment_timestamp": 302.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "293.0s - 299.0s",
+          "query": "**Visual:** The video shows an indoor setting with a person standing on a platform. There's some equipment around, like a golf putting green and a basketball hoop. The person seems to be preparing for or demonstrating something related to sports.\n\n**Audio:** Background music is playing throughout the clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "299.0s - 305.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 6.07 GiB. GPU 1 has a total capacity of 23.56 GiB of which 5.57 GiB is free. Including non-PyTorch memory, this process has 17.98 GiB memory in use. Of the allocated memory 16.10 GiB is allocated by PyTorch, and 1.56 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "305.0s - 311.0s",
+          "query": "Visual: The video shows an outdoor scene with cars parked on a street. There's also a construction site visible in the background. A person is standing near a building under construction.\n\nAudio: Music is playing throughout the clip."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 359.6598138809204
+    },
+    {
+      "comment_index": 19223,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "5:01 I am about as awkward as that high five fail was.",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 305.0,
+      "comment_timestamp": 301.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "292.0s - 298.0s",
+          "query": "Visual: The video shows someone playing golf indoors on a green mat. There's an orange ball being hit with a club. In the background, there are some posters or pictures on the wall.\n\nAudio: Music is playing throughout the entire 6 seconds of the video."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "298.0s - 304.0s",
+          "query": "Visually, there's an indoor setting with artificial turf on the ground. A person is seen jumping or performing some kind of action near a basketball hoop attached to a green pillar labeled \"DUDEPERFECT.\" The room has various posters and pictures on the walls, including one that looks like a silhouette of a skateboarder. There s also a pool table visible in the background.\n\nIn terms of audio, it starts with upbeat music playing throughout most of the clip. Then, laughter can be heard around halfway through, followed by shouting."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "304.0s - 310.0s",
+          "query": "**Visual:** The video shows an outdoor scene with a clear blue sky and some clouds. There's a large building in the background that appears to be under construction or renovation, with scaffolding visible. In front of the building, there are several parked cars and a few trees without leaves, suggesting it might be winter or early spring. A white pickup truck is driving on a road near the building.\n\n**Audio:** The audio features upbeat hip-hop music playing throughout the entire clip. There are no distinct speech or sound effects heard."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 228.77199506759644
+    },
+    {
+      "comment_index": 19224,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "3:06 I wish we could vibe like that",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 193.0,
+      "comment_timestamp": 186.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "177.0s - 183.0s",
+          "query": "**Visual:** The video shows a man in a blue shirt playing shuffleboard indoors. He's pushing a puck along a long wooden table with his right hand while standing on one side. There are couches, lamps, and some decorations visible in the background.\n\n**Audio:** Music is playing throughout the video, and there's also a short shout or cheer heard around the middle of it."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "183.0s - 189.0s",
+          "query": "Sure! So, visually, there's someone standing on a skateboard in an indoor skate park. They're wearing a blue shirt with some red design on it. The background has ramps and other skateboarding equipment. There are also some people sitting or lying down nearby, looking at their phones or just relaxing.Audience-wise, I can't really tell much about the audio since it's not provided.Anything else you want to know?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "189.0s - 195.0s",
+          "query": "Visual: The video shows two people inside a large cardboard tube. They seem to be having fun, laughing and moving around. One person is wearing a green shirt and has their hands up near their face, while the other is in a blue shirt with their arms raised. There's also someone outside the tube, partially visible, who appears to be interacting with them. The scene looks like it might be outdoors due to some light coming through.\n\nAudio: I can't really make out any specific words or clear speech from this short clip. But there seems to be some kind of background noise, maybe wind or ambient outdoor sounds. It gives off an overall lively vibe though.What do you think about this? Do you have any other videos you want me to analyze?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 270.24232721328735
+    },
+    {
+      "comment_index": 19225,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "0:56 Just imagine, if that hadn't fallen in the cup and bounced off the edge😂 We could've seen rage monster 😆",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 165.0,
+      "comment_timestamp": 56.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "47.0s - 53.0s",
+          "query": "Visual: The video shows an indoor setting with some kind of mechanical or industrial equipment. There's a long metallic structure that seems to be part of it. In the background, there are people wearing green shirts, possibly workers or technicians. One person is sitting on a chair near the equipment. The overall scene looks like a factory or workshop.\n\nAudio: There's music playing throughout most of the clip. At one point, someone shouts \"Smash!\" which could indicate excitement or celebration related to something happening in the video."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "53.0s - 59.0s",
+          "query": "Visual: The video shows several people in an indoor setting with furniture like couches and tables. There's someone lying on the floor near some objects, while others stand around. A large stuffed panda is also visible. The scene seems to be in a casual or recreational space.\n\nAudio: Music plays throughout the video, creating a lively atmosphere. There are no distinct speech or sound effects that can be clearly identified from this short clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "59.0s - 65.0s",
+          "query": "Sure! So, visually, there's a group of people in an indoor space with some kind of sports equipment around. They seem to be having fun, maybe celebrating or cheering. There s also someone holding a camera, taking selfies or videos. The scene looks lively and energetic.Audience-wise, it seems like there might be music playing in the background, adding to that festive vibe. And yeah, there are definitely sounds of excitement, like shouting and cheering.What do you think about it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 241.21020460128784
+    },
+    {
+      "comment_index": 19226,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "I LOVE GOD. He has done so much for us. My favorite quote from the bible is \"I can do anything through him who gives me strengths\"- Phillipians 4:13. He gives me so much strength and wisdom to overcome anything. AMEN.",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 147.0,
+      "comment_timestamp": 253.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "244.0s - 250.0s",
+          "query": "**Visual:** The video shows an indoor setting with artificial turf on the floor. There's a person wearing blue shorts and a dark shirt standing near some equipment. In the background, there are various items like a basketball hoop, a pool table, and some posters or signs on the walls. Another individual is seen walking across the room.\n\n**Audio:** Music is playing throughout the clip, creating a lively atmosphere. There's also a voiceover that says \"Get into hole.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "250.0s - 256.0s",
+          "query": "Visually, there's an indoor setting with some sports equipment like a basketball hoop visible. There are also people standing around, one holding something that looks like a ping pong ball. The scene seems to be focused on these individuals and their interaction with the ball.\n\nIn terms of audio, it starts off with shouting or yelling, then transitions into someone speaking about a ping pong ball. There s no background music, just the spoken words and possibly some faint ambient noise from inside the building."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "256.0s - 262.0s",
+          "query": "Visual: The video shows several kids playing with an exercise ball on a grassy field. There are some banners around them that seem to be related to sports or activities. In the background, there are trees without leaves, suggesting it might be winter or early spring. A car is also visible parked near the edge of the field.\n\nAudio: Someone is speaking over the video, mentioning \"basketball\" and \"this is an exercise ball.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 311.00200510025024
+    },
+    {
+      "comment_index": 19227,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "0:58 After you tried 1000 times and finally got it, that emotion is amazing",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 111.0,
+      "comment_timestamp": 58.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "49.0s - 55.0s",
+          "query": "Visually, there's a group of people in an indoor setting. One person is lying on the floor near some objects like cups and a table with items scattered around. There s also someone sitting on a couch or chair nearby. The scene seems to be in a room with furniture and possibly a TV or screen in the background. The overall color scheme looks neutral, mostly whites and grays.\n\nIn terms of audio, I can hear music playing throughout most of it. There's also some speech from one of the people in the room, though it's not clear enough to make out specific words. It might be instructions or commentary related to what they're doing."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "55.0s - 61.0s",
+          "query": "**Visual:** The video shows four men in an indoor setting that looks like a recreational room or arcade. They're all wearing green shirts except for one man who's dressed differently. There s a large panda mascot sitting on a table in front of them. One man is lying down on the floor while another is standing behind him with his arms raised. The other two men are also standing nearby, seemingly reacting to something off-camera.\n\n**Audio:** The audio includes some shouting and screaming, which seems to be part of the chaotic scene happening in the video."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "61.0s - 67.0s",
+          "query": "**Visual:** The video shows two men standing outside a building with \"Dude Perfect\" signage on it. One man is wearing a black cap and has his arms outstretched while smiling. Another man in a light blue shirt is also smiling and appears to be holding something up. There's a large Walmart truck parked nearby.\n\n**Audio:** The audio includes shouting and cheering, likely from an audience or spectators."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 97.96544003486633
+    },
+    {
+      "comment_index": 19228,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "4:35 sneaking in that thumbnail before doing the shot 😂😂",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 110.0,
+      "comment_timestamp": 275.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "266.0s - 272.0s",
+          "query": "**Visual:** The video shows several people outdoors on a grassy field. There's a large inflatable Pringles can being held up by two individuals. One person is wearing a green shirt while another is in blue. In the background, there are trees without leaves, suggesting it might be autumn or winter. The sky looks overcast.\n\n**Audio:** The audio includes shouting and cheering from multiple voices, likely from the people in the video. There's also upbeat music playing throughout the clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "272.0s - 278.0s",
+          "query": "Sure! So, for the visual part:.There's someone in a green shirt and red shoes doing some kind of acrobatic move on a metal structure. The background has a modern look with a bar area featuring stools and a counter. There are also some decorative elements like hanging items above the bar.On the audio side:.You can hear cheering and clapping from an audience, along with upbeat music playing in the background.Anything else you want to know about it?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "278.0s - 284.0s",
+          "query": "Visual: The video shows an indoor setting with some furniture like stools and a table. There's also a person wearing white shoes visible on the right side. The floor has a textured carpet. The scene seems to be focused on a specific area within this room.\n\nAudio: The audio features music playing throughout the entire clip. It doesn't seem to include any distinct speech or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 186.8561074733734
+    },
+    {
+      "comment_index": 19229,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "3:44 after 5  years just realized what garrett did there",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 108.0,
+      "comment_timestamp": 224.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "215.0s - 221.0s",
+          "query": "**Visual:** The video shows an outdoor scene with a large cylindrical object lying on its side on grassy ground. A person is partially inside or near it, seemingly interacting with it. There's another individual running towards them from behind. Trees and a clear sky are visible in the background.\n\n**Audio:** Sounds of laughter and shouting can be heard throughout the clip, suggesting a playful or excited atmosphere. No distinct speech or other specific audio elements stand out."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "221.0s - 227.0s",
+          "query": "Visually, there's an outdoor scene with several people engaged in some kind of activity on a grassy field. One person is bending over near the ground, while others seem to be moving around or interacting with objects like sticks or poles scattered across the area. The sky looks clear and blue.\n\nIn terms of audio, I can hear laughter and shouting from the people in the video. There s also background music playing throughout."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "227.0s - 233.0s",
+          "query": "Visual: The video shows several people on an outdoor field with some greenery around. They seem to be engaged in a game involving colorful objects that look like bottles or cans placed on the ground. One person is actively hitting these objects with a stick-like object while others watch or participate. The clothing suggests it's cool weather.\n\nAudio: There s upbeat music playing throughout the clip, along with laughter from the participants, indicating they're having fun."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 243.6349332332611
+    },
+    {
+      "comment_index": 19230,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "3:31 I see someone in the left side",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 99.0,
+      "comment_timestamp": 211.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "202.0s - 208.0s",
+          "query": "Visual: The video shows someone riding a skateboard down a dirt path. There's another person standing nearby watching. The setting appears to be outdoors with some trees visible in the background.\n\nAudio: You can hear shouting and screaming throughout the clip, along with some background noise that might be from other people or vehicles."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "208.0s - 214.0s",
+          "query": "Visual: The video shows someone inside a large cylindrical structure, possibly a tunnel or a tube, which is lying on its side. There's an open field with some trees around it visible through the opening of the cylinder. The person seems to be moving or adjusting their position within the cylinder.\n\nAudio: Background music can be heard throughout the entire clip. There are no distinct speech or sound effects that stand out from the music."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "214.0s - 220.0s",
+          "query": "**Visual:** The video shows someone inside a large cylindrical object lying on its side on a grassy field. The person appears to be moving or adjusting their position within it. The background includes trees and an open sky with some clouds.\n\n**Audio:** There is shouting heard throughout the clip, which seems intense and possibly distressing. No other distinct sounds like music or conversation are present."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 188.99853110313416
+    },
+    {
+      "comment_index": 19231,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "Anyone that thinks 2:26 was fake it's not. The air is pushing the ball up because it's hot outside where they're recording and the ball floats because it's light not heavy. It's aerodynamics, science, and most of all, logic.",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 73.0,
+      "comment_timestamp": 146.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "137.0s - 143.0s",
+          "query": "**Visual:** The video shows an outdoor scene with a large white ball being thrown or dropped from above. There's a person standing on a rooftop overlooking a parking lot filled with cars. In the background, there are buildings and some trees visible.\n\n**Audio:** The audio includes upbeat music playing throughout the clip. There is also laughter heard at one point during the video."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "143.0s - 149.0s",
+          "query": "Visual: The video shows an outdoor scene with a multi-story parking garage on one side. There's also a signboard near the parking area. A person is seen walking towards the camera while another figure appears to be moving away from it. The sky above looks clear.\n\nAudio: Music plays throughout the entire duration of the clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "149.0s - 155.0s",
+          "query": "Visual: The video shows an outdoor scene with buildings, including a parking garage. There's also a large red object that looks like a fire extinguisher being held or moved around. People can be seen walking near the building.\n\nAudio: Music is playing throughout the clip, along with some shouting from someone off-screen."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 175.96677899360657
+    },
+    {
+      "comment_index": 19232,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "3:30, omg, there is someone stalking them in the top left corner. It kinda looks like slender man",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 61.0,
+      "comment_timestamp": 210.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "201.0s - 207.0s",
+          "query": "Sure! So, visually, there's someone wearing red sneakers and blue socks standing on grass. You can also spot some trees and a road with cars passing by in the background. There s another person lying down nearby, maybe resting or just sitting.Anything else you want to know about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "207.0s - 213.0s",
+          "query": "**Visual:** The video shows someone riding inside a large cardboard tube on a grassy field. There's another person visible outside the tube, seemingly guiding or interacting with it. The background includes trees and an open sky.\n\n**Audio:** The audio features laughter and shouting, suggesting a playful or joyful atmosphere. There is also some background music playing throughout."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "213.0s - 219.0s",
+          "query": "Visually, there's a large cylindrical object on the ground with someone inside it. The person seems to be moving around or adjusting their position within the cylinder. The background shows an outdoor setting with trees and possibly some water in the distance.\n\nIn terms of audio, I can hear laughter and shouting from multiple voices, suggesting a group of people having fun. There's also upbeat music playing throughout the clip."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 177.15038204193115
+    },
+    {
+      "comment_index": 19233,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "at 4:21 when he throws the exercise ball, slow it down and you can clearly see it has been edited, the speed of the ball falling changes speed abnormally",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 51.0,
+      "comment_timestamp": 261.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "252.0s - 258.0s",
+          "query": "Visually, there are three men standing on a grassy field with some houses and trees in the background. One man is wearing a blue shirt and shorts, another in green, and the third in black. They seem to be interacting casually. There's also a can on the ground near them.\n\nAudio-wise, it starts with some kind of impact sound, then someone says \"This is a basketball.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "258.0s - 264.0s",
+          "query": "Visual: The video shows an outdoor scene with several people playing with a ball. There are large Pringles can-shaped objects around them. The background has some trees without leaves, suggesting it might be winter or early spring. The ground is grassy.\n\nAudio: There's upbeat music playing throughout the clip. No specific speech or dialogue is heard."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "264.0s - 270.0s",
+          "query": "**Visual:** The video shows an outdoor scene with several large inflatable Pringles cans scattered around. People are interacting with these cans, some pushing or playing near them. The setting appears to be a grassy field on a cloudy day.\n\n**Audio:** There is energetic background music playing throughout the clip, along with occasional shouting from individuals involved in the activity."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 183.7377097606659
+    },
+    {
+      "comment_index": 19234,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "2:25 bloke in the truck witnessed greatness",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 48.0,
+      "comment_timestamp": 145.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "136.0s - 142.0s",
+          "query": "Visual: A person is seen throwing a large Pringles can into a parking lot filled with cars. The background shows some buildings and trees without leaves, suggesting it might be winter or early spring. There's also a sign visible that says \"PARKING\".Audio: The main audio features music playing throughout the clip. There are no distinct speech or sound effects heard.Does this match what you were expecting? Let me know if there's anything else you noticed!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "142.0s - 148.0s",
+          "query": "**Visual:** The video shows an outdoor scene with a parking lot in front of a multi-story building. There's a person standing near some parked cars. The sky is clear with a few clouds.\n\n**Audio:** Music is playing throughout the clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "148.0s - 154.0s",
+          "query": "**Visual:** The video shows an outdoor scene with a parking garage structure prominently featured. There's also a large Pringles canister sign visible near the building. A person is seen walking on the sidewalk in front of these structures.\n\n**Audio:** Music plays throughout the entire duration of the clip."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 191.88752102851868
+    },
+    {
+      "comment_index": 19235,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "0:37 That looked like a bird, laying egg.",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 47.0,
+      "comment_timestamp": 37.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "28.0s - 34.0s",
+          "query": "Visual: The scene shows an indoor setting with various objects like a green ladder, some equipment on the floor, and a table in the background. There's also a poster or sign visible on the wall.\n\nAudio: Someone is speaking over the video, though I can't make out the exact words due to the short duration. It seems to be a normal conversation or narration without any distinct sound effects or music."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "34.0s - 40.0s",
+          "query": "**Visual:** The video shows an indoor setting with a ladder positioned near some hanging lights. There's also a glass railing visible. The room has light-colored walls and windows letting in natural light.\n\n**Audio:** The audio includes background music playing throughout the clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "40.0s - 46.0s",
+          "query": "**Visual:** The video shows an indoor space with exercise equipment like a treadmill and a stationary bike. There's also some wall art visible. It seems to be a home gym or fitness area.\n\n**Audio:** There is background music playing throughout the clip. No specific dialogue or speech can be heard."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 152.46785736083984
+    },
+    {
+      "comment_index": 19236,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "2:07 Garret’s Reaction 😂",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 43.0,
+      "comment_timestamp": 127.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "118.0s - 124.0s",
+          "query": "Visual: The video shows an indoor setting with a table that has various items on it, like snacks and drinks. There's also some kind of game or activity happening around the table. People are standing nearby, possibly observing or waiting for their turn.\n\nAudio: The main thing heard is music playing throughout the entire clip. There doesn't seem to be any distinct speech or other notable sounds."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "124.0s - 130.0s",
+          "query": "Sure! So, visually, there's a guy in a blue shirt throwing something at a wooden board. There are other people around too. The scene looks like it s indoors, maybe some kind of recreational area. The colors seem pretty muted, mostly browns and grays.The audio? Well, there s upbeat music playing throughout. You can also hear someone shouting \"Yeah!\" and then there s applause. It seems like they re celebrating or cheering for whatever just happened.Does that help? Let me know if you want to dive deeper into any part!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "130.0s - 136.0s",
+          "query": "**Visual:** The video shows an aerial view of a parking lot with several cars parked. There's also some greenery visible around the edges. A person is standing on a rooftop holding a large Pringles can.\n\n**Audio:** Music plays throughout the entire clip."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 192.95541405677795
+    },
+    {
+      "comment_index": 19237,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "2:43 says \"first annual\" then never does it again 🤦‍♂️",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 43.0,
+      "comment_timestamp": 163.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "154.0s - 160.0s",
+          "query": "Visual: The video shows several men standing around a large red object that looks like a fire extinguisher. They seem to be posing or getting ready for something. There's also a building with windows visible in the background.\n\nAudio: A man is speaking over some music playing in the background. He says \"ladies and gentlemen we've got an idea\" and then \"we're not.\" It seems like he might be introducing or explaining something related to the scene."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "160.0s - 166.0s",
+          "query": "Visual: There's a group of men standing behind a large red table with \"Dude Perfect\" written on it. They seem to be getting ready for some kind of contest or event. The background shows an outdoor setting with trees and a clear sky.\n\nAudio: Someone is speaking, saying something like \"it's a good one for the first annual dude perfect giant Pringle can.\" It seems like they're introducing or commenting on the event."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "166.0s - 172.0s",
+          "query": "Visually, there's a group of five men sitting at a table with a large Pringles can on it. They seem to be posing for something. The background looks like an outdoor setting with some trees visible. The Pringles can is red and white with its logo clearly shown.\n\nAudio-wise, I hear a man speaking over some upbeat music playing in the background. There aren't any other distinct sounds or effects that stand out."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 219.61560106277466
+    },
+    {
+      "comment_index": 19238,
+      "video_id": "UtsfUAHkyWQ",
+      "comment": "pretty obvious that 4:20 is fake",
+      "language": "en",
+      "channel_name": "DudePerfect",
+      "category": "entertainment",
+      "likes": 43.0,
+      "comment_timestamp": 260.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "251.0s - 257.0s",
+          "query": "Visual: The video shows three men standing on a grassy field. One man is wearing a blue shirt and shorts, another in green with white pants, and the third in black with gray pants. There's a ping pong ball on the ground near them. In the background, there are some trees without leaves, suggesting it might be autumn or winter.\n\nAudio: There's no clear dialogue or distinct speech heard. Instead, there are some indistinct noises that could be from the environment or possibly some kind of machinery or equipment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "257.0s - 263.0s",
+          "query": "**Visual:** The video shows four people standing on a grassy field with some trees and houses in the background. There's a red and green object that looks like a large inflatable ball or toy. One person is holding an exercise ball while another seems to be bouncing it. The others are watching.\n\n**Audio:** There's no distinct speech or dialogue heard. Instead, there's upbeat music playing throughout the clip."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "263.0s - 269.0s",
+          "query": "**Visual:** The video shows an outdoor scene with several large Pringles cans placed upright on the ground. There are at least three people visible; one person is jumping or moving energetically near the cans while others stand around. The background includes trees without leaves, suggesting it might be autumn or winter, and there's some kind of structure or building far back.\n\n**Audio:** The audio features music playing throughout the clip, along with shouting that occurs towards the end."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 216.4211778640747
+    }
+  ]
+}

@@ -2,71 +2,11 @@
   "video_id": "uN84HhcdIws",
   "total_comments": 20,
   "successful_comments": 20,
-  "failed_comments": 14,
+  "failed_comments": 0,
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 4323,
-      "video_id": "uN84HhcdIws",
-      "comment": "12:00 the way she roasted the permitpatty 😂😂😂",
-      "language": "en",
-      "channel_name": "TheDailyShow",
-      "category": "talk show",
-      "likes": 2.0,
-      "comment_timestamp": 720.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "711.0s - 717.0s",
-          "query": "VISUAL: There's a woman with an afro hairstyle sitting at a desk on a talk show set. She's wearing a floral dress and big hoop earrings. The background shows a cityscape at night. Then there's a man in a suit sitting across from her at the same desk. He seems to be talking and gesturing with his hands.AUDIO: A woman is speaking, saying \"people here what is black we're here too.\" There's also laughter and applause heard in the background.What do you think about the scene?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "717.0s - 723.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk talking to a woman in a floral dress who is also seated across from him. They're in a studio with a cityscape background. The man gestures while speaking.AUDIO: A male voice is heard saying something about how an example was particularly egregious because a woman called the cops on a child. It seems like he's discussing some kind of controversial situation.If you want to talk more about this or have other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "723.0s - 729.0s",
-          "query": "VISUAL: There's a woman with an afro hairstyle sitting at a desk on a talk show set. She's wearing a floral dress and big hoop earrings. The background shows a cityscape at night. There's also a man in a suit across from her, though he's not fully visible in these frames.AUDIO: A female voice is speaking, saying \"Yeah, but what really made me mad is the way she did it.\" Then there's a request to play a video again. It seems like they're discussing something that happened previously in the show.If you want to know more about the context or have any other questions, feel free to ask!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 311.042795419693
-    },
-    {
-      "comment_index": 4322,
-      "video_id": "uN84HhcdIws",
-      "comment": "I still watch this to this day. Why? Because it still happens in your dang USA. 19:43 🤦🏾‍♂️ is equals to USA COPS",
-      "language": "en",
-      "channel_name": "TheDailyShow",
-      "category": "talk show",
-      "likes": 3.0,
-      "comment_timestamp": 1183.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "1174.0s - 1180.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "1180.0s - 1186.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "1186.0s - 1192.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.5563225746154785
-    },
-    {
-      "comment_index": 4321,
+      "comment_index": 4947,
       "video_id": "uN84HhcdIws",
       "comment": "What he said at 19:43 really impacted me, \"you know what's most troubling about this, is that it makes you wonder how many people have been arrested, and put in jail, because everyone assumes the police version of the events is always the truth\" I really felt this in my soul and made me shed a tear.",
       "language": "en",
@@ -79,24 +19,54 @@
         {
           "segment_index": 1,
           "time_range": "1174.0s - 1180.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "query": "Visual: A police officer is seen interacting with someone on the ground near parked vehicles. There's also some paperwork visible.\n\nAudio: Someone is speaking about a report that differs from video evidence regarding an incident involving a handcuffed father. The speaker mentions making him spread his legs."
         },
         {
           "segment_index": 2,
           "time_range": "1180.0s - 1186.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "query": "Visually, the video shows a news anchor in a suit and tie, sitting at a desk. There's a graphic overlay with text and an image of a person in handcuffs. The background seems to be a typical news studio setup. The colors are mostly blue and white, with the anchor's suit being dark.\n\nIn terms of audio, there's a male voice speaking, likely the news anchor, and the text on the screen is being read aloud. There are no other distinct sounds or music."
         },
         {
           "segment_index": 3,
           "time_range": "1186.0s - 1192.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+          "query": "**Visual:** The video shows a news anchor seated at a desk in a studio. Behind him, there's a large screen displaying an image of a person's feet with text that reads, \"I made him spread his feet.\" The background includes a blurred view of a building, possibly a government or official structure. The anchor is dressed formally in a suit and tie, and he appears to be speaking, likely delivering a news report.\n\n**Audio:** The audio features a male voice speaking, which seems to be part of a news broadcast. The speech is clear and professional, typical of a news anchor's delivery. There are no other distinct sounds or music in the audio."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.7793188095092773
+      "processing_time": 272.7779631614685
     },
     {
-      "comment_index": 4324,
+      "comment_index": 4948,
+      "video_id": "uN84HhcdIws",
+      "comment": "12:00 the way she roasted the permitpatty 😂😂😂",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 2.0,
+      "comment_timestamp": 720.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "711.0s - 717.0s",
+          "query": "Visually, there's a woman in a patterned dress sitting at a desk in a studio with a cityscape backdrop. She's gesturing with her hand. Then, a man in a suit appears, also sitting at the desk, and they seem to be interacting. The scene has a professional, talk-show vibe.\n\nAudibly, there's a woman speaking, likely the host, and then a man responding. There's also laughter and applause, suggesting a light-hearted or humorous exchange."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "717.0s - 723.0s",
+          "query": "**Visual:** The video shows two people sitting at a news desk. The background displays a cityscape at dusk or dawn. The desk has a glossy surface with some papers and a microphone. The two individuals are engaged in a conversation, with one person gesturing while speaking.\n\n**Audio:** The audio features a man speaking. He seems to be discussing something related to a woman calling the police on a child, which he describes as particularly egregious. The tone suggests he is making a point or explaining a situation."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "723.0s - 729.0s",
+          "query": "Sure! So, visually, there's a woman with an afro hairstyle sitting on a talk show set. She's wearing a floral dress and yellow earrings. The background shows a cityscape at night.The audio is just her speaking, saying something that made someone mad about how she did it.Anything else you want to know?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 299.4392566680908
+    },
+    {
+      "comment_index": 4949,
       "video_id": "uN84HhcdIws",
       "comment": "Pls replace the 10:29 's tittle to 👉 the funniest 911 calling 😩👍  🤣🤣",
       "language": "en",
@@ -109,114 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "620.0s - 626.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk on a news set with a backdrop of the Capitol building. There's an inset photo showing a group of women posing outdoors. The man seems to be talking about something related to the image.AUDIO: Someone is speaking, saying \"up and oh a race war is breaking out on the fourth hole these douchebags have never seen black.\" It has a somewhat sarcastic or mocking tone.What do you think about that? Any thoughts or questions?"
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk with a backdrop featuring an image of the U.S. Capitol building. There's also a smaller inset photo on the left side showing a group of people outdoors, some wearing hats and casual clothing.\n\n**Audio:** A male voice is speaking, saying \"up oh is breaking out on the fourth hole these douchebags have never seen.\" The tone seems somewhat frustrated or exasperated."
         },
         {
           "segment_index": 2,
           "time_range": "626.0s - 632.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with a backdrop showing buildings like the Capitol. There's also an inset photo of a group of women posing outdoors. The scene has a news studio feel.AUDIO: Someone says \"Black women before all the cops have let them go very nice\" followed by applause and music. It seems to be a bit sarcastic or ironic. What do you think about it?"
+          "query": "Visually, there's a man in a suit and tie standing in front of a backdrop that includes a building resembling the U.S. Capitol. There's also a smaller inset image showing a group of people outdoors, some wearing hats and sunglasses. The colors are mostly muted, with the backdrop being dark and the people's clothing in various colors. The movement is mainly the man speaking and gesturing slightly, while the group in the inset image appears to be posing for a photo.\n\nAudio-wise, there's a man speaking, and then some music starts playing. The speech seems to be in English, and the music is likely background music for the segment."
         },
         {
           "segment_index": 3,
           "time_range": "632.0s - 638.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with his hands outstretched. Behind him, there's an image of some buildings, like the Capitol building. The background has a blue and purple color scheme.AUDIO: There's a male voice speaking about the first weekend of summer. Then there's applause from an audience. After that, music starts playing. What do you think about it?"
+          "query": "Visual: A man in a suit is sitting at a desk with his hands outstretched towards the camera. The background shows a cityscape with buildings lit up at night.\n\nAudio: There's a male voice speaking, likely delivering some kind of commentary or news report."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 209.63602375984192
+      "processing_time": 176.79399299621582
     },
     {
-      "comment_index": 4326,
-      "video_id": "uN84HhcdIws",
-      "comment": "23:06 The worst part?  That poor groundhog had to relive that day, over and over again…",
-      "language": "en",
-      "channel_name": "TheDailyShow",
-      "category": "talk show",
-      "likes": 1.0,
-      "comment_timestamp": 1386.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "1377.0s - 1383.0s",
-          "query": "VISUAL: Two news anchors are sitting at a desk in a studio. There's a screen behind them with \"WBOC 16\" on it. The scene then cuts to an outdoor shot showing a road with cars and a person standing near some trees.AUDIO: There is a male voice speaking about a deputy thinking an animal was dangerous. The sheriff's office declined to comment on camera.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "1383.0s - 1389.0s",
-          "query": "VISUAL: There's a road with multiple lanes. A police car is parked on the side, its lights flashing. There are some trees and grassy areas along the roadside. A person in dark clothing is walking near the police car.AUDIO: Someone is speaking, but it's not clear who or what they're saying. It could be a news report or an announcement. The tone seems serious.If you have any other questions about the video or need more details, feel free to ask!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "1389.0s - 1395.0s",
-          "query": "VISUAL: A person is walking on the side of a road with cars behind them. There's a groundhog on the road blocking traffic. The scene has trees and grass along the roadside.AUDIO: Someone is speaking about investigating and finding the groundhog blocking traffic. They mention that it wasn't responding as expected for an animal not being cornered or trapped.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 227.622296333313
-    },
-    {
-      "comment_index": 4325,
-      "video_id": "uN84HhcdIws",
-      "comment": "😢😢24:48. The poor groundhog was shot for jaywalking. 🪦 that’s why My city has crosswalks for the wild geese who walk across the road between two ponds with their babies.",
-      "language": "en",
-      "channel_name": "TheDailyShow",
-      "category": "talk show",
-      "likes": 1.0,
-      "comment_timestamp": 1488.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "1479.0s - 1485.0s",
-          "query": "VISUAL: There's a man in a blue suit standing against a backdrop with cityscape elements like skyscrapers. The background has some text too. He seems to be smiling or looking at something off - screen.AUDIO: There's music playing throughout the entire clip. No specific speech is heard. What do you think about it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "1485.0s - 1491.0s",
-          "query": "VISUAL: A man in a blue suit is standing against a backdrop that looks like a city skyline at night. There's some text on the screen too. The man seems to be smiling or looking happy. The background has a mix of bright lights from buildings and darker areas, giving it an urban nighttime vibe.AUDIO: There's no spoken dialogue, just instrumental music playing throughout the clip.What do you think about the scene? Do you have any other thoughts or questions related to this?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "1491.0s - 1497.0s",
-          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 103.81997108459473
-    },
-    {
-      "comment_index": 4327,
-      "video_id": "uN84HhcdIws",
-      "comment": "5:48 Woman needs to be called on by that operator 😂😂😂",
-      "language": "en",
-      "channel_name": "TheDailyShow",
-      "category": "talk show",
-      "likes": 1.0,
-      "comment_timestamp": 348.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "339.0s - 345.0s",
-          "query": "VISUAL: A person is walking through what looks like a store or some kind of indoor shopping area. There's another person standing near a counter or display. The setting seems to be indoors with artificial lighting.AUDIO: Someone is speaking, saying \"operator now why don't you upload that to WorldStar.\" It's just one person talking without any other background noises or music. So, what do you think about this? Any thoughts on it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "345.0s - 351.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk on a TV show set with a backdrop of a building that looks like the White House. In an inset image to his left, there's another person wearing sunglasses and a black shirt, standing behind a counter with some items visible on it.AUDIO: A male voice is speaking, saying \"Okay uh first of all goodbye 911 operator.\" It seems like he might be making a joke or being sarcastic about something related to 911 operators.What do you think about the context of this scene?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "351.0s - 357.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk on a TV show set with a backdrop of a building that looks like the White House. There's an inset image of another person wearing sunglasses, standing behind a counter. The main guy has his hands clasped on the desk.AUDIO: Someone is speaking, saying \"White ladies call 911 so much they just talk to them like they're dating is that what it is?\" It seems to be a joke or commentary about calling emergency services. What do you think about this kind of humor?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 254.17445635795593
-    },
-    {
-      "comment_index": 4328,
+      "comment_index": 4950,
       "video_id": "uN84HhcdIws",
       "comment": "i agree with that loud \"what\" at 13:19",
       "language": "en",
@@ -229,144 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "790.0s - 796.0s",
-          "query": "VISUAL: A news anchor is talking about a woman who appeared to call cops on a little girl. There's also an image of a tweet mentioning \"Permit Patty\" and a photo of a young girl with long hair. The background shows a sunset scene over water.AUDIO: Someone is speaking, saying something about a CEO of a company specializing in cannabis edibles for animals. It seems like they're explaining or describing something related to that business."
+          "query": "**Visual:** The video shows a news broadcast. There are multiple frames, including a woman in a blue dress speaking, a man in a suit and tie, and a scene with a sunset or sunrise in the background. The text on the screen indicates a story about a woman appearing to call cops on a little girl. The overall setting seems to be a news studio.\n\n**Audio:** The audio includes a man speaking, likely the news anchor, and possibly some background noise typical of a news studio. There are no distinct sound effects or music."
         },
         {
           "segment_index": 2,
           "time_range": "796.0s - 802.0s",
-          "query": "VISUAL: There's a woman with an afro hairstyle sitting at a desk. She's wearing a floral dress and yellow earrings. The background shows a cityscape at night. She seems to be talking or reacting to something.AUDIO: You can hear laughter and applause from an audience. It sounds like they're enjoying whatever is happening on stage. What do you think might have made them laugh?"
+          "query": "Visually, there's a woman sitting at a desk with her hands folded on it. She has curly hair and is wearing a sleeveless floral dress. The background shows a cityscape at night with lit-up buildings. There's laughter heard from an audience in the audio."
         },
         {
           "segment_index": 3,
           "time_range": "802.0s - 808.0s",
-          "query": "VISUAL: There's a woman with an afro hairstyle sitting at a desk. She's wearing a floral dress and yellow earrings. The background shows a cityscape at night. She seems to be talking or reacting to something.AUDIO: You can hear laughter throughout the clip. It starts around 1.9 seconds and continues until about 5.8 seconds. Then there's some speech from the woman, which is followed by more laughter starting again at about 7.04 seconds and lasting until 9.36 seconds.So, what do you think about that? Any thoughts on why she might be laughing like that?"
+          "query": "Visual: A woman is sitting at a desk in a studio setting. She has curly hair and is wearing a sleeveless floral dress. The background shows a cityscape at night with illuminated buildings. She is gesturing with her hand while speaking. There's a logo in the bottom right corner that says \"The Daily Show with Trevor Noah.\" The desk has a dark surface.\n\nAudio: The woman is speaking, and there is laughter from an unseen audience."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 240.56119203567505
+      "processing_time": 262.2459206581116
     },
     {
-      "comment_index": 4329,
-      "video_id": "uN84HhcdIws",
-      "comment": "17:00  as a belgian I can confirm this is how we speak",
-      "language": "en",
-      "channel_name": "TheDailyShow",
-      "category": "talk show",
-      "likes": 1.0,
-      "comment_timestamp": 1020.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "1011.0s - 1017.0s",
-          "query": "VISUAL: A man in a suit is talking on a news set with an inset image showing two police officers standing near parked cars. The background has a blurred view of some buildings.AUDIO: There's a voice speaking in English, using offensive language directed at a black man. It includes phrases like \"get your ass on the ground\" and \"stop acting like a\".The overall tone seems to be mocking or insulting. What do you think about it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "1017.0s - 1023.0s",
-          "query": "VISUAL: A man in a suit is on a talk show set with an inset image showing two police officers near a car. The background has a blurred crowd and some buildings.AUDIO: There's a man speaking, saying \"Belgian guy I don't know how you speak waffles waffles waffles.\" Then there's laughter."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "1023.0s - 1029.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk on a news set. There's an inset image showing two police officers standing near a car with its hood open. The background has a blurred view of a building that looks like a government structure. The words \"MAD BOYS\" appear next to an image of a police car and a flag.AUDIO: A male voice is speaking about how a family wasn't involved in robbing a bank or holding people hostage. It seems to be part of a commentary or report."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 202.70912098884583
-    },
-    {
-      "comment_index": 4330,
-      "video_id": "uN84HhcdIws",
-      "comment": "14:16 Pretending to call the cops? If that was true, Stop inflicting emotional stress on kids for no reason",
-      "language": "en",
-      "channel_name": "TheDailyShow",
-      "category": "talk show",
-      "likes": 1.0,
-      "comment_timestamp": 856.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "847.0s - 853.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk talking to a woman with an afro hairstyle who is wearing a floral dress. They're both seated behind a glass desk on a TV show set. The background shows a cityscape at dusk or night.The AUDIO: A male voice is speaking about Permat Patty being interviewed by the San Francisco Chronicle and her saying she didn't actually call the cop.If you have any other thoughts or questions about this, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "853.0s - 859.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk talking to a woman with an afro hairstyle who is wearing a floral dress. They seem to be on a talk show set with a cityscape background. The man gestures while speaking, and the woman listens attentively.AUDIO: A female voice says something about pretending to call someone named Trevor. It seems like she's sharing some information or story related to that. There's also some kind of reaction from another person, possibly the host, saying \"Oh\" and then \"Trevor that makes.\""
-        },
-        {
-          "segment_index": 3,
-          "time_range": "859.0s - 865.0s",
-          "query": "VISUAL: There's a woman sitting at a desk with her hands folded on it. She has an afro hairstyle and is wearing a floral dress. The background shows a cityscape at night with tall buildings lit up.AUDIO: A female voice is speaking, saying \"worse because that means she didn't actually care about the permits she wanted to scare.\" It seems like she's talking about someone not caring about getting permits and just wanting to intimidate others.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 254.0746157169342
-    },
-    {
-      "comment_index": 4331,
-      "video_id": "uN84HhcdIws",
-      "comment": "9:15 Doesn’t it take skill and precision to hit a golf ball into a hole. You might wanna go slow on that for the best result and not rush things",
-      "language": "en",
-      "channel_name": "TheDailyShow",
-      "category": "talk show",
-      "likes": 1.0,
-      "comment_timestamp": 555.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "546.0s - 552.0s",
-          "query": "VISUAL: A woman is on a news set with a cityscape background. Then it cuts to an outdoor scene at a golf course where several women are walking together. One of them is pushing a stroller.AUDIO: There's a female voice speaking about women being kicked out of Grandview Golf Club during a game. It seems like she's reporting or narrating something related to this incident.If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "552.0s - 558.0s",
-          "query": "VISUAL: The video shows a group of women on a golf course. They're standing together, smiling at the camera. In another scene, there's a man with a beard wearing a cap, talking to someone off - screen. There are also some other people around him, including an older man with white hair. The background has green grass, trees, and a building.The AUDIO: A woman is speaking about workers saying that the women were playing too slow. Northern York County police confirm authorities were called to the course.If you have any more questions or want to discuss something else related to this, feel free to let me know."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "558.0s - 564.0s",
-          "query": "VISUAL: There's a group of men standing outside a house on a sunny day. One man is speaking to the camera while others listen or look around. The house has a dark roof and light-colored walls. There are trees and other houses visible in the background.AUDIO: A woman is speaking, saying \"Saturday afternoon and at that point the cell phone video confirms the club owners were telling the women to leave.\" It seems like she might be narrating or reporting on an event related to the scene in the video.If you have any thoughts about this or want to discuss more, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 275.5046434402466
-    },
-    {
-      "comment_index": 4332,
-      "video_id": "uN84HhcdIws",
-      "comment": "2:12 I nearly died from laughing at this 😂",
-      "language": "en",
-      "channel_name": "TheDailyShow",
-      "category": "talk show",
-      "likes": 1.0,
-      "comment_timestamp": 132.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "123.0s - 129.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a backdrop showing buildings like the Capitol. In an inset picture on the left, two people wearing helmets seem to be having some kind of interaction. One is in a black jacket and the other has a light-colored helmet.AUDIO: A male voice says \"and how do they even get you back to the station huh\" followed by applause. It seems like he might be talking about something related to the people in the inset picture. So, what do you think about it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "129.0s - 135.0s",
-          "query": "VISUAL: A man in a suit is talking on a TV show set with a backdrop of buildings. There's an inset image showing two people on a bicycle, one wearing a helmet. The main scene has the man gesturing while speaking.AUDIO: There's laughter and applause in the background during his speech. It seems like he's making a joke or comment that gets a reaction from the audience.What do you think about the content? Any thoughts?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "135.0s - 141.0s",
-          "query": "VISUAL: A man in a suit is talking on a TV show set with a backdrop of buildings. There's an inset image showing two men on a bicycle, one in police uniform and the other casually dressed. The man in the suit gestures while speaking.AUDIO: Someone is speaking, saying \"Now you're in custody but you have to help them pedal. You just there at the back like man it's some bullshit man.\" It seems like they're reacting to something related to the inset image of the two men on the bike.What do you think about that? Any thoughts or questions?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 244.11721324920654
-    },
-    {
-      "comment_index": 4333,
+      "comment_index": 4951,
       "video_id": "uN84HhcdIws",
       "comment": "1:16 can't be more true 😅",
       "language": "en",
@@ -379,114 +139,294 @@
         {
           "segment_index": 1,
           "time_range": "67.0s - 73.0s",
-          "query": "VISUAL: A man in a suit is talking on a TV show set with a backdrop of buildings like the Capitol. There's an inset image showing two people wearing helmets, one in a police uniform. The Starbucks logo is also visible.AUDIO: Someone says \"Because that's what Starbucks is for.\" followed by laughter and applause. Then there's more applause. It seems to be from a talk show or news program.If you have any other thoughts about it or want to discuss something else related, feel free to let me know!"
+          "query": "**Visual:** The video shows a man in a suit standing in front of a backdrop featuring the U.S. Capitol building. There's also an inset image of people wearing helmets, possibly cyclists, and a Starbucks logo is prominently displayed. The man appears to be speaking, and there's a sense of a news or talk show setting.\n\n**Audio:** The audio includes a man speaking, likely delivering a monologue or commentary. There are also sounds of laughter and applause, suggesting a humorous or engaging segment."
         },
         {
           "segment_index": 2,
           "time_range": "73.0s - 79.0s",
-          "query": "VISUAL: A man in a suit is talking on a TV show set with a backdrop of buildings. There's an inset image showing two people wearing helmets, one in black and one in blue. The Starbucks logo is also visible on the screen.AUDIO: Someone is speaking, and there's applause in the background. It seems like they're making a joke about Starbucks being like a bus station with espresso machines.What do you think about that comparison?"
+          "query": "**Visual:** The video shows a man in a suit standing on a stage with a backdrop featuring an image of a building that resembles the U.S. Capitol. There's also a smaller inset image showing two people wearing helmets, seemingly engaged in some activity. A large Starbucks logo is prominently displayed at the bottom center.\n\n**Audio:** Someone is speaking, likely delivering a monologue or commentary. The tone seems to be somewhat humorous or sarcastic based on the context provided."
         },
         {
           "segment_index": 3,
           "time_range": "79.0s - 85.0s",
-          "query": "VISUAL: A man in a suit is talking on a TV show set with a backdrop of buildings like the Capitol. There's an inset image showing two people wearing helmets, one in a blue shirt and another in black. The Starbucks logo is also visible on the screen.AUDIO: Someone is speaking, saying \"In fact, the only mistake these black guys made was not using the tactics of the white man. That's all they did.\" It seems to be a serious or critical statement. What do you think about it?"
+          "query": "**Visual:** The video shows a news studio setting with a host standing behind a desk. There's an inset image on the screen showing two individuals wearing helmets, seemingly engaged in some kind of physical altercation or struggle. The background includes recognizable landmarks like the U.S. Capitol building at night.\n\n**Audio:** A man is speaking, likely delivering commentary or reporting. His tone seems serious and somewhat accusatory based on the content of his words."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 248.03811597824097
+      "processing_time": 159.75864267349243
     },
     {
-      "comment_index": 4335,
+      "comment_index": 4952,
       "video_id": "uN84HhcdIws",
-      "comment": "4:18 , 4:48 , 5:37 , 6:09 : \"black people\" \"white ladies\"? Generalising at its best. This man sounds like a rasist to me...",
-      "language": "en",
-      "channel_name": "TheDailyShow",
-      "category": "talk show",
-      "likes": 0.0,
-      "comment_timestamp": 258.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "249.0s - 255.0s",
-          "query": "VISUAL: There's a woman wearing a headset at a desk with computer monitors behind her. She seems to be working in an office setting. She looks up from her work and then quickly stands up, moving out of the frame. The background is slightly blurred, showing other desks and equipment.AUDIO: You can hear applause and some indistinct speech in the background. It sounds like there might be a live audience present. There's also a phone ringing towards the end of the clip.What do you think about the scene? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "255.0s - 261.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with his hands on it. There's an image of four women smiling together on the screen next to him. The background shows a blurred view of a building and some lights.AUDIO: There's applause followed by music playing in the background. Then there's a male voice speaking about \"this year's biggest trend for white ladies\" which is pumpkin spice eyedrops. What do you think about that?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "261.0s - 267.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with his hands clasped. There's an inset image on the left showing four women smiling together. The background has a blurred view of a building that looks like the White House.The AUDIO: A male voice is speaking about calling 911 on black people, mentioning it being a common scenario where minor incidents lead to extreme reactions.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 244.37325167655945
-    },
-    {
-      "comment_index": 4334,
-      "video_id": "uN84HhcdIws",
-      "comment": "Who's here in 2025? But 19:43 got to me😰",
+      "comment": "4:06 funny part",
       "language": "en",
       "channel_name": "TheDailyShow",
       "category": "talk show",
       "likes": 1.0,
-      "comment_timestamp": 1183.0,
+      "comment_timestamp": 246.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "1174.0s - 1180.0s",
-          "query": "VISUAL: There's a police officer interacting with a handcuffed man on the street. The officer is seen kicking the man's leg. There are police vehicles around them. The scene seems to be during the day.AUDIO: A voice is heard saying something about making someone spread their feet. It could be related to the situation in the video."
+          "time_range": "237.0s - 243.0s",
+          "query": "Visual: The video shows an office setting with multiple people working at desks. There's someone wearing headphones, possibly on a call or listening to something. In the background, there are computer monitors and some papers pinned up. One person has curly hair and is wearing a colorful top. Another individual seems to be focused on their work.\n\nAudio: Someone is speaking, but it's not clear who they are or what they're saying. It could be a voiceover or dialogue from the show."
         },
         {
           "segment_index": 2,
-          "time_range": "1180.0s - 1186.0s",
-          "query": "VISUAL: A news anchor is sitting at a desk with his hands clasped. There's an image on the screen behind him showing a police car and some papers. The papers have text that says \"I made him spread his feet.\" The scene seems to be from a news broadcast about a Phoenix PD use of force incident.AUDIO: The main audio is someone speaking, saying \"spread his feet\" twice. It also mentions something about what's most troubling about it. There's no background music or other sound effects."
+          "time_range": "243.0s - 249.0s",
+          "query": "Visually, there are several people in an office setting. They're wearing headsets and working at computers. One person in the foreground is wearing a colorful patterned shirt and has curly hair. The background shows other people, some with blonde hair, also working. There are papers pinned on the wall behind them. The scene seems busy and focused on work.\n\nAudibly, there's a woman speaking. She says, \"I need you to look closely at him. Is he wearing a wedding ring?\" The tone is somewhat urgent or questioning."
         },
         {
           "segment_index": 3,
-          "time_range": "1186.0s - 1192.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk on a news set. There's an inset image showing a police report with some text about a Phoenix PD use of force incident. The background has a blurred view of a building that looks like the White House.AUDIO: Someone is speaking, saying \"is that it makes you wonder how many people have been arrested and put in jail.\" It seems to be a voiceover or commentary related to the news story shown. So, what do you think about this kind of news coverage?"
+          "time_range": "249.0s - 255.0s",
+          "query": "Visually, there are people in an office setting. One person is wearing a headset and appears to be working at a desk with a computer. The background shows typical office equipment like monitors and papers. The colors are mostly muted, with the person's shirt having a pattern of reds and yellows.\n\nIn terms of audio, there's a woman speaking, and then applause is heard. The woman's speech is clear and seems to be part of a conversation or presentation."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 213.9216866493225
+      "processing_time": 223.05101823806763
     },
     {
-      "comment_index": 4336,
+      "comment_index": 4953,
       "video_id": "uN84HhcdIws",
-      "comment": "4:18 , 4:48 , 5:37 : \"black people\" \"white ladies\"? Generalising at its best. This man sounds like a rasist to me...",
+      "comment": "😢😢24:48. The poor groundhog was shot for jaywalking. 🪦 that’s why My city has crosswalks for the wild geese who walk across the road between two ponds with their babies.",
       "language": "en",
       "channel_name": "TheDailyShow",
       "category": "talk show",
-      "likes": 0.0,
-      "comment_timestamp": 288.0,
+      "likes": 1.0,
+      "comment_timestamp": 1488.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "279.0s - 285.0s",
-          "query": "VISUAL: There's a woman in a black top and jeans standing near a glass door inside a store. She seems to be talking on her phone. The background shows shelves with various items. The lighting is bright, typical for an indoor commercial space.AUDIO: There's some kind of speech going on, but it's not clear who's speaking or what they're saying. It could be a conversation between two people or someone talking into a microphone. There might also be some music playing softly in the background.If you have any other thoughts about the video or want to discuss something else related to it, feel free to let me know!"
+          "time_range": "1479.0s - 1485.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.87 GiB is free. Including non-PyTorch memory, this process has 15.68 GiB memory in use. Of the allocated memory 13.59 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 2,
-          "time_range": "285.0s - 291.0s",
-          "query": "VISUAL: There's a woman named Caroline in a convenience store, wearing sunglasses and talking on her phone. She seems to be having an intense conversation. Then there's a man in a suit sitting at a desk in a studio setting, looking at a screen with Caroline's image on it.AUDIO: A male voice is speaking, saying \"Caroline Cornerstore Caroline I love that now black people are getting.\" It has a somewhat sarcastic or mocking tone.What do you think about this? Do you have any other thoughts or questions related to this video?"
+          "time_range": "1485.0s - 1491.0s",
+          "query": "Visual: A man in a blue suit is standing against a backdrop featuring cityscape elements like buildings and lights. There's also some text on the screen promoting subscription and broadcast details.\n\nAudio: Background music plays throughout the clip."
         },
         {
           "segment_index": 3,
-          "time_range": "291.0s - 297.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk on a TV show set with a backdrop of buildings like the Capitol. In an inset image, there's a woman wearing sunglasses, holding her phone to her ear, seemingly in a store. The main scene has the man talking and gesturing, while the inset shows the woman reacting to something on her phone.AUDIO: A male voice is speaking, saying \"giving white ladies their nicknames on the spot no because it used to take a couple of days but now it's instant it's almost like black.\" It seems like he's making a joke or comment about nicknaming people quickly. There's also some background noise from the studio.If you have any thoughts on this or want to discuss more about it, feel free to share!"
+          "time_range": "1491.0s - 1497.0s",
+          "query": "Inference error: 'video_fps'"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 324.7659134864807
+      "processing_time": 188.21137714385986
     },
     {
-      "comment_index": 4338,
+      "comment_index": 4954,
+      "video_id": "uN84HhcdIws",
+      "comment": "23:06 The worst part?  That poor groundhog had to relive that day, over and over again…",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 1.0,
+      "comment_timestamp": 1386.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1377.0s - 1383.0s",
+          "query": "Visual: The video shows two news anchors in a studio setting. They are seated at a desk with a backdrop that includes a map and the logo \"WB0C 16.\" There's also a screen in the background displaying some text. The scene is well-lit, typical of a news broadcast.\n\nAudio: The audio consists of a male voice speaking. The speech is clear and seems to be part of a news report or commentary. There are no other distinct sounds or music in the audio."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1383.0s - 1389.0s",
+          "query": "**Visual:** The video shows a road scene with multiple lanes. There are vehicles, including a police car with flashing lights, stopped on the road. A person, likely a police officer, is standing near the center of the road. The background includes trees and a clear sky. The road has yellow dividing lines.\n\n**Audio:** There is a woman speaking in the background, but the content of her speech is not clear from the provided information."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1389.0s - 1395.0s",
+          "query": "Visual: The video shows a groundhog on the side of a road. There's also a police car nearby with its lights flashing. A deputy is standing next to the groundhog.\n\nAudio: The background has some kind of news broadcast or report playing, but no specific dialogue can be clearly heard from it."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 202.88475370407104
+    },
+    {
+      "comment_index": 4955,
+      "video_id": "uN84HhcdIws",
+      "comment": "5:48 Woman needs to be called on by that operator 😂😂😂",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 1.0,
+      "comment_timestamp": 348.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "339.0s - 345.0s",
+          "query": "Visual: The video shows a person walking through what seems to be a store or a similar indoor space. There are shelves and products visible in the background. The person is wearing a dark-colored outfit and has a bag slung over their shoulder. The lighting is typical of indoor commercial spaces, bright and evenly distributed.\n\nAudio: The audio features a voice saying \"And I am going home. Goodbye 911 operator.\" The tone is calm and matter-of-fact. There are no other distinct sounds or music in the audio."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "345.0s - 351.0s",
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk on a news set. There's also an inset image of another person wearing sunglasses, seemingly in a different location with some buildings visible behind them.\n\n**Audio:** A male voice is speaking, saying \"Okay, uh, first of all, goodbye.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "351.0s - 357.0s",
+          "query": "Visually, there's a man in a suit sitting at a desk, likely in a news studio. In the inset, there's another person, possibly a guest or co-host, also in a suit, sitting in a different setting. The background behind the main man shows a cityscape with a prominent dome structure. The inset shows a more indoor, possibly office-like environment.\n\nAudibly, there's a man speaking, and it sounds like he's making a joke or comment, followed by laughter from an unseen audience."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 208.62777376174927
+    },
+    {
+      "comment_index": 4956,
+      "video_id": "uN84HhcdIws",
+      "comment": "2:12 I nearly died from laughing at this 😂",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 1.0,
+      "comment_timestamp": 132.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "123.0s - 129.0s",
+          "query": "**Visual:** The video shows a news anchor in a suit sitting at a desk. In the background, there's an image of a building that resembles the U.S. Capitol. There's also a smaller inset image showing two people wearing helmets, seemingly engaged in some kind of physical altercation or struggle. The overall setting appears to be a news studio.\n\n**Audio:** The audio includes a man speaking, likely the news anchor, and there's applause from an unseen audience."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "129.0s - 135.0s",
+          "query": "Visually, there's a man in a suit talking in front of a backdrop that includes a building resembling the U.S. Capitol. There are also inset images showing people on bicycles, one of which has a person in a blue shirt and shorts riding a bike. The scene seems to be a news or talk show setting.\n\nAudibly, there's a man speaking, and then laughter and applause can be heard, suggesting a humorous or entertaining moment in the show."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "135.0s - 141.0s",
+          "query": "**Visual:** The video shows a man in a suit standing in front of a backdrop that resembles a government building, possibly the U.S. Capitol. There's a smaller inset image in the bottom left corner showing two people on a bicycle. One person is wearing a blue shirt and shorts, and the other is in a gray sweater and jeans. The man in the suit is gesturing with his hands as if speaking. The overall setting looks like a news studio.\n\n**Audio:** The audio includes a man speaking, likely a comedian or host, with some laughter and applause from an unseen audience. The speech seems to be a joke or commentary, and the laughter and applause indicate a humorous tone."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 275.2493073940277
+    },
+    {
+      "comment_index": 4957,
+      "video_id": "uN84HhcdIws",
+      "comment": "9:15 Doesn’t it take skill and precision to hit a golf ball into a hole. You might wanna go slow on that for the best result and not rush things",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 1.0,
+      "comment_timestamp": 555.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "546.0s - 552.0s",
+          "query": "**Visual:** The video shows a group of women on a golf course. They are standing together, smiling, and posing for a photo. The background includes a golf cart and some trees. The women are dressed in golf attire, and the overall setting appears to be a sunny day on a well-maintained golf course.\n\n**Audio:** The audio features a woman speaking. She is likely reporting or commenting on the situation, mentioning that workers at Grandview Golf Club kicked the women out halfway through the game."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "552.0s - 558.0s",
+          "query": "Visual: The video shows several women standing on a golf course. They're dressed casually for outdoor activities, with some wearing hats and sunglasses. There's green grass around them, trees in the background, and it looks like they might be posing for a photo or just chatting together.\n\nAudio: A woman is speaking over the video. She seems to be reporting something related to an incident at the court, mentioning that authorities were called due to slow workers."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "558.0s - 564.0s",
+          "query": "**Visual:** The video shows three men standing outside a house on a sunny day. One man is holding a cup with a logo on it. They appear to be engaged in conversation.\n\n**Audio:** A woman's voice can be heard saying something, possibly telling them to leave. It seems like she might be upset or frustrated."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 150.2477903366089
+    },
+    {
+      "comment_index": 4958,
+      "video_id": "uN84HhcdIws",
+      "comment": "17:00  as a belgian I can confirm this is how we speak",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 1.0,
+      "comment_timestamp": 1020.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1011.0s - 1017.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.26 GiB. GPU 1 has a total capacity of 23.56 GiB of which 2.52 GiB is free. Including non-PyTorch memory, this process has 21.03 GiB memory in use. Of the allocated memory 16.52 GiB is allocated by PyTorch, and 4.20 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1017.0s - 1023.0s",
+          "query": "**Visual:** The video shows a man in a suit and tie standing in front of a backdrop that resembles a news studio. There's a smaller inset image in the background showing two people standing near a black SUV in a desert-like environment. The man in the foreground is gesturing with his hands as he speaks.\n\n**Audio:** The audio features a man speaking, and there's laughter heard in the background, likely from an audience."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1023.0s - 1029.0s",
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk, likely on a news set. There's an inset image to his left showing a police car parked near some buildings with a flag visible. The background behind him has a blurred cityscape.\n\n**Audio:** A male voice is speaking, saying \"Now makes this whole thing worse is that this family wasn't robbing a bank or holding people hostage.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 344.5916335582733
+    },
+    {
+      "comment_index": 4959,
+      "video_id": "uN84HhcdIws",
+      "comment": "14:16 Pretending to call the cops? If that was true, Stop inflicting emotional stress on kids for no reason",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 1.0,
+      "comment_timestamp": 856.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "847.0s - 853.0s",
+          "query": "Sure! So, visually, there's two people sitting at a news desk. The background shows city lights and buildings. One person is pointing at something on the desk while talking.The audio has someone speaking, probably giving an interview or commentary. There aren't any other noticeable sounds like music or sound effects.Anything else you want to know about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "853.0s - 859.0s",
+          "query": "**Visual:** The video shows two people sitting at a news desk. The background displays a cityscape at night. One person is wearing a suit and tie, while the other is in a floral dress. They appear to be engaged in a conversation, with the person in the floral dress gesturing with her hands.\n\n**Audio:** The audio includes a woman speaking, saying, \"hmm yeah she said she was just pretending to call them.\" There are no other distinct sounds or music in the audio."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "859.0s - 865.0s",
+          "query": "Visually, there's a woman sitting at a desk in what looks like a studio setting. She has an afro hairstyle and is wearing a sleeveless dress with a floral pattern. The background shows a cityscape at night with illuminated buildings. She seems to be speaking or presenting something.\n\nAudio-wise, there's a woman speaking. The speech is clear and seems to be part of a show or broadcast, given the studio setting. There are no other distinct sounds like music or sound effects."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 251.94433760643005
+    },
+    {
+      "comment_index": 4960,
+      "video_id": "uN84HhcdIws",
+      "comment": "3:56 got me so bad",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 1.0,
+      "comment_timestamp": 236.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "227.0s - 233.0s",
+          "query": "Visual: The video shows a police officer standing in an office. There are multiple computer monitors on desks, and a map is pinned to a board in the background. The officer is wearing a uniform and appears to be speaking or presenting something. Other people are partially visible in the background, also working at their desks.\n\nAudio: There is speech in the background, likely from the officer. The speech seems to be part of a presentation or explanation. There are also some sound effects, possibly related to the office environment, like a door opening or closing."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "233.0s - 239.0s",
+          "query": "**Visual:** The scene shows an office environment with multiple desks where people are working on computers. There's a large map pinned to a corkboard in the background along with some papers and charts. A person wearing a police uniform is standing prominently in front.\n\n**Audio:** Someone is speaking, saying \"911 Dispatch\" followed by \"7:42 PM.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "239.0s - 245.0s",
+          "query": "Visual: The video shows a busy office environment. There are multiple people working at desks with computers. One person in the foreground is wearing a colorful shirt and has a headset on, seemingly engaged in a call. The background has other workers, some with long hair, also focused on their tasks. The office has typical office furniture and equipment.\n\nAudio: The audio includes a woman speaking, possibly giving instructions or having a conversation. There are no distinct sound effects or music."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 224.0955319404602
+    },
+    {
+      "comment_index": 4961,
       "video_id": "uN84HhcdIws",
       "comment": "@8:25 com on now 😂",
       "language": "en",
@@ -499,111 +439,171 @@
         {
           "segment_index": 1,
           "time_range": "496.0s - 502.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk on a news set. Behind him is an image with the words \"CALL OF BOOTY BLACK KID OPS\" and some kind of logo. The background shows a building that looks like the White House. The man seems to be talking and gesturing with his hands.AUDIO: A male voice is speaking about an allegation against a black child by a white lady, mentioning it has the same ingredients but also noting there's a silver lining in the story.So, what do you think about this? Do you have any other thoughts or questions related to it?"
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk, likely a news anchor. Behind him, there's a large screen displaying an image with the text \"CALL OF BOOTY BLACK KID OPS.\" The background also features a cityscape with a prominent dome-shaped building, possibly a government building. The man is gesturing with his hands as he speaks.\n\n**Audio:** The audio consists of a man speaking. He seems to be discussing something related to an \"allegation against a black child by a white lady.\" The tone suggests he might be presenting or commenting on a news story."
         },
         {
           "segment_index": 2,
           "time_range": "502.0s - 508.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with his hands on it. There's an image on the screen behind him that says \"CALL OF BOOTY BLACK KID OPS\" with some kind of logo below it. The background shows a building that looks like the White House.AUDIO: Someone is speaking, saying \"is this two days later corner store Carolyn went back to that same store and\". It seems like they're talking about a story or event related to Carolyn going back to a store. So, what do you think about this? Do you have any ideas on what might happen next?"
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk on a news set. There's an image displayed next to him with the words \"CALL OF BOOTY BLACK KID OPS\" written over it.\n\n**Audio:** Someone is speaking, likely presenting or commenting about something related to the image shown."
         },
         {
           "segment_index": 3,
           "time_range": "508.0s - 514.0s",
-          "query": "VISUAL: A man in a suit is talking on a TV show set with a picture of a movie poster behind him that says \"CALL OF BOOTY BLACK KID OPS\". The background shows a building that looks like the White House. There's also some text at the bottom left corner saying \"THE DAILY SHOW WITH TREVOR NOAH\". AUDIO: Someone is speaking, and there's laughter heard in the background. What do you think about it?"
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk with a backdrop that includes an image of a building resembling the White House. There's also a graphic overlay on the left side displaying \"CALL OF BOOTY BLACK KID OPS\" along with some other text like \"OUTRAGE OVER ALLEGED RACISM.\" The man appears to be speaking or presenting.\n\n**Audio:** The main audio is someone talking, likely the man in the suit. There seems to be laughter or chuckles from the audience in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 363.6043734550476
+      "processing_time": 213.4056670665741
     },
     {
-      "comment_index": 4337,
+      "comment_index": 4962,
       "video_id": "uN84HhcdIws",
-      "comment": "Jeezussss the woman at 21:13 is ABSOLUTELY GORGEOUS.......... OH MY GAUUUWWWWDDDDDDDD!!!!!!!!!!! DROOL WORTHY!!! :face-fuchsia-wide-eyes::face-fuchsia-wide-eyes::face-fuchsia-wide-eyes::face-fuchsia-wide-eyes:",
+      "comment": "10:53 aint that the one woman from Dhar Mann?",
       "language": "en",
       "channel_name": "TheDailyShow",
       "category": "talk show",
       "likes": 0.0,
-      "comment_timestamp": 1273.0,
+      "comment_timestamp": 653.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "1264.0s - 1270.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with his hands clasped. There's a colorful sign on the left side that says \"Cops Just Wanna Use Guns\" with an image of a gun. The background shows some buildings, possibly government ones.In AUDIO: Someone is speaking about a \"First Brandishing Buddy\" coming from Southern California due to a misunderstanding brought by Mentos. It seems like they're talking about a news or talk show segment.If you want to know more about this kind of analysis or have other videos to analyze, feel free to ask!"
+          "time_range": "644.0s - 650.0s",
+          "query": "**Visual:** The video shows a young girl walking down a street while selling water. She's wearing casual clothes and carrying a bag. There are buildings and some greenery visible in the background.\n\n**Audio:** A woman is speaking on the phone, her voice is clear and somewhat urgent. It seems like she's reporting something to the police over the call."
         },
         {
           "segment_index": 2,
-          "time_range": "1270.0s - 1276.0s",
-          "query": "VISUAL: A news anchor is on screen with a graphic that says \"CAUGHT ON CAMERA\". The background has some blurred cityscape elements. There's also a small overlay at the bottom showing lottery numbers and other information.AUDIO: Someone is speaking about an off-duty officer in Southern California being caught on camera pulling his gun on a convenience store customer. It seems to be a news report.So, what do you think about this incident? Do you have any thoughts or questions related to it?"
+          "time_range": "650.0s - 656.0s",
+          "query": "**Visual:** The video shows a young girl, around eight years old, selling water bottles on a sidewalk. She's accompanied by an adult, likely her mother. The setting appears to be an urban area with some greenery and a fence in the background. The lighting suggests it's daytime. The girl is actively engaged in selling, holding a water bottle and interacting with someone off-camera.\n\n**Audio:** The audio includes a woman speaking, possibly a news reporter or someone commenting on the situation. The tone seems concerned or critical. There are no distinct sound effects or music in the audio."
         },
         {
           "segment_index": 3,
-          "time_range": "1276.0s - 1282.0s",
-          "query": "VISUAL: A news anchor is talking on a TV screen with \"CAUGHT ON CAMERA\" displayed. Then it cuts to a store scene where an off - duty officer pulls out his gun. There's a customer standing at the counter. The store has shelves filled with various items.AUDIO: The news anchor speaks about an incident involving an off - duty officer mistaking someone for a thief over a pack of Mentos. There are no other distinct sounds heard.If you have any thoughts or questions about this, feel free to share!"
+          "time_range": "656.0s - 662.0s",
+          "query": "**Visual:** The video shows a woman confronting a young girl about illegally selling water without a permit. There's a camera capturing the scene.\n\n**Audio:** A woman is speaking, accusing the young girl of illegal activity regarding water sales."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 271.4747099876404
+      "processing_time": 185.13756895065308
     },
     {
-      "comment_index": 4339,
+      "comment_index": 4963,
       "video_id": "uN84HhcdIws",
-      "comment": "6:38 friendly fire will not be tolerated.",
+      "comment": "4:18 , 4:48 , 5:37 , 6:09 : \"black people\" \"white ladies\"? Generalising at its best. This man sounds like a rasist to me...",
       "language": "en",
       "channel_name": "TheDailyShow",
       "category": "talk show",
       "likes": 0.0,
-      "comment_timestamp": 398.0,
+      "comment_timestamp": 337.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "389.0s - 395.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk on a TV show set. In an inset picture, two women are having a conversation outside a store. One woman is wearing sunglasses.The AUDIO: You can hear laughter and applause in the background. The man on the main screen says \"So wait.\" multiple times. What do you think about it?"
+          "time_range": "328.0s - 334.0s",
+          "query": "Visually, there are a few people in what seems to be a public space, possibly a store or a market. One person is holding a camera or phone, seemingly recording or taking a picture. There are some shelves or displays in the background. The colors are somewhat muted, and the movement is mainly from the people walking around and the person with the camera.\n\nIn terms of audio, there's a woman speaking. She says, \"No, I want the cops here right now. That's right, the son grabbed my ass.\" The tone of her voice suggests urgency or distress."
         },
         {
           "segment_index": 2,
-          "time_range": "395.0s - 401.0s",
-          "query": "VISUAL: A man in a suit is talking on a TV show set with a crowd in the background. There's an inset image showing two women having a conversation outside. One woman is wearing sunglasses and a black shirt.The AUDIO: Someone is speaking about white ladies using \"white lady\" as an insult. The speaker gets cut off at the end."
+          "time_range": "334.0s - 340.0s",
+          "query": "Visual: The video shows a person standing inside what seems to be a store or shop. There's some shelving with various items on it behind them. The person is wearing dark clothing.\n\nAudio: Someone is speaking, saying \"and she decided to yell at me.\" Then they say \"And I am going home. Goodbye 911 operator.\""
         },
         {
           "segment_index": 3,
-          "time_range": "401.0s - 407.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk on a TV show set with a cityscape background. In an inset image, there's a woman wearing sunglasses talking to another person. The main scene shows the man speaking while gesturing with his hands.AUDIO: A voice is heard saying \"White lady! Hey who are you calling a white lady? White lady you're about to get.\" It seems like some kind of argument or confrontation is happening.What do you think about this scene? Do you have any other videos you want me to analyze?"
+          "time_range": "340.0s - 346.0s",
+          "query": "Visual: The video shows a person standing indoors near some shelves or cabinets. There's another individual partially visible behind them.\n\nAudio: Someone is speaking, saying \"And I am going home. Goodbye 911 operator.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 206.47097873687744
+      "processing_time": 211.3651111125946
     },
     {
-      "comment_index": 4340,
+      "comment_index": 4964,
       "video_id": "uN84HhcdIws",
-      "comment": "10:55 this women would have a melt down visiting Paris. People sell everything there and will hunt you down.",
+      "comment": "4:18 , 4:48 , 5:37 : \"black people\" \"white ladies\"? Generalising at its best. This man sounds like a rasist to me...",
       "language": "en",
       "channel_name": "TheDailyShow",
       "category": "talk show",
       "likes": 0.0,
-      "comment_timestamp": 655.0,
+      "comment_timestamp": 288.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "646.0s - 652.0s",
-          "query": "VISUAL: There's a woman walking down a street with some trees and buildings around. She seems to be talking on her phone. Then she stops and talks to another person who is also holding something that looks like a bag or a box. The scene appears to be during the day.AUDIO: A female voice is speaking throughout the video. It's not clear what she's saying exactly, but it could be related to the situation shown in the visuals.If you want to know more about this video or have other questions, feel free to ask!"
+          "time_range": "279.0s - 285.0s",
+          "query": "Visual: The video shows a person standing inside a store, possibly near shelves or a display area. They seem to be holding something up to their face, perhaps taking a photo or looking at an item closely. There's some text on the screen that says \"She was imm.\" and then \"There you go.\" The background is somewhat blurry, suggesting it might be a busy store with other items visible.\n\nAudio: The main audio consists of someone saying \"There you go\" clearly. There doesn't seem to be any other distinct sounds like music or additional speech."
         },
         {
           "segment_index": 2,
-          "time_range": "652.0s - 658.0s",
-          "query": "VISUAL: There's an eight-year-old girl with her mother on a sidewalk. The girl is holding bottles of water. They seem to be standing still for a moment before something happens that makes them start walking away.AUDIO: A woman is speaking. She says \"bottles of water with her mother on a sidewalk she called police on an eight-year-old little girl you can hide all you want.\" It seems like she's talking about the incident involving the girl and the police call.What do you think about this situation?"
+          "time_range": "285.0s - 291.0s",
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk with his hands clasped together. On a screen beside him is an image of another person wearing sunglasses and making exaggerated facial expressions while holding their head. The background includes a blurred view of a building.\n\n**Audio:** There's laughter heard throughout the clip, along with some speech from the man in the suit."
         },
         {
           "segment_index": 3,
-          "time_range": "658.0s - 664.0s",
-          "query": "VISUAL: A woman is on her phone, walking outside with trees in the background. She seems to be having an intense conversation.AUDIO: There's a female voice speaking about someone illegally selling water without a permit. The tone suggests it might be a news report or some kind of official statement.If you want to know more about this situation or have other questions related to it, feel free to ask!"
+          "time_range": "291.0s - 297.0s",
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk on a news set with a cityscape background. There's also an inset image of another person wearing sunglasses and making exaggerated facial expressions while talking on a phone.\n\n**Audio:** A male voice is speaking, likely delivering some kind of commentary or joke related to the visuals."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 241.40484714508057
+      "processing_time": 144.64084100723267
+    },
+    {
+      "comment_index": 4965,
+      "video_id": "uN84HhcdIws",
+      "comment": "4:40 my question is, who would want to \"sexually\" ?? assault that ?",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 0.0,
+      "comment_timestamp": 280.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "271.0s - 277.0s",
+          "query": "**Visual:** The video shows a news anchor in a studio setting. There are multiple screens in the background displaying various images. The anchor is wearing a suit and speaking directly to the camera. There's also a graphic overlay with text and a Twitter handle.\n\n**Audio:** The audio consists of the news anchor speaking. The speech is clear and professional, likely discussing the topic mentioned in the text overlay."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "277.0s - 283.0s",
+          "query": "Visual: The video shows a person standing inside a store or shop. There's some shelving with various items on it behind them. The person seems to be holding something up near their face, possibly taking a photo or looking at an object.\n\nAudio: There is background chatter from other people, likely customers or staff in the store. No specific dialogue can be clearly heard."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "283.0s - 289.0s",
+          "query": "**Visual:** The video shows a person in a store, seemingly in a playful or exaggerated manner, pulling on their sunglasses. The setting appears to be a convenience store with shelves and products visible in the background. The person is wearing a black outfit. The scene is overlaid with graphics, including a smaller inset image of a news anchor and text that reads \"Cornerstore Caroline.\"\n\n**Audio:** There is a voiceover that says \"Cornerstore Caroline\" in a somewhat dramatic or humorous tone. The background includes laughter, suggesting a comedic or lighthearted context."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 237.7981560230255
+    },
+    {
+      "comment_index": 4966,
+      "video_id": "uN84HhcdIws",
+      "comment": "18:14 \"Can someone defuse the situation here?\" Isn't that the police's job?",
+      "language": "en",
+      "channel_name": "TheDailyShow",
+      "category": "talk show",
+      "likes": 0.0,
+      "comment_timestamp": 1094.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1085.0s - 1091.0s",
+          "query": "Visual: The video shows a parking lot with several cars parked. There's a person walking near one of the cars.\n\nAudio: Someone is speaking, saying \"Excuse me, can I get the kids?\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1091.0s - 1097.0s",
+          "query": "Visual: The video shows several parked cars in an outdoor parking area. There's some greenery visible in the background. The lighting suggests it might be daytime.\n\nAudio: Someone is speaking, saying \"Hey, hey. Whoa sir calm down.\" It seems like they're trying to soothe or control someone."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1097.0s - 1103.0s",
+          "query": "Visual: A man in a suit is speaking on a news set with a Capitol building backdrop. There's also an inset image showing parked cars.\n\nAudio: The speaker is talking about something ridiculous related to civilians knowing how to do something, though it's unclear from just these few seconds."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 161.59314060211182
     }
   ]
 }

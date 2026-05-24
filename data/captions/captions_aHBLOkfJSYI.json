@@ -6,7 +6,7 @@
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 741,
+      "comment_index": 1081,
       "video_id": "aHBLOkfJSYI",
       "comment": "\"I prefer the real Iron Man drawing\" 2:19 \"I said the real Iron Man drawing\" 2:27 \"perfection\"",
       "language": "en",
@@ -19,24 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "138.0s - 144.0s",
-          "query": "VISUAL: There's a man holding up a drawing of Iron Man while a woman next to him holds a piece of paper with some text on it. They seem to be on a talk show set, with other people sitting around them. The background has city lights at night.AUDIO: You can hear laughter and applause from an audience, along with some music playing in the background.What do you think about the scene?"
+          "query": "Visual: The video shows a group of people sitting on a couch. One person is holding up a drawing of a superhero character. The setting appears to be a talk show or a similar environment, with a cityscape visible through the window in the background. The people on the couch are dressed in formal or semi-formal attire.\n\nAudio: There is laughter and applause heard in the audio, suggesting a positive and entertaining atmosphere."
         },
         {
           "segment_index": 2,
           "time_range": "144.0s - 150.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch in a studio setting with city lights visible through large windows behind them. They're holding up papers with drawings on them. The person second from the right is showing a drawing of a stick figure with red details. Everyone seems to be laughing or smiling.AUDIO: You can hear laughter and applause throughout the clip. There's also some speech that says \"I'm kidding here's here's what I really\" followed by more laughter and applause. Then there's another short bit of speech saying \"all right\". What do you think about it?"
+          "query": "Visually, there are five people sitting on a couch. They're holding up papers with drawings on them. The background shows a cityscape at night. The people seem to be in a studio setting, likely for a talk show or similar program. The colors are mostly dark, with the city lights providing some illumination. The movement is mainly the people holding up their papers and reacting to something off-camera.\n\nAudibly, there's laughter and applause. The laughter seems genuine and spontaneous, while the applause is more subdued, possibly in response to something said or done by the people on the couch."
         },
         {
           "segment_index": 3,
           "time_range": "150.0s - 156.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch in a studio setting. They're holding up pieces of paper with drawings or artwork on them. The background shows a cityscape at night with lights from buildings. One person is standing behind the couch, also holding a piece of paper. The people seem to be engaged in some kind of discussion or presentation about the art.AUDIO: Someone is speaking, saying \"the artwork is beautiful we will auction this all for charity if you like that video click the subscribe.\" It seems like they're promoting an art auction for charity and encouraging viewers to subscribe.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visually, there are several people sitting on a couch in what looks like a studio setting. They seem to be engaged in a discussion or presentation. The background shows a cityscape at night with lights. One person is holding a piece of paper, possibly a script or notes. The overall scene gives off a professional vibe, like a talk show or interview.\n\nIn terms of audio, there's a man speaking, likely the host or interviewer. He's talking about auctioning off some artwork for charity. There's also applause from the audience, indicating approval or agreement with what's being said. The background music is upbeat and energetic, adding to the lively atmosphere of the scene."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 276.9502286911011
+      "processing_time": 257.078369140625
     },
     {
-      "comment_index": 742,
+      "comment_index": 1082,
       "video_id": "aHBLOkfJSYI",
       "comment": "2:19 The guy she tells you not to worry about  2:25 You",
       "language": "en",
@@ -49,54 +49,24 @@
         {
           "segment_index": 1,
           "time_range": "130.0s - 136.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch in a studio setting with a cityscape background at night. They're holding papers or drawings. One person is showing their drawing to another. The people seem engaged in some kind of activity related to these papers.AUDIO: There's laughter and applause heard throughout the clip. It seems like they're reacting to something funny or impressive that happened during the activity. What do you think might have caused all that laughter?"
+          "query": "Visual: The video shows a group of people sitting on a couch in what looks like a talk show set. They're holding papers and seem to be engaged in a discussion or activity. The background has a cityscape at night. The people are dressed formally, with some in suits and others in dresses. There's laughter and applause in the audio.\n\nAudio: The audio includes laughter and applause, suggesting a light-hearted or entertaining moment during the talk show."
         },
         {
           "segment_index": 2,
           "time_range": "136.0s - 142.0s",
-          "query": "VISUAL: There's a group of people sitting on a couch in a studio setting with a cityscape background at night. They're holding up papers. One person shows a drawing of Iron Man. The scene is well-lit.AUDIO: There's some speech from the host, followed by laughter and applause from an unseen audience. It seems like they're reacting to something funny or impressive related to the drawing shown.What do you think about that? Any thoughts or questions?"
+          "query": "Visually, the video shows a group of people in a studio setting. One person is holding up a drawing of a superhero character, while others are seated and engaged in conversation or activities. The background has a cityscape view through windows. The colors are typical of a studio, with neutral tones and some colorful elements from the drawing.\n\nAudibly, there is speech from the people in the studio, laughter, and applause. The speech seems to be part of a discussion or presentation, and the laughter and applause indicate a positive and lively atmosphere."
         },
         {
           "segment_index": 3,
           "time_range": "142.0s - 148.0s",
-          "query": "VISUAL: There are five people sitting on a couch. They're holding up papers with drawings on them. The background shows a cityscape at night. One person is clapping. The people seem to be laughing and having fun.AUDIO: There's applause and laughter throughout the clip. There's also some music playing in the background. It seems like they might be watching or reacting to something funny on TV.What do you think about it? Do you have any other thoughts or questions?"
+          "query": "**Visual:** The video shows five people sitting on a couch in what looks like a talk show set. They're holding up sheets of paper with drawings or documents. One person is wearing a white dress, another has a suit, and others have different outfits. There's laughter and applause from an unseen audience.\n\n**Audio:** Laughter and applause can be heard throughout the clip, along with some background music that seems to be typical for a talk show setting."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 226.56592178344727
+      "processing_time": 193.20249915122986
     },
     {
-      "comment_index": 743,
-      "video_id": "aHBLOkfJSYI",
-      "comment": "2:19 = Comics  2:25 = Netflix Adaptation",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 645.0,
-      "comment_timestamp": 139.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "130.0s - 136.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch in a studio setting with a cityscape background at night. They're holding papers or drawings. One person is showing their drawing to another. The people seem engaged in some kind of activity related to these papers.AUDIO: There's laughter and applause heard throughout the clip. It seems like they're reacting to something funny or impressive that happened during the activity. What do you think might have caused all that laughter?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "136.0s - 142.0s",
-          "query": "VISUAL: There's a group of people sitting on a couch in a studio setting with a cityscape background at night. They're holding up papers. One person shows a drawing of Iron Man. The scene is well-lit.AUDIO: There's some speech from the host, followed by laughter and applause from an unseen audience. It seems like they're reacting to something funny or impressive related to the drawing shown.What do you think about that? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "142.0s - 148.0s",
-          "query": "VISUAL: There are five people sitting on a couch. They're holding up papers with drawings on them. The background shows a cityscape at night. One person is clapping. The people seem to be laughing and having fun.AUDIO: There's applause and laughter throughout the clip. There's also some music playing in the background. It seems like they might be watching or reacting to something funny on TV.What do you think about it? Do you have any other thoughts or questions?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 234.54707980155945
-    },
-    {
-      "comment_index": 744,
+      "comment_index": 1083,
       "video_id": "aHBLOkfJSYI",
       "comment": "2:19 how i see my homework  2:26 how my teacher see my homework",
       "language": "en",
@@ -109,24 +79,24 @@
         {
           "segment_index": 1,
           "time_range": "137.0s - 143.0s",
-          "query": "VISUAL: There's a group of people sitting on a couch in a studio setting with city lights visible through the window behind them. One person is holding up a drawing of Iron Man while others hold papers. They seem to be reacting to something. The scene has a mix of formal and casual elements, like suits and more relaxed clothing.AUDIO: You can hear clapping, cheering, and some kind of music playing in the background. It gives off an excited or celebratory vibe. What do you think about it?"
+          "query": "**Visual:** The video shows a man and a woman holding up pieces of paper. The man is wearing a suit and glasses, and the woman has long hair. They appear to be in a studio setting with a blue background. The man is holding a paper with a drawing of a person in a superhero costume, and the woman is holding a piece of paper with text on it. There are other people in the background, but they are not the focus. The scene seems to be part of a talk show or interview.\n\n**Audio:** There is a sound effect that resembles a \"thud\" or \"thump\" at the beginning, followed by laughter and applause from an unseen audience."
         },
         {
           "segment_index": 2,
           "time_range": "143.0s - 149.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch. They're holding up papers with drawings on them. The background shows a cityscape at night. One person is clapping while others look at their drawings.AUDIO: You can hear applause and laughter throughout the clip. There's also some music playing in the background."
+          "query": "**Visual:** The video shows a group of people sitting on a couch, holding up drawings. They appear to be in a studio setting with a cityscape background. The people are dressed formally, and the drawings they hold are simple stick figures. There's laughter and applause in the background.\n\n**Audio:** The audio includes laughter and applause, suggesting a light-hearted or celebratory moment."
         },
         {
           "segment_index": 3,
           "time_range": "149.0s - 155.0s",
-          "query": "VISUAL: There's a group of people sitting on a couch in a studio setting with a cityscape background at night. They're holding up pieces of paper or drawings. One person is standing behind them, also holding something similar. The people seem to be engaged in some kind of activity related to these papers.AUDIO: You can hear applause and cheering from an audience, along with someone speaking. It seems like there's a positive reaction to whatever is happening in the video.What do you think about it? Do you have any other thoughts or questions regarding this video?"
+          "query": "Visually, there are several people sitting on a couch in what looks like a talk show set. They're holding up pieces of paper, possibly artworks, and clapping. The background shows a cityscape at night. The people are dressed formally, like in suits and dresses. There's a man in a suit sitting at a desk in the foreground, also looking at the artworks. The lighting is bright, typical of a studio setting. The overall mood seems celebratory, with the clapping and the focus on the artworks."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 227.8541181087494
+      "processing_time": 293.6313695907593
     },
     {
-      "comment_index": 745,
+      "comment_index": 1084,
       "video_id": "aHBLOkfJSYI",
       "comment": "1:44  Let Tom Holland highlight Tobey Maguire so much as to draw his portrait as the first spider-man, which shows his respect and admiration for the actor and the character he now plays.💓✌",
       "language": "en",
@@ -139,54 +109,24 @@
         {
           "segment_index": 1,
           "time_range": "95.0s - 101.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch in a studio setting with a cityscape backdrop at night. They're holding papers and seem to be engaged in some kind of activity or discussion. The person on the far right is a host figure, dressed formally, while the others are casually dressed. One woman has a shaved head and wears a white dress, another man is in a striped shirt and jeans, etc.AUDIO: You can hear laughter and applause from an audience, along with someone speaking. The speaker says \"Tom the word on the street is that you can draw.\" It seems like they might be making a joke or comment about Tom's drawing skills.What do you think about it? Do you have any other thoughts or questions related to this video?"
+          "query": "Visually, there are five people sitting on a couch in what looks like a talk show set. They're holding papers, and the background shows a cityscape at night. The people seem to be engaged in a discussion or activity related to the papers. The lighting is bright, typical of a studio setting. There's a desk with a microphone and some equipment on it, suggesting a professional setup. The people are dressed in semi-formal to formal attire, and they appear to be adults. The couch is a standard talk show style, and the overall color scheme is dark with some blue tones from the backdrop."
         },
         {
           "segment_index": 2,
           "time_range": "101.0s - 107.0s",
-          "query": "VISUAL: There's a group of people sitting on a stage-like setting with a cityscape background at night. They're holding papers and notebooks. One person is wearing a red striped shirt and another has short blonde hair. The scene seems to be from some kind of talk show or panel discussion.AUDIO: Someone is speaking, saying \"Well wait and see I honestly felt like Tobey Maguire in the first movie designing.\" It sounds like they might be sharing an experience related to acting or a movie role. What do you think about it?"
+          "query": "**Visual:** The video shows two people sitting close together. One is wearing a white top and the other a red and black striped shirt. They both have notebooks in their hands. The background is blurry, suggesting an indoor setting with some lights visible. The person in the striped shirt is looking at the camera and smiling, while the person in the white top is looking at the other person and smiling. There's a moment where the person in the striped shirt looks down at their notebook.\n\n**Audio:** The audio includes a voice saying \"Well, wait and see.\" followed by laughter."
         },
         {
           "segment_index": 3,
           "time_range": "107.0s - 113.0s",
-          "query": "VISUAL: There's a man and a woman sitting together. The woman is wearing a white top with puffed sleeves and has her hair tied up. She's smiling. The man is in a red and black striped shirt. They both hold notebooks open in front of them. Then they show drawings on their notebooks. The drawing looks like a superhero figure in red and blue. The background seems to be indoors with some lights visible.AUDIO: You can hear someone say \"my suit okay\" twice. There's also applause and music playing in the background. What do you think about it?"
+          "query": "Visually, there's a person holding up a sketchbook with a drawing on it. The drawing appears to be of Spider-Man swinging through the air. There are other people around, some looking at the drawing or reacting to it. The scene seems to take place indoors, possibly during an event or gathering.\n\nAudibly, someone says \"my suit\" followed by applause from others. There s also background music playing throughout the clip."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 293.3520016670227
+      "processing_time": 248.83890080451965
     },
     {
-      "comment_index": 746,
-      "video_id": "aHBLOkfJSYI",
-      "comment": "2:19: when u see online 2:26: when it arrives",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 479.0,
-      "comment_timestamp": 139.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "130.0s - 136.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch in a studio setting with a cityscape background at night. They're holding papers or drawings. One person is showing their drawing to another. The people seem engaged in some kind of activity related to these papers.AUDIO: There's laughter and applause heard throughout the clip. It seems like they're reacting to something funny or impressive that happened during the activity. What do you think might have caused all that laughter?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "136.0s - 142.0s",
-          "query": "VISUAL: There's a group of people sitting on a couch in a studio setting with a cityscape background at night. They're holding up papers. One person shows a drawing of Iron Man. The scene is well-lit.AUDIO: There's some speech from the host, followed by laughter and applause from an unseen audience. It seems like they're reacting to something funny or impressive related to the drawing shown.What do you think about that? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "142.0s - 148.0s",
-          "query": "VISUAL: There are five people sitting on a couch. They're holding up papers with drawings on them. The background shows a cityscape at night. One person is clapping. The people seem to be laughing and having fun.AUDIO: There's applause and laughter throughout the clip. There's also some music playing in the background. It seems like they might be watching or reacting to something funny on TV.What do you think about it? Do you have any other thoughts or questions?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 217.44885993003845
-    },
-    {
-      "comment_index": 747,
+      "comment_index": 1085,
       "video_id": "aHBLOkfJSYI",
       "comment": "2:18 Me: AAAHHH THAT'S UGLY!! 2:25 Me: That Is A Masterpiece!",
       "language": "en",
@@ -199,24 +139,24 @@
         {
           "segment_index": 1,
           "time_range": "129.0s - 135.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch in a studio setting with city lights visible through large windows behind them. They're holding up pieces of paper with drawings on them. One person is standing in front of them showing a drawing to the others. The people seem engaged and amused.AUDIO: You can hear laughter throughout the clip. It seems like they're reacting to something funny related to the drawings being shown. There might be some light-hearted conversation too. So, what do you think about it?"
+          "query": "**Visual:** The video shows five people sitting on a couch in what looks like a talk show set. They are all holding papers and seem to be engaged in a discussion. The background has a cityscape at night with lights. The people are dressed formally, and the overall setting is well-lit and professional.\n\n**Audio:** There is laughter and applause heard in the audio, suggesting a light-hearted or humorous moment during the conversation."
         },
         {
           "segment_index": 2,
           "time_range": "135.0s - 141.0s",
-          "query": "VISUAL: There's a group of people sitting on a couch in a studio setting with a cityscape background at night. They're holding papers and one person shows an Iron Man drawing. The people seem to be reacting to something, some looking amused or surprised.AUDIO: Someone says \"And finally Iron Man\" followed by applause. Then there's more applause. It seems like they're celebrating or acknowledging something related to Iron Man. So, what do you think about this scene?"
+          "query": "Visual: The video shows a group of people sitting on a couch, holding up papers. There are five individuals, and they seem to be in a studio setting with a cityscape background. The people are dressed formally, and the papers they hold appear to have some text or images on them. The lighting is bright, typical of a TV studio.\n\nAudio: There's a man speaking, likely a host or interviewer, and the audience is laughing and applauding. The speech seems to be in English, and the laughter and applause indicate a positive and lively atmosphere."
         },
         {
           "segment_index": 3,
           "time_range": "141.0s - 147.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch. They're holding up papers with drawings or writings. The background shows a cityscape at night. One person is wearing a suit, another has a white dress, and so on.AUDIO: You can hear applause and laughter throughout the clip. There's also some music playing in the background. It seems like they might be on a talk show or something similar. What do you think about it?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.86 GiB is free. Including non-PyTorch memory, this process has 15.69 GiB memory in use. Of the allocated memory 13.60 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 230.51946663856506
+      "processing_time": 263.9876489639282
     },
     {
-      "comment_index": 748,
+      "comment_index": 1086,
       "video_id": "aHBLOkfJSYI",
       "comment": "1:54 Tom got some ink on his hands😂😂😂",
       "language": "en",
@@ -229,54 +169,24 @@
         {
           "segment_index": 1,
           "time_range": "105.0s - 111.0s",
-          "query": "VISUAL: There's a man and a woman sitting together. The man is holding up a sketchbook with a drawing on it. They seem to be in some kind of indoor setting, maybe a studio or an event space. The woman has light-colored hair and is wearing a white top, while the man has dark hair and is dressed in a red and black striped shirt.AUDIO: You can hear someone speaking, probably introducing or commenting on something related to the drawing. There's also applause from an audience at the end, suggesting that they're watching a presentation or performance.So, what do you think about this scene? Any thoughts or questions?"
+          "query": "Visual: The video shows two people standing close together. One is holding up a sketchbook with a drawing on it. They seem to be in an indoor setting, possibly at some kind of event or gathering.\n\nAudio: There's a voice speaking over the video, saying \"my suit okay.\" This is followed by applause from an unseen audience. Then there's background music playing."
         },
         {
           "segment_index": 2,
           "time_range": "111.0s - 117.0s",
-          "query": "VISUAL: A person is holding up a sketchbook with a drawing of Spider-Man on it. The drawing has red and blue colors. There's another person next to them wearing a white sweater. In the background, there seems to be some kind of indoor setting, possibly a studio or an event space.AUDIO: There's applause heard throughout the clip, along with some indistinct speech. It gives off a celebratory or appreciative vibe. What do you think about the scene?"
+          "query": "Visually, there are two people. One is holding a sketchbook with a red and blue drawing of a figure in a dynamic pose. The other person is wearing a red and black striped shirt. The background is plain and light-colored. The person holding the sketchbook is gesturing with their hands, possibly explaining or presenting the drawing.\n\nAudibly, there is applause and cheering, suggesting an audience is present and reacting positively."
         },
         {
           "segment_index": 3,
           "time_range": "117.0s - 123.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch in a studio setting with a cityscape background at night. They're holding papers and seem to be engaged in some kind of activity or game. The person second from the right is showing her drawing to someone next to her.AUDIO: You can hear laughter and applause throughout the clip, along with a woman speaking. She says \"I just I don't know I tried my best.\" It seems like she might have participated in whatever activity they were doing and is expressing uncertainty about how it turned out.If you want to talk more about this video or anything else related, feel free to ask!"
+          "query": "Visual: The video shows a group of people sitting on a stage, likely in a talk show setting. They are holding notebooks and appear to be engaged in some kind of activity. The background is a cityscape at night. The people are dressed formally, and there's a host or presenter on the right side of the frame.\n\nAudio: There's laughter and conversation happening. The speech is mostly casual and friendly, with some light-hearted comments."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 285.2679605484009
+      "processing_time": 239.61499857902527
     },
     {
-      "comment_index": 749,
-      "video_id": "aHBLOkfJSYI",
-      "comment": "2:19 food in advertisement 2:27 food in real life",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 324.0,
-      "comment_timestamp": 147.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "138.0s - 144.0s",
-          "query": "VISUAL: There's a man holding up a drawing of Iron Man while a woman next to him holds a piece of paper with some text on it. They seem to be on a talk show set, with other people sitting around them. The background has city lights at night.AUDIO: You can hear laughter and applause from an audience, along with some music playing in the background.What do you think about the scene?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "144.0s - 150.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch in a studio setting with city lights visible through large windows behind them. They're holding up papers with drawings on them. The person second from the right is showing a drawing of a stick figure with red details. Everyone seems to be laughing or smiling.AUDIO: You can hear laughter and applause throughout the clip. There's also some speech that says \"I'm kidding here's here's what I really\" followed by more laughter and applause. Then there's another short bit of speech saying \"all right\". What do you think about it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "150.0s - 156.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch in a studio setting. They're holding up pieces of paper with drawings or artwork on them. The background shows a cityscape at night with lights from buildings. One person is standing behind the couch, also holding a piece of paper. The people seem to be engaged in some kind of discussion or presentation about the art.AUDIO: Someone is speaking, saying \"the artwork is beautiful we will auction this all for charity if you like that video click the subscribe.\" It seems like they're promoting an art auction for charity and encouraging viewers to subscribe.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 280.18184542655945
-    },
-    {
-      "comment_index": 750,
+      "comment_index": 1087,
       "video_id": "aHBLOkfJSYI",
       "comment": "Expectations : 2:19 Reality : 2:25  BTW biggest fan of Robert Downey Jr ☺",
       "language": "en",
@@ -289,84 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "136.0s - 142.0s",
-          "query": "VISUAL: There's a group of people sitting on a couch in a studio setting with a cityscape background at night. They're holding up papers. One person shows a drawing of Iron Man. The scene is well-lit.AUDIO: There's some speech from the host, followed by laughter and applause from an unseen audience. It seems like they're reacting to something funny or impressive related to the drawing shown.What do you think about that? Any thoughts or questions?"
+          "query": "Visually, the video shows a group of people in a studio setting. One person is holding up a drawing of a superhero character, while others are seated and engaged in conversation or activities. The background has a cityscape view through windows. The colors are typical of a studio, with neutral tones and some colorful elements from the drawing.\n\nAudibly, there is speech from the people in the studio, laughter, and applause. The speech seems to be part of a discussion or presentation, and the laughter and applause indicate a positive and lively atmosphere."
         },
         {
           "segment_index": 2,
           "time_range": "142.0s - 148.0s",
-          "query": "VISUAL: There are five people sitting on a couch. They're holding up papers with drawings on them. The background shows a cityscape at night. One person is clapping. The people seem to be laughing and having fun.AUDIO: There's applause and laughter throughout the clip. There's also some music playing in the background. It seems like they might be watching or reacting to something funny on TV.What do you think about it? Do you have any other thoughts or questions?"
+          "query": "Visual: The video shows five people sitting on a couch. They're holding up papers with drawings or writings on them. One person is clapping while others look at their papers.\n\nAudio: There's laughter and applause heard throughout the clip."
         },
         {
           "segment_index": 3,
           "time_range": "148.0s - 154.0s",
-          "query": "VISUAL: There's a group of people on a talk show set. One person is holding up a drawing with red scribbles, while others have papers or drawings too. They seem to be reacting to something. The background shows a cityscape at night.AUDIO: You can hear applause and some speech, like \"the artwork is beautiful we will auction this off for charity.\" It seems like they're discussing an art piece that's going to be auctioned for charity.What do you think about it? Do you want to know more about the context?"
+          "query": "Visually, there are several people sitting on a couch in what looks like a talk show set. They're dressed formally, and one person is holding a piece of paper. The background shows a cityscape at night. The people seem to be engaged in conversation, with some clapping and smiling. There's also a man in a suit sitting at a desk, possibly the host, looking at the people on the couch. The colors are mostly dark with some bright spots from the city lights and the set lighting. The movement is mainly the people talking and gesturing, with occasional clapping and shifting in their seats."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 222.64313983917236
+      "processing_time": 240.21463227272034
     },
     {
-      "comment_index": 751,
-      "video_id": "aHBLOkfJSYI",
-      "comment": "2:19 = Expectation 2:27: Reality",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 281.0,
-      "comment_timestamp": 147.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "138.0s - 144.0s",
-          "query": "VISUAL: There's a man holding up a drawing of Iron Man while a woman next to him holds a piece of paper with some text on it. They seem to be on a talk show set, with other people sitting around them. The background has city lights at night.AUDIO: You can hear laughter and applause from an audience, along with some music playing in the background.What do you think about the scene?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "144.0s - 150.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch in a studio setting with city lights visible through large windows behind them. They're holding up papers with drawings on them. The person second from the right is showing a drawing of a stick figure with red details. Everyone seems to be laughing or smiling.AUDIO: You can hear laughter and applause throughout the clip. There's also some speech that says \"I'm kidding here's here's what I really\" followed by more laughter and applause. Then there's another short bit of speech saying \"all right\". What do you think about it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "150.0s - 156.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch in a studio setting. They're holding up pieces of paper with drawings or artwork on them. The background shows a cityscape at night with lights from buildings. One person is standing behind the couch, also holding a piece of paper. The people seem to be engaged in some kind of discussion or presentation about the art.AUDIO: Someone is speaking, saying \"the artwork is beautiful we will auction this all for charity if you like that video click the subscribe.\" It seems like they're promoting an art auction for charity and encouraging viewers to subscribe.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 292.530809879303
-    },
-    {
-      "comment_index": 752,
-      "video_id": "aHBLOkfJSYI",
-      "comment": "2:25 Presenting you, the all new Mark 82 armour....aka the \"Iron Stick\"",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 249.0,
-      "comment_timestamp": 145.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "136.0s - 142.0s",
-          "query": "VISUAL: There's a group of people sitting on a couch in a studio setting with a cityscape background at night. They're holding up papers. One person shows a drawing of Iron Man. The scene is well-lit.AUDIO: There's some speech from the host, followed by laughter and applause from an unseen audience. It seems like they're reacting to something funny or impressive related to the drawing shown.What do you think about that? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "142.0s - 148.0s",
-          "query": "VISUAL: There are five people sitting on a couch. They're holding up papers with drawings on them. The background shows a cityscape at night. One person is clapping. The people seem to be laughing and having fun.AUDIO: There's applause and laughter throughout the clip. There's also some music playing in the background. It seems like they might be watching or reacting to something funny on TV.What do you think about it? Do you have any other thoughts or questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "148.0s - 154.0s",
-          "query": "VISUAL: There's a group of people on a talk show set. One person is holding up a drawing with red scribbles, while others have papers or drawings too. They seem to be reacting to something. The background shows a cityscape at night.AUDIO: You can hear applause and some speech, like \"the artwork is beautiful we will auction this off for charity.\" It seems like they're discussing an art piece that's going to be auctioned for charity.What do you think about it? Do you want to know more about the context?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 234.13287329673767
-    },
-    {
-      "comment_index": 753,
+      "comment_index": 1088,
       "video_id": "aHBLOkfJSYI",
       "comment": "Its like Amazon 2:19 and 2:28 Like if you get the joke!😂",
       "language": "en",
@@ -379,24 +229,54 @@
         {
           "segment_index": 1,
           "time_range": "139.0s - 145.0s",
-          "query": "VISUAL: There's a man holding up a drawing of Iron Man on stage with a woman beside him. Then it cuts to five people sitting on a couch, two of them showing drawings. The background has city lights at night.AUDIO: You can hear applause and music playing throughout the clip. What do you think about the scene?"
+          "query": "Visual: The video shows a group of people sitting on a couch, each holding up a piece of paper with a drawing on it. The drawings appear to be of a superhero character. The people are dressed in formal or semi-formal attire, suggesting a professional or semi-formal setting. The background is a studio-like environment with a cityscape visible through a window.\n\nAudio: There is applause and cheering from an unseen audience, indicating a positive and enthusiastic response to what is being shown."
         },
         {
           "segment_index": 2,
           "time_range": "145.0s - 151.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch in a studio setting with city lights visible through the windows behind them. They're holding up papers with drawings on them. The person second from the right has a drawing that looks like a stick figure with multiple arms and legs. Everyone seems to be laughing or smiling.AUDIO: You can hear laughter and applause throughout the clip. It starts around 1.9 seconds into the video and continues until about 7.8 seconds. There might also be some background music playing during these moments.What do you think about the scene? Any thoughts or questions?"
+          "query": "Visual: The video shows several people sitting on a couch, holding up pieces of paper with drawings on them. They appear to be laughing or smiling. There's also a cityscape visible through a window behind them.\n\nAudio: You can hear applause and laughter from an unseen audience, along with some background music."
         },
         {
           "segment_index": 3,
           "time_range": "151.0s - 157.0s",
-          "query": "VISUAL: There's a group of people sitting on a couch in a studio setting. They're holding up pieces of paper with drawings or something similar. The background shows a cityscape at night with lights. One person is standing behind them, also holding a piece of paper. Then there's a man in a suit sitting at a desk, talking directly to the camera.AUDIO: A male voice says \"beautiful we will auction this all for charity if you like that video click the subscribe button but only if you're\". It seems like he's promoting some kind of charity auction related to the video content.What do you think about it? Do you have any other questions regarding this video?"
+          "query": "Visual: The video shows a group of people sitting on a couch in what looks like a talk show set. There are five individuals, all dressed formally. The background features a cityscape at night with the Hollywood sign visible. The people seem to be engaged in conversation, with some holding papers or notebooks. The lighting is bright, typical of a studio setting.\n\nAudio: The audio includes a man speaking, likely the host, and some background music. The man's speech is clear and he seems to be addressing the audience directly. The music is light and upbeat, adding to the lively atmosphere of the show."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 259.1791272163391
+      "processing_time": 211.50666642189026
     },
     {
-      "comment_index": 754,
+      "comment_index": 1089,
+      "video_id": "aHBLOkfJSYI",
+      "comment": "2:07 LALALA LALALA ELMO'S WORLD LALALA LALA LA ELMO'S WORLD",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 210.0,
+      "comment_timestamp": 127.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "118.0s - 124.0s",
+          "query": "Visual: The video shows a group of people sitting on a couch in what looks like a talk show setting. They are holding up notebooks with drawings. The background has a cityscape at night. The people are dressed formally, and there's a mix of men and women. The lighting is bright, typical for a studio.\n\nAudio: There's a woman speaking, and she seems to be expressing frustration or uncertainty, saying \"I just I don't know I tried my best.\" There's also laughter from the audience, indicating a light-hearted or humorous moment."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "124.0s - 130.0s",
+          "query": "Visually, there are people holding up drawings. The drawings seem to be simple sketches, one with a face and some scribbles. The people are dressed casually, and the setting looks like an indoor space, possibly a studio or a room with a dark background. There's a sense of movement as they hold up the drawings.\n\nAudibly, there's applause and laughter, suggesting a positive and lively atmosphere. There's also some speech, likely from a host or presenter, but it's not clear what they're saying."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "130.0s - 136.0s",
+          "query": "Visual: The video shows a group of people sitting on a couch in what looks like a talk show set. They're holding papers and seem to be engaged in a discussion or activity. The background has a cityscape at night. The people are dressed formally, with some in suits and others in dresses. There's laughter and applause in the audio.\n\nAudio: The audio includes laughter and applause, suggesting a light-hearted or entertaining moment during the talk show."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 247.73613572120667
+    },
+    {
+      "comment_index": 1090,
       "video_id": "aHBLOkfJSYI",
       "comment": "2:05 imagine seeing that in your room at night",
       "language": "en",
@@ -409,24 +289,24 @@
         {
           "segment_index": 1,
           "time_range": "116.0s - 122.0s",
-          "query": "VISUAL: There's a group of people sitting on a couch in a studio setting with a cityscape background at night. They're holding papers and notebooks. One person is showing their drawing to another. The scene has a casual yet professional vibe.AUDIO: There's applause and laughter from an audience, along with some speech that seems like someone is explaining or commenting on something. It gives off a light-hearted, entertaining atmosphere.What do you think about the video? Any thoughts or questions?"
+          "query": "Visual: The video shows a group of people sitting on a stage, likely in a talk show setting. They are holding notebooks and pens, suggesting they might be taking notes or preparing to write something. The background features a cityscape at night with lights. The people are dressed formally, indicating a professional or semi-formal event. There's a mix of men and women, and they seem to be engaged in a discussion or activity.\n\nAudio: The audio includes applause and laughter, which suggests a positive and lively atmosphere. There's also speech, likely from the people on stage, but the specific words are unclear."
         },
         {
           "segment_index": 2,
           "time_range": "122.0s - 128.0s",
-          "query": "VISUAL: There's a man and a woman sitting together. The woman is holding up a drawing she made on a notepad. It looks like a simple sketch with some scribbles around it. The man next to her has another piece of paper with a different drawing. They both seem happy, smiling and laughing.AUDIO: You can hear laughter throughout the whole clip. There's also some applause at the end. And there's background music playing too.If you want to talk more about this or have other videos to analyze, feel free to let me know!"
+          "query": "Visually, there are multiple people holding up drawings. The drawings appear to be simple sketches, some with red scribbles. The people are standing close together, and the setting seems to be indoors, possibly a room with shelves or cabinets in the background. The lighting is bright, suggesting a well-lit space.\n\nIn terms of audio, there's laughter and applause heard, indicating a positive and lively atmosphere. There's also some background music playing, adding to the cheerful mood."
         },
         {
           "segment_index": 3,
           "time_range": "128.0s - 134.0s",
-          "query": "VISUAL: A person is holding up a drawing that looks like a cartoonish face with exaggerated features. There's a group of five people sitting on a couch, all looking at papers they're holding. The setting seems to be a talk show studio with city lights visible through large windows behind them.AUDIO: There's applause and laughter throughout the clip. It sounds like an audience reacting to something amusing or impressive."
+          "query": "Visually, there are five people sitting on a couch in what looks like a talk show set. They're holding up pieces of paper with drawings on them. The background shows a cityscape at night. The people are dressed formally, and there's a sense of interaction among them, like they're presenting or discussing something. The colors are mostly dark with some blue lighting on the set, and the movement is mainly the people holding up the papers and talking to each other.\n\nAudibly, there's applause from an audience, and then some speech, possibly from the host or one of the guests. The speech seems to be in response to the drawings being shown."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 234.17398619651794
+      "processing_time": 258.2500660419464
     },
     {
-      "comment_index": 755,
+      "comment_index": 1091,
       "video_id": "aHBLOkfJSYI",
       "comment": "2:03 Is that Elmo doing a Gamora cosplay?",
       "language": "en",
@@ -439,144 +319,24 @@
         {
           "segment_index": 1,
           "time_range": "114.0s - 120.0s",
-          "query": "VISUAL: A person is holding up a sketchbook with a drawing on it. The drawing appears to be of Spider-Man. There's another person next to them wearing a white outfit. In the background, there are several other people sitting on a couch, some holding papers. They seem to be in a studio setting with city lights visible through a window.AUDIO: There's applause and laughter heard throughout the clip. It seems like they're reacting to something funny or impressive related to the drawing."
+          "query": "Visual: The video shows several people sitting on a couch, holding up drawings. They seem to be in a studio setting with city lights visible through windows behind them. There's applause heard from an unseen audience.\n\nAudio: The main audio is applause, suggesting approval or excitement about something related to the drawings being shown."
         },
         {
           "segment_index": 2,
           "time_range": "120.0s - 126.0s",
-          "query": "VISUAL: There's a man and a woman sitting together. The woman is holding up two pieces of paper with drawings on them. She seems to be explaining something about the drawings. The background looks like it could be an indoor setting at night, maybe a studio or event space.AUDIO: You can hear someone speaking, saying \"I don't know I tried my best.\" There's also laughter and applause in the background. It sounds like there might be some kind of performance or presentation going on.What do you think about the scene? Do you have any other thoughts or questions?"
+          "query": "Visually, there are several people sitting together, holding up sketches. The sketches seem to be of faces, drawn in a simple, cartoonish style. The people are dressed casually, and the setting looks like an indoor space, possibly a classroom or a workshop. There's a sense of activity and engagement as they show off their drawings.\n\nIn terms of audio, there's a woman speaking, and she seems to be saying something like \"I don't know, I tried my best.\" This is followed by laughter and applause, suggesting that the woman's statement was humorous or well-received."
         },
         {
           "segment_index": 3,
           "time_range": "126.0s - 132.0s",
-          "query": "VISUAL: A person holds up a drawing with scribbles on it. Then, four people sit together on a couch, two holding papers. They seem to be in some kind of talk show setting.AUDIO: There's applause and laughter throughout the clip. It also includes some speech from someone off - camera. The overall tone is light and cheerful.If you have any other thoughts or questions about the video, feel free to share!"
+          "query": "Visually, there are four people sitting on a couch. One person is holding up a drawing. The drawing appears to be a simple, childlike sketch of a figure with a large head and a small body. The people seem to be in a studio setting, possibly for a talk show, as there are microphones and a backdrop with city lights. The colors are mostly neutral, with the drawing adding a splash of red and black. The movement is mainly the person holding up the drawing and the others reacting to it.\n\nAudibly, there is applause and laughter, suggesting that the drawing is being presented in a positive or humorous way. There's also some speech, likely from the host or someone on the couch, but it's not clear what is being said due to the focus on the audio description."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 231.93173217773438
+      "processing_time": 220.7560110092163
     },
     {
-      "comment_index": 756,
-      "video_id": "aHBLOkfJSYI",
-      "comment": "Me thinking what to draw  What I see in my head: 2:19  What I get on paper: 2:25",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 183.0,
-      "comment_timestamp": 145.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "136.0s - 142.0s",
-          "query": "VISUAL: There's a group of people sitting on a couch in a studio setting with a cityscape background at night. They're holding up papers. One person shows a drawing of Iron Man. The scene is well-lit.AUDIO: There's some speech from the host, followed by laughter and applause from an unseen audience. It seems like they're reacting to something funny or impressive related to the drawing shown.What do you think about that? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "142.0s - 148.0s",
-          "query": "VISUAL: There are five people sitting on a couch. They're holding up papers with drawings on them. The background shows a cityscape at night. One person is clapping. The people seem to be laughing and having fun.AUDIO: There's applause and laughter throughout the clip. There's also some music playing in the background. It seems like they might be watching or reacting to something funny on TV.What do you think about it? Do you have any other thoughts or questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "148.0s - 154.0s",
-          "query": "VISUAL: There's a group of people on a talk show set. One person is holding up a drawing with red scribbles, while others have papers or drawings too. They seem to be reacting to something. The background shows a cityscape at night.AUDIO: You can hear applause and some speech, like \"the artwork is beautiful we will auction this off for charity.\" It seems like they're discussing an art piece that's going to be auctioned for charity.What do you think about it? Do you want to know more about the context?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 248.0670394897461
-    },
-    {
-      "comment_index": 757,
-      "video_id": "aHBLOkfJSYI",
-      "comment": "2:18 expectations  2:26 reality",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 176.0,
-      "comment_timestamp": 146.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "137.0s - 143.0s",
-          "query": "VISUAL: There's a group of people sitting on a couch in a studio setting with city lights visible through the window behind them. One person is holding up a drawing of Iron Man while others hold papers. They seem to be reacting to something. The scene has a mix of formal and casual elements, like suits and more relaxed clothing.AUDIO: You can hear clapping, cheering, and some kind of music playing in the background. It gives off an excited or celebratory vibe. What do you think about it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "143.0s - 149.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch. They're holding up papers with drawings on them. The background shows a cityscape at night. One person is clapping while others look at their drawings.AUDIO: You can hear applause and laughter throughout the clip. There's also some music playing in the background."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "149.0s - 155.0s",
-          "query": "VISUAL: There's a group of people sitting on a couch in a studio setting with a cityscape background at night. They're holding up pieces of paper or drawings. One person is standing behind them, also holding something similar. The people seem to be engaged in some kind of activity related to these papers.AUDIO: You can hear applause and cheering from an audience, along with someone speaking. It seems like there's a positive reaction to whatever is happening in the video.What do you think about it? Do you have any other thoughts or questions regarding this video?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 252.40683436393738
-    },
-    {
-      "comment_index": 758,
-      "video_id": "aHBLOkfJSYI",
-      "comment": "Want to put some meme comment? 2:19 and 2:26 are the timestamps you are looking for.",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 171.0,
-      "comment_timestamp": 139.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "130.0s - 136.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch in a studio setting with a cityscape background at night. They're holding papers or drawings. One person is showing their drawing to another. The people seem engaged in some kind of activity related to these papers.AUDIO: There's laughter and applause heard throughout the clip. It seems like they're reacting to something funny or impressive that happened during the activity. What do you think might have caused all that laughter?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "136.0s - 142.0s",
-          "query": "VISUAL: There's a group of people sitting on a couch in a studio setting with a cityscape background at night. They're holding up papers. One person shows a drawing of Iron Man. The scene is well-lit.AUDIO: There's some speech from the host, followed by laughter and applause from an unseen audience. It seems like they're reacting to something funny or impressive related to the drawing shown.What do you think about that? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "142.0s - 148.0s",
-          "query": "VISUAL: There are five people sitting on a couch. They're holding up papers with drawings on them. The background shows a cityscape at night. One person is clapping. The people seem to be laughing and having fun.AUDIO: There's applause and laughter throughout the clip. There's also some music playing in the background. It seems like they might be watching or reacting to something funny on TV.What do you think about it? Do you have any other thoughts or questions?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 249.6420714855194
-    },
-    {
-      "comment_index": 759,
-      "video_id": "aHBLOkfJSYI",
-      "comment": "2:27 He's got 13 fingers😂",
-      "language": "en",
-      "channel_name": "JimmyKimmelLive",
-      "category": "entertainment",
-      "likes": 170.0,
-      "comment_timestamp": 147.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "138.0s - 144.0s",
-          "query": "VISUAL: There's a man holding up a drawing of Iron Man while a woman next to him holds a piece of paper with some text on it. They seem to be on a talk show set, with other people sitting around them. The background has city lights at night.AUDIO: You can hear laughter and applause from an audience, along with some music playing in the background.What do you think about the scene?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "144.0s - 150.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch in a studio setting with city lights visible through large windows behind them. They're holding up papers with drawings on them. The person second from the right is showing a drawing of a stick figure with red details. Everyone seems to be laughing or smiling.AUDIO: You can hear laughter and applause throughout the clip. There's also some speech that says \"I'm kidding here's here's what I really\" followed by more laughter and applause. Then there's another short bit of speech saying \"all right\". What do you think about it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "150.0s - 156.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch in a studio setting. They're holding up pieces of paper with drawings or artwork on them. The background shows a cityscape at night with lights from buildings. One person is standing behind the couch, also holding a piece of paper. The people seem to be engaged in some kind of discussion or presentation about the art.AUDIO: Someone is speaking, saying \"the artwork is beautiful we will auction this all for charity if you like that video click the subscribe.\" It seems like they're promoting an art auction for charity and encouraging viewers to subscribe.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 265.2946443557739
-    },
-    {
-      "comment_index": 760,
+      "comment_index": 1092,
       "video_id": "aHBLOkfJSYI",
       "comment": "At 2:30 Robert downey feels his drawing was completely a trash and smack it on the floor😂",
       "language": "en",
@@ -589,21 +349,261 @@
         {
           "segment_index": 1,
           "time_range": "141.0s - 147.0s",
-          "query": "VISUAL: There's a group of five people sitting on a couch. They're holding up papers with drawings or writings. The background shows a cityscape at night. One person is wearing a suit, another has a white dress, and so on.AUDIO: You can hear applause and laughter throughout the clip. There's also some music playing in the background. It seems like they might be on a talk show or something similar. What do you think about it?"
+          "query": "**Visual:** The video shows a group of people sitting on a couch, holding up drawings. They appear to be in a studio setting, with a cityscape visible in the background. The individuals are dressed formally, and the drawings they hold are simple stick figures. The scene is well-lit, and the overall mood seems light-hearted and playful.\n\n**Audio:** There is applause and laughter heard in the background, suggesting a positive and entertaining atmosphere. The speech is not clearly audible, but the overall tone indicates a lively and engaging interaction among the participants."
         },
         {
           "segment_index": 2,
           "time_range": "147.0s - 153.0s",
-          "query": "VISUAL: There's a man and a woman on stage holding up papers. The woman has long dark hair and is wearing a black dress. The man has glasses and a suit. They're both smiling. Then it cuts to a wider shot showing more people sitting on a couch, all looking at their own papers. The background shows a cityscape at night with lights. The scene seems like some kind of talk show or event.AUDIO: You can hear applause and cheering from an audience. There's also someone speaking, but I can't make out the words clearly. It gives off a celebratory vibe. So, what do you think about this? Any thoughts or questions?"
+          "query": "Visual: The video shows a group of people sitting on a couch in what looks like a talk show set. They are holding up drawings, and there are some lights and a cityscape in the background. The people seem to be reacting to the drawings, with some clapping and others looking amused. The drawings are simple stick figures with different expressions and accessories.\n\nAudio: There's applause and laughter from the audience, and a man is speaking, likely the host or a guest. The speech is in English, and it seems to be about the drawings being shown."
         },
         {
           "segment_index": 3,
           "time_range": "153.0s - 159.0s",
-          "query": "VISUAL: There's a man sitting at a desk with his hands clasped. He has a beard and is wearing a suit. Behind him, there's a cityscape at night with lights on buildings and mountains in the background. There are also some people sitting on couches to his left, one holding papers. The scene seems like it could be from a talk show.AUDIO: A male voice says \"If you liked that video click the subscribe button but only if you're ready for commitment.\" Then there's applause and music playing in the background.What do you think about the video? Do you have any other questions?"
+          "query": "**Visual:** A man is sitting at a desk in front of a backdrop that shows a nighttime cityscape with the \"Hollywood\" sign visible. He's wearing a suit and tie, looking directly at the camera.\n\n**Audio:** The man speaks, saying something about subscribing if someone is ready for commitment. There's no background music or other sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 291.85965514183044
+      "processing_time": 203.84706902503967
+    },
+    {
+      "comment_index": 1093,
+      "video_id": "aHBLOkfJSYI",
+      "comment": "2:21 In your head 2:27 Reality",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 95.0,
+      "comment_timestamp": 141.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "132.0s - 138.0s",
+          "query": "Visual: The video shows a group of people sitting on a couch in what looks like a talk show set. They are holding papers and seem to be engaged in a discussion or game. The background has a cityscape at night. The people are dressed formally, with some in suits and others in dresses. There's a mix of men and women, and they appear to be laughing and interacting with each other.\n\nAudio: There's laughter and conversation happening. The speech is clear and seems to be part of the show's dialogue or game instructions."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "138.0s - 144.0s",
+          "query": "Visual: The video shows a group of people sitting on a couch. One person is holding up a drawing of a superhero character. The setting appears to be a talk show or a similar environment, with a cityscape visible through the window in the background. The people on the couch are dressed in formal or semi-formal attire.\n\nAudio: There is laughter and applause heard in the audio, suggesting a positive and entertaining atmosphere."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "144.0s - 150.0s",
+          "query": "Visually, there are five people sitting on a couch. They're holding up papers with drawings on them. The background shows a cityscape at night. The people seem to be in a studio setting, likely for a talk show or similar program. The colors are mostly dark, with the city lights providing some illumination. The movement is mainly the people holding up their papers and reacting to something off-camera.\n\nAudibly, there's laughter and applause. The laughter seems genuine and spontaneous, while the applause is more subdued, possibly in response to something said or done by the people on the couch."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 242.73962450027466
+    },
+    {
+      "comment_index": 1094,
+      "video_id": "aHBLOkfJSYI",
+      "comment": "Ummm....    1:50 I think you got a little messy in your hand , tom",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 81.0,
+      "comment_timestamp": 110.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "101.0s - 107.0s",
+          "query": "**Visual:** The video shows two people sitting close together. One is wearing a white top and the other a red and black striped shirt. They both have notebooks in their hands. The background is blurry, suggesting an indoor setting with some lights visible. The person in the striped shirt is looking at the camera and smiling, while the person in the white top is looking at the other person and smiling. There's a moment where the person in the striped shirt looks down at their notebook.\n\n**Audio:** The audio includes a voice saying \"Well, wait and see.\" followed by laughter."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "107.0s - 113.0s",
+          "query": "Visually, there are two people standing side by side. One is holding a sketchbook with a drawing of a superhero in red and blue. The other person is wearing a red and black striped shirt. The background seems to be an indoor setting with some blurred lights, suggesting a casual or social gathering. There's also a moment where the person in the striped shirt touches the sketchbook.\n\nAudibly, there's a male voice saying \"my suit okay\" in a somewhat casual tone. There's also applause heard towards the end, indicating some kind of positive response or celebration."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "113.0s - 119.0s",
+          "query": "Visually, there are two people holding up sketches. One sketch is of a red and blue figure, possibly a superhero. The other sketch is less clear but seems to depict a similar theme. The people are dressed casually, one in a white shirt and the other in a red and black jacket. They appear to be on a stage or set with a cityscape backdrop. There's a sense of anticipation or presentation.\n\nAudibly, there's applause and laughter, suggesting an audience is present and reacting positively to what's happening."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 281.43243765830994
+    },
+    {
+      "comment_index": 1095,
+      "video_id": "aHBLOkfJSYI",
+      "comment": "2:00 TOM IS LOOKING RIGHT AT YOUUUUU!!!!",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 66.0,
+      "comment_timestamp": 120.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "111.0s - 117.0s",
+          "query": "**Visual:** The video shows someone holding up a sketchbook with a drawing on it. The person is wearing a red shirt with white stripes on the sleeves. Their hands are visible, one holding the book open while the other gestures slightly. The drawing appears to be colorful, possibly depicting a character or figure.\n\n**Audio:** There's applause heard in the background during most of the clip, suggesting an audience present at some event. No distinct speech or dialogue can be made out from the provided audio snippet."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "117.0s - 123.0s",
+          "query": "Visual: The video shows a group of people sitting on a stage, likely in a talk show setting. They are holding notebooks and appear to be engaged in some kind of activity. The background is a cityscape at night. The people are dressed formally, and there's a host or presenter on the right side of the frame.\n\nAudio: There's laughter and conversation happening. The speech is mostly casual and friendly, with some light-hearted comments."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "123.0s - 129.0s",
+          "query": "Visually, there are two people holding up drawings. One person is wearing a red and black striped shirt, and the other is wearing a dark-colored top. The drawings are simple sketches, one of a face with a bow and the other of a face with a different expression. The background is dark, suggesting an indoor setting. There's a sense of movement as the people hold up their drawings.\n\nIn terms of audio, there's laughter and applause, indicating a positive and lively atmosphere. There's also music playing in the background, adding to the energetic feel of the scene."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 247.43584156036377
+    },
+    {
+      "comment_index": 1096,
+      "video_id": "aHBLOkfJSYI",
+      "comment": "Pause at 1:59 and look at tom's face",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 50.0,
+      "comment_timestamp": 119.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "110.0s - 116.0s",
+          "query": "Visually, there are two people holding up a sketch of Spider-Man. One person is wearing a white shirt, and the other is in a red shirt with white stripes. The sketch is colorful, with Spider-Man in red and blue. The background is plain and light-colored. There's no significant movement in the scene.\n\nAudibly, there's applause and cheering, suggesting a positive reaction to something, likely related to the sketch. There's also music playing in the background."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "116.0s - 122.0s",
+          "query": "Visual: The video shows a group of people sitting on a stage, likely in a talk show setting. They are holding notebooks and pens, suggesting they might be taking notes or preparing to write something. The background features a cityscape at night with lights. The people are dressed formally, indicating a professional or semi-formal event. There's a mix of men and women, and they seem to be engaged in a discussion or activity.\n\nAudio: The audio includes applause and laughter, which suggests a positive and lively atmosphere. There's also speech, likely from the people on stage, but the specific words are unclear."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "122.0s - 128.0s",
+          "query": "Visually, there are multiple people holding up drawings. The drawings appear to be simple sketches, some with red scribbles. The people are standing close together, and the setting seems to be indoors, possibly a room with shelves or cabinets in the background. The lighting is bright, suggesting a well-lit space.\n\nIn terms of audio, there's laughter and applause heard, indicating a positive and lively atmosphere. There's also some background music playing, adding to the cheerful mood."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 261.0520441532135
+    },
+    {
+      "comment_index": 1097,
+      "video_id": "aHBLOkfJSYI",
+      "comment": "1:11 IT'S ABOUT DRIVE, IT'S ABOUT POWER, WE STAY HUNGRY WE DEVAOUR",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 47.0,
+      "comment_timestamp": 71.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "62.0s - 68.0s",
+          "query": "Visual: The video shows a group of people sitting on a couch in what looks like a studio setting. They are holding up drawings, and one person is prominently displaying a drawing of a face with the word \"VISION\" written on it. The background has a cityscape at night. The people are dressed formally, suggesting a professional or entertainment-related event.\n\nAudio: There is a male voice speaking, followed by laughter and applause from an unseen audience. The speech seems to be part of a presentation or discussion, and the laughter and applause indicate a positive and engaging response from the audience."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "68.0s - 74.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 6.45 GiB. GPU 1 has a total capacity of 23.56 GiB of which 3.90 GiB is free. Including non-PyTorch memory, this process has 19.65 GiB memory in use. Of the allocated memory 13.05 GiB is allocated by PyTorch, and 6.29 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "74.0s - 80.0s",
+          "query": "Visual: The video shows five people sitting on a couch. They are holding papers in front of them. The background has a cityscape at night with blue lighting. The people are dressed in formal or semi-formal attire. There's a sense of anticipation or focus as they hold the papers.\n\nAudio: The audio includes laughter and conversation. The laughter seems to be a reaction to something said or done, and the conversation is likely related to the papers they're holding."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 272.0148501396179
+    },
+    {
+      "comment_index": 1098,
+      "video_id": "aHBLOkfJSYI",
+      "comment": "2:19 : what i thought were my grades  2:22 : what were actually the grades",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 41.0,
+      "comment_timestamp": 142.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "133.0s - 139.0s",
+          "query": "Visual: The video shows a group of people sitting on a couch in what looks like a talk show setting. They are holding papers and seem to be engaged in a discussion or activity. The background has a cityscape at night. The people are dressed formally, with some in suits and others in dresses. There's a host on the right side of the couch, also holding a paper. The lighting is bright, typical of a studio setup.\n\nAudio: There's laughter and conversation happening. The speech is clear and seems to be part of a dialogue or interview. The laughter suggests a light-hearted or humorous moment during the talk show."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "139.0s - 145.0s",
+          "query": "Visual: The video shows four people sitting on a couch. One person is holding up a drawing of a superhero-like figure with red and gold armor. Another person has a piece of paper in hand. There's also someone wearing a white dress visible among them.\n\nAudio: You can hear applause and some indistinct speech in the background."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "145.0s - 151.0s",
+          "query": "Visual: The video shows several people sitting on a couch, holding up pieces of paper with drawings on them. They appear to be laughing or smiling. There's also a cityscape visible through a window behind them.\n\nAudio: You can hear applause and laughter from an unseen audience, along with some background music."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 180.30706095695496
+    },
+    {
+      "comment_index": 1099,
+      "video_id": "aHBLOkfJSYI",
+      "comment": "2:10 why is gamora!?",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 39.0,
+      "comment_timestamp": 130.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "121.0s - 127.0s",
+          "query": "Visually, there are two people sitting side by side, each holding up a piece of paper with a drawing on it. The person on the left is wearing a red and black checkered shirt, and the person on the right has long dark hair. The drawings on the papers are simple sketches. The background appears to be a dimly lit room, possibly a studio or a stage, with some blurred lights or screens visible.\n\nIn terms of audio, there's a woman speaking, and then laughter and applause follow her speech."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "127.0s - 133.0s",
+          "query": "**Visual:** The video shows a group of people sitting on a couch in what looks like a talk show set. They are holding up drawings. The background has a cityscape at night. The people are dressed formally, and there's a mix of men and women. The drawings they're holding are colorful and seem to be related to the show's theme.\n\n**Audio:** There's applause and laughter in the background, suggesting the audience is reacting positively to something."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "133.0s - 139.0s",
+          "query": "Visual: The video shows a group of people sitting on a couch in what looks like a talk show setting. They are holding papers and seem to be engaged in a discussion or activity. The background has a cityscape at night. The people are dressed formally, with some in suits and others in dresses. There's a host on the right side of the couch, also holding a paper. The lighting is bright, typical of a studio setup.\n\nAudio: There's laughter and conversation happening. The speech is clear and seems to be part of a dialogue or interview. The laughter suggests a light-hearted or humorous moment during the talk show."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 284.85008120536804
+    },
+    {
+      "comment_index": 1100,
+      "video_id": "aHBLOkfJSYI",
+      "comment": "2:02 Is that elmo?",
+      "language": "en",
+      "channel_name": "JimmyKimmelLive",
+      "category": "entertainment",
+      "likes": 38.0,
+      "comment_timestamp": 122.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "113.0s - 119.0s",
+          "query": "Visually, there are two people holding up sketches. One sketch is of a red and blue figure, possibly a superhero. The other sketch is less clear but seems to depict a similar theme. The people are dressed casually, one in a white shirt and the other in a red and black jacket. They appear to be on a stage or set with a cityscape backdrop. There's a sense of anticipation or presentation.\n\nAudibly, there's applause and laughter, suggesting an audience is present and reacting positively to what's happening."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "119.0s - 125.0s",
+          "query": "**Visual:** The scene shows several people seated around a table at night, with city lights visible through the window behind them. They're holding up sketches they've drawn. One sketch appears to be an abstract figure with red and black lines.\n\n**Audio:** There's laughter from the group, followed by applause. Someone speaks briefly, though it's unclear what is said due to the short duration."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "125.0s - 131.0s",
+          "query": "Visually, there are several people sitting on a couch. They're holding up drawings. The drawings seem to be simple sketches, one of which looks like a face with a flower. The people are dressed in formal or semi-formal attire. The background appears to be a studio setting with a cityscape visible through a window. The lighting is bright, typical of a TV studio.\n\nIn terms of audio, there's applause and some indistinct speech. The applause suggests that the people might be reacting to something positive, like the drawings being shown. The speech is too faint to make out specific words."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 201.2600553035736
     }
   ]
 }

@@ -1,0 +1,99 @@
+{
+  "video_id": "HE_6tTwPSGk",
+  "total_comments": 3,
+  "successful_comments": 3,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 18534,
+      "video_id": "HE_6tTwPSGk",
+      "comment": "14:09 ok, that period on the 3.2 is way to faint. I thought it was 32 for a minute and was like “bull crap!”",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 849.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "840.0s - 846.0s",
+          "query": "Visually, there's a man wearing a red turban standing next to a whiteboard. He has a long beard and is dressed in a blue shirt. The whiteboard displays some text related to stocks with percentages next to company names like VZ, MCD, BMY, and AAPL.\n\nAudio-wise, someone is speaking about dividends on stocks, specifically mentioning Apple paying out half something, though it's not entirely clear from just these few seconds. There doesn't seem to be any background music or sound effects; it's mainly focused on the spoken words."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "846.0s - 852.0s",
+          "query": "**Visual:** A man wearing a red turban is standing next to a whiteboard with some handwritten text on it. The text includes \"Stocks\" followed by percentages for VZ, MCD, BMY, and AAPL.\n\n**Audio:** Someone is speaking about stocks, mentioning that if you go out and do something related to them, presumably investing or trading."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "852.0s - 858.0s",
+          "query": "**Visual:** A man wearing a red turban is standing next to a whiteboard with some handwritten text on it. He appears to be explaining something while gesturing with his hands.\n\n**Audio:** The man is speaking about investing $100 into stocks, mentioning specific percentages for different companies like VZ at 7%, MCD at 2%, BMY at 32%, and AAPL at 0.5%."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 182.9556212425232
+    },
+    {
+      "comment_index": 18535,
+      "video_id": "HE_6tTwPSGk",
+      "comment": "For the comments around 9:00, there's a forth thing, the can do a stock buy back.",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 540.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "531.0s - 537.0s",
+          "query": "**Visual:** There's someone wearing an orange turban sitting at a table with a microphone in front of them. They're gesturing with their hands while speaking. On the table, there's a blue mug on a coaster and some papers or notebooks. The background shows a window with blinds, a shelf with items, and a wall with a map or chart.\n\n**Audio:** Someone is talking into the microphone, but without more context from the audio, I can't say much about what they're saying specifically. It seems to be a conversation or presentation based on the setting."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "537.0s - 543.0s",
+          "query": "**Visual:** A man wearing an orange turban is sitting at a desk with a microphone in front of him. He has a long beard and is gesturing while speaking. There's a blue mug on the table to his left.\n\n**Audio:** The man is talking about companies making profits and mentions that if they do, they can do three things."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "543.0s - 549.0s",
+          "query": "**Visual:** There's a man wearing an orange turban sitting at a desk. He has a long beard and is dressed in blue. On the table in front of him, there's a blue mug on a coaster, some papers, and a pen. The background shows a window with blinds, a green chair, and a shelf with items.\n\n**Audio:** A male voice is speaking about saving money for emergencies or rainy days."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 185.93405389785767
+    },
+    {
+      "comment_index": 18536,
+      "video_id": "HE_6tTwPSGk",
+      "comment": "32:34 Yes, it is faster and cheaper - but you are sending monopoly money.  Get what you pay for.",
+      "language": "en",
+      "channel_name": "MinorityMindset",
+      "category": "finance",
+      "likes": 0.0,
+      "comment_timestamp": 1954.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1945.0s - 1951.0s",
+          "query": "**Visual:** A man wearing an orange turban is sitting at a desk with a microphone in front of him. He's gesturing with his hands while speaking. There's a blue mug on the table to his left.\n\n**Audio:** The man is talking about cryptocurrency being speculative because it can be risky."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1951.0s - 1957.0s",
+          "query": "**Visual:** A man wearing an orange turban is sitting at a desk with a microphone in front of him. He has a long beard and is dressed in a blue shirt. On the table, there's a blue mug on a coaster and some papers. The background shows a window with blinds partially down, a shelf with various items, and a whiteboard.\n\n**Audio:** Someone is speaking about liking cryptocurrencies because they've seen benefits."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1957.0s - 1963.0s",
+          "query": "**Visual:** A man wearing an orange turban is sitting at a desk with his hands clasped together. He has a long beard and is dressed in a blue shirt. In front of him on the desk is a microphone and a blue mug placed on a coaster. The background shows some office elements like shelves and a window.\n\n**Audio:** There's someone speaking about having contractors who work for them overseas related to cryptocurrency."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 138.74175214767456
+    }
+  ]
+}

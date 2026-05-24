@@ -4,130 +4,9 @@
   "successful_comments": 20,
   "failed_comments": 0,
   "success_rate": "100.0%",
-  "processing_time": 9210.104622364044,
   "comments": [
     {
-      "comment_index": 3917,
-      "video_id": "SCbmAVMMRek",
-      "comment": "0:26 The movie normally 2:14, The movie when mom walks in.",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 128.0,
-      "comment_timestamp": 26.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "17.0s - 23.0s",
-          "query": "VISUAL: There's a group of people outdoors on grassy land. One person is holding a large object that suddenly emits bright light. The others seem to be reacting to it. In the background, there are some trees and a parked vehicle.AUDIO: You can hear someone repeatedly shouting \"glasses\" and then an explosion sound effect. There's also some background noise from the outdoor setting. What do you think about this scene?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "23.0s - 29.0s",
-          "query": "VISUAL: There's a group of people on grassy ground. One person is holding a large object that emits bright light. Another person seems to be reacting to it, maybe running or moving away. The background has some trees and an archery target board.AUDIO: I can hear shouting and some kind of whooshing sound effect. It gives off a sense of urgency or excitement.What do you think about this scene? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "29.0s - 35.0s",
-          "query": "VISUAL: There's a man holding a large object that seems to be on fire or emitting bright light. Another person is standing behind him, watching. The ground looks like it has wood chips or mulch. There's some kind of fence and trees in the background.AUDIO: Someone is speaking about gravity and time slowing down, but then corrects themselves, saying \"that's not how it works.\" It sounds like they're explaining something scientific. What do you think about the video?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 376.4216077327728
-    },
-    {
-      "comment_index": 3915,
-      "video_id": "SCbmAVMMRek",
-      "comment": "2:07 you can see in the tablet there’s no laser",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 160.0,
-      "comment_timestamp": 127.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "118.0s - 124.0s",
-          "query": "VISUAL: There's a group of people in an office-like setting. Some are running towards something that looks like a large explosion or fireball. The room has desks with computers, chairs, and some decorations on the walls. The lighting is bright.AUDIO: I can hear shouting and cheering from the crowd. There's also background music playing throughout the clip.If you have any other thoughts about the video or want to discuss it further, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "124.0s - 130.0s",
-          "query": "VISUAL: There's a group of people in an office setting. One person is being restrained or pushed around by others. There are desks with computers and other office equipment visible. The scene seems chaotic.AUDIO: There's shouting throughout the entire 6 seconds. It could be someone yelling orders or expressing anger. No specific words can be made out from the shouting. What do you think about this? Any thoughts on why it might be happening?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "130.0s - 136.0s",
-          "query": "VISUAL: There's a man in a dark jacket and glasses standing in an office-like setting with desks and chairs. He seems to be holding something in his hands. Then there's another person in a black uniform with a badge, also holding something. Suddenly, there's a bright light flash between them. In the background, other people are watching or reacting. The room has white walls with some blue lines on them.AUDIO: You can hear someone shouting \"the laser right now\" repeatedly throughout the video. There's also some kind of electronic sound effect that plays along with it.What do you think about this scene? Do you have any ideas on what might happen next?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 493.07338190078735
-    },
-    {
-      "comment_index": 3916,
-      "video_id": "SCbmAVMMRek",
-      "comment": "2:08 the laser is also a vampire look in the ipad",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 151.0,
-      "comment_timestamp": 128.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "119.0s - 125.0s",
-          "query": "VISUAL: There's a group of people in an office-like setting. Some are standing around desks with computers on them. There's also a large, bright light source in the foreground that seems to be moving or flickering. The room has typical office furniture like chairs and cabinets.AUDIO: You can hear shouting and some kind of impact sounds throughout the 6 seconds. It gives off a chaotic vibe. What do you think about it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "125.0s - 131.0s",
-          "query": "VISUAL: There's a group of men in an office setting. One man is wearing a black leather jacket and hat, another has glasses and a suit. They seem to be having some kind of interaction or argument near desks with computers. There's also someone holding a tablet. The room has white walls, a staircase, and various office items like chairs and papers.AUDIO: I can't really tell what's being said clearly from just the audio. But there seems to be shouting or yelling going on. It might be some sort of heated discussion or confrontation. What do you think about it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "131.0s - 137.0s",
-          "query": "VISUAL: There's a group of people in an indoor setting. One person is holding a camera or some device that emits bright light. The others seem to be reacting to it, with some looking at it and others moving around. The room has furniture like couches and shelves. There are also some colorful decorations on the walls.AUDIO: I can hear shouting and some kind of electronic sound effect throughout the 6 seconds. It seems like there might be music playing too, but it's not very clear.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 461.21546602249146
-    },
-    {
-      "comment_index": 3912,
-      "video_id": "SCbmAVMMRek",
-      "comment": "At 2:45, you can see the ground has been repaired and stitched back together from the last light saber video. Very cool CD, this is epic.",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 297.0,
-      "comment_timestamp": 165.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "156.0s - 162.0s",
-          "query": "VISUAL: There's a man walking with a skateboard on a street lined with parked cars. He passes by some buildings with graffiti. Then he gets into a white car. Two police officers approach him, one holding a gun. The man raises his hands in surrender. One officer points at something while talking to the other. The man looks scared and covers his face with his hand.AUDIO: There's shouting from the police officers, like \"Get in the left\" and \"Drop your weapon.\" There's also background noise that seems to be from the city, maybe traffic or people talking. Oh, and there's a bit of music playing softly in the background too.If you have any thoughts about this scene or want to discuss it further, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "162.0s - 168.0s",
-          "query": "VISUAL: There's a group of men outside near some buildings. One man is wearing a police uniform with \"PD\" on his hat. Another guy has glasses and a white shirt with black sleeves. A third person is in a colorful shirt. They seem to be talking or arguing. Then there's a white car parked nearby. The scene shifts to show more cars and buildings in the background.AUDIO: Someone is shouting something like \"he shot right at us he shouldn't have done that you're under arrest put the legs down put it down now.\" It seems urgent and angry. There's also some music playing in the background.What do you think about this? Do you want me to analyze anything else from the video?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "168.0s - 174.0s",
-          "query": "VISUAL: There's a man being led away by two police officers on a street with parked cars around. The man is wearing a dark shirt and light pants, while the officers have uniforms. One officer has a badge visible on his sleeve. They seem to be escorting him towards a red car. The background shows some buildings and a clear sky.AUDIO: Someone is speaking, saying \"the right to remain silent anything you do or say.\" It seems like they're giving legal advice or instructions related to the situation in the video.If you want to talk more about this video or have other questions, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 564.6474668979645
-    },
-    {
-      "comment_index": 3910,
+      "comment_index": 4373,
       "video_id": "SCbmAVMMRek",
       "comment": "3:17: Breaking news, moon destroyed.",
       "language": "en",
@@ -140,84 +19,24 @@
         {
           "segment_index": 1,
           "time_range": "188.0s - 194.0s",
-          "query": "VISUAL: There's a group of men standing outside near some buildings. One man is wearing a colorful shirt with a floral pattern. They seem to be having an argument or some kind of confrontation. There's also a police officer present, who appears to be trying to calm things down.AUDIO: The main thing heard is someone shouting \"Whoa whoa whoa hey\" repeatedly, which seems to be part of the argument. It's not clear if there's any other speech or music involved.What do you think about the situation in the video?"
+          "query": "Visual: A group of men are standing outside a building. They seem to be in a heated argument or confrontation. One man is holding his head, possibly in frustration or pain. The men are dressed casually, with some wearing hats and t-shirts. The building in the background looks like a simple, possibly industrial or commercial structure. The scene is set during the day, as the lighting suggests sunlight.\n\nAudio: There's a lot of shouting and yelling, indicating a tense situation. The men are speaking angrily, and there are no other significant sounds like music or ambient noises."
         },
         {
           "segment_index": 2,
           "time_range": "194.0s - 200.0s",
-          "query": "VISUAL: There's a man wearing an orange jumpsuit walking through a prison yard. He looks downcast. The background shows a prison building with barbed wire fencing. There's also some text on the screen saying \"TWO YEARS LATER\". AUDIO: I can't really tell much from just these six seconds. It seems like there might be some kind of music or sound effect playing, but it's hard to say for sure without more context. What do you think about this? Do you have any other details that could help me give a better analysis?"
+          "query": "Visually, there are two men standing outside a building. One is wearing a white shirt and glasses, and the other is in a colorful shirt and a cap. They seem to be talking or interacting. The background shows a building with a fence and some parked cars. The scene looks like it might be in an urban area. There's also a \"TWO YEARS LATER\" graphic that appears over a building with a fence, suggesting a time jump or a significant passage of time.\n\nAudio-wise, there's a sound effect that resembles a gunshot or a loud bang, followed by music playing in the background."
         },
         {
           "segment_index": 3,
           "time_range": "200.0s - 206.0s",
-          "query": "VISUAL: There's a man in an orange jumpsuit sitting on a bench inside a boxing ring. Another person, wearing a black jacket with a badge, is standing near him. The background shows some red punching bags. The lighting seems dim, creating a somewhat somber atmosphere.AUDIO: There's a male voice speaking over music. The speech is about getting out and giving someone their personal stuff. The music has a rhythmic beat to it.What do you think about this scene? Do you have any other videos or questions for me?"
+          "query": "Visually, there are two men in a room. One is wearing a white shirt and the other is in a dark uniform, possibly a police officer. The man in the white shirt is sitting and looking at something on a table, while the officer is standing and seems to be talking to him. The room has a greenish wall and some objects on the table, like a red cloth and a black box. The movement is mainly the officer talking and gesturing a bit.The audio has a man speaking, and there's also music playing in the background."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 556.5091457366943
+      "processing_time": 297.0176978111267
     },
     {
-      "comment_index": 3914,
-      "video_id": "SCbmAVMMRek",
-      "comment": "1:24 Cameo appearance in Rocket Jump!",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 172.0,
-      "comment_timestamp": 84.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "75.0s - 81.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "81.0s - 87.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "87.0s - 93.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.2723207473754883
-    },
-    {
-      "comment_index": 3913,
-      "video_id": "SCbmAVMMRek",
-      "comment": "1:24 a wild Freddie appears!",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 200.0,
-      "comment_timestamp": 84.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "75.0s - 81.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 2,
-          "time_range": "81.0s - 87.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "87.0s - 93.0s",
-          "query": "Inference error: nframes should in interval [2, 0], but got 0."
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 0.5211889743804932
-    },
-    {
-      "comment_index": 3911,
+      "comment_index": 4374,
       "video_id": "SCbmAVMMRek",
       "comment": "2:04 OMG I JUST NOTICED!!! There are these little tiny dots that happen because there are Photons Shooting the Sensor down!",
       "language": "en",
@@ -230,24 +49,234 @@
         {
           "segment_index": 1,
           "time_range": "115.0s - 121.0s",
-          "query": "VISUAL: There's a group of people in an office-like setting. They seem to be dancing or moving around energetically. One person is holding a phone up, possibly recording them. The room has desks with computers, some posters on the walls, and general office furniture. There's also a door visible in one shot.AUDIO: You can hear shouting and cheering throughout the video. It gives off a lively, excited vibe. There might be some background noise too, like from other people or equipment in the office. What do you think about it?"
+          "query": "Visually, there are several people in a room. Some are sitting at desks with computers, while others are standing and moving around. The room has colorful decorations on the walls. There's a sense of activity and interaction among the people.\n\nIn terms of audio, there's a lot of shouting and yelling, which seems to be part of a heated discussion or argument. There are also some background noises, possibly from the room's environment or other people nearby."
         },
         {
           "segment_index": 2,
           "time_range": "121.0s - 127.0s",
-          "query": "VISUAL: There's a group of people in an office-like setting. They seem to be dancing or moving around energetically. One person is holding something that looks like a large inflatable object. The room has desks with computers, chairs, and some plants. The lighting appears to be bright.AUDIO: I can hear shouting and yelling throughout the entire 6 seconds. It seems like there might be some kind of commotion or excitement going on. What do you think about it?"
+          "query": "**Visual:** The video shows several people gathered indoors. There's some kind of activity going on among them, possibly involving movement or interaction with objects. The setting seems to be a room with furniture like couches and tables.\n\n**Audio:** You can hear shouting and yelling throughout the clip. It gives off an intense or chaotic vibe."
         },
         {
           "segment_index": 3,
           "time_range": "127.0s - 133.0s",
-          "query": "VISUAL: There's a group of men in an office-like setting. One man is wearing a leather jacket with patches on it. He seems to be in some kind of confrontation or interaction with another man who has glasses and a bald head. The man in the leather jacket is gesturing towards him. In the background, there are desks with computers and other office equipment. There's also a staircase visible. The scene looks chaotic, like they're having a heated argument.AUDIO: I can't really tell much from just the audio. It might be some kind of shouting or yelling, but it's hard to say for sure without more context.What do you think about this? Do you have any other thoughts or questions related to the video?"
+          "query": "Visually, there are several people in what looks like an office or workspace. They seem to be moving around, some standing and some walking. There are desks, chairs, and computer monitors visible. The colors are mostly neutral, like the beige of the walls and the brown of the furniture. The movement is quite dynamic, with people interacting and possibly working on tasks.Audibly, there's a lot of shouting and yelling. It sounds like people are having a heated argument or discussion. There are no distinct music or sound effects, just the voices and ambient noise of the office."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 515.3684046268463
+      "processing_time": 248.81331515312195
     },
     {
-      "comment_index": 3918,
+      "comment_index": 4375,
+      "video_id": "SCbmAVMMRek",
+      "comment": "At 2:45, you can see the ground has been repaired and stitched back together from the last light saber video. Very cool CD, this is epic.",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 297.0,
+      "comment_timestamp": 165.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "156.0s - 162.0s",
+          "query": "Visually, there are several people in a street scene. Some are running, and one person is holding a sign. There are parked cars and buildings in the background. The colors are typical of an urban setting, with the street being gray and the buildings having various colors. The movement is mostly of the people running and the cars parked still.\n\nIn terms of audio, there's a man shouting, \"Get in line!\" and then saying, \"Three, two, one.\" There are also some sound effects that seem to be related to the man's actions, like a whooshing sound. The overall sound is somewhat chaotic, matching the busy street scene."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "162.0s - 168.0s",
+          "query": "**Visual:** The video shows a group of people outside a building. There's a police officer in uniform, and a man in a colorful shirt. The officer seems to be interacting with the man in the colorful shirt. There are cars parked nearby, and the setting looks like an urban street. The lighting suggests it's daytime.\n\n**Audio:** The audio includes shouting and some kind of impact sound, possibly a gunshot. There's also a voice saying something like \"you're under arrest.\""
+        },
+        {
+          "segment_index": 3,
+          "time_range": "168.0s - 174.0s",
+          "query": "**Visual:** The video shows a street scene. There are parked cars on both sides of the road. A man in a blue shirt is walking towards the camera, and another person in a dark jacket is standing near a car. The background has some buildings and a bridge. The lighting suggests it's daytime.\n\n**Audio:** There's a voice speaking in the background, but the content of the speech isn't clear from this short segment."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 303.9781861305237
+    },
+    {
+      "comment_index": 4376,
+      "video_id": "SCbmAVMMRek",
+      "comment": "1:22 Freddy Wong cameo?",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 276.0,
+      "comment_timestamp": 82.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "73.0s - 79.0s",
+          "query": "Visually, there are two men walking on a sidewalk. One is wearing a dark shirt and the other a colorful floral shirt with a cap. They seem to be having a conversation. There are trees and parked cars in the background. The scene looks like it's in a suburban area. The colors are bright, suggesting it's daytime.Audibly, there's a man speaking, and it sounds like he's talking about something taking an hour. There are no other distinct sounds like music or sound effects."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "79.0s - 85.0s",
+          "query": "Visually, there are people outside a building. One person is wearing a colorful shirt and a white hat, and they seem to be gesturing or talking. There are trees and a parked car in the background. The scene looks like it's during the day with sunlight.\n\nIn terms of audio, there's a man speaking, and then a horn honking. The speech seems to be in English, but the exact words aren't clear."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "85.0s - 91.0s",
+          "query": "Visual: The video shows two men walking past a brick wall with a circular mirror embedded in it. One man is wearing a colorful shirt and a hat, while the other has on darker clothing. They seem to be moving quickly, possibly running or hurrying.\n\nAudio: There's some shouting and splashing water heard in the background, along with a voice saying \"Oh so sorry.\" It gives off an urgent or chaotic vibe."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 256.313307762146
+    },
+    {
+      "comment_index": 4377,
+      "video_id": "SCbmAVMMRek",
+      "comment": "1:24 a wild Freddie appears!",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 200.0,
+      "comment_timestamp": 84.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "75.0s - 81.0s",
+          "query": "**Visual:** The video shows two men walking outdoors on a sunny day. One man is wearing a colorful shirt with a patterned design and a white cap, while the other has on a gray t-shirt and shorts. They seem to be engaged in conversation as they walk along a path lined with trees and parked cars.\n\n**Audio:** There's dialogue between the two men, likely discussing something related to time or duration, given their mention of \"how long\" and estimating it could take an hour. No background music or sound effects are noticeable apart from their voices."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "81.0s - 87.0s",
+          "query": "Visual: The video shows a group of people walking outside a building. There are trees and a parked car visible. The people are dressed casually, and one person is wearing a colorful shirt. The scene appears to be in a city or urban area. The movement is relatively slow, with the people walking at a normal pace.\n\nAudio: There is a voiceover in the background, but the content of the speech is not clear from this short segment. There are no distinct sound effects or music."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "87.0s - 93.0s",
+          "query": "**Visual:** The video shows a brick wall with a circular emblem or logo in the center. There are two people visible, one on the left side of the frame and another on the right. The person on the left is wearing a colorful shirt and appears to be moving or gesturing. The person on the right is wearing a white shirt with black sleeves and seems to be standing still. The background includes a street scene with parked cars and buildings.\n\n**Audio:** There is a man speaking in the audio. His speech is clear and seems to be addressing someone or making a statement."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 198.4806203842163
+    },
+    {
+      "comment_index": 4378,
+      "video_id": "SCbmAVMMRek",
+      "comment": "Freddie! 1:23",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 164.0,
+      "comment_timestamp": 83.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "74.0s - 80.0s",
+          "query": "**Visual:** The video shows two men walking outdoors on a sunny day. One man is wearing a blue shirt with white stripes, while the other has on a colorful floral shirt and a cap. They seem to be engaged in conversation as they walk along a path lined with trees and some parked cars visible in the background.\n\n**Audio:** There's dialogue between the two men, discussing something related to time, possibly estimating how long it will take for an unspecified task or event. The conversation includes phrases like \"figure this out\" and \"how much is it gonna take.\" No distinct music or sound effects are heard apart from their voices."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "80.0s - 86.0s",
+          "query": "Visual: The video shows a person in a colorful shirt walking down a sidewalk. There are buildings and some greenery in the background. The person seems to be moving at a normal pace. The colors are somewhat muted, and the overall scene looks like an urban or suburban area.\n\nAudio: There's a voice speaking in the background, but the words are unclear. It sounds like a conversation or some kind of narration. There are no distinct music or sound effects, just the voice and some faint ambient noises."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "86.0s - 92.0s",
+          "query": "**Visual:** The video shows a brick wall with a large, glowing, circular object that resembles a portal or a symbol. There are two people standing near the wall. One is wearing a white shirt and the other is wearing a colorful shirt and a hat. The scene appears to be outdoors, and there's a car partially visible in the background. The overall lighting suggests it might be daytime.\n\n**Audio:** The audio includes a man speaking, possibly expressing surprise or excitement, as indicated by the word \"whoa.\" There are also some background sounds that could be ambient noise or other people talking."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 218.82022404670715
+    },
+    {
+      "comment_index": 4379,
+      "video_id": "SCbmAVMMRek",
+      "comment": "2:07 you can see in the tablet there’s no laser",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 160.0,
+      "comment_timestamp": 127.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "118.0s - 124.0s",
+          "query": "**Visual:** The video shows a group of people in what appears to be an office or classroom setting. There are desks, chairs, and some decorations on the walls. The people are moving around, some standing and some sitting. The lighting is bright, and the overall scene looks busy and active.\n\n**Audio:** There is a lot of shouting and yelling in the background, which seems to be part of a heated argument or confrontation. The shouting is loud and continuous, creating a tense atmosphere."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "124.0s - 130.0s",
+          "query": "Well, I'm not sure if there's anything specific to describe about the visual or audio here. It seems like it might be some kind of chaotic scene with people shouting and running around. But without more details from the actual video, that's all I can say. What do you think? Do you have any other information about this video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "130.0s - 136.0s",
+          "query": "Visually, there are several people in a room. One person is holding a large, bright light source, possibly a flashlight or a lamp, which is shining intensely. There are other people in the room, some standing and some sitting. The room seems to have some furniture like a couch and a table. The colors are somewhat muted due to the bright light source, but there are hints of different colors from the objects in the room. The movement is mainly the person with the light source moving around, and the others are mostly stationary or moving slightly.\n\nAudibly, there is a man speaking, and his voice is clear and distinct. There are also some background sounds, possibly from other people in the room or some ambient noise. The speech seems to be the main focus of the audio."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 286.77493834495544
+    },
+    {
+      "comment_index": 4380,
+      "video_id": "SCbmAVMMRek",
+      "comment": "2:08 the laser is also a vampire look in the ipad",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 151.0,
+      "comment_timestamp": 128.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "119.0s - 125.0s",
+          "query": "**Visual:** The video shows a group of people in what looks like an office or a similar indoor setting. There are desks, chairs, and some decorations on the walls. The people seem to be engaged in some kind of activity or discussion. The lighting is bright, and the overall scene is quite busy with movement.\n\n**Audio:** There are sounds of shouting and possibly some impact noises, like banging or clashing. It seems like there might be some kind of commotion or argument happening."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "125.0s - 131.0s",
+          "query": "**Visual:** The video shows a group of people in what looks like an office or workshop setting. There are desks, computers, and some equipment around. The people are moving around, interacting with each other. One person seems to be gesturing or pointing at something. The overall scene is somewhat chaotic, with people in motion and various objects in the background.\n\n**Audio:** There's a lot of shouting and yelling in the audio. It sounds like people are arguing or having a heated discussion. There are no distinct music or sound effects, just the voices and ambient noise of the environment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "131.0s - 137.0s",
+          "query": "Well, I can't really analyze that video for you because it's not available here. But if you could describe it to me or upload it again, I'd be happy to help! What else would you like to talk about?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 234.21116733551025
+    },
+    {
+      "comment_index": 4381,
+      "video_id": "SCbmAVMMRek",
+      "comment": "0:26 The movie normally 2:14, The movie when mom walks in.",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 128.0,
+      "comment_timestamp": 26.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "17.0s - 23.0s",
+          "query": "**Visual:** The video shows a group of people outdoors in a grassy area. There are at least three individuals visible, one of whom is holding a large, cylindrical object. The setting appears to be a sunny day with trees and a road in the background. The people seem to be engaged in some kind of activity involving the object.\n\n**Audio:** The audio includes speech, likely from the people in the video, and some sound effects, possibly related to the activity they are doing. There are also ambient sounds of nature, like wind and possibly distant traffic."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "23.0s - 29.0s",
+          "query": "Visually, there are several people in an outdoor setting, possibly a park or a field. They seem to be engaged in some kind of activity involving a large, bright object that resembles a firework or a similar explosive device. The people are dressed casually, and there's a dog in the scene too. The colors are mostly natural greens and browns from the grass and trees, with the bright object standing out.\n\nIn terms of audio, there are shouts and some kind of impact sounds, suggesting excitement or surprise. There's also a brief moment of music, which might be part of a soundtrack or background audio for the video."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "29.0s - 35.0s",
+          "query": "**Visual:** The video shows two people outdoors on a dry, leaf-covered ground. One person is holding a large black bag while the other stands nearby. There's a bright light source in front of them, possibly from a camera flash or some kind of lighting effect. In the background, there are trees and a white fence.\n\n**Audio:** Someone is speaking, saying \"how's it going so slow though bigger things have more gravity and that slows down time.\" It seems like they're explaining something related to physics or science."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 248.12430810928345
+    },
+    {
+      "comment_index": 4382,
       "video_id": "SCbmAVMMRek",
       "comment": "0:35 Guys, you forgot about the hole in the shadow before impact",
       "language": "en",
@@ -260,174 +289,24 @@
         {
           "segment_index": 1,
           "time_range": "26.0s - 32.0s",
-          "query": "VISUAL: There's a group of people outdoors on grassy ground. One person is holding something large that's emitting bright light. The scene has some trees and a fence in the background.AUDIO: There's a man speaking, saying \"whoa why's it going so slow though oh bigger things have more gravity.\" It seems like he's commenting on the situation with the glowing object.What do you think about the video? Any thoughts or questions?"
+          "query": "Visually, the video shows a group of people outdoors in a grassy area. There are some large, glowing objects that seem to be moving slowly. The people are standing around, watching these objects. The background includes trees and a fence. The colors are mostly natural tones of green and brown, with the glowing objects emitting a bright, almost fiery light.\n\nIn terms of audio, there's a voice saying \"whoa\" in a surprised tone. There are also some sound effects that seem to be related to the glowing objects, possibly indicating their movement or interaction with the environment. The overall atmosphere seems to be one of curiosity and slight surprise."
         },
         {
           "segment_index": 2,
           "time_range": "32.0s - 38.0s",
-          "query": "VISUAL: There are two people in an outdoor setting with some trees and a fence in the background. One person is holding a large object that's emitting bright light, almost like a flame or explosion. The other person seems to be reacting to it. Then there's a quick cut to another scene where one person is holding up a circular mirror-like object while the other person is moving around them. The ground looks like dirt or mulch.AUDIO: I can hear someone speaking about slowing down time, and then there's a loud explosion sound effect. It also sounds like there might be some wind noise in the background.What do you think about these descriptions? Do you have any other thoughts on the video?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.37 GiB. GPU 1 has a total capacity of 23.56 GiB of which 2.25 GiB is free. Including non-PyTorch memory, this process has 21.30 GiB memory in use. Of the allocated memory 16.69 GiB is allocated by PyTorch, and 4.31 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 3,
           "time_range": "38.0s - 44.0s",
-          "query": "VISUAL: There are two men outside. One is wearing a white shirt with black sleeves and brown pants, while the other has on a blue shirt and gray pants. They seem to be having some kind of playful interaction, like one man is covering his face with his hands and then they both laugh. The background shows trees, bushes, and a clear sky. There's also a red curb and some white poles along it.AUDIO: I can hear someone shouting \"crosshairs\" repeatedly throughout the clip. It seems like there might be some sort of game or challenge going on. There's no music or any other distinct sound effects. Just that shouting and maybe a bit of ambient noise from the outdoor setting.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "**Visual:** The video shows two men outdoors on a sunny day. One man is wearing a white shirt with black sleeves and beige shorts, while the other is in a dark blue shirt and jeans. They appear to be engaged in some kind of physical activity or game, possibly involving running or dodging. There's greenery like trees and bushes around them.\n\n**Audio:** The main audio consists of someone shouting \"Crossman\" repeatedly, which seems to be part of their conversation or instructions related to whatever they're doing. There's also background noise that suggests an outdoor setting, likely wind and distant chatter from others nearby."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 622.2106628417969
+      "processing_time": 259.5105516910553
     },
     {
-      "comment_index": 3923,
-      "video_id": "SCbmAVMMRek",
-      "comment": "0:29 me in my class cant get the answer of this question 0:30 nerds in my class thinks he's smart but then 0:33 my teacher telling nerd that's a wrong answer",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 58.0,
-      "comment_timestamp": 30.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "21.0s - 27.0s",
-          "query": "VISUAL: There's a group of people on a grassy field. One person is holding a large object that seems to be emitting flames or some sort of bright light. The others are reacting with surprise and fear, running away from it. The background has trees and a building. The scene looks like an outdoor area during daytime.AUDIO: You can hear shouting and screaming, which adds to the chaotic atmosphere created by the visual elements. It gives off a sense of panic and urgency.What do you think about this kind of scenario? Have you ever seen anything like it before?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "27.0s - 33.0s",
-          "query": "VISUAL: There's a group of people outdoors on grassy ground. One person is holding a large object that seems to be on fire or emitting bright light. Another person is standing nearby watching. The background has some trees and a fence.AUDIO: There's a man speaking, saying \"Oh why's it going so slow though Oh bigger things have more gravity and that slows down.\" It also includes some sound effects like an explosion or something similar.If you want to talk more about this video or anything else related, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "33.0s - 39.0s",
-          "query": "VISUAL: There's a guy in a blue shirt holding a large object that's on fire. Another person is standing behind him. Then it cuts to two guys in front of a cardboard target with a bullseye. One of them is wearing a white shirt and brown pants, while the other has a black shirt and jeans. They seem to be reacting to something off - screen.AUDIO: You can hear some kind of impact or explosion sound effect, followed by a man speaking. It seems like he's explaining something about crosshairs not working properly. Oh, and there's also a \"whoa\" from someone else. What do you think might have happened?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 520.7670645713806
-    },
-    {
-      "comment_index": 3925,
-      "video_id": "SCbmAVMMRek",
-      "comment": "0:29 well yes, but actually no.",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 56.0,
-      "comment_timestamp": 29.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "20.0s - 26.0s",
-          "query": "VISUAL: There's a group of people on grassy ground. One person is holding a large box with flames shooting out from it. The others seem to be reacting to the flames, some running away while one looks like he's trying to control or interact with the situation. The background has trees and a bit of a hilly area.AUDIO: You can hear shouting and grunting, which seems to be coming from the people in the video. There's also a sound effect that resembles an explosion or something similar at the end. It gives off a sense of urgency and chaos.What do you think about the scene? Do you have any other thoughts or questions related to it?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "26.0s - 32.0s",
-          "query": "VISUAL: There's a group of people outdoors on grassy ground. One person is holding something large that's emitting bright light. The scene has some trees and a fence in the background.AUDIO: There's a man speaking, saying \"whoa why's it going so slow though oh bigger things have more gravity.\" It seems like he's commenting on the situation with the glowing object.What do you think about the video? Any thoughts or questions?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "32.0s - 38.0s",
-          "query": "VISUAL: There are two people in an outdoor setting with some trees and a fence in the background. One person is holding a large object that's emitting bright light, almost like a flame or explosion. The other person seems to be reacting to it. Then there's a quick cut to another scene where one person is holding up a circular mirror-like object while the other person is moving around them. The ground looks like dirt or mulch.AUDIO: I can hear someone speaking about slowing down time, and then there's a loud explosion sound effect. It also sounds like there might be some wind noise in the background.What do you think about these descriptions? Do you have any other thoughts on the video?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 671.0603048801422
-    },
-    {
-      "comment_index": 3921,
-      "video_id": "SCbmAVMMRek",
-      "comment": "0:50 they can just push the car",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 66.0,
-      "comment_timestamp": 50.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "41.0s - 47.0s",
-          "query": "VISUAL: There's a man and a woman standing outside near some trees. The man is wearing a dark shirt and jeans, while the woman has on a light-colored top and shorts. They seem to be interacting with something that creates a bright flash of light. In the background, there are parked cars and more trees.AUDIO: I can hear some kind of conversation between the two people, but it's not very clear. There might also be some sound effects related to the bright flash they're creating. It could be from an explosion or something similar.What do you think about this? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "47.0s - 53.0s",
-          "query": "VISUAL: There's a group of people outside near some parked cars. One person is holding something that creates a bright flash of light. The others seem to be reacting to it. The scene has trees and buildings in the background. The colors are mostly natural tones like greens from the trees and grays from the pavement.AUDIO: I can hear someone shouting \"water\" repeatedly, followed by other voices and some kind of impact or crashing sound. It seems like there might be music playing softly in the background too.What do you think about this? Do you have any other thoughts on the video?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "53.0s - 59.0s",
-          "query": "VISUAL: There's a group of men standing outside near some cars. One man is wearing a colorful shirt with a floral pattern and a cap. Another man has glasses on. They seem to be having an argument or a heated discussion. The background shows trees and buildings, suggesting it might be in a suburban area.AUDIO: A man is speaking angrily, saying things like \"where are my keys\" and \"are you serious.\" It seems like he's frustrated about something related to his keys. There's also some breathing heard in between his words.If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 502.27490234375
-    },
-    {
-      "comment_index": 3920,
-      "video_id": "SCbmAVMMRek",
-      "comment": "1:37 Why is there a gold play button",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 76.0,
-      "comment_timestamp": 97.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "88.0s - 94.0s",
-          "query": "VISUAL: There's a brick wall with a circular hole that looks like it has some kind of glowing effect around it. A man wearing a hat is standing near a metal box on the left side of the frame. The camera then pans to show a street scene with parked cars, buildings, and a person walking in the distance.AUDIO: There's music playing throughout the entire clip. It seems to be instrumental or possibly electronic music. No specific lyrics can be heard. What do you think about the combination of visuals and audio?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "94.0s - 100.0s",
-          "query": "VISUAL: There's a man in a colorful shirt standing in an office-like setting with desks and computers. He seems to be talking or shouting at someone off - screen. Then another person in a dark shirt runs past him towards the back of the room where there are more people sitting at desks. The background has some shelves and an American flag hanging on the wall.AUDIO: You can hear a dog barking throughout the entire clip. It starts right from the beginning and continues until about halfway through the six seconds. There's also some kind of impact sound that happens around two seconds into the clip."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "100.0s - 106.0s",
-          "query": "VISUAL: There's an office setting with desks, computers, and some people working or standing around. Three men are in focus - one in glasses and a black and white shirt, another in a blue t-shirt with a design, and the third in a colorful shirt and cap. They seem to be talking or reacting to something.AUDIO: A man is speaking, saying \"Hi everyone sorry to bother there's a giant deadly laser coming.\" It seems like he's trying to get attention or make an important announcement. What do you think about it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 430.4273307323456
-    },
-    {
-      "comment_index": 3924,
-      "video_id": "SCbmAVMMRek",
-      "comment": "1:52 this was a little too accurate lol",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 57.0,
-      "comment_timestamp": 112.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "103.0s - 109.0s",
-          "query": "VISUAL: There are three men standing together. One is wearing glasses and has a beard, another is in a blue t - shirt with a design on it, and the third is in a colorful shirt and a cap. They seem to be in some kind of indoor space, like an office or studio. The man in the middle is gesturing with his arm while talking.AUDIO: A voice is heard saying \"there's a giant deadly laser coming this way so please watch out.\" It seems urgent and serious.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "109.0s - 115.0s",
-          "query": "VISUAL: There's an office setting with desks, computers, and some people. One person is sitting at a desk looking at something on their computer screen. Two men in suits walk through the room holding papers. Then there's a bright light effect on a wall, followed by a scene where two men are fighting or struggling with each other. The camera moves quickly around them.AUDIO: There's shouting throughout the entire 6 seconds. It seems like it could be from a crowd or someone yelling. No specific words can be made out clearly.If you have any thoughts about this analysis or want to discuss more about the video, feel free to share!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "115.0s - 121.0s",
-          "query": "VISUAL: There's a group of people in an office-like setting. They seem to be dancing or moving around energetically. One person is holding a phone up, possibly recording them. The room has desks with computers, some posters on the walls, and general office furniture. There's also a door visible in one shot.AUDIO: You can hear shouting and cheering throughout the video. It gives off a lively, excited vibe. There might be some background noise too, like from other people or equipment in the office. What do you think about it?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 505.43904876708984
-    },
-    {
-      "comment_index": 3919,
+      "comment_index": 4383,
       "video_id": "SCbmAVMMRek",
       "comment": "2:16  Guy literally dies  Everyone: oh my gosh this phone is so blurre like oh ma gowd how am i going to capture this....oh no my fellow employee died..anyway",
       "language": "en",
@@ -440,24 +319,84 @@
         {
           "segment_index": 1,
           "time_range": "127.0s - 133.0s",
-          "query": "VISUAL: There's a group of men in an office-like setting. One man is wearing a leather jacket with patches on it. He seems to be in some kind of confrontation or interaction with another man who has glasses and a bald head. The man in the leather jacket is gesturing towards him. In the background, there are desks with computers and other office equipment. There's also a staircase visible. The scene looks chaotic, like they're having a heated argument.AUDIO: I can't really tell much from just the audio. It might be some kind of shouting or yelling, but it's hard to say for sure without more context.What do you think about this? Do you have any other thoughts or questions related to the video?"
+          "query": "Visually, there are several people in what looks like an office or workspace. They seem to be moving around, some standing and some walking. There are desks, chairs, and computer monitors visible. The colors are mostly neutral, like the beige of the walls and the brown of the furniture. The movement is quite dynamic, with people interacting and possibly working on tasks.Audibly, there's a lot of shouting and yelling. It sounds like people are having a heated argument or discussion. There are no distinct music or sound effects, just the voices and ambient noise of the office."
         },
         {
           "segment_index": 2,
           "time_range": "133.0s - 139.0s",
-          "query": "VISUAL: There's a group of people in an indoor setting. One person is holding a camera or something similar, and there's a bright light source in front of them. The others seem to be reacting to it, some with their hands up. There's also a pair of brown shoes on the floor.AUDIO: I can't really tell much from just these few seconds. It seems like there might be some shouting or yelling, but not sure if it's part of the scene or something else. There could be some background noise too.If you want me to analyze more about this video, feel free to ask!"
+          "query": "Oh, it seems like there's been an error with your message. The text you've provided doesn't match any known format for describing videos or audio segments. Could you please clarify? Maybe give me more details about what you're looking to analyze from the video? I'd be happy to help!"
         },
         {
           "segment_index": 3,
           "time_range": "139.0s - 145.0s",
-          "query": "VISUAL: There's a pair of brown shoes on a concrete floor at first. Then a man in a black leather jacket appears, looking angry and shouting. Another person is seen in the background, wearing a colorful shirt and a cap. The scene seems to be indoors with some equipment visible.AUDIO: Someone is speaking angrily, saying \"He could get out of the way.\" There are also some impact sounds like footsteps or something being hit. It ends with the phrase \"you're under arrest for murder.\".If you have any other thoughts about this video or want to discuss it further, feel free to let me know!"
+          "query": "Visually, there's a pair of brown shoes on a tiled floor. Then, a man in a black jacket and hat walks in, holding a black bag. He seems to be in a room with some furniture and a window. There's also a person in a colorful shirt in the background. The man in the black jacket moves quickly, almost like he's in a hurry. The scene is indoors, and the lighting is fairly bright, probably from the window.Audibly, there's a voice saying \"you get out of the way\" and then \"you're under arrest for murder.\" There are also some impact sounds, like footsteps or something being moved. The overall tone seems tense and urgent."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 511.36027789115906
+      "processing_time": 202.91624903678894
     },
     {
-      "comment_index": 3922,
+      "comment_index": 4384,
+      "video_id": "SCbmAVMMRek",
+      "comment": "1:37 Why is there a gold play button",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 76.0,
+      "comment_timestamp": 97.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "88.0s - 94.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 8.00 GiB. GPU 1 has a total capacity of 23.56 GiB of which 7.87 GiB is free. Including non-PyTorch memory, this process has 15.68 GiB memory in use. Of the allocated memory 13.59 GiB is allocated by PyTorch, and 1.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "94.0s - 100.0s",
+          "query": "Visually, there are multiple people in an office setting. Some are standing, others are sitting at desks. There are office chairs, desks, and computer monitors visible. The scene seems busy, with people moving around. The colors are typical of an office, like beige, gray, and the colors of office furniture. The movement is mostly people walking or standing up.\n\nIn terms of audio, there's a man speaking, but the content of his speech isn't clear. There are also some impact sounds, like footsteps or objects being moved."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "100.0s - 106.0s",
+          "query": "**Visual:** The video shows three men in a room. One man in a black and white shirt is on the left, another in a blue shirt with a graphic design is in the middle, and a third man in a colorful shirt and cap is on the right. They all seem to be in a state of surprise or concern. The room has a door marked with the number \"14\" and some framed pictures or certificates on the wall. The lighting is bright, typical of an indoor office or classroom setting.\n\n**Audio:** There is a man speaking in English. He starts by saying \"hi everyone, sorry to be bothered.\" Then he mentions something about a \"giant deadly laser coming.\" The tone of his voice suggests urgency or alarm."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 283.08198142051697
+    },
+    {
+      "comment_index": 4385,
+      "video_id": "SCbmAVMMRek",
+      "comment": "0:50 they can just push the car",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 66.0,
+      "comment_timestamp": 50.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "41.0s - 47.0s",
+          "query": "Visually, there are two people standing in a parking lot. One is wearing a dark shirt and light pants, and the other is in a white shirt and dark pants. They seem to be having a conversation. There are cars parked in the background, and some trees and a building are visible further back. The sky is clear and blue, suggesting it's a sunny day. The movement is mainly the two people talking and gesturing to each other.Audibly, there's a conversation between the two people. It seems to be a casual chat, but the specific words are unclear. There are no distinct music or sound effects, just the natural sounds of the environment like the wind and possibly some distant traffic."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "47.0s - 53.0s",
+          "query": "**Visual:** The video shows a bright, sunny outdoor scene. There are two people, one wearing a white shirt and the other in a colorful shirt. They seem to be interacting with a blue car. The background includes some greenery and a clear sky. The camera focuses mainly on the two people and the car.\n\n**Audio:** The audio contains a voice saying \"water\" and then some other words that are difficult to clearly understand. There are also some sound effects, possibly related to the car or the people's actions."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "53.0s - 59.0s",
+          "query": "Visually, there are two men in the video. One is wearing a colorful shirt and a cap, and the other is in a gray shirt. They seem to be having a conversation while standing on a street. There are some buildings and trees in the background. The scene looks like it's set in an urban area during the day. The colors are bright, with the blue sky and green trees adding to the overall look. The movement is mainly from the two men as they talk and gesture.\n\nIn terms of audio, there's a man speaking. He seems to be asking about keys and expressing surprise or disbelief. The speech is clear and the tone suggests a bit of urgency or frustration."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 281.0303030014038
+    },
+    {
+      "comment_index": 4386,
       "video_id": "SCbmAVMMRek",
       "comment": "2:06 there's no deadly giant laser on the iPad",
       "language": "en",
@@ -470,24 +409,114 @@
         {
           "segment_index": 1,
           "time_range": "117.0s - 123.0s",
-          "query": "VISUAL: There's a group of people in an office-like setting. They seem to be dancing or moving around energetically. One person is holding something that looks like it could be a large, glowing object. The room has desks with computers, some posters on the walls, and general office furniture.AUDIO: I can hear shouting and some kind of music playing in the background. It seems like there might also be some sound effects related to the glowing object being held by one of the people.What do you think about the scene? Do you have any other thoughts or questions?"
+          "query": "Visually, there are several people in what seems to be an office or classroom setting. They're standing and moving around, some holding objects like a large, bright light source. The room has desks, chairs, and some decorations on the walls. The lighting is somewhat dim, with the bright light source being a focal point. There's a sense of activity and possibly some commotion.\n\nAudibly, there's a lot of shouting and yelling, which could indicate excitement, anger, or some other strong emotion. There's also a sound effect that resembles a gunshot, which adds to the chaotic atmosphere."
         },
         {
           "segment_index": 2,
           "time_range": "123.0s - 129.0s",
-          "query": "VISUAL: There's a group of people in an office-like setting. One person is wearing a leather jacket and seems to be leading or directing others. They're moving around desks with computers on them. The room has white walls and some posters or notices on the wall. There's also a staircase visible in the background.AUDIO: You can hear shouting and yelling throughout the clip. It gives off a sense of urgency or chaos. There might be some other indistinct noises too, like footsteps or movement sounds.If you want to talk more about this video or have any other questions, feel free to let me know!"
+          "query": "**Visual:** The video shows several people in an indoor setting. They seem to be moving around quickly, some holding objects like buckets or tools. There's a sense of urgency or activity among them.\n\n**Audio:** You can hear shouting and yelling throughout the clip. It gives off a chaotic or intense vibe."
         },
         {
           "segment_index": 3,
           "time_range": "129.0s - 135.0s",
-          "query": "VISUAL: There's a man in a suit sitting on a couch with a laptop. Another person in a police uniform is standing next to him. Then, there's an explosion in front of them, and they both react. There are other people in the background watching. The room has some furniture like a table and chairs.AUDIO: You can hear shouting and then applause. It seems like someone is giving orders or making announcements related to the situation in the video.If you have any thoughts about this or want to discuss more, feel free to let me know."
+          "query": "Visual: The video shows a group of people in what seems to be an office or meeting room. There are desks, chairs, and a whiteboard on the wall. Some people are standing and talking, while others are sitting. The room has a mix of colors, like the blue shirt of one person and the brown pants of another. There's a sense of movement as people are interacting with each other. The whiteboard has some writing on it, but it's not clear what it says. The overall scene gives off a busy, active vibe, like a work meeting or brainstorming session. Audio: The audio features a man shouting, \"Exit the pod at the laser right now!\" It's a clear, loud voice, and the words are distinct. There are no other sounds like music or background chatter, just the man's voice."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 494.31082367897034
+      "processing_time": 255.51787614822388
     },
     {
-      "comment_index": 3926,
+      "comment_index": 4387,
+      "video_id": "SCbmAVMMRek",
+      "comment": "0:29 me in my class cant get the answer of this question 0:30 nerds in my class thinks he's smart but then 0:33 my teacher telling nerd that's a wrong answer",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 58.0,
+      "comment_timestamp": 30.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "21.0s - 27.0s",
+          "query": "Visually, there are several people in a grassy area. They seem to be engaged in some kind of activity, possibly a game or a playful fight. There are bright flashes of light, like sparks or fire, which could be part of the game or just a visual effect. The people are moving around, some running and others standing. The colors are mostly natural greens and browns from the grass and trees, with the bright flashes adding a contrasting element. The scene looks like it's outdoors, in a park or similar open space.Audibly, there are shouts and grunts from the people in the video. It sounds like they're exerting themselves, which fits with the active scene. There's also some background noise, likely from the environment around them, but it's not very clear."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "27.0s - 33.0s",
+          "query": "Visually, there are a few people in an outdoor setting, possibly a park. One person is holding a large, round object that seems to be glowing or emitting light. The ground is covered with dry leaves, and there are trees and a fence in the background. The lighting suggests it's daytime, and the overall scene looks calm and natural.Audibly, there's a voice speaking, but the content of the speech isn't clear from the provided information. There are no distinct sound effects or music in the audio segment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "33.0s - 39.0s",
+          "query": "Visual: The video shows two men playing with a large cardboard box that has a target drawn on it. One man is holding the box while the other seems to be interacting with it. There's an outdoor setting with trees and a fence visible in the background.\n\nAudio: You can hear some kind of impact or explosion sound effect in the middle of the clip. It's not clear if there's any speech or music involved."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 244.6364550590515
+    },
+    {
+      "comment_index": 4388,
+      "video_id": "SCbmAVMMRek",
+      "comment": "1:52 this was a little too accurate lol",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 57.0,
+      "comment_timestamp": 112.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "103.0s - 109.0s",
+          "query": "Visual: The video shows a group of people in an office setting. There are desks, computers, and chairs. Some people are standing, while others are sitting. The office has a modern look with white walls and some colorful elements like a blue-framed door. The people seem to be engaged in some kind of activity or discussion. There's a sense of movement as they interact with each other and their surroundings. The colors are mostly neutral, with some pops of color from clothing and office decor. The overall scene gives off a busy, active vibe.Audio: The audio features a voice speaking in English. The speaker seems to be warning about a \"giant deadly laser\" coming, which is quite alarming. The tone is urgent and serious. There are no other distinct sounds or music in the audio."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "109.0s - 115.0s",
+          "query": "**Visual:** The video shows a group of people in an office setting. There are desks, computers, and typical office equipment. Some individuals are standing and others are seated. The scene appears to be indoors with artificial lighting. The people seem to be engaged in some kind of activity or discussion.\n\n**Audio:** There is a sound effect that resembles a loud bang or explosion, followed by shouting and yelling. The shouting seems to be from the people in the office, possibly reacting to the sound effect."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "115.0s - 121.0s",
+          "query": "Visually, there are several people in a room. Some are sitting at desks with computers, while others are standing and moving around. The room has colorful decorations on the walls. There's a sense of activity and interaction among the people.\n\nIn terms of audio, there's a lot of shouting and yelling, which seems to be part of a heated discussion or argument. There are also some background noises, possibly from the room's environment or other people nearby."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 408.4657049179077
+    },
+    {
+      "comment_index": 4389,
+      "video_id": "SCbmAVMMRek",
+      "comment": "0:29 well yes, but actually no.",
+      "language": "en",
+      "channel_name": "Corridor",
+      "category": "making",
+      "likes": 56.0,
+      "comment_timestamp": 29.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "20.0s - 26.0s",
+          "query": "Visually, there are a few people in a grassy area. One person is holding a large, rectangular object that emits a bright light. The people seem to be moving around, possibly interacting with each other or the object. The scene is outdoors, with trees and a clear sky in the background. The colors are mostly natural tones, with the bright light from the object standing out.Audibly, there are some sounds of movement and possibly some shouting or grunting. There's also a sound effect that resembles an explosion or a loud bang."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "26.0s - 32.0s",
+          "query": "Visually, the video shows a group of people outdoors in a grassy area. There are some large, glowing objects that seem to be moving slowly. The people are standing around, watching these objects. The background includes trees and a fence. The colors are mostly natural tones of green and brown, with the glowing objects emitting a bright, almost fiery light.\n\nIn terms of audio, there's a voice saying \"whoa\" in a surprised tone. There are also some sound effects that seem to be related to the glowing objects, possibly indicating their movement or interaction with the environment. The overall atmosphere seems to be one of curiosity and slight surprise."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "32.0s - 38.0s",
+          "query": "Visually, there are two people in an outdoor setting. One person is holding a large, glowing red object, possibly a firework or some kind of light-up prop. The other person is standing nearby, looking at the glowing object. The background shows some greenery and a fence. The scene seems to be in a park or open area. There's also a circular object with a red center in the middle of the frame, which might be part of the setup for the glowing object.Action-wise, the person with the glowing object seems to be presenting or showing it off, while the other person is observing. The glowing object is the main focus, with its bright red light standing out against the more muted colors of the surroundings.Audibly, there's a voice speaking, but the content of the speech isn't clear from the provided information. There are also some sound effects, possibly related to the glowing object or the environment, like a soft whooshing sound or a faint crackling noise."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 368.73090529441833
+    },
+    {
+      "comment_index": 4390,
       "video_id": "SCbmAVMMRek",
       "comment": "2:30 im not going back   Dam he killed more before  Edit : og lord this is my highest likes i got so far   Edit: wait forgot something 🎉🎈🎆🎇✨",
       "language": "en",
@@ -500,54 +529,24 @@
         {
           "segment_index": 1,
           "time_range": "141.0s - 147.0s",
-          "query": "VISUAL: There's a man in a police uniform holding a hat. He seems to be in some kind of office or workshop with various items around. Then there's another person who looks surprised or shocked. The scene is indoors, and it has an American flag in the background.AUDIO: Someone is shouting \"You're under arrest for murder! Turn around, put your hands out!\" It's a clear, firm voice, likely from the police officer. There's also some background noise that could be from other people or activities in the room.What do you think about this scene? Do you have any ideas on why it might be happening?"
+          "query": "Visual: A man is being arrested by a police officer in an office setting. The officer has his badge visible on his uniform. There's some furniture like desks and chairs around.\n\nAudio: Someone shouts \"Oh!\" followed by \"You're under arrest for murder.\" Then there's another shout, \"Turn around put your hands out.\""
         },
         {
           "segment_index": 2,
           "time_range": "147.0s - 153.0s",
-          "query": "VISUAL: There's a group of people in an office-like setting. Some are running around, others seem to be in a hurry or distressed. There's a man in a suit holding some papers. The scene is quite chaotic with people moving quickly. The background has typical office furniture like desks and chairs.AUDIO: You can hear shouting and running sounds throughout the clip. It seems like there might be some kind of emergency or urgent situation going on. There's also a bit of music playing in the background, which adds to the overall sense of urgency.So, what do you think about this scene? Do you have any ideas about what could be happening?"
+          "query": "**Visual:** The video shows several people moving around in an indoor space with some artwork on the walls. There's a mix of standing and walking individuals. One person is holding something that looks like a book or folder.\n\n**Audio:** Someone is shouting \"Wait!\" repeatedly over background noise. It seems to be a somewhat chaotic scene based on the movement and shouting."
         },
         {
           "segment_index": 3,
           "time_range": "153.0s - 159.0s",
-          "query": "VISUAL: There's a man in a colorful shirt walking with his arms outstretched on a street lined with parked cars. He seems to be moving quickly. In another scene, there's a police officer holding someone down while two other men stand nearby with their hands up.AUDIO: You can hear some shouting and yelling in the background, along with music playing throughout the clip.What do you think about these scenes? Do they seem related or unrelated?"
+          "query": "Visually, there are multiple people in the scene. Some are standing, and one person seems to be holding or interacting with a large object, possibly a piece of equipment or a prop. The background shows parked cars and a building with some graffiti on it. The colors are typical of an urban setting, with the cars being various colors and the building having muted tones. There's a sense of movement as people are positioned differently, suggesting some activity or interaction.\n\nIn terms of audio, there's a conversation happening. The voices are clear, and it sounds like they're discussing something, possibly related to the scene they're in. There are no distinct sound effects or music, just the natural sounds of the conversation."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 394.4973404407501
+      "processing_time": 190.89053678512573
     },
     {
-      "comment_index": 3929,
-      "video_id": "SCbmAVMMRek",
-      "comment": "Your effect is so good and 0:44 I still found the water under the laser... EDIT : 30 LIKES!!!",
-      "language": "en",
-      "channel_name": "Corridor",
-      "category": "making",
-      "likes": 42.0,
-      "comment_timestamp": 44.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "35.0s - 41.0s",
-          "query": "VISUAL: There's a man in a white shirt and brown pants holding up a large cardboard target with a bullseye on it outdoors. Another man in a blue shirt is standing nearby. The first man throws something at the target, and there's an explosion-like effect around where he threw it. Then both men cover their faces with their hands. The background shows some trees and a fence.AUDIO: I can't really tell much from just these two seconds of audio. It might be some kind of sound effect related to the explosion or maybe some background noise like wind or distant voices. But without more context, it's hard to say for sure.If you want, we could try analyzing another part of the video together?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "41.0s - 47.0s",
-          "query": "VISUAL: There's a man and a woman standing outside near some trees. The man is wearing a dark shirt and jeans, while the woman has on a light-colored top and shorts. They seem to be interacting with something that creates a bright flash of light. In the background, there are parked cars and more trees.AUDIO: I can hear some kind of conversation between the two people, but it's not very clear. There might also be some sound effects related to the bright flash they're creating. It could be from an explosion or something similar.What do you think about this? Do you have any other videos you want me to analyze?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "47.0s - 53.0s",
-          "query": "VISUAL: There's a group of people outside near some parked cars. One person is holding something that creates a bright flash of light. The others seem to be reacting to it. The scene has trees and buildings in the background. The colors are mostly natural tones like greens from the trees and grays from the pavement.AUDIO: I can hear someone shouting \"water\" repeatedly, followed by other voices and some kind of impact or crashing sound. It seems like there might be music playing softly in the background too.What do you think about this? Do you have any other thoughts on the video?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 555.3300154209137
-    },
-    {
-      "comment_index": 3927,
+      "comment_index": 4391,
       "video_id": "SCbmAVMMRek",
       "comment": "0:57 that face though",
       "language": "en",
@@ -560,24 +559,24 @@
         {
           "segment_index": 1,
           "time_range": "48.0s - 54.0s",
-          "query": "VISUAL: There's a group of young men outside near some parked cars. One guy is wearing a colorful shirt and a cap. They seem to be having an argument or some kind of commotion. The background has trees and buildings, suggesting it might be a residential area.AUDIO: Someone is shouting \"Your car's headed towards your car! Where are my keys?\" It seems like there's some urgency in their voice. There's also some background noise that could be from other people or vehicles.If you have any thoughts on this or want to discuss more about videos, feel free to share!"
+          "query": "**Visual:** The video shows a man in a colorful shirt and hat walking towards a parked car. He appears to be in a parking lot with other cars and some trees in the background. The lighting suggests it's daytime. There are also a few other people in the scene, but they are not the main focus.\n\n**Audio:** The audio includes a man speaking angrily, saying \"your car's hit it towards your car.\" There are also some footsteps and background noise, possibly from the wind or other people moving around."
         },
         {
           "segment_index": 2,
           "time_range": "54.0s - 60.0s",
-          "query": "VISUAL: There are two men standing outside near some parked cars. One is wearing a white shirt with black sleeves and sunglasses on his head, while the other has a colorful floral shirt and a cap. They seem to be having an intense conversation or argument. The background shows trees, buildings, and power lines. The scene looks like it's set during daytime.AUDIO: A man is speaking angrily, saying things like \"are you serious\" and \"oh my god.\" It seems like he's reacting to something surprising or shocking that happened. There are no other distinct sounds besides his voice.So, what do you think might have caused such an angry reaction?"
+          "query": "Well, I'm not sure if there's anything specific to describe about the visual or audio here. It seems like it might be some kind of chaotic scene with people shouting and running around. But without more details from the actual video, that's all I can say. What do you think? Do you have any other information about this video?"
         },
         {
           "segment_index": 3,
           "time_range": "60.0s - 66.0s",
-          "query": "VISUAL: There's a group of men near a car. One man is wearing a colorful shirt and a cap, another has sunglasses on his head. They seem to be interacting with the car. The background shows some trees and buildings. There's also an explosion or bright light effect in front of them.AUDIO: I can hear shouting and some kind of impact sound. It seems like there might be some sort of argument or commotion going on.What do you think about it? Do you have any other thoughts or questions related to this video?"
+          "query": "Visually, there are a few people in the video. One person is wearing a white hat and a colorful shirt, and another is in a dark shirt. They seem to be interacting with each other, possibly having a conversation or some kind of activity. The background shows a street with parked cars and some trees. The lighting suggests it's daytime, with sunlight creating some glare on the road. There's also a car driving by in the background. The overall scene looks like it could be in a suburban or urban area.Audibly, there's a lot of shouting and yelling going on. It seems like there might be some kind of argument or heated discussion happening. There are also some impact sounds, which could be from the people moving around or objects being handled. The shouting is quite loud and continuous throughout the 6 seconds."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 479.9357166290283
+      "processing_time": 306.2393136024475
     },
     {
-      "comment_index": 3928,
+      "comment_index": 4392,
       "video_id": "SCbmAVMMRek",
       "comment": "2:57 I expected the fusion explosion.",
       "language": "en",
@@ -590,21 +589,21 @@
         {
           "segment_index": 1,
           "time_range": "168.0s - 174.0s",
-          "query": "VISUAL: There's a man being led away by two police officers on a street with parked cars around. The man is wearing a dark shirt and light pants, while the officers have uniforms. One officer has a badge visible on his sleeve. They seem to be escorting him towards a red car. The background shows some buildings and a clear sky.AUDIO: Someone is speaking, saying \"the right to remain silent anything you do or say.\" It seems like they're giving legal advice or instructions related to the situation in the video.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "**Visual:** The video shows a street scene. There are parked cars on both sides of the road. A man in a blue shirt is walking towards the camera, and another person in a dark jacket is standing near a car. The background has some buildings and a bridge. The lighting suggests it's daytime.\n\n**Audio:** There's a voice speaking in the background, but the content of the speech isn't clear from this short segment."
         },
         {
           "segment_index": 2,
           "time_range": "174.0s - 180.0s",
-          "query": "VISUAL: There's a white car parked near some buildings. A group of people is standing around it. One person seems to be holding something that creates bright flashes of light. The scene looks like it might be in an urban area with other cars and buildings visible.AUDIO: I can hear some shouting or yelling, possibly from the people in the video. There's also background noise that could be from traffic or city sounds.If you have any thoughts on this or want to discuss more about videos, feel free to share!"
+          "query": "Visual: The video shows a street scene with parked cars and a few people standing around. There's a white car with its brake lights on, and some people are gathered near it. The background includes buildings and a blue wall. The scene seems to be in an urban area. The colors are somewhat muted, with the white car and the blue wall standing out.\n\nAudio: There's a sound effect that resembles an explosion or a loud bang, followed by some shouting. The shouting seems to be from a male voice."
         },
         {
           "segment_index": 3,
           "time_range": "180.0s - 186.0s",
-          "query": "VISUAL: There's a group of people standing outside near a white car parked next to a building. The building has \"EXPRESS\" written on it. One person is gesturing with their hand while talking. The scene seems to be in an urban area with other buildings and cars visible in the background.AUDIO: I can't really tell what's being said or if there's any specific sound effect or music playing. It just sounds like some kind of conversation or discussion going on.What do you think about that? Do you have any other details from the video?"
+          "query": "**Visual:** The video shows a group of people standing near a white car parked on a street. There are buildings in the background, and the lighting suggests it's either early morning or late afternoon. The people appear to be casually dressed, and one person is gesturing with their hand. The scene looks like an urban area.\n\n**Audio:** There is a conversation happening in the background, but the specific words are unclear. The audio quality is somewhat muffled, making it difficult to discern the exact content of the speech."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 549.9237225055695
+      "processing_time": 274.7333252429962
     }
   ]
 }

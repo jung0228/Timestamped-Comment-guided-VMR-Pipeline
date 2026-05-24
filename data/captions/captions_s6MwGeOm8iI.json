@@ -2,41 +2,41 @@
   "video_id": "s6MwGeOm8iI",
   "total_comments": 20,
   "successful_comments": 20,
-  "failed_comments": 14,
+  "failed_comments": 0,
   "success_rate": "100.0%",
   "comments": [
     {
-      "comment_index": 4282,
+      "comment_index": 4333,
       "video_id": "s6MwGeOm8iI",
-      "comment": "I laughed so hard at the funeral scene that I hit my head… I think it caused me enough brain damage to join an mlm 😂 😅 6:58",
+      "comment": " @jhui604  21:25",
       "language": "en",
       "channel_name": "LastWeekTonight",
       "category": "news",
-      "likes": 13.0,
-      "comment_timestamp": 418.0,
+      "likes": 42.0,
+      "comment_timestamp": 1285.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "409.0s - 415.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands gesturing while talking. In the top left corner, there's an inset image of a woman in a blue blazer against a blue background. The background behind the man shows a cityscape at night with lit buildings.AUDIO: A male voice is speaking, saying \"I hate to dwell on this but you definitely said pyramid scheme back then but I'm sorry now we're suffering.\" It seems like he's apologizing for something related to a past statement about a pyramid scheme that has led to current problems.If you have any other thoughts or questions about this video, feel free to share!"
+          "time_range": "1276.0s - 1282.0s",
+          "query": "Visually, there are two women standing close together against a backdrop with colorful stained glass windows. They appear to be engaged in conversation.\n\nAudio-wise, it's mostly speech from one woman, discussing something about profit and putting people under control. There doesn't seem to be any background music or other distinct sounds."
         },
         {
           "segment_index": 2,
-          "time_range": "415.0s - 421.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a cityscape background. He seems to be talking or presenting something. In an inset on the left side, there's a woman in a blue blazer speaking and gesturing. The main scene has a dark backdrop with some lights visible.AUDIO: Someone is speaking about going to the bank and depositing coding bones. It sounds like they're making a joke or being sarcastic. There's no music or other sound effects, just that speech. So, what do you think about this? Any thoughts on why they might say \"coding bones\"?"
+          "time_range": "1282.0s - 1288.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 4.13 GiB. GPU 1 has a total capacity of 23.56 GiB of which 2.80 GiB is free. Including non-PyTorch memory, this process has 20.75 GiB memory in use. Of the allocated memory 16.36 GiB is allocated by PyTorch, and 4.08 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 3,
-          "time_range": "421.0s - 427.0s",
-          "query": "VISUAL: There's a woman on stage with blonde hair wearing a blue blazer over a black top. She has a gold necklace and is gesturing with her hands while speaking. The background is solid blue.AUDIO: A female voice says \"and the ladies gonna say will that be checking or savings.\" It seems like she might be asking about account types. What do you think about it?"
+          "time_range": "1288.0s - 1294.0s",
+          "query": "Visually, the video shows a group of people in what seems to be an indoor setting, possibly a church or community center, given the stained glass windows. There are two women in the foreground, one wearing a black jacket and the other in a dark top. They appear to be speaking or gesturing. In the background, there are other individuals, including a man in a light-colored shirt. The overall color palette is warm, with browns and beiges dominating.\n\nIn terms of audio, there is a voice speaking in Spanish. The speaker says, \"y hasta para nadie más soy yo perdí pero nadie nos va a perder por mí.\" This translates to something like \"and for no one else am I lost, but no one is going to lose us because of me.\" The tone seems serious and somewhat emotional."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 278.88429498672485
+      "processing_time": 222.79535222053528
     },
     {
-      "comment_index": 4281,
+      "comment_index": 4334,
       "video_id": "s6MwGeOm8iI",
       "comment": "30:35 he ended up working with Beyoncé on the live-action version of The Lion King so dreams can come true",
       "language": "en",
@@ -49,114 +49,54 @@
         {
           "segment_index": 1,
           "time_range": "1826.0s - 1832.0s",
-          "query": "VISUAL: There's a man in a suit standing on a stage with his hands gesturing. Behind him is a large screen showing an image of Earth from space. The background has some blue lighting effects.AUDIO: A male voice is speaking, and there's laughter heard at the end. It seems like he might be making a joke or comment about something related to the content being shown on the screen.What do you think about that? Do you have any other videos you want me to analyze?"
+          "query": "Visually, there's a man in a suit standing in front of a large screen. The screen shows a rotating globe with a blue and orange glow around it. The man seems to be speaking or presenting, gesturing with his hands. The background is dark, emphasizing the screen and the man. There are some blue lines or patterns on the screen, possibly related to the globe's rotation or some data visualization. The overall color scheme is dark with blue and orange highlights.Audibly, there's a man speaking. His speech is clear and seems to be part of a presentation or lecture. There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 2,
           "time_range": "1832.0s - 1838.0s",
-          "query": "VISUAL: There's a man in a suit standing on a stage with a blue background. He seems to be talking or presenting something. Behind him is an image of Earth from space, which then changes to show a pyramid-like structure. The lighting is mainly blue, creating a futuristic feel.AUDIO: A male voice says \"If every single person on earth is watching this video\" followed by \"hello Beyonce.\" There's also some laughter heard at the end of his speech.What do you think about this video? Do you have any other questions related to it?"
+          "query": "Visual: A man in a suit is standing on a stage, speaking into a microphone. There's a large screen behind him displaying a globe-like image. The background is dark with blue lighting effects. The man appears to be giving a presentation or speech.\n\nAudio: A man is speaking, and there's laughter heard in the background."
         },
         {
           "segment_index": 3,
           "time_range": "1838.0s - 1844.0s",
-          "query": "VISUAL: There's a man on stage wearing glasses, a suit, and tie. He seems to be speaking or presenting something. The background has blue geometric patterns. AUDIO: You can hear laughter and applause from an audience, along with some music playing in the background. What do you think about it?"
+          "query": "**Visual:** The video shows a man in a suit and tie standing on a stage with a dark, blue-lit background. He appears to be speaking or presenting, gesturing with his hands. The stage has some abstract, geometric shapes and lines projected on it.\n\n**Audio:** There is laughter and applause heard in the background, suggesting the man's speech or presentation is well-received by an audience."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 216.67029333114624
+      "processing_time": 293.9755401611328
     },
     {
-      "comment_index": 4283,
+      "comment_index": 4335,
       "video_id": "s6MwGeOm8iI",
-      "comment": "7:12- Had me in TEARS 😂😂😂😂😂",
+      "comment": "I laughed so hard at the funeral scene that I hit my head… I think it caused me enough brain damage to join an mlm 😂 😅 6:58",
       "language": "en",
       "channel_name": "LastWeekTonight",
       "category": "news",
-      "likes": 10.0,
-      "comment_timestamp": 432.0,
+      "likes": 13.0,
+      "comment_timestamp": 418.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "423.0s - 429.0s",
-          "query": "VISUAL: There's a woman on stage with blonde hair wearing a blue blazer over a black top. She has a gold necklace and is gesturing while speaking. The background is solid blue.The AUDIO: A female voice is speaking, saying \"it's gonna say will that be checking or savings and you're gonna say\". It seems like she might be asking about account types. What do you think about it?"
+          "time_range": "409.0s - 415.0s",
+          "query": "**Visual:** The video shows a man in a suit and tie sitting at a desk, gesturing with his hands as he speaks. In the background, there's a cityscape at night with lit-up buildings. There's also a smaller inset image of a woman in a blue blazer, who appears to be speaking. The overall setting looks like a news studio.\n\n**Audio:** The man is speaking, and his voice is clear and confident. There are no other distinct sounds or music in the audio."
         },
         {
           "segment_index": 2,
-          "time_range": "429.0s - 435.0s",
-          "query": "VISUAL: There's a woman with blonde hair wearing a blue blazer over a black top. She seems to be speaking or presenting something. Then there's a man in a suit and tie sitting at a desk, talking and gesturing with his hands. The background behind him has a cityscape with buildings lit up at night.AUDIO: A female voice is heard saying \"Yeah I don't really care I get these all the time\" and then continues with \"and then the lady's gonna say ha that's fantastic but I act.\" It sounds like she might be talking about some kind of situation or experience she often encounters.If you have any other thoughts or questions about this video, feel free to share!"
+          "time_range": "415.0s - 421.0s",
+          "query": "**Visual:** The video shows a woman in a blue blazer and black top standing against a blue background. She appears to be speaking and gesturing with her hands. There are also some blurred images of buildings in the background, suggesting an urban setting. The overall color scheme is dominated by blues and grays.\n\n**Audio:** The audio features a woman speaking. She seems to be talking about going to the bank and depositing something, but the exact words are not entirely clear due to the short duration of the segment. There are no other noticeable sounds or music in the audio."
         },
         {
           "segment_index": 3,
-          "time_range": "435.0s - 441.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands gesturing while talking. In an inset on the left side, there's a woman in a blue blazer smiling and holding something small. The background shows a cityscape at night.The AUDIO: A male voice is speaking, saying \"Actually need to know which account this goes into and you're gonna say makes no difference to me and she's gonna say but I.\" It seems like he's having a conversation or making a point about some kind of financial matter.What do you think they might be discussing?"
+          "time_range": "421.0s - 427.0s",
+          "query": "Visually, there's a woman with blonde hair wearing a blue blazer and a black top. She's standing against a blue background. She seems to be speaking and gesturing with her hands. There's also a white brick wall partially visible on the right side of the frame.\n\nIn terms of audio, there's a woman speaking. She says, \"and the ladies gonna say will that be checking or savings.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 273.9662926197052
+      "processing_time": 268.9405417442322
     },
     {
-      "comment_index": 4284,
-      "video_id": "s6MwGeOm8iI",
-      "comment": "3:58 I was already thinking about commenting how MLMs are a mix of pyramid scemes and religion but you said it for me.",
-      "language": "en",
-      "channel_name": "LastWeekTonight",
-      "category": "news",
-      "likes": 8.0,
-      "comment_timestamp": 238.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "229.0s - 235.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a cityscape background. On his left, there's an inset image showing two people, one holding a piece of paper and the other kicking something. There's also a lamp on the desk and some kind of trophy or award. The man is gesturing while speaking.AUDIO: A male voice is speaking, saying \"randomly kicking stuff it'd be like watching Lennon and McCartney write Sergeant Pepper.\" There's laughter from the audience. So, what do you think about this video?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "235.0s - 241.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands gesturing while talking. Behind him is a cityscape backdrop. On the left side of the screen, there's an inset image showing \"MULTILEVEL MARKETING\" with colorful icons of people.AUDIO: A male voice is speaking about MLMs and how their founders can have cult - like status. It's just speech without any other sounds or music.If you want to talk more about this or have other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "241.0s - 247.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a cityscape background. On the left side of the screen, there's an inset image of another man giving thumbs up. The main guy is gesturing with his hands while talking.AUDIO: A male voice is speaking about J.R. Roidinger, CEO of Market America, making quite a scene at company conferences. It seems like he's describing some kind of impact or presence he has.If you want to talk more about this video or have other questions, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 284.44388246536255
-    },
-    {
-      "comment_index": 4286,
-      "video_id": "s6MwGeOm8iI",
-      "comment": "15:15 Fun little update about that: population growth added a cycle to that in those 6 and a half years! you can now run this pyramid scheme for 14 cycles, you only have too little people on the 15th!  yaayyyyyy",
-      "language": "en",
-      "channel_name": "LastWeekTonight",
-      "category": "news",
-      "likes": 5.0,
-      "comment_timestamp": 915.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "906.0s - 912.0s",
-          "query": "VISUAL: A man is sitting at a desk with a cityscape background. There's an image of a pyramid scheme on the screen next to him. He seems to be talking about it.AUDIO: Someone is speaking, saying \"Almost all of these schemes tell you that you can make money by just recruiting three.\" It sounds like they're explaining something related to pyramid schemes.What do you think about pyramid schemes? Have you heard of any?"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "912.0s - 918.0s",
-          "query": "VISUAL: There's an older man with glasses talking. He has gray hair and is wearing a striped shirt. Behind him, there are shelves with various items like sculptures and paintings. The setting looks like an office or study room.AUDIO: A male voice is speaking. It seems to be discussing numbers, specifically mentioning \"three\", \"four\", \"five\" and then \"twenty\". The tone is calm and measured."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "918.0s - 924.0s",
-          "query": "VISUAL: There's an older man with glasses talking. He has gray hair and is wearing a striped shirt. Behind him, there are shelves with various items like sculptures, a bowl, and some dried plants. There's also a painting on the wall.AUDIO: A male voice is speaking. The speech seems to be about something related to cycles, mentioning \"thirteen cycles\" and that it would lead to something else. It's not clear from just these few seconds what he's specifically discussing.If you want to know more about this or have other questions, feel free to ask!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 243.31523847579956
-    },
-    {
-      "comment_index": 4285,
+      "comment_index": 4336,
       "video_id": "s6MwGeOm8iI",
       "comment": "16:30 I wonder if John knew he was going to be in CGI Lion King when he made this Lion King 2 burn",
       "language": "en",
@@ -169,54 +109,84 @@
         {
           "segment_index": 1,
           "time_range": "981.0s - 987.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands gesturing while talking. In the background, there's a cityscape with tall buildings lit up. There's also an inset image of another man in a suit on the left side of the screen.AUDIO: A male voice is speaking, saying \"Yes it is completely different Disney was a corporate ladder.\" The tone seems to be somewhat serious or matter - of - fact.If you have any other thoughts about this video or want to discuss something else related to it, feel free to let me know!"
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk, gesturing with his hands as he speaks. There is a smaller inset image of another man in a suit in the top left corner. The background features a cityscape with tall buildings and a dark sky. The man at the desk appears to be in a studio setting.\n\n**Audio:** The audio includes a man speaking, with laughter heard in the background. The speech seems to be part of a conversation or interview."
         },
         {
           "segment_index": 2,
           "time_range": "987.0s - 993.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a cityscape background. Another smaller screen shows another man also in a suit. The main guy is gesturing while speaking.AUDIO: A male voice is speaking about salaried positions with benefits and how companies don't rely on employees to fill their garages.If you have any other thoughts or questions about it, feel free to share!"
+          "query": "Visually, there's a man in a suit sitting at a desk with a cityscape background behind him. There's also an inset image of another man in a suit to his left. The main man is talking and gesturing with his hands.\n\nIn terms of audio, it seems like someone is speaking, likely the main man, though I can't make out specific words from just these six seconds. There doesn't seem to be any background music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "993.0s - 999.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands outstretched. In an inset on the left side, there's another man also in a suit. Then, a stack of DVDs appears next to the first man. The background shows a cityscape with tall buildings and a dome - like structure.The AUDIO: A male voice is speaking, and it seems like he's making a joke or comment about something related to the DVDs shown. There's no music or other sound effects, just the man's speech. What do you think about that? Do you have any ideas for what might be going on in the video?"
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk with a cityscape background. There's an inset image on his left showing another person speaking. On the right side of the screen, there are images of a stack of DVDs or CDs with a red cover featuring a lion's face.\n\n**Audio:** A male voice is speaking, likely delivering some kind of commentary or news report. There's no background music or other sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 256.61646723747253
+      "processing_time": 239.1199414730072
     },
     {
-      "comment_index": 4287,
+      "comment_index": 4337,
       "video_id": "s6MwGeOm8iI",
-      "comment": "22:31 wait that ain't the same dog as she showed before...",
+      "comment": "3:58 I was already thinking about commenting how MLMs are a mix of pyramid scemes and religion but you said it for me.",
       "language": "en",
       "channel_name": "LastWeekTonight",
       "category": "news",
-      "likes": 4.0,
-      "comment_timestamp": 1351.0,
+      "likes": 8.0,
+      "comment_timestamp": 238.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "1342.0s - 1348.0s",
-          "query": "VISUAL: There's a man and a woman sitting together on a couch. The background has some decorative elements like flowers and a lamp. Then there's a quick cut to a dog walking on a floor. AUDIO: A male voice is speaking, saying \"pet for three months he started walking again okay first of all.\" It seems like an interview or discussion about something related to pets. What do you think it could be?"
+          "time_range": "229.0s - 235.0s",
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk with a cityscape background. There's an inset image in the top left corner showing two people, one wearing a pink shirt and hat, and another person behind them. A golden trophy is on the desk near him.\n\n**Audio:** The speaker is talking about something related to \"Lennon and McCartney\" and mentions writing \"Sgt. Pepper.\""
         },
         {
           "segment_index": 2,
-          "time_range": "1348.0s - 1354.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands clasped together. In an inset on the left side of the screen, there's a dog standing on its hind legs. The background behind him shows a cityscape at night.AUDIO: A male voice is speaking, saying \"Obviously good boy Rembrandt my second.\" Then he asks, \"Are you sure he didn't just summon the energy?\" There's also some laughter heard in the background.If you have any other thoughts or questions about this video, feel free to share!"
+          "time_range": "235.0s - 241.0s",
+          "query": "Visually, there's a man in a suit sitting at a desk, gesturing with his hands. Behind him, there's a cityscape at night with lit-up buildings. On the left side of the screen, there's a graphic with the words \"MULTILEVEL MARKETING\" and some small, colorful human figures. The colors are mainly dark with splashes of red, blue, and green. The man appears to be speaking and moving his hands expressively. There's no music or sound effects, just the man's speech."
         },
         {
           "segment_index": 3,
-          "time_range": "1354.0s - 1360.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a cityscape background. In an inset on the left side, there are dogs. One dog is being fed something from a spoon, while another dog looks on.AUDIO: The man is speaking, and it seems like he's talking about a pet and some kind of liquid nonsense that someone was shoving into its mouth. It has a somewhat humorous tone.If you have any other thoughts or questions about this video, feel free to share!"
+          "time_range": "241.0s - 247.0s",
+          "query": "**Visual:** The video shows two men. One is seated at a desk with a cityscape background, wearing glasses, a suit, and tie, gesturing with his hands while speaking. The other man appears in an inset image to the left, giving thumbs up, also wearing sunglasses and a dark shirt. There's text below him that says \"marketamerica.\"\n\n**Audio:** A male voice speaks throughout the clip, though without specific content details from the provided information."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 225.46294784545898
+      "processing_time": 192.42199420928955
     },
     {
-      "comment_index": 4289,
+      "comment_index": 4338,
+      "video_id": "s6MwGeOm8iI",
+      "comment": "15:15 Fun little update about that: population growth added a cycle to that in those 6 and a half years! you can now run this pyramid scheme for 14 cycles, you only have too little people on the 15th!  yaayyyyyy",
+      "language": "en",
+      "channel_name": "LastWeekTonight",
+      "category": "news",
+      "likes": 5.0,
+      "comment_timestamp": 915.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "906.0s - 912.0s",
+          "query": "**Visual:** The video shows a man with glasses and a light-colored shirt speaking. The background includes shelves with various objects like a bowl, a plant, and some decorative items. There are also some graphical elements overlaid on the video, including a triangle with text and a logo in the bottom right corner.\n\n**Audio:** The man is speaking, and the speech is in English. The content of the speech seems to be about schemes that involve recruiting to make money."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "912.0s - 918.0s",
+          "query": "**Visual:** The video shows an older man with glasses speaking directly to the camera. He's wearing a striped shirt and is situated indoors, with shelves behind him holding various decorative items like sculptures and plants.\n\n**Audio:** The man is talking, though without more context it's hard to determine the exact content of his speech. There doesn't seem to be any background music or sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "918.0s - 924.0s",
+          "query": "Inference error: CUDA out of memory. Tried to allocate 5.62 GiB. GPU 1 has a total capacity of 23.56 GiB of which 3.58 GiB is free. Including non-PyTorch memory, this process has 19.96 GiB memory in use. Of the allocated memory 18.37 GiB is allocated by PyTorch, and 1.28 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 192.52267003059387
+    },
+    {
+      "comment_index": 4339,
       "video_id": "s6MwGeOm8iI",
       "comment": "15:10 well shit we passed up the 13 cycles at this point...",
       "language": "en",
@@ -229,54 +199,24 @@
         {
           "segment_index": 1,
           "time_range": "901.0s - 907.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands on it. He's talking and gesturing with one hand. Behind him is a cityscape backdrop. On the left side of the screen, there's an image of a pyramid scheme diagram with figures and money symbols.AUDIO: A male voice is speaking about something involving math. It seems to be explaining why a certain setup has a big problem.If you want to talk more about this or have other questions, feel free to let me know."
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk with a cityscape background. There's also an inset image on the left side depicting a pyramid scheme diagram with figures at different levels.\n\n**Audio:** A male voice is speaking, likely explaining something related to the pyramid scheme shown in the inset. The tone seems serious or cautionary."
         },
         {
           "segment_index": 2,
           "time_range": "907.0s - 913.0s",
-          "query": "VISUAL: There's an older man with glasses talking. He seems to be in a room with some shelves behind him that have various items like sculptures and paintings. The background is kind of blurred out.AUDIO: A male voice is speaking about schemes where you can make money by recruiting a few people. It's just his voice, no other sounds or music.What do you think about these kinds of schemes?"
+          "query": "Inference error: CUDA out of memory. Tried to allocate 7.89 GiB. GPU 1 has a total capacity of 23.56 GiB of which 37.00 MiB is free. Including non-PyTorch memory, this process has 23.51 GiB memory in use. Of the allocated memory 21.44 GiB is allocated by PyTorch, and 1.76 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
         },
         {
           "segment_index": 3,
           "time_range": "913.0s - 919.0s",
-          "query": "VISUAL: The video shows two men having an interview. One man is wearing glasses and a striped shirt, while the other is in a suit with a tie. There's some artwork on the wall behind them. The setting seems to be indoors, possibly an office or studio.AUDIO: A male voice is speaking, saying \"let's say five then you let the five do their five that gives you twenty-five what\". It sounds like he might be explaining something numerical or related to a process. What do you think about it? Do you have any ideas on what they could be discussing?"
+          "query": "Visually, there's a man with glasses and gray hair in a room. Behind him, there are shelves with various objects like a small statue, a bowl, and some dried plants in a vase. The room has a neutral color scheme. The man seems to be speaking or reacting to something.\n\nAudio-wise, there's a male voice speaking. The speech is clear and seems to be part of a conversation or an interview."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 243.05562734603882
+      "processing_time": 203.88695883750916
     },
     {
-      "comment_index": 4288,
-      "video_id": "s6MwGeOm8iI",
-      "comment": "29:59 dang, the dog convinced me!",
-      "language": "en",
-      "channel_name": "LastWeekTonight",
-      "category": "news",
-      "likes": 4.0,
-      "comment_timestamp": 1799.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "1790.0s - 1796.0s",
-          "query": "VISUAL: There's a man in a suit standing on a stage with a blue background featuring geometric patterns. He seems to be speaking or presenting something. The camera moves around him.AUDIO: A male voice is speaking about giving one's family the lifestyle they deserve without getting caught up in some unspecified \"bullshit.\".If you have any other thoughts or questions about this video, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "1796.0s - 1802.0s",
-          "query": "VISUAL: There's a man in a suit on stage with a blue background. He seems to be talking or presenting something. The background has some geometric shapes and patterns. There's also a logo that appears briefly.AUDIO: A male voice is speaking. It sounds like he's making a joke about needing scientific proof for something, mentioning a dog and producing a video. There's laughter from an audience too.If you want to talk more about this video or have other questions, feel free to let me know!"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "1802.0s - 1808.0s",
-          "query": "VISUAL: There's a man on stage with his arms outstretched. He seems to be presenting something. A dog is walking on a leash across the stage. The background has blue lighting and some geometric shapes like triangles.AUDIO: Someone is speaking, saying \"And look the dog is walking now.\" There's also applause from an audience. It sounds like it could be at some kind of event or show.What do you think about that? Do you have any other questions related to the video?"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 220.12700533866882
-    },
-    {
-      "comment_index": 4290,
+      "comment_index": 4340,
       "video_id": "s6MwGeOm8iI",
       "comment": "16:00 did he say Disney? ... well, that explains a lot",
       "language": "en",
@@ -289,54 +229,54 @@
         {
           "segment_index": 1,
           "time_range": "951.0s - 957.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands clasped. Behind him is a cityscape backdrop. On the left side of the screen, there are two images shown one after another. The first image shows three men standing together, and then it changes to an image of a different man in a suit with a green tie.AUDIO: You can hear applause followed by some speech. It seems like someone is talking about Michael Johnson, who is the CEO of Herbalife, and mentions something interesting he does. What do you think about that?"
+          "query": "Visual: The video shows a man in a suit sitting at a desk, likely in a studio setting with a cityscape background. There are inset images of other people, including a man in a suit with a green tie and another with a yellow arrow pointing at him. The man at the desk is gesturing with his hands while speaking. The overall color scheme is dark with some bright elements like the green tie and the yellow arrow.\n\nAudio: There is speech from the man at the desk, but no other distinct sounds or music are heard."
         },
         {
           "segment_index": 2,
           "time_range": "957.0s - 963.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a cityscape background. On the left side, there's an inset image of another man in a suit. The main man is talking and gesturing with his hands. The inset shows the other man looking serious.AUDIO: A male voice is speaking about going back to any company he started in Disney related to pyramid schemes. It seems like a discussion or interview setting. So, what do you think about this? Any thoughts on pyramid schemes?"
+          "query": "Sorry, I can't analyze that video for you because it's not available to me. If you have another question or need help with something else, feel free to ask!"
         },
         {
           "segment_index": 3,
           "time_range": "963.0s - 969.0s",
-          "query": "VISUAL: A man in a suit is talking to another person who is also dressed formally. The setting seems like an office or interview room with some blurred background elements. There's no significant movement from either person.AUDIO: A male voice is speaking about his career progression within a company, mentioning positions like director, executive vice president, and president of international entities. No other sounds are heard.If you have any more questions about this or want to discuss something else related to it, feel free to let me know!"
+          "query": "**Visual:** The video shows a man in formal attire speaking on a news program. He's wearing glasses and a suit with a tie. There are some blurred elements in the background that seem to be part of a studio setting.\n\n**Audio:** A male voice is heard speaking, likely discussing business or corporate matters given the context provided by the visual cues like \"CEO\" and \"president.\""
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 253.46237301826477
+      "processing_time": 138.25253820419312
     },
     {
-      "comment_index": 4291,
+      "comment_index": 4341,
       "video_id": "s6MwGeOm8iI",
-      "comment": "4:59 It just occurred to me: that gravestone doesn't have an end date.  Doesn't that mean Joe Nobody isn't actually dead?",
+      "comment": "29:59 dang, the dog convinced me!",
       "language": "en",
       "channel_name": "LastWeekTonight",
       "category": "news",
       "likes": 4.0,
-      "comment_timestamp": 299.0,
+      "comment_timestamp": 1799.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "290.0s - 296.0s",
-          "query": "VISUAL: There's a man in a suit on stage. He's leaning forward towards a tombstone - like object with \"THE NOBODY\" written on it. The background has some autumn leaves and a sign that says \"marketamerica SHOP.COM\". The stage floor is blue with white markings.AUDIO: A man is speaking. He seems excited about something working and wants to help others do it too because he thinks it's great.So, what do you think about this? Any thoughts or questions?"
+          "time_range": "1790.0s - 1796.0s",
+          "query": "Visually, there's a man in a suit standing in front of a blue, futuristic-looking background with geometric shapes and lines. He seems to be speaking or presenting something. The background has a high-tech, almost sci-fi vibe with blue and white colors dominating. There's also some kind of abstract, moving pattern in the background that gives a sense of motion.Audibly, there's a man speaking. His voice is clear and confident, and he seems to be addressing an audience or camera directly. The speech is in English and he's talking about giving his family a lifestyle they deserve, but then he mentions not getting caught up in something, though it's not entirely clear what that is from just this short segment."
         },
         {
           "segment_index": 2,
-          "time_range": "296.0s - 302.0s",
-          "query": "VISUAL: A man in a suit is on stage, leaning forward towards a tombstone labeled \"JOE NOBODY\" with the years \"1955 -\". The background has some banners and lights. There's also a yellow object partially visible behind the tombstone.AUDIO: Someone is speaking about having vacations, sailboats, and multiple homes. It seems to be a positive statement. What do you think about it?"
+          "time_range": "1796.0s - 1802.0s",
+          "query": "Visually, there's a man in a suit standing in front of a blue background with some abstract shapes and lines. He seems to be talking or presenting something. The colors are mainly blue and black, with some white highlights. There's no significant movement from the man, just a slight shift in posture as he speaks.\n\nAudio-wise, there's a male voice speaking, and it sounds like he's making a joke or a comment about needing scientific proof for something. There are no other distinct sounds or music in the audio."
         },
         {
           "segment_index": 3,
-          "time_range": "302.0s - 308.0s",
-          "query": "VISUAL: A man in a suit is on stage, leaning forward towards a stone-like object. There's an audience in the background. The stage has some lights and a banner that says \"marketmecca SHOP.COM\". The color scheme seems to be mostly dark with some bright spots from the lights.AUDIO: Someone is speaking about giving his wife jewelry she deserves. It sounds like he's talking about buying something for her. There's no music or other sound effects, just the man's voice. So, what do you think about this? Do you have any similar experiences?"
+          "time_range": "1802.0s - 1808.0s",
+          "query": "Sure! So, visually, there's someone in a suit standing on stage with their arms outstretched. There s also a dog on a leash nearby. The background has some blue lighting and geometric shapes. Oh, and it looks like they re walking towards something or someone.Audience-wise, I can hear applause starting around halfway through.What do you think about that?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 247.70658683776855
+      "processing_time": 234.3022255897522
     },
     {
-      "comment_index": 4292,
+      "comment_index": 4342,
       "video_id": "s6MwGeOm8iI",
       "comment": "2:48 If it looks like a pyramid scheme, smells like a pyramid scheme, and is being advertised like a pyramid scheme, it's obviously an MLM.",
       "language": "en",
@@ -349,54 +289,114 @@
         {
           "segment_index": 1,
           "time_range": "159.0s - 165.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands gesturing while talking. Behind him is a cityscape backdrop. There's also a white sign with \"VEMMA\" on it to his left.AUDIO: The man is speaking, and he seems to be making some kind of point or explanation. It sounds like he might be discussing something related to business structures. He pauses for a moment before continuing.What do you think about VEMMA? Have you heard anything else about it?"
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk with his hands gesturing while speaking. There's a cityscape background behind him. On the left side of the screen, there's a white box with the word \"VEMMA\" written on it.\n\n**Audio:** A male voice is speaking, saying something about business structures sounding familiar and wondering if they're a pyramid scheme."
         },
         {
           "segment_index": 2,
           "time_range": "165.0s - 171.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with a cityscape background. There's a logo on the left side that says \"VEMMA\". The scene then cuts to two men in suits talking outside near a building.AUDIO: Someone is speaking about a journalist waiting outside to ask a question related to an energy drink controversy. They clarify it's not an illegal pyramid scheme but something else. It seems like they're explaining or defending a position regarding the situation.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "Visual: A man in a suit is sitting at a desk with a cityscape background. There's a \"Vemma\" logo on the screen. The lower third has text about an energy drink controversy.\n\nAudio: Someone is speaking, saying it's not an illegal pyramid scheme but rather something else."
         },
         {
           "segment_index": 3,
           "time_range": "171.0s - 177.0s",
-          "query": "VISUAL: Two men in suits are talking on a news set about an energy drink controversy. One man holds up a red box with a logo. There's scaffolding outside and some buildings in the background.AUDIO: A male voice is speaking about a pyramid-shaped business structure related to an elite network marketing company. The tone seems to be explaining something."
+          "query": "**Visual:** The video shows two men standing outside near a building with large windows. One man is wearing glasses and a dark suit, while the other has on a light-colored shirt under a jacket. They appear to be engaged in conversation.\n\n**Audio:** There's dialogue between the two men, though it's not clear from just the visuals alone without listening closely. The background seems to have some city noise, possibly traffic or distant chatter."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 231.12190461158752
+      "processing_time": 152.31005454063416
     },
     {
-      "comment_index": 4293,
+      "comment_index": 4343,
       "video_id": "s6MwGeOm8iI",
-      "comment": "30:35 he knows",
+      "comment": "4:59 It just occurred to me: that gravestone doesn't have an end date.  Doesn't that mean Joe Nobody isn't actually dead?",
       "language": "en",
       "channel_name": "LastWeekTonight",
       "category": "news",
-      "likes": 3.0,
-      "comment_timestamp": 1835.0,
+      "likes": 4.0,
+      "comment_timestamp": 299.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "1826.0s - 1832.0s",
-          "query": "VISUAL: There's a man in a suit standing on a stage with his hands gesturing. Behind him is a large screen showing an image of Earth from space. The background has some blue lighting effects.AUDIO: A male voice is speaking, and there's laughter heard at the end. It seems like he might be making a joke or comment about something related to the content being shown on the screen.What do you think about that? Do you have any other videos you want me to analyze?"
+          "time_range": "290.0s - 296.0s",
+          "query": "Sure! Here's my analysis:.Visually, there's a man in a suit bending over on a stage with some kind of display or screen behind him. The background seems to have some text and images related to \"market.com\" and \"shop.com.\" There's also a tombstone-like object nearby.Action-wise, the man is actively moving, possibly interacting with something on the stage or performing an action related to the display.Audibly, it sounds like someone is speaking, though I can't make out specific words from just these six seconds. It could be a presentation or announcement of some sort.Anything else you'd like me to focus on?"
         },
         {
           "segment_index": 2,
-          "time_range": "1832.0s - 1838.0s",
-          "query": "VISUAL: There's a man in a suit standing on a stage with a blue background. He seems to be talking or presenting something. Behind him is an image of Earth from space, which then changes to show a pyramid-like structure. The lighting is mainly blue, creating a futuristic feel.AUDIO: A male voice says \"If every single person on earth is watching this video\" followed by \"hello Beyonce.\" There's also some laughter heard at the end of his speech.What do you think about this video? Do you have any other questions related to it?"
+          "time_range": "296.0s - 302.0s",
+          "query": "Visually, there's a person in a suit dancing on a stage with a tombstone-like object in front of them. The background has some text and images, but it's a bit blurry. The colors are mostly muted, with some bright spots from the stage lights. The person is moving energetically, swaying and gesturing.The audio has a man speaking, but the words are unclear. There's no distinct music or sound effects, just the man's voice."
         },
         {
           "segment_index": 3,
-          "time_range": "1838.0s - 1844.0s",
-          "query": "VISUAL: There's a man on stage wearing glasses, a suit, and tie. He seems to be speaking or presenting something. The background has blue geometric patterns. AUDIO: You can hear laughter and applause from an audience, along with some music playing in the background. What do you think about it?"
+          "time_range": "302.0s - 308.0s",
+          "query": "Visually, there's a man in a suit on a stage. He's leaning forward, looking at something on the ground. There are bright lights above him, and the background seems to be a large, dark space, possibly a theater or event hall. There's also a large, stone-like object in front of him. The colors are mainly dark with some bright spots from the lights. The movement is mainly the man's leaning and looking down.\n\nAudio-wise, there's a man speaking. The speech is clear and seems to be in English. There are no other sounds like music or sound effects."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 221.41472840309143
+      "processing_time": 242.6147232055664
     },
     {
-      "comment_index": 4295,
+      "comment_index": 4344,
+      "video_id": "s6MwGeOm8iI",
+      "comment": "22:31 wait that ain't the same dog as she showed before...",
+      "language": "en",
+      "channel_name": "LastWeekTonight",
+      "category": "news",
+      "likes": 4.0,
+      "comment_timestamp": 1351.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1342.0s - 1348.0s",
+          "query": "Visually, there are two people sitting on a couch. One is wearing a dark suit and the other a light-colored outfit. There are some decorative elements like flowers in the background. The scene seems to be indoors, possibly in a living room or studio setting. The camera focuses mainly on these two people.\n\nAudio-wise, there's a woman speaking. She seems to be talking about something related to a pet, mentioning that it started walking again after three months. The tone is somewhat informative."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1348.0s - 1354.0s",
+          "query": "**Visual:** The main scene shows a man in a suit sitting at a desk with a cityscape background. There's also an inset image showing someone lying on the floor, seemingly in distress or pain.\n\n**Audio:** A male voice is speaking, likely delivering some kind of commentary or news report. The tone seems serious yet somewhat humorous."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1354.0s - 1360.0s",
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk, likely in a studio setting with a cityscape background. There are inset images of a dog and a person with a dog. The man appears to be speaking or presenting. The overall color scheme is dark with some bright elements like the city lights.\n\n**Audio:** The audio contains a voice speaking, but the content of the speech is not clear from the provided information. There are no distinct sound effects or music mentioned."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 212.21823740005493
+    },
+    {
+      "comment_index": 4345,
+      "video_id": "s6MwGeOm8iI",
+      "comment": "8:35 HERBALIFE!!!!",
+      "language": "en",
+      "channel_name": "LastWeekTonight",
+      "category": "news",
+      "likes": 4.0,
+      "comment_timestamp": 515.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "506.0s - 512.0s",
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk, gesturing with his hands as he speaks. There's a cityscape backdrop behind him. On the left side of the screen, there's a smaller inset image of a woman in a blue blazer, also speaking. The words \"MULTILEVEL MARKETING\" are displayed on a screen in the inset image.\n\n**Audio:** The man is speaking, and his voice is clear and confident. There are no other distinct sounds or music in the audio."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "512.0s - 518.0s",
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk. Behind him is a cityscape at night with illuminated buildings. On the left side of the screen, there's a graphic with the words \"MULTILEVEL MARKETING\" and some colorful icons representing people. The man is gesturing with his hands as he speaks.\n\n**Audio:** The man is speaking, likely explaining something related to multilevel marketing. There are no other sounds or music in the background."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "518.0s - 524.0s",
+          "query": "Visually, there's a man in a suit sitting at a desk, gesturing with his hands. Behind him, there's a cityscape at night with lit-up buildings. There's also a graphic on the screen with the words \"MULTILEVEL MARKETING\" and some small human figures. The colors are mainly dark with bright spots from the city lights and the graphic. The movement is mainly the man's hand gestures and the static background scene.Audibly, there's a man speaking. The speech is clear and seems to be part of a presentation or discussion."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 478.2184977531433
+    },
+    {
+      "comment_index": 4346,
       "video_id": "s6MwGeOm8iI",
       "comment": "0:17 I don’t think John Oliver would ever make a hit piece on gay men, but here we are smh",
       "language": "en",
@@ -409,26 +409,26 @@
         {
           "segment_index": 1,
           "time_range": "8.0s - 14.0s",
-          "query": "VISUAL: There's a man sitting at a desk with his hands raised, talking. He's wearing glasses, a suit, and tie. The background shows a cityscape at night with lit-up buildings.AUDIO: A male voice is speaking, saying \"I just need 30 minutes of your time to explain it but it has the potential to transform your life I'm talking.\" It seems like he's trying to persuade someone about something important.If you want to talk more about this or have other questions, feel free to let me know."
+          "query": "**Visual:** The video shows a man sitting at a desk with his hands raised slightly, gesturing while speaking. He's wearing glasses, a suit, and tie. Behind him is a cityscape backdrop featuring tall buildings lit up against a dark sky.\n\n**Audio:** A male voice is heard speaking, though without more details on content or tone it's hard to specify further. There doesn't seem to be any background music or other distinct sounds apart from the man's speech."
         },
         {
           "segment_index": 2,
           "time_range": "14.0s - 20.0s",
-          "query": "VISUAL: There's a man sitting at a desk in front of a cityscape backdrop. He's wearing glasses, a suit, and tie. On the left side of the screen, there are two boxes with text. The first box has \"MULTILEVEL MARKETING\" written on it along with some colorful icons. The second box says \"MARY KAY RODAN+FIELDS\". The man is talking and gesturing with his hands.AUDIO: A male voice is speaking about multilevel marketing companies like Mary Kay and Rodan + Fields. It seems to be an explanatory or informative tone.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk, likely in a studio setting. Behind him, there's a cityscape backdrop. On the screen to his left, there are words like \"MULTILEVEL MARKETING\" and \"MARY KAY RODAN+FIELDS\" displayed. The man appears to be speaking and gesturing with his hands.\n\n**Audio:** The audio consists of a man speaking. He seems to be discussing multilevel marketing companies, specifically mentioning \"Mary Kay\" and \"Rodan + Fields.\""
         },
         {
           "segment_index": 3,
           "time_range": "20.0s - 26.0s",
-          "query": "VISUAL: There's a man sitting at a desk with his hands clasped together. He's wearing glasses, a suit, and tie. Behind him is a cityscape backdrop. On the left side of the screen, there are logos for Mary Kay, Rodan + Fields, Nu Skin, Amway, and Herbalife Nutrition.AUDIO: A male voice is speaking about Nu Skin, Amway, and Herbalife, mentioning that they sell different products but generally MLMs have two main things in common.So, what do you think about these MLM companies? Do you have any experience with them?"
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk, gesturing with his hands as he speaks. Behind him is a cityscape at night. There are logos displayed on the screen, including \"Mary Kay,\" \"Rodan + Fields,\" \"Nu Skin,\" \"Amway,\" and \"Herbalife Nutrition.\"\n\n**Audio:** The man is speaking, likely discussing the products of these companies. The speech is clear and the tone seems informative."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 321.3253560066223
+      "processing_time": 342.4916396141052
     },
     {
-      "comment_index": 4294,
+      "comment_index": 4347,
       "video_id": "s6MwGeOm8iI",
-      "comment": " [USER]  4:00 guns n roses - welcome to the jungle",
+      "comment": " @sasa6583  4:00 guns n roses - welcome to the jungle",
       "language": "en",
       "channel_name": "LastWeekTonight",
       "category": "news",
@@ -439,84 +439,24 @@
         {
           "segment_index": 1,
           "time_range": "231.0s - 237.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a cityscape background. On his left, there's an inset image showing two people, one holding a piece of paper and the other kicking up their leg. There's also a golden trophy-like object on the desk. The scene seems to be from some kind of talk show or news program.AUDIO: A male voice is speaking, saying \"be like watching Lennon and McCartney write Sergeant Pepper still for many MLMs the big.\" It has a somewhat humorous tone.What do you think about that? Any thoughts or questions?"
+          "query": "Visually, there's a man in a suit sitting at a desk, talking and gesturing. In the background, there's a cityscape at night. There are also some abstract, colorful shapes and a trophy-like object on the desk. There's a smaller inset image showing two people, one in a pink top and the other in a blue shirt, with a bookshelf behind them. The colors are mostly dark with pops of color from the shapes and the city lights. The movement is mainly the man talking and gesturing, with the shapes and trophy appearing static.On the audio side, there's a man speaking, and he seems to be talking about something related to \"MLM\" and comparing it to something about \"Lennon and McCartney\" and \"Sgt. Pepper.\" There are no other distinct sounds like music or sound effects."
         },
         {
           "segment_index": 2,
           "time_range": "237.0s - 243.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands gesturing while talking. In the background, there's a cityscape at night. On the left side of the screen, there's an inset image showing a person giving two thumbs up. The inset has a dark blue background with some white text that says \"MULTILEVEL MARKETING\" and colorful icons of people.AUDIO: A male voice is speaking about a celebrity being the founder who can enjoy cult - like status, mentioning J.R. Riedinger as an example.So, what do you think about this? Do you have any other questions related to it?"
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk, gesturing with his hands. Behind him is a cityscape at night with lit-up buildings. On the left side of the screen, there's a graphic with the words \"MULTILEVEL MARKETING\" and colorful icons representing people. There's also a smaller inset image of another man giving a thumbs-up gesture.\n\n**Audio:** The man at the desk is speaking, likely explaining something related to multilevel marketing. The background has a calm, neutral tone, possibly some ambient city sounds."
         },
         {
           "segment_index": 3,
           "time_range": "243.0s - 249.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands gesturing while talking. In the background, there's a cityscape at night. On the left side of the screen, there's an inset image of another man giving two thumbs up. The inset has \"marketamerica\" written on it.AUDIO: A male voice is speaking throughout the clip. There's also some music playing in the background."
+          "query": "Visual: The video shows a man in a suit sitting at a desk, gesturing with his hands as if he's speaking or presenting. There's a smaller inset image of another man in sunglasses giving a thumbs-up gesture. The background features a cityscape at night with illuminated buildings. The text \"marketamerica\" is visible on the screen.\n\nAudio: The audio includes a man speaking, likely narrating or presenting something. There's also background music playing throughout the segment."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 300.5396361351013
+      "processing_time": 301.7842171192169
     },
     {
-      "comment_index": 4296,
-      "video_id": "s6MwGeOm8iI",
-      "comment": "00:42 would be nice to raise my own children for a change",
-      "language": "en",
-      "channel_name": "LastWeekTonight",
-      "category": "news",
-      "likes": 2.0,
-      "comment_timestamp": 42.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "33.0s - 39.0s",
-          "query": "VISUAL: There's a man sitting at a desk in front of a cityscape backdrop. He's wearing glasses, a suit, and tie. On his left side, there are logos for Mary Kay, Rodan + Fields, Nu Skin, Amway, and Herbalife Nutrition.AUDIO: A male voice is speaking about distributors looking for more people to join them with an attractive message. It seems like he's explaining something related to these companies.If you want to know more about what he might be saying specifically or have any other questions, feel free to ask!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "39.0s - 45.0s",
-          "query": "VISUAL: The video shows several people talking one after another against a plain background. They seem to be in different settings like offices or studios. There's no significant movement apart from their speaking.\n\nAUDIO: A man is speaking about Herbalife, mentioning being your own boss, earning extra money, working from home, and raising children. It's just his voice with no other sounds or music. So, what do you think about Herbalife? Do you have any experience with it?"
-        },
-        {
-          "segment_index": 3,
-          "time_range": "45.0s - 51.0s",
-          "query": "VISUAL: The video shows different people in suits talking to the camera. There's a man with short hair gesturing while speaking, another guy with glasses also talking, an older woman with long gray hair, and a man with blonde hair. They all seem to be in front of a plain background.AUDIO: Someone is speaking about naming your own hours, making money for part - time or full - time work, paying bills, and sharing the video with ten people.If you have any other thoughts on this video or want to discuss something related, feel free to let me know!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 258.7171585559845
-    },
-    {
-      "comment_index": 4298,
-      "video_id": "s6MwGeOm8iI",
-      "comment": "4:43 - Stu from the Hangover if Doug Died.",
-      "language": "en",
-      "channel_name": "LastWeekTonight",
-      "category": "news",
-      "likes": 2.0,
-      "comment_timestamp": 283.0,
-      "total_duration": "18s (3 segments of 6s each)",
-      "segments": [
-        {
-          "segment_index": 1,
-          "time_range": "274.0s - 280.0s",
-          "query": "VISUAL: There's a man in a suit running on a large circular platform that looks like a giant wheel. He seems to be sweating and is moving quickly around it. The background has some blue lighting and there are other objects like a sign with \"NO TOUCH\" written on it.AUDIO: A male voice is speaking, saying something about \"pump money\" and \"dramatizing the rat race.\" It also mentions \"sweatily running around in a giant wheel and screaming.\".If you have any thoughts or questions about this analysis, feel free to share!"
-        },
-        {
-          "segment_index": 2,
-          "time_range": "280.0s - 286.0s",
-          "query": "VISUAL: A man in a suit is on stage, leaning forward with his hands outstretched towards a tombstone labeled \"JOE NOBODY\". He seems to be speaking or performing. The background shows an audience and some banners with logos like \"marketamerica\" and \"SHOP.COM\". There's also a large screen displaying something that looks like a crowd or a scene related to the performance.AUDIO: Someone is speaking, saying \"At the gravestone of Joe Nobody who never fulfilled his true potential.\" It has a somewhat dramatic tone. There are no other distinct sounds besides the speech."
-        },
-        {
-          "segment_index": 3,
-          "time_range": "286.0s - 292.0s",
-          "query": "VISUAL: A man in a suit is on stage, leaning forward towards a tombstone - like object with \"THE NOBODY\" written on it. There's a large screen behind him showing leaves falling. The stage has some logos and a question mark design on the floor.AUDIO: Someone is speaking excitedly about being able to do something now without waiting, saying \"it works.\".If you have any other thoughts or questions about this video, feel free to share!"
-        }
-      ],
-      "analysis_type": "optimized_video_analysis",
-      "processing_time": 297.2707529067993
-    },
-    {
-      "comment_index": 4297,
+      "comment_index": 4348,
       "video_id": "s6MwGeOm8iI",
       "comment": "21:56 LOLOLOLOLOL!! That woman is no where’s close to 16%-17% body fat. That’s the equivalent of a male being 9%-10% body fat. She’d be absolutely shredded at that level. Just another MLM bot exaggerating about something that’s not true.  With that said, this is the funniest video out there on MLM’s and there’s a lot of good ones",
       "language": "en",
@@ -529,81 +469,141 @@
         {
           "segment_index": 1,
           "time_range": "1307.0s - 1313.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands clasped together. Behind him is a cityscape backdrop. On the left side of the screen, there's a graphic that says \"MULTILEVEL MARKETING\" with some colorful icons. The lighting seems to be studio lighting.AUDIO: A male voice is speaking about something related to an industry, mentioning \"Herbalife\" and saying it's not the only company involved. It sounds like he's discussing business or marketing stuff.If you want to talk more about this video or have other questions, feel free to let me know!"
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk, likely in a studio setting. Behind him, there's a cityscape at night with illuminated buildings. On the left side of the screen, there's a graphic with the words \"MULTILEVEL MARKETING\" and some small, colorful human figures. The man appears to be speaking and gesturing with his hands.\n\n**Audio:** The audio consists of a man speaking. He seems to be discussing something related to multilevel marketing, mentioning \"Herbalife\" and suggesting that it's not the only company in the industry."
         },
         {
           "segment_index": 2,
           "time_range": "1313.0s - 1319.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with his hands clasped together. Behind him is a cityscape backdrop. There's also an image on the left side showing \"MULTILEVEL MARKETING\" with colorful figures. Then it cuts to a woman talking, wearing a patterned top and turquoise earrings. The name \"MAX INTERNATIONAL\" appears below her.AUDIO: Someone is speaking about bold product claims regarding health, mentioning their body fat percentage before and now. It seems like they're discussing some kind of weight loss or health improvement product.If you have any other thoughts or questions about this video, feel free to share!"
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk, likely in a studio setting. Behind him, there's a cityscape backdrop. On the left side of the screen, there's a smaller inset showing a woman with blonde hair, wearing a patterned top and turquoise earrings. The text \"MAX INTERNATIONAL\" is displayed below her. The overall color scheme includes dark and neutral tones with pops of color from the woman's attire and the city lights in the background.\n\n**Audio:** The audio features a man speaking, though the specific content of his speech isn't provided. There are no other discernible sounds like music or sound effects."
         },
         {
           "segment_index": 3,
           "time_range": "1319.0s - 1325.0s",
-          "query": "VISUAL: There's a woman with curly blonde hair wearing a patterned top and turquoise earrings. She seems to be speaking or reacting to something. The background is blurred but looks like an indoor setting with light curtains.AUDIO: Someone is talking about pain and lethargy around 16-17 years old. It's just speech without any other sounds like music or sound effects. What do you think about it?"
+          "query": "Well, in the visual part, there's a woman with blonde hair. She seems to be in a room with some furniture, like a chair and a table. The colors are mostly warm, with some reds and beiges. There's not much movement, just the woman talking.The audio part is mainly speech. It's a woman speaking, and she's talking about pain and lethargy around 16-17 seconds. There's no music or sound effects, just her voice. So, what do you think about this? Do you have any other questions?"
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 314.06993865966797
+      "processing_time": 289.16371059417725
     },
     {
-      "comment_index": 4299,
+      "comment_index": 4349,
       "video_id": "s6MwGeOm8iI",
-      "comment": "8:01 Ask the 2010 NFL comeback player of the year",
+      "comment": "5:11 Apprentice Necromancer.",
       "language": "en",
       "channel_name": "LastWeekTonight",
       "category": "news",
       "likes": 2.0,
-      "comment_timestamp": 481.0,
+      "comment_timestamp": 311.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "472.0s - 478.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with a cityscape background. On the left side of the screen is a website for \"Youngevity\" showing an image of two people and some text about them being ambassadors. The man seems to be talking or presenting something.AUDIO: A male voice is speaking, saying \"Denise and Tom Chenault ARE Youngevity.\" It has a somewhat serious tone. What do you think about it?"
+          "time_range": "302.0s - 308.0s",
+          "query": "Visually, there's a man in a suit on a stage. He's leaning forward, looking at something on the ground. There are bright lights above him, and the background seems to be a large, dark space, possibly a theater or event hall. There's also a large, stone-like object in front of him. The colors are mainly dark with some bright spots from the lights. The movement is mainly the man's leaning and looking down.\n\nAudio-wise, there's a man speaking. The speech is clear and seems to be in English. There are no other sounds like music or sound effects."
         },
         {
           "segment_index": 2,
-          "time_range": "478.0s - 484.0s",
-          "query": "VISUAL: A man in glasses and a suit is sitting at a desk with his hands gesturing while talking. There's a website displayed on the screen behind him that says \"YOUNGEVITY\" along with some text about \"Ambassadors: Tom & Denice Chenault.\" The background shows a cityscape at night.AUDIO: Someone is speaking, saying \"you don't let someone embody your company if you don't agree with them if Flo turned out.\".It seems like there might be more to the story here. What do you think about it?"
+          "time_range": "308.0s - 314.0s",
+          "query": "Visually, there's a man in a suit on a stage. He's leaning forward, looking at a large stone or concrete block. The stage has bright lights, and there are some banners or screens in the background. The colors are mainly dark with the bright lights providing contrast. The man seems to be in a focused or determined pose, possibly preparing to interact with the block. There's also an audience in the background, though they're not very clear. The movement is mainly the man's leaning and looking at the block, with the audience mostly just sitting or standing still.Audibly, there's a voice shouting \"Be a hero, come on, let's do it, get up, get up!\" It's a motivational or encouraging speech, likely aimed at the man on stage or the audience. The tone is energetic and urgent."
         },
         {
           "segment_index": 3,
-          "time_range": "484.0s - 490.0s",
-          "query": "VISUAL: There's a man in a suit sitting at a desk with his hands gesturing while talking. Behind him is a cityscape backdrop. On the left side of the screen, there's an ad for Progressive Insurance showing a woman making an \"OK\" sign. The ad mentions saving $600 and includes fields for zip code and auto insurance info.AUDIO: A male voice is speaking, saying something about running a dogfighting ring and Progressive Insurance taking action against it right away. It seems to be a bit sarcastic or critical.What do you think about that? Any thoughts on why he might say such things?"
+          "time_range": "314.0s - 320.0s",
+          "query": "Visually, there's a man in a suit and tie sitting at a desk, talking and gesturing with his hands. In the background, there's a cityscape with tall buildings. On the left side of the screen, there's a smaller inset showing another man in a suit, also gesturing. The colors are mostly dark, with the city lights adding some brightness. The movement is mainly the man at the desk talking and the inset man gesturing.\n\nAudio-wise, there's a man speaking, and he seems to be saying something like \"It's too late, get up, holy shit.\" There's also laughter from the audience, indicating that the speech might be humorous or surprising."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 269.95996475219727
+      "processing_time": 246.57967710494995
     },
     {
-      "comment_index": 4300,
+      "comment_index": 4350,
       "video_id": "s6MwGeOm8iI",
       "comment": "14:35 is where you know exactly what is NWM or MLM, if not then try 16:22. Or if you have disagreeing MLM friend try 21:41 24:34 if you want to be analyzing actual data of income 26:40 if you want to know how many members of Congress are supporting MLM because MLM companies are paying people of congress",
       "language": "en",
       "channel_name": "LastWeekTonight",
       "category": "news",
       "likes": 2.0,
-      "comment_timestamp": 1600.0,
+      "comment_timestamp": 1301.0,
       "total_duration": "18s (3 segments of 6s each)",
       "segments": [
         {
           "segment_index": 1,
-          "time_range": "1591.0s - 1597.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with his hands clasped together. There's a graphic on the left side that says \"MULTILEVEL MARKETING\" with some colorful icons. In the background, there's a cityscape with tall buildings and a dome - like structure. The date \"MAY 16, 2016\" and case number \"14-20128\" appear on screen along with some legal information about a court case involving pyramid schemes.AUDIO: Someone is speaking about how pursuing cases against pyramid schemes is difficult and time-consuming. They mention that only around two dozen such cases have been brought over many years."
+          "time_range": "1292.0s - 1298.0s",
+          "query": "Well, I'm not sure if there's actually a \"good time\" to point out when someone says their blood is in me. It seems like it could be a very personal or intense statement depending on the context.What do you think about that? Do you have any other thoughts or questions related to this?"
         },
         {
           "segment_index": 2,
-          "time_range": "1597.0s - 1603.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with his hands clasped. There's a document on the left side that seems to be related to legal or regulatory matters. The background shows a cityscape at night with lit buildings. There's also an image of people with different colored icons above them and the words \"MULTILEVEL MARKETING\" below it.AUDIO: Someone is speaking about the FTC bringing only 25 complaints against MLMs over four decades and mentions MLMs' surprising lobbying strength."
+          "time_range": "1298.0s - 1304.0s",
+          "query": "Visually, there's a man in a suit and tie sitting at a desk, gesturing with his hands. There's a smaller inset image of another man in a suit, also gesturing. The background shows a cityscape at night with lit buildings. The colors are mostly dark with some bright spots from the city lights. The movement is mainly the gestures of the two men.The audio includes a man speaking, and there's laughter heard in the background."
         },
         {
           "segment_index": 3,
-          "time_range": "1603.0s - 1609.0s",
-          "query": "VISUAL: A man in a suit is sitting at a desk with his hands clasped together. There's an image on the screen behind him showing two people speaking at a podium. The background has a cityscape with tall buildings and a dome - like structure. The text \"Direct Selling Caucus\" is prominently displayed on the screen.AUDIO: Someone is speaking about a direct selling caucus in Congress with over 40 bipartisan members including Jason. It seems to be a news or talk show segment."
+          "time_range": "1304.0s - 1310.0s",
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk with a cityscape background. There's also an overlay graphic on the left side that says \"MULTILEVEL MARKETING\" with icons representing different genders.\n\n**Audio:** A male voice is speaking about something related to marketing, mentioning \"MLM\" and noting some similarities across the industry."
         }
       ],
       "analysis_type": "optimized_video_analysis",
-      "processing_time": 377.03033351898193
+      "processing_time": 217.998441696167
+    },
+    {
+      "comment_index": 4351,
+      "video_id": "s6MwGeOm8iI",
+      "comment": "4:43 - Stu from the Hangover if Doug Died.",
+      "language": "en",
+      "channel_name": "LastWeekTonight",
+      "category": "news",
+      "likes": 2.0,
+      "comment_timestamp": 283.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "274.0s - 280.0s",
+          "query": "Visually, there's a person in a white shirt and dark pants running on a large circular platform. The background has a blue and red color scheme with some digital or futuristic elements. The person seems to be moving quickly, almost like they're in a race. There are also some other figures in the background, but they're not the main focus.Audibly, there's a man speaking, but the content of what he's saying isn't clear from this short segment. There are no distinct sound effects or music."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "280.0s - 286.0s",
+          "query": "Visual: A man in a suit is on a stage with a large screen behind him. He's gesturing towards something off to his right side. There's a tombstone-like object in front of him.\n\nAudio: The man is speaking, likely delivering some kind of presentation or speech."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "286.0s - 292.0s",
+          "query": "Visually, there's a man in a suit bending over, seemingly interacting with a tombstone on a stage. The background has some screens and lighting, giving it a show-like feel. The colors are mostly muted, with the suit and tombstone being the main focus. There's movement as the man bends and stands up again. In the audio, there's a man speaking, saying \"you told me about we can actually do them now we don't have to wait man it works.\" The speech is clear and seems to be the main focus."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 201.47757244110107
+    },
+    {
+      "comment_index": 4352,
+      "video_id": "s6MwGeOm8iI",
+      "comment": "for the record, this video only has 32 million views... the work... continues. Also 9:06 ; ... I can make my peace with Chuck Norris selling out a sponsorship to one of these vampires (he's a celebrity, it's what they do) ... but Secretary Albright?  Don't you have some doomed peace talks to be advising on, and no that is not a knock on you.",
+      "language": "en",
+      "channel_name": "LastWeekTonight",
+      "category": "news",
+      "likes": 2.0,
+      "comment_timestamp": 546.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "537.0s - 543.0s",
+          "query": "**Visual:** The video shows a man in a suit sitting at a desk with a cityscape background. There's an inset image of Cristiano Ronaldo celebrating on the left side of the screen. Text appears on the screen saying \"net sales of $4.5 billion.\"\n\n**Audio:** A male voice is speaking, likely discussing something related to the text displayed about net sales."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "543.0s - 549.0s",
+          "query": "Sorry, I can't analyze that video for you because it's not available to me right now. If you could upload or describe it again, I'd be happy to help!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "549.0s - 555.0s",
+          "query": "I'm sorry, I can't analyze videos directly. But if you describe them to me, I'd be happy to help!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 169.04899263381958
     }
   ]
 }
