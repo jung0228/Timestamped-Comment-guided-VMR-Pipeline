@@ -1,0 +1,610 @@
+{
+  "video_id": "WEDIj9JBTC8",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "processing_time": 5751.8579342365265,
+  "comments": [
+    {
+      "comment_index": 121,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "Hopefully this will clear things up:   At the beginning of the year, they raised money by selling 1/3 of the equity in the company for $500 and also raised $250 through a debt issue. Cash balance: $750 = 500 + 250 They then spent $300 to buy the first stand and $200 on inventory (this is your cost of goods sold, or COGS). Cash balance: $250 = 750 - 300 - 200 At the end of year 1, we see they sold $800 of lemonade, and paid $530 in labor costs (remember, we already bought the inventory, and depreciation is a \"non-cash\" charge - we're accounting for having to replace the lemonade stand every 5 years). Cash balance: $520 = 250 + 800 - 530 Finally, they paid $25 in interest, leaving them with negative EBT (earnings before tax) of $15 and therefore had a tax credit of $5 (this was sort of skipped over): Cash balance: $500 = 520 - 25 + 5  Note this matches the ending cash balance (bottom line) in the cash flow statement at 8:15. With that, we have enough to spend $300 on a second lemonade stand with money to spare.",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 39.0,
+      "comment_timestamp": 495.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "486.0s - 492.0s",
+          "query": "VISUAL: There's an orange and black graphic with a watering can icon and \"GROWING THE BUSINESS\" written on it. Then there's another graphic split into two halves - one black with a faucet icon and \"CASH FLOW\" in white and orange, the other gray. A man in formal attire is standing next to a wooden podium against a plain background. He seems to be speaking or presenting something.AUDIO: The audio has some kind of electronic beeping noise followed by music playing in the background. There's also a male voice saying \"let's look at the cash flow statement.\" What do you think about these elements? Do they seem relevant to the topic being discussed?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "492.0s - 498.0s",
+          "query": "VISUAL: A table titled \"Cash Flow Statement: The Next Four Years\" is shown. It has columns for Year 1 to Year 5 with rows for Net income, CFO, Capex, CFI, Debt issued, Equity issued, and CFF. There's also information on Beginning cash and Ending cash. The numbers increase over the years.AUDIO: Someone is speaking about how as the business becomes more profitable, it generates more cash which builds up."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "498.0s - 504.0s",
+          "query": "VISUAL: The video shows a table titled \"Cash Flow Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with rows for Net income, CFO, Capex, CFI, Debt issued, Equity issued, and CFF. There's also information on beginning cash, change in cash, and ending cash. The numbers increase over the years.AUDIO: A man is speaking about how the company goes from $500 of cash to over $2, 000 of cash over the period. He seems excited about it. So, what do you think about that growth?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 304.33369398117065
+    },
+    {
+      "comment_index": 122,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "07:20 Where does he get the $300 to buy the 2nd lemonade stand in year two if the 1st year EBIT is only $10 and only $250 cash remaining from year 1?",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 28.0,
+      "comment_timestamp": 440.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "431.0s - 437.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with data on lemonade stands, cups sold per stand, price per cup, revenue, COGS, depreciation, labor expenses, EBIT, and margin. There's no movement or action within the frame.AUDIO: A man is speaking about labor expense and how the business is doing well by year five, going from a 1.3% something. He seems to be discussing financial performance over time."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "437.0s - 443.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with data on lemonade stands sold, cups sold per stand, price per cup, revenue, COGS, depreciation, labor costs, EBIT, and margin percentages.AUDIO: There's a voiceover discussing how the business is scaling up and starting to cover some costs, mentioning margins increasing from 13% to over 28%."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "443.0s - 449.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with data on lemonade stands sold, cups sold per stand, price per cup, revenue, COGS, depreciation, labor costs, EBIT, margin, interest, and EBT. There's no movement or action within the frame.\n\nAUDIO: A man is speaking about paying $25 a year in interest for their loan and mentioning earnings before something, but it's cut off. He seems to be discussing financial matters related to the income statement shown in the video."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 312.6517059803009
+    },
+    {
+      "comment_index": 123,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "It comes ftom cash generated from operating activities, i.e. selling lemonaid. At the end of Year 1 you have $800 in revenue + $250 residual cash left after buying the 1st stand and inventories - $530 labour costs - $25 debt + $5 tax compensation. That brings you to $500 neccessary to start up another lemonaid stand. Or you can do it another way: go to the Cash Flow Statement (@ 08:19) and see step by step how you come to $500 at the end of Year 1.",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 23.0,
+      "comment_timestamp": 499.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "490.0s - 496.0s",
+          "query": "VISUAL: A man is standing next to a wooden podium on a white background. He's wearing a light purple shirt, dark pants, and a light purple tie. He has gray hair and is looking off to his right while talking. There s no movement from him or any other objects.AUDIO: The man is speaking about cash flow statements and how profitability affects cash generation. There are no other sounds like music or sound effects. It seems like he's explaining something related to business finances.If you want to know more about what was said specifically or have any other questions, feel free to ask!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "496.0s - 502.0s",
+          "query": "VISUAL: The video shows a table titled \"Cash Flow Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with various financial data like net income, depreciation, capital expenditures, debt issued, equity issued, etc. The ending cash values increase over the years.AUDIO: A male voice speaks about how cash builds up in the company, going from $500 to over $2, 000. There's no background music or other sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "502.0s - 508.0s",
+          "query": "VISUAL: The video shows a balance sheet table with financial data for different years. It includes columns for assets like cash, fixed assets, inventory, goodwill, liabilities such as debt, total liabilities, shareholders' liabilities, and per share growth. There's also a section on cash flow from operations, investing, and financing.\n\nAUDIO: A man is speaking about the balance sheet, mentioning that it starts at $500. He seems to be explaining or analyzing the financial information shown in the video."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 283.0863108634949
+    },
+    {
+      "comment_index": 124,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "Great explanation.  Some typos though, to my understanding. At 7:43, the chart shows $850 in first year instead of $800.  Also, I don't think year 2,3,4 Per Share should be negative.   Also, Growth should be calculated differently from Negative to Positive: from year 1 ($10) to year 2 +$90, there is positive growth of $100 which yield 1000% Growth (positive).",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 23.0,
+      "comment_timestamp": 463.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "454.0s - 460.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with data on lemonade stands sold, cups sold per stand, price per cup, revenue, expenses like COGS, depreciation, labor, EBIT Margin, interest, and EBT. There's no movement or action within the frame.AUDIO: A person is speaking about borrowing $250 and making a profit of $2300 by year five. No other sounds are heard.If you have any more questions about it or want to discuss something else related, feel free to let me know!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "460.0s - 466.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with data on lemonade stands sold, cups sold per stand, price per cup, revenue, expenses like COGS, depreciation, labor, EBIT, interest, taxes, net income, and growth percentages.AUDIO: A person is speaking about paying taxes to the government at around 35% and mentions generating net income or another word that's not clear from the provided information.If you have any other questions about this or need more details, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "466.0s - 472.0s",
+          "query": "VISUAL: A man is standing in front of an income statement chart titled \"Income Statement: The Next Four Years.\" He's wearing a suit and tie. The chart shows data for lemonade stands over five years, including cups sold, price per cup, revenue, expenses like COGS, depreciation, labor, EBIT, interest, taxes, net income, per share, and growth percentages.AUDIO: Someone says something about profits being $1500 by the fifth year and about a dollar a share. It seems to be discussing financial projections related to the income statement shown in the video."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 340.47062611579895
+    },
+    {
+      "comment_index": 125,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "7:40 How easy it rolls of the tongue \"Now we have to pay taxes to the government that's about 35%\" WHAT! 35% What the F did the politicians in Washington D.C. contribute to my lemonade stand that they should deserve a 35% cut of my business?   No wonder there is a lack of jobs and small businesses in this country and no wonder fortune 500 companies no longer operate inside the US. When are Americans going to wake up?",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 22.0,
+      "comment_timestamp": 460.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "451.0s - 457.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with data on lemonade stands sold, cups sold per stand, price per cup, revenue, expenses like COGS, depreciation, labor, EBIT Margin, interest, and EBT. There's no movement or action within the frame.AUDIO: A man is speaking about putting $500 into a business and borrowing $250, mentioning that by the end of year five there'll be $300 left. He seems to be explaining financial projections related to the income statement shown in the video.If you have any other questions about this or need more details, feel free to ask!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "457.0s - 463.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with data on lemonade stands sold, cups sold per stand, price per cup, revenue, expenses like COGS, depreciation, labor, EBIT, interest, taxes, net income, and growth percentages.AUDIO: A person is speaking about making a profit of $2300 and then mentions paying government taxes which are around 35%."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "463.0s - 469.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with data on lemonade stands sold, cups sold, price per cup, revenue, expenses like COGS, depreciation, labor, EBIT, interest, taxes, net income, and growth percentages.AUDIO: A male voice says, \"We generate what we net income or another word for profits $1, 500 by the fifth year.\".If you have any other questions about this or need more details, feel free to ask!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 338.53907680511475
+    },
+    {
+      "comment_index": 126,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "7:26 Love how Ackman accounts for inflation on COGS, but assumes no increase in the cost of labour.  And that's how old Billy Boy expects his companies to remain profitable.",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 16.0,
+      "comment_timestamp": 446.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "437.0s - 443.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with data on lemonade stands sold, cups sold per stand, price per cup, revenue, COGS, depreciation, labor costs, EBIT, and margin percentages.AUDIO: There's a voiceover discussing how the business is scaling up and starting to cover some costs, mentioning margins increasing from 13% to over 28%."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "443.0s - 449.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with data on lemonade stands sold, cups sold per stand, price per cup, revenue, COGS, depreciation, labor costs, EBIT, margin, interest, and EBT. There's no movement or action within the frame.\n\nAUDIO: A man is speaking about paying $25 a year in interest for their loan and mentioning earnings before something, but it's cut off. He seems to be discussing financial matters related to the income statement shown in the video."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "449.0s - 455.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with data on lemonade stands sold, cups sold per stand, price per cup, revenue, expenses like COGS, depreciation, labor, EBIT, margin, interest, and EBT. There's no movement or action within the frame.AUDIO: A man is speaking about putting $500 into the business after taxes and interest of $2300 by the end of year five. He seems to be explaining financial projections related to the income statement shown in the video.If you have any other questions about this or need more details, feel free to ask!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 323.8415720462799
+    },
+    {
+      "comment_index": 127,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "7:46 i nthe 5 year projections, where is he getting the moeny to but addtional lemonade stands?",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 14.0,
+      "comment_timestamp": 466.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "457.0s - 463.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with data on lemonade stands sold, cups sold per stand, price per cup, revenue, expenses like COGS, depreciation, labor, EBIT, interest, taxes, net income, and growth percentages.AUDIO: A person is speaking about making a profit of $2300 and then mentions paying government taxes which are around 35%."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "463.0s - 469.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with data on lemonade stands sold, cups sold, price per cup, revenue, expenses like COGS, depreciation, labor, EBIT, interest, taxes, net income, and growth percentages.AUDIO: A male voice says, \"We generate what we net income or another word for profits $1, 500 by the fifth year.\".If you have any other questions about this or need more details, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "469.0s - 475.0s",
+          "query": "VISUAL: A man is standing against a white background. He's wearing a light blue shirt with a purple tie. There's an income statement titled \"Income Statement: The Next Four Years\" displayed on screen. It shows data for lemonade stands over five years, including cups sold, price per cup, revenue, expenses like COGS, depreciation, labor, EBIT, interest, taxes, net income, per share growth, etc.AUDIO: Someone is speaking about how they're doing financially, mentioning something about a friend putting up $500 to put."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 282.3989324569702
+    },
+    {
+      "comment_index": 128,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "Some people noticed a flaw in the growth assumptions like: \"How did he pay for another stand, and what about, getting more inventory for the next stand...\" at 6:48  My way of getting around that, is just by making the following assumption: The owner is going to work at the first Stand, then the \"labor\" cost, is actually reinvested in the company.  As First Assumptions said: $300 for a Stand, $200 for a year of Inventory for 1 stand [Cogs price goes up each year].  Every year inventory per stand is already paid at the \"Less: COGS\" My money to reinvest comes from 1 Stand as Labor costs $530  With my $530, i can buy Another Stand and Enough inventory for the new stand (Remember that the first stand already paid its inventory at the end of the year)  From now on, lets continue with the \"Income Statement: The Next Four Year\" My Revenue in year 2 is $1764 Less: COGS (420) [210 per stand, 2 stands] Less: Depreciation (120)  Less: Labor (530) [Thats someone else i employed] Less: Labor (530) [That me working at first stand] ------------------------------------------------------------------------------------- EBIT: $184 Less: Interest (25) Less: Taxes (65) [Assuming 35% of EBIT] ----------------------------------------------------------------------------------- Net Income: $81  If we continue reinvesting our $530 of our labor, at fifth year, we shall have enough cash to buy 3 stands and continue our growth xD.   At End of fourth year, we shall have a net income of $608 That, added to the net income of third year of $286 and the secont year $81.  Were sitting at $975 + $250 (initial cash) = $1225 That means: More then enough to sustein our growth (For now xD)",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 9.0,
+      "comment_timestamp": 408.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "399.0s - 405.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years\". It has columns for Year 1 to Year 5 with rows for lemonade stands, cups sold per stand, and total cups sold. The numbers increase over the years.AUDIO: A man is speaking about expanding from one lemonade stand at year one to seven by year five due to a big expansion plan. He mentions that they have a plan for growth."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "405.0s - 411.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with rows for lemonade stands, cups sold per stand, total cups sold, price per cup, and revenue. The numbers increase over the years.AUDIO: There's a voiceover explaining that the price per cup goes up a nickel a year and how it affects the revenue growth from $800 starting at Year 1. The tone is informative. So, what do you think about this kind of financial analysis?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "411.0s - 417.0s",
+          "query": "VISUAL: There's an income statement table for \"The Next Four Years\" showing data like lemonade stands, cups sold, price per cup, and revenue over five years. The numbers increase gradually.AUDIO: A man is speaking about increased prices for cups of lemonade and opening more stands. He seems to be explaining how these factors contribute to something, maybe revenue growth or business expansion.What do you think about the trends shown in that table?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 228.6468276977539
+    },
+    {
+      "comment_index": 129,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "6:47  Why is year 1's revenue 850? It should be 800.",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 8.0,
+      "comment_timestamp": 407.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "398.0s - 404.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years\". It has columns for Year 1 to Year 5 with rows for \"Lemonade stands\", \"Cups sold per stand\", and \"Cups sold\". Numbers increase over the years. AUDIO: A man is speaking about adding one lemonade stand per year until reaching seven by year five due to expansion. What do you think about this plan?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "404.0s - 410.0s",
+          "query": "VISUAL: The video shows an income statement table for the next four years with data on lemonade stands, cups sold per stand, total cups sold, price per cup, and revenue. It has rows labeled Year 1 to Year 5. There's no movement or action shown other than the static display of the table.AUDIO: A man is speaking about how their price per cup goes up a nickel a year and how revenue starts from $800 and grows fairly quickly. There are no other sounds like music or background noise."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "410.0s - 416.0s",
+          "query": "VISUAL: There's an income statement table for \"The Next Four Years\" showing data like lemonade stands, cups sold, price per cup, and revenue over five years. The numbers increase gradually.AUDIO: A man is speaking about growth from increased prices for lemonade cups and opening more stands. He mentions it briefly in just a few seconds.If you want to know more about how these factors affect the overall business model or have any other questions related to this, feel free to ask!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 254.13834381103516
+    },
+    {
+      "comment_index": 130,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "0:27 he has back problems, needs to see an osteopath",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 8.0,
+      "comment_timestamp": 27.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "18.0s - 24.0s",
+          "query": "VISUAL: The video shows an orange background with white and black text. There's a logo on the left side that looks like a shield with some design inside it. The main text is about finance and investing in less than an hour. It mentions William Ackman from Pershing Square Capital.AUDIO: Someone is speaking, saying \"need to know about finance and investing and I'm gonna get it done in an hour and you'll be ready to go so.\" It seems like they're promoting something related to finance and investing knowledge.If you want to talk more about this or have other questions, feel free to ask!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "24.0s - 30.0s",
+          "query": "VISUAL: There's a man with gray hair wearing a light blue shirt and a purple tie. He seems to be standing against a plain white background. His hands are moving slightly as he speaks.AUDIO: A male voice is speaking about finance and basic terms associated with it. It's just his voice without any other sounds or music. So, what do you think about this? Do you have any questions related to finance based on this?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "30.0s - 36.0s",
+          "query": "VISUAL: There's a man with gray hair wearing a light blue shirt and a purple tie standing against a white background. He seems to be talking and gesturing with his hands. There's also an illustration of a lemonade stand on the screen.AUDIO: The man is speaking about starting a business together using the example of a lemonade stand. It's just him talking without any other sounds or music. So, what do you think about starting a lemonade stand?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 249.81757140159607
+    },
+    {
+      "comment_index": 131,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "Why is the revenue $850 at 6:54? Am I missing something?",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 6.0,
+      "comment_timestamp": 414.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "405.0s - 411.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with rows for lemonade stands, cups sold per stand, total cups sold, price per cup, and revenue. The numbers increase over the years.AUDIO: There's a voiceover explaining that the price per cup goes up a nickel a year and how it affects the revenue growth from $800 starting at Year 1. The tone is informative. So, what do you think about this kind of financial analysis?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "411.0s - 417.0s",
+          "query": "VISUAL: There's an income statement table for \"The Next Four Years\" showing data like lemonade stands, cups sold, price per cup, and revenue over five years. The numbers increase gradually.AUDIO: A man is speaking about increased prices for cups of lemonade and opening more stands. He seems to be explaining how these factors contribute to something, maybe revenue growth or business expansion.What do you think about the trends shown in that table?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "417.0s - 423.0s",
+          "query": "VISUAL: The video shows an income statement table for the next four years. It has columns for Year 1 to Year 5 with rows for lemonade stands, cups sold per stand, price per cup, revenue, and COGS. The numbers increase over the years.AUDIO: A man is speaking about reaching almost $8000 in revenue by year five and mentions that costs are relatively constant, specifically referring to lemons."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 235.51113557815552
+    },
+    {
+      "comment_index": 132,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "I don't quite understand the part at 5:43.  The profit is $10 before tax. After the deduction of the interest of $25, aren't we in the red for $15?  How can the debt of $15 be reduced to $10 after tax? Does the tax give us more money?",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 6.0,
+      "comment_timestamp": 343.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "334.0s - 340.0s",
+          "query": "VISUAL: The video shows an income statement for one year later related to lemonade stands. It lists things like number of lemonade stands, cups sold per stand, price per cup, revenue, cost of goods sold, depreciation, labor costs, EBIT margin, interest expense, and pretax earnings. There's also some text at the bottom explaining how to calculate profit margin.AUDIO: A person is speaking about not having a particularly high profit due to debt interest and a loss of $15. They mention paying interest on debts and having that loss."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "340.0s - 346.0s",
+          "query": "VISUAL: The video shows an income statement for one year later related to lemonade stands. It lists various financial figures like cups sold, price per cup, revenue, cost of goods sold, depreciation, labor costs, EBIT margin, interest, pretax earnings, taxes, net income, and per share. There's no movement or action shown other than the static display of these numbers.AUDIO: A man is speaking about losing money despite not having any taxes at the end of the day. He mentions a loss of $15."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "346.0s - 352.0s",
+          "query": "VISUAL: The video shows an orange sign with \"ROWIN BUSIN\" on it, then transitions to another sign that says \"GROWING THE BUSINESS\". There's also a man in a light shirt and tie standing against a white background. He seems to be talking or presenting something.AUDIO: You can hear some kind of music playing throughout the video. There's no clear speech or sound effects other than the music. It's just a continuous musical track.If you have any more questions about this video or anything else, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 302.01639127731323
+    },
+    {
+      "comment_index": 133,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "at 5:42 how did he calculate the cost per share of 0.01 after having a loss of $10?",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 6.0,
+      "comment_timestamp": 342.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "333.0s - 339.0s",
+          "query": "VISUAL: The video shows an income statement for one year later related to lemonade stands. It lists things like number of lemonade stands, cups sold per stand, price per cup, revenue, cost of goods sold, depreciation, labor costs, EBIT margin, and pretax earnings. There's also a calculation showing the profit margin.AUDIO: A man is speaking about the low profit margin and mentioning paying interest on debts. He seems concerned about the financial situation. So, what do you think about this? Do you have any ideas on how to improve their finances?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "339.0s - 345.0s",
+          "query": "VISUAL: The video shows an income statement for one year later related to a lemonade stand business. It lists various financial figures like revenue, costs, and earnings. There's no movement or action shown other than the static display of the document.AUDIO: A male voice is speaking about a loss of $15 and mentions that there are no taxes involved, yet they still end up losing money."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "345.0s - 351.0s",
+          "query": "VISUAL: The video shows an income statement for a lemonade stand business one year later. It includes details like cups sold, price per cup, revenue, cost of goods sold, depreciation, labor costs, EBIT margin, interest, pretax earnings, taxes, and net income per share. There's also a logo with \"GROWING THE BUSINESS\" written on it.AUDIO: Music is playing throughout the video."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 245.0447804927826
+    },
+    {
+      "comment_index": 134,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "38:30: \"If THEY can't explain in TWO minutes, what they do, why they do it, then it's a strategy that you shouldn't invest in.\" This is the best advice in the entire video! ABSOLUTELY. If someone can't explain to me what they do/want to do then they either don't understand it themselves or they are trying to hide something. this cannot be understated!",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 5.0,
+      "comment_timestamp": 2310.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "2301.0s - 2307.0s",
+          "query": "VISUAL: A man is standing next to a wooden podium against a white background. He's wearing a light purple shirt, dark pants, and a light purple tie. He has gray hair and glasses. He seems to be talking and gesturing with his hands.AUDIO: There's a male voice speaking about money management strategies. The speaker mentions not using complicated words or expressions that might appeal to someone's insecurities.If you have any other thoughts on this video or want to discuss something related, feel free to let me know!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "2307.0s - 2313.0s",
+          "query": "VISUAL: A man in formal attire stands next to a wooden podium against a white background. He's gesturing with his hands while speaking. The text \"A Good Money Manager\" is displayed on the right side of the screen along with a point about explaining an investment strategy.AUDIO: There's a male voice speaking clearly, explaining something related to money management strategies. No other sounds are heard.If you have any more questions or need further analysis, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "2313.0s - 2319.0s",
+          "query": "VISUAL: A man in formal attire stands next to a wooden podium against a white background. He's gesturing with his hands while speaking. There's some text on the right side that says \"A Good Money Manager\" followed by two points about good money managers.AUDIO: The man is talking about choosing someone for money management based on reputation for integrity. It seems like he's explaining something important related to financial matters.If you have any other thoughts or questions about this video, feel free to share!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 241.15325140953064
+    },
+    {
+      "comment_index": 135,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "7:34 Where does the money come from to purchase the additional stands and inventory? He has a loss after year 1. He’d have to take out an additional loan to cover these costs which isn’t show in the interest statement projection.",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 5.0,
+      "comment_timestamp": 454.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "445.0s - 451.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with data on lemonade stands sold, cups sold per stand, price per cup, revenue, COGS, depreciation, labor costs, EBIT Margin, interest expenses, and EBT. There's no movement or action within the frame.\n\nAUDIO: A male voice is speaking about having $5 a year in interest for their loan and mentioning earnings before taxes after interest of $2300."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "451.0s - 457.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with data on lemonade stands sold, cups sold per stand, price per cup, revenue, expenses like COGS, depreciation, labor, EBIT Margin, interest, and EBT. There's no movement or action within the frame.AUDIO: A man is speaking about putting $500 into a business and borrowing $250, mentioning that by the end of year five there'll be $300 left. He seems to be explaining financial projections related to the income statement shown in the video.If you have any other questions about this or need more details, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "457.0s - 463.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with data on lemonade stands sold, cups sold per stand, price per cup, revenue, expenses like COGS, depreciation, labor, EBIT, interest, taxes, net income, and growth percentages.AUDIO: A person is speaking about making a profit of $2300 and then mentions paying government taxes which are around 35%."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 328.48090839385986
+    },
+    {
+      "comment_index": 136,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "16:18 what happens to the subtitles? Lol",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 5.0,
+      "comment_timestamp": 978.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "969.0s - 975.0s",
+          "query": "VISUAL: A man is standing next to a wooden podium against a white background. He's wearing a light blue shirt, black pants, and a purple tie. He has gray hair and appears to be speaking while gesturing with his hands.AUDIO: There's a male voice speaking about believing in a business and thinking it will be successful over time. It seems like he's presenting an alternative option related to selling a company. The tone suggests some hesitation or concern. So, what do you think about this? Do you have any similar experiences?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "975.0s - 981.0s",
+          "query": "VISUAL: A man is standing against a white background. He's wearing a light blue shirt with rolled-up sleeves and a purple tie. He has gray hair and appears to be speaking while gesturing with his hands.AUDIO: There's a male voice speaking about selling options for a business, specifically mentioning selling a piece of the business privately. The tone seems professional and informative.If you have any other questions or need more details, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "981.0s - 987.0s",
+          "query": "VISUAL: A man in a light blue shirt and purple tie is standing against a white background. There's an illustration on the right side showing \"Bill's Lemonade Stand\" with a cartoon figure wearing a top hat. The text says \"Alternatives to Selling the Entire Company:\" followed by \"1. Find a private investor and share the profits.\". AUDIO: Someone is speaking about finding an investor who wants to buy a private interest in their company if it's worth enough, and then selling them a piece of the business."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 232.30877423286438
+    },
+    {
+      "comment_index": 137,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "Small correction incase others noticed it as well. Overall, great content.   In the cash flow statement (at 8:19) under cash flow from operation, Year 1 would also show investment in Inventory of $200. That seems to be a miss. You started with $0 in cash, added $750 through debt & equity, invested $300 in capex and $200 in inventory. At the end of the year, cash flow from operations would be ($150). And ending cash would be $300. At year 2 start, they will need further cash injection to meet growth target.",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 4.0,
+      "comment_timestamp": 499.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "490.0s - 496.0s",
+          "query": "VISUAL: A man is standing next to a wooden podium on a white background. He's wearing a light purple shirt, dark pants, and a light purple tie. He has gray hair and is looking off to his right while talking. There s no movement from him or any other objects.AUDIO: The man is speaking about cash flow statements and how profitability affects cash generation. There are no other sounds like music or sound effects. It seems like he's explaining something related to business finances.If you want to know more about what was said specifically or have any other questions, feel free to ask!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "496.0s - 502.0s",
+          "query": "VISUAL: The video shows a table titled \"Cash Flow Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with various financial data like net income, depreciation, capital expenditures, debt issued, equity issued, etc. The ending cash values increase over the years.AUDIO: A male voice speaks about how cash builds up in the company, going from $500 to over $2, 000. There's no background music or other sound effects."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "502.0s - 508.0s",
+          "query": "VISUAL: The video shows a balance sheet table with financial data for different years. It includes columns for assets like cash, fixed assets, inventory, goodwill, liabilities such as debt, total liabilities, shareholders' liabilities, and per share growth. There's also a section on cash flow from operations, investing, and financing.\n\nAUDIO: A man is speaking about the balance sheet, mentioning that it starts at $500. He seems to be explaining or analyzing the financial information shown in the video."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 279.2480173110962
+    },
+    {
+      "comment_index": 138,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "7:42 where did he get the money to buy additinal lemonade stands? at year 5 he says that there are still 1500 shares. so each year he demanded additional money from the initial investor?",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 4.0,
+      "comment_timestamp": 462.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "453.0s - 459.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with data on lemonade stands sold, cups sold per stand, price per cup, revenue, expenses like COGS, depreciation, labor, EBIT Margin, interest, and EBT. There's no movement or action within the frame.AUDIO: A man is speaking about investing $500 into a business, borrowing $250, and making a profit of $2311 by year five. He doesn't mention anything else."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "459.0s - 465.0s",
+          "query": "VISUAL: The video shows an income statement table titled \"Income Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with data on lemonade stands sold, cups sold per stand, price per cup, revenue, expenses like COGS, depreciation, labor, EBIT, interest, taxes, net income, per share growth, etc. The numbers increase over the years.AUDIO: A man is speaking about the financial figures shown in the table, mentioning that after paying taxes at around 35%, they generate $300. He seems positive about the results."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "465.0s - 471.0s",
+          "query": "Oh, okay! So, visually, it looks like there's some kind of financial data or chart being shown. You can see numbers and labels that seem to be related to income statements over several years. There s also a bit about lemonade stands and cups sold. Hmm. as for the audio, someone is speaking, probably explaining or narrating what s on the screen. They mention something about net income reaching $1500 by year five and talk about earnings per share. Does that help? Let me know if you want more details!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 309.58554315567017
+    },
+    {
+      "comment_index": 139,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "Hello there, I was wondering at 5:43 why is \"Less: Taxes\" $5 in bracket but the net income isnt ($20) or a loss of $20? Shouldn't we subtract 5 from negative 15? It's my first time seeing an income statement and just want to get all the numbers right and see how you got them. Thanks a lot for the video! It's great for someone like me with zero knowledge in this to learn and pick up.",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 3.0,
+      "comment_timestamp": 343.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "334.0s - 340.0s",
+          "query": "VISUAL: The video shows an income statement for one year later related to lemonade stands. It lists things like number of lemonade stands, cups sold per stand, price per cup, revenue, cost of goods sold, depreciation, labor costs, EBIT margin, interest expense, and pretax earnings. There's also some text at the bottom explaining how to calculate profit margin.AUDIO: A person is speaking about not having a particularly high profit due to debt interest and a loss of $15. They mention paying interest on debts and having that loss."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "340.0s - 346.0s",
+          "query": "VISUAL: The video shows an income statement for one year later related to lemonade stands. It lists various financial figures like cups sold, price per cup, revenue, cost of goods sold, depreciation, labor costs, EBIT margin, interest, pretax earnings, taxes, net income, and per share. There's no movement or action shown other than the static display of these numbers.AUDIO: A man is speaking about losing money despite not having any taxes at the end of the day. He mentions a loss of $15."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "346.0s - 352.0s",
+          "query": "VISUAL: The video shows an orange sign with \"ROWIN BUSIN\" on it, then transitions to another sign that says \"GROWING THE BUSINESS\". There's also a man in a light shirt and tie standing against a white background. He seems to be talking or presenting something.AUDIO: You can hear some kind of music playing throughout the video. There's no clear speech or sound effects other than the music. It's just a continuous musical track.If you have any more questions about this video or anything else, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 318.9737186431885
+    },
+    {
+      "comment_index": 140,
+      "video_id": "WEDIj9JBTC8",
+      "comment": "Henry O The cashflow part may help you to understand. 8:15",
+      "language": "en",
+      "channel_name": "BigThink",
+      "category": "knowledge",
+      "likes": 3.0,
+      "comment_timestamp": 495.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "486.0s - 492.0s",
+          "query": "VISUAL: There's an orange and black graphic with a watering can icon and \"GROWING THE BUSINESS\" written on it. Then there's another graphic split into two halves - one black with a faucet icon and \"CASH FLOW\" in white and orange, the other gray. A man in formal attire is standing next to a wooden podium against a plain background. He seems to be speaking or presenting something.AUDIO: The audio has some kind of electronic beeping noise followed by music playing in the background. There's also a male voice saying \"let's look at the cash flow statement.\" What do you think about these elements? Do they seem relevant to the topic being discussed?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "492.0s - 498.0s",
+          "query": "VISUAL: A table titled \"Cash Flow Statement: The Next Four Years\" is shown. It has columns for Year 1 to Year 5 with rows for Net income, CFO, Capex, CFI, Debt issued, Equity issued, and CFF. There's also information on Beginning cash and Ending cash. The numbers increase over the years.AUDIO: Someone is speaking about how as the business becomes more profitable, it generates more cash which builds up."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "498.0s - 504.0s",
+          "query": "VISUAL: The video shows a table titled \"Cash Flow Statement: The Next Four Years.\" It has columns for Year 1 to Year 5 with rows for Net income, CFO, Capex, CFI, Debt issued, Equity issued, and CFF. There's also information on beginning cash, change in cash, and ending cash. The numbers increase over the years.AUDIO: A man is speaking about how the company goes from $500 of cash to over $2, 000 of cash over the period. He seems excited about it. So, what do you think about that growth?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 301.2368290424347
+    }
+  ]
+}

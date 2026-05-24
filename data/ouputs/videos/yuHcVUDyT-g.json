@@ -1,0 +1,43 @@
+{
+  "video_id": "yuHcVUDyT-g",
+  "num_results": 1,
+  "results": [
+    {
+      "video_id": "yuHcVUDyT-g",
+      "comment_index": 21424,
+      "category": "debate",
+      "comment_timestamp": 4510.0,
+      "comment": "1:15:10  made me chuckle a bit  😄   Carl Jambo quoting Chris Rock's theory of \"the concept of the world's love to a man\"",
+      "comment_focus_summary": "The commenter is pointing out a quote or line (at 1:15:10) where Carl Jambo appears to be quoting Chris Rock's idea about \"the concept of the world's love to a man\" and found it amusing.",
+      "comment_focus_keywords": [
+        "Carl Jambo quote",
+        "Chris Rock theory",
+        "funny line",
+        "quote at 1:15:10"
+      ],
+      "integrated_visual": "Panel of five people seated on white chairs against a purple/white geometric backdrop; one person (blonde in white or a speaker) gesturing while others listen.",
+      "integrated_audio": "Clear speech from a speaker in the panel; captions indicate someone is talking but do not provide the exact quoted words.",
+      "grounded_visual_evidence": "Captions describe a speaker gesturing while seated among five people on white chairs with geometric purple/white backdrop; formal dress noted.",
+      "grounded_audio_evidence": "Captions state there is clear speech from a person; no transcript or specific quoted phrase is provided in the captions.",
+      "visual_query": "",
+      "audio_query": "panel discussion Carl Jambo quoting Chris Rock \"concept of the world's love\"",
+      "primary_modality_hint": "audio",
+      "audio_subtype": "speech",
+      "visual_focus": "none",
+      "audio_focus": "spoken_topic",
+      "focus_target": "Carl Jambo spoken quote referencing Chris Rock",
+      "modality_gate_reason": "The user's focus is a specific quoted line; the captions confirm clear speech but provide no unique visual cue. The spoken content is the retrieval anchor, while visuals are generic panel framing.",
+      "retrieval_keywords": [
+        "Carl Jambo quote",
+        "Chris Rock reference",
+        "panel discussion speech",
+        "\"world's love\" theory"
+      ],
+      "final_query": "Carl Jambo quoting Chris Rock \"world's love\" panel discussion",
+      "notes": "Captions indicate clear speech but don't provide a transcript; the exact phrasing in the comment ('the concept of the world's love to a man') is not present in captions, so the audio query paraphrases the quoted topic. Visual cues are generic, so visual_query left empty.",
+      "input_tokens_est": 2179,
+      "output_tokens_est": 497,
+      "generated_at": "2026-04-28T04:35:54.686561"
+    }
+  ]
+}

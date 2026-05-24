@@ -1,0 +1,118 @@
+{
+  "video_id": "HE_6tTwPSGk",
+  "num_results": 3,
+  "results": [
+    {
+      "video_id": "HE_6tTwPSGk",
+      "comment_index": 18535,
+      "category": "finance",
+      "comment_timestamp": 540.0,
+      "comment": "For the comments around 9:00, there's a forth thing, the can do a stock buy back.",
+      "comment_focus_summary": "The commenter points out an additional option companies can do with profits: a stock buyback (share repurchase) mentioned around 9:00.",
+      "comment_focus_keywords": [
+        "stock buyback",
+        "fourth thing",
+        "companies profits",
+        "repurchase"
+      ],
+      "integrated_visual": "Speaker in orange turban gesturing at desk with blue mug (generic presenter framing).",
+      "integrated_audio": "Male speaker lists what profitable companies can do and says there are three things; audio implies a list of options for profits but captions do not quote 'buyback'.",
+      "grounded_visual_evidence": "Captions show a man in an orange turban speaking and gesturing at a desk with a blue mug (generic interview/presentation framing).",
+      "grounded_audio_evidence": "Captions state the man is talking about companies making profits and mentions they can do 'three things'; later speech about saving for emergencies appears. No caption explicitly mentions 'buy back' or 'share repurchase'.",
+      "visual_query": "",
+      "audio_query": "moment where speaker lists three things companies can do when they make profits (discussion of company profits and options)",
+      "primary_modality_hint": "audio",
+      "audio_subtype": "speech",
+      "visual_focus": "none",
+      "audio_focus": "spoken_topic",
+      "focus_target": "speaker listing three things companies can do with profits",
+      "modality_gate_reason": "The comment references a spoken list about what companies can do with profits; captions explicitly note a speaker listing 'three things', so the audible content is the grounded retrieval cue while the visual framing is generic.",
+      "retrieval_keywords": [
+        "companies make profits list",
+        "three things companies can do",
+        "options for company profits",
+        "save for emergencies segment"
+      ],
+      "final_query": "speaker lists three things companies can do when they make profits (discussion of company profit options)",
+      "notes": "Comment claims a 'fourth' option (stock buyback) but captions do not mention buybacks. Visuals are generic presenter framing; only the spoken topic of a list is grounded. Audio paraphrase used because no exact quote is provided in captions.",
+      "input_tokens_est": 2114,
+      "output_tokens_est": 528,
+      "generated_at": "2026-04-27T19:44:15.236887"
+    },
+    {
+      "video_id": "HE_6tTwPSGk",
+      "comment_index": 18534,
+      "category": "finance",
+      "comment_timestamp": 849.0,
+      "comment": "14:09 ok, that period on the 3.2 is way to faint. I thought it was 32 for a minute and was like “bull crap!”",
+      "comment_focus_summary": "The commenter is pointing out that the decimal point in the '3.2' (or the period making '0.5' vs '32') on the whiteboard is too faint, causing misreading the percentage (thought it read '32' instead of '3.2').",
+      "comment_focus_keywords": [
+        "faint decimal point",
+        "whiteboard numbers",
+        "misread 32 vs 3.2",
+        "handwritten percentages"
+      ],
+      "integrated_visual": "Close view of a whiteboard with handwritten stock percentages (VZ, MCD, BMY, AAPL); some numerals and a small decimal/period are faint.",
+      "integrated_audio": "Spoken explanation of investing $100 and listing percentages for companies (VZ 7%, MCD 2%, BMY 32%?, AAPL 0.5%).",
+      "grounded_visual_evidence": "Captions repeatedly describe a whiteboard with handwritten percentages and specific numbers (7%, 2%, 32%, 0.5%) visible next to company tickers; visual mention of text being on whiteboard.",
+      "grounded_audio_evidence": "Captions report the speaker listing percentages for companies and explaining investing $100; audio content supports discussion of those numeric percentages but does not explicitly mention the decimal point visibility.",
+      "visual_query": "whiteboard handwritten percentages 3.2 0.5 BMY AAPL man with red turban",
+      "audio_query": "",
+      "primary_modality_hint": "visual",
+      "audio_subtype": "speech",
+      "visual_focus": "text_on_screen",
+      "audio_focus": "spoken_topic",
+      "focus_target": "faint decimal point on whiteboard number",
+      "modality_gate_reason": "The complaint is about the visual readability of the decimal on the whiteboard; captions confirm handwritten percentages are visible, so visual retrieval is appropriate. Audio discusses the percentages but does not confirm the faint decimal.",
+      "retrieval_keywords": [
+        "whiteboard percentages",
+        "handwritten decimal point",
+        "BMY 32 3.2 confusion",
+        "AAPL 0.5",
+        "man red turban whiteboard"
+      ],
+      "final_query": "whiteboard handwritten percentages BMY AAPL man red turban decimal point faint",
+      "notes": "Audio captions list the percentages but do not explicitly mention the decimal visibility; the user's complaint about the faint period is visual and grounded by the whiteboard text mentions. If the decimal is too small, close-up zoom may be needed; evidence about exact '3.2' vs '32' is partially inferred from captions listing '32%' and nearby other values.",
+      "input_tokens_est": 2116,
+      "output_tokens_est": 575,
+      "generated_at": "2026-04-27T19:44:07.030117"
+    },
+    {
+      "video_id": "HE_6tTwPSGk",
+      "comment_index": 18536,
+      "category": "finance",
+      "comment_timestamp": 1954.0,
+      "comment": "32:34 Yes, it is faster and cheaper - but you are sending monopoly money.  Get what you pay for.",
+      "comment_focus_summary": "The commenter is criticizing cryptocurrency as effectively 'monopoly money' despite being faster and cheaper, i.e., disputing its real value compared to traditional money.",
+      "comment_focus_keywords": [
+        "monopoly money",
+        "faster and cheaper",
+        "crypto value",
+        "you get what you pay for"
+      ],
+      "integrated_visual": "Man with orange turban at desk, microphone and blue mug visible across three consecutive shots; generic podcast/interview framing.",
+      "integrated_audio": "Spoken discussion about cryptocurrency being speculative/risky, another speaker noting they've seen benefits, and mention of overseas contractors related to cryptocurrency.",
+      "grounded_visual_evidence": "Consistent shots of the man in orange turban at desk with microphone and blue mug; generic studio framing only.",
+      "grounded_audio_evidence": "Captions explicitly state speech about cryptocurrency being speculative/risky and another line about liking cryptocurrencies because of benefits; audio contains topical statements about crypto value.",
+      "visual_query": "",
+      "audio_query": "discussion calling cryptocurrency speculative and risky, debate about crypto being \"monopoly money\" or not",
+      "primary_modality_hint": "audio",
+      "audio_subtype": "speech",
+      "visual_focus": "none",
+      "audio_focus": "spoken_topic",
+      "focus_target": "spoken claim that cryptocurrency is speculative/risky",
+      "modality_gate_reason": "The user's comment targets the value claim about cryptocurrency, which is supported by the captions' speech about crypto being speculative and pros/benefits; visual shots are generic and not distinctive for retrieval, so audio is the reliable cue.",
+      "retrieval_keywords": [
+        "cryptocurrency speculative",
+        "crypto risky",
+        "seen benefits of crypto",
+        "monopoly money (comment)"
+      ],
+      "final_query": "podcast discussion calling cryptocurrency speculative and risky; speaker debates crypto value vs benefits",
+      "notes": "Comment's quoted phrase 'monopoly money' is the user's opinion but not present in captions; retrieval uses grounded captions about crypto being speculative and someone noting benefits. Visual framing is generic, so visual_query left empty.",
+      "input_tokens_est": 2089,
+      "output_tokens_est": 537,
+      "generated_at": "2026-04-27T19:44:23.839429"
+    }
+  ]
+}

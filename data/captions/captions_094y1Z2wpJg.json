@@ -1,0 +1,610 @@
+{
+  "video_id": "094y1Z2wpJg",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "processing_time": 5229.718509197235,
+  "comments": [
+    {
+      "comment_index": 3410,
+      "video_id": "094y1Z2wpJg",
+      "comment": "3:17 I like how the 4-2-1 sequence animation is accompanied with a melody whose notes match the distance between numbers.",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 809.0,
+      "comment_timestamp": 197.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "188.0s - 194.0s",
+          "query": "VISUAL: There's a graph with red lines showing some kind of data trend over time. The background seems to be an abstract image that could represent water or something similar. There are also some blue markers on the graph indicating different values.AUDIO: A man is speaking. He says \"it too falls back to the ground in total it takes a hundred and eleven steps.\".If you have any other thoughts about this video or want to discuss more, feel free to let me know!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "194.0s - 200.0s",
+          "query": "VISUAL: There's a wavy red line on a textured background that looks like water or some kind of surface with ripples. Then it transitions to a dark blue screen with numbered circles connected by arrows forming a loop. The numbers go from 1 to 8 and then back to 1 again.AUDIO: A man is speaking. He says \"for twenty seven to get down to one and end up in the four two one loop.\" It seems like he might be explaining something related to the visuals, maybe about a process or sequence.If you want to talk more about what you think these visuals and words could mean, feel free to share your thoughts!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "200.0s - 206.0s",
+          "query": "VISUAL: The video shows a series of numbered circles connected by arrows on a dark background. Some numbers like 4 appear multiple times, while others like 16 only once. There's also a graph with dots and lines connecting them, showing different iterations for values like N = 13 and N = 15.AUDIO: A man is speaking about how different numbers vary widely even when they're right next to each other. He seems to be explaining something related to these numbers and their variations.If you want to know more about what he might be explaining specifically or have any other thoughts, feel free to share!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 307.0847089290619
+    },
+    {
+      "comment_index": 3411,
+      "video_id": "094y1Z2wpJg",
+      "comment": "16:04 thats an oddly fractal looking pattern that forms on that graph of primes. i'd be interested to see that animation keep scaling up and up and up and see if that pattern itself repeats itself at all or keeps on getting more complex",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 761.0,
+      "comment_timestamp": 964.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "955.0s - 961.0s",
+          "query": "VISUAL: There's a blue grid pattern on a dark background. Numbers like \"79/8329\" and percentages such as \"1.5%\" appear next to it. The numbers change slightly over time.AUDIO: A man is speaking about how most numbers aren't perfect squares and that the fraction of non - perfect square numbers approaches one. It seems like he's explaining some mathematical concept.If you have any thoughts or questions about this analysis, feel free to share!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "961.0s - 967.0s",
+          "query": "VISUAL: There's a blue grid with dots on it. To the right, there's some text showing \"100/10000\" and \"1%\". The numbers seem to be changing slightly over time.AUDIO: A man is speaking about something related to infinity and perfect squares. It seems like he's explaining or teaching something."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "967.0s - 973.0s",
+          "query": "VISUAL: There's a grid with dots on it against a dark background. To the right, there's some math notation showing \"100/10000\" which equals \"1%\". The scene then cuts to a man talking directly to the camera. He has short hair and is wearing a black shirt. Behind him, there are framed butterfly pictures on the wall, a globe, books, and other items on shelves. The lighting seems warm and cozy.AUDIO: A male voice speaks throughout the video. It starts with discussing perfect squares and their locations, mentioning testing numbers up to two to the sixth power. Then he continues talking about something related to these concepts."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 282.95392775535583
+    },
+    {
+      "comment_index": 3412,
+      "video_id": "094y1Z2wpJg",
+      "comment": "15:03 using 3x+1 in the negatives would be equivalent to using 3x-1 in positive. The same different loops would be found there too",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 628.0,
+      "comment_timestamp": 903.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "894.0s - 900.0s",
+          "query": "VISUAL: The video shows a series of numbered circles arranged vertically on a dark background. There are also some curved lines connecting these circles. The numbers seem to be decreasing as they go down. Some circles have arrows pointing from one circle to another.AUDIO: A man is speaking about \"loops\" and mentions that there are three independent loops of numbers starting at low values like negative two. He uses terms like \"negative five\", \"negative seven\", etc. during his explanation.If you want to talk more about this or have other questions related to it, feel free to let me know!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "900.0s - 906.0s",
+          "query": "VISUAL: The video shows a dark background with white circles containing numbers like -5, -7, etc. There are blue arrows connecting these circles in different directions. Some circles seem to be part of loops that aren't connected to others.AUDIO: A male voice is speaking throughout the video, but it's not clear what he's saying specifically. It could be some kind of narration or explanation related to the visuals.What do you think about the disconnected loops? Do you have any ideas on why they might exist?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "906.0s - 912.0s",
+          "query": "VISUAL: The video shows a graph with dots connected by lines on a dark background. There's also some text like \"Number reached\" and \"Seed.\" It seems to be related to data or mathematical concepts.AUDIO: Someone is speaking about the negative side of a number line and not being on the positive side. They mention it's one of the most convincing pieces of evidence. It sounds like they're explaining something important.If you want to talk more about what you saw or heard, feel free to share!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 257.5245883464813
+    },
+    {
+      "comment_index": 3413,
+      "video_id": "094y1Z2wpJg",
+      "comment": "\"Then in 2019, one of the world's greatest living mathematicians\" shows picture of himself followed by Terence Tao 12:35",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 616.0,
+      "comment_timestamp": 755.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "746.0s - 752.0s",
+          "query": "VISUAL: There's a graph with an x-axis labeled \"Seed\" and a y-axis labeled \"Number reached.\" The year 1994 is displayed at the top right corner. A curve is shown on the graph along with some scattered dots that seem to follow it. The curve has the equation \"y = x^0.7925\" written next to it.AUDIO: Someone is speaking about numbers going to infinity and fractions under a curve approaching one. It seems like they're explaining something related to math or data analysis.If you have any thoughts or questions about this, feel free to share!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "752.0s - 758.0s",
+          "query": "VISUAL: The video shows a graph with a line representing an equation on it. There's also a photo of two men smiling. One is wearing a suit and tie, while the other has glasses and a pink shirt.AUDIO: Someone is speaking about Terry Tao in 2019. It seems to be a narration or explanation related to him being one of the world's greatest living mathematicians.If you have any thoughts or questions about this, feel free to share!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "758.0s - 764.0s",
+          "query": "VISUAL: There's a photo of two men smiling at the camera. One is wearing a suit with a tie, and the other has glasses on and is in a pink shirt. The background looks like it could be an indoor setting with some wooden elements.AUDIO: Someone is speaking about showing that \"3x + 1\" obeys even stricter criteria. It seems to be related to some kind of mathematical or scientific explanation.If you want to talk more about this video or have any other questions, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 259.8602910041809
+    },
+    {
+      "comment_index": 3414,
+      "video_id": "094y1Z2wpJg",
+      "comment": "12:40 \"One of the world's greatest mathematicians\" -- shows his own face first and then slowly reveals Terry Tao",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 508.0,
+      "comment_timestamp": 760.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "751.0s - 757.0s",
+          "query": "VISUAL: There's a graph with a line on it. The x - axis is labeled \"Seed\" and the y - axis \"Number reached.\" A formula \"y = x^0.7925\" is shown next to the line. The year \"1994\" appears at the top right corner. Then the year changes to \"2009\". AUDIO: Someone is speaking about going to one place in 2019 and mentions something about the world's greatest living mathematician. What do you think about that?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "757.0s - 763.0s",
+          "query": "VISUAL: There are two men smiling at the camera. One is wearing a gray suit with a black tie, and the other has glasses on and is in a pink shirt. They seem to be posing for a photo.AUDIO: A man's voice is speaking about some mathematical concepts related to \"3x + 1\" obeying stricter criteria. It's just his voice talking without any background music or sound effects.If you want to know more about this video or have other questions, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "763.0s - 769.0s",
+          "query": "VISUAL: There's a graph with dots scattered on it. The x - axis is labeled \"Seed\" and the y - axis \"Number reached.\" There are two lines on the graph, one labeled \"y = x^0.7925\" and another \"y = f，x，\". The dots seem to follow these curves.AUDIO: Someone is speaking about numbers ending up smaller than an arbitrary function f. It's just their voice, no other sounds like music or background noise.If you want to talk more about this or have any other questions, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 246.12106561660767
+    },
+    {
+      "comment_index": 3415,
+      "video_id": "094y1Z2wpJg",
+      "comment": "19:46 \"If anything it shows that all the things that we can solve, are miracles. We have no right to have solutions to all these other problems.\" -Prof. Alex Kontorovich 2021",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 466.0,
+      "comment_timestamp": 1186.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1177.0s - 1183.0s",
+          "query": "VISUAL: There's a man with a bald head wearing a light purple shirt. He seems to be talking or reacting to something. The background has some shelves filled with books and other items, and there's a painting on the wall.AUDIO: Someone is speaking, saying \"stupid little problem come on really we can't solve this really.\" It sounds like they're frustrated about a small issue that they think should be easy to fix.If you have any more questions about it or want to discuss something else related, feel free to let me know!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1183.0s - 1189.0s",
+          "query": "VISUAL: A man is standing in front of a bookshelf filled with books. He's wearing a light purple shirt. There's also a painting on the wall behind him.AUDIO: Someone is speaking about how math is hard and that it shows all the things we do. It seems to be a casual conversation or explanation.If you have any other thoughts or questions about the video, feel free to share!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1189.0s - 1195.0s",
+          "query": "VISUAL: There's a bald man wearing a light purple shirt standing indoors. He seems to be talking or explaining something. The background shows some books on shelves and a painting with warm colors hanging on the wall.AUDIO: A male voice is speaking, saying \"We can solve our miracles we have no right to have solutions to all these other problems.\" It's just his voice without any music or sound effects. So, what do you think about this? Do you agree with what he said?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 240.1681525707245
+    },
+    {
+      "comment_index": 3416,
+      "video_id": "094y1Z2wpJg",
+      "comment": "12:35 \"One of the world's greatest living mathematicians\" with the Derek's picture at first! Well played! LOL!",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 459.0,
+      "comment_timestamp": 755.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "746.0s - 752.0s",
+          "query": "VISUAL: There's a graph with an x-axis labeled \"Seed\" and a y-axis labeled \"Number reached.\" The year 1994 is displayed at the top right corner. A curve is shown on the graph along with some scattered dots that seem to follow it. The curve has the equation \"y = x^0.7925\" written next to it.AUDIO: Someone is speaking about numbers going to infinity and fractions under a curve approaching one. It seems like they're explaining something related to math or data analysis.If you have any thoughts or questions about this, feel free to share!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "752.0s - 758.0s",
+          "query": "VISUAL: The video shows a graph with a line representing an equation on it. There's also a photo of two men smiling. One is wearing a suit and tie, while the other has glasses and a pink shirt.AUDIO: Someone is speaking about Terry Tao in 2019. It seems to be a narration or explanation related to him being one of the world's greatest living mathematicians.If you have any thoughts or questions about this, feel free to share!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "758.0s - 764.0s",
+          "query": "VISUAL: There's a photo of two men smiling at the camera. One is wearing a suit with a tie, and the other has glasses on and is in a pink shirt. The background looks like it could be an indoor setting with some wooden elements.AUDIO: Someone is speaking about showing that \"3x + 1\" obeys even stricter criteria. It seems to be related to some kind of mathematical or scientific explanation.If you want to talk more about this video or have any other questions, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 252.058691740036
+    },
+    {
+      "comment_index": 3417,
+      "video_id": "094y1Z2wpJg",
+      "comment": "12:33 \"The world's greatest mathematician...\" Well done Derek, well done! 🤣",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 392.0,
+      "comment_timestamp": 753.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "744.0s - 750.0s",
+          "query": "VISUAL: There's a graph with \"Seed\" on the x - axis and \"Number reached\" on the y - axis. The year 1994 is displayed at the top right corner. A dotted line shows data points scattered around it, and there's an equation \"y = x^0.7925\" next to the line.AUDIO: Someone is speaking about fractions approaching infinity. They mention that as numbers go to infinity, the fraction ends up being something specific, though they don't say what it is yet.If you have any thoughts or questions about this, feel free to share!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "750.0s - 756.0s",
+          "query": "VISUAL: There's a graph with an equation \"y = x^0.7925\" on it. The years change from 1994 to 2019. The graph shows dots that seem to follow a curve. There's also a number \"1\" appearing under the curve at some point.AUDIO: Someone is speaking about something related to the year 2019 and mentions \"one of the world's greatest.\" But the exact context isn't clear just from these few seconds.What do you think might be happening in the video? It'd be interesting to hear your thoughts!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "756.0s - 762.0s",
+          "query": "VISUAL: The video shows two men smiling at the camera. One is wearing a gray suit with a black tie, and the other is in a pink shirt with glasses. They seem to be posing for a photo together.AUDIO: There's a voiceover saying something about Terry Tao showing that \"3x + 1\" obeys even stricter criteria. It's just speech without any background music or sound effects.If you have any more questions about it or want to discuss something else related, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 267.3555748462677
+    },
+    {
+      "comment_index": 3418,
+      "video_id": "094y1Z2wpJg",
+      "comment": "Derek’s face throughout the whole video as he listens to the explanations: 🐰    Timestamps: | 2:14 | 3:50 | 3:56 | 13:54 | 19:35 |",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 373.0,
+      "comment_timestamp": 834.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "825.0s - 831.0s",
+          "query": "VISUAL: There's a man with a bald head wearing a light purple shirt standing in front of a bookshelf filled with books. He seems to be talking or explaining something. The background also has some paintings on the wall.AUDIO: Someone is speaking about trying to prove something but couldn't get it to work, then found a counterexample and realized something. It sounds like they're discussing a problem - solving situation.If you have any other thoughts or questions about this video, feel free to share!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "831.0s - 837.0s",
+          "query": "VISUAL: A man is standing indoors, wearing a light purple shirt. He has short hair and is smiling while talking. There's a bookshelf with books on it to his right, and a painting hanging on the wall behind him. The room looks like an office or study area.AUDIO: Someone is speaking about proving a correct statement that should have been made earlier, and then mentions spending more energy on something. It seems like they're discussing some kind of academic or research topic.If you want to talk more about this video or anything else related, feel free to let me know!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "837.0s - 843.0s",
+          "query": "VISUAL: A man is standing indoors, wearing a light purple shirt. He's talking directly to the camera. Behind him, there's a bookshelf with books and some colorful objects on it. There's also a painting or photo on the wall.The scene then changes to an animation showing a graph over a snowy mountain landscape. The graph has lines and numbers like \"13077mm\" and \"8849m\". The mountains have snow-covered peaks.AUDIO: Someone is speaking about looking for counterexamples and mentioning how the number 27 grows all the way to 9. It seems to be a discussion related to math or data analysis.What do you think about these two parts? Do you want me to explain more about any specific part?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 327.8857753276825
+    },
+    {
+      "comment_index": 3419,
+      "video_id": "094y1Z2wpJg",
+      "comment": "14:46 thats basically 3x \"-\" 1 and divide by 2 in positive numbers  If you want the same effect Use 3x-1 for odd and ÷2 for even  The effect is different because +1 adds up for the postive numbers but subtracts out for the negative numbers If you apply 3x-1 in the postive side you will find 3 loops there too",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 333.0,
+      "comment_timestamp": 886.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "877.0s - 883.0s",
+          "query": "VISUAL: The video shows a complex network diagram with nodes connected by lines. The nodes have numbers on them. It looks like some nodes might be part of a loop not connected to the main graph.AUDIO: There's someone speaking about these nodes possibly being part of a loop that isn't linked to the main graph. They mention there seems to be only one such loop for two nodes.If you want to talk more about this or have other questions related to it, feel free to ask!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "883.0s - 889.0s",
+          "query": "VISUAL: The video shows a dark background with blue dots connected by lines forming a network-like structure. There's also a small white circle with numbers inside it that seems to be moving or changing. AUDIO: A man is speaking about something strange happening when negative numbers are included. He mentions applying something. What do you think he might be talking about?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "889.0s - 895.0s",
+          "query": "VISUAL: The video shows two sets of numbers arranged vertically on a dark background. One set has positive numbers like 4, 2, 1, while the other has negative numbers starting from -1 and going down to -37. There are arrows connecting some of these numbers, suggesting a sequence or relationship between them.AUDIO: A male voice is speaking about the \"same 3x + 1 rules\" and mentions that there isn't just one loop or two loops, but something else related to these rules. It's not clear what he means by \"something else.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 241.15563106536865
+    },
+    {
+      "comment_index": 3420,
+      "video_id": "094y1Z2wpJg",
+      "comment": "12:35 \"one of the world's greatest mathematicians\" that's a bit narcissis- oh",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 265.0,
+      "comment_timestamp": 755.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "746.0s - 752.0s",
+          "query": "VISUAL: There's a graph with an x-axis labeled \"Seed\" and a y-axis labeled \"Number reached.\" The year 1994 is displayed at the top right corner. A curve is shown on the graph along with some scattered dots that seem to follow it. The curve has the equation \"y = x^0.7925\" written next to it.AUDIO: Someone is speaking about numbers going to infinity and fractions under a curve approaching one. It seems like they're explaining something related to math or data analysis.If you have any thoughts or questions about this, feel free to share!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "752.0s - 758.0s",
+          "query": "VISUAL: The video shows a graph with a line representing an equation on it. There's also a photo of two men smiling. One is wearing a suit and tie, while the other has glasses and a pink shirt.AUDIO: Someone is speaking about Terry Tao in 2019. It seems to be a narration or explanation related to him being one of the world's greatest living mathematicians.If you have any thoughts or questions about this, feel free to share!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "758.0s - 764.0s",
+          "query": "VISUAL: There's a photo of two men smiling at the camera. One is wearing a suit with a tie, and the other has glasses on and is in a pink shirt. The background looks like it could be an indoor setting with some wooden elements.AUDIO: Someone is speaking about showing that \"3x + 1\" obeys even stricter criteria. It seems to be related to some kind of mathematical or scientific explanation.If you want to talk more about this video or have any other questions, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 273.3352241516113
+    },
+    {
+      "comment_index": 3421,
+      "video_id": "094y1Z2wpJg",
+      "comment": "12:35 \"the world's greatest mathematicians\" I thought he was talking about him self lol",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 253.0,
+      "comment_timestamp": 755.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "746.0s - 752.0s",
+          "query": "VISUAL: There's a graph with an x-axis labeled \"Seed\" and a y-axis labeled \"Number reached.\" The year 1994 is displayed at the top right corner. A curve is shown on the graph along with some scattered dots that seem to follow it. The curve has the equation \"y = x^0.7925\" written next to it.AUDIO: Someone is speaking about numbers going to infinity and fractions under a curve approaching one. It seems like they're explaining something related to math or data analysis.If you have any thoughts or questions about this, feel free to share!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "752.0s - 758.0s",
+          "query": "VISUAL: The video shows a graph with a line representing an equation on it. There's also a photo of two men smiling. One is wearing a suit and tie, while the other has glasses and a pink shirt.AUDIO: Someone is speaking about Terry Tao in 2019. It seems to be a narration or explanation related to him being one of the world's greatest living mathematicians.If you have any thoughts or questions about this, feel free to share!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "758.0s - 764.0s",
+          "query": "VISUAL: There's a photo of two men smiling at the camera. One is wearing a suit with a tie, and the other has glasses on and is in a pink shirt. The background looks like it could be an indoor setting with some wooden elements.AUDIO: Someone is speaking about showing that \"3x + 1\" obeys even stricter criteria. It seems to be related to some kind of mathematical or scientific explanation.If you want to talk more about this video or have any other questions, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 244.31280136108398
+    },
+    {
+      "comment_index": 3422,
+      "video_id": "094y1Z2wpJg",
+      "comment": "1:23 haha I just realized, the musical notes for \"4 2 1\" are 2 semitones, then 1 semitone apart!  4-2 = 2, 2-1 = 1. E.g. \"Sol Fa Mi\". Genius sound editing!",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 247.0,
+      "comment_timestamp": 83.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "74.0s - 80.0s",
+          "query": "VISUAL: The video shows a series of numbers connected by arrows on a dark background. There's a calculation process displayed with numbers like 5, 10, 15, 16, etc., and operations such as multiplication, addition, division. The numbers change as the calculations progress.AUDIO: A man is speaking throughout the video, explaining the math steps clearly. He says things like \"multiply by three fifteen add one sixteen divide by two that's eight and then four.\" It seems to be an educational or instructional video about solving mathematical problems.If you have any other thoughts or questions about this video, feel free to share!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "80.0s - 86.0s",
+          "query": "VISUAL: The video shows numbers connected by arrows on a dark background. It starts with 16, then goes to 8, 4, 2, and finally 1. There's also an equation shown next to some numbers like \"÷2\" and \"×3 + 1\". AUDIO: A man is speaking about odd numbers and multiplying them by three and adding one. He says it equals four. What do you think about that? Do you have any other questions related to this?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "86.0s - 92.0s",
+          "query": "VISUAL: There's a flowchart with numbers on circles connected by arrows. The numbers seem to be part of some process or sequence. The background is dark blue.AUDIO: Someone is speaking about numbers going from four to two to one, indicating they're in a loop, and mentioning that the lowest number is one.If you have any other thoughts or questions about it, feel free to share!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 262.64480805397034
+    },
+    {
+      "comment_index": 3423,
+      "video_id": "094y1Z2wpJg",
+      "comment": "12:34 I literally thought you said \"you are the world's greatest living mathematician\" 😂",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 210.0,
+      "comment_timestamp": 754.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "745.0s - 751.0s",
+          "query": "VISUAL: There's a graph with \"Seed\" on the x - axis and \"Number reached\" on the y - axis. The year 1994 is displayed at the top right corner. A curve labeled \"y = x^0.7925\" is shown along with scattered dots representing data points. The dots seem to follow the curve as they move towards infinity on the x - axis.AUDIO: Someone is speaking about fractions under a curve as numbers approach infinity. It seems like an explanation or narration related to the graph.What do you think about this? Do you have any other questions regarding it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "751.0s - 757.0s",
+          "query": "VISUAL: There's a graph with a line on it. The x - axis is labeled \"Seed\" and the y - axis \"Number reached.\" A formula \"y = x^0.7925\" is shown next to the line. The year \"1994\" appears at the top right corner. Then the year changes to \"2009\". AUDIO: Someone is speaking about going to one place in 2019 and mentions something about the world's greatest living mathematician. What do you think about that?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "757.0s - 763.0s",
+          "query": "VISUAL: There are two men smiling at the camera. One is wearing a gray suit with a black tie, and the other has glasses on and is in a pink shirt. They seem to be posing for a photo.AUDIO: A man's voice is speaking about some mathematical concepts related to \"3x + 1\" obeying stricter criteria. It's just his voice talking without any background music or sound effects.If you want to know more about this video or have other questions, feel free to ask!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 261.6355776786804
+    },
+    {
+      "comment_index": 3424,
+      "video_id": "094y1Z2wpJg",
+      "comment": "16:45 thank you for including an example where something was disproven by a massive number. I was curious if that had ever happen because so often I see mathematicians saying we don’t know for sure after checking a massive amount of digits/integers of a question so I was wondering if there was ever times a massive number disproved something.",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 209.0,
+      "comment_timestamp": 1005.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "996.0s - 1002.0s",
+          "query": "VISUAL: There's a graph with two lines on it - one blue labeled \"Odd kind\" and one yellow labeled \"Even kind\". The years 1919 and 1958 are shown at different points on the graph. The name \"C. Brian Haselgrove\" is also visible.AUDIO: Someone is speaking about C. Brian Haselgrove identifying a counterexample in 1958. They mention that something was proven false by him.What do you think about this? Do you have any other questions related to it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1002.0s - 1008.0s",
+          "query": "VISUAL: There's a graph with two lines on it - one blue labeled \"Odd kind\" and one yellow labeled \"Even kind\". The year 1958 is shown at the top right corner along with the name C. Brian Haselgrove. The graph has a dark background. AUDIO: Someone says \"Sparkable is the value of this counter example was 1.845 times 10 to the 361.\" It's just that spoken phrase without any other sounds or music. What do you think about this? Do you have any questions related to it?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1008.0s - 1014.0s",
+          "query": "VISUAL: A man is sitting at a table with papers and a pen in front of him. He's gesturing while speaking. Behind him, there are framed butterfly pictures on the wall, a globe, some books, and a lamp. The scene seems to be indoors, possibly an office or study room.AUDIO: There's a male voice speaking about numbers being \"10 to the 340 times bigger than all the numbers checked for 3x + 1.\".If you have any other questions about the video or want to discuss more details, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 255.53388857841492
+    },
+    {
+      "comment_index": 3425,
+      "video_id": "094y1Z2wpJg",
+      "comment": "12:36 You had us in the first half not gonna lie Jokes aside These type of videos somehow rekindles my love for learning which is being constantly died down by engineering syllabus",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 200.0,
+      "comment_timestamp": 756.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "747.0s - 753.0s",
+          "query": "VISUAL: There's a graph with an x-axis labeled \"Seed\" and a y-axis labeled \"Number reached.\" The year \"1994\" is displayed at the top right corner. A curve is shown on the graph along with some scattered data points. The curve has the equation \"y = x^0.7925\" written next to it.AUDIO: Someone says \"go to infinity the fraction that end up under the curve goes to one.\".If you have any other thoughts or questions about this video, feel free to share!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "753.0s - 759.0s",
+          "query": "VISUAL: The video shows a graph with a line representing an equation on it. There's also a photo of two men smiling. One is wearing a suit and tie, while the other has glasses and a pink shirt.AUDIO: Someone is speaking about Terry Tao in 2019. It seems to be related to his work or achievements in mathematics.If you want to know more about what was said specifically, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "759.0s - 765.0s",
+          "query": "VISUAL: There's a photo of two men smiling at the camera. One is wearing a suit with a tie, and the other has glasses on and is in a pink shirt. The background looks like it could be an indoor setting with wooden panels.AUDIO: A man is speaking about something related to math or science, mentioning \"3x + 1\" and \"almost all numbers.\" It seems like he's explaining some kind of mathematical concept.If you want to talk more about this video or have any other questions, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 243.17202877998352
+    },
+    {
+      "comment_index": 3426,
+      "video_id": "094y1Z2wpJg",
+      "comment": "I like how the animation at 15:50 actually draws out a bunch of parabolas as you're talking about perfect squares.",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 199.0,
+      "comment_timestamp": 950.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "941.0s - 947.0s",
+          "query": "VISUAL: There's a bar chart with dots on it against a dark background. The numbers \"31\" and \"1000\" appear next to the bar, along with \"3.1%\" below. The scene doesn't change much throughout the 6 seconds.AUDIO: A man is speaking about percentages related to numbers up to a thousand. He mentions that only 3.1% of these numbers have something specific, which isn't clear from just the visuals."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "947.0s - 953.0s",
+          "query": "VISUAL: There's a dark blue background with some kind of grid or pattern on it. On the right side, there are numbers changing - like \"31/1000\" then \"38/1549\", etc. And percentages next to them, like \"3.1%\", \"2.8%\", \"2.5%\". The numbers seem to be increasing while the percentages decrease.AUDIO: A man is speaking throughout the video. He says something about perfect squares and how their percentage becomes smaller as you go higher. It seems like he's explaining a mathematical concept.If you have any other thoughts or questions about this video, feel free to share!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "953.0s - 959.0s",
+          "query": "VISUAL: There's a blue grid pattern on a dark background. Numbers like \"50\", \"4701\", \"2.5%\", etc., appear next to it. The numbers change slightly over time.AUDIO: A man is speaking about fractions related to perfect squares. He says something like \"in the limit you could say almost all numbers are not perfect squares\" and mentions a fraction of numbers that are not perfect squares.So, what do you think about these findings? Do you have any other questions or thoughts?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 263.6789095401764
+    },
+    {
+      "comment_index": 3427,
+      "video_id": "094y1Z2wpJg",
+      "comment": "\"All of the things that we can solve are miracles\" 19:47  Yes, yes, yes.",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 183.0,
+      "comment_timestamp": 1187.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1178.0s - 1184.0s",
+          "query": "VISUAL: There's a man wearing a light purple shirt standing indoors. He has his hands raised slightly, palms facing up. The background shows some furniture like a bookshelf with books and other items on it, and there's a painting hanging on the wall.AUDIO: Someone is speaking, saying \"come on really we can't solve this really.\" It seems to be a bit frustrated or disappointed tone. What do you think about this? Do you have any ideas for how they could solve the problem?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1184.0s - 1190.0s",
+          "query": "VISUAL: There's a man with a bald head wearing a light purple shirt standing in front of a bookshelf filled with books. He seems to be talking or reacting to something. The background also has some paintings on the wall.AUDIO: A male voice is speaking about math being hard and how it shows that all things we can solve are mere approximations. It's just a short speech without any other noticeable sounds.If you have any more questions about this video or anything else, feel free to let me know!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1190.0s - 1196.0s",
+          "query": "VISUAL: A man is standing in front of a bookshelf filled with books. He's wearing a light purple shirt. There's also a painting on the wall behind him.AUDIO: Someone is speaking about having no right to solutions for other problems throughout their whole life.If you have any thoughts or questions about this analysis, feel free to share!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 204.5026752948761
+    },
+    {
+      "comment_index": 3428,
+      "video_id": "094y1Z2wpJg",
+      "comment": "12:36 He addressed to one of the world's greatest mathematicians and firstly showed his own pic 😂 I thought for a while \" woah! A mathematician and a physicists, all rolled into one!\"😂 Multifaceted!",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 172.0,
+      "comment_timestamp": 756.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "747.0s - 753.0s",
+          "query": "VISUAL: There's a graph with an x-axis labeled \"Seed\" and a y-axis labeled \"Number reached.\" The year \"1994\" is displayed at the top right corner. A curve is shown on the graph along with some scattered data points. The curve has the equation \"y = x^0.7925\" written next to it.AUDIO: Someone says \"go to infinity the fraction that end up under the curve goes to one.\".If you have any other thoughts or questions about this video, feel free to share!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "753.0s - 759.0s",
+          "query": "VISUAL: The video shows a graph with a line representing an equation on it. There's also a photo of two men smiling. One is wearing a suit and tie, while the other has glasses and a pink shirt.AUDIO: Someone is speaking about Terry Tao in 2019. It seems to be related to his work or achievements in mathematics.If you want to know more about what was said specifically, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "759.0s - 765.0s",
+          "query": "VISUAL: There's a photo of two men smiling at the camera. One is wearing a suit with a tie, and the other has glasses on and is in a pink shirt. The background looks like it could be an indoor setting with wooden panels.AUDIO: A man is speaking about something related to math or science, mentioning \"3x + 1\" and \"almost all numbers.\" It seems like he's explaining some kind of mathematical concept.If you want to talk more about this video or have any other questions, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 234.1738953590393
+    },
+    {
+      "comment_index": 3429,
+      "video_id": "094y1Z2wpJg",
+      "comment": "15:02 why negative numbers have three loops? Well, use positive numbers but change the function from 3x+1 to 3x-1 and you’ll get the same three loops.",
+      "language": "en",
+      "channel_name": "Veritasium",
+      "category": "knowledge",
+      "likes": 153.0,
+      "comment_timestamp": 902.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "893.0s - 899.0s",
+          "query": "VISUAL: The video shows a dark background with several white circles containing numbers arranged vertically. There are also blue arrows pointing between some of these circles, indicating connections or relationships between them. The numbers seem to be negative integers. AUDIO: A male voice is speaking about loops of numbers starting at different points. He mentions that there are three independent loops. It's not clear if he's talking about the same loops shown visually or something else related to the video content.If you have any other thoughts or questions about this video, feel free to share!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "899.0s - 905.0s",
+          "query": "VISUAL: The video shows a dark background with two vertical lines of numbered circles. There are arrows connecting some of these circles. The numbers range from negative values like -17 to positive ones like +37.AUDIO: A man is speaking about low values like minus seventeen and minus five, asking why there should be discontinuity at those points.If you have any other thoughts or questions about this video, feel free to share!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "905.0s - 911.0s",
+          "query": "VISUAL: The video shows a graph with dots connected by lines on a dark background. There's also a line labeled \"y = f，x，\" and another axis labeled \"Number reached.\" The dots seem to form some kind of pattern or relationship.AUDIO: A man is speaking about loops on the negative side of a number line but not on the positive side. He mentions something about a common question related to this topic.If you have any other thoughts or questions about this video, feel free to share!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 248.2398693561554
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "video_id": "Gu268yAE-W8",
+  "num_results": 3,
+  "results": [
+    {
+      "video_id": "Gu268yAE-W8",
+      "comment_index": 14918,
+      "category": "debate",
+      "comment_timestamp": 269.0,
+      "comment": "(suggestion: this Biblical verse: \"Don’t use foul or abusive language. Let everything you say be good and helpful, so that your words will be an encouragement to those who hear them.\" - Ephesians 4:29, New Living Translation version)",
+      "comment_focus_summary": "The commenter is suggesting a Biblical verse (Ephesians 4:29) to be quoted or used at that moment—i.e., they care about an exhortation about wholesome speech to be inserted or referenced.",
+      "comment_focus_keywords": [
+        "Ephesians 4:29",
+        "biblical verse",
+        "encouraging words",
+        "don't use foul language"
+      ],
+      "integrated_visual": "People sitting in interview-style chairs against a purple background; name caption 'Poornima Luthra' and a globe-like logo on screen.",
+      "integrated_audio": "Speakers discussing opportunities, culture, inclusion, and business/innovation topics; no distinctive music or sound effects noted.",
+      "grounded_visual_evidence": "Captions show interview framing: man in gray suit and orange tie; another person in blue blazer; woman identified as 'Poornima Luthra' with on-screen text and logo.",
+      "grounded_audio_evidence": "Captions state speakers are talking about opportunities, people, culture, inclusion, and tech/business; no quoted scripture or distinctive audio event.",
+      "visual_query": "Poornima Luthra interview purple background globe logo sitting on white chair",
+      "audio_query": "",
+      "primary_modality_hint": "visual",
+      "audio_subtype": "speech",
+      "visual_focus": "text_on_screen",
+      "audio_focus": "spoken_topic",
+      "focus_target": "Poornima Luthra on-screen ID / interview shot",
+      "modality_gate_reason": "The comment requests inserting/quoting a Bible verse, but the captions do not record that verse being spoken; the only verifiable cues are visual (on-screen name, interview framing), so retrieval should use visual identifiers. No audio evidence of the verse exists.",
+      "retrieval_keywords": [
+        "Poornima Luthra",
+        "purple background interview",
+        "globe logo lower right",
+        "white chair"
+      ],
+      "final_query": "Poornima Luthra interview purple background globe logo",
+      "notes": "The comment mentions a specific Bible verse, but captions contain no spoken scripture; audio_query left empty because the verse is not present in the provided captions. If user needs the verse insertion moment, it is not grounded in these segments.",
+      "input_tokens_est": 2257,
+      "output_tokens_est": 518,
+      "generated_at": "2026-04-27T19:15:49.968783"
+    },
+    {
+      "video_id": "Gu268yAE-W8",
+      "comment_index": 14917,
+      "category": "debate",
+      "comment_timestamp": 1770.0,
+      "comment": "The comments section restores my faith. Caplan Vs 3 panelists, 1 host, 10 students and Doha Debates. I.e.Notice how they edit in the actual studies against Caplan. Yet none of his studies are given the same treatment. I.e. 29:30 IQ research",
+      "comment_focus_summary": "The commenter is accusing the debate producers of selectively showing studies that counter Caplan while not showing similar treatment of Caplan's own studies (mentions '29:30 IQ research' as an example).",
+      "comment_focus_keywords": [
+        "editing bias",
+        "Caplan studies",
+        "shown studies",
+        "29:30 IQ research"
+      ],
+      "integrated_visual": "generic studio shot of a seated panelist in a gray suit and orange tie against a purple geometric backdrop; hands move and a clip-on microphone is visible.",
+      "integrated_audio": "panelist voice discussing why children resemble their parents and rejecting genetic explanations for education/income trends; no music or other sounds.",
+      "grounded_visual_evidence": "captions describe a man sitting on a white chair against a purple geometric backdrop, wearing glasses, gray suit, orange tie, with a visible clip-on microphone and slight hand movements.",
+      "grounded_audio_evidence": "captions state a man is speaking about education, income trends and that he doesn't believe genetic explanations are credible; specifically mentions discussion of why children resemble their parents.",
+      "visual_query": "",
+      "audio_query": "Caplan panelist rejects genetic explanations for education and income; discussion about why children resemble their parents",
+      "primary_modality_hint": "audio",
+      "audio_subtype": "speech",
+      "visual_focus": "none",
+      "audio_focus": "spoken_topic",
+      "focus_target": "panelist rejecting genetic explanations / children resemble parents",
+      "modality_gate_reason": "The claim in the comment concerns how studies are presented and specifically references spoken content about IQ/genetics; the captions provide speech paraphrases (topics/claims) while the visual scene is generic studio framing, so audio is the distinctive retrieval cue.",
+      "retrieval_keywords": [
+        "rejects genetic explanations",
+        "children resemble parents",
+        "education income genetics",
+        "Caplan study discussion",
+        "IQ research mention"
+      ],
+      "final_query": "Caplan debate segment where a panelist says children resemble their parents and rejects genetic explanations for education/income trends",
+      "notes": "The comment's claim about selective editing of studies is an interpretation and not directly supported by the provided captions. Captions support the spoken topic but do not show editing choices or the referenced '29:30' clip content; visual evidence is generic studio framing so visual_query left empty.",
+      "input_tokens_est": 2185,
+      "output_tokens_est": 609,
+      "generated_at": "2026-04-27T19:15:41.897729"
+    },
+    {
+      "video_id": "Gu268yAE-W8",
+      "comment_index": 14916,
+      "category": "debate",
+      "comment_timestamp": 3110.0,
+      "comment": "51:50 “It’s a eugenicist view that genetics can determine some qualities about a person” alright bro go play in the NBA then",
+      "comment_focus_summary": "The commenter is reacting to a speaker's line calling a view 'a eugenicist view' and mocking it by telling them to 'go play in the NBA' — i.e., they care about that spoken quote/claim.",
+      "comment_focus_keywords": [
+        "\"eugenicist view\"",
+        "speaker quote",
+        "mocking reply",
+        "NBA line"
+      ],
+      "integrated_visual": "Semi-circle discussion set with people on white chairs; one person standing; a woman in a blue floral hijab visible.",
+      "integrated_audio": "Woman says 'because it's a eugenicist view and it's very biased.' — a clear spoken line; no music or other notable sounds.",
+      "grounded_visual_evidence": "People sitting on white chairs in a semi-circle; one person standing; identifiable participant wearing blue hijab (Segment 1-3).",
+      "grounded_audio_evidence": "Direct caption of a woman saying 'because it's a eugenicist view and it's very biased.' (Segment 3).",
+      "visual_query": "",
+      "audio_query": "clip where a woman says \"it's a eugenicist view and it's very biased\" during a panel discussion",
+      "primary_modality_hint": "audio",
+      "audio_subtype": "speech",
+      "visual_focus": "none",
+      "audio_focus": "spoken_quote",
+      "focus_target": "woman saying 'it's a eugenicist view and it's very biased'",
+      "modality_gate_reason": "The comment centers on a specific spoken line which the captions explicitly provide; the visual scene is generic panel framing, so audio is the reliable retrieval cue.",
+      "retrieval_keywords": [
+        "eugenicist view quote",
+        "it's a eugenicist view",
+        "very biased line",
+        "panel discussion quote"
+      ],
+      "final_query": "woman says \"it's a eugenicist view and it's very biased\" panel discussion",
+      "notes": "Comment adds an unsourced mocking 'go play in the NBA' line not present in captions; retrieval focuses only on the grounded spoken quote.",
+      "input_tokens_est": 2178,
+      "output_tokens_est": 445,
+      "generated_at": "2026-04-27T19:15:33.834921"
+    }
+  ]
+}

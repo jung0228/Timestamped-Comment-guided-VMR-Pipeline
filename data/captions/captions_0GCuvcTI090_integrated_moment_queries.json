@@ -1,0 +1,641 @@
+{
+  "generated_queries": [
+    {
+      "comment_index": 963,
+      "video_id": "0GCuvcTI090",
+      "comment": "9:34 The reason why there are hardly any public trash cans in Japan is because of an incident that happened in 1995 where a cult called Aum Shinrikyo carried out a terrorist attack in Tokyo where they dropped canisters of lethal gas into public trash cans in subways, which killed 12 and left over 6,000 people injured. It's the worst terrorist attack in Japanese history and is the reason why public trash cans are nearly nonexistent in Japan.  Edit: Whoops, looks like there's already a comment about this. Oh well.",
+      "timestamp": "9:34",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903063",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 964,
+      "video_id": "0GCuvcTI090",
+      "comment": "10:28 Crossing the road on red light in Japan is the fastest way to visit another world.",
+      "timestamp": "10:28",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903085",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 965,
+      "video_id": "0GCuvcTI090",
+      "comment": "At 2:00 no one can sit and walk and drink at same time in the world",
+      "timestamp": "2:00",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903103",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 966,
+      "video_id": "0GCuvcTI090",
+      "comment": "3:50 Technically the rule isn't \"don't use your phone\", but \"don't talk loudly on your phone, or in general.\"",
+      "timestamp": "3:50",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903121",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": [
+          "don't use your phone",
+          "don't talk loudly on your phone, or in general."
+        ]
+      }
+    },
+    {
+      "comment_index": 967,
+      "video_id": "0GCuvcTI090",
+      "comment": "8:55  そこまでしなくて良いでしょうに。 少なくとも見た目で外国の人だって分かるんだから😢 Don't be scare. That case is extremely rare. Many Japanese take care when they know that they are foreigners.",
+      "timestamp": "8:55",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903137",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 968,
+      "video_id": "0GCuvcTI090",
+      "comment": "8:54 Nice Kimi No Na Wa (Your Name) reference!!",
+      "timestamp": "8:54",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903168",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 969,
+      "video_id": "0GCuvcTI090",
+      "comment": "4:39 - Every time I hear about Japan and business cards, I can't help but think about the film American Psycho and the handful of scenes involving the business cards.",
+      "timestamp": "4:39",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903198",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 970,
+      "video_id": "0GCuvcTI090",
+      "comment": "10:42  in brazil the DRIVERS are the ones that doesn't care if the semaphore is red or not so we kind of need to run and cross the street whenever we can",
+      "timestamp": "10:42",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903230",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 971,
+      "video_id": "0GCuvcTI090",
+      "comment": "10:27 I read about this somewhere.  Apparently one of the reasons why Japanese don't break rules (including this one) is because of the saying \"it takes a village to raise a child.\"  It means that the whole community needs to cooperate with each other to give good moral examples to kids.  So if there's a kid around watching you disobey the law (in this case, crossing on a red) he/she might try to disobey the law too.",
+      "timestamp": "10:27",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903246",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": [
+          "it takes a village to raise a child."
+        ]
+      }
+    },
+    {
+      "comment_index": 972,
+      "video_id": "0GCuvcTI090",
+      "comment": "5:15  \"Oh my god, it even has a watermark.\"",
+      "timestamp": "5:15",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903280",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": [
+          "Oh my god, it even has a watermark."
+        ]
+      }
+    },
+    {
+      "comment_index": 973,
+      "video_id": "0GCuvcTI090",
+      "comment": "8:00  When he said “maybe my cat is dead” I’m pretty sure he was asking you if dead pets still count as a pet",
+      "timestamp": "8:00",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903312",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 974,
+      "video_id": "0GCuvcTI090",
+      "comment": "6:29 hand drying facilities have the most bacterias in the whole bathroom, so it’s a hygiene measure if you don’t have some, particularly they aren‘t really neccesary. ;)",
+      "timestamp": "6:29",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903328",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 975,
+      "video_id": "0GCuvcTI090",
+      "comment": "6:46 oh!!!! So that's why those exchange students from Japan that came to our school were very awkward when I shook the hands. I've tried bowing before, I look stupid when doing it XD",
+      "timestamp": "6:46",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903359",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 976,
+      "video_id": "0GCuvcTI090",
+      "comment": "At 8:55 she is Grandma of mitsuha of Kimi no na wa movie isn't she?",
+      "timestamp": "8:55",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903375",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 977,
+      "video_id": "0GCuvcTI090",
+      "comment": "The first day I was in Tokyo I had to meet some Japanese collegues at 11 am in the hotel's lobby, and I DID mean to be there on the dot. But all the lifts were engaged and I had to wait a tiny bit of time, and got to the lobby at 11:01... they were already panicking, being sure something terrible must've happened to me...",
+      "timestamp": "11:01",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903397",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 978,
+      "video_id": "0GCuvcTI090",
+      "comment": "3:54 says to turn of your phone...the person in the background is on their phone",
+      "timestamp": "3:54",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903413",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 979,
+      "video_id": "0GCuvcTI090",
+      "comment": "5:31 Well... some folk like inserting a physical extension of someone into their backside ;)",
+      "timestamp": "5:31",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903444",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 980,
+      "video_id": "0GCuvcTI090",
+      "comment": "7:52 I think he said: ‘Maybe, my cat is dead.’ He just don’t know if that count as having pet",
+      "timestamp": "7:52",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903467",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 981,
+      "video_id": "0GCuvcTI090",
+      "comment": "3:54 i hate in London buses people talking on phone",
+      "timestamp": "3:54",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903485",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 982,
+      "video_id": "0GCuvcTI090",
+      "comment": "11:34 - 'DON'T!!'. Bahahaha. YESSS! I love this type of humour, so so sooooo much. That made my night, Chris. Thanks.",
+      "timestamp": "11:34",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.903514",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    }
+  ],
+  "processing_info": {
+    "total_comments": 20,
+    "processed_queries": 20,
+    "generated_at": "2025-10-24T16:44:58.903518"
+  },
+  "statistics": {
+    "visual_queries": 0,
+    "audio_queries": 0,
+    "unrelated_queries": 20
+  }
+}

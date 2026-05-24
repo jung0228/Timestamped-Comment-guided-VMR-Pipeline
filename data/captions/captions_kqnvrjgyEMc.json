@@ -1,0 +1,609 @@
+{
+  "video_id": "kqnvrjgyEMc",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 1233,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "\"Faster internet for FREE in 30 seconds\" Video length: 8:42",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 536.0,
+      "comment_timestamp": 522.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "513.0s - 519.0s",
+          "query": "VISUAL: There's a yellow background with three sections labeled \"MERCH\", \"SOCIAL\", and \"BUY STUFF\". Under \"MERCH\" is an image of two black t - shirts. Under \"SOCIAL\" is a Twitter logo. Under \"BUY STUFF\" is a shopping cart icon. A man appears in a smaller frame at the bottom center, talking. The scene doesn't change much throughout the video.AUDIO: Someone is speaking about putting something like a network card down there and mentioning their merch store which has cool shirts. There's also some background music playing. What do you think about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "519.0s - 525.0s",
+          "query": "VISUAL: The video shows a man with short hair against a yellow background. There's some text on the left side listing names like Linus Sebastian, James Strieb, and others. It seems to be an ending screen or credits for a show or video. The man is looking directly at the camera, probably thanking viewers for watching.AUDIO: The audio has a male voice saying \"this one and our community forum which you should totally join.\" It's a casual, friendly tone, likely aimed at engaging the audience and encouraging them to participate in the community.What do you think about the way they're promoting their community?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "525.0s - 531.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 305.6792552471161
+    },
+    {
+      "comment_index": 1234,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "3:29 linus says Enter but hits letter E.",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 169.0,
+      "comment_timestamp": 209.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "200.0s - 206.0s",
+          "query": "VISUAL: A person is holding up a whiteboard with a diagram about DNS. The diagram shows different root servers like A.ROOT, B.ROOT, M.ROOT, and some TLDs like .COM, .ORG, .NET. There's also mention of authoritative name servers and IP addresses. The background has a blue wall with a painting and some plants on shelves.AUDIO: Someone is speaking about how DNS works, mentioning that it's stored on servers worldwide for multiple registrars. It seems to be explaining why we need DNS. So, what do you think about DNS? Do you have any other questions related to it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "206.0s - 212.0s",
+          "query": "VISUAL: A person is pointing at a whiteboard with a diagram about DNS. The diagram shows different levels like root servers, TLDs, authoritative name servers, and IP addresses. There's also a computer screen visible in the background showing a website called \"linustechtips\". The room has some plants and decorations.AUDIO: Someone is speaking, saying something about using a service to look up correct IP addresses after pressing enter. It seems related to networking or internet stuff.If you want to know more about what was said or any other details from the video, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "212.0s - 218.0s",
+          "query": "VISUAL: There's a man in front of a computer screen with \"linustechtips\" on it. He's wearing a black t - shirt and gesturing with his hands while talking. The background has some plants and a bulletin board with pictures.AUDIO: A male voice is speaking about not being able to start loading a page until knowing where it is using a slow overlook. It seems like he's explaining something technical.If you have any other thoughts or questions about this video, feel free to share!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 273.4240343570709
+    },
+    {
+      "comment_index": 1235,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "1:52 \"We're gonna have that linked below\".... Will you now? Gee, it'd be great to do the things you say you will! Instead of a link on buying \"internet\" on Amazon",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 91.0,
+      "comment_timestamp": 112.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "103.0s - 109.0s",
+          "query": "VISUAL: A guy is standing in front of a computer screen with a website open on it. He's wearing a black t - shirt and talking while gesturing with his hands. The background shows some office items like a plant and a bookshelf.AUDIO: There's a man speaking clearly throughout the clip. No other distinct sounds or music are heard.If you want to know more about the content he might be discussing, feel free to ask!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "109.0s - 115.0s",
+          "query": "VISUAL: The video shows a Windows 10 desktop with an open Control Panel window focused on Network and Internet settings. There's a colorful abstract background behind it. The mouse cursor moves around, clicking on different network connection options.AUDIO: A man is speaking about step - by - step instructions for devices available on a website, which he says will be linked below. He speaks clearly and at a normal pace.If you have any other questions or need more details, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "115.0s - 121.0s",
+          "query": "VISUAL: The video shows a Windows 10 desktop with an open Network Connections window. There's a Wi-Fi connection named \"Killer Wireless n/a/s\" highlighted. A pop - up window for \"Internet Protocol Version 4 TCP/IPv4 Properties\" is also visible. The background has a colorful abstract design. AUDIO: Someone says, \"But for your convenience we've also included screen capture for the most popular platforms they're all.\" It seems like it's explaining some feature or service related to screen capturing on different platforms. What do you think about these features?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 249.43183040618896
+    },
+    {
+      "comment_index": 1236,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "So essentially a 8:42 ad, classic -_-",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 83.0,
+      "comment_timestamp": 522.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "513.0s - 519.0s",
+          "query": "VISUAL: There's a yellow background with three sections labeled \"MERCH\", \"SOCIAL\", and \"BUY STUFF\". Under \"MERCH\" is an image of two black t - shirts. Under \"SOCIAL\" is a Twitter logo. Under \"BUY STUFF\" is a shopping cart icon. A man appears in a smaller frame at the bottom center, talking. The scene doesn't change much throughout the video.AUDIO: Someone is speaking about putting something like a network card down there and mentioning their merch store which has cool shirts. There's also some background music playing. What do you think about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "519.0s - 525.0s",
+          "query": "VISUALS: In the video clip, there is a man with short brown hair wearing a black shirt. He appears to be speaking directly to the camera against a yellow background. The text on the screen includes credits for various roles like host, writer, editor, etc., along with their names and social media handles. The text also says \"THANKS FOR WATCHING\" at the top. There's no other significant action or movement in the scene.AUDIO: The audio consists of a male voice speaking English. The speaker seems to be addressing the viewers, possibly thanking them for watching and encouraging them to join a community forum. The tone is friendly and inviting. What do you think about the content? Do you have any thoughts on it?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "525.0s - 531.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 193.0575816631317
+    },
+    {
+      "comment_index": 1237,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "5:36 \"Aviv Tel\". Really? smh",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 79.0,
+      "comment_timestamp": 336.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "327.0s - 333.0s",
+          "query": "VISUAL: There's a man in a black t - shirt with \"linustechtips\" on it. He's standing in front of a computer monitor that shows the linustechtips website. The background has some plants, books, and other office items. He seems to be talking and gesturing with his hands.AUDIO: A male voice is speaking about having every user within ten milliseconds of at least one. It's just speech without any music or sound effects.If you want to talk more about this video or have other questions, feel free to let me know."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "333.0s - 339.0s",
+          "query": "VISUAL: A man is sitting at a desk with a computer monitor behind him. He's wearing a black shirt and gesturing with his hands while talking. There's a whiteboard on the wall next to him with some writing on it. The room has a plant and some decorations on the wall.AUDIO: Someone is speaking about enabling new data centers all over the world in March. It seems like they're discussing business or technology related stuff.If you want to talk more about this video or have other questions, feel free to let me know!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "339.0s - 345.0s",
+          "query": "VISUAL: The video shows a document titled \"Aggressive Use of DNSSEC-Validated Cache\" from the Internet Engineering Task Force. It has an abstract section explaining how DNS relies on caching for scalability but requires exact matches. The document discusses using NSEC/NSEC3 records to generate negative answers within a range and positive answers from wildcards. There's also mention of increasing performance, decreasing latency, and resource utilization.\n\nAUDIO: A male voice speaks about using fancy query techniques like aggressive negative caching to decrease system load."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 288.2012515068054
+    },
+    {
+      "comment_index": 1238,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "Hahahaha oh wow, Dennis googling himself and his reaction is priceless. 6:55",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 57.0,
+      "comment_timestamp": 415.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "406.0s - 412.0s",
+          "query": "VISUAL: There's a guy sitting at a desk with two monitors. On one monitor, there's a video call interface showing multiple people. The other monitor has some kind of software or app open. There's also a blackboard on the wall behind him with some writing on it. He seems to be working on something related to query minimization.AUDIO: A male voice is speaking about using query minimization to only reveal necessary data for completing queries.So, what do you think about that? Any thoughts or questions?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "412.0s - 418.0s",
+          "query": "VISUAL: A man is sitting at a desk with a computer monitor showing multiple images. There's a blackboard on the wall behind him with some writing on it. The room has a lamp, a small plant, and other items on the desk.AUDIO: Someone is speaking about query minimization, DNS - over - TLS, and DNS - over - HTTPS. It seems to be related to privacy standards.If you want to talk more about this or have any other questions, feel free to let me know."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "418.0s - 424.0s",
+          "query": "VISUAL: There's a guy sitting at a desk with a computer monitor showing some kind of video call interface. He seems to be talking or explaining something. The background has a whiteboard with some notes on it, like \"Food Cat\", \"Speed time of LDC\", \"Game\", \"Cry\", etc. There are also some plants and decorations around the room.AUDIO: A man is speaking about privacy being important, mentioning an event from 2014 involving the government. It sounds like he's trying to make a point about why privacy matters. So, what do you think about that? Do you have any other thoughts on privacy?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 260.3675274848938
+    },
+    {
+      "comment_index": 1239,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "Actual instructions are from 1:47 - 2:27 so 40 seconds.....but also that's for windows, iOS Android and how to change your whole network.",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 54.0,
+      "comment_timestamp": 147.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "138.0s - 144.0s",
+          "query": "I'm sorry, I can't analyze videos directly. But if you describe the video to me, I'd be happy to help!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "144.0s - 150.0s",
+          "query": "VISUAL: A man is sitting at a desk with a computer monitor displaying a website. He's wearing a black t-shirt and talking while gesturing with his hands. The background shows some office items like plants and shelves.AUDIO: There's a male voice speaking throughout the clip. It seems to be explaining something related to the content on the screen. No other distinct sounds or music are heard.If you want to know more about the context or have any other questions, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "150.0s - 156.0s",
+          "query": "VISUAL: There's a person sitting at a desk with multiple monitors. They're wearing headphones and seem to be working on some kind of editing software. The background is blue, and there are other desks and equipment around.AUDIO: Someone is speaking, saying \"for not wanting to switch to some newfangled DNS resolver before we\". It seems like they might be discussing technical stuff related to networking or internet services.If you have any thoughts about this or want to discuss more, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 170.09167623519897
+    },
+    {
+      "comment_index": 1240,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "Correction 8:42",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 53.0,
+      "comment_timestamp": 522.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "513.0s - 519.0s",
+          "query": "VISUAL: There's a yellow background with three sections labeled \"MERCH\", \"SOCIAL\", and \"BUY STUFF\". Under \"MERCH\" is an image of two black t - shirts. Under \"SOCIAL\" is a Twitter logo. Under \"BUY STUFF\" is a shopping cart icon. A man appears in a smaller frame at the bottom center, talking. The scene doesn't change much throughout the video.AUDIO: Someone is speaking about putting something like a network card down there and mentioning their merch store which has cool shirts. There's also some background music playing. What do you think about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "519.0s - 525.0s",
+          "query": "VISUALS: In the video clip, there is a man with short brown hair wearing a black shirt. He appears to be speaking directly to the camera against a yellow background. The text on the screen includes credits for various roles like host, writer, editor, etc., along with their names and social media handles. The text also says \"THANKS FOR WATCHING\" at the top. There's no other significant action or movement in the scene.AUDIO: The audio consists of a male voice speaking English. The speaker seems to be addressing the viewers, possibly thanking them for watching and encouraging them to join a community forum. The tone is friendly and inviting. What do you think about the content? Do you have any thoughts on it?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "525.0s - 531.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 196.44489288330078
+    },
+    {
+      "comment_index": 1241,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "2:28 that was kinda mean",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 53.0,
+      "comment_timestamp": 148.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "139.0s - 145.0s",
+          "query": "VISUAL: The video shows a computer screen with a modem settings page open. There's a sidebar listing various modem utilities like \"Record\", \"Router Details\", etc. The main section has options for setting IP addressing values, DHCP server lease time, DNS values, and an \"Apply\" button at the bottom.AUDIO: A man is speaking about saving hassle on configuring devices individually. He mentions DNS specifically. It seems to be some kind of tutorial or explanation related to network setup.If you want to know more about how these settings work or anything else from the video, feel free to ask!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "145.0s - 151.0s",
+          "query": "VISUAL: A man is sitting at a desk with multiple monitors. He's wearing headphones and appears to be working on something. There are some plants and other office items around him.AUDIO: Someone is speaking, saying \"And that was it but we wouldn't blame you guys for not wanting to.\" The tone seems casual and conversational.If you have any more questions about the video or need further details, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "151.0s - 157.0s",
+          "query": "VISUAL: There's a person sitting at a desk with multiple monitors. They're wearing headphones and working on some kind of editing software. The background is blue. There's also a microphone on the desk.AUDIO: Someone is speaking, saying \"Switch to some newfangled D or nes resolver before we've explained what.\" It seems like they might be talking about changing something related to technology or software.What do you think about that? Do you have any other questions regarding the video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 240.22704362869263
+    },
+    {
+      "comment_index": 1242,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "Title: Faster internet in 30 seconds Video: 8:42 minutes",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 50.0,
+      "comment_timestamp": 522.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "513.0s - 519.0s",
+          "query": "VISUAL: There's a yellow background with three sections labeled \"MERCH\", \"SOCIAL\", and \"BUY STUFF\". Under \"MERCH\" is an image of two black t - shirts. Under \"SOCIAL\" is a Twitter logo. Under \"BUY STUFF\" is a shopping cart icon. A man appears in a smaller frame at the bottom center, talking. The scene doesn't change much throughout the video.AUDIO: Someone is speaking about putting something like a network card down there and mentioning their merch store which has cool shirts. There's also some background music playing. What do you think about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "519.0s - 525.0s",
+          "query": "VISUAL: The video shows a man with short brown hair wearing a black shirt against a yellow background. He's talking directly to the camera. There's also some text on the left side listing credits like \"Host\", \"Writer\", etc. The text is white and in different font sizes.AUDIO: A male voice speaks English. He says something about a community forum that you should join. It seems like he's promoting it. What do you think about his promotion?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "525.0s - 531.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 148.0986671447754
+    },
+    {
+      "comment_index": 1243,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "4:53 that penmanship tho 😍",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 44.0,
+      "comment_timestamp": 293.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "284.0s - 290.0s",
+          "query": "VISUAL: There's a man wearing a black t - shirt with \"KEEP ON\" written on it. He seems to be talking or presenting something. The background is mostly plain. There are two screenshots shown side by side. One has \"the default\" written next to it, and the other has \"1.1.1.1\". The second screenshot shows a YouTube page with various videos listed.AUDIO: A male voice is speaking about bandwidth and connection ratings. It's just his voice without any music or sound effects. What do you think he might be explaining further?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "290.0s - 296.0s",
+          "query": "VISUAL: A man is standing in front of a computer screen with \"linustechtips\" on it. He's wearing a black t - shirt and gesturing with his hands. There's a whiteboard behind him where someone is writing about good nameservers. The background has some plants and a bulletin board.AUDIO: Someone is speaking about CloudFlare and DNS queries, mentioning that many factors affect query speed but the biggest one isn't specified.If you want to know more about this or have other questions, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "296.0s - 302.0s",
+          "query": "VISUAL: A person with blue hair is writing on a whiteboard. They're using a black marker to draw a cloud shape in the center that says \"GOOD NAMESERVERS.\" Around this cloud, there are arrows pointing to words like \"HAVE REDUNDANCY,\" \"AREN'T DEAD,\" \"ARE OPTIMALLY ORDERED,\" and \"ARE 100% RELIABLE.\".AUDIO: There's a man speaking about whether a server can retrieve an answer from a cache if the domain IP address isn't available. The speech is clear and seems to be explaining something technical."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 316.19714522361755
+    },
+    {
+      "comment_index": 1244,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "6:55 He's clearly getting abused. Someone help him",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 31.0,
+      "comment_timestamp": 415.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "406.0s - 412.0s",
+          "query": "VISUAL: There's a guy sitting at a desk with two monitors. On one monitor, there's a video call interface showing multiple people. The other monitor has some kind of software or app open. There's also a blackboard on the wall behind him with some writing on it. He seems to be working on something related to query minimization.AUDIO: A male voice is speaking about using query minimization to only reveal necessary data for completing queries.So, what do you think about that? Any thoughts or questions?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "412.0s - 418.0s",
+          "query": "VISUAL: A man is sitting at a desk with a computer monitor showing multiple images. There's a blackboard on the wall behind him with some writing on it. The room has a lamp, a small plant, and other items on the desk.AUDIO: Someone is speaking about query minimization, DNS - over - TLS, and DNS - over - HTTPS. It seems to be related to privacy standards.If you want to talk more about this or have any other questions, feel free to let me know."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "418.0s - 424.0s",
+          "query": "VISUAL: There's a guy sitting at a desk with a computer monitor showing some kind of video call interface. He seems to be talking or explaining something. The background has a whiteboard with some notes on it, like \"Food Cat\", \"Speed time of LDC\", \"Game\", \"Cry\", etc. There are also some plants and decorations around the room.AUDIO: A man is speaking about privacy being important, mentioning an event from 2014 involving the government. It sounds like he's trying to make a point about why privacy matters. So, what do you think about that? Do you have any other thoughts on privacy?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 266.57628083229065
+    },
+    {
+      "comment_index": 1245,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "\"In less than a minute-\"  is 8:40",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 22.0,
+      "comment_timestamp": 520.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "511.0s - 517.0s",
+          "query": "VISUAL: There's a yellow background with three sections labeled \"MERCH\", \"SOCIAL\" and \"BUY STUFF\". Underneath these labels are images - a t-shirt for MERCH, a Twitter logo for SOCIAL, and a shopping cart for BUY STUFF. A man is talking in front of a computer screen. He seems to be explaining something related to the labels above him.AUDIO: The man is speaking throughout the clip. His voice is clear and he seems to be giving some kind of explanation or instruction about the items on the screen. There are no other distinct sounds like music or sound effects. It's just his speech against the yellow background.If you have any more questions about this video or anything else, feel free to ask!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "517.0s - 523.0s",
+          "query": "VISUAL: A man is talking to the camera against a yellow background with credits listed on it. The man has short hair and is wearing a black shirt. He's standing in front of some shelves curtains. There's also a small blue box behind him.AUDIO: Someone is speaking about their merch store and community forum. They mention cool shirts available at the merch store and encourage joining the community forum. The speaker seems enthusiastic and friendly. What do you think about the\n the descriptions are merged or which has cool shirts like this one and our community forum, which you should totally join."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "523.0s - 529.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 217.51237678527832
+    },
+    {
+      "comment_index": 1246,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "Make your internet speed faster in 30 seconds! So here is an 8:00 min video on how to do it!",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 15.0,
+      "comment_timestamp": 480.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "471.0s - 477.0s",
+          "query": "VISUAL: There's a guy sitting down, making hand gestures like he's presenting something. Then there's a computer case with colorful fans inside on a table. The case has a hashtag symbol next to it.AUDIO: A man is speaking about lucky winners getting Cullinan MX RGB cases with three tempered glass panels. He mentions that each one will contain these items.If you want to know more about this or have other questions, feel free to ask!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "477.0s - 483.0s",
+          "query": "VISUAL: The video shows a computer case with colorful LED fans inside. It's on a table next to some other items like a puzzle piece - shaped object. Then it cuts to a pair of black gaming headphones resting on a stand against a red background.AUDIO: There's a voiceover talking about panels, room for expansion, and more related to a headset called GX50. It mentions clear sound at an affordable price.If you want to know more about either part or have any other questions, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "483.0s - 489.0s",
+          "query": "VISUAL: The video shows a pair of black headphones with leather ear cups on a white surface against a red background. There's also a potted plant with green leaves next to the headphones. The headphones have an RGB lit ring that changes colors.AUDIO: Someone is speaking about getting something for free, mentioning leather ear cups and an RGB lit ring. It seems like they're talking about the headphones shown in the video.If you want to know more about these headphones or anything else related, feel free to ask!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 237.75145506858826
+    },
+    {
+      "comment_index": 1247,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "4:07 So you saved 3ms vs your default DNS, that's negligible. Plus 1.0.0.1 was actually 10ms faster so why not just use that? This is all most irrelevant in terms of overall speed as you're likely to just be using local DNS or DNS cache for a majority of requests anyways.",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 14.0,
+      "comment_timestamp": 247.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "238.0s - 244.0s",
+          "query": "VISUAL: The video shows a computer screen with a DNS Benchmark software open. There's a table comparing different DNS servers' performance for cached pages. The background has an orange and blue abstract design.AUDIO: A man is speaking about how local DNS servers perform better for previously searched pages, which makes sense. He seems to be explaining something related to network performance or internet speed.If you want to know more about this topic or have other questions, feel free to ask!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "244.0s - 250.0s",
+          "query": "VISUAL: The video shows a computer screen with a DNS Benchmark software open. There's a list of DNS servers like \"DEFAULT\", \"10.20.0.30\", \"1.1.1.1\", and \"1.0.0.1\" along with their average response times for cached pages and dot com lookups. The background has an orange and blue wavy pattern.AUDIO: A person is speaking about how DNS servers closer to us perform better for uncached names and dot com lookups. It seems they're explaining something related to network performance or DNS functionality.If you have any other thoughts on this or want to discuss more about it, feel free to share!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "250.0s - 256.0s",
+          "query": "VISUAL: The video shows a computer screen with a DNS Benchmark software open. There's a table comparing different DNS servers' average lookup times for dot com lookups. The background has an orange and blue wavy pattern. The table lists three DNS servers: DEFAULT, 10.20.0.30, 1.1.1.1, and 1.0.0.1, along with their respective average response times.AUDIO: A man is speaking about Cloudflare servers performing better than other DNS name servers when the primary one failed. He mentions that the secondary server also performed well."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 330.15644574165344
+    },
+    {
+      "comment_index": 1248,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "2:20 should Tell first",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 11.0,
+      "comment_timestamp": 140.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "131.0s - 137.0s",
+          "query": "Oh, okay! So, visually, it looks like there's an iPhone on one side with some settings displayed, and then an Android phone on the other side showing different network settings. The background is split into blue for the iPhone and yellow for the Android. There s also some text in the middle saying \"iPhone\" and \"Android.\" For the audio, it seems to be someone talking about configuring routers as backups for advanced users with multiple devices at home. Does that match what you were thinking? Let me know if you need more details or have any other questions!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "137.0s - 143.0s",
+          "query": "I'm sorry, I can't analyze videos directly. But if you describe the video to me, I'd be happy to help!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "143.0s - 149.0s",
+          "query": "VISUAL: A man is standing in front of a computer screen with a website open. He's wearing a black t - shirt and talking while gesturing with his hands. The background shows some office items like plants and shelves.AUDIO: There's a male voice speaking throughout the video. It seems to be explaining something related to the content on the computer screen."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 148.47632026672363
+    },
+    {
+      "comment_index": 1249,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "\"Free\" only Took 0:50 sec to See the price",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 11.0,
+      "comment_timestamp": 50.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "41.0s - 47.0s",
+          "query": "VISUAL: There's an illustration of a computer setup with a monitor, keyboard, mouse, and headphones. The colors are mainly blue, red, green, and yellow. The objects seem to be arranged on a white background.AUDIO: There's electronic dance music playing throughout the 6 seconds. It has a fast tempo and a lively feel.What do you think about the style of the video? Do you have any other questions related to it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "47.0s - 53.0s",
+          "query": "VISUAL: The video shows a webpage for Private Internet Access VPN service. There's an illustration of devices like a laptop, tablet, smartphone, and a green robot-like figure with the \"linustechtips\" logo on them. The page has pricing options for monthly, two - year, and yearly subscriptions. It also mentions a money - back guarantee.AUDIO: Someone is speaking about Private Internet Access being a VPN service that encrypts all internet traffic and uses a safe private network. The speech is clear and informative.If you have any other questions or need more details, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "53.0s - 59.0s",
+          "query": "VISUAL: A man is sitting at a desk with a computer monitor displaying a website. He's wearing a black shirt and talking while gesturing with his hands. There are some plants on the desk and a window with curtains in the background.AUDIO: The man is speaking about a service called PIA, mentioning its features like online security, identity protection, anonymity, stopping eavesdroppers, unblocking websites, and uncensored access. He also mentions a money - back guarantee and encourages viewers to check out the link below for more details.So, what do you think about these features? Do you have any questions or thoughts?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 270.8940272331238
+    },
+    {
+      "comment_index": 1250,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "I want that Monstercat case at 3:12",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 10.0,
+      "comment_timestamp": 192.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "183.0s - 189.0s",
+          "query": "VISUAL: A man is sitting at a desk with a computer monitor displaying a website. He's wearing a black t - shirt that says \"linustechtips\" on it. There are some plants and other items around him. The background includes a white wall and a window with curtains.AUDIO: Someone is speaking about how it's harder to remember things every time you type in a domain name, mentioning translation. It seems like they're explaining something related to web browsing or internet usage.If you have any more questions about this video or anything else, feel free to let me know!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "189.0s - 195.0s",
+          "query": "VISUAL: There's a man in a black shirt with \"linustechtips\" on it standing in front of a computer screen displaying the linustechtips website. He seems to be talking and gesturing. Then there's another scene where he's sitting in a yellow chair, wearing a cap, and holding some cards or something similar. The background has blue walls, a painting, plants, and lamps.AUDIO: A male voice is speaking about looking up an IP address for a page, mentioning that it's not as simple as just typing in the URL. It sounds like he might be explaining something technical.If you have any other thoughts or questions about the video, feel free to share!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "195.0s - 201.0s",
+          "query": "VISUAL: A person is sitting on a yellow chair, holding some cards or papers. They're wearing a cap with \"Inspected\" written on it. There's a blue wall behind them with a window covered by blinds, two black lamps, a painting, and some plants on a table.AUDIO: Someone is speaking about a virtual Rolodex where records are decentralized and stored on servers. It seems to be an explanation or instruction related to technology or data storage.If you have any other thoughts or questions about this video, feel free to share!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 267.4563102722168
+    },
+    {
+      "comment_index": 1251,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "If it’s 30 Seconds WHY THE VIDEO IS 8:42 Minutes",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 9.0,
+      "comment_timestamp": 522.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "513.0s - 519.0s",
+          "query": "VISUAL: There's a yellow background with three sections labeled \"MERCH\", \"SOCIAL\", and \"BUY STUFF\". Under \"MERCH\" is an image of two black t - shirts. Under \"SOCIAL\" is a Twitter logo. Under \"BUY STUFF\" is a shopping cart icon. A man appears in a smaller frame at the bottom center, talking. The scene doesn't change much throughout the video.AUDIO: Someone is speaking about putting something like a network card down there and mentioning their merch store which has cool shirts. There's also some background music playing. What do you think about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "519.0s - 525.0s",
+          "query": "VISUAL: The video shows a man with short brown hair wearing a black shirt against a yellow background. He's talking directly to the camera. There's also some text on the left side listing credits like \"Host\", \"Writer\", etc. The text is white and in different font sizes.AUDIO: A male voice speaks English. He says something about a community forum that you should join. It seems like he's promoting it. What do you think about his promotion?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "525.0s - 531.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 156.39506697654724
+    },
+    {
+      "comment_index": 1252,
+      "video_id": "kqnvrjgyEMc",
+      "comment": "I have enough bandwidth that it really doesn't make any difference on my end if I purchased the next tier up, load times would be similar. However, the perceived snappiness benefits from the tweak. That half a second faster is extremely beneficial. The title is accurate, you are wrong. This video was never about bandwidth, addressed at 4:38",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 9.0,
+      "comment_timestamp": 278.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "269.0s - 275.0s",
+          "query": "VISUAL: A man is sitting at a desk with a computer monitor behind him. He's wearing a black t - shirt that says \"linustechtips\" on it. There's a keyboard and some books on the desk too. The background has a bulletin board with pictures and notes, and there are plants around. The scene changes to show two YouTube interfaces side by side, one labeled \"the default\" and the other showing a different layout.AUDIO: Someone is speaking about something feeling faster and new tabs opening instantly. It seems like they're talking about a change or improvement related to web browsing or software performance.If you have any thoughts or questions about this analysis, feel free to share!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "275.0s - 281.0s",
+          "query": "VISUAL: There's a split screen with two different YouTube videos playing. The top half has a person talking against a plain background, while the bottom half shows another person in front of a blackboard. Both screens have the YouTube interface visible.AUDIO: Someone is speaking about how YouTube videos loaded more quickly than before. It seems to be an explanation or commentary on the change in loading speed.If you want to know more about the video content or have any other questions, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "281.0s - 287.0s",
+          "query": "VISUAL: There's a man wearing a black t - shirt with some text on it. He seems to be talking or presenting something. The background is plain white. There are two YouTube interfaces shown side by side. One has \"the default\" written next to it, while the other has \"1.1.1.1\". The one with \"1.1.1.1\" shows a video playing, and there are also some thumbnails below it.AUDIO: A male voice is speaking about how changing the DNS setting won't affect the video quality played back, which still depends on the bandwidth available. It's just a simple explanation without any dramatic sound effects or music.If you have any thoughts or questions about this analysis, feel free to share!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 312.9560616016388
+    }
+  ]
+}

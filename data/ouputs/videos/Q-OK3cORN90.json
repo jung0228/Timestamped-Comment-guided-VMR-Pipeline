@@ -1,0 +1,43 @@
+{
+  "video_id": "Q-OK3cORN90",
+  "num_results": 1,
+  "results": [
+    {
+      "video_id": "Q-OK3cORN90",
+      "comment_index": 18968,
+      "category": "debate",
+      "comment_timestamp": 13.0,
+      "comment": "0:11 0:15",
+      "comment_focus_summary": "User is pointing to a short moment around 0:11–0:15, likely the applause and a whooshing sound effect that occur after a segment of dialogue.",
+      "comment_focus_keywords": [
+        "0:11–0:15",
+        "applause",
+        "whooshing sound",
+        "short moment"
+      ],
+      "integrated_visual": "wide shot of people sitting around a round table with microphones; geometric wall pattern behind them (no distinctive visual action at 10–16s).",
+      "integrated_audio": "audible clapping followed immediately by a whooshing sound effect in the 10–16s segment.",
+      "grounded_visual_evidence": "segment captions describe a group around a round table and geometric wall pattern at 10–16s but no distinctive visual action tied to 0:11–0:15.",
+      "grounded_audio_evidence": "segment captions explicitly note clapping and a whooshing sound effect during 10.0s–16.0s.",
+      "visual_query": "",
+      "audio_query": "clip with clapping followed by a whooshing sound effect around 10–16 seconds",
+      "primary_modality_hint": "audio",
+      "audio_subtype": "non_speech_audio",
+      "visual_focus": "none",
+      "audio_focus": "non_speech_sound",
+      "focus_target": "applause then whooshing sound",
+      "modality_gate_reason": "The user's timestamp points to the moment where captions report applause and a whooshing effect; visual captions are generic framing only, so audio is the reliable retrieval cue.",
+      "retrieval_keywords": [
+        "applause then whoosh",
+        "clapping whooshing 10–16s",
+        "applause whoosh sound effect",
+        "short applause whoosh"
+      ],
+      "final_query": "clip where applause is followed by a whooshing sound effect (around 10–16s)",
+      "notes": "Comment is just timestamps; no visual detail is referenced. Visual content at that time is generic, so retrieval relies on the described audio events. Exact wording of sounds is from captions, not transcript.",
+      "input_tokens_est": 2068,
+      "output_tokens_est": 446,
+      "generated_at": "2026-04-28T03:31:33.517897"
+    }
+  ]
+}

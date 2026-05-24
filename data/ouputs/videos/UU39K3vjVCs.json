@@ -1,0 +1,81 @@
+{
+  "video_id": "UU39K3vjVCs",
+  "num_results": 2,
+  "results": [
+    {
+      "video_id": "UU39K3vjVCs",
+      "comment_index": 15838,
+      "category": "debate",
+      "comment_timestamp": 53.0,
+      "comment": "​ [USER] 0:53 😅😊😊😅😊😊😊",
+      "comment_focus_summary": "User is pointing to the short moment at 0:53, likely reacting to the speaker's smiling/laughing expression or light-hearted tone in that instant.",
+      "comment_focus_keywords": [
+        "timestamp 0:53",
+        "reaction",
+        "smile/laugh",
+        "speaker",
+        "host"
+      ],
+      "integrated_visual": "Woman with long hair and glasses, wearing earphones, speaking into a microphone; small facial reaction implied by emojis.",
+      "integrated_audio": "Only her voice speaking clearly, conversational tone, no music or other sounds.",
+      "grounded_visual_evidence": "Captions describe a woman with long hair and glasses speaking into a microphone; cozy room background with shelves and pillows — visual framing is generic but clearly identifies the speaker.",
+      "grounded_audio_evidence": "Captions state it's her voice talking clearly about exploring an urgent issue; no other distinct sounds, music, or effects.",
+      "visual_query": "woman with glasses earphones speaking into microphone cozy room hexagonal shelves pillows",
+      "audio_query": "speaker voice saying something about \"exploring an urgent issue\"",
+      "primary_modality_hint": "audio",
+      "audio_subtype": "speech",
+      "visual_focus": "facial_expression",
+      "audio_focus": "spoken_topic",
+      "focus_target": "female host speaking line about exploring an urgent issue",
+      "modality_gate_reason": "The comment's emojis suggest a reaction to a brief vocal/facial moment; captions explicitly document the spoken content and note no other sounds—speech is the most reliable retrieval cue while visuals are generic framing.",
+      "retrieval_keywords": [
+        "woman with glasses microphone",
+        "earphones host 0:53",
+        "hexagonal shelves background",
+        "speaking about exploring an urgent issue",
+        "smile laugh reaction"
+      ],
+      "final_query": "host with glasses saying \"exploring an urgent issue\" (woman speaking into microphone, cozy room)",
+      "notes": "Comment is just a timestamp with reaction emojis, ambiguous whether visual smile or the spoken line is primary. Captions firmly support the spoken topic; visual details are generic. Both queries included but audio is primary. If exact phrasing is needed, clip should be located by the visible speaker plus that spoken topic.",
+      "input_tokens_est": 2154,
+      "output_tokens_est": 544,
+      "generated_at": "2026-04-27T18:30:13.344436"
+    },
+    {
+      "video_id": "UU39K3vjVCs",
+      "comment_index": 15839,
+      "category": "debate",
+      "comment_timestamp": 67.0,
+      "comment": "1:07",
+      "comment_focus_summary": "User is pointing to the moment at 1:07 in the video (a timestamp cue) without additional description.",
+      "comment_focus_keywords": [
+        "timestamp",
+        "1:07",
+        "seek moment"
+      ],
+      "integrated_visual": "Around 64–70s a purple background with a cityscape image and prominent text 'Necessary Tomorrows' plus podcast platform icons.",
+      "integrated_audio": "Captions indicate no distinct audio or speech in these segments.",
+      "grounded_visual_evidence": "Segment 2 (64–70s) explicitly shows 'Necessary Tomorrows' text over a city view and icons for YouTube, Spotify, etc.",
+      "grounded_audio_evidence": "No spoken lines, music, or notable sounds are described in the provided captions.",
+      "visual_query": "video 'Necessary Tomorrows' title card purple cityscape podcast icons",
+      "audio_query": "",
+      "primary_modality_hint": "visual",
+      "audio_subtype": "none",
+      "visual_focus": "text_on_screen",
+      "audio_focus": "none",
+      "focus_target": "Necessary Tomorrows title card",
+      "modality_gate_reason": "The comment is a timestamp only; the only concrete, grounded cue in the nearby captions is the on-screen title card 'Necessary Tomorrows' with platform icons, and there is no described audio to use for retrieval.",
+      "retrieval_keywords": [
+        "Necessary Tomorrows",
+        "purple title card",
+        "cityscape image",
+        "podcast icons"
+      ],
+      "final_query": "Necessary Tomorrows purple title card cityscape podcast icons",
+      "notes": "Comment is just a raw timestamp '1:07' with no description. Grounding relies solely on visual captions; no audio evidence is available.",
+      "input_tokens_est": 2060,
+      "output_tokens_est": 385,
+      "generated_at": "2026-04-27T18:30:20.545865"
+    }
+  ]
+}

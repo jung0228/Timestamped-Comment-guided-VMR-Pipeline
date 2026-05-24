@@ -1,0 +1,610 @@
+{
+  "video_id": "jV51BGIzkwU",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "processing_time": 5172.359935283661,
+  "comments": [
+    {
+      "comment_index": 4164,
+      "video_id": "jV51BGIzkwU",
+      "comment": "The guy at 0:07 is the guy Jeremy punched and the reason Top Gear ended (with Jeremy, James and Richard).",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 301.0,
+      "comment_timestamp": 7.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "0.0s - 4.0s",
+          "query": "VISUAL: The video shows two vehicles on a dirt road - a large military truck and a white Range Rover. There's also a view from inside one of the vehicles showing a person driving. The interior has a steering wheel with gauges and controls. The exterior shots show the vehicles' exteriors, like the front grill of the Range Rover and the side mirror of the truck.AUDIO: There's some kind of narration or commentary about \"man versus machine\" playing over the visuals. It seems to be a bit dramatic, given the context of the vehicles shown."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "4.0s - 10.0s",
+          "query": "VISUAL: There's a military truck and a white SUV parked on a rocky terrain with an American flag being held up outside. Inside the car, there's someone driving. The sky is cloudy.AUDIO: You can hear a countdown from \"3\" to \"1\", followed by some kind of impact or explosion sound effect. Then there's a man speaking, but it's hard to make out what he says clearly.What do you think about this scene? Do you have any other questions related to it?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "10.0s - 16.0s",
+          "query": "VISUAL: A military vehicle is driving on a rocky terrain under a cloudy sky. Then it shows a man inside a car, looking at something in his hand. There's also an image of a car dashboard with various indicators and symbols displayed. The background outside the car seems to be a desert-like area.AUDIO: There's some kind of music playing throughout the video. And there's a voice saying \"so I suppose it's got a mind of its own isn't that\". It sounds like a casual conversation or narration.If you have any other thoughts about this video or want to discuss more, feel free to let me know."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 514.561849117279
+    },
+    {
+      "comment_index": 4168,
+      "video_id": "jV51BGIzkwU",
+      "comment": "4:46 \"Did you see that?\"  Yes, there's something dangling underneath the Rover",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 106.0,
+      "comment_timestamp": 286.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "277.0s - 283.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "283.0s - 289.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "289.0s - 295.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.7384674549102783
+    },
+    {
+      "comment_index": 4166,
+      "video_id": "jV51BGIzkwU",
+      "comment": "4:46 something hanging off the bottom?",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 230.0,
+      "comment_timestamp": 286.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "277.0s - 283.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "283.0s - 289.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "289.0s - 295.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.3818986415863037
+    },
+    {
+      "comment_index": 4167,
+      "video_id": "jV51BGIzkwU",
+      "comment": "+Dskblade look at the dash at 2:02 , engine check light, snowflake light, tyre pressure light...",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 219.0,
+      "comment_timestamp": 122.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "113.0s - 119.0s",
+          "query": "VISUAL: A person is driving a white SUV on a rough, rocky terrain. The landscape outside has mountains in the background. The car's interior is visible with the steering wheel and dashboard. The driver seems focused on navigating the path.AUDIO: There's some kind of narration or commentary happening over the sound of the vehicle moving along the rough road. It could be from a documentary or something similar. What do you think about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "119.0s - 125.0s",
+          "query": "VISUAL: A white SUV is driving on a steep, rocky slope. The terrain looks rough with some dry bushes around. There's also a view from inside the car showing the dashboard with various indicators like speedometer, tachometer, and an \"HDC On\" sign.AUDIO: There's a man speaking over background music. It seems to be some kind of narration or explanation related to the scene. Oh, and there's a sound effect that could be a car engine revving or something similar.If you want to know more about this video or have other questions, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "125.0s - 131.0s",
+          "query": "VISUAL: A white SUV is driving on a rocky, uneven terrain. The car is tilted to one side as it maneuvers over the rough ground. There's some dry grass around and mountains in the background under a cloudy sky.AUDIO: Someone says \"Here we go\" twice, followed by \"whoa.\" It seems like they're reacting to the situation with the SUV.Anything else you want to know about the video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 332.21854543685913
+    },
+    {
+      "comment_index": 4161,
+      "video_id": "jV51BGIzkwU",
+      "comment": "4:19 That TerraMax is literally like a freakin ice breaker ship!",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 481.0,
+      "comment_timestamp": 259.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "250.0s - 256.0s",
+          "query": "VISUAL: A car is driving on a dirt road in a desert - like area with mountains in the background. The driver appears to be focused on the road. There's dust being kicked up behind the car as it moves.AUDIO: Music is playing throughout the clip. There's also some speech that says \"it's not going fast but it is utterly relentless it just goes.\" It seems to be describing the car's movement or performance.What do you think about the scene? Do you have any other thoughts or questions related to it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "256.0s - 262.0s",
+          "query": "VISUAL: There's a large vehicle with a muddy tire on a rocky ground. The tire is spinning, kicking up mud and debris. In the background, there's some kind of structure or machinery partially visible. The scene looks like it could be an excavation site or something similar.AUDIO: There's a loud, continuous mechanical noise throughout the clip. It seems to be coming from the vehicle or machinery in the background. No distinct speech or other clear sounds are heard.If you have any thoughts about this or want to discuss more about videos, feel free to share!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "262.0s - 268.0s",
+          "query": "VISUAL: There's a military truck on a snowy road. It's emitting smoke from its exhaust. The surroundings have snow - covered ground with some patches of grass visible. There are also some trees and bushes around.AUDIO: There's an engine sound throughout the clip, which seems to be coming from the truck. No other distinct sounds or speech are heard.If you want to know more about this kind of analysis or have any other questions related to videos, feel free to ask!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 387.594685792923
+    },
+    {
+      "comment_index": 4163,
+      "video_id": "jV51BGIzkwU",
+      "comment": "Typical Range Rover, 1:25, a bunch of warning lights on the dash and as always, a check engine light.",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 310.0,
+      "comment_timestamp": 85.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "76.0s - 82.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "82.0s - 88.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "88.0s - 94.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.48537731170654297
+    },
+    {
+      "comment_index": 4162,
+      "video_id": "jV51BGIzkwU",
+      "comment": "Check engine light @1:25. Something has come lose under the range Rover @ 4:45. Broken windshield @ 5:30",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 391.0,
+      "comment_timestamp": 85.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "76.0s - 82.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "82.0s - 88.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "88.0s - 94.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.22900748252868652
+    },
+    {
+      "comment_index": 4165,
+      "video_id": "jV51BGIzkwU",
+      "comment": "1:07 why did I think he was going to say \"you have me, possibly the greatest off-road driver in the world.\"",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 285.0,
+      "comment_timestamp": 67.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "58.0s - 64.0s",
+          "query": "VISUAL: There's a monitor showing a desert landscape with mountains in the background. Then it cuts to an aerial view of a car driving on a dirt road through that same desert area. Finally, we see two men inside a vehicle, one is driving while the other is looking out the window.AUDIO: A man is speaking about having a good idea of where to go and the possibility of remote control. The background has some ambient noise, like wind or engine sounds.If you have any more questions about the video or want to discuss something else related to it, feel free to let me know!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "64.0s - 70.0s",
+          "query": "VISUAL: The video shows a white Range Rover driving on a rocky terrain. It then cuts to an interior shot where we can see the driver's hands on the steering wheel. The driver is wearing a dark jacket. The background outside the car window appears to be a desert-like landscape with mountains in the distance.AUDIO: There's some kind of narration or dialogue happening over the sound of the car engine running. It seems like it could be from a show or documentary about cars. The speech is in English.If you have any other questions about the video or want to discuss something else related to it, feel free to let me know!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "70.0s - 76.0s",
+          "query": "VISUAL: A white Range Rover is driving on a rocky terrain. The camera then shows the driver inside the car, looking focused. There's also a large military truck visible in the background, parked on some dry grassland.AUDIO: Someone is speaking about the vehicle being possibly the greatest off - road vehicle in the world and mentioning higher speeds. There's no music or other sound effects, just the man's voice. What do you think about that? Do you have any other questions related to this video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 498.37738156318665
+    },
+    {
+      "comment_index": 4169,
+      "video_id": "jV51BGIzkwU",
+      "comment": "This is just a Range Rover advertisement. Notice how at 5:15 the Range Rover gets dirty then at the next stage at 5:38 it's clean again. To anybody who doesn't know, this video is clearly staged.  Nonetheless it was entertaining. ",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 105.0,
+      "comment_timestamp": 338.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "329.0s - 335.0s",
+          "query": "VISUAL: A car is driving on a muddy road with trees around it. It then drives into a body of water. The scene changes to an aerial view showing the car in the water near some land with trees and mountains in the background.AUDIO: There's a man speaking and music playing in the background. Oh, and there are also some sound effects like splashing water. What do you think about this video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "335.0s - 341.0s",
+          "query": "VISUAL: A white SUV is driving through a shallow river with snow - covered banks. The surrounding area has some trees without leaves and a mountain range in the background. There's also a person inside the car, visible from the driver's side window.AUDIO: There's a man speaking over music playing in the background. It seems like he might be giving instructions or commentary related to the situation in the video.If you have any other thoughts about this video or want to discuss something else, feel free to let me know!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "341.0s - 347.0s",
+          "query": "VISUAL: A car is driving through a shallow river or stream with some ice patches on the ground. The surrounding area has trees without leaves, suggesting it might be autumn or winter. There's also some grassy vegetation along the riverbank.AUDIO: Someone is speaking about the car's capability to handle up to 36 inches of water, comparing it to a Land Rover Defender and an old car. It seems like they're discussing its off - road performance.What do you think about that? Do you have any other questions related to the video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 441.62615180015564
+    },
+    {
+      "comment_index": 4176,
+      "video_id": "jV51BGIzkwU",
+      "comment": "I think all the dash shots were taken after the fact.  There's another dash shot at 2:03 in the video with the same warning lights on and a the time on the car's clock is only two minutes earlier than the shot at 6:00.  There's even a shot at 2:44 where the car's clock goes back in time.  That aside, I am now interested in what sort of repairs the Range Rover needed after this race.  Being able to do these sorts of things once vs being able to do them all the time is a pretty big difference for the owner.  An off-roader isn't really an off-roader if it requires a trip to the mechanic every time you take it off-road.",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 41.0,
+      "comment_timestamp": 360.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "351.0s - 357.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "357.0s - 363.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "363.0s - 369.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.6160311698913574
+    },
+    {
+      "comment_index": 4173,
+      "video_id": "jV51BGIzkwU",
+      "comment": "4:47 there’s something looks like a broken wire under the Range rover",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 66.0,
+      "comment_timestamp": 287.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "278.0s - 284.0s",
+          "query": "VISUAL: A white SUV is driving on a snowy slope. It's moving forward, kicking up snow as it goes. The background shows some dry grass and bushes. There are no other vehicles or people visible.AUDIO: There's a man speaking with an excited tone throughout the clip. He says \"Geronimo\" twice, followed by \"whoa.\" There's also the sound of the car engine revving and tires skidding on the snow."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "284.0s - 290.0s",
+          "query": "VISUAL: A white Range Rover is driving on a muddy road with mountains in the background. The car moves forward, then turns to the right. There's snow on the ground near the road.AUDIO: There's some music playing in the background. It seems like there might be someone speaking too, but it's not clear from just these few seconds.What do you think about that? Do you have any other questions related to the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "290.0s - 296.0s",
+          "query": "VISUAL: There's an SUV driving on a snowy field with mountains in the background. The camera then zooms in on a large truck's wheel moving through muddy water. The scene has a mix of snow - covered ground and patches of mud.AUDIO: A man is speaking over the sound of a truck engine running and some splashing noises from the water. It seems like he might be narrating or commenting on something related to the vehicles. So, what do you think about this video? Any thoughts or questions?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 337.13710951805115
+    },
+    {
+      "comment_index": 4171,
+      "video_id": "jV51BGIzkwU",
+      "comment": "6:00 all of the rangies warning lights are on, lol",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 94.0,
+      "comment_timestamp": 360.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "351.0s - 357.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "357.0s - 363.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "363.0s - 369.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.5152449607849121
+    },
+    {
+      "comment_index": 4174,
+      "video_id": "jV51BGIzkwU",
+      "comment": "the loose thing is gone @ 7:02 lol",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 51.0,
+      "comment_timestamp": 422.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "413.0s - 419.0s",
+          "query": "VISUAL: A car is driving on a rough, rocky terrain with some snow patches. The driver appears to be focused on navigating the path. There's also a view from outside the car showing the rugged landscape. The sky looks clear and blue.AUDIO: There's a man speaking, saying \"going I can see a whiff of the orange smoke.\" Then there's music playing in the background.What do you think about this scene? Do you have any other questions related to it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "419.0s - 425.0s",
+          "query": "VISUAL: A white SUV is driving on a rocky, uneven terrain. The vehicle kicks up dust as it moves forward. There's a person inside, visible through the windshield, wearing a dark jacket and looking ahead.AUDIO: There's a man speaking with an excited tone, saying \"It's excellent.\" Then there's a short pause before he says \"Lost sight of the army\" followed by \"Absolutely no.\".The background has some kind of music playing throughout."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "425.0s - 431.0s",
+          "query": "VISUAL: A man is driving a car through a desert landscape. The terrain is rocky and dry with sparse vegetation. The car appears to be an SUV. There's also a shot from inside another vehicle showing its dashboard and steering wheel. The sun is shining brightly outside.AUDIO: There's some speech that seems like it could be narration or dialogue, along with background music playing throughout the clip. It starts at around 1 second into the video and continues until about 7 seconds."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 465.07440209388733
+    },
+    {
+      "comment_index": 4172,
+      "video_id": "jV51BGIzkwU",
+      "comment": "Range Rover is so unreliable and shit. 6:00 check it, Engine management light is ON! Which means some sensor or something is wrong with the vehicle. That car only has 2k miles on it and engine management light is on LOL! And I thought VW's were bad!",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 89.0,
+      "comment_timestamp": 360.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "351.0s - 357.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "357.0s - 363.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "363.0s - 369.0s",
+          "query": "Inference error: nframes should in interval [2, 0], but got 0."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.322401762008667
+    },
+    {
+      "comment_index": 4175,
+      "video_id": "jV51BGIzkwU",
+      "comment": "5:16 that's what she said",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 48.0,
+      "comment_timestamp": 316.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "307.0s - 313.0s",
+          "query": "VISUAL: There's an open landscape with dry grass and some trees. A military - looking vehicle is driving through it. The sky looks clear. AUDIO: Someone is speaking about pushing harder at 35 miles per hour. It seems like there might be some background noise too. What do you think about this scene?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "313.0s - 319.0s",
+          "query": "VISUAL: A white SUV is driving through a muddy area with some bushes around. The vehicle kicks up mud as it moves forward. There's also a person inside the car, visible from the driver's side window.AUDIO: There's music playing throughout the clip. No specific speech or other distinct sounds are heard.If you have any more questions about the video or need further analysis, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "319.0s - 325.0s",
+          "query": "VISUAL: A white SUV is driving through a muddy terrain with some rocks around. The vehicle seems to be struggling a bit on the uneven ground. There's dry grass and some bushes nearby. The sky looks clear.AUDIO: There's a man speaking over background music. He says \"that's getting a bit dicey\" twice. It gives an impression that something risky or challenging is happening.What do you think about this scene? Do you have any other videos you want me to analyze?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 324.78448390960693
+    },
+    {
+      "comment_index": 4170,
+      "video_id": "jV51BGIzkwU",
+      "comment": "2:01 the dash is glowing like a Christmas tree...",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 102.0,
+      "comment_timestamp": 121.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "112.0s - 118.0s",
+          "query": "VISUAL: The video shows a car dashboard with various indicators like speedometer, fuel gauge, and a display showing four wheels with a green checkmark in the center. Then it cuts to an exterior view of a white SUV driving on a rocky terrain. There's a person inside the car, visible from the side window, steering the vehicle.AUDIO: There is some background music playing throughout the video. No distinct speech or sound effects can be heard."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "118.0s - 124.0s",
+          "query": "VISUAL: A white SUV is driving on a rough, rocky terrain. The camera follows it from different angles. There's a hill in the background. The SUV seems to be struggling a bit with the uneven ground.AUDIO: There's some kind of narration or explanation about the shortcut being a steep, slippery slope. It also mentions \"hill descent\" which might be related to the vehicle's capabilities. No other distinct sounds like music or sound effects are heard.If you have any thoughts or questions about this analysis, feel free to share!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "124.0s - 130.0s",
+          "query": "VISUAL: A white SUV is driving on a rough dirt road with mountains in the background. The car seems to be struggling slightly over some uneven terrain. There's also a person inside the car, visible through the window.AUDIO: There's a man speaking in an excited tone, saying \"Here we go.\" And there's some background music playing throughout the clip.If you have any other thoughts or questions about this video, feel free to share!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 474.9485652446747
+    },
+    {
+      "comment_index": 4179,
+      "video_id": "jV51BGIzkwU",
+      "comment": "4:46 the plastic from the front bumper start to fall off :D",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 24.0,
+      "comment_timestamp": 286.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "277.0s - 283.0s",
+          "query": "VISUAL: A white SUV is driving on a snowy road. It's moving forward, then turns sharply to the right. The surrounding area has some dry bushes and snow - covered ground. There are tire tracks visible on the snow.AUDIO: There's music playing throughout the clip. At one point, someone says \"Geronimo\" and later \"whoa.\""
+        },
+        {
+          "segment_index": 2,
+          "time_range": "283.0s - 289.0s",
+          "query": "VISUAL: A white Range Rover is driving on a muddy road. The car moves forward, kicking up mud as it goes. There's a person inside, visible from the side, wearing a dark jacket and jeans, holding the steering wheel.AUDIO: There's some kind of music playing in the background. It seems to be instrumental with no lyrics."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "289.0s - 295.0s",
+          "query": "VISUAL: A white SUV is driving on a dirt road with mountains in the background. There's also a large truck parked near some trees. The ground looks dry and there are patches of snow. The sky is clear and blue.AUDIO: There's a man speaking, and then an explosion sound effect plays. It seems like he might be commenting on something surprising or impressive related to the scene.What do you think about that? Any thoughts or questions?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 271.9075539112091
+    },
+    {
+      "comment_index": 4178,
+      "video_id": "jV51BGIzkwU",
+      "comment": "2:02 into the race and hes already getting check engine lights..... What a car!",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 31.0,
+      "comment_timestamp": 122.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "113.0s - 119.0s",
+          "query": "VISUAL: A person is driving a white SUV on a rough, rocky terrain. The landscape outside has mountains in the background. The car's interior is visible with the steering wheel and dashboard. The driver seems focused on navigating the path.AUDIO: There's some kind of narration or commentary happening over the sound of the vehicle moving along the rough road. It could be from a documentary or something similar. What do you think about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "119.0s - 125.0s",
+          "query": "VISUAL: A white SUV is driving on a steep, rocky slope. The terrain looks rough with some dry bushes around. There's also a view from inside the car showing the dashboard with various indicators like speedometer, tachometer, and an \"HDC On\" sign.AUDIO: There's a man speaking over background music. It seems to be some kind of narration or explanation related to the scene. Oh, and there's a sound effect that could be a car engine revving or something similar.If you want to know more about this video or have other questions, feel free to ask!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "125.0s - 131.0s",
+          "query": "VISUAL: A white SUV is driving on a rocky, uneven terrain. The car is tilted to one side as it maneuvers over the rough ground. There's some dry grass around and mountains in the background under a cloudy sky.AUDIO: Someone says \"Here we go\" twice, followed by \"whoa.\" It seems like they're reacting to the situation with the SUV.Anything else you want to know about the video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 398.88495659828186
+    },
+    {
+      "comment_index": 4180,
+      "video_id": "jV51BGIzkwU",
+      "comment": "it looks like he fell into another puddle at 5:24 which cleaned it a little bit",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 17.0,
+      "comment_timestamp": 324.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "315.0s - 321.0s",
+          "query": "VISUAL: A white SUV is driving through muddy water on a rough terrain with hills in the background. The car splashes up mud as it moves forward.AUDIO: There's music playing throughout the clip."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "321.0s - 327.0s",
+          "query": "VISUAL: A white Range Rover is driving through a muddy area with some snow on the ground. The car splashes water as it moves forward. There's dry grass around and mountains in the background.AUDIO: There's a man speaking, saying \"that's getting a bit dicey\" twice, followed by some music playing in the background.What do you think about this scene? Do you have any other videos to analyze?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "327.0s - 333.0s",
+          "query": "VISUAL: A white SUV is driving on a muddy road with trees around it. The car splashes through puddles and mud. There's a person inside the car, hands on the steering wheel.AUDIO: There's some kind of music playing in the background. It seems like there might be some speech too, but it's not clear enough to understand fully.What do you think about the video? Do you have any other questions?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 254.6093258857727
+    },
+    {
+      "comment_index": 4177,
+      "video_id": "jV51BGIzkwU",
+      "comment": "James May Logic: “Look at the tires on that thing... He’s Miles In Front”... Truck is 30ft ahead of him 🤣 @0:41",
+      "language": "en",
+      "channel_name": "TopGear",
+      "category": "entertainment",
+      "likes": 33.0,
+      "comment_timestamp": 41.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "32.0s - 38.0s",
+          "query": "VISUAL: There's a white SUV driving on a rocky terrain. Then it switches to a large military truck also moving over rocks. The background looks like a desert or rough land with no much greenery.AUDIO: You can hear some kind of narration or commentary about the vehicle being faster due to its design. There might be some ambient noise from the environment too.If you have any other thoughts or questions about this video, feel free to share!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "38.0s - 44.0s",
+          "query": "VISUAL: The video shows a large military vehicle driving on a rocky terrain. There's also a white car following it. The landscape is rugged with rocks and sparse vegetation. The sky looks overcast.AUDIO: A man is speaking, expressing surprise or concern about something related to the tires of the vehicle ahead. He mentions that someone is miles in front and seems to be thinking about placing a bet on the situation.So, what do you think about this scene? Any thoughts or questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "44.0s - 50.0s",
+          "query": "VISUAL: A white SUV is driving on a rough, rocky terrain with some burnt areas around. There's also an old, dilapidated building structure nearby. The landscape looks dry and barren.AUDIO: Someone is speaking about \"Team Terminator\" having a Taramax that can handle terrain they can't manage. It seems like it's a commentary or narration related to the video content.What do you think about the video? Any thoughts or questions?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 462.75818943977356
+    }
+  ]
+}

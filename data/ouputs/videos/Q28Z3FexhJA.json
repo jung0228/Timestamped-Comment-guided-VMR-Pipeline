@@ -1,0 +1,76 @@
+{
+  "video_id": "Q28Z3FexhJA",
+  "num_results": 2,
+  "results": [
+    {
+      "video_id": "Q28Z3FexhJA",
+      "comment_index": 18970,
+      "category": "sports",
+      "comment_timestamp": 8.0,
+      "comment": "0:08 Since when did Joe Biden do bowling commentary?",
+      "comment_focus_summary": "The commenter is jokingly reacting to an unexpected voice/line that sounded like Joe Biden doing bowling commentary at ~0:08.",
+      "comment_focus_keywords": [
+        "Joe Biden",
+        "bowling commentary",
+        "voice",
+        "surprised reaction"
+      ],
+      "integrated_visual": "Bowling alley with players, scoreboard showing NEUER and BUTTURFF, person walking to bowl, American flag-themed shirt visible.",
+      "integrated_audio": "Ambient bowling sounds: ball rolling and pins hitting; possible indistinct cheering or commentary but no clear speech transcript.",
+      "grounded_visual_evidence": "Captions show bowling alley, players, scoreboard, person approaching lane, American flag shirt — no visual of 'Joe Biden' or speaking.",
+      "grounded_audio_evidence": "Captions indicate bowling ball rolling, pins hitting, and 'might be some commentary or cheering' but explicitly state 'no distinct speech or dialogue heard' in later segment.",
+      "visual_query": "",
+      "audio_query": "",
+      "primary_modality_hint": "unrelated",
+      "audio_subtype": "none",
+      "visual_focus": "scene",
+      "audio_focus": "none",
+      "focus_target": "ambient bowling sounds / possible indistinct commentary",
+      "modality_gate_reason": "The comment centers on a supposed spoken voice (Joe Biden), but the captions provide only ambient bowling sounds and explicitly note no distinct speech; there is no grounded spoken quote or distinctive audio to retrieve, nor any visual cue of Biden.",
+      "retrieval_keywords": [],
+      "final_query": "",
+      "notes": "The comment is a humorous/unsubstantiated reaction to a voice; captions do not support presence of spoken dialogue or identifiable speaker, so retrieval is not possible from provided captions.",
+      "input_tokens_est": 2197,
+      "output_tokens_est": 419,
+      "generated_at": "2026-04-28T03:31:49.966196"
+    },
+    {
+      "video_id": "Q28Z3FexhJA",
+      "comment_index": 18969,
+      "category": "sports",
+      "comment_timestamp": 31.0,
+      "comment": "It didn't bounce off the cushion, it bounced off the ball! 0:31",
+      "comment_focus_summary": "The commenter insists the ball bounced off another ball (not the cushion) at the moment around 0:31, i.e., a claim about the ball making contact with another ball rather than the lane cushion.",
+      "comment_focus_keywords": [
+        "ball bounced off ball",
+        "not cushion",
+        "0:31",
+        "bowling contact"
+      ],
+      "integrated_visual": "Bowling lane with pins visible, players in American-flag shirts, scoreboard and PBA Tour signage; likely a close-up or shot showing the ball and pins area around 28–34s.",
+      "integrated_audio": "Crowd cheering and an announcer/male voice commenting (possible line like 'Spare of the game') but no explicit transcript of 'bounced off the ball' in captions.",
+      "grounded_visual_evidence": "Captions describe bowling lane, pins, people near pins, and scoreboard; visuals support the presence of ball/pins area where a bounce interaction could occur.",
+      "grounded_audio_evidence": "Captions note cheering and a male voice saying something bowling-related (e.g., 'Spare of the game'); no captioned spoken line confirming the bounce detail.",
+      "visual_query": "bowling ball hits another ball near pins bounce off ball not cushion PBA Tour",
+      "audio_query": "",
+      "primary_modality_hint": "visual",
+      "audio_subtype": "speech",
+      "visual_focus": "action",
+      "audio_focus": "spoken_topic",
+      "focus_target": "ball bouncing off another ball near the pins",
+      "modality_gate_reason": "The comment's claim is about a visible collision (ball vs cushion vs another ball). The captions provide visual context (lane, pins, people near pins) but no supporting spoken confirmation, so the visual action is the best grounded retrieval cue; audio evidence is generic cheering/commentary and cannot reliably locate that specific claim.",
+      "retrieval_keywords": [
+        "bowling ball bounces off ball",
+        "bounce off another ball",
+        "near pins PBA Tour",
+        "not off cushion",
+        "bowling collision"
+      ],
+      "final_query": "bowling ball bounces off another ball near pins PBA Tour",
+      "notes": "The comment references a specific collision claim; captions show the pins/ball area but do not explicitly describe the bounce or confirm 'off the ball' vs 'off cushion.' Audio captions are generic, so the query is visual-focused. If multiple similar moments exist, frame-by-frame review may be needed.",
+      "input_tokens_est": 2134,
+      "output_tokens_est": 569,
+      "generated_at": "2026-04-28T03:31:42.203451"
+    }
+  ]
+}

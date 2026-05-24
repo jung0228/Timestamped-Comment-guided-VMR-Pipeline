@@ -1,0 +1,636 @@
+{
+  "generated_queries": [
+    {
+      "comment_index": 1780,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "2:31 me when we have to run in P.E",
+      "timestamp": "2:31",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901096",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 1781,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "1:38 \"If a rat can fit its head in the rest is easy\" yea it sure looks like its having an easy time",
+      "timestamp": "1:38",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901134",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": [
+          "If a rat can fit its head in the rest is easy"
+        ]
+      }
+    },
+    {
+      "comment_index": 1782,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "2:24 when your trying to sneak in the kicthen at night",
+      "timestamp": "2:24",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901150",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 1783,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "0:07 when the teacher assigns homework on a holiday.",
+      "timestamp": "0:07",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901167",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 1784,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "2:35 that was hilarious seeing them swim like that😂",
+      "timestamp": "2:35",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901189",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 1785,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "0:06 that face is more scary",
+      "timestamp": "0:06",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901213",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 1786,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "Did anyone else notice the rat shit at 1:25?",
+      "timestamp": "1:25",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901229",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 1787,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "2:30 is anyone else dyeing about how weird they look when they swim 😂",
+      "timestamp": "2:30",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901244",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 1788,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "Fucking thing shit as it swam... 1:24",
+      "timestamp": "1:24",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901260",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 1789,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "2:25 syncrynise swimming guys! The best, should be at the olympics",
+      "timestamp": "2:25",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901287",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 1790,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "Starts at 1:03",
+      "timestamp": "1:03",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901321",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 1791,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "2:18 not gonna lie that whole scene of the rats swimming is so cute to me. Maybe just because I a rodent lover 🤷‍♂️",
+      "timestamp": "2:18",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901337",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 1792,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "0:16 WINDOWS 98 is still alive!!!",
+      "timestamp": "0:16",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901352",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 1793,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "2:28 thats kinda disturbing",
+      "timestamp": "2:28",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901368",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 1794,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "the rats swiming at 2:29 was cute.....   is this just me?",
+      "timestamp": "2:29",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901399",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 1795,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "2:25 idk why but I could not stop laughing 😂",
+      "timestamp": "2:25",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901414",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 1796,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "2:29 I am loosing it 😂 their little feets",
+      "timestamp": "2:29",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901441",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 1797,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "2:40 that my friend..is a mouse",
+      "timestamp": "2:40",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901457",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 1798,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "0:56 This whole scene 😂😂😂",
+      "timestamp": "0:56",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901480",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    },
+    {
+      "comment_index": 1799,
+      "video_id": "0t2VPBF6Kp4",
+      "comment": "its12:02 pm and i work at 5 in the morning, why tf am i watching how a rat swims",
+      "timestamp": "12:02",
+      "modality_type": "unrelated",
+      "confidence": 0.0,
+      "generated_at": "2025-10-24T16:44:58.901495",
+      "query": "This comment is unrelated to video content, making moment retrieval difficult.",
+      "query_type": "unrelated",
+      "llm_response": {
+        "modality": "unrelated",
+        "query_long": "Unrelated content",
+        "keywords": [],
+        "speech_reference": "",
+        "negatives": [],
+        "rationale": "Comment not related to video content",
+        "self_check": {
+          "length_ok": false,
+          "timestamp_free": true,
+          "modality_pure": false,
+          "specificity_ok": false
+        }
+      },
+      "metadata": {
+        "original_confidence": 0.0,
+        "similarity_scores": {},
+        "matched_sentence": "",
+        "context_quotes": []
+      }
+    }
+  ],
+  "processing_info": {
+    "total_comments": 20,
+    "processed_queries": 20,
+    "generated_at": "2025-10-24T16:44:58.901499"
+  },
+  "statistics": {
+    "visual_queries": 0,
+    "audio_queries": 0,
+    "unrelated_queries": 20
+  }
+}

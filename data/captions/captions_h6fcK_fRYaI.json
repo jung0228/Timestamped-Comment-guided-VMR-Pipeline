@@ -1,0 +1,610 @@
+{
+  "video_id": "h6fcK_fRYaI",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "processing_time": 7897.528218984604,
+  "comments": [
+    {
+      "comment_index": 4062,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "0:44 Guy: “I died?” God: “yes”  happy face",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 379.0,
+      "comment_timestamp": 44.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "35.0s - 41.0s",
+          "query": "VISUAL: There's an animated character that looks like a purple humanoid with glowing red and blue dots on its body. It seems to be floating or moving around in a dark space. The background is mostly black with some colorful elements. The character has a round head and no visible limbs. It moves in a sort of floating manner.AUDIO: There's a male voice speaking over music. The speech is in English and says \"No point in mincing words there was there was a truck and it was.\" The music is kind of ambient and instrumental, not too loud.So, what do you think about this video? Do you have any other questions related to it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "41.0s - 47.0s",
+          "query": "VISUAL: There's an animated truck with headlights on, moving forward. Then it skids to a stop. After that, there's a close - up of two eyes looking at something off - screen. The scene changes to show a small purple character with big eyes and a red nose, standing still.AUDIO: There's some kind of music playing throughout. At one point, someone says \"skidding yes I died\" in a sad tone.What do you think about this video? Do you have any other questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "47.0s - 53.0s",
+          "query": "VISUAL: There's an animated character with a pink head and purple body on the left side. On the right, there's another character that looks like it has a starry or galaxy - like texture all over its body. The background is dark. The characters seem to be interacting, maybe talking or looking at each other.AUDIO: There's some kind of speech in the background, and then music starts playing towards the end. It seems like a sad or reflective mood based on the words spoken. What do you think about this video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 397.40390491485596
+    },
+    {
+      "comment_index": 4064,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "This was, is, and always will be beautiful. Thank you, Andy & Thank you, Kurzgesagt, for taking Andy's words and transcending them into this awesomeness. Its also beautiful. 7:34",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 333.0,
+      "comment_timestamp": 454.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "445.0s - 451.0s",
+          "query": "VISUAL: There's an oval shape with a blue glow around it on a black background. Inside the oval, there are some colorful dots or particles that seem to be moving or changing positions. The overall look is kind of like a stylized cell or something similar.AUDIO: I can't really tell much about the audio from just these six seconds. It might be some sort of ambient noise or music, but it's hard to say for sure without more context.What do you think about the visuals? Do they remind you of anything?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "451.0s - 457.0s",
+          "query": "VISUAL: The video shows large white letters \"THE EGG\" against a dark background with blue light rays emanating from behind them. Below that, smaller text says \"BY ANDY WEIR\". Then it changes to show more text at the bottom saying \"ANIMATED BY KURZGESAGT\". There's no movement or action other than the appearance of these texts.AUDIO: There is electronic music playing throughout the entire 6 seconds of the video. No speech or other sound effects are present. So, what do you think about this video? Do you have any other videos for me to analyze?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "457.0s - 463.0s",
+          "query": "VISUAL: The video shows two animated panels side - by - side. In one panel, there's an astronaut floating near a colorful planet with swirling patterns. In the other panel, another astronaut is on a ladder looking at a similar planet. The background has a starry night sky effect.AUDIO: There's electronic music playing throughout the 6 seconds. It seems to be a calm and somewhat dreamy type of music. What do you think about it? Do you like that kind of music?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 457.2556047439575
+    },
+    {
+      "comment_index": 4063,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "I cant believe i watched this video 35 million times after making it 8:05",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 349.0,
+      "comment_timestamp": 485.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "476.0s - 482.0s",
+          "query": "VISUAL: There's an animated penguin wearing a spacesuit floating in space. Next to it is a stylized Earth with clouds. The background is dark blue, representing space. There are also some social media icons at the bottom. The penguin seems to be moving slightly. The overall color scheme includes blues, greens, whites, and purples.AUDIO: There's no audible speech or music in this short clip. It's just the sound of the penguin floating in space. It might be a bit eerie without any other sounds. What do you think about this kind of animation?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "482.0s - 488.0s",
+          "query": "VISUAL: There's an animated penguin wearing a spacesuit on the left side. In the center, there's a glowing Earth icon with a blue aura around it. The background is dark blue, like space, with some small white dots that look like stars. There are also social media icons at the bottom right corner.AUDIO: There's no speech or music in the audio. Just a short, silent moment."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "488.0s - 494.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 172.83163571357727
+    },
+    {
+      "comment_index": 4068,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "7:41 It says \"support us\" but it should be \"support myself\"",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 102.0,
+      "comment_timestamp": 461.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "452.0s - 458.0s",
+          "query": "VISUAL: The video shows \"THE EGG\" written in large letters against a dark background with blue light rays emanating from behind it. Below that, it says \"BY ANDY WEIR\". Then there's another line saying \"ANIMATED BY KURZGESAGT\". There aren't any moving objects or people in this short clip.AUDIO: I can hear some music playing throughout these six seconds. It seems to be instrumental without any lyrics. What do you think about this video? Do you have any other videos you want me to analyze?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "458.0s - 464.0s",
+          "query": "VISUAL: The video shows two animated panels side - by - side. In one panel, there's an astronaut floating near a colorful planet with swirling patterns. In the other panel, another astronaut is on a ladder against a backdrop of stars and a large, detailed moon. The background throughout is dark blue with small white dots resembling stars.AUDIO: There's electronic music playing in the background during these six seconds. It has a steady rhythm and a somewhat futuristic feel to it.If you have any thoughts or questions about this analysis, feel free to share!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "464.0s - 470.0s",
+          "query": "VISUAL: The video shows two animated panels side - by - side. In one panel, there's an astronaut floating near a planet with colorful swirls on it. In the other panel, someone is sitting on a ledge looking at a moon with craters. There are stars scattered around both panels. The background is dark blue with small white dots that look like stars.AUDIO: There's electronic music playing throughout the video. It has a steady beat and some synth sounds.If you have any thoughts or questions about this analysis, feel free to share!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 359.63206362724304
+    },
+    {
+      "comment_index": 4065,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "1:15 “My kids, my wife…” “What about them?” “Why dont they exist?”",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 258.0,
+      "comment_timestamp": 75.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "66.0s - 72.0s",
+          "query": "VISUAL: There's an animated character that looks like a small, round figure with big eyes. It seems to be on some kind of floating platform or surface. The background is dark, so it stands out. Then there's another similar-looking character in the distance. The overall color scheme has purples and pinks.AUDIO: There's a voice saying \"Are you God? Yes I'm God.\" over some music playing in the background.What do you think about this video? Do you have any other questions related to it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "72.0s - 78.0s",
+          "query": "VISUAL: There's an animated scene with two characters. One is small and pinkish-purple, sitting on a purple hill. The other is larger, with white eyes and a purple body, floating above. They seem to be interacting. The background is dark, making the characters stand out.AUDIO: There's some music playing throughout the video, along with a male voice speaking the words \"my kids my wife what about them\" at regular intervals.If you want to talk more about this or have other questions, feel free to let me know!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "78.0s - 84.0s",
+          "query": "VISUAL: There's an animated character sitting on a purple cloud-like object. It has a round head with two eyes and no other distinct features. Next to it is another larger, similar-looking figure that seems to be floating or moving around. The background is dark, making the characters stand out. The colors used are mainly purples and oranges.AUDIO: There's a male voice speaking over some soft music. He says \"will they be alright? That's what I like to see.\" Then there's a short pause before he continues with \"I said you just.\""
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 341.76238799095154
+    },
+    {
+      "comment_index": 4066,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "watch this at 12:00am with headphones in a pitch black room just hits different",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 246.0,
+      "comment_timestamp": 720.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "711.0s - 717.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "717.0s - 723.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "723.0s - 729.0s",
+          "query": "Inference error: Video must has audio track when use_audio_in_video=True"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 0.07209897041320801
+    },
+    {
+      "comment_index": 4067,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "5:59 he said Lincoln’s Assassin so I thought that he would mention Hitler’s too  “I’m Hitler? And I’m Hitler!”",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 148.0,
+      "comment_timestamp": 359.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "350.0s - 356.0s",
+          "query": "VISUAL: The video shows an animated character with orange skin and black hair against different backgrounds like space, cityscape, forest, and desert. The character seems to be looking around or reacting to something. There's also some kind of object that looks like a planet or moon in one scene.AUDIO: There's a male voice speaking over music. The speech is about being every human being who ever lived. It's a bit of a philosophical statement. What do you think about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "356.0s - 362.0s",
+          "query": "VISUAL: The video shows an animated character with a blue headband and purple face standing against a pink background with buildings. Then it cuts to another scene where there's a man in a suit sitting on a throne-like chair behind red curtains. There's also a small figure next to him. The background is purple with some yellow elements.AUDIO: There's a male voice speaking over music. He says \"or who will ever live yes I'm Abraham Lincoln.\" What do you think about this video? Do you have any other questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "362.0s - 368.0s",
+          "query": "VISUAL: The video shows an animated scene with a man sitting at a table on stage, another man standing behind him holding a gun. Then it cuts to a man giving a speech at a podium in front of an empty auditorium. There are guards or security personnel around the speaker.AUDIO: There's some kind of speech or narration happening over background music. It seems like there might be a bit of a dramatic or tense tone to the speech. What do you think about the content?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 496.80175971984863
+    },
+    {
+      "comment_index": 4061,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "2:16 “Neither, you’ll be reincarnated.”  Hardcore Christians: ight imma head out",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 430.0,
+      "comment_timestamp": 136.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "127.0s - 133.0s",
+          "query": "VISUAL: There's an illustration of two people sleeping in bed. One person is sitting up, looking at their phone. The scene has a purple and pink color scheme. Then it cuts to a close - up of a purple character with big eyes against a black background.AUDIO: There's some music playing in the background. It seems like there might be someone speaking too, but I can't really make out the words clearly.What do you think about that? Do you have any other questions related to the video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "133.0s - 139.0s",
+          "query": "VISUAL: There's an animated character with a round head and big eyes. It has a yellow outline on its body. The background is dark at first, then changes to red. There are also some geometric shapes like triangles and squares floating around.The AUDIO: A man speaks in English, saying \"Do I go to heaven or hell or something? Neither, you'll be re.\" The tone seems somewhat serious.What do you think about it? Do you have any other questions related to this video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "139.0s - 145.0s",
+          "query": "VISUAL: There's an animated building in a desert scene at sunset. The sun is large and bright, casting a warm glow over the landscape. The building has a domed top and some smaller structures around it. It starts on the ground and then seems to float up into the sky. The color scheme is mainly orange and purple.AUDIO: There's a man speaking with a calm tone. He says \"So the Hindus were right.\" followed by a short pause and then repeats \"So the Hindus were right.\".The video gives off a surreal vibe because of the floating building. What do you think about that?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 363.7223801612854
+    },
+    {
+      "comment_index": 4069,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "6:25 so hypothetically I’ve f***ed myself",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 54.0,
+      "comment_timestamp": 385.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "376.0s - 382.0s",
+          "query": "VISUAL: The video shows an animated scene with two characters on a playground. One character is kneeling down, looking sad or defeated, while the other stands up, seemingly having just kicked them. There's a backpack near the kneeling character. The background has a volleyball net and some trees.The color scheme is mainly purple and blue tones.AUDIO: There's a voiceover saying \"you fell silent every time you victimize someone you were victimizing yourself.\" It's a calm, somewhat melancholic tone.What do you think about this kind of animation? Do you have any similar videos to share?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "382.0s - 388.0s",
+          "query": "VISUAL: The video shows two people walking under an umbrella in the rain. One person is holding the umbrella while the other walks beside them. There's also a scene with someone playing a guitar on stage. The colors are mostly dark with some bright elements like the umbrella and guitar. The movement is mainly the walking and playing of the guitar.AUDIO: There's a man speaking over background music. It seems to be a calm or reflective kind of speech."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "388.0s - 394.0s",
+          "query": "VISUAL: The video has four different scenes. In one scene, there's a person holding an umbrella while it's raining. Another shows someone playing guitar with silhouettes in the background. There's also a scene where a woman is in a hospital bed hooked up to an IV drip. And finally, a baby is sleeping on a yellow surface. The colors are bright and varied throughout the scenes.AUDIO: There's a male voice speaking over the video. He says \"sad moment ever experienced by any human was or will be experienced.\" It seems like he might be narrating or commenting on the scenes shown.What do you think about these scenes? Do they seem to have some deeper meaning?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 392.1450026035309
+    },
+    {
+      "comment_index": 4071,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "5:34 “In this universe, there’s just you and me.” Plot twist: “And you are me. So there’s just you.”",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 51.0,
+      "comment_timestamp": 334.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "325.0s - 331.0s",
+          "query": "VISUAL: There's an animated character that looks like a pinkish creature with big eyes and a long body. It has its arms outstretched and is floating or moving around in space. The background is dark with colorful dots and shapes, kind of like stars and nebulae.AUDIO: There's some music playing throughout the video, and then there's a voice saying \"and greater intellect just me what about everyone else\" at the end. It seems to be a bit of a philosophical or questioning statement.If you have any other thoughts on this video or want to discuss it further, feel free to let me know!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "331.0s - 337.0s",
+          "query": "VISUAL: There's an animated character that looks like a pinkish-purple creature with big eyes and a wide mouth. It seems to be floating or moving through a space filled with stars and colorful dots. The background is dark, giving it a cosmic feel.AUDIO: There's a voiceover saying \"There is no one else in this universe there's just you and me.\" The tone is calm and somewhat melancholic.If you have any other thoughts about this video or want to discuss something related, feel free to let me know!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "337.0s - 343.0s",
+          "query": "VISUAL: There are two animated figures floating in space. One is purple with blue lines on its body, and the other is pink. They seem to be interacting or moving towards something. The background is dark with colorful dots scattered around.AUDIO: There's a male voice speaking over some music. The speech seems to be in English, but I can't make out the exact words from just listening to it for six seconds.What do you think about these descriptions? Do you have any other questions related to the video?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 427.1087431907654
+    },
+    {
+      "comment_index": 4074,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "4:21 god dammit, there is no escape from amongus",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 42.0,
+      "comment_timestamp": 261.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "252.0s - 258.0s",
+          "query": "VISUAL: There's an animated scene with two characters. One is purple and has a long, flexible body that can stretch and move around. The other character is smaller, pinkish-purple, and seems to be riding or holding onto the larger one. They're on some kind of surface that looks like water. The background is a simple gradient from yellow at the top to orange near the horizon.AUDIO: There's a male voice speaking over a musical track. The speech is about time, mentioning \"time as you know it.\" It's a bit hard to understand all the details though.What do you think about these descriptions? Do you have any other questions related to the video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "258.0s - 264.0s",
+          "query": "VISUAL: There's an abstract scene with two figures on a dark, rounded surface. The background has colorful, wavy shapes in purple, orange, and blue. One figure is larger and seems to be reaching out towards the smaller one. The smaller figure looks like it might be falling or being pulled down.AUDIO: A man speaks over some soft music. He says \"only exists in your universe things are different where I come from where\". It gives off a calm yet slightly mysterious vibe.What do you think about that? Do you have any other thoughts on the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "264.0s - 270.0s",
+          "query": "VISUAL: The video shows an abstract scene with two figures. One figure is reaching out towards another that's floating or suspended in some kind of liquid or space. There are colorful, swirling patterns around them, like a tunnel or vortex. The background has various shapes and colors, mainly purples, blues, oranges, and pinks.AUDIO: There's a voiceover saying \"Where you come from? Oh sure I come from somewhere somewhere else.\" It seems to be a simple, somewhat repetitive phrase. There's also some soft, ambient music playing in the background.What do you think about the video? Do you have any other questions?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 519.2799904346466
+    },
+    {
+      "comment_index": 4076,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "6:16 it was at this point I realised this is the best video.",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 36.0,
+      "comment_timestamp": 376.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "367.0s - 373.0s",
+          "query": "VISUAL: The video starts with a person on stage, raising their hand, flanked by two others in uniform. Then it cuts to a scene full of bones floating around. Next, there's an outdoor setting where Jesus is sitting on a rock surrounded by people who seem to be listening to him. The background has trees and mountains.AUDIO: There's some kind of speech or narration happening throughout, along with music playing in the background. It seems like a religious or spiritual context based on the visuals and the mention of Jesus. What do you think about this? Do you have any other thoughts on the video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "373.0s - 379.0s",
+          "query": "VISUAL: The video shows an animated scene with a man sitting on a rock surrounded by people who seem to be listening to him. There's a colorful outdoor setting with trees and mountains in the background. Then it cuts to a dark screen with a red circle that expands into a purple figure with glowing eyes. Finally, there's a scene of a woman holding a child while walking outside near some buildings and a fence.AUDIO: There is a male voice speaking throughout the video, saying \"And your everyone who followed him, you fell silent every time.\" The tone seems calm and somewhat melancholic. There's also background music playing during the entire clip.If you have any other thoughts or questions about this video, feel free to share!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "379.0s - 385.0s",
+          "query": "VISUAL: There's an animated scene with two characters on a volleyball court. One character is kneeling down, looking sad or tired, while the other stands up, holding something like a phone or a small object. The background has a volleyball net and some trees. Then it cuts to another scene where two people are walking under rain, one holding a pink umbrella.The AUDIO: There's a voiceover saying \"to victimize someone you were victimizing yourself every act of kindness you've done.\" It seems to be a motivational or reflective statement. What do you think about this kind of message?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 524.9960334300995
+    },
+    {
+      "comment_index": 4070,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "4:16 you can't be impatient or bored if there's no time.",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 54.0,
+      "comment_timestamp": 256.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "247.0s - 253.0s",
+          "query": "VISUAL: There's an animated character carrying two baskets on a pole across water. The background has buildings and a sunset sky. Then it cuts to another scene with two purple figures, one big and one small, against a yellowish-orange backdrop. The big figure seems to be holding or interacting with the smaller one.AUDIO: There's some kind of narration or dialogue happening over a musical track. It includes phrases like \"40 AD wait was you're sending me back in time.\" So, it seems like there might be a story about going back in time. What do you think about these descriptions? Do you have any other thoughts or questions?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "253.0s - 259.0s",
+          "query": "VISUAL: There's an animated scene with two characters. One is larger and purple with spots, the other smaller and pinkish-purple. They seem to be interacting on some kind of surface or platform. The background has a gradient from yellow at the top to orange near the horizon. There are also some abstract shapes like circles and lines in different colors around them.AUDIO: I can hear someone speaking about time existing only in certain ways. It seems like they're explaining something related to the concept of time. There's no music or sound effects, just the person talking. What do you think about that?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "259.0s - 265.0s",
+          "query": "VISUAL: There are two figures on a dark surface. One figure is smaller and pinkish with a round head, while the other is larger and purple with a more humanoid shape. They seem to be interacting, like reaching out towards each other. The background has abstract shapes in bright colors like orange, yellow, blue, and purple. It's all very colorful and somewhat surreal.AUDIO: There's some kind of narration or dialogue happening over a musical backdrop. The words \"Your universe things are different where I come from\" can be heard clearly. It gives off an otherworldly vibe. So, what do you think about this video? Any thoughts or questions?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 533.1958034038544
+    },
+    {
+      "comment_index": 4072,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "It was a huge mistake watching this at 1:45 a.m.",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 50.0,
+      "comment_timestamp": 105.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "96.0s - 102.0s",
+          "query": "VISUAL: There's an abstract figure with a purple body and orange lines. It has small white dots on it. The figure seems to be floating or moving around. There are also some colorful, glowing particles around it that move and change positions.AUDIO: There is a man speaking over a musical background. The speech is about something looking like a man or woman, possibly an authority figure. The music is soft and instrumental.If you have any other thoughts or questions about this video, feel free to share!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "102.0s - 108.0s",
+          "query": "VISUAL: The video shows two purple creatures with glowing outlines against a dark background. One is larger and has a crescent shape on its head, while the other is smaller. There's also some colorful drawings scattered around them, like a stick figure family and a dinosaur. The scene seems to be set in a space-like environment with stars or dots floating around.AUDIO: There's a voice saying \"Don't worry I said they'll be fine your kids will remember you\" over a musical background. It gives an emotional tone to the visuals.What do you think about these descriptions? Do you have any other thoughts or questions related to the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "108.0s - 114.0s",
+          "query": "VISUAL: The video shows an overhead view of two beds with people sleeping in them. There's a table between the beds with some drawings on paper, colored pencils, and other small items like blocks and a teddy bear. The scene is lit in purple tones.AUDIO: There's a voiceover saying \"As perfect in every way they didn't have time to grow contemptuous of you.\" It seems to be a narration or dialogue. What do you think about this video? Do you have any other questions related to it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 379.92085218429565
+    },
+    {
+      "comment_index": 4075,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "6:11 When you post a tweet that basically says “racism bad”.",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 40.0,
+      "comment_timestamp": 371.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "362.0s - 368.0s",
+          "query": "VISUAL: The video shows an animated scene with a man sitting at a table on stage, another man standing behind him holding a gun. Then it cuts to a man giving a speech at a podium in front of an empty auditorium. There are guards or security personnel around the speaker.AUDIO: There's some kind of speech or narration happening over background music. It seems like there might be a bit of a dramatic or tense tone to the speech. What do you think about the content?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "368.0s - 374.0s",
+          "query": "VISUAL: The video starts with a scene showing a person in blue standing on a podium, raising their hands. Then it cuts to a dark background filled with floating bones and skulls. Next, there's an outdoor scene where Jesus is sitting on a rock surrounded by people who seem to be listening to him. There are trees and mountains in the background.AUDIO: The audio has a man speaking over some music. He says \"And you're the millions he killed\" followed by \"I'm Jesus.\" And then again, \"And you're every one.\".If you have any other thoughts or questions about this video, feel free to share!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "374.0s - 380.0s",
+          "query": "VISUAL: The video shows an animated scene with a man sitting on a rock surrounded by people who seem to be listening to him. There's also a purple figure with big eyes looking at something off - screen. Then it cuts to two kids running on a playground, one with a backpack.The background has trees, mountains, and a bright sky. The colors are very vivid and cartoonish.AUDIO: There is some kind of narration or speech in the background, but I can't make out the exact words. It seems like there might be some music playing too.If you want me to analyze more about this video or have any other questions, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 469.75960302352905
+    },
+    {
+      "comment_index": 4073,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "2:46 for i second i thought he said black slave 0_0 .phew",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 47.0,
+      "comment_timestamp": 166.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "157.0s - 163.0s",
+          "query": "VISUAL: There's an animated scene with floating platforms that have colorful lights on them. A character is walking across these platforms. The background is dark, making the lights stand out.AUDIO: There's some speech happening over a musical backdrop. It seems like someone is talking about walking somewhere while chatting. What do you think about it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "163.0s - 169.0s",
+          "query": "VISUAL: There's an animated character with a round head, big eyes, and a small body. It has a pink top half and purple bottom half. The background is dark. The character moves its arms up and down.AUDIO: Someone is speaking. It seems to be a conversation or monologue about rebirth and being a blank slate.If you have any other thoughts on this or want to discuss more about it, feel free to let me know."
+        },
+        {
+          "segment_index": 3,
+          "time_range": "169.0s - 175.0s",
+          "query": "VISUAL: The video shows an animated scene with a man holding a baby while sitting next to a woman who's lying down on a hospital bed. There are medical equipment like monitors around them. Then it cuts to three kids playing arcade games, one is shooting at a screen. Finally, there's a guy working out on a punching bag in front of a cityscape background.AUDIO: There's some kind of narration or speech in the background during both the hospital scene and the arcade scene. It seems to be about a baby and experiences. There's also some music playing throughout the video.If you have any other thoughts or questions about this video, feel free to share!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 401.6821086406708
+    },
+    {
+      "comment_index": 4079,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "\"You stared blankly at me.\" 5:39  right after revealing there's only one conciousness is hilarious every time I watch this video (at least once a week for the last year and a half).",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 31.0,
+      "comment_timestamp": 339.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "330.0s - 336.0s",
+          "query": "VISUAL: There's an animated character that looks like a pinkish-purple blob with eyes and arms. It seems to be floating or moving around in space. The background is dark with some colorful dots and shapes, kind of like stars and nebulae.AUDIO: A male voice speaks in English. He says \"What about everyone else? There is no one else in this universe there's just you.\" The tone is calm and somewhat melancholic.If you have any other thoughts or questions about it, feel free to share!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "336.0s - 342.0s",
+          "query": "VISUAL: There are two animated figures floating in space. One is purple with blue outlines, and the other is pink. They seem to be interacting or moving towards each other. The background is dark with small colorful dots scattered around.AUDIO: There's some kind of narration or dialogue happening over a musical track. It seems like it could be from a song or a story being told. The words \"you and me\" are repeated several times.If you want to talk more about this video or have any other questions, feel free to let me know!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "342.0s - 348.0s",
+          "query": "VISUAL: There are two figures floating in space. One is purple with blue outlines and the other is pink with blue outlines too. They're holding a planet-like object between them. The background is dark with stars scattered around.AUDIO: There's some kind of narration or speech going on, but it's not clear what it says. It seems to be in English though.If you want to talk more about this video or have any other questions, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 337.9273030757904
+    },
+    {
+      "comment_index": 4077,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "00:21 you were better off… well “passed away”, loved and not “passed away” by the wayside, but destined for greater things in a better place. I miss things while I experience them, too.",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 35.0,
+      "comment_timestamp": 21.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "12.0s - 18.0s",
+          "query": "VISUAL: There's an ambulance with its back doors open at night. A person in a reflective vest is standing near it, looking into the ambulance. Another figure seems to be inside or near the ambulance too. The background has some hills and a dark sky with a bit of light. There are also traffic cones around the area.AUDIO: There's a voiceover saying \"Fatal nonetheless it was a painless death the medics tried their best to save you.\" It's a sad tone. What do you think about this scene?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "18.0s - 24.0s",
+          "query": "VISUAL: There's an animated scene with two characters near a bus at night. One character is sitting on a blue object while the other is standing nearby. The background has mountains and a purple sky. Then it cuts to a close - up of eyes on a pink face.AUDIO: A man speaks over some music. He says \"but to no avail your body was so utterly shattered you were better off\".What do you think about this video? Do you have any other questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "24.0s - 30.0s",
+          "query": "VISUAL: The video shows an animated character with big eyes and a round head. It has a pinkish color and is surrounded by colorful dots and lines that seem to be moving around it. The background starts off bright pink and then changes to black as the camera zooms out.AUDIO: There's a male voice speaking over some soft music. He says \"trust me\" and \"and that's when you met me.\" What do you think about this video? Do you have any other questions or thoughts?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 372.8364853858948
+    },
+    {
+      "comment_index": 4078,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "6:19 Everytime you had seggs you had seggs with yourself, woah I think I'm onto something",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 33.0,
+      "comment_timestamp": 379.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "370.0s - 376.0s",
+          "query": "VISUAL: The video shows a group of people gathered around a central figure who is sitting on a rock. There's a man with a beard speaking to them. The background has trees, bushes, and mountains. The color scheme is mostly purple and green. The people seem attentive to the speaker.AUDIO: There's a male voice saying \"killed I'm Jesus and you're everyone who followed him.\" It also includes some music playing in the background. What do you think about this scene?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "376.0s - 382.0s",
+          "query": "VISUAL: The video shows an animated scene with two characters on a playground. One character is kneeling down, looking sad or defeated, while the other stands up, seemingly having just kicked them. There's a backpack near the kneeling character. The background has a volleyball net and some trees.The color scheme is mainly purple and blue tones.AUDIO: There's a voiceover saying \"you fell silent every time you victimize someone you were victimizing yourself.\" It's a calm, somewhat melancholic tone.What do you think about this kind of animation? Do you have any similar videos to share?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "382.0s - 388.0s",
+          "query": "VISUAL: The video shows two people walking under an umbrella in the rain. One person is holding the umbrella while the other walks beside them. There's also a scene with someone playing a guitar on stage. The colors are mostly dark with some bright elements like the umbrella and guitar. The movement is mainly the walking and playing of the guitar.AUDIO: There's a man speaking over background music. It seems to be a calm or reflective kind of speech."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 426.29837703704834
+    },
+    {
+      "comment_index": 4080,
+      "video_id": "h6fcK_fRYaI",
+      "comment": "0:55 when you forget to turn on dark mode",
+      "language": "en",
+      "channel_name": "Kurzgesagt",
+      "category": "knowledge",
+      "likes": 31.0,
+      "comment_timestamp": 55.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "46.0s - 52.0s",
+          "query": "VISUAL: There's an animated character with a pink head and purple body against a dark background. Another similar character appears later. The first one seems to be looking at something or someone off - screen. Then another character comes into view from the right side, also with a pink head and purple body, but it has some kind of pattern on its body. It looks like it might be dancing or moving around.AUDIO: There's a voice saying \"died yes but don't feel bad about it everyone\" over a musical background. The music is soft and kind of melancholic. What do you think about this video? Do you have any other thoughts or questions?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "52.0s - 58.0s",
+          "query": "VISUAL: There's an animated character with a round head and big eyes. It seems to be looking at another similar-looking character in the distance. The background is dark. Then it turns around and walks away. The second character has a more elongated body and also looks like it's moving towards something.AUDIO: There's some kind of narration or speech in the background, but I can't make out the exact words. There's also some soft music playing throughout the clip.What do you think about these descriptions? Do you have any other thoughts on the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "58.0s - 64.0s",
+          "query": "VISUAL: There's an animated blue figure standing on the left side of the screen. On the right, there's a floating, translucent blue shape with big black eyes. The background is plain white. The blue figure seems to be looking at the floating shape and moving its arms slightly.AUDIO: There's some music playing throughout the clip. No specific speech or sound effects are heard. It's just the music.If you have any other questions about the video or want to discuss it further, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 518.633487701416
+    }
+  ]
+}

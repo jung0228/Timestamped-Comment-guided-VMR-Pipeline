@@ -1,0 +1,81 @@
+{
+  "video_id": "4pBf5kBXm_U",
+  "num_results": 2,
+  "results": [
+    {
+      "video_id": "4pBf5kBXm_U",
+      "comment_index": 13623,
+      "category": "debate",
+      "comment_timestamp": 19.0,
+      "comment": "0:19 😊",
+      "comment_focus_summary": "The commenter is pointing to a moment at ~0:19 with a smiling/positive reaction emoji, likely referencing a visual facial expression or pleasant moment in the discussion at that timestamp.",
+      "comment_focus_keywords": [
+        "timestamp 0:19",
+        "smile",
+        "reaction",
+        "participant",
+        "moment"
+      ],
+      "integrated_visual": "Group seated on white couches in a modern studio with geometric purple background; people including a woman in a blue hijab and others on couches; overlaid text 'FROM AROUND THE WORLD' and a 'SIGHTSEEING' bus appears nearby in earlier frame.",
+      "integrated_audio": "Background music present in 10–22s; captions say no distinct speech in 16–22s but speech begins around 22s; 16–22s specifically notes music and no distinct speech.",
+      "grounded_visual_evidence": "Captions for 16–22s describe group sitting on white couches, modern room, overlaid text 'FROM AROUND THE WORLD'—visual studio framing that could show facial reactions at ~19s.",
+      "grounded_audio_evidence": "Captions indicate music is playing through 10–22s and no distinct speech between 16–22s; no spoken quote at 0:19 supported by captions.",
+      "visual_query": "group on white couches modern studio 'FROM AROUND THE WORLD' overlaid text people sitting smiling",
+      "audio_query": "",
+      "primary_modality_hint": "visual",
+      "audio_subtype": "music",
+      "visual_focus": "facial_expression",
+      "audio_focus": "none",
+      "focus_target": "participant smiling on white couch with 'FROM AROUND THE WORLD' overlay",
+      "modality_gate_reason": "The comment marks a timestamp with an emoji (visual reaction). Captions describe studio visuals and overlaid text at that time but report no distinct speech, so the moment is best retrieved by visual cues (people on couches and overlay); audio offers only background music.",
+      "retrieval_keywords": [
+        "white couches studio",
+        "FROM AROUND THE WORLD overlay",
+        "people sitting smiling",
+        "woman in blue hijab nearby"
+      ],
+      "final_query": "panel on white couches 'FROM AROUND THE WORLD' overlay smiling participant",
+      "notes": "Comment is minimal (emoji + timestamp). No captioned spoken line is supported at 0:19, so retrieval relies on visual studio cues. If the user specifically meant a smile on the woman in the blue hijab, that is only supported starting ~22s in captions and may not align exactly with 0:19.",
+      "input_tokens_est": 2116,
+      "output_tokens_est": 579,
+      "generated_at": "2026-04-27T21:06:18.272688"
+    },
+    {
+      "video_id": "4pBf5kBXm_U",
+      "comment_index": 13622,
+      "category": "debate",
+      "comment_timestamp": 78.0,
+      "comment": "1:18",
+      "comment_focus_summary": "The commenter is pointing to the moment at 1:18 (the nearby spoken line), likely wanting the short clip where a man says a key line about liberalism or lack thereof.",
+      "comment_focus_keywords": [
+        "1:18",
+        "man says",
+        "liberalism",
+        "we don't have much of it"
+      ],
+      "integrated_visual": "two men seated in conversation against geometric patterned backdrop; one in striped sweater, one in suit and tie",
+      "integrated_audio": "male speaker in English discussing liberalism and saying, \"And, in fact, we don't have much of it.\"",
+      "grounded_visual_evidence": "captions show two men talking, one in suit and tie and one in striped sweater, seated on white chairs with geometric background (75–81s and 81–87s captions)",
+      "grounded_audio_evidence": "captions explicitly report a man speaking about liberalism and saying \"And, in fact, we don't have much of it.\" (75–81s and 81–87s captions)",
+      "visual_query": "",
+      "audio_query": "man speaking about liberalism saying \"we don't have much of it\" debate",
+      "primary_modality_hint": "audio",
+      "audio_subtype": "speech",
+      "visual_focus": "none",
+      "audio_focus": "spoken_quote",
+      "focus_target": "line: \"we don't have much of it\" (about liberalism)",
+      "modality_gate_reason": "The comment timestamps a spoken moment; captions reliably transcribe the distinctive spoken line about liberalism, while the visual framing is generic, so audio is the best retrieval cue.",
+      "retrieval_keywords": [
+        "man says we don't have much of it",
+        "liberalism we don't have much of it",
+        "debate liberalism line",
+        "1:18 timestamp reference"
+      ],
+      "final_query": "clip: man in debate saying \"we don't have much of it\" about liberalism",
+      "notes": "Comment is just a timestamp. Visual cues are generic interview framing; the captions provide a clear spoken line suitable for audio-based retrieval. Visual_query left empty per guidelines.",
+      "input_tokens_est": 2116,
+      "output_tokens_est": 467,
+      "generated_at": "2026-04-27T21:06:09.797554"
+    }
+  ]
+}

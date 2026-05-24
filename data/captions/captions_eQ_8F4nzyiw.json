@@ -1,0 +1,609 @@
+{
+  "video_id": "eQ_8F4nzyiw",
+  "total_comments": 20,
+  "successful_comments": 20,
+  "failed_comments": 0,
+  "success_rate": "100.0%",
+  "comments": [
+    {
+      "comment_index": 3891,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "0:20 - I think Linus might have meant \"strap in\".  \"Strap on\" implies a whole different kind of party",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 752.0,
+      "comment_timestamp": 20.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "11.0s - 17.0s",
+          "query": "VISUAL: A man is standing in a kitchen with white cabinets and teal backsplash. He's wearing a black t - shirt and jeans. There are various items on the counter like boxes, plastic bags, and some papers. The man gestures towards these items while talking.AUDIO: Someone is speaking about PC builds, mentioning that they couldn't resist doing it again. It seems to be an excited or enthusiastic tone. There are no other distinct sounds apart from the speech. So, what do you think about building PCs? Have you ever tried it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "17.0s - 23.0s",
+          "query": "VISUAL: A man is standing in a kitchen. He's wearing a black t - shirt with some design on it and jeans. There are various items on the counter like a box wrapped in plastic, another box that looks like a product package, and some other small objects. The kitchen has white cabinets, a sink, and a teal backsplash.AUDIO: Someone is speaking in an excited or enthusiastic tone, saying \"with a sketchier twist so strap on guys because\". It seems to be building up for something interesting or unexpected.What do you think about the scene? Any guesses on what might happen next?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "23.0s - 29.0s",
+          "query": "VISUAL: A man is standing in a kitchen. He's holding some papers and seems to be talking or explaining something. There are various items on the counter like boxes and plastic-wrapped objects. The kitchen has white cabinets and a teal backsplash.AUDIO: Someone is speaking, saying \"I can pretty much guarantee that this is not gonna go according to plan.\" It's just one person speaking without any other background noises or music. So, what do you think about this? Any thoughts or questions?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 261.5276529788971
+    },
+    {
+      "comment_index": 3892,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "nobody talking about how he flipped the screwdriver at 12:40",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 689.0,
+      "comment_timestamp": 760.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "751.0s - 757.0s",
+          "query": "VISUAL: A man is working on a computer case that's open on a table. He seems to be handling some wires inside it. There are various tools and components around him on the table. The room has white cabinets and a teal wall. There's also a box labeled \"ASUS\" nearby.AUDIO: Someone is speaking about power supplies and mounting screws. It sounds like they're explaining something related to building or repairing a computer.If you have any other thoughts or questions about this video, feel free to share!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "757.0s - 763.0s",
+          "query": "VISUAL: A man is standing at a table with an open computer case on it. He's holding some small objects in his hands. There are various computer components and tools scattered around the table. The background shows a kitchen area with cabinets, a microwave, and some shelves with items on them.AUDIO: Someone is speaking, saying \"either they fell out of the gaping hole in the bottom of the box or they just weren't included.\" It seems like they're talking about something related to the computer components or packaging. So, what do you think might be going on here?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "763.0s - 769.0s",
+          "query": "VISUAL: A man is working on a computer case that's open on a table. He's using tools like screwdrivers to remove components. There are various wires inside the case. The room has white cabinets and some shelves with items on them. There's also a box on the table.AUDIO: Someone is speaking about salvaging power supply units from the computer case. It seems like they're explaining their plan or process. There are no other distinct sounds apart from the speech.If you have any more questions about the video or need further details, feel free to ask!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 259.05217266082764
+    },
+    {
+      "comment_index": 3893,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "Idk why but impressed by the screwdriver flip at 12:44😂",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 514.0,
+      "comment_timestamp": 764.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "755.0s - 761.0s",
+          "query": "VISUAL: A man is working on an open computer case on a table. He's wearing a black and gray hoodie. There are various tools and components around him like screws, cables, and boxes. The room has white cabinets and shelves with some items on them.AUDIO: Someone is speaking about mounting screws that either fell out or were lost. It seems to be a bit frustrated or confused about it.If you have any other thoughts or questions about the video, feel free to share!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "761.0s - 767.0s",
+          "query": "VISUAL: A man is working on a computer case that's open on a table. He seems to be assembling or fixing something inside it. There are various tools and components around him. The room has white cabinets and shelves with some items on them.AUDIO: Someone is speaking about salvaging a cup from something that wasn't included. It sounds like they're explaining their plan for dealing with a missing item related to the task at hand.If you have any other thoughts or questions about the video, feel free to share!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "767.0s - 773.0s",
+          "query": "VISUAL: A person is working on a computer case. They're using some tools to remove or adjust components inside it. There's a power supply unit lying nearby on the table. The table has various small screws scattered around.AUDIO: No distinct audio events can be heard in these 6 seconds. It's just the background noise from the work being done.If you have any other thoughts about this video or want to discuss something related, feel free to let me know."
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 225.53338837623596
+    },
+    {
+      "comment_index": 3894,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "12:43 was pretty smooth",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 485.0,
+      "comment_timestamp": 763.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "754.0s - 760.0s",
+          "query": "VISUAL: A man is working on a computer case that's open on a table. He seems to be handling some components inside it. There are various tools and parts scattered around him. The room has white cabinets and a teal wall. There's also a box with some items on the table.AUDIO: Someone is speaking about mounting screws for a product, mentioning that they either fell out or were lost due to a hole at the bottom of something. It sounds like an explanation or instruction. So, what do you think about this? Do you have any similar experiences?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "760.0s - 766.0s",
+          "query": "VISUAL: There's a man in a black hoodie with gray sleeves working on a computer case on a table. He's holding some small components and appears to be assembling or fixing something inside the case. The room has white cabinets, a teal wall, and various items like a fruit bowl and a shelf with boxes. There's also an oven in the background.AUDIO: A male voice is speaking about salvaging something from a box or not being included. It seems like he's explaining his plan for dealing with whatever situation he's in regarding these components.So, what do you think about this? Any thoughts or questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "766.0s - 772.0s",
+          "query": "VISUAL: There's someone working on some computer hardware. They're holding tools like screwdrivers and there are screws scattered around. You can see a power supply unit with its fan exposed. The person seems to be trying to fix or assemble something related to the power supply. There are also some wires visible inside the case.AUDIO: I don't hear any distinct speech, music, or sound effects in this short clip. It's mostly just the background noise from the work being done.If you have more questions about this or want to discuss something else, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 265.36147904396057
+    },
+    {
+      "comment_index": 3895,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "16:05 \"Fake NVIDIA GTX 1050 Ti.\"  Wait....shouldn't that have been a fake GTX 1060?   They even faked what fake they sent you!!!!! xD",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 483.0,
+      "comment_timestamp": 965.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "956.0s - 962.0s",
+          "query": "VISUAL: A man is sitting at a desk with a computer monitor in front of him. He's pointing at something on the screen which shows some kind of software or file management window. There are speakers on either side of the monitor and a desktop tower to the left. The background has some shelves with various items. The man seems focused on what he's doing.AUDIO: Someone is speaking about an \"N50 TI\" and mentions that Nvidia drivers are unpacking in the background. It sounds like they're explaining or demonstrating something related to technology.So, what do you think about this? Do you have any other videos you want me to analyze?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "962.0s - 968.0s",
+          "query": "VISUAL: A man is sitting at a desk with a computer monitor in front of him. He's pointing at something on the screen which shows some kind of hardware information. There are speakers on either side of the monitor and other items like tools or equipment in the background. The man has an earring and a tattoo on his hand.AUDIO: Someone says \"Hardware info and this is hilarious sandy bridge processor.\" It seems to be a casual conversation about the hardware shown on the screen.What do you think about the content? Do you have any other questions related to it?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "968.0s - 974.0s",
+          "query": "VISUAL: The video shows a computer monitor displaying some system information on an application interface. There's also a person sitting at a desk with a computer setup around them. You can see speakers, a keyboard, and other peripherals. The background has some shelves or cabinets with various items on them.AUDIO: Someone is speaking about a \"fake Nvidia GTX 1050 Ti\" and says it's not enough for something. It seems like they're discussing computer hardware or performance issues related to that GPU.If you have any more questions about this or want to discuss something else, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 297.49199199676514
+    },
+    {
+      "comment_index": 3896,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "1:02 when Linus zips up his hoodie and it perfectly lands in-between the grey and black",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 440.0,
+      "comment_timestamp": 62.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "53.0s - 59.0s",
+          "query": "VISUAL: A man is standing at a table with various boxes on it. He's wearing a black jacket over a graphic t - shirt. There are kitchen cabinets and utensils visible in the background. The scene seems to be set in a kitchen or similar area.AUDIO: Music is playing throughout the video. There's also some speech from the man, saying \"all right step one put up\". It sounds like he might be giving instructions or explaining something related to the boxes on the table.If you have any other thoughts about this video or want to discuss more details, feel free to let me know!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "59.0s - 65.0s",
+          "query": "VISUAL: There's a man standing at a table with various items on it like boxes and a computer monitor. He's wearing a black hoodie with some kind of design on it. He seems to be talking or explaining something while gesturing towards himself and then towards an image of another hoodie on the right side of the screen. The background shows a kitchen area with cabinets and a teal wall.AUDIO: A male voice is speaking throughout the clip. It starts off with \"on my LTT hoodie lttstore.com step two\" and continues with more of his explanation. There are no other distinct sounds apart from his speech.What do you think about the video? Do you have any questions regarding it?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "65.0s - 71.0s",
+          "query": "VISUAL: A man is standing in a kitchen - like setting with white cabinets and teal walls. He's wearing a black and gray hoodie. There are various items on the counter, including boxes and a sunflower decoration. The man picks up a large, black, boxy object wrapped in plastic. He seems to be talking about it.AUDIO: Someone is speaking, saying \"start unpacking this stuff so first up is our case you can tell that it's super high quality because even with my weak sauce let\". It sounds like they're explaining something about the item he picked up.If you have any other thoughts or questions about this video, feel free to share!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 308.444162607193
+    },
+    {
+      "comment_index": 3897,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "4:50 Satan himself giving Linus the price of the CPU lol",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 437.0,
+      "comment_timestamp": 290.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "281.0s - 287.0s",
+          "query": "VISUAL: There's a man in a black hoodie working on some computer components at a table. He seems to be assembling or fixing something related to a CPU. The room has white cabinets and teal walls. There are various computer parts and boxes around him.AUDIO: A male voice is speaking about an i3 - 2130 CPU, mentioning it was just what they had that was compatible. It sounds like he might be explaining or narrating something about the CPU compatibility.So, what do you think about this CPU? Have you used one before?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "287.0s - 293.0s",
+          "query": "VISUAL: There's a man in a black hoodie working on some computer components at a table. He seems to be assembling or fixing something. The room has white cabinets and teal walls. There are various boxes and computer parts scattered around the table.AUDIO: Someone is talking about paying for \"this guy\" and mentions $50. It sounds like they're discussing a price related to the work being done in the video.If you have any other thoughts or questions about it, feel free to share!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "293.0s - 299.0s",
+          "query": "VISUAL: A man is in a room with white cabinets and teal walls. He's wearing a black hoodie and has short hair. There are computer components on a table in front of him. He seems to be working on or examining something related to computers.AUDIO: Someone says \"seriously this is a ripoff so all\". It's a bit unclear who it is or why they're saying that. The tone seems somewhat frustrated or disappointed.If you want to talk more about this video or have other questions, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 291.17130398750305
+    },
+    {
+      "comment_index": 3898,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "That was the most swagger screwdriver move I've ever seen [USER]:43",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 395.0,
+      "comment_timestamp": 763.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "754.0s - 760.0s",
+          "query": "VISUAL: A man is working on a computer case that's open on a table. He seems to be handling some components inside it. There are various tools and parts scattered around him. The room has white cabinets and a teal wall. There's also a box with some items on the table.AUDIO: Someone is speaking about mounting screws for a product, mentioning that they either fell out or were lost due to a hole at the bottom of something. It sounds like an explanation or instruction. So, what do you think about this? Do you have any similar experiences?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "760.0s - 766.0s",
+          "query": "VISUAL: There's a man in a black hoodie with gray sleeves working on a computer case on a table. He's holding some small components and appears to be assembling or fixing something inside the case. The room has white cabinets, a teal wall, and various items like a fruit bowl and a shelf with boxes. There's also an oven in the background.AUDIO: A male voice is speaking about salvaging something from a box or not being included. It seems like he's explaining his plan for dealing with whatever situation he's in regarding these components.So, what do you think about this? Any thoughts or questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "766.0s - 772.0s",
+          "query": "VISUAL: There's someone working on some computer hardware. They're holding tools like screwdrivers and there are screws scattered around. You can see a power supply unit with its fan exposed. The person seems to be trying to fix or assemble something related to the power supply. There are also some wires visible inside the case.AUDIO: I don't hear any distinct speech, music, or sound effects in this short clip. It's mostly just the background noise from the work being done.If you have more questions about this or want to discuss something else, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 285.49419140815735
+    },
+    {
+      "comment_index": 3899,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "12:43 damn that's clean",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 282.0,
+      "comment_timestamp": 763.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "754.0s - 760.0s",
+          "query": "VISUAL: A man is working on a computer case that's open on a table. He seems to be handling some components inside it. There are various tools and parts scattered around him. The room has white cabinets and a teal wall. There's also a box with some items on the table.AUDIO: Someone is speaking about mounting screws for a product, mentioning that they either fell out or were lost due to a hole at the bottom of something. It sounds like an explanation or instruction. So, what do you think about this? Do you have any similar experiences?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "760.0s - 766.0s",
+          "query": "VISUAL: There's a man in a black hoodie with gray sleeves working on a computer case on a table. He's holding some small components and appears to be assembling or fixing something inside the case. The room has white cabinets, a teal wall, and various items like a fruit bowl and a shelf with boxes. There's also an oven in the background.AUDIO: A male voice is speaking about salvaging something from a box or not being included. It seems like he's explaining his plan for dealing with whatever situation he's in regarding these components.So, what do you think about this? Any thoughts or questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "766.0s - 772.0s",
+          "query": "VISUAL: There's someone working on some computer hardware. They're holding tools like screwdrivers and there are screws scattered around. You can see a power supply unit with its fan exposed. The person seems to be trying to fix or assemble something related to the power supply. There are also some wires visible inside the case.AUDIO: I don't hear any distinct speech, music, or sound effects in this short clip. It's mostly just the background noise from the work being done.If you have more questions about this or want to discuss something else, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 294.07296562194824
+    },
+    {
+      "comment_index": 3900,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "0:20  \"strap on guys\" me- \"strap in dear god pls tell me he meant strap in\"",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 279.0,
+      "comment_timestamp": 20.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "11.0s - 17.0s",
+          "query": "VISUAL: A man is standing in a kitchen with white cabinets and teal backsplash. He's wearing a black t - shirt and jeans. There are various items on the counter like boxes, plastic bags, and some papers. The man gestures towards these items while talking.AUDIO: Someone is speaking about PC builds, mentioning that they couldn't resist doing it again. It seems to be an excited or enthusiastic tone. There are no other distinct sounds apart from the speech. So, what do you think about building PCs? Have you ever tried it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "17.0s - 23.0s",
+          "query": "VISUAL: A man is standing in a kitchen. He's wearing a black t - shirt with some design on it and jeans. There are various items on the counter like a box wrapped in plastic, another box that looks like a product package, and some other small objects. The kitchen has white cabinets, a sink, and a teal backsplash.AUDIO: Someone is speaking in an excited or enthusiastic tone, saying \"with a sketchier twist so strap on guys because\". It seems to be building up for something interesting or unexpected.What do you think about the scene? Any guesses on what might happen next?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "23.0s - 29.0s",
+          "query": "VISUAL: A man is standing in a kitchen. He's holding some papers and seems to be talking or explaining something. There are various items on the counter like boxes and plastic-wrapped objects. The kitchen has white cabinets and a teal backsplash.AUDIO: Someone is speaking, saying \"I can pretty much guarantee that this is not gonna go according to plan.\" It's just one person speaking without any other background noises or music. So, what do you think about this? Any thoughts or questions?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 252.58984327316284
+    },
+    {
+      "comment_index": 3901,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "3:57 Tekashi69 took a really big career change since going into protection",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 263.0,
+      "comment_timestamp": 237.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "228.0s - 234.0s",
+          "query": "VISUAL: A man is standing at a desk in an office or workshop setting. He's holding a piece of paper with some writing on it. There are various computer components like boxes and a monitor on the desk. The background shows cabinets and other typical office furniture.AUDIO: Someone says \"full testing okay all right so this is clearly a very\" in a neutral tone.What do you think about this? Do you have any other questions related to the video?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "234.0s - 240.0s",
+          "query": "VISUAL: A person is holding up a blue computer motherboard with some water droplets on it. They're in a room that looks like an office or workshop, with desks, chairs, and computer equipment around. There's another person sitting in the background. The person holding the motherboard puts it down and starts working on something else.AUDIO: Someone is speaking about a used board, asking if it was clear from the listing that it would be used, and then asking how much they paid for it. It seems to be a conversation between two people. So, what do you think about this? Do you have any other questions related to this?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "240.0s - 246.0s",
+          "query": "VISUAL: A man is holding a motherboard labeled \"Gigabyte $46 GA-H61M-USB3-B3\" in his hands. He seems to be examining it closely. There's some computer equipment around him like a black computer case on a table. The background shows shelves with various items and an oven or similar appliance.The AUDIO: Someone is speaking about the price of the motherboard, saying \"$46 for an H61 board that's not even a good deal.\" They also ask why people would buy it at that price.If you have any other thoughts or questions about this video, feel free to share!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 278.0606427192688
+    },
+    {
+      "comment_index": 3902,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "12:43 That was so smooth",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 261.0,
+      "comment_timestamp": 763.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "754.0s - 760.0s",
+          "query": "VISUAL: A man is working on a computer case that's open on a table. He seems to be handling some components inside it. There are various tools and parts scattered around him. The room has white cabinets and a teal wall. There's also a box with some items on the table.AUDIO: Someone is speaking about mounting screws for a product, mentioning that they either fell out or were lost due to a hole at the bottom of something. It sounds like an explanation or instruction. So, what do you think about this? Do you have any similar experiences?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "760.0s - 766.0s",
+          "query": "VISUAL: There's a man in a black hoodie with gray sleeves working on a computer case on a table. He's holding some small components and appears to be assembling or fixing something inside the case. The room has white cabinets, a teal wall, and various items like a fruit bowl and a shelf with boxes. There's also an oven in the background.AUDIO: A male voice is speaking about salvaging something from a box or not being included. It seems like he's explaining his plan for dealing with whatever situation he's in regarding these components.So, what do you think about this? Any thoughts or questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "766.0s - 772.0s",
+          "query": "VISUAL: There's someone working on some computer hardware. They're holding tools like screwdrivers and there are screws scattered around. You can see a power supply unit with its fan exposed. The person seems to be trying to fix or assemble something related to the power supply. There are also some wires visible inside the case.AUDIO: I don't hear any distinct speech, music, or sound effects in this short clip. It's mostly just the background noise from the work being done.If you have more questions about this or want to discuss something else, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 300.7279944419861
+    },
+    {
+      "comment_index": 3903,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "12:42 that was a smooth af screwdriver draw from the pocket 😂🔥",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 253.0,
+      "comment_timestamp": 762.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "753.0s - 759.0s",
+          "query": "VISUAL: A man is working on a computer case that's open on a table. He seems to be handling some components inside it. There are various tools and parts scattered around him. The room has white cabinets and a teal wall. There's also a box with some papers or instructions next to the computer case.AUDIO: Someone is speaking about mounting screws for a gay pad, mentioning that they either fell out or something else happened. It sounds like an explanation or instruction related to assembling or repairing something.If you have any other thoughts or questions about this video, feel free to share!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "759.0s - 765.0s",
+          "query": "VISUAL: There's a man in a black and gray hoodie working on a computer case that's open on a table. He seems to be assembling or fixing something inside it. The room has white cabinets with teal accents, some shelves with various items like bottles and boxes, and there are sunflower decorations on the counter.AUDIO: A male voice is speaking about making a hole in the bottom of a box or something not being included, and then says they're going to do something next. It's just his voice without any other background noises.If you have any more questions about the video or want to discuss it further, feel free to let me know!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "765.0s - 771.0s",
+          "query": "VISUAL: There's a person working on a computer case that's open. You can see the inside components like wires and fans. The person is using tools to handle some screws. There are also various items on the table around the computer case, like a box with papers and other small objects.AUDIO: I don't hear any distinct speech or music in this short clip. It seems pretty quiet overall.What do you think about the video? Do you have any other questions related to it?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 275.9622230529785
+    },
+    {
+      "comment_index": 3904,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "The way he holds that disc at 16:55 gives me PTSD from how my grandma holds discs. 🤦‍♀️  Great vid tho",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 212.0,
+      "comment_timestamp": 1015.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "1006.0s - 1012.0s",
+          "query": "VISUAL: There's a computer setup with an open case showing its internal components like fans and cables. A monitor displays some code or text on one side and has \"linustechtips\" logo on it. In front of the monitor is a person wearing a black shirt with blue stripes on the back, looking at the screen. The background shows shelves with various items and plants.AUDIO: Someone says \"Successfully installed the driver it still reports as a 1050 ti interesting.\" It seems to be a voiceover or someone talking about something related to the computer setup. So, what do you think might be going wrong here?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "1012.0s - 1018.0s",
+          "query": "VISUAL: There's a man with short hair wearing a black shirt standing in front of an open computer case. He seems to be working on it. Behind him is a monitor displaying \"linustechtips\" logo. The background has some shelves with various items like tools and plants.AUDIO: A male voice is speaking about installing something from a driver disk. It sounds like he's explaining or narrating a process.If you have any other thoughts or questions about this video, feel free to share!"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "1018.0s - 1024.0s",
+          "query": "VISUAL: A hand is holding up a black CD with green stripes and \"GeForce\" written on it. In the background, there's a computer setup with colorful lights, like rainbow fans inside the case. There's also a monitor showing some kind of software interface. The person holding the CD then puts it into a desktop computer.AUDIO: Someone is speaking about the drivers on the CD, saying it looks legitimate but seems to have issues. It's just their voice, no other sounds or music. So, what do you think about this? Do you have any experience with installing drivers from CDs?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 270.47494530677795
+    },
+    {
+      "comment_index": 3905,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "3:59  Linus: How much did we pay for this bad boy? Satan after eating a snickers: $46",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 151.0,
+      "comment_timestamp": 239.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "230.0s - 236.0s",
+          "query": "VISUAL: A man is holding up a blue computer motherboard with some wear on it. He's standing at a table in a room that looks like an office or workshop. There are other computer components around him.AUDIO: Someone is speaking about how the board is clearly very used. It seems to be a discussion about the condition of the board based on its appearance. What do you think about the condition of the board?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "236.0s - 242.0s",
+          "query": "VISUAL: A man is holding up a motherboard in his hands while standing in front of some computer parts on a table. There's another person sitting in the background. The room has shelves with various items and an oven. The man is wearing a black hoodie and white pants.AUDIO: Someone says \"it was gonna be used okay how much did we pay for this bad boy $46.\" It seems like they're discussing the price of the item being shown.What do you think about the video? Do you have any other questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "242.0s - 248.0s",
+          "query": "VISUAL: A man is holding up a motherboard. He's wearing a black hoodie with gray sleeves. There's an oven in the background along with some computer components on a table. The motherboard has various chips and connectors on it.AUDIO: Someone is speaking about an H61 board, saying it's not a good deal and questioning why people buy such things. They also ask if I know how much something costs. It seems like they're discussing the price or value of the motherboard.If you have any other thoughts or questions about this, feel free to share!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 234.31028699874878
+    },
+    {
+      "comment_index": 3906,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "12:43 that was badass",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 136.0,
+      "comment_timestamp": 763.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "754.0s - 760.0s",
+          "query": "VISUAL: A man is working on a computer case that's open on a table. He seems to be handling some components inside it. There are various tools and parts scattered around him. The room has white cabinets and a teal wall. There's also a box with some items on the table.AUDIO: Someone is speaking about mounting screws for a product, mentioning that they either fell out or were lost due to a hole at the bottom of something. It sounds like an explanation or instruction. So, what do you think about this? Do you have any similar experiences?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "760.0s - 766.0s",
+          "query": "VISUAL: There's a man in a black hoodie with gray sleeves working on a computer case on a table. He's holding some small components and appears to be assembling or fixing something inside the case. The room has white cabinets, a teal wall, and various items like a fruit bowl and a shelf with boxes. There's also an oven in the background.AUDIO: A male voice is speaking about salvaging something from a box or not being included. It seems like he's explaining his plan for dealing with whatever situation he's in regarding these components.So, what do you think about this? Any thoughts or questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "766.0s - 772.0s",
+          "query": "VISUAL: There's someone working on some computer hardware. They're holding tools like screwdrivers and there are screws scattered around. You can see a power supply unit with its fan exposed. The person seems to be trying to fix or assemble something related to the power supply. There are also some wires visible inside the case.AUDIO: I don't hear any distinct speech, music, or sound effects in this short clip. It's mostly just the background noise from the work being done.If you have more questions about this or want to discuss something else, feel free to let me know!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 285.5510907173157
+    },
+    {
+      "comment_index": 3907,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "12:41 the way they pulled out that screwdriver was so satisfying",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 130.0,
+      "comment_timestamp": 761.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "752.0s - 758.0s",
+          "query": "VISUAL: A man is working on an open computer case on a table. He's wearing a black and gray hoodie. There are various computer components and tools around him. The room has white cabinets and teal walls. There's also some clutter like boxes and papers on the table.AUDIO: Someone is speaking about a power supply that should come with mounting screws, but they seem to be missing. It's just speech without any other sound effects or background noise.If you have any more questions about the video or want to discuss something else, feel free to let me know!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "758.0s - 764.0s",
+          "query": "VISUAL: There's a man in a black hoodie with \"LINUX\" written on it. He's standing at a table working on some computer hardware. The room has white cabinets and shelves filled with various items. There's an open computer case on the table with wires visible inside.AUDIO: A male voice is speaking about something falling out of a box or not being included. It seems like he's explaining a situation related to the computer hardware he's working on.So, what do you think about this? Any thoughts or questions?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "764.0s - 770.0s",
+          "query": "VISUAL: A man is working on a computer case that's open on a table. He's using tools to remove screws from inside the case. There are various computer components visible like fans and cables. The background shows some shelves with items and a wall painted light blue.AUDIO: Someone is speaking about salvaging power supply compatible screws. It seems like they're explaining or narrating something related to the task at hand.If you have any other thoughts or questions about this video, feel free to share!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 277.7643449306488
+    },
+    {
+      "comment_index": 3908,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "16:08 LOL I had never see that FAKE mark on hwinfo XD",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 113.0,
+      "comment_timestamp": 968.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "959.0s - 965.0s",
+          "query": "VISUAL: A man is sitting at a desk with a computer monitor in front of him. He's pointing at something on the screen which shows some kind of software interface. There are speakers on either side of the monitor and a desktop tower to the left. The background has shelves with various items on them.AUDIO: Someone is speaking about \"packing\" in the background while they talk about firing up hardware info and mention that it's \"hella.\".If you have any other thoughts or questions about this video, feel free to share!"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "965.0s - 971.0s",
+          "query": "VISUAL: A man is sitting at a desk with a computer monitor in front of him. He's pointing to something on the screen which shows some system information like CPU details and GPU info. There's also a desktop tower next to the monitor.AUDIO: Someone says \"hilarious sandybridge processor fake nvidia gtx 1050 ti.\" It seems like they're making a joke or comment about the computer components shown on the screen.What do you think about that? Do you have any other thoughts on the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "971.0s - 977.0s",
+          "query": "VISUAL: There's a man sitting at a desk with a computer monitor displaying some kind of software interface. He seems to be looking at it closely. The room has various items like tools on the wall behind him. There are also speakers and other computer components visible.AUDIO: A male voice is speaking. He says \"fake it's not it's not one fake is not enough for this two fakes so this is a GF what.\" It sounds like he might be explaining something related to the software or hardware shown on the screen.What do you think about this? Do you have any ideas on what he could be talking about?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 269.81922149658203
+    },
+    {
+      "comment_index": 3909,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "0:20 \"strap on guys\" that awkward moment you vocalise your browsing history",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 112.0,
+      "comment_timestamp": 20.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "11.0s - 17.0s",
+          "query": "VISUAL: A man is standing in a kitchen with white cabinets and teal backsplash. He's wearing a black t - shirt and jeans. There are various items on the counter like boxes, plastic bags, and some papers. The man gestures towards these items while talking.AUDIO: Someone is speaking about PC builds, mentioning that they couldn't resist doing it again. It seems to be an excited or enthusiastic tone. There are no other distinct sounds apart from the speech. So, what do you think about building PCs? Have you ever tried it?"
+        },
+        {
+          "segment_index": 2,
+          "time_range": "17.0s - 23.0s",
+          "query": "VISUAL: A man is standing in a kitchen. He's wearing a black t - shirt with some design on it and jeans. There are various items on the counter like a box wrapped in plastic, another box that looks like a product package, and some other small objects. The kitchen has white cabinets, a sink, and a teal backsplash.AUDIO: Someone is speaking in an excited or enthusiastic tone, saying \"with a sketchier twist so strap on guys because\". It seems to be building up for something interesting or unexpected.What do you think about the scene? Any guesses on what might happen next?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "23.0s - 29.0s",
+          "query": "VISUAL: A man is standing in a kitchen. He's holding some papers and seems to be talking or explaining something. There are various items on the counter like boxes and plastic-wrapped objects. The kitchen has white cabinets and a teal backsplash.AUDIO: Someone is speaking, saying \"I can pretty much guarantee that this is not gonna go according to plan.\" It's just one person speaking without any other background noises or music. So, what do you think about this? Any thoughts or questions?"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 303.88333439826965
+    },
+    {
+      "comment_index": 3910,
+      "video_id": "eQ_8F4nzyiw",
+      "comment": "1:29 \"good quality case\"  1 second later: *bends the case *",
+      "language": "en",
+      "channel_name": "LinusTechTips",
+      "category": "technology",
+      "likes": 108.0,
+      "comment_timestamp": 89.0,
+      "total_duration": "18s (3 segments of 6s each)",
+      "segments": [
+        {
+          "segment_index": 1,
+          "time_range": "80.0s - 86.0s",
+          "query": "VISUAL: A man is in a kitchen holding up a black box with a blue cover. He seems to be excited or surprised. There's some kind of object on the counter next to him. The background shows typical kitchen elements like cabinets and a sink.AUDIO: There's a man speaking, saying \"yes oh that was not a good choice\" twice. It also has a musical background."
+        },
+        {
+          "segment_index": 2,
+          "time_range": "86.0s - 92.0s",
+          "query": "VISUAL: A man is holding up a black computer case. He's wearing a black hoodie with gray panels on the sides. The background shows a kitchen area with white cabinets, an oven, and some shelves with various items like bottles and boxes. There's also a teal wall section visible.AUDIO: Someone is speaking about how the case feels better quality than plastic. It seems to be a casual conversation or commentary. So, what do you think about that? Do you have any other thoughts on the video?"
+        },
+        {
+          "segment_index": 3,
+          "time_range": "92.0s - 98.0s",
+          "query": "VISUAL: A man is holding a computer case. He seems to be looking at it closely while touching different parts of it. The background shows some shelves with various items on them.AUDIO: There's a man speaking. He says \"Oh crap I bent it so I was holding it by the IO cutout.\" It also has some music playing in the background.If you have any other thoughts or questions about this video, feel free to share!"
+        }
+      ],
+      "analysis_type": "optimized_video_analysis",
+      "processing_time": 201.6095061302185
+    }
+  ]
+}

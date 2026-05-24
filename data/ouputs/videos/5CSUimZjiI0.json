@@ -1,0 +1,79 @@
+{
+  "video_id": "5CSUimZjiI0",
+  "num_results": 2,
+  "results": [
+    {
+      "video_id": "5CSUimZjiI0",
+      "comment_index": 13701,
+      "category": "culture",
+      "comment_timestamp": 148.0,
+      "comment": "2:28",
+      "comment_focus_summary": "The commenter is pointing to a specific timestamp (2:28) to show the moment they care about, likely a line or claim in the speaker's explanation about art as an investment.",
+      "comment_focus_keywords": [
+        "timestamp 2:28",
+        "art investment",
+        "speaker claim",
+        "Banksy reference"
+      ],
+      "integrated_visual": "Single presenter standing indoors with shelves, plants, and decorative items; patterned shirt and occasional text overlay.",
+      "integrated_audio": "Speaker discussing getting art into your portfolio cheaply and an example about Masterworks selling Banksy's 'Mona Lisa' with a 32% annualized return.",
+      "grounded_visual_evidence": "Presenter visible against shelves and decor; patterned shirt and on-screen text overlay mentioned in segments.",
+      "grounded_audio_evidence": "Spoken lines about putting art in your portfolio for a fraction of cost and about Masterworks selling Banksy's 'Mona Lisa' yielding ~32% return.",
+      "visual_query": "",
+      "audio_query": "speaker explains putting art into your portfolio cheaply and mentions Masterworks selling Banksy's \"Mona Lisa\" with a 32% annualized return",
+      "primary_modality_hint": "audio",
+      "audio_subtype": "speech",
+      "visual_focus": "none",
+      "audio_focus": "spoken_topic",
+      "focus_target": "claim about art investment / Masterworks 32% return",
+      "modality_gate_reason": "The comment is a timestamp pointing to a spoken claim; captions describe specific spoken content (art investment example and Masterworks/Banksy) while visuals are generic presenter framing.",
+      "retrieval_keywords": [
+        "art into your portfolio fraction of cost",
+        "Masterworks Banksy Mona Lisa 32% return",
+        "putting art in your portfolio example"
+      ],
+      "final_query": "speaker explains putting art into your portfolio cheaply; mentions Masterworks selling Banksy's \"Mona Lisa\" with a 32% annualized 32% return",
+      "notes": "Comment only gives a timestamp. Visuals are generic presenter framing; audio captions provide the concrete retrieval cues. No verbatim transcript in captions, so audio_query is a paraphrase of the spoken topic.",
+      "input_tokens_est": 2095,
+      "output_tokens_est": 515,
+      "generated_at": "2026-04-27T21:26:31.762766"
+    },
+    {
+      "video_id": "5CSUimZjiI0",
+      "comment_index": 13702,
+      "category": "culture",
+      "comment_timestamp": 166.0,
+      "comment": "One way only. Make a joke  of Mohamed every day. 😅😅😅😅in the morning, i 2:46 n the. News, in your T shiert",
+      "comment_focus_summary": "The commenter is joking about making fun of 'Mohamed' daily and refers to a time and 'T shirt'—they seem to be reacting to something said or shown in the clip (a spoken line or on-screen image) that they think could be turned into a recurring joke or printed on a T‑shirt.",
+      "comment_focus_keywords": [
+        "joke about Mohamed",
+        "every day",
+        "2:46",
+        "T shirt"
+      ],
+      "integrated_visual": "frames show: (1) two presenters beside a large screen with a woman's face with red eyes; (2) a person standing indoors by shelves and a framed picture; (3) two police officers outside in uniform.",
+      "integrated_audio": "voiceover about Banksy 'Mona Lisa' sale returns (segment 1); spoken sentence 'past performance is no guarantee of future results but if you want to check them out.' (segment 2); background city noise (segment 3).",
+      "grounded_visual_evidence": "Segment 1: large screen displaying a woman's face with red eyes next to two presenters; Segment 2: single person indoors by shelves; Segment 3: two police officers outside.",
+      "grounded_audio_evidence": "Segment 1 voiceover mentions Banksy's 'Mona Lisa' sale returning over thirty percent; Segment 2 contains spoken line 'past performance is no guarantee of future results but if you want to check them out.' Segment 3 has only background noise.",
+      "visual_query": "",
+      "audio_query": "Banksy Mona Lisa sale returned over thirty percent voiceover; 'past performance is no guarantee of future results but if you want to check them out' line",
+      "primary_modality_hint": "audio",
+      "audio_subtype": "speech",
+      "visual_focus": "none",
+      "audio_focus": "spoken_topic",
+      "focus_target": "Banksy 'Mona Lisa' sale voiceover / disclaimer line",
+      "modality_gate_reason": "The comment references a mockable phrase or image, but the captions actually contain distinctive spoken lines about Banksy's sale and a financial disclaimer; visual frames are generic and not uniquely tied to the comment, so audio best grounds retrieval.",
+      "retrieval_keywords": [
+        "Banksy Mona Lisa voiceover",
+        "returned over thirty percent",
+        "past performance is no guarantee of future results",
+        "financial disclaimer line"
+      ],
+      "final_query": "voiceover Banksy \"Mona Lisa\" sale returned over thirty percent; then 'past performance is no guarantee of future results' line",
+      "notes": "The comment mentions 'Mohamed', a time and T‑shirt which are not supported by the captions. Visual content is generic; retrieval should use the spoken sale update and disclaimer lines. If user actually meant a visual joke or a person named Mohamed, that is not grounded here.",
+      "input_tokens_est": 2107,
+      "output_tokens_est": 645,
+      "generated_at": "2026-04-27T21:26:44.792633"
+    }
+  ]
+}
