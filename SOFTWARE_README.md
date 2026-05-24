@@ -26,7 +26,6 @@ A pipeline that collects and analyzes YouTube video comments, combines them with
 - **Comment crawling**: Per-video comment collection with parallel workers
 - **Comment preprocessing**: Timestamp extraction, deduplication, language filtering
 - **Video caption generation**: Segment-level visual/audio descriptions (FFmpeg + AI)
-- **Segment integration**: Merge multiple segments into single captions (LLM)
 - **Modality gating**: Structured LLM-based filtering into visual/audio/mixed/unrelated
 - **Moment query generation**: Structured query fields from grounded gating outputs
 
