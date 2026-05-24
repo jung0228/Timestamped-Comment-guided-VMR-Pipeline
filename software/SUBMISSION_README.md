@@ -2,6 +2,8 @@
 
 This archive contains anonymized code for the TCVP data construction pipeline.
 
+Start with `README.md` for the end-to-end pipeline commands. The main paper-version scripts are `pipeline/modality_gating.py` and `pipeline/query_generator.py`.
+
 ## Contents
 
 - `pipeline/`: scripts for video discovery, comment crawling, caption generation, modality gating, segment integration, and query generation.
