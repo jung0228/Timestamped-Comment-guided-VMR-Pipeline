@@ -30,7 +30,45 @@ except ImportError:
 
 
 DEFAULT_MODEL = "gpt-5-mini"
-PROMPT_DIR = Path(__file__).resolve().parents[1] / "prompts"
+GATING_SYSTEM_PROMPT = """You are helping build a research pipeline for comment-grounded video moment retrieval.
+
+Input
+- a YouTube comment
+- three consecutive raw segment captions around the comment timestamp
+
+Task
+- Identify the user's main focus.
+- Keep only the part supported by the segment captions.
+- Assign one grounded modality gate: visual, audio, mixed, or unrelated.
+- Do not generate retrieval queries in this step.
+
+Rules
+- Use only evidence grounded in the comment and the provided segment captions.
+- Do not invent dialogue, sounds, objects, text, or actions not supported by the captions.
+- The comment determines the user focus.
+- If the comment is noisy, generic, meme-like, or poorly grounded, state that explicitly.
+- Quoted text in the comment is not enough to justify audio evidence unless the captions support spoken words, singing, narration, or a distinctive sound event.
+- Generic statements such as "someone is speaking" are not strong audio evidence.
+- Treat generic visual framing as weak visual evidence.
+- Use mixed only when both visual and audio evidence are individually distinctive and both are needed for retrieval.
+- If the comment is not well grounded, set primary_modality_hint to unrelated.
+
+Return valid JSON only.
+{
+  "comment_focus_summary": "what the commenter seems to care about most",
+  "comment_focus_keywords": ["2-5 short focus keywords"],
+  "integrated_visual": "brief dense visual summary from the captions",
+  "integrated_audio": "brief dense audio summary from the captions",
+  "grounded_visual_evidence": "short grounded visual evidence summary",
+  "grounded_audio_evidence": "short grounded audio evidence summary",
+  "primary_modality_hint": "visual | audio | mixed | unrelated",
+  "audio_subtype": "speech | non_speech_audio | music | none",
+  "visual_focus": "action | facial_expression | object | scene | text_on_screen | interaction | none",
+  "audio_focus": "spoken_quote | spoken_topic | music | non_speech_sound | crowd_reaction | none",
+  "focus_target": "short grounded phrase naming the main cue",
+  "modality_gate_reason": "brief explanation of why the chosen modality gate fits the user's grounded focus",
+  "notes": "short note about weak evidence, unsupported details, or ambiguity"
+}"""
 GATING_KEYS = [
     "comment_focus_summary",
     "comment_focus_keywords",
@@ -49,7 +87,7 @@ GATING_KEYS = [
 
 
 def load_prompt() -> str:
-    return (PROMPT_DIR / "comment_filtering_modality_gating.txt").read_text(encoding="utf-8")
+    return GATING_SYSTEM_PROMPT
 
 
 def strip_code_fence(text: str) -> str:
@@ -217,7 +255,7 @@ def process_file(
     output["modality_gating_metadata"] = {
         "input_file": input_file.name,
         "model": gater.model if gater else "existing_fields",
-        "prompt_file": "prompts/comment_filtering_modality_gating.txt",
+        "prompt_source": "pipeline/modality_gating.py:GATING_SYSTEM_PROMPT",
         "processed_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
     }
     output_file.parent.mkdir(parents=True, exist_ok=True)

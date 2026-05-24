@@ -29,7 +29,38 @@ except ImportError:
 
 
 DEFAULT_MODEL = "gpt-5-mini"
-PROMPT_DIR = Path(__file__).resolve().parents[1] / "prompts"
+QUERY_SYSTEM_PROMPT = """You are generating query fields for video moment retrieval from a retained timestamped comment and its modality gating output.
+
+Input
+- the original YouTube comment
+- the modality label: visual, audio, mixed, or unrelated
+- the comment focus
+- grounded visual caption
+- grounded audio caption
+- retrieval keywords
+
+Rules
+- Preserve the grounded comment focus as the main cue.
+- Use only the grounded evidence provided by the gating output.
+- Remove timestamps, usernames, emojis, filler, and unsupported details.
+- Do not invent dialogue, sounds, objects, text, actions, or context.
+- Write specific, timestamp-free queries that can be used to retrieve the target moment.
+
+Field rules
+- If the label is visual, fill visual_query and final_query using grounded visual evidence.
+- If the label is audio, fill audio_query and final_query using grounded audio evidence.
+- If the label is mixed, use both grounded visual and grounded audio evidence in the corresponding fields and in final_query when both are needed.
+
+Return valid JSON only.
+{
+  "visual_query": "query using grounded visual evidence, or empty string",
+  "audio_query": "query using grounded audio evidence, or empty string",
+  "final_query": "query for retrieving the target moment, or empty string if unrelated",
+  "used_visual_support": true,
+  "used_audio_support": true,
+  "query_keywords": ["2-6 grounded cue phrases used in the final query"],
+  "query_reason": "brief reason for how the query follows the modality label and grounded evidence"
+}"""
 QUERY_KEYS = [
     "visual_query",
     "audio_query",
@@ -42,7 +73,7 @@ QUERY_KEYS = [
 
 
 def load_prompt() -> str:
-    return (PROMPT_DIR / "query_generation_from_gating_output.txt").read_text(encoding="utf-8")
+    return QUERY_SYSTEM_PROMPT
 
 
 def strip_code_fence(text: str) -> str:
@@ -220,7 +251,7 @@ def process_file(
     output["query_generation_metadata"] = {
         "input_file": input_file.name,
         "model": generator.model,
-        "prompt_file": "prompts/query_generation_from_gating_output.txt",
+        "prompt_source": "pipeline/query_generator.py:QUERY_SYSTEM_PROMPT",
         "regenerate": regenerate,
         "processed_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
     }

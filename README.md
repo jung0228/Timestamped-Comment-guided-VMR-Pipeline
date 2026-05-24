@@ -5,7 +5,6 @@ This repository contains anonymized supplementary materials for a double-blind r
 ## Contents
 
 - `pipeline/`: anonymized pipeline code for video discovery, timestamped-comment processing, modality-specific captioning, comment filtering, modality gating, and query generation.
-- `prompts/`: prompt templates used for modality-specific captioning, modality gating, and query generation.
 - `data/`: anonymized processed data used to inspect the pipeline outputs, including video IDs, timestamps, categories, modality labels, grounded evidence fields, and generated retrieval queries.
 - `requirements.txt`: Python dependencies.
 
@@ -64,7 +63,7 @@ python pipeline/modality_gating.py data/captions --output data/gated_outputs
 python pipeline/query_generator.py data/gated_outputs --output data/query_outputs
 ```
 
-The prompt templates used by the paper-version pipeline are in `prompts/`.
+The paper-version gating and query-generation prompts are embedded in the corresponding pipeline scripts.
 
 ## Data Files
 
